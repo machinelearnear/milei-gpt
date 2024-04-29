@@ -1,0 +1,35 @@
+# To use:
+#   $ conda env create -f environment.yml
+#   $ conda activate <name>
+name: machinelearnear-dev
+channels:
+  - pytorch
+#   - nvidia
+#   - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - nb_conda_kernels
+  - ipykernel
+  - ipywidgets
+  - gh
+  - ffmpeg
+  - libsndfile
+  - pytorch
+  - torchaudio
+  # - pytorch-cuda=11.8
+  - pip:
+    # - git+https://github.com/e-p-armstrong/augmentool.git
+    - git+https://github.com/m-bain/whisperx.git
+    - yt-dlp
+    - gradio
+    - transformers
+    - protobuf
+    - sentencepiece
+    - matplotlib
+    - nltk
+    - openai
+    - decord
+    - pytube @ git+https://github.com/oncename/pytube.git
+    - imageio
+    - pyannote.audio
