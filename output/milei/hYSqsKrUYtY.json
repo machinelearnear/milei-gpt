@@ -1,0 +1,719 @@
+{
+    "Index": 8,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "hYSqsKrUYtY",
+    "url": "https://www.youtube.com/watch?v=hYSqsKrUYtY",
+    "title": "MILEI DESBURRÓ A PERIODISTA ZURDO DE ESTADOS UNIDOS",
+    "duration": 2238.0,
+    "view_count": 540449,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2.94,
+            "end_time": 44.648,
+            "text": "Hola, ¿qué tal?  Soy Andrés Oppenheimer.  Estamos acá en la Plaza de Mayo, en Argentina, frente a la Casa Rosada, la Casa de Gobierno, donde vamos a entrevistar al presidente argentino Javier Milei.  Le vamos a preguntar, vamos a ver si nos contesta, un poco de todo.  Vamos a preguntarle, ahora que cumplió más de cien días en el gobierno, ¿cuáles son sus mayores logros y sus mayores equivocaciones desde que asumió el poder?  ¿Qué piensa de Venezuela, de Colombia, de sus presidentes, del presidente de México, del Papa?  Y otras cosas, como si es cierto que duerme tres horas por noche.  Vamos a la entrevista.  Presidente, Javier Milei, muchísimas gracias por darnos esta entrevista. ",
+            "cosine_dist": 0.9188050171941567,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 45.268,
+            "end_time": 47.028,
+            "text": "¿Qué tal, Andrés?  Un gusto enorme. ",
+            "cosine_dist": 0.7706212007062161,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 47.048,
+            "end_time": 59.19,
+            "text": "Presidente, ya han pasado más de cien días desde que asumió el mando.  ¿Dirías que fue su mayor logro en estos más de cien días y su mayor equivocación? ",
+            "cosine_dist": 0.9907692019124632,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 60.83,
+            "end_time": 173.93,
+            "text": "Bueno, el mayor logro es haber evitado la hiperinflación.  Cuando nosotros estábamos llegando al gobierno, la inflación en la primera semana de diciembre venía viajando a un ritmo del tres mil setecientos anual.  en los primeros quince días aceleró a siete mil quinientos por ciento anual.  para aquellos que dicen que esto es una elucubración teórica la inflación mayorista del mes de diciembre fue del cincuenta y cuatro por ciento mensual que anualizado da diecisiete mil anual.  y ese era el contexto donde nosotros llegamos.  Básicamente enfrentábamos déficit gemelos por diecisiete puntos del PBI.  De esos diecisiete puntos, quince eran explicados por el déficit fiscal, donde cinco correspondían al Tesoro y diez al Banco Central.  Además, el gobierno anterior había financiado con emisión monetaria de manera directa o indirecta por trece puntos del PBI cuando la base monetaria de Argentina es de dos coma seis.  o sea había plantado una multiplicación de la cantidad de dinero de cinco veces.  no sólo eso sino que el balance del Banco Central que estaba quebrado y que básicamente tenía una relación de tres a uno de pasivos monetarios remunerados respecto a la base los habían pasado todos a un día con lo cual podíamos haber cuadruplicado la cantidad de dinero en un día.  Y en ese contexto nosotros encaramos un ajuste fiscal muy fuerte.  Nosotros pensábamos alcanzar el déficit cero para el año completo, dos mil veinticuatro, y lo hicimos con tanta fuerza que lo alcanzamos en el primer mes del año.  Eso implicó cortar con la emisión monetaria.  Al cortar con la emisión monetaria... ",
+            "cosine_dist": 0.41272902604690764,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 173.95,
+            "end_time": 175.711,
+            "text": "O sea, no emiten dinero. ",
+            "cosine_dist": 0.943555704321435,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 175.751,
+            "end_time": 247.574,
+            "text": "No emitimos dinero.  Es más, de hecho, si usted toma hoy la base monetaria, es prácticamente la misma que tuvimos... ...al inicio de la gestión... ...y eso que compramos... ...dólares por el equivalente de once mil millones de dólares... ...tuvimos que pagar los puts que dejó el gobierno anterior... ...hubo que pagar los pasivos remunerados... ...y a pesar de eso la contracción que hicimos con el BOPREAL... ...y la comprensión que hicimos con... ...el resultado fiscal... ...hizo que la cantidad de dinero quede constante... ...esto es verdaderamente muy fuerte... Y la inflación del mes de diciembre, ya en la tercera semana, acumulaba en esas tres semanas un treinta por ciento de suba.  Por eso yo recuerdo que me habían hecho una nota y dije, si queda en treinta es un golazo, porque significa que en la cuarta semana ya habían dejado de crecer los precios.  Terminó dando veinticinco, en enero dio veinte, en febrero dio trece.  Pero cuando usted limpia los efectos del arrastre estadístico y cuando limpia los aumentos de una vez para siempre de tarifas y, por ejemplo, prepagas que estaban atrasadas, eso hace que la inflación esté en el orden del siete por ciento. ",
+            "cosine_dist": 0.38943943395225555,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 247.714,
+            "end_time": 248.974,
+            "text": "O sea, bajó del treinta al siete. ",
+            "cosine_dist": 0.9189471277076526,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 249.554,
+            "end_time": 296.878,
+            "text": "Sí, pero veníamos viajando a velocidades de arriba del cincuenta por ciento mensual y lo llevamos a ese número.  Por lo tanto, nosotros en esto seguimos trabajando muy fuertemente, nosotros estimamos que... Marzo es un mes difícil, muy difícil por la cuestión de la estacionalidad, pero que en algún momento la tasa de inflación se va a derrumbar del mismo modo que se derrumbó el dólar.  En un momento el dólar alcanzó los mil trescientos pesos y hoy está en mil.  De hecho, en el medio hemos bajado la tasa de interés en varias oportunidades y aún así el Banco Central no para de comprar dólares y el dólar sigue sin moverse.  Es más, si usted toma el tipo de cambio oficial... Con el impuesto país no hay brecha. ",
+            "cosine_dist": 0.3743804362386619,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 297.718,
+            "end_time": 301.421,
+            "text": "¿A cuánto calcula usted que va a bajar la inflación en mayo, digamos? ",
+            "cosine_dist": 1.008862959172871,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 302.322,
+            "end_time": 346.049,
+            "text": "Nosotros no lo sabemos eso, porque no hay forma seria de determinar ese número.  Lo que nosotros sí tenemos claro es que nosotros vamos a seguir manteniendo esta tremenda fuerza en la política fiscal.  Para nosotros el déficit cero es como el palo mayor para Ulises.  Y además, la gente que trabaja conmigo está encargada de pegarle unos cuantos tiros a las sirenas que aparezcan, por decirlo de alguna manera.  Por lo tanto, nosotros lo que hemos hecho es un mecanismo por el cual la emisión es cero y el ancla nominal de la economía justamente es la cantidad nominal de dinero, la cual no se mueve.  Y eso va a hacer que tarde o temprano la tasa de inflación colapse. ",
+            "cosine_dist": 0.39215833751979234,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 346.069,
+            "end_time": 352.793,
+            "text": "Presidente, la segunda parte de la pregunta.  Mirando para atrás, ¿qué cosa hubiera hecho diferente sabiendo lo que usted sabe hoy? ",
+            "cosine_dist": 0.9464222338717218,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 354.614,
+            "end_time": 460.12,
+            "text": "A ver, yo tengo... Si yo tuviera que ver algún error... fue en haber ido a hablar con los gobernadores de una manera tan transparente y tan honesta porque nosotros cuando presentamos la ley bases agregamos el capítulo fiscal básicamente para ayudarlos a resolver un problema.  y los gobernadores en lugar de tomarlo como un gesto de buena voluntad que es lo que era lo tomaron como un signo de debilidad y se pusieron a trabajar sobre el capítulo IV para destrozar las finanzas públicas y la verdad, digamos, romper el resultado fiscal y mandarnos a una hiper.  Para mí, o sea, haber ido con tan buena fe, digo, probablemente fue un gran error, porque evidentemente esta gente no quería jugar limpio, por lo tanto nosotros en ese momento decidimos sacar el capítulo IV, Obviamente que el círculo rojo, que piensa en términos analógicos, mientras que nosotros la era digital ya nos quedó cortita, entonces ahí lo interpretaron como una derrota, que tuvimos que sacar el capítulo cuatro, y usted ahora ve la cantidad de problemas que están teniendo los gobernadores por no haber aceptado el capítulo cuatro.  Motivo por lo cual ahora ellos mismos piden una nueva ley bases que incluya el capítulo cuatro para justamente arreglar lo que nosotros de origen le quisimos ayudar a arreglar y que ellos se abusaron y ahora entendieron cómo funciona.  Pero en el medio perdimos tiempo. ",
+            "cosine_dist": 0.4037741421793264,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 461.38,
+            "end_time": 476.464,
+            "text": "Usted en la campaña habló de dolarizar la economía o permitir una competencia de monedas para terminar con esta inflación histórica de la Argentina.  ¿Es una meta realizable eso antes de las elecciones intermedias del año que viene? ",
+            "cosine_dist": 0.8423845864563467,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 478.325,
+            "end_time": 557.157,
+            "text": "La realidad es que, bueno, nosotros estrictamente no hemos hablado de dolarización, nosotros hemos hablado siempre de competencia de monedas.  y en esa competencia de monedas Es muy probable que si se llega a imponer una moneda, la moneda que se va a imponer, por las preferencias de los argentinos, es muy probable que sea el dólar.  Por eso se habló de dolarización.  Pero en realidad nosotros siempre hablamos de competencia de monedas.  Porque supongamos que nosotros estamos en el negocio petrolero.  ¿Por qué vamos a usar dólares?  trabajemos con el WTI, o está usted en el negocio del gas, trabaja con el BTU, o usted tiene campos y hace soja, trabajamos con el precio de la soja en Chicago.  ¿Para qué estar teniendo problemas con los precios si nos podemos cubrir de manera pura y directa con eso?  Entonces, lo que nosotros sí tenemos en mente es terminar con el Banco Central, que es un mecanismo de estafa, Es probablemente uno de los mecanismos por los cuales los políticos estafan a los ciudadanos de la manera más grosera y violenta.  Y eso es un objetivo.  Lo que sucede es que para llegar a eso, primero hay que hacer varias reformas.  Entre ellas, la reforma al sistema financiero, la cual estamos trabajando en armar esa reforma al sistema financiero. ",
+            "cosine_dist": 0.3600766613384113,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 558.021,
+            "end_time": 562.965,
+            "text": "¿Pero es una meta realizable antes de las elecciones del año que viene? ",
+            "cosine_dist": 0.8937899933480483,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 563.425,
+            "end_time": 629.552,
+            "text": "No creo que lleguemos para las elecciones del año que viene, pero la meta como tal existe, porque una de las cosas que sucede es que nosotros podemos hacer todas las reformas que sean, pero si usted deja vivo el Banco Central, los delincuentes de la política, tarde o temprano, van a querer usarlo para estafar a la población.  Entonces... Me parece que la única forma de evitar que el Banco Central estafe a los... A los ciudadanos honestos es directamente eliminando el Banco Central.  De hecho, el Banco Central como institución es una institución bastante nueva.  Le cuento algo.  Argentina tiene el Banco Central desde el año de la guerra.  Desde el año de la guerra.  Desde el año de la guerra.  Desde el año de la guerra.  Desde el año de la guerra.  Desde el año de la guerra.  Desde el año de la guerra.  Desde el año de la guerra.  Desde el año de la guerra.  Desde el año de la guerra.  Desde el año de la guerra.  Desde el año de la guerra.  Desde el año de la guerra.  para resolver el problema de la doble coincidencia y el problema de la indivisibilidad.  Pero el mundo encontró otras formas de usar monedas distintas.  Por lo tanto, ¿quién soy yo para imponerle a la gente qué moneda usar? ",
+            "cosine_dist": 0.3947847630461412,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 630.578,
+            "end_time": 668.947,
+            "text": "Presidente, usted tiene una gran oposición de lo que usted llama la casta, los kirchneristas y muchos otros en el Congreso que le han parado muchas de sus propuestas de reformas económicas, a pesar de que ganó las elecciones con cuanto a once, doce por ciento de ventaja.  Pero le están parando sus propuestas en el Congreso.  ¿Qué le dice usted a quienes dicen que usted es demasiado confrontacional, que se pelea con todos, que se pelea hasta con algunos que podrían apoyarlo y que eso le está restando algunos votos? ",
+            "cosine_dist": 0.7916082128877887,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 669.387,
+            "end_time": 850.44,
+            "text": "No, eso es falso.  Eso es falso.  El problema es que la casta no quiere saber privilegios.  Nosotros... en los primeros treinta días de gobierno enviamos mil reformas estructurales un tercio vía el DNU y dos tercios vía la ley de bases.  el DNU todavía sigue vigente es decir hay algunas partes que están obstruidas por la justicia pero el DNU sigue vigente a pesar de del rechazo en la cámara de senadores lo cual era esperable.  nosotros tenemos siete senadores Y aún así conseguimos veinticinco votos, con lo cual no nos fue tan mal como algunos quieren vender, pero era un resultado esperable.  Y en la Cámara de Diputados no está claro que el DNU no pueda resistir.  Nosotros creemos que hay más chances de que resista que no resista.  Pero al margen de eso, la ley base fue aprobada con ciento cuarenta y cuatro votos en la Cámara de Diputados.  O sea, se ganó la elección, digamos, por paliza, le diría casi.  Ahora, el punto es que el problema fue la discusión en.  particular.  Que ahí, digamos, empezaron a degradar lo que era la ley, empezaron a... a tener algunas... empezaron a defender los privilegios de las castas.  La gente que en los últimos veinte años jamás se enteró que eran un fideicomiso, o en los últimos treinta años jamás se enteró que eran un fideicomiso, ahora entendió que era un mecanismo por lo cual la política financiaba su gato sucio.  Entonces ahí empezaron a quedar en evidencia los delincuentes de la política.  Pero esto es muy importante.  Porque por eso nosotros, al ver cómo estaban desguasando la ley, quitamos la ley del Congreso.  De hecho, fue una decisión mía.  ¿Pero qué es lo interesante de esto?  Porque alguien podría decir, uy, qué fracaso, de vuelta, no pudo pasar la ley.  Yo diría todo lo contrario, porque una de las cosas más maravillosas que ha estado pasando en este tiempo es algo que tiene que ver con el ordenamiento político de Argentina.  Si yo a usted le hubiera dicho... vamos en menos de tres meses a ordenar el espectro ideológico de la Argentina, usted me hubiera dicho, no, eso es imposible, es imposible, estando el peronismo en el medio, eso es imposible.  Y sin embargo, lo más interesante de lo que ha pasado con el DNU y lo que ha pasado con la ley bases, es que permitió ordenar el espectro ideológico, permitió ver con claridad ¿Quiénes son los orcos?  ¿Quiénes son los que están verdaderamente a favor del cambio?  ¿Y quiénes son los delincuentes que se disfrazan de agentes del cambio, pero siguen siendo la misma política sucia e erróneosa de siempre, pero con buenos modales y lindas formas? ",
+            "cosine_dist": 0.3568307103527901,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 850.6,
+            "end_time": 851.721,
+            "text": "¿Quiénes son estos últimos? ",
+            "cosine_dist": 0.9448144269718004,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 852.401,
+            "end_time": 857.424,
+            "text": "Bueno, los que entraron con los votos del cambio, pero sin embargo votaron con los orcos. ",
+            "cosine_dist": 0.4679407549922704,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 858265,
+            "end_time": 858665,
+            "text": "¿Por ejemplo? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 859.599,
+            "end_time": 864.243,
+            "text": "¿Y en el Senado tiene el emblema de esto?  o es el señor Lustó, por ejemplo? ",
+            "cosine_dist": 0.5050819399459584,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 864.263,
+            "end_time": 887.703,
+            "text": "Tenemos que ir a un corte.  Cuando volvamos, seguimos con el presidente Javier Milei.  Gracias por seguir con nosotros.  Seguimos en la Casa Rosada de Argentina con el presidente Javier Milei.  Presidente, hablando de las fuerzas de seguridad y del ejército, un rumor recorriendo el internet es que usted estaría planeando un indulto para... Falso.  Falso.  Falso.  Ok.  Próximo. ",
+            "cosine_dist": 0.8707063346970836,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 888.567,
+            "end_time": 895.11,
+            "text": "No, digamos, nosotros estamos acostumbrados a que hagan correr mentiras sobre nosotros.  Bueno, de hecho lo padecimos... ",
+            "cosine_dist": 0.44459674558145945,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 895.13,
+            "end_time": 897.751,
+            "text": "Usted está hablando del indulto, ¿verdad?  Estamos hablando de lo mismo. ",
+            "cosine_dist": 0.8399720114826074,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 897.851,
+            "end_time": 930.248,
+            "text": "Sí, sí, pero nosotros estamos acostumbrados a que se generan muchas noticias falsas.  De hecho, el kiserismo tiene canales que se dedican a construir mentiras sobre nuestras cosas.  Pagan actores para que declaren pestes sobre nosotros.  Pero bueno, lo bueno de la tecnología y el avance es que... Casi se puede tener archivo instantáneo, entonces usted automáticamente identifica a los actores.  Pero es una pelea ardua.  Los kirchneristas juegan muy, muy sucios. ",
+            "cosine_dist": 0.4059799302143666,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 931.009,
+            "end_time": 940.877,
+            "text": "La canciller Mondino dijo hace pocas semanas que podría haber activistas venezolanos, cubanos, de otros países, en las protestas anticubernamentales en Argentina. ",
+            "cosine_dist": 0.9151710570595004,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 941.037,
+            "end_time": 942.058,
+            "text": "Y de hecho es así. ",
+            "cosine_dist": 0.8009388518203381,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 942458,
+            "end_time": 942839,
+            "text": "¿De dónde? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 943.699,
+            "end_time": 970.612,
+            "text": "Venezolanos, cubanos y chilenos.  disfrazados de fotógrafos, había una cosa que era bastante interesante, había una explosión fenomenal de cantidad de fotógrafos.  Y sucede que esos fotógrafos eran los mismos fotógrafos que eran activistas de las actividades que hicieron en Chile.  Por eso la izquierda es mucho más peligrosa de lo que la gente... ",
+            "cosine_dist": 0.400687315915382,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 970.713,
+            "end_time": 973.494,
+            "text": "¿Pero cómo saben que esos fotógrafos no eran fotógrafos? ",
+            "cosine_dist": 0.9366469117255694,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 974.218,
+            "end_time": 988.034,
+            "text": "porque eran activistas que estuvieron involucrados en los casos de Chile.  Entonces se escudan bajo las protecciones que tienen los periodistas, o sea, se disfrazan de periodistas para hacer actos criminales. ",
+            "cosine_dist": 0.43172971933433846,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 989.861,
+            "end_time": 1007.747,
+            "text": "Presidente, hablemos un poco de política internacional.  Usted ya, aunque lleva apenas tres meses en el gobierno, ha hecho varios viajes internacionales, se ha encontrado codeado con muchos presidentes del mundo.  ¿Con quiénes sintió mayor afinidad, de todos los presidentes y presidentas con los que se reunió? ",
+            "cosine_dist": 0.9229917177031839,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1009.728,
+            "end_time": 1078.541,
+            "text": "En general, en los viajes no hice reuniones bilaterales, porque le digo la verdad, la cantidad de reuniones bilaterales que me pedían era tanta que decirle que sí a alguien implicaba como un desplante con los otros.  Para que se den una idea, en Davos tenía cerca de ciento sesenta pedidos de reuniones bilaterales, entonces es como que se hacía un poco complejo, entonces tuve que priorizar dos casos muy puntuales, ...uno fue el pedido de reunión bilateral... ...por parte del Fondo Monetario Internacional... ...que la verdad que fue un placer la charla... ...y poder conocer a la doctora Cristalina Georgieva... ...fue muy bueno, una gran experiencia... ...y también conocer a Gita... ...que también me pareció formidable... ...y después estuvimos reunidos acá... ...justamente en esta mesa estuvimos hablando con ella... ...que también me pareció fabulosa... Y la otra reunión que tuvimos fue con David Cameron, porque obviamente... ",
+            "cosine_dist": 0.4142579560726042,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1078.561,
+            "end_time": 1079.782,
+            "text": "Canciller de Gran Bretaña. ",
+            "cosine_dist": 0.815130354811584,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1080.042,
+            "end_time": 1134.906,
+            "text": "Exactamente.  Tenemos cuestiones que creo que vale la pena hablar y que son de mucha importancia para los dos países.  Entonces, fue las únicas bilaterales que acepté porque la verdad es que si no era un problema en términos de agenda y en términos de que iba a terminar quedando mal.  Con quien sí tuve reuniones bilaterales más estrechas, más cercanas y que obviamente las disfruté enormemente.  Fue las reuniones con el presidente de Israel, Herzog, y con el primer ministro Netanyahu, que de hecho, por ejemplo, con Netanyahu estuvimos hablando de Mises, de Hayek, de Rothbard, así que fue una reunión verdaderamente hermosa, la reunión con Bibi fue genial, fue una reunión que la disfruté muchísimo, muchísimo.  O sea, no me imaginaba que iba a estar hablando con... ",
+            "cosine_dist": 0.4936978614273916,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1135.206,
+            "end_time": 1144.904,
+            "text": "Ahora le quiero preguntar después sobre Israel.  Pero antes, la misma pregunta al revés.  ¿Quiénes son los peores presidentes de América Latina? ",
+            "cosine_dist": 0.8515813141561008,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1146.377,
+            "end_time": 1173.856,
+            "text": "Bueno, sin dudas, los peores presidentes de América Latina, por escándalo, digamos, es lo que tiene que ver con la dictadura de Venezuela, con el comunismo que quiere impulsar en Colombia Petro, o sea, con lo cual ahí tiene, o lo que tiene en Nicaragua, o lo que tiene en Cuba, eso es lo peor de todo, o sea, son verdaderamente, digamos, verdaderamente despreciables. ",
+            "cosine_dist": 0.4248378581773611,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1175.623,
+            "end_time": 1208.924,
+            "text": "Hace muy pocas horas Argentina, junto con Perú, Uruguay, Costa Rica y tres o cuatro países más, sacaron un comunicado expresando su grave preocupación, creo que es la palabra, por estas elecciones o pseudoelecciones, las llamo yo, en Venezuela.  ¿Qué más pueden hacer los países de América Latina para tratar de... ¿Están contemplando algún tipo de sanciones diplomáticas o algo así? ",
+            "cosine_dist": 0.8604018875491698,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1211.026,
+            "end_time": 1236.928,
+            "text": "Por el momento tenemos un avance en que están siendo condenados.  Por ejemplo, acá en el gobierno anterior no hubieran condenado a ninguna de esas dictaduras.  Entonces, en principio, nosotros hacemos una condena enfática, nosotros levantamos esas banderas en todos los lugares y obviamente que si habría que avanzar en sanciones, yo no tendría ningún tipo de problema. ",
+            "cosine_dist": 0.42468380222201496,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1239.114,
+            "end_time": 1244.238,
+            "text": "¿Trataría de convencer a otros países de que adopten sanciones diplomáticas contra Venezuela? ",
+            "cosine_dist": 0.9756999051967626,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1244.338,
+            "end_time": 1269.585,
+            "text": "Sí, yo estaría dispuesto a hacerlo porque la carnicería que es Venezuela es verdaderamente inaudito, lo mismo que la es la cárcel de Cuba.  Entonces, después hay otros casos que van camino a, digamos como el caso de Colombia con el señor Petro, que... Bueno, mucho no se puede esperar de alguien que era un asesino terrorista, comunista. ",
+            "cosine_dist": 0.3964100463945157,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1269.605,
+            "end_time": 1291.873,
+            "text": "Tenemos que ir a un corte.  Cuando volvamos, seguimos con el presidente de Argentina, Javier Milei.  Rosada en Argentina con el presidente Javier Milei.  Presidente, México va a tener elecciones el dos de junio.  Tanto el presidente López Obrador como su candidata, Claudia Sheinbaum, han tenido palabras muy duras con usted. ",
+            "cosine_dist": 0.9199091892481749,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1292.974,
+            "end_time": 1300.578,
+            "text": "Es un halago.  Es un halago.  Y aunque un ignorante como López Obrador hable mal de mí, me enaltece. ",
+            "cosine_dist": 0.5725319585308881,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1301.767,
+            "end_time": 1310.753,
+            "text": "Y que la candidata oficial respaldada por el presidente López Obrador diga que usted representa un retroceso en Argentina.  ¿Qué reacción le da? ",
+            "cosine_dist": 0.863284163009979,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1311.834,
+            "end_time": 1404.72,
+            "text": "Bueno, digamos, hay que ver.  Porque si lo bueno era el kirchnerismo... Yo le cuento que en la década del noventa Argentina tenía un salario promedio de mil ochocientos dólares, que puesto en moneda de hoy serían tres mil dólares, y hoy el salario promedio en Argentina es de seiscientos dólares, estoy exagerando, es menos todavía.  Quiere decir que el populismo que ellos tanto ponderan, el socialismo del siglo XXI, a los argentinos les costó ochenta por ciento de sus ingresos, y ha llevado la cantidad de pobres a más del cincuenta por ciento.  Argentina tiene más de diez por ciento de indigentes, es decir, el país que produce alimentos para cuatrocientos millones de seres humanos, con una presión fiscal en el campo del setenta por ciento, con lo cual el Estado se lleva el alimento de doscientos ochenta millones de seres humanos, hay cinco millones de argentinos que no le alcanza para comer.  Entonces, lo bueno es ir a ese modelo y el retroceso es ir al país... digamos, que pensado Alberti y que con la constitución del cincuenta y tres y modificada en el sesenta cuando se incorpora a Buenos Aires, que hizo que en treinta y cinco años nos convirtiéramos en la primer potencia mundial, bueno, tiene un problema, digamos, con los números.  Yo no sé si los socialistas odian más la evidencia empírica o el agua. ",
+            "cosine_dist": 0.4067570208869561,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1406.147,
+            "end_time": 1414.453,
+            "text": "¿Usted tiene alguna referencia de Claudia Sheinbaum?  ¿Alguna esperanza que sea distinta, que se distancie de López Obrador o no? ",
+            "cosine_dist": 0.8253615621617855,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1415.393,
+            "end_time": 1427.301,
+            "text": "Yo no tengo que tener ninguna esperanza de nada.  Es un problema de los mexicanos si eligen a los socialistas.  Es decir, me compadezco de aquel que tenga que padecer un régimen socialista. ",
+            "cosine_dist": 0.477339016567795,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1428.422,
+            "end_time": 1433.246,
+            "text": "Presidente, hablemos del Papa.  ¿Hay alguna posibilidad de que el Papa venga a Argentina este año o el próximo? ",
+            "cosine_dist": 0.9629579897144582,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1434.987,
+            "end_time": 1538.875,
+            "text": "Yo... Tuve una muy linda reunión con el Papa, estuvimos reunidos por setenta minutos, lo cual le agradezco enormemente que haya tenido la deferencia de darme tanto tiempo.  Yo lo que le señalé es que él iba a ser recibido con todos los honores de jefe de Estado, que iba a recibir los honores propios de ser el jefe espiritual de la Iglesia Católica, en especial siendo Argentina un país católico, Pero esa decisión depende de él y además hay que tener en cuenta porque una visita de esas características para él va a tener una carga física muy importante y si bien yo me ofrecí a acompañarlo y estar a su lado.  casi le diría casi como un bastón humano.  pero implica una carga física que él es quien debe decidir tomar esa decisión de enfrentar tanta carga física.  Yo lo que estoy dispuesto es acompañarlo para que los argentinos tengan la felicidad de ver a su jefe espiritual, pero yo lo que tengo que hacer es ofrecerle todas las garantías, toda la comodidad y saber que él sepa que yo voy a estar a su lado.  pero ya después la decisión queda en él, porque él sabe cómo se siente y me parece que uno no tiene que estar presionándolo para una situación que va a ser muy demandante en términos físicos. ",
+            "cosine_dist": 0.3590902838018981,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1539.375,
+            "end_time": 1543.937,
+            "text": "Por lo que interpreto sus palabras, no parece muy posible que venga este año o el próximo. ",
+            "cosine_dist": 0.8657319498956416,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1544.497,
+            "end_time": 1625.051,
+            "text": "Yo no digo que no sea posible, Andrés, lo que digo es Hay que entender el tiempo, el lugar, hay que entender varias cosas y cómo él se sienta.  Esto es fundamental.  Entonces, la verdad, estaría buenísimo que se sienta bien y venga.  Yo lo que tengo que hacer es darle todas las posibilidades para que él se sienta de manera maravillosa.  De vuelta, hasta estoy dispuesto a ser su bastón humano, por decirlo de alguna manera, para que tenga idea de cómo estoy dispuesto a acompañarlo.  Pero no hay que presionarlo ni empujarlo.  Hay que permitir que él haga la evaluación de costos-beneficios, de tomar una decisión de hacer un viaje tan largo y tan demandante.  Porque usted, ¿cómo cree que va a ser que venga acá?  Pobre hombre.  Van a saturar de todo, pobre hombre.  Entonces hay que ser muy respetuoso de la decisión que él tome.  Yo lo que tengo que hacer es darle todas las posibilidades para que él se sienta confortable y que él pueda elegir de la mejor manera. ",
+            "cosine_dist": 0.3464043747062684,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1625.591,
+            "end_time": 1661.53,
+            "text": "Tenemos que ir a un corte.  Cuando volvamos seguimos con el presidente de Argentina, Javier Milagro.  La casa presidencial en Argentina con el presidente Javier Miguel.  Presidente, usted se encontró recientemente con el expresidente Trump y le dijo que ha sido un gran presidente, sus palabras, y que espera que vuelva a ser un gran presidente.  ¿No fue un error diplomático eso considerando que el actual presidente... se está presentando para su reelección contra, y Trump se está presentando contra él.  ¿No fue un error diplomático eso? ",
+            "cosine_dist": 0.8384161760069287,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1661.57,
+            "end_time": 1666.014,
+            "text": "No, eso no es un error diplomático.  Es un error creer que es un error diplomático. ",
+            "cosine_dist": 0.5763967059711279,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1666254,
+            "end_time": 1666455,
+            "text": "A ver. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1667.876,
+            "end_time": 1671.019,
+            "text": "Le hago una pregunta.  ¿Usted dónde cree que ocurrió eso? ",
+            "cosine_dist": 0.5763524126308361,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1672.84,
+            "end_time": 1676.143,
+            "text": "En una conferencia del grupo conservador. ",
+            "cosine_dist": 0.813667580921899,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1676.163,
+            "end_time": 1678.705,
+            "text": "¿En qué lugar estrictamente?  En Washington. ",
+            "cosine_dist": 0.6769319079373215,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1679.886,
+            "end_time": 1680.647,
+            "text": "En Washington, ¿no? ",
+            "cosine_dist": 0.9660527479109857,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1681.087,
+            "end_time": 1681.768,
+            "text": "Pero ¿en qué lugar? ",
+            "cosine_dist": 0.7781872642810594,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1683.978,
+            "end_time": 1685.899,
+            "text": "Ahí me mató.  ¿En qué lugar? ",
+            "cosine_dist": 0.934994341618254,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1685.939,
+            "end_time": 1723.678,
+            "text": "Bueno, esto es muy importante.  Porque eso ocurrió cuando él salía de su ponencia y yo iba camino a la mía y nos encontramos detrás del escenario.  O sea, con lo cual eso, digamos, en términos protocolares no cuenta.  Es algo fuera del protocolo.  Es decir, sin embargo, digamos, más allá de eso... Lo más importante es mi alineación con Estados Unidos.  Independientemente que estén en el gobierno los demócratas o los republicanos.  Más allá de mis preferencias.  Mis preferencias son públicas. ",
+            "cosine_dist": 0.36239250806048184,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1723.898,
+            "end_time": 1725.059,
+            "text": "¿Su preferencia es que gane Trump? ",
+            "cosine_dist": 0.9442380880572546,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1725.359,
+            "end_time": 1754.374,
+            "text": "Mis preferencias siempre es, digamos, soy más afín a las ideas del partido republicano.  Ese es el punto.  Eso es cierto.  Y eso es conocido.  Pero mi prioridad es... ser aliado de Estados Unidos.  Es decir, mis aliados internacionales son Estados Unidos e Israel.  Y en eso soy absolutamente consistente.  Y por eso, digamos, nosotros tenemos excelentes relaciones con el gobierno de Biden. ",
+            "cosine_dist": 0.3323160757318778,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1754.794,
+            "end_time": 1757.877,
+            "text": "Pero hay gente del gobierno de Biden que está bastante molesta con esto. ",
+            "cosine_dist": 0.8808592777870244,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1758.675,
+            "end_time": 1802.149,
+            "text": "Bueno, la vida, o sea, también podría haber gente de los republicanos que esté tan molesto porque, digamos, estuve con Blinken una hora y media de reunión, y no solo estuve con él, sino que participo en muchas actividades con el embajador Stanley, he sido recibido en la Casa Blanca sin haber asumido, entonces, no es que no tengo gestos, o sea, porque en realidad... Como presidente de la Argentina, habiendo definido el lugar en el mundo donde quiero estar, mi aliado estratégico es Estados.  Unidos.  Estén los demócratas o estén los republicanos.  Más allá de mis preferencias. ",
+            "cosine_dist": 0.3170784841538008,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1802.209,
+            "end_time": 1807.932,
+            "text": "O sea, para pasar a otro tema, usted lo que está diciendo es que esto fue una cosa privada, no oficial. ",
+            "cosine_dist": 0.8572553806382188,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1808.693,
+            "end_time": 1817.638,
+            "text": "Claro, es no oficial.  De hecho, si usted se fija, están las computadoras, todo lo que es detrás del escenario. ",
+            "cosine_dist": 0.5117755722127224,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1818.872,
+            "end_time": 1836.736,
+            "text": "Presidente, usted estuvo recientemente en Israel.  ¿Qué opinión le merecen las declaraciones del presidente de Brasil, del presidente de Colombia y del presidente de Chile de que la respuesta militar de Israel al ataque terrorista de Hamas es un genocidio? ",
+            "cosine_dist": 0.853738295310271,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1838.136,
+            "end_time": 1981.83,
+            "text": "No estoy de acuerdo.  Me parece condenable que hagan ese tipo de condenas.  Una de las cosas que yo hice desde un primer momento... fue repudiar el ataque terrorista del grupo terrorista Hamas.  No solo eso, sino que además obviamente manifesté mi solidaridad con Israel y una de las cosas que sostuve desde el primer momento es avalar el derecho a la legítima defensa de Israel.  Es decir, Israel recibió un ataque brutal y este tipo de cosas requieren respuestas ejemplificadoras.  Y de hecho, Israel todo lo que está haciendo, lo está haciendo dentro de las reglas de juego.  Es decir, Israel no está cometiendo ni un solo exceso.  Es decir, pese a los excesos cometidos por los terroristas de Hamas.  Entonces, lo que pasa es que ahí hay una posición ideológica.  No casualmente usted me está nombrando a todos socialistas.  Es decir, los socialistas tienen doble vara.  Si las dictaduras son socialistas, están bien.  Las dictaduras están mal, sean de derecha, de izquierda, de lo que usted quiera, de arriba, de abajo, están mal.  Ellos no.  Si los dictadores son de ellos, están bien.  Fíjese, el mejor ejemplo pasó recientemente el veinticuatro de marzo.  acá, ¿no?  Digo, la señora Estela Carlotto fue en el acto donde se repudia el golpe de Estado del setenta y seis, pero al mismo tiempo pidió que se me voltee con un golpe de Estado a mí.  Es decir, en realidad, digamos, para ellos, o sea, son muy democráticos.  cuando ellos están en el poder, cuando ellos están y cometen excesos, no se condenan.  Es decir, y cuando usted dice algo que no es lo que ellos piensan, lo tratan de violento.  Son verdaderamente dictadores, son totalitarios.  Es decir, entonces... La izquierda, en sus distintas versiones, es el cáncer de la humanidad. ",
+            "cosine_dist": 0.32885615951863056,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1982.57,
+            "end_time": 2000.295,
+            "text": "Pero presidente, usted no está poniendo todos en la misma bolsa porque, le doy un ejemplo, yo coincido con usted, Maduro es un dictador, Díaz-Canel es un dictador, pero ya cuando hablamos de Petro, de Lula, son presidentes que nos pueden o no gustar, pero son electos democráticamente. ",
+            "cosine_dist": 0.8305247520099297,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2000.315,
+            "end_time": 2037.201,
+            "text": "Bueno, sí, obvio.  Son electos democráticamente y mire cómo gobiernan y las cosas que hacen, a ver si respetan las libertades individuales o cada día avanzan más sobre los individuos, hacia soluciones más colectivistas.  Porque eso es lo que hay que mirar.  Y cuando usted mira eso, ve que cada vez avanza más en la intervención, el Estado presente, y eso cambia.  Para aquellos que hemos leído, hemos tenido el privilegio y el honor de haber leído a Hayek en una de sus obras más conocidas, que es Camino de Servidumbre, sabemos en qué termina. ",
+            "cosine_dist": 0.3240378761301287,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2038.162,
+            "end_time": 2067.282,
+            "text": "Tenemos que ir a un corte y cuando volvamos seguimos con el presidente de Argentina, Javier Milei.  Seguimos desde la Casa Rosada, Argentina, la Casa Presidencial, con el presidente Javier Milagro.  Usted debe tener el trabajo más estresante de la Argentina.  ¿Qué hace para relajarse?  ¿Hace yoga?  No, trabajo.  Pero no hace algo, ejercicio, yoga. ",
+            "cosine_dist": 0.8869790641187646,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2067.581,
+            "end_time": 2075.504,
+            "text": "No, soy adicto al trabajo.  O sea, para un adicto de trabajo esto está buenísimo.  O sea, está todo el día trabajando, es buenísimo. ",
+            "cosine_dist": 0.648000737688805,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2075.623,
+            "end_time": 2079.708,
+            "text": "¿Leí en algún lado que usted duerme tres horas por noche, cuatro horas por noche? ",
+            "cosine_dist": 0.9326659820822972,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2080.029,
+            "end_time": 2083.353,
+            "text": "Estoy durmiendo cuatro o cinco horas ahora, estoy durmiendo un poco menos, sí. ",
+            "cosine_dist": 0.591220433288618,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2086.902,
+            "end_time": 2090.744,
+            "text": "¿Y cómo funciona?  Yo si duermo cuatro o cinco horas estoy hecho un zombi al día siguiente. ",
+            "cosine_dist": 1.015801134929103,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2091.484,
+            "end_time": 2134.22,
+            "text": "Sí, pero es que esto es adrenalina pura.  Entonces es como que no me sale, digamos.  No es que estoy durmiendo eso naturalmente.  Así es que me levanto y en general lo que hago es me subo al carrito de golf, Más bien me levanto, me voy a ver a mis hijitos de cuatro patas.  Sus perros.  Sí, a Conan, Murray, Milton, Robert y Lucas, que están en una parte de la quinta.  Estoy con ellos aproximadamente una hora.  Y ya después vuelvo, me baño y me pongo a trabajar. ",
+            "cosine_dist": 0.4837625707669927,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2134.74,
+            "end_time": 2136.381,
+            "text": "Entonces, esa es su forma de relajarse. ",
+            "cosine_dist": 0.9277622631167793,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2137.1,
+            "end_time": 2138.561,
+            "text": "Bueno, entonces esa es mi forma de relajarme. ",
+            "cosine_dist": 0.6059731469878319,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2139.342,
+            "end_time": 2144.146,
+            "text": "Leía en algún lado que tiene que estar con uno por vez porque si está con los cuatro se pelean. ",
+            "cosine_dist": 0.9261713174793714,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2144.166,
+            "end_time": 2165.385,
+            "text": "Con cinco.  Son cinco.  Conan, Murray, Milton, Robert y Lucas.  Y no pueden estar juntos porque con la pandemia perdieron el hábito de manada.  Entonces no pueden estar juntos.  Entonces usted lo que va a ver es que hay cinco caniles... Y cinco recreos.  Y ellos deciden de qué lado, digamos... ",
+            "cosine_dist": 0.4805822923847719,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2165.725,
+            "end_time": 2167.286,
+            "text": "¿Y tienen personalidades diferentes? ",
+            "cosine_dist": 0.8806747921301804,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2167.606,
+            "end_time": 2170.066,
+            "text": "Sí, sí, tienen personalidades muy distintas, sí. ",
+            "cosine_dist": 0.6913104871935889,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2171067,
+            "end_time": 2171427,
+            "text": "¿Cómo son? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2174.207,
+            "end_time": 2229.815,
+            "text": "A ver, por ejemplo, Murray es muy cariñoso, pero es muy, muy territorial.  Muy territorial.  Muy territorial.  Conan luce muy tranquilo, pero no lo provoque.  Después, por ejemplo, Milton, que además es el más grandote físicamente, en dos patas mide dos metros.  A él le gusta solo estar con mujeres.  O sea, no es ningún tonto.  Robert es muy revoltoso, está todo el tiempo haciendo lío.  Es decir, quizás es el que más se parece a mí en la personalidad, y Conan.  Y después, Lucas es un cabrón.  Lucas es muy cabrón.  Es como que enseguida se fastidia y se satura rápido. ",
+            "cosine_dist": 0.4500216087106247,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2230.697,
+            "end_time": 2232.98,
+            "text": "Presidente Milay, muchísimas gracias por esta entrevista. ",
+            "cosine_dist": 1.013772131927833,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2233.24,
+            "end_time": 2234.542,
+            "text": "No, por favor, gracias a usted Andrés. ",
+            "cosine_dist": 0.7183662531203792,
+            "is_target_speaker": false
+        }
+    ]
+}

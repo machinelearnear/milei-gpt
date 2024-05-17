@@ -1,0 +1,16 @@
+# git+https://github.com/e-p-armstrong/augmentool.git
+nemo_toolkit[asr]==1.23.0
+git+https://github.com/m-bain/whisperX.git@78dcfaab51005aa703ee21375f81ed31bc248560
+git+https://github.com/facebookresearch/demucs#egg=demucs
+git+https://github.com/oliverguhr/deepmultilingualpunctuation.git
+wget
+pydub
+yt-dlp
+gradio
+nltk
+transformers
+accelerate
+decord
+pytube @ git+https://github.com/oncename/pytube.git
+imageio
+pyannote.audio

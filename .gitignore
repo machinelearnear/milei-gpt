@@ -1,3 +1,11 @@
+# Others
+data/temp_audio
+data/youtube_data_lq
+data/youtube_data_hq
+scripts/logs
+scripts/temp_outputs
+scripts/pretrained_models
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

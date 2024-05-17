@@ -1,0 +1,703 @@
+{
+    "Index": 56,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "Ldic7i8pOZ0",
+    "url": "https://www.youtube.com/watch?v=Ldic7i8pOZ0",
+    "title": "MILEI CON JAIME BAYLY *LA ENTREVISTA MÁS IMPORTANTE DE SU VIDA* PARTE 1",
+    "duration": 1197.0,
+    "view_count": 1362947,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 1",
+            "start_time": 0.22,
+            "end_time": 5.43,
+            "text": "Querido Javier Milei, qué gran alegría conocerte.  Gracias por concederme esta entrevista. ",
+            "cosine_dist": 0.7643050440434935,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 5.75,
+            "end_time": 12.451,
+            "text": "No, por favor, es un placer para mí que me estés haciendo esta entrevista.  Aparte, gracias por tu generosidad en los comentarios para conmigo. ",
+            "cosine_dist": 0.4748435348358301,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 13.671,
+            "end_time": 24.773,
+            "text": "Gracias.  He venido a darte una buena noticia, querido Javier.  Creo que vas a ser el próximo presidente de la Argentina.  Tengo esa corazonada.  ¿Cuál es tu intuición? ",
+            "cosine_dist": 0.7691115207860362,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 26.034,
+            "end_time": 54.286,
+            "text": "Yo creo que... Tenemos todas las posibilidades para lograrlo.  El resultado electoral del veintidós de octubre fue muy fuerte en varios sentidos.  En primer lugar, es la primera vez que un liberal libertario autodeclarado y de manera explícita con un programa liberal libertario consigue treinta por ciento de votos en Argentina. ",
+            "cosine_dist": 0.4075404712383791,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 54.986,
+            "end_time": 56.267,
+            "text": "¿Casi ocho millones de votos? ",
+            "cosine_dist": 0.9627766499678679,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 56.747,
+            "end_time": 119.182,
+            "text": "Un poquito más de ocho millones, sí.  Es más, es la primera vez que un liberal libertario tiene esos porcentajes a nivel mundial, es algo histórico.  Pero más allá de lo que tiene que ver con lo personal o lo que tiene que ver con nuestro propio espacio que se llama la libertad avanza, me parece que lo más significativo es que hay un cincuenta y cuatro por ciento de los argentinos que votaron abiertamente un cambio hacia las ideas de la libertad.  Esto no hay registro.  Es decir, los que queremos un cambio hacia las ideas de la libertad, representamos el cincuenta y cuatro por ciento.  Y si uno toma una posición un poco más conservadora, por decirlo de alguna manera, se podrían también computar los votos que cosechó Schiaretti y estaríamos hablando del sesenta por ciento de la población.  le está dando la espalda a lo que fue este proceso nefasto llamado kiserismo. ",
+            "cosine_dist": 0.2812457072572331,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 119.983,
+            "end_time": 150.923,
+            "text": "Ahora, esa es la lectura optimista, ¿no?  El gobierno votó por la libertad.  Hay, sin embargo, una lectura que a mí me deja descorazonado, abatido.  ¿Por qué casi diez millones de argentinos votaron a un señor que es ministro de Economía que es Ministro de Economía hace más de un año, y que no ha sido capaz de controlar la inflación y la devaluación.  ¿Por qué?  ¿Cómo explicas que masa sacar a tantos votos? ",
+            "cosine_dist": 0.6743890819309724,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 151.503,
+            "end_time": 193.792,
+            "text": "Bueno, lo que hay que ver es, hay que mirarlo en perspectiva histórica.  Y la realidad es que el peronismo haya sacado el treinta y siete por ciento de los votos, Es la peor elección que han hecho en toda su historia.  Por lo tanto, desde mi punto de vista, uno lo tiene que mirar con esa lógica.  Y después hay toda una maquinaria y hay todo un proceso de lavado de cerebro que hace... que los argentinos estén inclinados a abrazar ideas de corte socialista. ",
+            "cosine_dist": 0.32457103650419716,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 193.812,
+            "end_time": 206.3,
+            "text": "Yo pensé que, además, hacer ministro de Economía sentado sobre una hiperinflación lo iba a perjudicar.  Pero da la impresión de que él ha usado el Ministerio de Economía para regalar dinero y comprar votos. ",
+            "cosine_dist": 0.694814544646774,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 207.24,
+            "end_time": 319.738,
+            "text": "Bueno, de hecho hay una denuncia por eso, porque... Justamente hay una cuestión de veda electoral que no se pueden hacer anuncios que pueden tener impacto electoral y él lo ha estado haciendo hace poco.  Yo creo que él ha manejado con mucha destreza el tema de cómo regalar ese dinero.  además.  Él entregó mucho dinero, se gastó cerca de dos puntos del PBI para las elecciones y Son varios billones de dólares, ¿no?  Exactamente.  Y básicamente lo que hizo fue ponerle plata a la gente en el bolsillo.  Y hay gente que de repente no lo comprende porque dice cómo estaba el caso de Insaurralde ¿Sí?  Y Massa saca en la elección general más votos que las PASO, saca el cincuenta por ciento de los votos.  Entonces, ¿cómo funciona esto?  Ahora, yo te lo planteo en estos términos.  Suponete que vos no tenés nada para comer.  Nada, nada, nada, cero.  Entonces, ahora viene alguien y te da plata.  ¿A vos qué te importa si... esa plata la sacó de imprimir billetes en el Banco Central y eso genera inflación.  Y la plata que vos vas a recibir, en rigor, va a ser menos que la que crees que estás recibiendo.  Correcto.  Pero ¿cuál es el punto?  Pero es mucho más que lo que vos tenías.  Entonces, cuando vos tenés una situación de tanta miserabilidad como la que tiene Argentina, donde vos hoy tenés más de cuarenta por ciento de pobres, más de diez por ciento de indigentes, donde dos tercios de los jóvenes de cero a catorce años son pobres... En ese contexto, cuando vos haces esa inyección de dinero, como la política monetaria actúa con rezagos, entonces eso de repente pega de acá a dieciocho meses, pero en el corto plazo a vos te da la sensación de que tu bolsillo se agrandó enormemente y van y votan. ",
+            "cosine_dist": 0.2999038192896294,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 320.398,
+            "end_time": 325.88,
+            "text": "O sea, la gente está tan hundida en la miseria más abyecta que por noventa y cuatro mil pesos... ",
+            "cosine_dist": 0.7142559001428851,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 326261,
+            "end_time": 326741,
+            "text": "Exactamente. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 327.628,
+            "end_time": 331.13,
+            "text": "come una semana y vota al candidato que le regaló ese dinero. ",
+            "cosine_dist": 0.7384638768875523,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 331.15,
+            "end_time": 334.052,
+            "text": "Claro, pero contra nada es mejor que nada.  Contra nada es mejor que nada. ",
+            "cosine_dist": 0.6726698957030329,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 334.453,
+            "end_time": 339.696,
+            "text": "Pero el mismo que le regala el dinero es el que ha provocado que esa persona no tenga que comer. ",
+            "cosine_dist": 0.7114007388171579,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 340.296,
+            "end_time": 360.785,
+            "text": "Sí, por eso el sistema es un sistema perverso.  Nosotros lo llamamos el modelo de la casta.  El modelo de la casta parte de una premisa con una fuerte idea socialista, ¿no?  Que es donde hay una necesidad nace un derecho.  Ahora, ¿cuál es el problema?  Que las necesidades son infinitas y en los derechos alguien los tiene que pagar. ",
+            "cosine_dist": 0.3000732177275912,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 360.945,
+            "end_time": 362.146,
+            "text": "Claro, los recursos no son infinitos. ",
+            "cosine_dist": 0.8912659192551031,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 362.166,
+            "end_time": 403.466,
+            "text": "Claro, entonces los recursos, te chocás contra la pared que son los recursos que son finitos.  Eso para un economista no es un problema, para un economista liberal se resuelve con propiedad privada.  Entonces eso genera el sistema de precios, aparecen los mercados, los precios, los individuos haciendo intercambios voluntariamente donde se intercambian derechos de propiedad.  Y eso genera los precios y eso genera señales que generan coordinación y ajustes.  Es un mecanismo de transmisión de información.  Y así funciona.  Ahora, esa solución que la metáfora la llama la mano invisible, no les gusta a los políticos.  A los políticos les gusta la garra del Estado.  Porque aparte en el medio se quedan con algo. ",
+            "cosine_dist": 0.26869138545310567,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 403.586,
+            "end_time": 431.039,
+            "text": "Por supuesto.  Has hablado de la casta.  ¿Mauricio Macri y Patricia Bullrich no eran parte de la casta?  Quiero decir, en el gobierno de Macri la inflación probablemente se duplicó y la moneda se devaluó un trescientos por ciento y la emisión inorgánica de billetes prosiguió a ritmo acelerado.  ¿No eran la casta?  Quiero decir, ¿no has pactado con la casta? ",
+            "cosine_dist": 0.7721984645582294,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 431.56,
+            "end_time": 434.428,
+            "text": "No.  No, no he pactado con la casta. ",
+            "cosine_dist": 0.6880512012284412,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 434.648,
+            "end_time": 439.07,
+            "text": "Pero antes de las PASO, la señora Bullrich no representaba parte de la casta. ",
+            "cosine_dist": 0.8540372416494642,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 439.23,
+            "end_time": 455.173,
+            "text": "A ver, vamos a ponerlo en estos términos.  Una de las cosas que siempre he explicado del gobierno de Macri es que Macri tenía las ideas correctas, la dirección correcta, pero había un problema en la velocidad. ",
+            "cosine_dist": 0.3689566161577823,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 456.274,
+            "end_time": 457.494,
+            "text": "Yo creo que Macri fracasó. ",
+            "cosine_dist": 0.9375072668237467,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 457.974,
+            "end_time": 458.774,
+            "text": "Claro que fracasó. ",
+            "cosine_dist": 0.7089193667324258,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 459.034,
+            "end_time": 460.655,
+            "text": "Del uno al diez, ¿cuánto le pondrías? ",
+            "cosine_dist": 0.8637455898909454,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 461075,
+            "end_time": 461355,
+            "text": "Cuatro. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 463.533,
+            "end_time": 469.098,
+            "text": "¿Y si fracasó, no fracasó por las mismas políticas populistas de la izquierda? ",
+            "cosine_dist": 0.6969038918548827,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 469.118,
+            "end_time": 577.882,
+            "text": "No, fracasó porque tenía una alianza heterogénea.  Es decir, la alianza heterogénea, lo que tiene que ver con la coalición cívica o con el al izquierda del radicalismo, o sea, el alfonsinismo, o la parte más blanda del PRO... conspiraban contra la dirección que llevaba.  Es como la cinchada, que unos tiran para un lado y otros tiran para el otro y te dejan inmóvil.  Por eso, vos fijate que una de las cosas que yo había propuesto tiempo atrás era la de crear un nuevo espacio donde viniera el ala dura del PRO, que vinieran los radicales de la línea de Alem, lo que se llama la línea nacional, o sea, la línea liberal, Y que ahí nosotros formáramos un nuevo espacio, que hiciéramos una interna y que el que ganaba gobernaba y el que perdía acompañaba.  En ese momento yo creo que ellos creían que Juntos por el Cambio era un vehículo ganador, era un vehículo que tenía chances de ganar.  Entonces decidieron mantener esa sociedad electoral y frente a la derrota... Es muy bueno el punto que hace Bullrich, porque el argumento de ellos y de Macri era si no somos el cambio no somos nada.  Acá había dos opciones de cambio y eligieron la de la libertad de avanza.  Lo lógico es que acompañemos la de la libertad de avanza.  Pero yo estoy de acuerdo, Jaime, con eso.  Pero fíjate esto.  Pero hay un dato no menor.  Las expresiones de cambio hacia las ideas de Alberti, hacia la libertad, Representan el cincuenta y cuatro por ciento.  Ahí está el trick.  Es decir, ha nacido algo nuevo, o sea... ",
+            "cosine_dist": 0.26101589785932533,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 578.122,
+            "end_time": 579.103,
+            "text": "Déjame hacerte una pregunta. ",
+            "cosine_dist": 0.8882885002951114,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 579.143,
+            "end_time": 579.943,
+            "text": "Sí, claro, cómo no. ",
+            "cosine_dist": 0.7230647241848354,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 579.963,
+            "end_time": 587.987,
+            "text": "Si tú no pasabas al Balotage y pasaban Bullrich y Massa, ¿tú habrías apoyado a Bullrich de la manera incondicional como ella te ha apoyado? ",
+            "cosine_dist": 0.7471865109731242,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 588.467,
+            "end_time": 609.987,
+            "text": "Sí, porque me parece que es la forma en que se hacen las cosas.  Pero te hago una pregunta, ¿no te parece que se terminó resolviendo lo que queríamos resolver originalmente y que no lo pudimos resolver por distintas cuestiones?  Y bueno, lo resolvimos con las internas, pero con las consecuencias que ello trae. ",
+            "cosine_dist": 0.33220141426302197,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 610.827,
+            "end_time": 618.431,
+            "text": "Yo te hago una pregunta, ¿no crees que Macri hubiera sido un mejor candidato que Vultrich y que Larreta?  Yo creo que sí. ",
+            "cosine_dist": 0.7820612492167768,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 624.434,
+            "end_time": 629.658,
+            "text": "Yo creo que la gente subestima el rol patriótico de Macri. ",
+            "cosine_dist": 0.4817155174267407,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 630.798,
+            "end_time": 632.18,
+            "text": "¿Por qué crees que no fue candidato? ",
+            "cosine_dist": 0.8549130604907856,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 632.92,
+            "end_time": 634.241,
+            "text": "Por una cuestión patriótica. ",
+            "cosine_dist": 0.6651954845811435,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 635.042,
+            "end_time": 641.987,
+            "text": "¿No crees que se inhibió porque tenía miedo de perder contigo?  Porque dijo, esa ola de mi ley, a ese león no lo puedo domar. ",
+            "cosine_dist": 0.7735886363593866,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 642.928,
+            "end_time": 653.018,
+            "text": "Yo creo que él tuvo un gesto de grandeza que al correrse Sacó de la cancha a Cristina Fernández de Kirchner. ",
+            "cosine_dist": 0.38601255660084366,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 654.239,
+            "end_time": 655.699,
+            "text": "¿Más querías ahora a tu amigo Javier? ",
+            "cosine_dist": 0.8816829476040352,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 656.92,
+            "end_time": 734.239,
+            "text": "No, pero yo hace tiempo que charlo con él.  Este tema yo nunca lo hablé con él.  Pero son cosas que yo le reconozco.  Es más, creo que nunca dije esto públicamente.  Pero para mí él jugó un rol estratégicamente muy importante... en términos patrióticos, terminó con la grieta entre kiserismo y macrismo.  Al correrse él, le dejó sin sentido a Cristina.  Entiendo.  Y Cristina tuvo que salir a buscar un heredero.  Bueno, y después, adentro de Juntos por el Cambio, se tuvo que resolver la interna, que es interesante, porque esa interna, a pesar de los recursos que volcó la reta... terminó perdiendo contra una posición de cambio.  Y lo más interesante es que en el proceso electoral gana una opción que tiene una idea de cambio mucho más acentuada.  Me parece que hay algo muy positivo.  Y me parece muy relevante el discurso del domingo veintidós de Bullrich.  Que obviamente yo escucho el discurso, tomo el guante y si vos me tirás Una pared, yo te la devuelvo redonda. ",
+            "cosine_dist": 0.3060450447057945,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 734.279,
+            "end_time": 740.422,
+            "text": "Por supuesto.  ¿Massa es tu enemigo o tu adversario?  ¿Cómo lo percibes? ",
+            "cosine_dist": 0.7751599767848504,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 741.323,
+            "end_time": 743.104,
+            "text": "No, yo lo percibo como el enemigo. ",
+            "cosine_dist": 0.5740096343204355,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 743684,
+            "end_time": 743964,
+            "text": "¿Por qué? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 744.865,
+            "end_time": 758.732,
+            "text": "Porque él es la continuidad del modelo de la casta.  Él es la mejor expresión de la casta.  Si la casta son los políticos ladrones, ¿qué ladrones más grandes que los kircheristas? ",
+            "cosine_dist": 0.3240079580278865,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 759.112,
+            "end_time": 761.174,
+            "text": "¿Pero Massa es más inteligente que Alberto Fernández? ",
+            "cosine_dist": 0.8977079170336834,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 761.274,
+            "end_time": 765.923,
+            "text": "Wait a minute.  Porque quiero ir sobre este concepto. ",
+            "cosine_dist": 0.5896708555295153,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 766.063,
+            "end_time": 766.963,
+            "text": "Sigue, sigue, por favor. ",
+            "cosine_dist": 0.847878843565187,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 768.344,
+            "end_time": 794.288,
+            "text": "Y está rodeado de los ladrones de la cámpora, a los cuales los iba a echar.  Y sin embargo los tiene en la lista.  Que los tenga escondidos no quiere decir que no estén.  La casta son los empresarios prevendarios.  Son todos amigos de él.  De hecho, esos mismos empresarios son los que cuando yo voy a dar una conferencia hablan pestes de mí.  Llámese los corruptos de la Cámara Argentina de la Corrupción. ",
+            "cosine_dist": 0.32983263255814776,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 794.869,
+            "end_time": 802.213,
+            "text": "Sí, pero si ganas van a ser los primeros que van a estar aplaudiéndote y adulándote, ¿no?  Son empresarios mercantilistas que se acomodan. ",
+            "cosine_dist": 0.6802964652617067,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 802.253,
+            "end_time": 815.698,
+            "text": "Bueno, digamos, el problema es que conmigo van a tener que competir.  Es decir, van a tener que ganarse el pan con el sudor de la frente.  O sea, van a tener que servir al prójimo con bienes de mejor calidad, o irán a la quiebra. ",
+            "cosine_dist": 0.3685013158657371,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 817.039,
+            "end_time": 818.099,
+            "text": "Eso es el capitalismo, ¿no? ",
+            "cosine_dist": 0.9064664460456119,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 818.119,
+            "end_time": 818.82,
+            "text": "De eso se trata. ",
+            "cosine_dist": 0.7385900022490501,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 819.0,
+            "end_time": 820.0,
+            "text": "Servir a los consumidores. ",
+            "cosine_dist": 0.7885734698813965,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 820.08,
+            "end_time": 839.837,
+            "text": "Exactamente.  El otro grupo de poder de casta es los sindicalistas que entregan a los trabajadores.  Y están con él.  Y si me pongo a ver los periodistas corruptos, También están con él.  Ey, vamos, sos el rey de la casta. ",
+            "cosine_dist": 0.37196115141348285,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 840.318,
+            "end_time": 844.58,
+            "text": "Cuando ganaste las PASO, ¿Maza te llamó, te felicitó, te mandó algún mensaje? ",
+            "cosine_dist": 0.788154346280399,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 845.14,
+            "end_time": 845.861,
+            "text": "No, nunca. ",
+            "cosine_dist": 0.9853926413350466,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 847.542,
+            "end_time": 859.769,
+            "text": "Y si él gana, ¿tú vas a asumir, más todavía si la elección es muy apretada y te gana por doscientos mil votos, ¿tú vas a asumir que la elección fue limpia, transparente, confiable? ",
+            "cosine_dist": 0.7284473254761139,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 861.5,
+            "end_time": 881.032,
+            "text": "Si no estamos en condiciones de cuidar los votos como corresponde, entonces no seríamos dignos ganadores.  O sea, si tengo que ir a resolver una elección en un escritorio, quiere decir que no lo hice bien.  Entonces, ¿qué otras cosas puedo querer controlar? ",
+            "cosine_dist": 0.3778936661733737,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 881.172,
+            "end_time": 886.135,
+            "text": "Eres muy competitivo.  Pero, ¿las elecciones de octubre del XXII fueron limpias, Javier? ",
+            "cosine_dist": 0.8026329154555553,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 886796,
+            "end_time": 886856,
+            "text": "No. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 888.942,
+            "end_time": 891.143,
+            "text": "¿Fue un fraude o hubo irregularidades? ",
+            "cosine_dist": 0.8285102546808394,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 892.263,
+            "end_time": 898.905,
+            "text": "Hubo irregularidades de semejante tamaño que ponen en duda el resultado. ",
+            "cosine_dist": 0.49105088884869064,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 900.326,
+            "end_time": 904.387,
+            "text": "¿Quién controla el poder electoral?  ¿Es independiente el poder electoral en la Argentina? ",
+            "cosine_dist": 0.7485647653415965,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 904.427,
+            "end_time": 907.188,
+            "text": "No, está muy influenciado por el poder político. ",
+            "cosine_dist": 0.4412208456470592,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 908.748,
+            "end_time": 909.829,
+            "text": "¿Y cómo puedes defender? ",
+            "cosine_dist": 0.8824643237853866,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 909.849,
+            "end_time": 915.533,
+            "text": "La saben bien esa de quien cuenta los votos.  Es el que lo controla todo. ",
+            "cosine_dist": 0.531553392498645,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 915.953,
+            "end_time": 923.917,
+            "text": "Si el que cuenta los votos es la Cámpora y Máximo Kirchner, ¿cómo podemos aceptar de buena fe un resultado? ",
+            "cosine_dist": 0.6388410293601757,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 925.037,
+            "end_time": 931.601,
+            "text": "No, no lo podés aceptar, pero el tema es, bueno, ¿qué otras alternativas tenés para jugar? ",
+            "cosine_dist": 0.4745244057861866,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 933.141,
+            "end_time": 936.243,
+            "text": "Conseguir mucha gente de tu espacio que vigile y fiscalice. ",
+            "cosine_dist": 0.738379539042907,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 936.503,
+            "end_time": 978.012,
+            "text": "Exactamente, y tratar de ganarles.  Por eso es que nosotros... Pedimos que se haga un esfuerzo tan grande en términos de fiscalización y de responsabilidad para cuidar los votos.  Porque si no, no es que es solamente responsabilidad nuestra.  Si la gente no nos acompaña, después no te quejes.  Es como si querían cambiar el feriado.  No, no lo tenés que cambiar.  Lo tenés que dejar igual, ¿sabés por?  qué?  Porque si después la gente, en lugar de ir a votar, que es lo que tiene que hacer para evitar que entremos en el espiral Venezuela que implica masa... ",
+            "cosine_dist": 0.3237881471073548,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 980.352,
+            "end_time": 981.453,
+            "text": "Masa es Venezuela, ¿no? ",
+            "cosine_dist": 0.8032861000403821,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 981.593,
+            "end_time": 987.814,
+            "text": "Masa es Venezuela.  La mejor muestra de ello fue lo que pasó días atrás, que nos quedamos sin combustible. ",
+            "cosine_dist": 0.36532625950350883,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 988.494,
+            "end_time": 989.955,
+            "text": "Ahora, qué interesante lo que... ",
+            "cosine_dist": 0.8841020356897867,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 989.975,
+            "end_time": 1037.135,
+            "text": "Pero lo que digo es... Si no te haces cargo de que tenés que ir a parar lo de las urnas y preferís irte de vacaciones, después si te arruinan la vida, no llores porque fuiste cómplice.  Igual de cómplices son los que hablan del voto en blanco o de no ir a votar.  O sea, cuando uno se los plantea... algunas de estas personas que históricamente se habían mostrado como antiquilleristas se ponen un poco enojados.  y en realidad, vamos a hacerlo con un ejemplo borgiano, viene en el límite.  Supongamos que solamente votan los que votaron a Avanza y los que votaron a la libertad de Avanza.  Y todos los demás votan en blanco o no van.  ¿Quién gana?  Gana más a cincuenta y cinco a cuarenta y cinco. ",
+            "cosine_dist": 0.28548373993402765,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1037.155,
+            "end_time": 1038.916,
+            "text": "Exacto, es preservar la diferencia. ",
+            "cosine_dist": 0.9746935647900313,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1038.936,
+            "end_time": 1044.381,
+            "text": "Bueno, exacto.  Bueno, entonces, pero... Bueno, parece que la lógica a algunos les molesta. ",
+            "cosine_dist": 0.46343052649162964,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1047.163,
+            "end_time": 1055.59,
+            "text": "¿Qué porcentaje de los más de seis millones de votos de Patricia Bullrich crees que se va con tu candidatura?  ¿Más del setenta por ciento? ",
+            "cosine_dist": 0.6654081730777202,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1055.63,
+            "end_time": 1065.038,
+            "text": "Nosotros... Yo en eso soy súper bilardista.  El diecinueve te digo. ",
+            "cosine_dist": 0.6148987159239023,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1065.518,
+            "end_time": 1069.0,
+            "text": "Bilardista en cuanto a conservador, prudente... ",
+            "cosine_dist": 0.8214672459365479,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1070441,
+            "end_time": 1070941,
+            "text": "Bueno, pero... ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1070.961,
+            "end_time": 1072.101,
+            "text": "No festejar antes de tiempo, ¿no? ",
+            "cosine_dist": 0.9938769431938227,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1072.161,
+            "end_time": 1093.721,
+            "text": "Exactamente.  Digo, ¿para qué me voy a estar haciendo conjeturas y demás?  De hecho, yo creo que en estos días el propio Sergio Massa hizo circular encuestas que nos muestran arriba para que la gente se relaje y no vaya a votar.  Y de esa manera tener más chances de ganar. ",
+            "cosine_dist": 0.2942774732178012,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1093.981,
+            "end_time": 1099.303,
+            "text": "Ah, no lo había interpretado de esa manera.  Porque son encuestadoras cercanas a él las que han dicho mi ley está arriba de cinco puntos. ",
+            "cosine_dist": 0.7882790678071316,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1099.323,
+            "end_time": 1147.564,
+            "text": "Bien, bien, exacto.  Bien, exacto.  Sí, la que hace el cuñado, que son diecisiete mil casos.  Entonces, ojo, ojo con la manipulación de la información en virtud de querer instalar un resultado y de esa manera afectar las decisiones de las personas.  Entonces... Esto va a ser una elección muy reñida, muy reñida.  Y además también tenemos que tener en cuenta que ellos juegan con el tema de la campaña negativa.  Básicamente contrataron... con la asistencia de Lula, a un grupo de brasileros que se dedican a hacerme campaña negativa, ensuciarme todo el día. ",
+            "cosine_dist": 0.29088331211303886,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1147.584,
+            "end_time": 1150.245,
+            "text": "Y hay que ver quién les paga, y cuánto les paga, ¿no? ",
+            "cosine_dist": 0.957512541145582,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1150.265,
+            "end_time": 1196.553,
+            "text": "Bueno, pero digamos, bueno, hay algunas denuncias que hizo la gente de Bolsonaro que estaban alertando que Lula estaba haciendo esta maniobra para financiar esta campaña negativa en mi contra.  Continuará mañana.  A la mierda los malditos empresarios A la mierda Sodomitas el capital Basta de basura que Inesiana.  Ha llegado el momento liberal.  Tenemos un líder y él es un gran rebelde. ",
+            "cosine_dist": 0.4740344358590409,
+            "is_target_speaker": true
+        }
+    ]
+}

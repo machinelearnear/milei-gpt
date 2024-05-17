@@ -1,0 +1,759 @@
+{
+    "Index": 48,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "G7cQ3ORMyhc",
+    "url": "https://www.youtube.com/watch?v=G7cQ3ORMyhc",
+    "title": "LA ÚLTIMA ENTREVISTA DE MILEI ANTES DE SER PRESIDENTE",
+    "duration": 1292.0,
+    "view_count": 550271,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 1",
+            "start_time": 0.06,
+            "end_time": 7.051,
+            "text": "Te han dicho raro, loco, nazi, pero estoy embarazada.  ¿A qué Argentina estoy trayendo a mi hijo o hija? ",
+            "cosine_dist": 1.006670744824789,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 7.071,
+            "end_time": 11.653,
+            "text": "El que ganemos nosotros va a ser testigo de la reconstrucción de la Argentina. ",
+            "cosine_dist": 0.3918900875342809,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 11.673,
+            "end_time": 12.353,
+            "text": "¿Y si no? ",
+            "cosine_dist": 1.0127963651990473,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 12.653,
+            "end_time": 14.854,
+            "text": "Probablemente veas a tu hijo emigrar. ",
+            "cosine_dist": 0.611142537649511,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 15.319,
+            "end_time": 36.354,
+            "text": "Tu personaje es amado y odiado.  ¿Quién te odia hoy?  Si masa luego de las elecciones, intentaría dialogar con vos.  ¿Qué haces?  ¿Qué te hizo realmente pasar de un modelo quizás más de choque a un modelo más diplomático?  Digo, en modos, ¿eh?  En modos, no en... ¿Qué mi ley preferís?  ¿El más quizás confrontativo o el más diplomático?  en términos de modos?  ¿Estás agradecido? ",
+            "cosine_dist": 0.93509412944263,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 37.034,
+            "end_time": 40.737,
+            "text": "Sí. ",
+            "cosine_dist": 0.8498332758834318,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 40757,
+            "end_time": 41177,
+            "text": "¿Te emociona? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 42.671,
+            "end_time": 59.586,
+            "text": "Acá con la remera de Osea, digamos Osea, la remera de Milay Presidente, la gorra de Milay, piluso de Milay, bueno, el peluca se puso las pilas y armó todo este merchandising que tiene envío gratis a todo el país y ya lo podés conseguir en el peluca milay.com. ",
+            "cosine_dist": 0.8788280134170585,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 59.626,
+            "end_time": 61.287,
+            "text": "¿Cómo estás Javier? ",
+            "cosine_dist": 0.8850969331016281,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 61.327,
+            "end_time": 62.388,
+            "text": "¿Qué tal Miguel? ",
+            "cosine_dist": 0.9680039926755422,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 62.428,
+            "end_time": 68.113,
+            "text": "Muy bien, ¿cómo estás?  Después de tanto vivido, tanto trayecto electoral... ",
+            "cosine_dist": 0.8975244421483288,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 69.588,
+            "end_time": 95.993,
+            "text": "Bueno, con el cansancio propio de una campaña, ¿no?  O sea, una campaña es muy demandante físicamente y que cuanto menos recursos financieros uno tiene, más esfuerzo físico hay que hacer.  y eso hace que llegue uno al final de la campaña muy cansado y obviamente que eso tiene algunos efectos físicos colaterales, ¿no?  Pero bueno, nada. ",
+            "cosine_dist": 0.37661550364659424,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 96.293,
+            "end_time": 96.993,
+            "text": "Estás cansado. ",
+            "cosine_dist": 1.006808894321486,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 98.223,
+            "end_time": 111.752,
+            "text": "Y sí, te cansás y la alimentación no es la que debería ser.  y bueno, pasan un montón de desequilibrios, le pasan a uno, pero bueno, es una causa que creo que vale la pena. ",
+            "cosine_dist": 0.416867210453285,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 111.994,
+            "end_time": 115.456,
+            "text": "No muchos saben, pero estoy embarazada. ",
+            "cosine_dist": 0.9512693300013177,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 116.137,
+            "end_time": 117.518,
+            "text": "¡Felicitaciones! ",
+            "cosine_dist": 0.6933788852017775,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 117.558,
+            "end_time": 133.109,
+            "text": "Muchas gracias.  Mi nena o nene van a ser, si Dios quiere, en fines de marzo.  Ya va a haber nuevo gobierno.  Mi pregunta es, ¿a qué Argentina estoy trayendo a mi hijo o hija?  ¿Con qué pensás que se va a encontrar? ",
+            "cosine_dist": 0.9246897481355514,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 133.609,
+            "end_time": 152.195,
+            "text": "Si se da el caso de que ganemos nosotros... Va a ser testigo de la reconstrucción de la Argentina, del fin de la decadencia y del inicio del camino para que Argentina vuelva a estar entre los mejores países del mundo. ",
+            "cosine_dist": 0.37857832672649083,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 152815,
+            "end_time": 153155,
+            "text": "¿Y si no? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 155.656,
+            "end_time": 167.741,
+            "text": "Va a estar en un lugar que va camino a ser la Villa Vicería más grande del mundo y que, si fuera ese caso, probablemente veas a tu hijo emigrar. ",
+            "cosine_dist": 0.40244092436778145,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 169.761,
+            "end_time": 174.967,
+            "text": "¿En algún momento pensaste, por qué me metí en toda esta lucha, por qué me metí en esto? ",
+            "cosine_dist": 0.8783374406959439,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 177.871,
+            "end_time": 225.608,
+            "text": "Sí, en parte el motivo por el que me metí es, yo estaba muy involucrado con la batalla cultural.  Yo me dedicaba a dar conferencias, a hablar sobre las ideas de la libertad.  Y en un momento, durante la cuarentena cavernícola impulsada por el presidente Alberto Fernández, sentí como el Estado me perseguía armándome operaciones.  Y además, Leandro Santoro, diputado nacional por Cava, pedía mi censura en los medios de comunicación. ",
+            "cosine_dist": 0.3664831540160808,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 226.429,
+            "end_time": 227.189,
+            "text": "¿Tuviste amenazas? ",
+            "cosine_dist": 0.8941691736667048,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 228.79,
+            "end_time": 230.811,
+            "text": "Sí, esas cosas en la política también pasan. ",
+            "cosine_dist": 0.5744996587929168,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 231.872,
+            "end_time": 234.993,
+            "text": "¿Que puedas contar alguna amenaza que hayas recibido dentro de lo que se pueda contar? ",
+            "cosine_dist": 0.968276066247257,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 235.133,
+            "end_time": 275.028,
+            "text": "No tiene sentido, pero sí hubo algunos episodios poco agradables.  La realidad... ¿Pero yo temiste por tu integridad física en algún momento?  Bueno, digamos, son chicos que juegan fuerte.  Y cuando yo vi que se estaba complicando la batalla cultural y veía cómo le habían dejado de dar lugar a los economistas liberales en los medios, ahí decidí meterme en política.  La verdad que les salió bastante mal la jugada porque ahora estoy disputando cabeza a cabeza la presidencia. ",
+            "cosine_dist": 0.4389363857564369,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 275.638,
+            "end_time": 293.155,
+            "text": "Justo ahí va.  A la prensa internacional le asombra que un ministro de Economía, hoy candidato, haya llegado a este punto electoral teniendo en cuenta los índices de inflación y de pobreza que tiene la Argentina.  ¿Cómo explicarles ese contexto, el contexto argentino? ",
+            "cosine_dist": 0.9015775187014731,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 293.996,
+            "end_time": 378.963,
+            "text": "Bueno, cuando vos tenés populismo... y tenés populistas gobernando vía la lógica de la tiranía de las mayorías, ellos están dispuestos a utilizar todas las palancas del Estado para acometer todas las acciones posibles que les permita ganar una elección.  Entonces, Sergio Massa no tiene problema en patinarse dos puntos del PBI.  para ganar una elección, aun cuando esté violando las leyes de veda electoral y demás en materia de políticas, y lo hace y no tiene ningún problema de hacer campaña sucia, de hecho contrató a unos brasileros, para dedicarse a ensuciarme todo el tiempo.  Y obviamente que esto lo hace con la complicidad de Lula, que además lo financia.  Entonces ahí tenés otro problema más de cómo otros países se intrometen en la lógica electoral de un país.  Y eso es propio de lo que es la lógica del Foro de San Pablo y ahora Grupo Puebla.  Y no por nada, digamos... más ha cosechado el apoyo de socialistas como Pedro Sánchez, como Lula, como Maduro, como Boric, es decir, como López Obrador.  Es decir, gente que desprecia la libertad. ",
+            "cosine_dist": 0.30458279119074005,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 379.683,
+            "end_time": 382.665,
+            "text": "¿Ese sería tu antimodelo latinoamericano? ",
+            "cosine_dist": 0.9624663612092235,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 382.725,
+            "end_time": 393.233,
+            "text": "Obviamente, ese es el modelo que hundió a América Latina en lo que es.  De hecho, la decadencia argentina tiene que ver con haber abrazado esas ideas. ",
+            "cosine_dist": 0.42375592609926716,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 393.8,
+            "end_time": 397.144,
+            "text": "¿Tu modelo latinoamericano cuál sería?  ¿El Salvador, Bukele? ",
+            "cosine_dist": 0.9075371849319074,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 397.244,
+            "end_time": 442.05,
+            "text": "No, no, mi modelo es la constitución de Alberti de mil ocho cincuenta y tres.  Argentina cuando puso en marcha esas ideas, a partir de mil ocho sesenta, De ser un país de bárbaros, en treinta y cinco años se convirtió en la primer potencia mundial.  Y cada vez que un país abraza las ideas de la libertad, progresa.  Un ejemplo más reciente es el de Irlanda.  Irlanda era el país más miserable de Europa.  Y sin embargo, cuando abrazó la silla de la libertad, empezó a crecer fuertemente y hoy tiene un PBI bastante más grande que el per cápita, que el de Estados Unidos.  Entonces, es como que es la fórmula de la prosperidad, abrazar la silla de la libertad. ",
+            "cosine_dist": 0.35881911702336056,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 442.541,
+            "end_time": 460.912,
+            "text": "Javier, Kant analizaría la sociedad en términos de minoría de edad.  Minoría de edad en cuanto a una sociedad o sectores de la sociedad o individuos que no piensan por sí mismos, sino que lo hacen influenciados o, si se quiera, adoctrinados por otro.  ¿Ves algo de eso en nuestra sociedad? ",
+            "cosine_dist": 0.9256541718260414,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 462.972,
+            "end_time": 469.435,
+            "text": "Sí, de hecho la educación pública en Argentina trabaja como un mecanismo de adoctrinamiento. ",
+            "cosine_dist": 0.474776693530923,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 471.535,
+            "end_time": 474.576,
+            "text": "Ves adoctrinamiento en nuestra educación, digamos. ",
+            "cosine_dist": 0.9433628930674932,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 475.157,
+            "end_time": 535.009,
+            "text": "Sí, claramente.  Cuando vos mirás los contenidos de los... de los textos y de la currícula, lo que vos notás es que hay una clara influencia de la izquierda.  Mira, hay un ejemplo, está bien, esto es a nivel universitario, pero vale para toda la educación argentina.  Axel Kaiser, digamos, abogado y filósofo chileno, liberal, brillante... fue a la Facultad de Filosofía acá en Argentina y todo el material de la carrera la puso en el piso y le sacó una foto.  Y eso lo comparó contra universidades estándares mundial.  Y adivina qué descubrió.  Que en todo el mundo los contenidos estaban repartidos, la biblioteca estaba repartida.  Bueno, acá era solamente socialismo. ",
+            "cosine_dist": 0.30932109182204237,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 535.389,
+            "end_time": 543.311,
+            "text": "Vamos al mundo, los principales aliados que tendrías Israel y Estados Unidos.  En cuanto a Israel, ¿qué es Israel para vos?  ¿Qué admiras? ",
+            "cosine_dist": 0.9451020352166501,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 544.231,
+            "end_time": 565.44,
+            "text": "Yo lo que admiro de Israel es la cultura.  A mí me produce mucha admiración cómo logran articular el mundo espiritual con el mundo real.  Eso me parece formidable, me parece admirable. ",
+            "cosine_dist": 0.38803346319195353,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 566060,
+            "end_time": 566580,
+            "text": "¿Desde cuándo? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 567.942,
+            "end_time": 648.99,
+            "text": "Mira, yo siempre tuve una admiración bastante marcada.  En los primeros momentos, inconscientemente.  Y después ya de manera más consciente.  Yo recuerdo que siempre para Semana Santa la única película que no me perdía nunca era Los Diez Mandamientos.  Y evidentemente ya tenía una atracción muy fuerte por la personalidad de Mollet.  Pero después con el correr de los tiempos yo tuve un alumno que además estudiaba para Rabino.  Y a mí me sorprendía el tipo de preguntas que él me hacía.  Claro.  Entonces la pregunta era, ¿de dónde sacás esta forma de hacer preguntas?  Porque esto es genial.  A mí se es re fácil.  Cuando me dijo es re fácil, digo, más me sacó del eje.  Y entonces me dice, no, porque yo a la mañana estudio, digamos, para Rabino.  Entonces nosotros estudiamos esta interpretación.  Dije, es esto.  Tuve la dicha de conocer a Axel Banisch.  Ajá.  que de hecho hoy es mi rabino de cabecera, es una persona verdaderamente formidable y obviamente que junto con mi hermana son mis guías espirituales. ",
+            "cosine_dist": 0.3259008482306123,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 649.684,
+            "end_time": 652.966,
+            "text": "¿Qué pensás del conflicto actual en Israel? ",
+            "cosine_dist": 0.9658652924556279,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 653.126,
+            "end_time": 714.374,
+            "text": "Cuando hice mi discurso en el Congreso, yo no solo que condené los actos terroristas del grupo Hamas, sino que además también manifesté mi solidaridad con Israel, pero sobre todas las cosas manifesté de manera enfática mi apoyo al derecho de la legítima defensa de Israel.  Y no me quedé en eso.  Mandé un proyecto para eso, que logramos el acuerdo de los presidentes de bloque y fue publicado.  Y dado que para definir como terroristas a Hamas hay distintas metodologías y no las teníamos disponibles como para poder hacerlo de manera abierta, Mandamos al otro día un proyecto instando al Ministerio de Economía que desde la UIF investigue a Hamas para declararlo como grupo terrorista. ",
+            "cosine_dist": 0.283596207071358,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 714.394,
+            "end_time": 719.116,
+            "text": "O sea, para incluirlo dentro de las listas argentinas de grupos terroristas.  Exactamente. ",
+            "cosine_dist": 0.8766529184651664,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 719.136,
+            "end_time": 735.721,
+            "text": "Y de hecho nuestra declaración fue de avanzada porque... Un día después el G-Siete sacó una declaración en línea como la que habíamos hecho nosotros.  Estamos orgullosos que además en el plano internacional hicimos una buena apreciación. ",
+            "cosine_dist": 0.40512847472667135,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 736.121,
+            "end_time": 746.463,
+            "text": "Y Javier, en caso de ser presidente, ¿qué harías para intentar recuperar a los argentinos que están secuestrados por jamás en Gaza? ",
+            "cosine_dist": 0.8291310980180918,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 746.969,
+            "end_time": 808.309,
+            "text": "A ver, uno, digamos, tiene que pedir por la recuperación de todos los secuestrados, no solo los argentinos.  O sea, como definición, digamos, es para todo.  De hecho, nosotros, fíjate que en el comunicado ese que armamos, usamos un término técnico muy concreto que se llama tregua sanitaria.  Que no es que, ni siquiera requiere el cese el fuego.  Esto es muy importante.  pero abre un canal por el cual vos podés rescatar a las personas sin que cese el fuego.  Pero abrís una instancia para que puedan salir las personas.  Las hostilidades siguen, pero tenés un canal por donde podés sacar a la gente sin lastimarla.  Eso hace que no se le pida a las partes declinar en su accionar bélico, pero al mismo tiempo que se le dé solución a los rehenes. ",
+            "cosine_dist": 0.28368376110031945,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 808.629,
+            "end_time": 820.755,
+            "text": "Realmente, estamos con poco tiempo, pero ¿realmente cambiarías la embajada de Israel de Tel Aviv a Jerusalén?  Aunque seas criticado por mandatarios del mundo. ",
+            "cosine_dist": 0.9019431775136391,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 820.775,
+            "end_time": 823.037,
+            "text": "No me importa, creo que es lo correcto. ",
+            "cosine_dist": 0.6648557233730059,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 824.317,
+            "end_time": 827.499,
+            "text": "¿Te convertirías al judaísmo durante o luego de tu carrera política? ",
+            "cosine_dist": 0.9480977069758267,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 829.349,
+            "end_time": 830.05,
+            "text": "Durante mi carrera... ",
+            "cosine_dist": 0.8139894647917326,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 830.07,
+            "end_time": 830.77,
+            "text": "Es complejo, ¿eh? ",
+            "cosine_dist": 1.015719243217719,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 830.81,
+            "end_time": 832.151,
+            "text": "Es muy complejo. ",
+            "cosine_dist": 0.9210154037692079,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 832711,
+            "end_time": 832911,
+            "text": "Sí. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 833.372,
+            "end_time": 845.639,
+            "text": "Porque no podría cumplir con todos los preceptos, dadas las demandas que tendría como presidente.  Que vos sabes que para un converso, si sos un converso, las tienes que cumplir todas. ",
+            "cosine_dist": 0.36549541435896316,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 846.12,
+            "end_time": 850.502,
+            "text": "Pero digo, en caso de ser presidente, ¿te comprometerías el nombre y la Torah, por?  ejemplo? ",
+            "cosine_dist": 0.9086601220140988,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 851.503,
+            "end_time": 861.76,
+            "text": "Mira, yo, digamos, tengo... Yo lo tengo contemplado como después de terminada mi acción política, la conversión. ",
+            "cosine_dist": 0.49190204219025124,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 863.562,
+            "end_time": 869.446,
+            "text": "Cerrando voy un punteo rápido.  Tu personaje es amado y odiado.  ¿Quién te odia hoy para vos? ",
+            "cosine_dist": 0.8604139698241625,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 870.627,
+            "end_time": 877.133,
+            "text": "Los ladrones, los delincuentes, la casta, los que arruinaron el país.  Esos me odian. ",
+            "cosine_dist": 0.5435987892966301,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 877.633,
+            "end_time": 883.458,
+            "text": "¿Con quién no tendrías diálogo a pesar de que lo necesitaras o de que la otra parte lo requiriera? ",
+            "cosine_dist": 0.908910124526989,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 884.087,
+            "end_time": 894.097,
+            "text": "Yo no tengo diálogos con los comunistas, con los que odian la libertad, con los que odian la democracia y los que están en contra de la paz. ",
+            "cosine_dist": 0.3788730416442825,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 895.999,
+            "end_time": 900.403,
+            "text": "Si más salvo de las elecciones intentaría dialogar con vos, ¿qué haces? ",
+            "cosine_dist": 0.9801269069567811,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 903.659,
+            "end_time": 907.04,
+            "text": "no veo motivo para el cual, digamos, intente hacerlo. ",
+            "cosine_dist": 0.5234850331502693,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 907.36,
+            "end_time": 913.723,
+            "text": "Ok.  Viendo tu trayecto hasta acá, ¿qué te hizo realmente pasar de un modelo quizá más de choque a un modelo más diplomático? ",
+            "cosine_dist": 0.9636666671503309,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 913.743,
+            "end_time": 919.166,
+            "text": "Digamos, no he negociado ninguna de mis banderas.  Mis banderas siguen siendo la misma. ",
+            "cosine_dist": 0.5538566793887397,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 919.886,
+            "end_time": 922.127,
+            "text": "Probablemente... Digo, en modos, ¿eh?  En modos, no en... ",
+            "cosine_dist": 0.9667954090836355,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 922.587,
+            "end_time": 944.879,
+            "text": "Pero es que el tema de los modos... tiene que ver también con el tipo de espacios que fui ocupando.  Entonces, cuando yo iba a Intratables y me ponían en una relación quince a uno, era una cosa.  Después, con el paso del tiempo, en una entrevista mano a mano, los modos cambian. ",
+            "cosine_dist": 0.38665116711661285,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 945.139,
+            "end_time": 952.122,
+            "text": "¿Qué mi ley preferís?  ¿El más quizá confrontativo o el más diplomático en términos de modos? ",
+            "cosine_dist": 0.9477763379125783,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 952.842,
+            "end_time": 956.364,
+            "text": "No, prefiero el mi ley que necesito para cada momento. ",
+            "cosine_dist": 0.47355583398001644,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 957.869,
+            "end_time": 968.371,
+            "text": "¿Cómo cambiar el paradigma de corrupción de la Argentina?  Desde el que recibe una coima de menor valor hasta los casos que conocemos.  Digo, ¿meterías a todos presos?  Son miles, imagino. ",
+            "cosine_dist": 0.8838940776021742,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 968.511,
+            "end_time": 1002.59,
+            "text": "Pero el punto central es entender que la corrupción es inherente a la existencia del Estado.  Porque en realidad un empresario, por más corrupto que sea, no puede comprar favores que el Estado no tiene para vender.  Entonces, la corrupción existe porque existe el Estado.  El proceso de mercado limpia la corrupción.  Donde no se limpia la corrupción es en la existencia del Estado.  Por lo tanto, la mejor forma de combatir la corrupción es minimizar el Estado a su mínima expresión. ",
+            "cosine_dist": 0.334737668636118,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1002.61,
+            "end_time": 1003.93,
+            "text": "¿Y eso sería? ",
+            "cosine_dist": 1.0612308420086263,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1004.19,
+            "end_time": 1012.291,
+            "text": "Todo lo que pueda hacer el sector privado lo tiene que hacer privado.  Hay que llevar a su mínima expresión la intervención del Estado.  Lo que pasa es que eso no es instantáneo. ",
+            "cosine_dist": 0.4771469035792081,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1012.411,
+            "end_time": 1016.732,
+            "text": "No, más vale que no.  ¿Dolarización?  ¿En un año dolarizarías? ",
+            "cosine_dist": 0.8878576283741174,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1017.543,
+            "end_time": 1019.965,
+            "text": "Nosotros creemos que en un año se puede llegar a dolarizar, sí. ",
+            "cosine_dist": 0.6111857834786549,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1020.185,
+            "end_time": 1020.885,
+            "text": "¿Miedo a la muerte? ",
+            "cosine_dist": 1.0098168156702398,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1021926,
+            "end_time": 1022066,
+            "text": "No. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1023.307,
+            "end_time": 1024.108,
+            "text": "¿Estás agradecido? ",
+            "cosine_dist": 1.0037786263610886,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1025.268,
+            "end_time": 1026.93,
+            "text": "Sí, muy agradecido. ",
+            "cosine_dist": 0.6996370742353268,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1027369,
+            "end_time": 1027950,
+            "text": "¿A qué y a quién? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1029511,
+            "end_time": 1030012,
+            "text": "A Jem. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1033394,
+            "end_time": 1033875,
+            "text": "¿Te emociona? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1036.916,
+            "end_time": 1124.655,
+            "text": "Me permite ver la vida de una manera que he crecido muchísimo y hace que la vida sea... Un continuo de felicidad.  ¿Qué es lo que más te emociona?  Me emociona todo lo que es el aprendizaje en la vida.  Todo, digamos, saber procesarlo en términos de aprendizaje.  Aprender de cuando te va mal y lo más difícil, aprender de cuando te va bien.  Porque en general cuando te va bien hay una tendencia a subirse al pony que... Bueno, que es después la base del fracaso también, ¿no?  Entonces, me parece que ese continuo aprendizaje es maravilloso.  O sea, es que es muy loco porque mucha gente... Dios cree que la vida, no sé, es una cosa oscura, gris, y con algunos momentos buenos y algunos momentos malos.  Y que cuando hacen la cuenta tienen más malos que buenos.  El protector de pantalla de mi computadora dice ANTF.  La alegría no tiene fin.  O sea, para mí la vida es un continuo de alegrías con algunos episodios tristes que te toca vivir, que también, digamos... Bueno, vivir también implica que también te vas a morir. ",
+            "cosine_dist": 0.3699897371180514,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1126.476,
+            "end_time": 1133.499,
+            "text": "Las críticas que te han hecho y te han repetido tanto, te han dicho raro, loco, nazi, ¿te hizo dudar de vos mismo en algún momento? ",
+            "cosine_dist": 1.0266233262982047,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1133.899,
+            "end_time": 1213.168,
+            "text": "No.  Nunca.  Pero igual, porque ninguna de esas críticas son más duras que mi propia autocrítica.  Entonces, como yo vivo en un proceso de autocrítica permanente, yo me acuerdo que mi analista, que en paz descanse, era un ser humano formidable, Marcos, que siempre lo recuerdo con tanto cariño.  Un día estábamos en una charla y le digo, bueno, En el noventa y siete coma cinco por ciento de los casos, esto está bien.  Entonces, como que sí, había aceptado un error del dos coma cinco por ciento.  Entonces, me dijo, no van a pasar muchas sesiones y te voy a tener que recordar esto, de que aceptaste dos coma cinco por ciento de error.  Trato de ser, digamos, así como uno trata de ser empático con terceros, hay una situación en la cual te tendrías que mirar, pero como desde afuera.  Porque a veces uno se mira como uno mismo que piola.  Entonces, ah, sí, seguro, siempre está bien.  No.  Por algo hay gente que a uno lo critica.  Bueno, entonces hay que trabajar desde esa forma. ",
+            "cosine_dist": 0.3408345232516249,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1213.707,
+            "end_time": 1220.274,
+            "text": "Muchas gracias, Javier.  Churchill diría que un buen estadista no es quien piensa en las próximas elecciones, sino en las próximas generaciones. ",
+            "cosine_dist": 0.9342890360705414,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1220.294,
+            "end_time": 1227.661,
+            "text": "Bueno, nosotros hemos presentado un programa de gobierno que oscila entre treinta y cinco y cuarenta y cinco años. ",
+            "cosine_dist": 0.5428303467297749,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1227.901,
+            "end_time": 1229.883,
+            "text": "Por un país mejor, pase lo que pase. ",
+            "cosine_dist": 1.0109737395799974,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1230.606,
+            "end_time": 1232.047,
+            "text": "obviamente que vamos a trabajar por ello. ",
+            "cosine_dist": 0.6390102436397943,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1232.388,
+            "end_time": 1240.716,
+            "text": "Te voy a regalar esto.  Es un libro, una historia muy interesante en términos de valores y de vida.  Así que creo que... ",
+            "cosine_dist": 0.934558521265457,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1240.816,
+            "end_time": 1260.21,
+            "text": "Te lo agradezco infinitamente.  No, no, impresionante.  Te lo agradezco infinitamente porque este es un excelente libro.  Estuve recientemente en... en New York y hasta tuve el privilegio de conocer la que era la oficina del Reve. ",
+            "cosine_dist": 0.5902099072545579,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1260610,
+            "end_time": 1260830,
+            "text": "Mira. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1261.09,
+            "end_time": 1266.454,
+            "text": "Así que sí, sí, dio una personalidad superlativa. ",
+            "cosine_dist": 0.6029554060741822,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1266.614,
+            "end_time": 1291.857,
+            "text": "Superlativa.  Muchísimas gracias por tu tiempo.  Muchísimas gracias.  Basta de basura keynesiana, ha llegado el momento liberal.  Tenemos un líder y él es un gran rebelde. ",
+            "cosine_dist": 0.9474592339016918,
+            "is_target_speaker": false
+        }
+    ]
+}

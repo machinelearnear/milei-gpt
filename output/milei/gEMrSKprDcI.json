@@ -1,0 +1,2447 @@
+[
+    {
+        "speaker": "Speaker 1",
+        "start_time": 0.38,
+        "end_time": 2.031,
+        "text": "Señor Presidente, ¿cómo le va?  Buen día, ¿cómo le va? ",
+        "cosine_dist": 0.9422726335320175,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3.071,
+        "end_time": 4.993,
+        "text": "Buen día, Horacio.  Un gusto enorme hablar contigo. ",
+        "cosine_dist": 0.8443672469983481,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 5.153,
+        "end_time": 10.897,
+        "text": "Gracias, igualmente.  Le agradezco mucho su tiempo.  ¿Cómo está? ",
+        "cosine_dist": 0.78600107993398,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 13.299,
+        "end_time": 15.981,
+        "text": "Muy bien, excelente.  Bien, bien. ",
+        "cosine_dist": 0.8421266668008526,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 16.762,
+        "end_time": 23.707,
+        "text": "Muy bien, excelente.  Semana... Semana intensa tuvo, ¿no?  ¿O todas las semanas son intensas? ",
+        "cosine_dist": 0.7891616241909842,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 24.948,
+        "end_time": 262.54,
+        "text": "Todas las semanas son intensas.  O sea, estamos trabajando... fuertemente para sacar al país del periodo más oscuro que le ha tocado vivir en estos cien años de decadencia.  Y eso requiere de mucho trabajo, de mucha convicción, de mucho coraje, pero la realidad es que para eso nos metimos, así es que yo decidí meterme en este trabajo, así es que Ahora lo estoy resolviendo y lo llevo de la mejor manera y sobre todas las cosas con mucho optimismo porque de cara al futuro ya se empieza a percibir con claridad que la Argentina está mucho mejor.  Es decir, hay algunos indicadores que, por ejemplo, salió en un relevamiento que hizo Federico Aurelio, que son verdaderamente... Si bien hoy una gran parte de la población reconoce que está mal, la cantidad de personas que se reconocen que están mal es cada vez menor.  Y las personas que reconocen que cada vez está mejor, está subiendo.  Por otra parte, cuando uno mira las expectativas de cara al futuro, cuando nosotros asumimos... ...solamente el veinte por ciento, creía que de cara al próximo año... ...las cosas iban a mejorar, y hoy ese número no sólo que está... ...ya arriba del cincuenta, digamos, está claro que está por encima... ...de los que la ven mal, por lo tanto, lo que uno está viendo... ...es que el humor social está cambiando, porque efectivamente... ...la economía está mejorando, pensemos que la inflación mayorista... cuando nosotros asumimos estaba en el cincuenta y cuatro por ciento, que es equivalente al diecisiete mil por ciento anual, ese cincuenta y cuatro hoy está en cinco, ¿sí?  Es decir, casi una onceava parte.  La inflación minorista de niveles del veinticinco está en torno al diez, se espera que de cara al futuro la inflación ya entre en el terreno de un dígito, que la CORE esté cerca del cinco por ciento, es decir... poquito más, pero ya acercándose al cinco por ciento, si uno mira los datos de las últimas dos semanas en alimentos y bebidas hay deflación y en otros rubros también empieza a haber signos de deflación, es decir que esta pelea contra la inflación está dando verdaderamente resultados, además empezamos a tener sectores que están recuperándose, pero de manera importante, que es como el caso de lo que tiene que ver con el petróleo, con el gas, con la minería, con el campo.  Además, cuando uno mira los bienes no durables, de consumo no durable, digamos, están estables.  y después es propio del ciclo que los bienes de capital y los bienes de consumo durable caigan, pero se empieza a ver un recorte de las caídas, ya empieza a haber indicadores que muestran que se habría tocado el piso, los indicadores adelantados de actividad están mostrando que, por ejemplo, el índice líder de la DITELA dio para arriba, o sea, entonces uno empieza a ver indicadores que están mejorando.  y no solo eso, sino que además Otro tema que es muy importante, los salarios ya empezaron a ganarle a la inflación.  Esto quiere decir que se están recomponiendo los salarios reales.  También, digamos, se está llevando a cabo la recomposición de las jubilaciones.  Entonces, cuando uno se fija, es más, estas mejoras son tan notables que ha vuelto el crédito hipotecario en la Argentina. ",
+        "cosine_dist": 0.4313443740027426,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 263.221,
+        "end_time": 305.121,
+        "text": "Sí.  Mire, presidente, perdónenme que lo interrumpa.  Sí, por favor.  Usted me está diciendo, hay mucha gente que percibe que está mejor, pero hay mucha gente que percibe que no está mejor, que está preocupada y que... Por ejemplo, no tiene la menor idea de qué es el CORE, o no sabe lo que es la DITELA, o dice ojalá tuviera bienes de capital.  Parece gente que está preocupada y que siente que usted, por lo que le dicen, está haciendo las cosas mal, está empeorando la situación, está empobreciendo el país.  ¿Qué le diría a esa persona que todavía siente que está mal y que siente que usted es el enemigo público del país? ",
+        "cosine_dist": 0.6938782726376445,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 305.141,
+        "end_time": 549.404,
+        "text": "A ver, de hecho yo no negué que la situación esté mal.  Lo que estoy diciendo es que los que perciben que la situación está mal son cada vez menos.  Y que los que perciben que la situación está mejor son cada vez más.  Y que la gran mayoría está empezando a ver que para adelante vamos a estar mejor.  Y que la realidad es que vamos a estar mejor porque los salarios le están empezando a ganar a la inflación, los jubilados están recomponiendo sus ingresos, Entonces la actividad económica ya encontró un piso y ahora está rebotando, por lo tanto le diría que de cara al futuro la tasa de inflación va a seguir bajando y los niveles de actividad van a estar mejorando.  Y eso se va a manifestar en una mejora para todos los argentinos.  Entonces eso está ocurriendo, lo que pasa es que Es mentira que eso se pueda hacer de manera instantánea.  Una de las grandes mentiras que se le ha vendido a los argentinos durante mucho tiempo es que uno podía arreglar estas cosas de manera instantánea.  Cuando uno intenta arreglar estas cosas de manera instantánea es porque lo está haciendo por la vía violenta.  Y cuando usted aplica alguno de esos mecanismos violentos de política económica, la consecuencia es que usted avanzó un paso y después retrocede cinco.  Entonces, por eso, a ver... A ver, esto es típico de los populismos, típico de lo que ha hecho el kirchnerismo.  Entonces tuvimos más de veinte años de populismo en lo que va a este siglo, cuando, por ejemplo, nosotros tomamos los salarios en dólares que había en la década del noventa y los traemos a plata de hoy, hoy los salarios de Argentina tendrían que ser de tres mil dólares.  De seiscientos dólares, es decir, perdimos el ochenta por ciento de nuestros ingresos.  Fíjese el daño que le ha hecho el populismo.  Esta idea de estimular el consumo, castigar el ahorro.  Castigar el ahorro significa castigar la inversión.  Y si usted castiga la inversión, el stock de capital per cápita... es menor.  Y si el stock de capital per cápita es menor, la productividad es menor y, consecuentemente, los salarios son más bajos.  No es lo mismo trabajar con una computadora que sin una computadora, por decirlo de alguna manera.  No es lo mismo tener un tractor que tener que ir con un caballo o con un burro.  No es lo mismo.  Bueno, pero cuando usted se castiga el capital, justamente lo que pasa es eso.  Entonces, se castigó el capital robándoles el retorno, se castigó el capital castigando al ahorro.  Entonces, usted no generó ahorro, no tuvo inversión.  Bueno, es lo que está pasando.  Es decir, ha destruido su PBI per cápita.  En los últimos trece años el PBI per cápita ha caído quince por ciento.  Eso es una catástrofe.  Bueno, nosotros vinimos a hacer un cambio de ciento ochenta grados, vinimos a recomponer el país.  Fíjese esto que es importante, porque yo acabo de hacer mucho énfasis sobre el tema del capital per cápita.  Sobre la inversión, y para financiar el ahorro, la inversión es necesaria, el ahorro.  Una de las cosas que nosotros estamos haciendo, achicando el déficit fiscal en quince puntos del PBI, donde cinco estaban en el Tesoro y diez en el Banco Central.  Eso significa que ese ahorro, en lugar de ser usado por el parásito estatal, el estado parasitario que hay en Argentina, que estamos a brazo partido tratando de desarmarlo, implica que ese ahorro ahora va a ir hacia el sector privado.  Y eso se va a transformar, ya sea en consumo o se va a transformar en inversión.  Y eso promueve el crecimiento.  Así es que aparece el crédito hipotecario.  Así es como las empresas están... de nuevo teniendo acceso al crédito.  Es más, están subiendo los depósitos tanto en pesos como en dólares en Argentina. ",
+        "cosine_dist": 0.37398434435001093,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 549.464,
+        "end_time": 555.727,
+        "text": "Está fuerte el peso, es la moneda que más se fortaleció en el mundo en los últimos meses. ",
+        "cosine_dist": 0.8838464716995293,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 555.907,
+        "end_time": 563.17,
+        "text": "O sea, quiere decir que entonces algo bien estaremos haciendo, porque nosotros no paramos de comprar dólares. ",
+        "cosine_dist": 0.49615728799404957,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 563.29,
+        "end_time": 573.355,
+        "text": "El otro día Manuel Adorni dijo, guarda que la motosierra llegó y llegó para quedarse.  Y a mí me dio un poco de miedo, porque dije, bueno, en algún momento tiene que parar la motosierra, porque si no nos vamos a quedar sin ramas, nos vamos a quedar sin árboles. ",
+        "cosine_dist": 0.7033321061700006,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 574.596,
+        "end_time": 579.92,
+        "text": "Bueno, pero todo depende, digamos, si es una rama que te está por romper un ojo... ",
+        "cosine_dist": 0.5545417420462366,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 581.38,
+        "end_time": 581.981,
+        "text": "Hay que cortarla. ",
+        "cosine_dist": 0.839511182814069,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 582.361,
+        "end_time": 585.063,
+        "text": "¿Qué hacemos?  Ah, ok, listo.  Entonces, vamos por esto. ",
+        "cosine_dist": 0.596162548823719,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 586.103,
+        "end_time": 587.785,
+        "text": "Y hay mucha gente que dice... ",
+        "cosine_dist": 0.8854892115801261,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 588.225,
+        "end_time": 594.729,
+        "text": "Horacio, Horacio, un segundo, porque esa frase de Adorni a mí me parece brillante.  Ojalá hubiera sido mía. ",
+        "cosine_dist": 0.5622236859817732,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 595.642,
+        "end_time": 599.484,
+        "text": "La motosierra quedó para siempre. ",
+        "cosine_dist": 0.776204098369278,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 600.484,
+        "end_time": 634.331,
+        "text": "Claro, porque esto es importante.  Nuestra idea es frizar el gasto público.  Entonces, en la medida que la economía crece y genera mayores ingresos fiscales, la idea es ir recortando, bajando impuestos y devolvérselos a la gente.  Entonces, y eso hace que el gasto público en términos de PBI, es decir, la presencia del Estado en términos del PBI caiga.  Y cuando eso pasa, usted gana libertad. ",
+        "cosine_dist": 0.47244065582986494,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 635.091,
+        "end_time": 642.214,
+        "text": "¿Y no hay riesgo que la motosierra, en el hecho de cortar, se esté llevando ramas que no están del todo podridas o ramas que se podrían recuperar? ",
+        "cosine_dist": 0.6429357234090793,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 643.766,
+        "end_time": 719.301,
+        "text": "Nosotros, bueno, eso hay que discutir, digamos, en qué uno quiere que esté el Estado y en qué quiere que no esté.  Entonces, la realidad es que nosotros, por ejemplo, la obra pública en Argentina ha sido un escándalo de corrupción.  Nosotros no creemos que sea necesario que la obra pública, las obras, grande infraestructura, tenga que ser hecha por el Estado.  Creemos que la pueda hacer el privado.  De hecho, es falso que además el Estado cree puesto de trabajo con la obra pública.  Porque para generar obra pública, usted la tiene que pagar.  Se paga con impuestos.  Y si usted lo paga con impuestos, quiere decir que se lo está sacando del bolsillo el pagador de impuestos.  Eso significa que usted está destruyendo puestos de trabajo en otro lugar de la economía donde la gente quería poner la plata ahí.  Entonces, y eso, digamos, si le suma toda la corrupción, entonces la verdad es que Mejor saquemos al Estado de ley.  O las transferencias discrecionales.  Es decir, ¿qué es esto de las transferencias discrecionales?  ¿Para qué?  Para que tengan que venir los gobernadores a Buenos Aires a arrodillarse y a besarle el anillo al Poder Ejecutivo para que, digamos, o sea, me parece una... Una aberración.  Bueno, esas cosas no son... Digamos, no tenemos ningún tipo de problema en recortar.  Bien.  Que de hecho es... El noventa por ciento del ajuste es motosierra. ",
+        "cosine_dist": 0.4037872157392445,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 719.501,
+        "end_time": 725.142,
+        "text": "Sí.  Presidente, ¿y la motosierra llega a la universidad?  Porque hay mucha gente que dice que usted quiere cerrar la universidad pública. ",
+        "cosine_dist": 0.8208747493459667,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 726.342,
+        "end_time": 729.803,
+        "text": "Bueno, eso es una mentira.  Eso es una falacia.  Es decir... ",
+        "cosine_dist": 0.6541508226037744,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 729.823,
+        "end_time": 742.626,
+        "text": "¿Le puede explicar a los alumnos?  Porque hay muchos alumnos que fueron el otro día a la manifestación preocupadísimos con la idea de que usted quería cerrarle la facultad.  ¿Le puede...?  A ver, le... Me... Me... ¿Usted quiere cerrar la universidad, presidente? ",
+        "cosine_dist": 0.7393887589397925,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 742.646,
+        "end_time": 749.771,
+        "text": "No vamos a cerrar la universidad.  No vamos a desfinanciar la universidad.  Se llama falacia del hombre de paja. ",
+        "cosine_dist": 0.4306431306150803,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 750.632,
+        "end_time": 752.313,
+        "text": "Ajá.  Explíquemelo, por favor. ",
+        "cosine_dist": 0.8871417879737049,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 753.033,
+        "end_time": 763.861,
+        "text": "Nuestros opositores inventaron una mentira.  Es decir, inventaron una mentira y nos atacan a partir de esa mentira. ",
+        "cosine_dist": 0.4401001935486858,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 763901,
+        "end_time": 764061,
+        "text": "Bien. ",
+        "cosine_dist": 1.0,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 765.122,
+        "end_time": 768.084,
+        "text": "Y a partir de eso hicieron una construcción política. ",
+        "cosine_dist": 0.4944382554256561,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 768284,
+        "end_time": 768344,
+        "text": "Sí. ",
+        "cosine_dist": 1.0,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 769.346,
+        "end_time": 776.027,
+        "text": "Entonces, sobre una causa noble que es defender a las universidades, si usted quiere, digamos, la universidad pública, ",
+        "cosine_dist": 0.4325759530589357,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 776467,
+        "end_time": 776727,
+        "text": "digamos, ",
+        "cosine_dist": 1.0,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 776.807,
+        "end_time": 796.071,
+        "text": "la gratuidad de la misma, digamos, entonces, o no arancelamiento de la misma, para decirlo de manera correcta, con lo cual, digamos, jamás pensamos en cerrar las universidades públicas, jamás pensamos en desfinanciarlas, pero ¿qué era lo que pedíamos nosotros? ",
+        "cosine_dist": 0.39427040403431834,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 796.091,
+        "end_time": 798.351,
+        "text": "¿Y están pensando en cobrarle a los alumnos, presidente? ",
+        "cosine_dist": 0.8655923843723705,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 798.371,
+        "end_time": 801.231,
+        "text": "No, no, no.  No, estoy diciendo que no. ",
+        "cosine_dist": 0.6577746228781427,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 801.652,
+        "end_time": 805.855,
+        "text": "O sea, que quede claro, no van a cerrar la universidad y no le piensan cobrar a los alumnos. ",
+        "cosine_dist": 0.7312022302588804,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 806.036,
+        "end_time": 822.101,
+        "text": "No vamos a cerrar las universidades, no las vamos a arancelar.  Lo único que hemos pedido es que, dado que los pagadores de impuestos están financiando las universidades públicas, lo que nosotros hemos pedido... y exigimos es que haya auditorías. ",
+        "cosine_dist": 0.4157568073381529,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 823.121,
+        "end_time": 832.463,
+        "text": "Hace diez años que no hay auditorías.  Los pagadores de impuestos somos todos nosotros.  ¿De dónde salen los impuestos para pagar la universidad?  ¿Del paquete de fideos? ",
+        "cosine_dist": 0.6796717611643505,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 833664,
+        "end_time": 834104,
+        "text": "Exactamente. ",
+        "cosine_dist": 1.0,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 834.124,
+        "end_time": 842.106,
+        "text": "De lo que trabajamos.  De todo lo que nosotros pagamos, impuestos van a financiar la universidad.  Y usted lo que está diciendo es que, ojo, en la que se la están gastando. ",
+        "cosine_dist": 0.8034594434272999,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 843.371,
+        "end_time": 853.524,
+        "text": "Exactamente, que esos gastos tienen que ser auditados.  Es decir, ¿quién es el que no quiere ser auditado en el gasto?  El ladrón, el chorro.  Ese no quiere ser auditado. ",
+        "cosine_dist": 0.46650374966736197,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 853.544,
+        "end_time": 857.169,
+        "text": "Pero si dicen que están siendo auditados, señor presidente, que la AGN audita las universidades. ",
+        "cosine_dist": 0.8561192360707816,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 857.209,
+        "end_time": 863.993,
+        "text": "Es mentira, no hay auditorías desde hace más de diez años.  No hay auditorías hace más de diez años. ",
+        "cosine_dist": 0.5147481594534653,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 864.013,
+        "end_time": 871.337,
+        "text": "Y si aparece una auditoría, porque van a decir, no, acá hay una auditoría, señor presidente, usted también entiende.  Usted dice que no se auditan las universidades como corresponde. ",
+        "cosine_dist": 0.75421566362161,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 871.457,
+        "end_time": 874.179,
+        "text": "Hay una auditoría de hace diez años en psicología. ",
+        "cosine_dist": 0.5949883361615937,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 874839,
+        "end_time": 875239,
+        "text": "Nada más. ",
+        "cosine_dist": 1.0,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 876.74,
+        "end_time": 889.668,
+        "text": "Es decir, todo esto fue.  ¿Por qué?  Porque nosotros pedimos que haya auditorías.  Es decir, lo cual, digamos, es bastante razonable.  dado que se están poniendo recursos públicos. ",
+        "cosine_dist": 0.4744081164117503,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 890.349,
+        "end_time": 892.411,
+        "text": "¿Por qué dicen que usted le recortó el financiamiento? ",
+        "cosine_dist": 0.8502845267747677,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 892.431,
+        "end_time": 895.374,
+        "text": "No, la pregunta es al revés.  ¿Está mal pedir que haya auditorías? ",
+        "cosine_dist": 0.5184314730949307,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 895.474,
+        "end_time": 898.657,
+        "text": "No, me parece bien.  Lo que no me parece bien es... ",
+        "cosine_dist": 0.7954293207767527,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 899.338,
+        "end_time": 905.624,
+        "text": "O sea, pero no exigir las auditorías es convalidar a los ladrones. ",
+        "cosine_dist": 0.5148549129377136,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 905.844,
+        "end_time": 914.556,
+        "text": "Sí.  Y las universidades están diciendo que usted no les mandaba plata, señor presidente.  Eso también es falso.  Eso es falso. ",
+        "cosine_dist": 0.8312894532006471,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 914.736,
+        "end_time": 927.101,
+        "text": "Pero Horacio, eso es falso.  De hecho, fueron a la marcha a pesar de que se habían girado los fondos.  El propio Giacobiti dijo que sí, se habían girado los fondos, pero iban por las dudas. ",
+        "cosine_dist": 0.4822751772423576,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 928.539,
+        "end_time": 929.68,
+        "text": "Presidente, le hago una pregunta. ",
+        "cosine_dist": 0.8525383861218584,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 929.7,
+        "end_time": 990.431,
+        "text": "Entonces, lo que quiero señalar acá es lo más rancio de la política.  Porque se tomó una causa noble, se armó una falacia del hombre de paja, se prostituyó esa causa noble y se la utilizó políticamente.  Porque cuando usted mira la marcha, a ver, vamos a repasar quiénes estaban en la marcha.  Estaban todas las expresiones de izquierda.  ¿Sí?  Todas.  Primer punto.  Que no son, de hecho, muy tolerantes en las universidades, porque a los que piensa distinto los persiguen.  Punto uno.  Punto dos.  Estaban las madres de Plaza de Mayo.  Estaban los piqueteros.  Estaba De Lía.  Estaba el Frente Renovador y estaba Masa.  Estaba la Cámpora.  Estaba el gobernador de la provincia de Buenos Aires.  Estaba la CGT.  Estaba Moyano.  Estaba el radicalismo progre.  Ey, tío.  ¿Dónde estaban?  La gran mayoría se tuvo que juntar todo el arco opositor. ",
+        "cosine_dist": 0.3758724384048888,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 990.451,
+        "end_time": 999.694,
+        "text": "Es decir, políticamente, es una gran derrota de la oposición. ",
+        "cosine_dist": 0.6074147529206901,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 999.874,
+        "end_time": 1013.589,
+        "text": "Es un gran triunfo del oficialismo.  Es decir, tuvieron que armar una bolsa de gatos, un montón de impresentables, para oponerse... al cambio y a las ideas de la libertad.  Fantástico.  Pero ",
+        "cosine_dist": 0.4799143124752461,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1013.649,
+        "end_time": 1031.624,
+        "text": "presidente, yo vi las mismas caras, pero al mismo tiempo vi un montón de pibes reclamando, me quieren cerrar la universidad, me estoy quedando, corre riesgo la posibilidad mía de educarme, mi familia no tiene plata, no puede ser que la universidad sea solamente para la gente que tiene plata. ",
+        "cosine_dist": 0.7713671154813273,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1031.884,
+        "end_time": 1043.914,
+        "text": "Pero de vuelta, de vuelta, la culpa de que la gente crea mentiras es mía.  Nosotros, digamos, mostramos los hechos.  Si la gente quiere creer una mentira, ¿qué quiere que le haga? ",
+        "cosine_dist": 0.42122925577774717,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1043.934,
+        "end_time": 1052.339,
+        "text": "Denme un segundo, denme un segundo.  ¿Y por qué creyó la gente esta mentira si no era tan así?  ¿No hay un poco de responsabilidad del gobierno? ",
+        "cosine_dist": 0.7220778452916548,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1052.559,
+        "end_time": 1072.906,
+        "text": "Horacio, Horacio, el gobierno anterior era muy eficiente en crear mentiras.  Ajá.  Es decir, yo tuve que soportar una campaña de desprestigio y una campaña de miedo enorme.  ¿Cuántas cosas se dijeron en la campaña y que ahora, digamos, nosotros somos gobierno y usted se da cuenta que le mintieron? ",
+        "cosine_dist": 0.359545443908984,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1072.966,
+        "end_time": 1103.455,
+        "text": "No, por supuesto que sí, pero a lo que yo voy, ¿sabe qué es, presidente?  Usted me está diciendo, yo no voy a cerrar las universidades, me lo está diciendo a mí.  Hay mucha gente que por ahí recién ahora está escuchando esto.  Ni tampoco las vamos a arancelar.  No, ya lo sé.  Déjeme que le plantee una situación.  Usted está diciendo ahora, me está diciendo a mí ahora en vivo, yo no voy a cerrar las universidades, yo no voy a arancelar las universidades, el financiamiento está garantizado.  Y de hecho lo tienen.  Pero así todo, le llenaron la plaza, había un montón de chicos.  Usted puede decir, sí, estaban los de la campo. ",
+        "cosine_dist": 0.7820947603962134,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1103.475,
+        "end_time": 1105.175,
+        "text": "La mayoría no eran los chicos. ",
+        "cosine_dist": 0.6580967257065888,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1105.295,
+        "end_time": 1120.34,
+        "text": "Había muchos chicos, señor presidente.  No hubo un error no forzado de decir, no la vimos.  Usted siempre dice, no la ven, no la ven, no la ven.  ¿No les pasó a ustedes que no la vieron esta, de quien le llenaron la plaza? ",
+        "cosine_dist": 0.687341636772314,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1122.662,
+        "end_time": 1123.642,
+        "text": "¿Usted juega al ajedrez? ",
+        "cosine_dist": 0.8451486215983999,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1124.042,
+        "end_time": 1126.404,
+        "text": "Juego al ajedrez.  No soy bueno, pero entiendo un poco al ajedrez. ",
+        "cosine_dist": 0.9819051817926819,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1126.884,
+        "end_time": 1194.912,
+        "text": "Pero hay un dicho que dice, las negras también juegan.  O sea, cada uno hace su juego.  Bueno, es decir, digamos, la oposición tomó un valor para la sociedad, que es la universidad pública, no arancelada, de calidad... Frente a la situación donde nosotros sí le dimos el financiamiento y le dimos todo lo que necesitaban las universidades, pero como les exigimos auditorías, no van a decir los chorros que tenemos el curro en peligro.  No.  ¿Qué es lo que hacen?  Nos acusan de algo falso, que es una mentira.  Y entonces, sobre esa mentira... muchos operadores mediáticos con micrófonos se montaron a diseminar también esa mentira.  Entonces, y además fue estructurada políticamente, porque, dígame, ¿qué tenía que ver ahí los piqueteros de Lía? ",
+        "cosine_dist": 0.35528088796571744,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1194952,
+        "end_time": 1195552,
+        "text": "No, por.  supuesto. ",
+        "cosine_dist": 1.0,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1195.773,
+        "end_time": 1213.748,
+        "text": "La izquierda, la CGT, Moyano, ¿sí?  Digamos, o sea, la mujer estatal de Almeida, o, digamos, Pérez Esquivel, digamos, ¿qué tenía que ver la Cámpora con eso?  No, yo lo entiendo, señor presidente.  ¿Qué tenía que ver Kicillof y la provincia de Buenos Aires, el Frente Renovación?  Salvador Massa y Larreta. ",
+        "cosine_dist": 0.48649351148320996,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1213.828,
+        "end_time": 1214.748,
+        "text": "Yo vi la misma cara. ",
+        "cosine_dist": 0.839711284414244,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1214.768,
+        "end_time": 1215.929,
+        "text": "Y el radicalismo progre. ",
+        "cosine_dist": 0.8080357828916265,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1216.089,
+        "end_time": 1234.418,
+        "text": "Yo lo que le quiero preguntar es, ¿no hubo alguien adentro de los propios que dijo, uy, no, señor presidente, quédese tranquilo que está todo resuelto?  Y no estaba tan resuelto.  No, señor presidente, quédese tranquilo que con la universidad está todo bien.  Y no estaba todo tan bien.  Usted da la orden de pagar y dice, ya pagamos, y le hacen la manifestación igual.  ¿No hay nada de autocrítica? ",
+        "cosine_dist": 0.8017291649104251,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1234.598,
+        "end_time": 1248.174,
+        "text": "No, pero Horacio, no.  A ver, el punto es el siguiente.  Los fondos se transfirieron.  Diciendo que los fondos se transfirieron.  Lo hicieron igual.  Entonces, en realidad, usted tiene que darse cuenta que no era un problema, digamos, ",
+        "cosine_dist": 0.43708042292548877,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1248294,
+        "end_time": 1248454,
+        "text": "de ",
+        "cosine_dist": 1.0,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1250.436,
+        "end_time": 1308.333,
+        "text": "la gestión, sino que era un problema de que los otros querían hacer lío de cualquier manera porque habían encontrado algún argumento para tratar de proteger su robo y no querer ser auditados y utilizar esa mentira.  Entonces, el problema es ese.  Los que... estaban sucios, querían ir de todas maneras, porque lo que sí les molesta es la auditoría.  Y de ahí se montó el resto de la política.  Es decir, fue una manifestación maravillosa de la debilidad de toda la oposición, que frente a un gobierno que está siendo exitoso en la implementación de su programa, se ven tan débiles, se ven tan pocas cosas, que se tuvieron que juntar todos... Para oponerse al crecimiento del cambio hacia las ideas de la libertad.  Victoria política del gobierno. ",
+        "cosine_dist": 0.4016300373706059,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1308.453,
+        "end_time": 1311.395,
+        "text": "Para usted es una victoria política. ",
+        "cosine_dist": 0.7347584583270876,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1311.435,
+        "end_time": 1331.979,
+        "text": "¿Sabe cuál es el mejor efecto de todo esto?  ¿Cómo puede ver usted todo esto?  Que cuando usted toma las encuestas, teniendo en cuenta ya la marcha, y a pesar de los torpedos que tiraron y las mentiras que tiraron... Mi imagen no cayó. ",
+        "cosine_dist": 0.46315587013799886,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1331.999,
+        "end_time": 1381.955,
+        "text": "Yo le quiero hacer una última pregunta, porque tengo muchas cosas para preguntarle.  Hay un montón de gente que me está mandando un montón de preguntas por las redes sociales.  Le agradezco su tiempo, señor presidente, para conversar conmigo.  Mi última pregunta es, yo entiendo todo lo que usted me plantea.  A mí me preocupa mucho... La situación de conflicto, se lo critiqué siempre al gobierno de Cristina, se lo critiqué al gobierno de Alberto, y se lo tengo que comentar a usted también.  ¿No se podía haber evitado esa plaza si la negociación hubiera estado bien hecha, si hubiera quedado claro que los chicos no se quedaban sin universidad, si los rectores hubieran entendido que el dinero estaba?  ¿No se podía haber evitado esa fricción que fue esa plaza?  tensa con un montón de gente que se coló pero con muchos pibes preocupados realmente porque sentían dos partes. ",
+        "cosine_dist": 0.7059664995813228,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1382.135,
+        "end_time": 1395.102,
+        "text": "vamos a los fácticos Las mentiras construidas por los que no quieren ser auditados y que la plata estaba porque la plata ya estaba transferida.  por lo tanto o sea era todo mentira. ",
+        "cosine_dist": 0.38749272371802745,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1395343,
+        "end_time": 1395503,
+        "text": "si. ",
+        "cosine_dist": 1.0,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1395.923,
+        "end_time": 1401.045,
+        "text": "primer punto.  segundo punto ¿Cómo se baila el tango? ",
+        "cosine_dist": 0.6196414066070947,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1401.565,
+        "end_time": 1403.046,
+        "text": "Se baila de a dos, como.  mínimo. ",
+        "cosine_dist": 0.8311568953970858,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1403.486,
+        "end_time": 1405.788,
+        "text": "Bien, exacto.  ¿Y qué pasa si una parte no quiere? ",
+        "cosine_dist": 0.522657325367965,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1408.269,
+        "end_time": 1409.93,
+        "text": "Va a costar.  Va a costar bailar. ",
+        "cosine_dist": 0.7348912797079679,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1410.07,
+        "end_time": 1426.566,
+        "text": "Y bueno, entonces, si usted, digamos, transfiere los fondos... y le exige una auditoría y la otra parte, como está sucia, no la quiere, bueno, entonces no va a querer bailar porque no quiere la auditoría. ",
+        "cosine_dist": 0.43231780285033994,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1426.586,
+        "end_time": 1427.887,
+        "text": "¿Y ahora cómo está, presidente? ",
+        "cosine_dist": 0.8248765072413815,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1428.528,
+        "end_time": 1429.148,
+        "text": "¿Y ahora cómo está? ",
+        "cosine_dist": 0.9677969118111671,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1429.368,
+        "end_time": 1431.57,
+        "text": "No, eso es lo de Chaco también.  ¿Y ahora cómo quedó la cosa? ",
+        "cosine_dist": 0.9265767799283273,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1433.472,
+        "end_time": 1438.556,
+        "text": "Y si los fondos fueron transferidos antes, digamos, o sea, querían marchar porque... ",
+        "cosine_dist": 0.5593640174429749,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1439.897,
+        "end_time": 1441.219,
+        "text": "No, está bien, está bien, presidente. ",
+        "cosine_dist": 0.8422748945008128,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1442.079,
+        "end_time": 1529.996,
+        "text": "No, no, pero esto es muy importante, Horacio.  A ver.  Yo le acabo de pasar, digamos que sí es cierto que la gente está mal, pero cada vez es menos la gente que se siente mal y cada vez es más la gente que se siente bien.  Cuando usted mira las expectativas... están creciendo muy fuertemente las expectativas respecto al futuro.  De hecho, ya más de la mitad de los argentinos creen que salimos.  Usted mira la tasa de inflación, vienen para abajo.  Usted mira los indicadores de actividad, están mejorando.  Usted mira los salarios reales, están mejorando.  Usted mira las jubilaciones, están mejorando.  Y esto, digamos, se manifiesta que a pesar de haber hecho el ajuste fiscal más grande de la historia de la humanidad, digamos, o sea, mi imagen no... No se movió, o sea, sigue igual.  Es decir, los niveles de aprobación siguen igual.  Los niveles de aprobación sobre nuestras políticas embleman siguen intactos.  Entonces, y la contracara de todas estas mejoras es, ¿sabe cuál es?  Que si hoy fuéramos a una elección, sacaríamos el cincuenta y tres por ciento de los votos, entonces la oposición... necesitaba buscar alguna bandera noble para tirar un torpedo político.  ¿Y sabe qué le salió mal?  Porque con el correr de las horas la gente fue entendiendo de qué se trataba.  Fíjese el alcance de lo que fue la marcha versus, no sé, un tuit mío o un posteo mío o la cadena que hicimos. ",
+        "cosine_dist": 0.40734832393401255,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1531.436,
+        "end_time": 1535.498,
+        "text": "Lo importante es... No van a cerrar la universidad, no va a dejar de ser gratuita. ",
+        "cosine_dist": 0.771513210608893,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1535.518,
+        "end_time": 1536.399,
+        "text": "No vamos a cerrar la universidad. ",
+        "cosine_dist": 0.848828772452276,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1536.419,
+        "end_time": 1538.48,
+        "text": "Quedó clarísimo. ",
+        "cosine_dist": 0.7417271874256162,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1538.76,
+        "end_time": 1545.103,
+        "text": "A mí lo que me cuesta entender es cómo tengo que seguir saliendo a desmentir las mentiras de un grupo de delincuentes. ",
+        "cosine_dist": 0.567706074807912,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1545143,
+        "end_time": 1545584,
+        "text": "Ahí quedó claro. ",
+        "cosine_dist": 1.0,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1545.644,
+        "end_time": 1565.368,
+        "text": "Ahí estaba todo el tren fantasma.  Se han caracterizado por mentir, se han caracterizado por destruir la economía argentina, se han caracterizado por destruir la educación argentina.  Y yo, digamos, o sea, tengo que... enfrentar las mentiras que dicen esa gente sobre lo que yo digo.  ¿Por qué no miran lo que yo digo?  ¿Cuándo dije que había que cerrar la universidad pública? ",
+        "cosine_dist": 0.5103833099484623,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1565388,
+        "end_time": 1565788,
+        "text": "Nunca. ",
+        "cosine_dist": 1.0,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1565.908,
+        "end_time": 1571.03,
+        "text": "Nunca dije que había que cerrar la universidad.  Nunca dije que había que arancelarla.  Vamos. ",
+        "cosine_dist": 0.48868008910368055,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1571.07,
+        "end_time": 1586.994,
+        "text": "Presidente, ¿qué va a pasar en la convocatoria el veinticinco de mayo?  Porque hay una versión, hay muchas versiones que indican que los que acompañen el tratamiento de la ley bases van a estar invitados y los que no acompañen, no.  ¿Es una versión o es una realidad? ",
+        "cosine_dist": 0.738290783462368,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1588.271,
+        "end_time": 1602.774,
+        "text": "Es una realidad, los que acompañen van a ser invitados, los que no quieran acompañar, si no quieren cambiar, ¿qué quiere que le haga?  De vuelta, el tango se baila de a dos.  ¿Usted quiere acompañar el cambio o está invitado?  ¿Usted no quiere acompañar el cambio?  ¿Para qué lo voy a invitar si usted no quiere? ",
+        "cosine_dist": 0.523270834906991,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1604.835,
+        "end_time": 1608.676,
+        "text": "¿Y usted tiene más o menos identificados quiénes son los que no lo van a acompañar? ",
+        "cosine_dist": 0.8964582028873951,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1611.436,
+        "end_time": 1613.577,
+        "text": "Tengo sospechas, pero bueno, dejemos que actúen. ",
+        "cosine_dist": 0.6327983539564075,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1615.76,
+        "end_time": 1616.821,
+        "text": "¿Qué imagina que va a pasar? ",
+        "cosine_dist": 1.043440273469283,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1616.881,
+        "end_time": 1620.443,
+        "text": "Igual cuáles sean mis especulaciones y total, lo que importa es lo que termine en asunto.  No, por. ",
+        "cosine_dist": 0.5961157056369673,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1620.483,
+        "end_time": 1637.293,
+        "text": "supuesto.  ¿Y qué pasa?  Porque ya pasó el intento de aprobar la ley en el Congreso.  Hubo mucha actividad, pero hasta ahora no consiguió que salga ninguna ley.  Más allá de lo que usted dice, pero han quedado en evidencia.  ¿Va a pasar la ley esta vez o no le importa? ",
+        "cosine_dist": 0.7370962775518584,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1637.353,
+        "end_time": 1685.33,
+        "text": "A ver, fíjese lo siguiente, Horacio.  Nosotros estamos teniendo... Logros económicos y de seguridad enormes.  Nos reconocen lo que estamos haciendo a nivel mundial.  Y no es que lo hicimos sin la política.  No es que la política no solo no acompañó.  La política estuvo todo el tiempo tratando de meter palos en la rueda.  Y a pesar de la política lo estamos logrando.  Es decir, y nosotros no vamos a cambiar el rumbo.  Nosotros... Tenemos definido el norte, nosotros sabemos dónde queremos ir, y entonces sabemos cómo ir, y además sabemos cómo hacerlo.  Tenemos el coraje para hacerlo.  ¿Sabes cuál es la mejor manifestación de esto? ",
+        "cosine_dist": 0.40535118755142785,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1685.51,
+        "end_time": 1686.211,
+        "text": "Sí, dígame. ",
+        "cosine_dist": 0.9844859799651895,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1686.231,
+        "end_time": 1692.075,
+        "text": "Que nosotros asumimos con un riesgo país de dos mil novecientos puntos básicos y los llevamos a mil doscientos. ",
+        "cosine_dist": 0.4507095527370091,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1692.635,
+        "end_time": 1695.697,
+        "text": "Sí, eso es clarísimo.  Bueno.  Le quiero preguntar una cosa, porque los comerciantes... ",
+        "cosine_dist": 0.8221396581989089,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1695.717,
+        "end_time": 1697.438,
+        "text": "Bueno, entonces quiere decir que afuera sí la ven. ",
+        "cosine_dist": 0.6412919814077347,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1697.719,
+        "end_time": 1717.645,
+        "text": "Afuera la ven, pero los comerciantes saben lo que están viendo, las tarifas, y están viendo que se les viene una factura de gas importante y una factura de electricidad importante, y están diciendo... Yo la verdad que le vengo poniendo garra.  Me estoy bancando la recesión, pero encima me tengo que bancar el tarifazo.  ¿Cómo hago?  ¿Cómo me dan las cuentas?  Le pregunto a usted, que es experto en economía. ",
+        "cosine_dist": 0.7551395270459793,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1718.806,
+        "end_time": 1790.205,
+        "text": "A ver, el punto es el siguiente.  Si usted toma las tarifas y las compara con las del... Ya ni le digo el resto del mundo ni nada por el estilo.  Compárenlo contra nuestros vecinos de la región.  El problema no es que las tarifas sean caras, el problema es que nos empobrecimos.  Ahora, en el modelo en el que nos empobrecíamos, pisábamos tarifas y así no fue.  ¿Qué era lo que hacía el gobierno anterior?  Porque esta es la gran locura.  Pisaban las tarifas, las empresas no cubrían sus costos.  ¿Cómo se cubría ese costo?  Con emisión monetaria.  Con lo cual, eso se manifestaba... en inflación y que le esmerilaba el ingreso a todos los argentinos, en especial a los que menos tienen, con lo cual les esmerilaba el poder de compra, con lo cual tampoco tenían para comprarle.  Entonces, ¿qué es lo que estamos haciendo?  Estamos yendo a un camino de sinceramiento de precios y estamos eliminando todo el robo de la inflación.  ¿Sabe cuánto se robó el gobierno anterior con emisión monetaria?  ¿Cuánto le robó a los argentinos a lo largo de los cuatro años? ",
+        "cosine_dist": 0.4138735560364588,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1790305,
+        "end_time": 1790665,
+        "text": "¿Cuánto? ",
+        "cosine_dist": 1.0,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1791.858,
+        "end_time": 1793.319,
+        "text": "¿Veintiocho por ciento del PBI? ",
+        "cosine_dist": 0.6576451158191292,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1793.499,
+        "end_time": 1796.602,
+        "text": "¿Eso qué significa, presidente?  Porque a veces la gente dice porcentaje, PBI, ¿cuánto significa? ",
+        "cosine_dist": 0.8469023198628726,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1796.622,
+        "end_time": 1802.826,
+        "text": "Para un PBI de quinientos mil millones de dólares, suponga treinta, le estaría dando ciento cincuenta mil millones de dólares a Rubano. ",
+        "cosine_dist": 0.574256243301773,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1802.886,
+        "end_time": 1813.515,
+        "text": "¿Todo eso costó?  Y le hago una pregunta, este sinceramiento, ¿no me están sincerando de golpe, presidente?  A veces siento que nos sinceran de golpe. ",
+        "cosine_dist": 0.8185004912616065,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1813.635,
+        "end_time": 1823.943,
+        "text": "Horacio, Horacio, a ver, vamos por parte.  Por favor.  Y en el último año, el gobierno anterior, con emisión monetaria, directa o indirecta, se robó trece puntos del PBI. ",
+        "cosine_dist": 0.4503862545394831,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1824124,
+        "end_time": 1824424,
+        "text": "Sí. ",
+        "cosine_dist": 1.0,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1825.705,
+        "end_time": 1828.807,
+        "text": "O sea, estamos hablando de sesenta y cinco mil millones de dólares.  se robaron. ",
+        "cosine_dist": 0.5487030968700772,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1828.887,
+        "end_time": 1835.733,
+        "text": "No, sí, sí, sí.  Obvio.  No, yo le... Hay mucha gente que dice... No, por supuesto, pero hay mucha gente, presidente. ",
+        "cosine_dist": 0.6606090605820307,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1835.753,
+        "end_time": 1839.116,
+        "text": "Ahí después usted hizo un punto que yo lo escuché mientras que yo iba contestando. ",
+        "cosine_dist": 0.6564851794216156,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1839236,
+        "end_time": 1839436,
+        "text": "Bien. ",
+        "cosine_dist": 1.0,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1840.24,
+        "end_time": 1862.8,
+        "text": "Le digo que, de hecho, se está haciendo gradual el ajuste, porque si no, no se lo deja pasar la Corte Suprema de Justicia.  Esto, digamos, ya cuando lo intentó hacer Aranguren, la Corte Suprema de Justicia determinó cómo deberían hacer esos ajustes.  Y nosotros lo estamos haciendo a corte de lo que fue el fallo de la Corte Suprema de Justicia. ",
+        "cosine_dist": 0.42066205252795597,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1863.501,
+        "end_time": 1881.975,
+        "text": "Escuchen una cosa, hablando de cosa gradual, ¿Qué pasó con las prepagas?  Porque por un lado usted propone desregular el mercado.  Genial, libertad económica.  Y vienen las prepagas y nos pegaron un sacudón tremendo.  Y ahora hay un pedido del gobierno de, en cierta forma, regular.  ¿Qué pasó en el medio? ",
+        "cosine_dist": 0.6729952206188704,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1882.616,
+        "end_time": 1940.52,
+        "text": "No, ahí hay dos situaciones muy distintas.  O sea, hay que tener cuidado cuando uno habla de los procesos de desregulación.  Esto se ve con mucha claridad cuando usted analiza los experimentos, digamos, o casos, en los cuales las economías dejaron el comunismo y pasaron al capitalismo.  Es decir, cómo usted maneja la transición.  Usted tiene una situación hipercontrarregulada.  Usted tiene una situación muy compleja donde el gobierno favorece a alguien y ese alguien se va fagocitando a los demás competidores.  Y eso tiene el agravante que cuando usted va a buscar la desregulación, uno de esos competidores está fuertemente vinculado con un político y deciden utilizar las tarifas para agredir a una parte importante de la masa de votantes de gobierno. ",
+        "cosine_dist": 0.38457378097563943,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1940.54,
+        "end_time": 1950.046,
+        "text": "¿Usted está dando un ejemplo así sin querer o tiene nombre de apellido lo que usted está contando?  Porque hay mucha gente que dice esto es una cuestión personal entre usted y uno de los empresarios de la salud. ",
+        "cosine_dist": 0.8640390130131088,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1951.286,
+        "end_time": 1958.911,
+        "text": "O con un político que opera atrás de un empresario de la salud y trata de causarle daño a la base electoral del oficialismo. ",
+        "cosine_dist": 0.43018728944961127,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1959.171,
+        "end_time": 1960.292,
+        "text": "¿Usted está hablando de Sergio Massa? ",
+        "cosine_dist": 0.9234015213283512,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1961.412,
+        "end_time": 1966.035,
+        "text": "Usted póngale los nombres que usted quiera.  Digamos, somos todas personas grandes y sabemos de qué estamos hablando. ",
+        "cosine_dist": 0.4805320792639327,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1966.758,
+        "end_time": 1975.247,
+        "text": "¿Usted dice que detrás de esta cuestión de la prepaga hay una cuestión política y hay una cuestión de, en cierta forma, desestabilización de su gobierno? ",
+        "cosine_dist": 0.7629100347806579,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1976.308,
+        "end_time": 1990.562,
+        "text": "De intento, claro.  Entonces eso no es mercado.  Ese es el problema.  Hay gente que no entiende bien qué es mercado.  Porque aparte si usted hereda una estructura que tiene desequilibrio... ",
+        "cosine_dist": 0.4881229664337171,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1992.722,
+        "end_time": 1996.124,
+        "text": "Pero presidente, perdone que lo interrumpa. ",
+        "cosine_dist": 0.7747374098561617,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1996144,
+        "end_time": 1996725,
+        "text": "Espera un segundo. ",
+        "cosine_dist": 1.0,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 1996.805,
+        "end_time": 1998.786,
+        "text": "Y ese desequilibrio se llegó... ",
+        "cosine_dist": 0.8241266301581182,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 1999.407,
+        "end_time": 2042.58,
+        "text": "Horacio, por favor.  Y si a ese desequilibrio se llegó a partir de situaciones no claras, bueno, entonces esa estructura, digamos, tiene un vicio de origen.  ¿Me comprende?  Y además usted está haciendo esto, esta recomposición la está haciendo en el medio de un proceso de desinflación.  Entonces usted tiene un montón de desequilibrios, ¿sí?  Que si usted, digamos, lo enfrenta de manera naif, bueno, va a tener problemas.  Bueno, lo que nosotros estamos haciendo es corregir los abusos.  O sea, nosotros estamos corrigiendo los abusos que además tenían un direccionamiento e intencionalidad política. ",
+        "cosine_dist": 0.36662416065076997,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2042.82,
+        "end_time": 2063.271,
+        "text": "A lo que yo voy es... Perdón que lo interrumpa, pero usted me está dando a entender, usted me quiere decir que hay un empresario que está llevando adelante esta política de precios de las prepagas por pedido político de un candidato?  ¿Usted me está diciendo que Velocopite está haciendo todo esto porque Massa le está pidiendo que lo haga? ",
+        "cosine_dist": 0.6923808298760075,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2065.092,
+        "end_time": 2073.561,
+        "text": "Interprételo como quiera.  Bien. ",
+        "cosine_dist": 0.6860483023414259,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2073.601,
+        "end_time": 2081.404,
+        "text": "Señor Presidente, ¿Por dónde seguir con todas las cosas que tengo para preguntarle?  Porque tengo un montón de cosas para preguntarle. ",
+        "cosine_dist": 0.8015023994775666,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2081.464,
+        "end_time": 2083.125,
+        "text": "Me pusimos un poco de intensidad acá. ",
+        "cosine_dist": 0.7772710188881619,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2083.185,
+        "end_time": 2110.156,
+        "text": "No, está muy intenso todo esto.  Escúcheme una cosa.  También lo acusan de querer sacarle... que usted quiere eliminar la cultura.  Hay muchos actores preocupados acusándolo a usted de casi, casi... querer borrar la cultura de este país.  ...recortando, cerrando el Inca... ...bueno, finalmente no va a estar cerrado... ...no se cierra el Inca, no se cierra el Algomón... ...pero... ...a usted le interesa la cultura... ...pero a usted le interesa la cultura de este país... ",
+        "cosine_dist": 0.7250189032791337,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2111.657,
+        "end_time": 2124.265,
+        "text": "...obviamente que me interesa la cultura... ...Dios... ...yo digo, de hecho... ...tengo una vida cultural... ...muy activa... ...lo que pasa es que ahora mi vida como presidente... ...me restringe bastante... ",
+        "cosine_dist": 0.5517558174289461,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2124.345,
+        "end_time": 2127.627,
+        "text": "...pero por qué usted no quiere que haya cine argentino... ",
+        "cosine_dist": 0.8300602162771352,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2128.903,
+        "end_time": 2130.865,
+        "text": "¿Quién dijo que yo no quiero que haya cine argentino? ",
+        "cosine_dist": 0.7955294401222739,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2130.885,
+        "end_time": 2134.468,
+        "text": "Eso es mentira.  Y yo los escucho a los actores y dicen, usted no quiere cine argentino. ",
+        "cosine_dist": 0.7905537773017748,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2134.749,
+        "end_time": 2170.849,
+        "text": "A ver, lo que nosotros estamos proponiendo es que los proyectos de cada película tengan mitad de financiamiento privado y mitad aportado desde el Estado.  Por lo tanto, lo que pasa es que... evidentemente que se involucre el sector privado, implica que tiene que ser un proyecto serio y de verdad para llegarle al público y no, digamos, un proyecto para financiar a amigos militantes.  Ok. ",
+        "cosine_dist": 0.3866383819331989,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2172.01,
+        "end_time": 2175.272,
+        "text": "O sea, vuelve a estar la palabra.  auditar, digamos.  Hay que auditar todo. ",
+        "cosine_dist": 0.7074343100705524,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2176.192,
+        "end_time": 2178.534,
+        "text": "Se da cuenta que siempre es el problema del mismo. ",
+        "cosine_dist": 0.6444087438357887,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2178.834,
+        "end_time": 2180.114,
+        "text": "El problema son los números. ",
+        "cosine_dist": 0.8706571314999502,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2181.615,
+        "end_time": 2188.57,
+        "text": "A ver, el punto es el siguiente.  Usted... Cada vez que toca un curro va a encontrar un kirchnerista pataleando. ",
+        "cosine_dist": 0.4372758546248817,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2189.791,
+        "end_time": 2193.673,
+        "text": "Perdón, cada vez que toca un curro aparece un kirchnerista pataleando. ",
+        "cosine_dist": 0.7235161680250892,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2194.534,
+        "end_time": 2195.354,
+        "text": "Exactamente. ",
+        "cosine_dist": 0.7645018474746954,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2195.715,
+        "end_time": 2199.917,
+        "text": "¿Sólo los kirchneristas están atrás de los curros, señor presidente?  Porque aparecieron un montón de gente pataleando. ",
+        "cosine_dist": 0.8309643469081884,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2201.238,
+        "end_time": 2204.521,
+        "text": "Bueno, está bien, pero parece que estamos tocando varios curros. ",
+        "cosine_dist": 0.6168700063538834,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2207.763,
+        "end_time": 2212.206,
+        "text": "Ok, bien.  O sea, el problema de la cultura no es la cultura.  El problema de la cultura son los curros de la cultura. ",
+        "cosine_dist": 0.8019991626934984,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2213.24,
+        "end_time": 2233.087,
+        "text": "Exactamente.  Entonces, como nosotros queremos ir contra todos los curros, entonces después hacen la misma.  Es decir, a partir de un reclamo noble, se esconde el monstruo del curro.  Y entonces dicen, no, quiere hacer esto, quiere hacer eso, lo cual es falso. ",
+        "cosine_dist": 0.42937443462357483,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2233.447,
+        "end_time": 2239.529,
+        "text": "Ok, o sea, tampoco, así como no está en riesgo la educación pública, no está en riesgo la cultura, va a haber recursos para la cultura. ",
+        "cosine_dist": 0.7467048678767706,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2240.59,
+        "end_time": 2241.29,
+        "text": "De hecho los hay. ",
+        "cosine_dist": 0.8246375044876565,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2243.367,
+        "end_time": 2249.87,
+        "text": "¿Y qué pasa?  ¿Va a estar en la Feria del Libro?  Sí.  ¿Trescientos millones de pesos le pidieron para estar en la Feria del Libro? ",
+        "cosine_dist": 0.8313737635842086,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2251.111,
+        "end_time": 2256.173,
+        "text": "Sí, exacto.  Más un plus de otro tema que llevaba a cuatrocientos cincuenta millones de pesos. ",
+        "cosine_dist": 0.5457047007516935,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2256.193,
+        "end_time": 2258.955,
+        "text": "El responsable de la Feria del Libro dijo que usted estaba mintiendo. ",
+        "cosine_dist": 0.8682574067253757,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2260.455,
+        "end_time": 2270.96,
+        "text": "Bueno, dio que se la arregle con mis ministros y con mis secretarios, que son los que le pidieron esa plata.  Que ahora, digamos, la está cubriendo la provincia de Buenos Aires. ",
+        "cosine_dist": 0.49334094067256873,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2271.18,
+        "end_time": 2279.731,
+        "text": "Ok.  Va... ¿Cómo la provincia de Buenos Aires está destinando dinero de su economía para cubrir la Feria del Libro? ",
+        "cosine_dist": 0.7960298075746228,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2281.253,
+        "end_time": 2282.174,
+        "text": "Sí, exacto. ",
+        "cosine_dist": 0.7519571970438141,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2282774,
+        "end_time": 2283275,
+        "text": "¿De qué manera? ",
+        "cosine_dist": 1.0,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2284.977,
+        "end_time": 2286.198,
+        "text": "Y pone fondos directamente. ",
+        "cosine_dist": 0.8227425459305516,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2286.358,
+        "end_time": 2288.04,
+        "text": "Pero si no tiene fondos la provincia de Buenos Aires. ",
+        "cosine_dist": 0.9088121673626134,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2289.182,
+        "end_time": 2293.967,
+        "text": "Bueno, entonces pregúntele a Kicillof de dónde los saca.  ¿A quién se los está sacando entonces? ",
+        "cosine_dist": 0.6595763104158903,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2295.919,
+        "end_time": 2305.268,
+        "text": "¿Usted va a ir a la feria?  Porque no digo que lo declararon en persona, pero más o menos dijo, si viene mi ley, que se arregle él, que traiga a la gente, que organice él.  Plata no hay, le dijeron a usted, presidente. ",
+        "cosine_dist": 0.777515147623009,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2305.428,
+        "end_time": 2343.473,
+        "text": "Bueno, de hecho, yo he participado, yo vengo participando activamente de la Feria del Libro hace muchísimos años.  Yo, digamos, a ver, el año pasado presenté... Este año voy y presento Capitalismo, Socialismo y la Trampa Neoclásica.  el doce de mayo, voy y es más, voy a estar, me va a acompañar en la presentación José Luis Espert.  Después, el año anterior, presenté el fin de la inflación.  El año anterior, presenté el camino libertario.  El anterior, presenté... ",
+        "cosine_dist": 0.43649795316420115,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2343.713,
+        "end_time": 2344.634,
+        "text": "O sea, va a volver ahí. ",
+        "cosine_dist": 0.9243296839553793,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2344.795,
+        "end_time": 2360.686,
+        "text": "En el anterior, presenté libertad, libertad, libertad.  O sea, yo tengo cerca de dieciocho, diecinueve libros tengo publicados.  O sea, yo tengo un rol muy activo en todo lo que es la publicación. ",
+        "cosine_dist": 0.46430151366335304,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2360.986,
+        "end_time": 2374.452,
+        "text": "Está bien.  Señor Presidente, usted sabe que desde que empezamos esta charla hay mucha gente que está diciendo, ¿y no le vas a preguntar por lo que dijo ayer Cristina?  ¿Y no le vas a preguntar por lo que dijo ayer Cristina?  Maxi me está diciendo, ¿no le vas a preguntar por lo que dijo ayer Cristina?  No, le va a preguntar Maxi, señor Presidente. ",
+        "cosine_dist": 0.8305500732738225,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2375.586,
+        "end_time": 2414.082,
+        "text": "Ayer la ex vicepresidenta decía que al lado suyo es la condesa de Chicos.  Le cuestionaba los modos.  ¿Usted se los cuestiona, sus modos?  ¿Piensa cambiar algo en el estilo de comunicación?  A mí me parece... Mira, el que mejor lo explica esto es Juan Carlos de Pablo.  Por ejemplo, el profesor de Pablo no usa corbata.  Y entonces, ¿qué?  ¿Lo tenés que censurar porque no usa corbata?  ¿Porque a vos te gusta que la gente usa corbata?  Pero usted es el presidente.  Y si es muy autónomo.  No, no, no. ",
+        "cosine_dist": 0.5265853107817595,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2414.142,
+        "end_time": 2414.763,
+        "text": "A ver, a ver, a ver. ",
+        "cosine_dist": 1.0062882138697102,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2416.187,
+        "end_time": 2437.084,
+        "text": "Es decir, son muy autoritarios con eso de las formas.  Es decir, ustedes solamente admiten las formas que les gustan a ustedes, entonces no admiten que una persona sea distinta.  Entonces, como es distinta, entonces la quieren estropear, aniquilar, matar, porque se expresa de una manera distinta a la que a ustedes les gusta.  ¿No les parece que es muy violento, muy intolerante eso? ",
+        "cosine_dist": 0.4407981756966578,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2439.366,
+        "end_time": 2444.821,
+        "text": "En realidad está... A ver... La presidenta habló de sus modos, señor presidente. ",
+        "cosine_dist": 0.7167942837666896,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2446.441,
+        "end_time": 2474.308,
+        "text": "Bueno, el periodista se sumó a decir algo por el estilo.  Se involucró en eso.  Yo le pregunto claramente, presidente, por eso.  Bueno, yo estoy contestando.  Bueno, digamos, es más, todos los que tienen el paladar negro de las formas son bien autoritarios porque no admiten a alguien que tenga una forma distinta a la de los otros.  O sea que hay un manual de que dice cómo tienen que ser las formas. ",
+        "cosine_dist": 0.40373234953145987,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2474.328,
+        "end_time": 2485.777,
+        "text": "No, pero a usted no le cansa estar en conflicto, porque a veces dicen el presidente se peleó con esto, se peleó con el otro, le contestó a este periodista, más allá de las formas.  ¿A usted no le cansa todo esto? ",
+        "cosine_dist": 0.8608375241760786,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2485.817,
+        "end_time": 2496.426,
+        "text": "Voy a hacer la pregunta al revés.  Entonces, digamos, ¿qué es el consenso? ",
+        "cosine_dist": 0.5248694802251372,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2497.387,
+        "end_time": 2501.165,
+        "text": "El consenso es Llegar a un acuerdo, ponernos de acuerdo.  Yo propongo esto, te escucho. ",
+        "cosine_dist": 0.7935452106208526,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2501.265,
+        "end_time": 2508.872,
+        "text": "Ahora, yo hago una pregunta.  Ok, el consenso es ponerse de acuerdo.  Ahora, si tuvo que llegar al consenso, entonces, ¿de dónde partió antes? ",
+        "cosine_dist": 0.4827763843064522,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2511.014,
+        "end_time": 2514.618,
+        "text": "Podemos llegar a partir del disenso, de opiniones encontradas. ",
+        "cosine_dist": 0.7540667874856359,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2514.778,
+        "end_time": 2525.707,
+        "text": "Bueno, digamos, la vida en sociedad genera disenso se debate y después se llega a una conclusión y se llega a un consenso. ",
+        "cosine_dist": 0.5287612538837602,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2525.787,
+        "end_time": 2536.055,
+        "text": "Pero podemos decir, hay formas y formas de encontrar el consenso.  Podemos ponernos de acuerdo en sentarnos en una mesa o nos agarramos a las piñas y de repente estamos todos rotos, decimos, bueno, no tiene sentido seguir peleando. ",
+        "cosine_dist": 0.7618020127487266,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2537.676,
+        "end_time": 2558.493,
+        "text": "A ver, vamos de vuelta.  ¿Y en qué momento yo violé el derecho a la vida, a la libertad o a la propiedad?  ¿De qué me están acusando?  No, no se lo acusan a nadie.  Hay que tener cuidado con las afirmaciones porque si no estamos acusando implícitamente de algo... Y nunca violé la vida de nadie, ni el derecho de propiedad, ni la libertad.  Ahora, digamos, querer censurar a otro, digo, eso es más complicado. ",
+        "cosine_dist": 0.41536931539601263,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2558.633,
+        "end_time": 2563.598,
+        "text": "No, yo creo que es falta de costumbre, ¿eh?  Pero hay mucha gente que le llama la atención su forma y dice... ",
+        "cosine_dist": 0.8408895986032768,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2563.738,
+        "end_time": 2564.659,
+        "text": "Bueno, está bien, digamos... ",
+        "cosine_dist": 0.8105279854954449,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2564.739,
+        "end_time": 2566.22,
+        "text": "¿No se cansa el presidente? ",
+        "cosine_dist": 0.8891635095039021,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2566.541,
+        "end_time": 2570.825,
+        "text": "Evidentemente no.  Si no vieran a Shaquille O'Neal pasar por al lado, también le llamaría la atención.  No, por. ",
+        "cosine_dist": 0.5324821966178042,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2570885,
+        "end_time": 2571165,
+        "text": "supuesto. ",
+        "cosine_dist": 1.0,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2571.645,
+        "end_time": 2574.189,
+        "text": "A una persona que mide cerca de dos metros treinta.  Obviamente. ",
+        "cosine_dist": 0.6101344774520074,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2574329,
+        "end_time": 2574809,
+        "text": "Obvio. ",
+        "cosine_dist": 1.0,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2575.33,
+        "end_time": 2580.857,
+        "text": "Y bueno, es parte de la vida.  No, está bien.  Como no está dentro de sus parámetros, ¿lo quiere matar? ",
+        "cosine_dist": 0.5531524199346534,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2581.017,
+        "end_time": 2582.72,
+        "text": "No, de ninguna manera.  Nadie planteó eso. ",
+        "cosine_dist": 0.7082197074416533,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2582.76,
+        "end_time": 2585.884,
+        "text": "Y bueno, pareciera que algunos, en especial en el periodismo, sí. ",
+        "cosine_dist": 0.6905058845829595,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2586.104,
+        "end_time": 2586.885,
+        "text": "Pero escúcheme una cosa. ",
+        "cosine_dist": 0.9333470851985892,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2586.905,
+        "end_time": 2588.287,
+        "text": "Porque no les gustan las formas. ",
+        "cosine_dist": 0.7183626941821569,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2588.727,
+        "end_time": 2594.015,
+        "text": "No, pero no meta el periodismo porque estábamos hablando del expresidente.  Escúcheme, la expresidente. ",
+        "cosine_dist": 0.9269682394675022,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2594.035,
+        "end_time": 2601.927,
+        "text": "Bueno, hay muchos periodistas que se ponen muy sensibles con las formas y demás y hacen todo un punto sobre la forma en lugar de discutir el fondo. ",
+        "cosine_dist": 0.5690800254376492,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2602.067,
+        "end_time": 2616.075,
+        "text": "No, ya lo sé, pero escúcheme una cosa.  Estaba hablando de Cristina, el presidente.  Ayer la... Yo no le quería preguntar, le pasé la pregunta a Maxi y ahora se rompió todo.  Escuchenme una cosa.  Ayer la presidente dijo un montón de cosas en este acto. ",
+        "cosine_dist": 0.8168392575988266,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2616.355,
+        "end_time": 2619.377,
+        "text": "Sí, tengo cinco hojas de notas. ",
+        "cosine_dist": 0.7665213813735925,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2619.417,
+        "end_time": 2632.983,
+        "text": "Me imagino que tiene un montón de hojas.  ¿Qué le parece todo lo que dijo la expresidente?  Dijo muchas cosas.  Dijo que usted inventó esto del superávit y que es mentira su superávit. ",
+        "cosine_dist": 0.7687446771195652,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2634.631,
+        "end_time": 2663.532,
+        "text": "A ver, me sorprende la precariedad intelectual del discurso.  Es decir, ella en general tenía discursos mucho mejor estructurados.  Y este es verdaderamente de una pésima calidad, lleno de contradicciones muy elementales, lleno de mentiras.  Ejemplo, la del superávit. ",
+        "cosine_dist": 0.4765920285492421,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2664.469,
+        "end_time": 2677.202,
+        "text": "Ella dice que no existe el superávit y que es un dibujo, casi una especie de creatividad contable.  Que usted tiene superávit porque no está pagando un montón de cosas.  O sea, tiene un superávit agarrado de un montón de deudas y que así cualquiera es superavitario. ",
+        "cosine_dist": 0.7578596431323243,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2680.506,
+        "end_time": 2815.917,
+        "text": "Bueno, en principio si fuera así alguien lo tendría que estar financiando.  Cosa que ella no tenía porque su gobierno se fue con dos mil novecientos de riesgo país y tenían que recurrir a la máquina de imprimir billetes.  En el último año imprimieron trece puntos del PBI.  Con lo cual, digo, aún si usted quisiera mentir, tiene que tener con qué.  Y ellos ni siquiera tenían eso.  Al margen de eso, nuestras cuentas están siendo auditadas por el FMI.  El FMI se ha aprobado, y no solo eso, sino que además reconoce que es el ajuste más grande de la historia de la humanidad, no solo ya de la historia argentina.  Lo que nosotros hicimos es, nosotros hicimos un recorte de la obra pública, hicimos un recorte de lo que tiene que ver con las provincias.  Es lo que se llama la motosierra, hemos echado empleados públicos, hemos recortado partidas que estaban vinculadas con la corrupción.  Y si usted se fija dentro de lo que es el ajuste, que va a terminar el año siendo de cinco puntos del PBI en el Tesoro, usted tiene un punto... de suba de impuestos, tiene cuatro de reducción de gasto, y de esa reducción de gasto hay cero coma cuatro, o sea, un poco menos de medio punto del PBI, de licuación, quiere decir que el noventa por ciento del ajuste es motosierra.  Es decir, lo que pasa es que usted tiene forma en la que va calzando los pagos.  Entonces, por ejemplo, nosotros, los pagos de CAMESA entran en el mes de junio, entran todos juntos en el mes de junio.  Igual que el aguinaldo.  Entonces, por ejemplo, es más, yo le cuento algo.  En el mes de junio, cuando entren todos los pagos de Camesa, cuando entren todos los pagos del medio aguinaldo, y cuando entren los intereses, ese mes, por ejemplo, nosotros vamos a tener déficit fiscal, ¿no?  Pero cuando usted toma los seis meses juntos... todo lo que estamos ahorrando ahora, más que compensa esas partidas.  Con lo cual las vamos a estar pagando con lo que hemos estado ahorrando hasta el mes de mayo. ",
+        "cosine_dist": 0.3930140944869457,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2816.617,
+        "end_time": 2829.905,
+        "text": "Presidente, en otro momento, depende del momento del discurso, la expresidente dio a entender que prácticamente al planeta no le importa el déficit fiscal, que son muy pocos los países que no tienen déficit fiscal. ",
+        "cosine_dist": 0.7783461474807931,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2833.041,
+        "end_time": 2835.023,
+        "text": "¿Y eso qué significa? ",
+        "cosine_dist": 0.7840823114757383,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2835.083,
+        "end_time": 2838.405,
+        "text": "No sé, le quiero preguntar.  Usted es el presidente.  Es importante... ",
+        "cosine_dist": 0.8264691628922151,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2838.625,
+        "end_time": 2849.293,
+        "text": "A ver, yo le voy a pasar algunos datos históricos.  Argentina de los últimos ciento veintitrés años, ciento trece, tuvo déficit fiscal. ",
+        "cosine_dist": 0.5076103521559151,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2849.313,
+        "end_time": 2850.994,
+        "text": "Eso significa que gastó más de la que juntó. ",
+        "cosine_dist": 0.8989639778125729,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2852.235,
+        "end_time": 2979.754,
+        "text": "Exacto.  Ahora, ¿cómo financió eso?  Primero, el político delincuente trata de financiarlo con deuda para la fiesta de hoy.  invocársela a las generaciones futuras que, digamos, o sea, porque, ¿qué pasa?  Intenta, digamos, maximizar los votos de hoy.  Como consecuencia de ello, Argentina es el máximo defaulteador serial de la historia moderna.  Es decir, y eso se manifiesta en alto riesgo país, altas tasas de interés, es decir, una cosa verdaderamente aberrante que perjudica la acumulación de capital, con lo cual perjudica los salarios reales de la gente y aumenta los pueblos indigentes.  Punto uno, con lo cual, esa alternativa es un desastre.  La otra alternativa que ha usado recurrentemente Argentina es... La emisión monetaria argentina le quitó trece ceros a la moneda, tuvo dos hiperinflaciones sin guerra.  La inflación además es un impuesto no solo recontra distorsivo, que afecta negativamente la asignación del capital y por ende usted a la postre termina destruyendo capital, y haciéndonos más pobres a todos, sino que además es un impuesto altamente regresivo, golpea más fuerte sobre los pobres, o sea, con lo cual es otra aberración.  El gobierno anterior se fue con mil por ciento de inflación y además nos dejó plantada una hiperinflación.  Y la otra alternativa es subir los impuestos, y los impuestos básicamente lo que hacen es avanzar sobre el derecho de propiedad y empobrecer a los argentinos de bien.  Por eso Argentina es el país más rico del mundo, Digamos, nosotros lo heredamos siendo ciento cuarenta.  No solo eso, sino que además, cuando usted mira, Argentina tuvo veintidós crisis.  De esas veintidós crisis, veinte tienen origen fiscal.  Y de esas, algunos son con alto déficit fiscal y con escandaloso déficit fiscal.  Por lo tanto, digamos, en la historia argentina, el déficit fiscal ha sido nefasto.  Y lo que hay que entender, que no es solamente del problema del déficit fiscal, que es nefasto, además también del tamaño del Estado.  Por eso, digamos, me gustó tanto la frase de Adornico de decir la de la motosierra permanente.  ¿Por qué?  Claro, porque si nosotros frisamos el gasto público y el PBI empieza a crecer, vamos a poder empezar a eliminar impuestos y devolverle más libertad todavía a los argentinos.  Y crecer más todavía. ",
+        "cosine_dist": 0.3597438871285984,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2979.854,
+        "end_time": 2984.457,
+        "text": "Presidente, escúcheme.  Ayer usted... A ver, quiero hacer este paralelismo.  Estamos terminando la entrevista. ",
+        "cosine_dist": 0.8709283887847822,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2984.757,
+        "end_time": 2986.177,
+        "text": "¿Le puedo contar algo?  ¿Una anécdota? ",
+        "cosine_dist": 0.796918785713185,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2986578,
+        "end_time": 2987078,
+        "text": "La que quiera. ",
+        "cosine_dist": 1.0,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2988.721,
+        "end_time": 2997.49,
+        "text": "Argentina a inicios del siglo XX era el país más rico del mundo, entró siendo el país más rico del mundo.  ¿Sabe cuánto era la presión, el tamaño del Estado en términos del PBI? ",
+        "cosine_dist": 0.5699133353098212,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 2997871,
+        "end_time": 2998151,
+        "text": "¿Cuánto? ",
+        "cosine_dist": 1.0,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 2999.36,
+        "end_time": 3002.562,
+        "text": "Menos del diez por ciento.  ¿Y ahora?  Hoy es cerca del cincuenta. ",
+        "cosine_dist": 0.6062513111047807,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3002.983,
+        "end_time": 3003.643,
+        "text": "Estamos complicados. ",
+        "cosine_dist": 0.8805266835696363,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3003683,
+        "end_time": 3004224,
+        "text": "¿Cómo no fue? ",
+        "cosine_dist": 1.0,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3004.504,
+        "end_time": 3022.237,
+        "text": "No, no nos fue muy bien.  Pero escúcheme una cosa, presidente.  A esto quiero ir.  Usted dijo que estamos haciendo, y le agradezco, porque la verdad que lo dijo en la cadena al principio y al final, que le reconocía a la población el esfuerzo heroico que está haciendo.  Y ayer la expresidenta dijo que es un esfuerzo inútil el que estamos haciendo. ",
+        "cosine_dist": 0.720413453305002,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3024.318,
+        "end_time": 3085.58,
+        "text": "Bueno, pero lo dice alguien que... que ha instrumentado el modelo más nefasto de la historia argentina, digamos.  De hecho, de vuelta, nos dejaron un sesenta por ciento de pobres, nos dejaron plantada una hiperinflación.  De hecho, cuando usted toma la inflación mayorista, digamos, anualizada, daba diecisiete mil por ciento.  Por lo tanto, o sea, dejaron dos tercios de los chicos en la miseria.  Me parece que no fue exitoso el modelo.  Más de diez por ciento de indigentes en el país de los alimentos.  Me parece que, a ver, un tercio de los trabajadores formales son pobres.  Entonces, ¿de qué estamos hablando?  Fueron una catástrofe como gobierno.  El modelo que ella defiende es el modelo que destruyó la Argentina.  Y dicho sea, pasó todo el tren fantasma que fue a la plaza el otro día, salvo los chicos, son cómplices de eso, ¿no? ",
+        "cosine_dist": 0.4333350816682512,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3086.681,
+        "end_time": 3093.928,
+        "text": "Señor Presidente, respire hondo, tranquilo.  Mi compañero Maxi le va a hacer una pregunta. ",
+        "cosine_dist": 0.7582922423499111,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3093.968,
+        "end_time": 3105.069,
+        "text": "Presidente, quería saber, ¿cuándo se levanta el cepo?  El CEPO nosotros vamos a poder abrirlo cuando terminemos con los pasivos remunerados. ",
+        "cosine_dist": 0.6327272191275962,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3106.23,
+        "end_time": 3112.776,
+        "text": "¿Qué es eso, presidente?  Tradúzcamelo, por favor, que yo la verdad soy modelo.  ¿Qué es un pasivo remunerado? ",
+        "cosine_dist": 0.7116913327059307,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3112.796,
+        "end_time": 3152.804,
+        "text": "A ver, el Banco Central tiene distintos mecanismos de emisión monetaria.  O sea, uno es el que tiene que ver con la compra de divisas, otro tiene que ver con el financiamiento del déficit fiscal y otro tiene que ver con operaciones con el sistema financiero.  Hay determinadas posiciones que se llaman pases, que están en poder de los bancos, que son remuneradas.  Y eso hace que... tengamos que pagar intereses.  por eso por ejemplo el déficit cuasi fiscal que es ese déficit por pago de intereses cuando nosotros asumimos era diez puntos del pbi. ",
+        "cosine_dist": 0.4078297216080806,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3153.844,
+        "end_time": 3162.507,
+        "text": "usted estaba muy preocupado por el tema, me acuerdo que usted en la campaña del único hablaba de la delict, cómo se van a pagar la delict, cómo se van a pagar con la delict, cómo se van a pagar la delict, bueno eso está en vía de resolverse. ",
+        "cosine_dist": 0.7753992315332281,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3162.547,
+        "end_time": 3220.139,
+        "text": "bueno ese déficit de diez puntos del pbi ya lo bajamos a tres en línea con lo que preguntó Maxi.  Perdón que te diga Maxi, pero me dijeron Maxi y te digo Maxi.  Perdón por el abuso de confianza.  Para nada.  Pero, ¿qué es lo importante?  Si ustedes se fijan, cuando nosotros asumimos la tasa de interés estaba en el ciento treinta por ciento.  Ya la bajamos a sesenta.  Es decir que el ritmo de creación de... de base monetaria por emisión de pasivos para pagarle a los pasivos remunerados es cada vez menor.  Es decir, cuando nosotros hagamos eso cero, y entonces habiendo hecho cero el tema de la emisión endógena por pago de intereses, haciendo cero la emisión para financiar al fisco, ahí nosotros vamos a dejar además el tipo de cambio libre.  para que no se emita más tampoco por sector estatal. ",
+        "cosine_dist": 0.40924441645422605,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3220.159,
+        "end_time": 3229.303,
+        "text": "¿Y más o menos tiene una fecha?  ¿Esto va a ser a fin de año?  ¿Esto puede llegar a ser antes de fin de año?  ¿O tiempo al tiempo?  Las cosas están saliendo bien y cuando tenga que ser, va a ser. ",
+        "cosine_dist": 0.8699208198174075,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3229.483,
+        "end_time": 3292.834,
+        "text": "No, es que es tiempo al tiempo y explico por.  qué.  Porque a diferencia de otros experimentos, donde hubo un arreglo compulsivo, de estos temas.  Ejemplo, la convertibilidad, digamos, apareció después del plan Bónex.  Bueno, nosotros hemos decidido respetar el derecho de propiedad rajatabla.  Entonces, ese proceso está en manos de los individuos.  Entonces, es muy difícil decir cuándo lo voy a cerrar porque depende de la acción humana, depende de lo que hagan los individuos.  Entonces... Ahora, si yo lo miro en términos de cómo viene cayendo el cuasi fiscal, si achicamos el setenta por ciento del cuasi fiscal, vamos por el buen camino.  Todos los días levantamos restricciones.  Es más, les paso un dato.  Este es un dato muy importante.  Si ustedes miran cuánto de las importaciones se estaba pagando cash, cuando nosotros llegamos estaba en diecisiete por ciento.  ¿Saben cuánto está ese número hoy? ",
+        "cosine_dist": 0.37817336153993375,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3293154,
+        "end_time": 3293554,
+        "text": "¿En cuánto? ",
+        "cosine_dist": 1.0,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3294.975,
+        "end_time": 3295.915,
+        "text": "Arriba del sesenta. ",
+        "cosine_dist": 0.7521343309367186,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3296.556,
+        "end_time": 3298.374,
+        "text": "Ok.  Eso habla de confianza. ",
+        "cosine_dist": 0.8925833803869369,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3298.394,
+        "end_time": 3312.663,
+        "text": "Es decir, ¿qué es lo que estoy diciendo?  Estamos resolviendo cada uno de estos temas.  Es decir, una de las cosas que más ponderó el FMI, además del ajuste fiscal, es el trabajo fenomenal que está haciendo el Banco Central. ",
+        "cosine_dist": 0.4664095103021293,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3312.863,
+        "end_time": 3317.887,
+        "text": "El fondo le dijo que estaban pasando de rosca del ajuste fiscal.  Le dijeron, presidente, está bien, no hace falta tanta motosierra. ",
+        "cosine_dist": 0.7888535476908147,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3320.108,
+        "end_time": 3342.031,
+        "text": "Bueno, digamos, el problema... ¿Sabe cuál es el problema?  Es que cuando usted da un... El oráculo Edelfo daba consejo, no tomaba decisiones.  El que está sentado en la silla eléctrica soy yo, no ellos.  A ver, supongamos lo siguiente, que nosotros sobre reaccionamos el ajuste.  Bueno, ahora estamos recomponiendo las partidas también. ",
+        "cosine_dist": 0.50141667918534,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3342.651,
+        "end_time": 3351.193,
+        "text": "Escúcheme, presidente, me queda poco tiempo, le agradezco el tiempo que me ha dado en esta charla.  Le hago dos preguntas así como picaditas.  ¿Cómo está el tema en el Congreso?  ¿Sale la ley? ",
+        "cosine_dist": 0.7910042230731078,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3353.831,
+        "end_time": 3362.756,
+        "text": "Yo la verdad es que cuando hablo con el ministro Guillermo Franco lo veo muy optimista, así es que supongo que eso va bien.  Bien. ",
+        "cosine_dist": 0.5646831598823557,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3363.096,
+        "end_time": 3383.307,
+        "text": "Y la interna, usted sabe que hay mucha versión, entonces a mí no me gusta guiarme por la versión y le quiero preguntar a usted, ¿cómo está el gabinete?  ¿Está todo bien dentro del gabinete?  ¿Hay internas?  Se habla mucho de la situación de Sandra Petovelo, ¿no?  Que no, que Sandra Petovelo... ¿Cómo está la situación de la ministra de Capital Humano?  ¿Y cómo está la interna? ",
+        "cosine_dist": 0.7582501035953713,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3384.836,
+        "end_time": 3391.718,
+        "text": "Mire, Sandra Petovelo está más firme que Rulo de Estatua.  Y le voy a explicar por.  qué. ",
+        "cosine_dist": 0.5843440655726182,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3393.098,
+        "end_time": 3396.079,
+        "text": "Le agradezco la metáfora académica, señor presidente. ",
+        "cosine_dist": 0.8322439880308389,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3397.819,
+        "end_time": 3400.56,
+        "text": "Bueno, si uso términos académicos, ¿por qué uso términos académicos? ",
+        "cosine_dist": 0.6723641949758921,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3400.66,
+        "end_time": 3412.023,
+        "text": "No, no, porque hubo una parte de la charla que era el meme de las mujeres haciendo cuentas en un vidrio y ahora me gusta esta metáfora bien, bien, bien mundana de está más firme que Rulo de Estatua.  Sandra Petovelo está más firme que Rulo de Estatua. ",
+        "cosine_dist": 0.8007881161042674,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3413.263,
+        "end_time": 3443.889,
+        "text": "Ok.  Ahora, fíjese esto, una de las cosas que se está viendo regularmente todas las semanas es todos los pufos que estamos destapando, ¿no?  Es decir, todos los días encontramos casos de corrupción escandalosos y los denunciamos y los llevamos a la justicia, ¿sí?  ¿De dónde viene la gran mayoría de esas cosas?  ¿De dónde vienen esas cosas?  ¿Quién es que está impulsando, está destapando esas ollas y está llevando a juicio a los corruptos? ",
+        "cosine_dist": 0.43222019488434116,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3443.969,
+        "end_time": 3451.333,
+        "text": "El ministerio que lleva adelante Sandra Petovelo.  ¿Y con el jefe de gabinete está todo bien?  Porque también hay versiones que dicen que está todo más o menos bien. ",
+        "cosine_dist": 0.8133031980232055,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3451.413,
+        "end_time": 3455.975,
+        "text": "Pero quiero terminar primero el caso de Petovelo. ",
+        "cosine_dist": 0.6739348838140682,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3458.004,
+        "end_time": 3460.706,
+        "text": "Es una reacción, es una reacción hacia la acción de Sandra Petovelo. ",
+        "cosine_dist": 0.843069290274141,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3460.726,
+        "end_time": 3470.516,
+        "text": "Es una máquina de destapar ollas, de destapar curros, de terminar con la corrupción.  O sea, le está yendo al hueso la corrupción.  ¿Usted qué cree, que eso es gratis? ",
+        "cosine_dist": 0.5606512581118797,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3470.576,
+        "end_time": 3471.356,
+        "text": "No, por supuesto que no. ",
+        "cosine_dist": 0.8891503313209409,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3471.376,
+        "end_time": 3472.778,
+        "text": "Hay operadores en todos lados. ",
+        "cosine_dist": 0.6151160715537347,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3472.798,
+        "end_time": 3479.905,
+        "text": "Ok, o sea, usted sostiene a la ministra Sandra Petovelo.  No hay duda de que para usted el trabajo de Sandra Petovelo es el correcto. ",
+        "cosine_dist": 0.828953630067759,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3481.17,
+        "end_time": 3487.754,
+        "text": "Yo no voy a cesar en la lucha contra la corrupción.  Y en eso, Sandra Petovelo es un gladiador. ",
+        "cosine_dist": 0.5190691667796286,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3487.974,
+        "end_time": 3496.819,
+        "text": "Bien, bien.  El jefe de gabinete, ¿cómo está la relación con el jefe de gabinete?  Porque hay muchas versiones también.  Entonces yo antes de la versión, en vez de ir a la versión, voy a la fuente.  ¿Qué onda con el jefe de gabinete? ",
+        "cosine_dist": 0.8493488990829776,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3499.221,
+        "end_time": 3502.062,
+        "text": "Soy amigo del jefe de gabinete hace veinte años. ",
+        "cosine_dist": 0.8852729949670023,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3502.082,
+        "end_time": 3509.647,
+        "text": "No está en duda la continuidad del jefe de gabinete.  Estamos hablando de Nicolás Poce.  No, no.  Perfecto.  Del equipo económico no le voy a preguntar, ya dijo que son una manga de gladiadores. ",
+        "cosine_dist": 0.7939834613386126,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3511.63,
+        "end_time": 3521.862,
+        "text": "El equipo económico está todo el día halagándolos.  Lo que pasa es que... Yo entiendo, digo, claro, frente a los halagos que yo hago, claro, entonces parece que si no los halago... ",
+        "cosine_dist": 0.5049596024424557,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3521.923,
+        "end_time": 3529.973,
+        "text": "Eso es verdad.  Tiene que halagar al resto.  Está muy halaguero con una parte y hay una parte que está diciendo y yo no estoy haciendo nada.  bien, señor presidente. ",
+        "cosine_dist": 0.8205404174340174,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3530.68,
+        "end_time": 3540.185,
+        "text": "¿Está conforme con el gabinete?  Pero, a ver, si yo estoy dando una charla sobre teoría monetaria y cómo bajar la inflación, lo lógico es que festeje las cosas que hace. ",
+        "cosine_dist": 0.4288063707286329,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3540.205,
+        "end_time": 3543.806,
+        "text": "Y se ponen celosos, señor presidente, se ponen celosos.  Escuchenme una cosa. ",
+        "cosine_dist": 0.8184071110776922,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3544.186,
+        "end_time": 3548.408,
+        "text": "Bueno, yo trato con seres adultos.  ¿Qué quiere que le diga? ",
+        "cosine_dist": 0.6129881910788473,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3548.489,
+        "end_time": 3552.29,
+        "text": "Está muy bien, está muy bien.  Señor presidente... ",
+        "cosine_dist": 0.5633228503642156,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3552.45,
+        "end_time": 3556.172,
+        "text": "El tema de los celos es un tema que a mí... ",
+        "cosine_dist": 0.5984777608865754,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3556.212,
+        "end_time": 3568.854,
+        "text": "No hablemos del tema de los celos, señor presidente.  No hablemos del tema de los celos.  Como siempre le digo a la gente que nos mira, le quiero agradecer a usted también que nos haya permitido, nos abrió la puerta de La Quinta.  Está en La Quinta en este momento, ¿no? ",
+        "cosine_dist": 0.7984638464742968,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3570.274,
+        "end_time": 3580.34,
+        "text": "Sí, estoy en La Quinta y digo, si quiere le cuento.  Antes de entrar, cuando su productora me llamó, le pedí cinco minutos más porque estaba trabajando con la ministra Bullrich. ",
+        "cosine_dist": 0.5308351031854481,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3582221,
+        "end_time": 3582641,
+        "text": "¿A solas? ",
+        "cosine_dist": 1.0,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3583.021,
+        "end_time": 3589.248,
+        "text": "De quien tengo además una valoración... Enorme, porque está haciendo un trabajo fabuloso. ",
+        "cosine_dist": 0.4760823783370086,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3589.408,
+        "end_time": 3598.155,
+        "text": "Cómo cambiaron las cosas, señor presidente.  ¿Quién te ha visto y quién te ve, dirían en el barrio?  Usted halagando el trabajo de la ministra Bullrich. ",
+        "cosine_dist": 0.771621168827645,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3600.597,
+        "end_time": 3605.901,
+        "text": "Eso lo hice antes.  La he defendido siempre aún más que los propios. ",
+        "cosine_dist": 0.5991905495327345,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3608023,
+        "end_time": 3608503,
+        "text": "Eso es verdad. ",
+        "cosine_dist": 1.0,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3608.523,
+        "end_time": 3639.21,
+        "text": "Tuvimos un momento donde la campaña... Nos metieron fichas a los dos y los dos entramos en un error, pero nos pedimos perdón mutuamente.  y decidimos juntarnos para llevar a cabo los cambios que necesita Argentina, y lo estamos haciendo, y estamos siendo exitosos, y estamos derrotando la inflación, estamos logrando que la actividad empiece a recuperar, que se inicie un proceso de crecimiento económico, y además con la calle en orden. ",
+        "cosine_dist": 0.37537200036230345,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3640.731,
+        "end_time": 3642.732,
+        "text": "¿Y con el presidente Macri?  cómo está la cosa? ",
+        "cosine_dist": 0.9576816917543107,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3644.173,
+        "end_time": 3648.456,
+        "text": "Fabuloso, ¿no vio cómo nos saludamos en la cena de la Fundación Libertad? ",
+        "cosine_dist": 0.5648339450982662,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3648.476,
+        "end_time": 3653.659,
+        "text": "Sí, lo vi, pero hay abrazos y abrazos.  Uno puede decir con el abrazo, no decimos nada. ",
+        "cosine_dist": 0.8020549246416421,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3654.239,
+        "end_time": 3656.241,
+        "text": "A usted le parece que... Vamos por partes. ",
+        "cosine_dist": 0.6286519331514979,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3656.341,
+        "end_time": 3658.102,
+        "text": "Usted no le regala un abrazo a nadie, primero. ",
+        "cosine_dist": 0.8086674825229075,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3658.782,
+        "end_time": 3667.788,
+        "text": "Ah, bueno, listo, ok.  En primer punto, yo no le regalo un abrazo a nadie.  Segundo, fue al que rompí el protocolo y fui primero y lo saludé a él. ",
+        "cosine_dist": 0.4879033103997378,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3670390,
+        "end_time": 3670590,
+        "text": "Bien. ",
+        "cosine_dist": 1.0,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3670950,
+        "end_time": 3671090,
+        "text": "Ok. ",
+        "cosine_dist": 1.0,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3671.67,
+        "end_time": 3677.219,
+        "text": "Clarísimo.  Muy bien.  Señor Presidente, charlamos en dos meses, ¿le parece bien? ",
+        "cosine_dist": 0.8150347841160596,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3679.201,
+        "end_time": 3689.17,
+        "text": "Sí, ¿cómo no?  O sea, tengo más para pedirle a Cristina, digamos, tan poquito me dieron para hablar de Cristina.  Tenía cinco hojas. ",
+        "cosine_dist": 0.611499752638123,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3692.333,
+        "end_time": 3694.796,
+        "text": "Hacemos una pausa y hablamos cinco minutos más, ¿le parece bien? ",
+        "cosine_dist": 0.9182752894343474,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3695.982,
+        "end_time": 3697.142,
+        "text": "Como usted quiera, Horacio. ",
+        "cosine_dist": 0.9025421414847093,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3697.162,
+        "end_time": 3710.508,
+        "text": "Hacemos una pausa y ya volvemos.  Y yo lo iba a despedir, pero no lo puedo despedir ahora.  No lo puedo despedir, no lo puedo despedir.  Hacemos una pequeña pausa y hablamos cinco minutos más con el presidente de la Nación.  Señor presidente, ¿sigue así ahí comunicado? ",
+        "cosine_dist": 0.8067079353603579,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3711.668,
+        "end_time": 3712.808,
+        "text": "Sí, acá estoy, Horacio. ",
+        "cosine_dist": 0.8394558723474834,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3712.848,
+        "end_time": 3719.331,
+        "text": "¿Cómo me hace trabajar, señor presidente?  Los domingos a la mañana pensé que iba a pasar blooper, pensé que iba a pasar video de perritos y gatitos. ",
+        "cosine_dist": 0.8273279120572848,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3721.931,
+        "end_time": 3725.834,
+        "text": "No, bueno, te tocó laburar.  Te tocó ser de los que sacan adelante la Argentina. ",
+        "cosine_dist": 0.7637496164847487,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3725.854,
+        "end_time": 3762.566,
+        "text": "Le agradezco mucho, señor presidente.  Bueno, yo empecé el programa diciendo, a mí me interesa saber qué dice el presidente con respecto a lo que dijo la expresidente.  Pero me interesan un montón de cosas.  Y hablamos de educación, hablamos de universidad, hablamos de cultura, hablamos de economía, hablamos de jubilados, hablamos de salario, hablamos de recesión, hablamos de inflación, hablamos de un montón de cosas.  Usted tiene una investidura, es el presidente de la Nación, y quien habló ayer es la expresidente de la Nación.  Le puede gustar o no a la gente, se respeta la investidura presidencial, tanto la suya como la de la expresidente. ",
+        "cosine_dist": 0.7496899174196117,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3762807,
+        "end_time": 3763167,
+        "text": "Exacto. ",
+        "cosine_dist": 1.0,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 3763.487,
+        "end_time": 3770.092,
+        "text": "¿Usted qué tiene para decir con respecto a las cosas que dijo ayer la presidente con respecto a su gestión? ",
+        "cosine_dist": 0.7885266606774206,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 3771.873,
+        "end_time": 4339.778,
+        "text": "A ver, desde mi punto de vista, el discurso de ayer de la expresidente... Cristina Fernández de Kirchner me sorprendió por la baja calidad y precariedad intelectual que tuvo el discurso.  Ella suele tener discursos mucho más cohesionados, mucho más coherentes, mucho más sólidos, por más que sean.  una idea que yo no adhiera.  Es decir, usted puede pensar distinto, lo que tiene que lograr es ser coherente.  Este discurso, ella no presentó nada, lo único que hizo fue criticar, y la verdad es que las críticas verdaderamente fueron muy pobres, o sea, una fue decir que no teníamos déficit, como es que no teníamos superávit, con lo cual ahí verdaderamente miente, de hecho el propio FMI está auditando nuestras cuentas cuando ellos dejaron un programa caído, Además habló de que no era sustentable y la realidad es que quizás no sea sustentable para los kircheristas que vivían del tongo de la obra pública o de estar haciéndole transferencias a provincias opacas fiscalmente o que mienta descaradamente sobre el tema de las universidades cuando el tema había quedado claro.  También es un problema que cayó en la falacia ad populum cuando habla de la cantidad de países que tienen déficit.  La verdad que no es bueno que las economías tengan déficit.  Que los políticos hayan avanzado y avasallado tanto al sector privado no es algo bueno, es algo malo.  Por eso las economías cuando entran en estas lógicas se derrumban.  Después también, digamos... Cuando habló del tema del crecimiento, la verdad que ahí también estuvo muy precaria, porque dijo, bueno, el propio presidente reconoció que los sectores que se están expandiendo son petróleo, gas, minería y campo, diciendo, digamos, que eran industrias extractivas y que eso nos llevaba a una sociedad precapitalista.  Y la realidad, y dijo, y puso un término, anarcocolonialismo, lo cual es muy triste porque... Si usted va a utilizar el término anarco es porque es anarquista, o sea, entonces no quiere ni el Estado de este país ni el Estado de ninguno, con lo cual ni siquiera pudo construir un término conceptualmente correcto, es un oxímoron lo que definió.  Y además, o sea... Por lo menos si me va a hacer la crítica sobre cómo viene la recuperación, debería haber considerado o discutido, como yo estoy explicando, la mejora de los salarios reales, que están los salarios ganándole a la inflación, o que yo hablo del proceso de descapitalización.  Como la economía está muy descapitalizada, los retornos reales en la economía real son muy altos y eso promueve un aumento de la inversión, aún sin reformas estructurales, o que el rol del ahorro, donde yo digo el aumento del ahorro, se transforma en inversión y eso genera crecimiento.  Es decir, el core central de la discusión la obvió... Bueno, tampoco sabe de economía, esa es la realidad.  Entonces... O cuando habló de la desocupación, dice que ella, digamos, el que seguimos recibió con veinticinco por ciento de desempleo.  La realidad es que cuando usted limpia por planes sociales, por empleados públicos, por todas las marañas que ellos hicieron, claramente habría que ver cuánto, digamos, esa cuenta sabe hacerla muy bien Ramiro Castiñeira.  Después, por ejemplo, el tema de esto de que a los trabajadores no les alcanza.  Es decir, que un tercio de los trabajadores son pobres.  Bueno, eso es consecuencia de que La productividad es baja, la productividad es baja justamente porque no se acumuló capital, no se acumuló capital porque no se invirtió, no se invirtió porque no se ahorró, y no se ahorró porque la despilfarró el gobierno kirchnerista.  Después también habló de los fallos de mercado, entonces diciendo que no había fallos de mercado, y cuando se pone a hacer un ejemplo, toma el ejemplo de las eléctricas, justamente toma un mercado que está regulado, es decir, con lo cual... ¿Qué es lo que yo digo?  Cuando una persona cree que no hay un fallo de mercado, le sugiero que antes revise si no está metido el Estado.  Porque si está metido el Estado, no es un fallo del mercado, es que está metido el Estado molestando, interrumpiendo, obstruyendo ahí.  Y si usted después no está el Estado, entonces vaya a la análisis que está mal.  Y entonces, ¿cómo va a utilizar como ejemplo un caso que está regulado para demostrar que el mercado no funciona?  si está regulado?  Es un problema de regulación, no un problema del mercado.  Porque además no entienden qué es el mercado.  El mercado es un proceso de cooperación social donde los individuos intercambian libremente derechos de propiedad.  Entonces no hay lugar para el fallo.  O sea, cuando usted entiende qué es el mercado, no hay lugar para el fallo.  Después también cayó en otra falacia cuando dice, cuando el sombrero es chico y no le entra en la cabeza, usted tiene que comprar un sombrero más grande y no achicar la cabeza.  En realidad, digamos, no es una falacia construida sobre una metáfora inválida, porque tiene que ver con una cosa que suelen decir mucho los heterodoxos acá, que hay que... que no hay que hacer el ajuste fiscal, que hay que crecer la economía.  Ustedes lo habrán escuchado cientos de veces a los políticos diciendo que esto se arregla con crecimiento y ahí se arregla el déficit fiscal.  No, eso es falso.  Aun cuando usted tomara el manual keynesiano más rudimentario de todos, es lo que se llama multiplicar el presupuesto equilibrado.  Usted aumenta el gasto público, si llegara a ser el caso que aumenta el producto, la recaudación aumenta menos que proporcionalmente, con lo cual el déficit le aumenta igual.  Y eso vale tanto para adelante como para atrás.  Si usted ajusta, las cuentas mejoran.  Y esta estupidez de que no hay que chicar el gasto público, que hay que expandirlo y que esa expansión va a generar un aumento de la actividad que reduce el déficit fiscal, es el desastre que ha vivido Argentina en los últimos cien años.  Es decir, después, de vuelta, se puso a discutir, por ejemplo, el tema de... de lo que eran las empresas del sector eléctrico.  Y ahí, de vuelta, cayó en contradicciones porque justamente en un momento se queja, por ejemplo, en algo que se llaman precios estacionales.  O sea, cuando usted evalúa la energía en Argentina, se evalúa en el nodo CESA, se llama nodo de mercado.  Ese es el nodo de mercado porque es el más grande de todos.  Entonces, casi todo el país es exportador neto y Buenos Aires es importador neto.  Por eso la energía se evalúa en esa isla.  Ahora, ¿qué es lo que pasa?  Cuando usted satura la red de transmisión, usted no puede estar generando a mercado.  Usted genera a precio local y el precio se derrumba.  Y entonces queda generando a precio local.  Eso le pasaba, por ejemplo, mucho en la zona del Comahue.  cuando eran tres líneas de transmisión.  Entonces, ¿qué pasaba?  Generaba mucha energía hidroeléctrica de pasada, que no se podía acumular.  Entonces, ¿qué pasa?  Usted la mandaba.  Cuando saturaba las tres líneas, no tenía más forma de mandar la energía a Buenos Aires.  Entonces, ¿qué pasa?  Le quedaba en el mercado local, la oferta excedía tanto a la demanda, que el precio se hacía cero.  ¿Sí?  Entonces, mientras que entonces se queja de que los precios locales son... los mismos que en Ezeiza, digamos, por funcionamiento de mercado, al mismo tiempo se jacta de que fueron cerrando el anillo para darle estabilidad al sistema eléctrico.  y justamente eso lo que hace es que el precio sea del nodo mercado, Ezeiza.  Es decir, me comprende que mete contradicciones que son verdaderamente... Me rompían los oídos escuchar eso.  O, otra vez, digamos, los temas de, por ejemplo... cuando dice, bueno, entonces para crecer hay que resolver el tema energético.  ¿Y cómo lo quiere resolver?  Regulando.  Pero regulando correctamente.  ¿Cuántas veces habrá escuchado eso de poner los precios correctos?  Y si justamente la regulación kirchnerista fue la que destruyó el sector gasífero, destruyó el sector eléctrico, destruyó todo lo que tocó, lo rompió.  O sea, ¿de qué es eso de determinar un retorno justo?  De un nivel de arbitrariedad y que ha causado una destrucción en la economía argentina.  Y obviamente después también fue muy divertido lo que dijo de la educación y que en realidad si ellos no adoctrinaran, yo no sería presidente.  No, es que en realidad los jóvenes son tan maravillosos, son tan rebeldes que la tecnología permitió escaparse de las aberraciones en materia de adoctrinamiento por parte del kircherismo.  ¿Sí?  ¿Y qué más?  Bueno... ",
+        "cosine_dist": 0.3683649685987018,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 4341.387,
+        "end_time": 4363.679,
+        "text": "Estaba con su ayuda memoria.  Me interesa el adoctrinamiento, porque eso fue un punto muy importante.  Usted está haciendo mucha referencia, por un lado, a la auditoría de la universidad, y por otro lado, usted está haciendo mucha referencia al adoctrinamiento.  Ayer la expresidenta dijo, si hubiéramos adoctrinado, como ellos dicen, ellos no hubieran ganado la elección.  ¿Le preocupa mucho el adoctrinamiento en la universidad? ",
+        "cosine_dist": 0.758777011207863,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 4364.32,
+        "end_time": 4392.934,
+        "text": "No, es que los jóvenes justamente lograron... escapar al adoctrinamiento porque son jóvenes, porque son rebeldes, y son rebeldes contra el estatus quo.  Y como le bajaron el adoctrinamiento de raíz socialista, la rebelión de los jóvenes naturalmente fue liberal.  Y la forma en la cual la viabilizaron fue a pesar del kirchnerismo.  Porque lo pudieron hacer entrando en las redes sociales. ",
+        "cosine_dist": 0.4181754827316929,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 4393.334,
+        "end_time": 4394.295,
+        "text": "Bien.  Presidente... ",
+        "cosine_dist": 0.8509756520337897,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 4394.315,
+        "end_time": 4397.055,
+        "text": "Es decir, lo lograron a pesar del kirchnerismo. ",
+        "cosine_dist": 0.5989983475864502,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 4397.516,
+        "end_time": 4419.123,
+        "text": "Es interesante lo que usted plantea.  Mi última pregunta.  Mucha gente dice que el lunes, en la marcha, lo que hubo fue una marcha por la educación, pero al mismo tiempo casi hubo una marcha de la oposición, de quien empieza a plantearse como lo que es la oposición.  Lo de ayer, ¿fue el primer acto de campaña de Cristina candidata? ",
+        "cosine_dist": 0.7346526104662275,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 4421.685,
+        "end_time": 4563.949,
+        "text": "Lo de ayer fue un acto desesperado porque ven que cada vez están más lejos.  A ver, Horacio, fueron con un tema muy sensible para la sociedad, como es el tema de la educación.  Armaron mentiras, engañaron a la gente, usaron operadores políticos y mediáticos para difundir esa mentira.  Y para oponerse al cambio liberal que proponemos nosotros, tuvieron que juntarse todos.  O sea, la izquierda más rancia que hay, digamos que es la izquierda argentina, los piqueteros, la CGT, Moyano, el Frente Renovador y Masa, la Cámpora... como es Kicillof y su político de la provincia de Buenos Aires, las Madres de Plaza de Mayo, Pérez Esquivel, digamos, y el radicalismo progre.  Es decir, se tuvieron que poner todos juntos para poder hacer algo.  Tuvieron que prostituir una bandera noble y justa Usando mentiras para poder amontonarse todos para enfrentar a un espacio.  ¿Sabe qué?  Lo que hicieron fue una muestra de debilidad enorme.  Y eso, la gente lo percibió, se dio cuenta que estaba construido sobre una mentira.  Y eso se manifestó en qué?  En que mi imagen no se movió.  En que mis posteos le ganaron a la cantidad de gente que había en la marcha por escándalo.  Entonces, cuando usted va y mira las mismas encuestas que midieron mi imagen y van a escenario electoral, ¿sabe cuánto estaríamos sacando hoy?  ¿Cuánto?  Cincuenta y tres por ciento.  Bien.  ¿Se da cuenta que están desesperados?  Y están desesperados porque como les estamos terminando con todos los curros, todos los que viven de curro en la Argentina salieron a patear, ahí usted tenía el tren fantasma.  Era el club del curro que se aprovecharon y utilizaron a los jóvenes construyendo una mentira.  Por suerte la gente se dio cuenta. ",
+        "cosine_dist": 0.3482074441842843,
+        "is_target_speaker": true
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 4565.253,
+        "end_time": 4580.905,
+        "text": "Señor Presidente, nuevamente, le agradezco esta charla franca.  A mí lo que me interesa de conversar con usted al aire, primero, es que estamos hablando en vivo.  No hay forma de acordar una entrevista que dura una hora y media.  Y le agradezco que en ningún momento usted me dijo... ",
+        "cosine_dist": 0.8050474327866856,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 4580.925,
+        "end_time": 4583.467,
+        "text": "Usted sabe que los políticos no exceden los veinte minutos, ¿no? ",
+        "cosine_dist": 0.7190800379940594,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 4583.487,
+        "end_time": 4587.409,
+        "text": "No, ya lo sé, pero usted es larguero, Presidente.  Usted es larguero. ",
+        "cosine_dist": 0.7645172698249194,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 4587.449,
+        "end_time": 4591.392,
+        "text": "Porque yo no tengo problemas, porque yo no tengo máscara.  Yo puedo decir la verdad. ",
+        "cosine_dist": 0.6197565900352799,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 4592.353,
+        "end_time": 4594.336,
+        "text": "Le agradezco mucho, presidente.  Al menos lo que yo creo. ",
+        "cosine_dist": 0.8318757820548548,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 4594.777,
+        "end_time": 4596.159,
+        "text": "Me parece muy bueno.  Abrazo grande, gracias. ",
+        "cosine_dist": 0.7203279702184231,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 1",
+        "start_time": 4596.179,
+        "end_time": 4598.242,
+        "text": "Le agradezco mucho su tiempo, presidente.  Ha sido muy gentil con nosotros. ",
+        "cosine_dist": 0.8578708296587425,
+        "is_target_speaker": false
+    },
+    {
+        "speaker": "Speaker 0",
+        "start_time": 4598.262,
+        "end_time": 4599.044,
+        "text": "No, por favor, un placer. ",
+        "cosine_dist": 0.8013045959516445,
+        "is_target_speaker": false
+    },
+    {
+        "Index": 0,
+        "channel_id": "UCz489cQmrgH57sShDiatwfw",
+        "channel": "El Peluca Milei",
+        "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+        "id": "gEMrSKprDcI",
+        "url": "https://www.youtube.com/watch?v=gEMrSKprDcI",
+        "title": "MILEI TOTALMENTE SACADO MANDÓ A LA MIERD# A PERIODSTA ZURDO",
+        "duration": 4600.0,
+        "view_count": 138559,
+        "candidate_name": "milei",
+        "quality": "high"
+    }
+]

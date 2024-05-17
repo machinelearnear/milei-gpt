@@ -13,10 +13,12 @@ import gc
 
 from tqdm import tqdm
 from pathlib import Path
-from pyannote.audio.pipelines.speaker_verification import PretrainedSpeakerEmbedding
-from pyannote.audio import Audio
+from pyannote.audio import Audio, Pipeline, Model, Inference
+from pyannote.audio.pipelines.utils.hook import Hooks, ProgressHook, TimingHook
 from pyannote.core import Segment
 from scipy.spatial.distance import cdist
+
+from transformers import AutoModelForSpeechSeq2Seq, AutoProcessor, pipeline
 
 # ---- extra vocab ---- #
 prompt = "LELIQ FMI CONICET AFIP PBI AFJP Milei Bullrich Massa Bregman Schiaretti"
@@ -125,12 +127,20 @@ def save_dict_to_disk(data_dict, data, candidate_name, save_dir, filename:str = 
     logging.info(f'File saved to: "{filepath}"')
 
 def verify_speaker_in_audio(
-        audio_pipe, reference_wav_fname, segment_reference,
-        waveform_reference, embedding_reference, target_audio,
-        cdist_threshold, embeddings_model, min_appearance_time):
+    io,
+    reference_wav_fname,
+    segment_reference,
+    # waveform_reference,
+    embedding_inference,
+    embedding_reference,
+    target_audio,
+    cdist_threshold,
+    embeddings_model,
+    min_appearance_time
+):
 
     # load the raw audio file
-    waveform, sample_rate = audio_pipe(target_audio)
+    waveform, sample_rate = io(target_audio)
 
     # determine the total duration of the audio file
     total_duration = waveform.shape[1] / sample_rate
@@ -149,13 +159,16 @@ def verify_speaker_in_audio(
 
         # extract the current 30-second chunk
         segment_target = Segment(start_time, end_time)
-        waveform_target, _ = audio_pipe.crop(target_audio, segment_target)
+        waveform_target, sample_rate = io.crop(
+            target_audio, segment_target)
 
         # extract embedding for the chunk
-        embedding_target = embeddings_model(waveform_target[None])
+        embedding_target = embedding_inference(
+            {"waveform": waveform_target, "sample_rate": sample_rate})
 
         # compare embeddings using "cosine" distance
-        distance = cdist(embedding_reference, embedding_target, metric="cosine")
+        distance = cdist(np.reshape(
+            embedding_reference, (1, -1)), np.reshape(embedding_target, (1, -1)), metric="cosine")
 
         chunk_result = {
             'start_time': start_time,
@@ -186,7 +199,7 @@ def verify_speaker_in_audio(
     return passed_check, ( num_true_candidates / len(results) )
 
 def main():
-    parser = argparse.ArgumentParser(description='process and transcribe YouTube videos.')
+    parser = argparse.ArgumentParser(description='transcribe and pre-process YT videos')
     parser.add_argument('--hf_token', help='Hugging Face Token')
     parser.add_argument('--cdist_threshold', type=float, default=0.5,
                         help='Threshold for cdist (default: 0.5)')
@@ -198,18 +211,21 @@ def main():
                         help='Temporary directory for intermediate files (default: ../data/temp_audio)')
     parser.add_argument('--output_dir', default='../output',
                         help='Output directory for saving results (default: ../output)')
-    parser.add_argument('--batch_size', type=int, default=32,
-                        help='Batch size for processing (default: 32)')
-    parser.add_argument('--compute_type', default="float16",
-                        help='Compute type for processing (default: float16)')
+    parser.add_argument('--model_id', default="openai/whisper-large-v3",
+                        help='Model id from Huggingface (default: openai/whisper-large-v3)')
+    parser.add_argument('--batch_size', type=int, default=16,
+                        help='Batch size for processing (default: 16)')
+    # parser.add_argument('--compute_type', default="float16",
+    #                     help='Compute type for processing (default: float16)')
     parser.add_argument('--min_appearance_time', default=0.10,
                         help='Percentage time we want the main speaker to speak in the video')
     args = parser.parse_args()
 
     # setting device on GPU if available, else CPU
-    device = 'cuda' if torch.cuda.is_available() else 'cpu'
+    device = "cuda:0" if torch.cuda.is_available() else "cpu"
+    torch_dtype = torch.float16 if torch.cuda.is_available() else torch.float32
     logging.info(f'Using device: {device}')
-    
+
     # assigning variables from argparse
     hf_token = args.hf_token
     cdist_threshold = args.cdist_threshold
@@ -219,21 +235,53 @@ def main():
     output_dir = args.output_dir
     target_audio = f"{args.temp_dir}/audio.wav"
     batch_size = args.batch_size
-    compute_type = args.compute_type
+    # compute_type = args.compute_type
+    model_id = args.model_id
     min_appearance_time = args.min_appearance_time
 
     # load whisper model
-    vad_opts = {'vad_onset': 0.1, 'vad_offset': 0.1}
-    model = whisperx.load_model(
-        "large-v3", device=device, compute_type=compute_type, vad_options=vad_opts)
-    logging.info('OpenAI whisper "large-v2" model is loaded')
+    model = AutoModelForSpeechSeq2Seq.from_pretrained(
+        model_id, torch_dtype=torch_dtype, low_cpu_mem_usage=True,
+        use_safetensors=True)
+    model.to(device)
+    processor = AutoProcessor.from_pretrained(model_id)
 
-    # load embeddings model
-    embeddings_model = PretrainedSpeakerEmbedding(
-        "speechbrain/spkrec-ecapa-voxceleb",
-        use_auth_token=hf_token,
-        device=torch.device("cuda"))
-    logging.info('Embeddings model "speechbrain/spkrec-ecapa-voxceleb" loaded')
+    # vad_opts = {'vad_onset': 0.1, 'vad_offset': 0.1}
+    # model = whisperx.load_model(
+    #     "large-v3", device=device, compute_type=compute_type, vad_options=vad_opts)
+    # logging.info('OpenAI whisper "large-v2" model is loaded')
+
+    # setup HF pipeline for ASR
+    whisper_pipe = pipeline(
+        "automatic-speech-recognition",
+        model=model,
+        tokenizer=processor.tokenizer,
+        feature_extractor=processor.feature_extractor,
+        max_new_tokens=128,
+        chunk_length_s=30,
+        batch_size=batch_size,
+        return_timestamps=True,
+        torch_dtype=torch_dtype,
+        device=device,
+    )
+
+    # setup pipelines for speaker diarization, embeddings, and verification
+    diarization = Pipeline.from_pretrained(
+      "pyannote/speaker-diarization-3.1",
+      use_auth_token=hf_token)
+    diarization = diarization.to(torch.device('cuda:0'))
+    logging.info('"pyannote/speaker-diarization-3.1" loaded')
+
+    embeddings_model = Model.from_pretrained(
+        "pyannote/embedding",
+        use_auth_token=hf_token)
+    embeddings_model = embeddings_model.to(torch.device('cuda:0'))
+    embedding_inference = Inference(embeddings_model, window="whole")
+    logging.info('"pyannote/embedding" loaded')
+
+    # speaker_verification_model = SpeakerRecognition.from_hparams(
+    #     source="speechbrain/spkrec-ecapa-voxceleb", savedir="pretrained_models/spkrec-ecapa-voxceleb")
+    # logging.info('"speechbrain/spkrec-ecapa-voxceleb" loaded')
 
     # read data and start pipeline
     data = pd.read_csv(input_file)
@@ -248,14 +296,16 @@ def main():
             logging.info('\033[1m'+f'Processing video: "{each.title}"'+'\033[0m')
 
         # start audio pipeline
-        audio_pipe = Audio(sample_rate=16000, mono="downmix")
+        io = Audio(sample_rate=16000, mono="downmix")
         reference_wav_fname = f'{ref_audio_dir}/audio_{each.candidate_name}.wav'
 
         # extract embeddings for a reference (candidate) speaker speaking between t=0 and t=10s
         segment_reference = Segment(1., 10.)
-        waveform_reference, sample_rate = audio_pipe.crop(
+        # embedding_reference = embedding_inference.crop(reference_wav_fname, segment_reference)
+        waveform_reference, sample_rate = io.crop(
             reference_wav_fname, segment_reference)
-        embedding_reference = embeddings_model(waveform_reference[None])
+        embedding_reference = embedding_inference(
+            {"waveform": waveform_reference, "sample_rate": sample_rate})
 
         # download audio from youtube url
         try:
@@ -267,9 +317,16 @@ def main():
         # double-check if candidate is the main speaker in the video or not
         logging.info(f'Checking if candidate "{each.candidate_name}" is the main speaker..')
         is_main_speaker, appearance_time_from_main_speaker = verify_speaker_in_audio(
-            audio_pipe, reference_wav_fname, segment_reference,
-            waveform_reference, embedding_reference, target_audio,
-            cdist_threshold, embeddings_model, min_appearance_time)
+            io,
+            reference_wav_fname,
+            segment_reference,
+            # waveform_reference,
+            embedding_inference,
+            embedding_reference,
+            target_audio,
+            cdist_threshold,
+            embeddings_model,
+            min_appearance_time)
 
         if not is_main_speaker:
             logging.info(f'Candidate "{each.candidate_name}" not found')
@@ -281,29 +338,44 @@ def main():
 
         # ---- transcription starts ---- #
         logging.info(f'Starting transcription for: "{each.url}"')
-        # transcribe and perform speaker diarization
-        audio = whisperx.load_audio(target_audio)
-        result = model.transcribe(
-            audio, batch_size=batch_size, language='es')
 
-        # align whisper output
-        model_a, metadata = whisperx.load_align_model(
-            language_code=result["language"], device=device)
-        result = whisperx.align(
-            result["segments"], model_a, metadata, audio,
-            device, return_char_alignments=False)
-        gc.collect(); torch.cuda.empty_cache(); del model_a # delete model if low on GPU resources
+        # transcribe audio with world-level timestamps
+        result = whisper_pipe(
+            target_audio,
+            return_timestamps="word",
+            generate_kwargs={"language": "spanish"})
 
-        # assign speaker labels
-        diarize_model = whisperx.DiarizationPipeline(
-            use_auth_token=hf_token, device=device)
-        diarize_segments = diarize_model(audio)
-        result = whisperx.assign_word_speakers(diarize_segments, result)
-        logging.info(f'Finished transcription for: "{each.url}"')
+        # troubleshooting
+        with open('./output_data.json', 'w') as f:
+            json.dump(result, f)
+
+        # audio = whisperx.load_audio(target_audio)
+        # result = model.transcribe(
+        #     audio, batch_size=batch_size, language='es')
+
+        # # align whisper output
+        # model_a, metadata = whisperx.load_align_model(
+        #     language_code=result["language"], device=device)
+        # result = whisperx.align(
+        #     result["segments"], model_a, metadata, audio,
+        #     device, return_char_alignments=False)
+        # gc.collect(); torch.cuda.empty_cache(); del model_a # delete model if low on GPU resources
 
         # ---- speaker verification starts ---- #
         # load the raw audio file
-        waveform, sample_rate = audio_pipe(target_audio)
+        waveform, sample_rate = io(target_audio)
+
+        # segments found through diarization
+        segments = diarization(
+            {"waveform": waveform, "sample_rate": sample_rate}, min_speakers=2, max_speakers=4)
+
+        # diarize_model = whisperx.DiarizationPipeline(
+        #     use_auth_token=hf_token, device=device)
+        # segments = diarize_model(audio)
+        # result = whisperx.assign_word_speakers(segments, result)
+        logging.info(f'Finished transcription for: "{each.url}"')
+        print(segments)
+
         # determine the total duration of the audio file
         wav_duration = waveform.shape[1] / sample_rate
 
@@ -314,8 +386,10 @@ def main():
                 speaker_target = Segment(segment['start'], wav_duration)
             else:
                 speaker_target = Segment(segment['start'], segment['end'])
-            waveform_target, sample_rate = audio_pipe.crop(
+            waveform_target, sample_rate = io.crop(
                 target_audio, speaker_target)
+            score, prediction = verification.verify_files(reference_wav_fname, speaker_target)
+            print(score, prediction)
             embedding_target = embeddings_model(waveform_target[None])
 
             # compare embeddings using "cosine" distance

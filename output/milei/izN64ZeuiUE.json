@@ -1,0 +1,1351 @@
+{
+    "Index": 19,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "izN64ZeuiUE",
+    "url": "https://www.youtube.com/watch?v=izN64ZeuiUE",
+    "title": "MILEI ESTALLÓ CONTRA NACHO TORRES TRAS SU AMENAZAS",
+    "duration": 2788.0,
+    "view_count": 572419,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 1",
+            "start_time": 0.22,
+            "end_time": 3.211,
+            "text": "Señor Presidente, ¿cómo le va?  Buenos días, ¿cómo está usted? ",
+            "cosine_dist": 0.7888162187087968,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 4.472,
+            "end_time": 6.874,
+            "text": "Buen día Horacio, un gusto enorme hablar contigo. ",
+            "cosine_dist": 0.6801859390039933,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 7.034,
+            "end_time": 13.778,
+            "text": "Muchas gracias, muchas gracias por dedicarme este rato, me imagino que es un madrug... ¿Qué hora es en este momento?  ¿Está en Washington todavía? ",
+            "cosine_dist": 0.7564004367916323,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 15.159,
+            "end_time": 22.324,
+            "text": "Estoy en Washington, sí, salgo a la tarde de hoy para Buenos Aires, así es que llego el lunes a la mañana. ",
+            "cosine_dist": 0.4763459975284178,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 22.464,
+            "end_time": 24.566,
+            "text": "Bien, ¿va a haber el Superclásico? ",
+            "cosine_dist": 0.7675611650465015,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 24.646,
+            "end_time": 28.006,
+            "text": "Sí.  Va a ser imposible, voy a estar en el avión. ",
+            "cosine_dist": 0.7683916731326325,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 28.907,
+            "end_time": 30.128,
+            "text": "Usted tiene Wi-Fi arriba del avión. ",
+            "cosine_dist": 0.912005541884762,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 31.849,
+            "end_time": 34.331,
+            "text": "Sí, eso es verdad.  Se me había escapado ese dato. ",
+            "cosine_dist": 0.6917646757381457,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 34.692,
+            "end_time": 40.997,
+            "text": "Va a poder ver el superclásico.  Perdóneme, si usted no tiene Wi-Fi arriba del avión, ¿quién tiene Wi-Fi, presidente? ",
+            "cosine_dist": 0.865508581124933,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 42.19,
+            "end_time": 44.271,
+            "text": "No, no, no.  Es que yo viajo en un avión de línea. ",
+            "cosine_dist": 0.816015815959882,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 44.391,
+            "end_time": 49.292,
+            "text": "No, por eso.  Usted paga el servicio, así que más vale que tenga una buena conexión.  Escúcheme una cosa. ",
+            "cosine_dist": 0.8610384236597307,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 49.432,
+            "end_time": 50.992,
+            "text": "Si treinta y cinco dólares sale. ",
+            "cosine_dist": 0.6383397476554227,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 51.032,
+            "end_time": 52.193,
+            "text": "¿Setenta y cinco dólares? ",
+            "cosine_dist": 0.9338661294280719,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 53.633,
+            "end_time": 54.253,
+            "text": "Treinta y cinco. ",
+            "cosine_dist": 0.891992930861115,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 54.353,
+            "end_time": 61.095,
+            "text": "Ah, treinta y cinco.  Treinta y cinco lucas.  ¿Vale la pena pagar el Wi-Fi treinta y cinco lucas en un viaje internacional?  Usted le saca provecho, eso sí. ",
+            "cosine_dist": 0.8129811299012835,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 61.135,
+            "end_time": 65.075,
+            "text": "Ey, yo, digamos, me pongo intenso de secular. ",
+            "cosine_dist": 0.664379710311293,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 67.634,
+            "end_time": 74.27,
+            "text": "¿Sabes que hay mucha gente que dice, el presidente no para un segundo de tuitear, no labura en ningún momento?  ¿Cómo hace para tuitear y laburar al?  mismo?  tiempo? ",
+            "cosine_dist": 0.8159459552674188,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 75.385,
+            "end_time": 91.357,
+            "text": "No, bueno, si estoy de viaje es tiempocioso, así es que evidentemente los viajes me pongo un poco más intenso.  Si no, básicamente uso las redes en el momento del desayuno, en el momento del almuerzo y después a la noche. ",
+            "cosine_dist": 0.5132338214956927,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 91.857,
+            "end_time": 102.005,
+            "text": "Escúcheme una cosa, señor presidente.  ¿Usted tiene un equipo de redes sociales que autorizan, supervisan, cuidan, editan cada uno de los mensajes que usted da, cada uno de los me gusta y cada uno de los retuits? ",
+            "cosine_dist": 0.750274354126459,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 103.035,
+            "end_time": 108.157,
+            "text": "No, para nada.  Las redes sociales mías las manejo yo, salvo TikTok que la maneja Iñaki. ",
+            "cosine_dist": 0.6140956874555283,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 108.417,
+            "end_time": 114.32,
+            "text": "Ah, perdón.  ¿Iñaki sigue en el equipo?  Porque hay mucha gente que dice, no, lo limpió Iñaki, que se mandó unos líos, que no sé qué.  ¿Iñaki mantiene eso? ",
+            "cosine_dist": 0.8950577744317599,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 115.34,
+            "end_time": 117.521,
+            "text": "No, Iñaki maneja mi TikTok. ",
+            "cosine_dist": 0.8378141362021271,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 117.861,
+            "end_time": 129.086,
+            "text": "Ah, perfecto.  Bien.  O sea, a ver, cada vez que usted tira un dardo envenenado es usted.  Cada vez que usted banca la parada de alguien es usted.  Cada vez que me guste algo es usted. ",
+            "cosine_dist": 0.806866562950236,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 130.305,
+            "end_time": 134.447,
+            "text": "Exactamente, por ejemplo, yo le estuve retuiteando tweets a usted, entonces soy yo, sí. ",
+            "cosine_dist": 0.6606403177888822,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 134.747,
+            "end_time": 150.934,
+            "text": "Es usted, le agradezco mucho.  Usted me puede tutear, yo lo había tratado a usted, pero usted me puede tutear a mí, señor presidente.  Escúcheme una cosa, ¿se arrepiente de algún tweet?  ¿Se arrepiente de algún mensaje?  ¿Se arrepiente de algún dardo?  No.  Ninguno. ",
+            "cosine_dist": 0.7964312490125468,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 152.935,
+            "end_time": 161.848,
+            "text": "No, porque cada una de las cosas que hago las hago convencidos, así es que... En ese sentido no tengo para qué arrepentirme. ",
+            "cosine_dist": 0.5942030353532711,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 162.088,
+            "end_time": 182.034,
+            "text": "Le pregunto porque a veces una decisión de una política económica, una decisión de un planteo de una situación judicial o un planteo constitucional, una ley, tiene un tiempo de elaboración y hay gente alrededor suyo, pero un tuit es un segundo nada más, no se arrepiente de ninguno. ",
+            "cosine_dist": 0.7527548877166093,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 183394,
+            "end_time": 183454,
+            "text": "No. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 184082,
+            "end_time": 184482,
+            "text": "De ninguno. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 185.842,
+            "end_time": 196.405,
+            "text": "No, yo en ese sentido cuando tomo las decisiones, las tomo.  Lo que pasa es que requieren distintos tiempos de concentración. ",
+            "cosine_dist": 0.5834168895917384,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 196.425,
+            "end_time": 197.325,
+            "text": "Sí, por supuesto. ",
+            "cosine_dist": 0.845039066281216,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 197.485,
+            "end_time": 198.346,
+            "text": "Determinadas cosas. ",
+            "cosine_dist": 0.7350310880980073,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 198426,
+            "end_time": 198886,
+            "text": "Por supuesto. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 200.266,
+            "end_time": 223.179,
+            "text": "Igual a veces la lectura que se hace no es para mí la correcta sobre los tuits.  Muchas veces yo hay tuits que los retuiteo para que la gente se entere... de cosas que están pasando, es para darle visibilidad.  No necesariamente tiene que estar representando mi opinión, pero es, digamos, para darle visibilidad a determinadas situaciones. ",
+            "cosine_dist": 0.49396704422120796,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 223.279,
+            "end_time": 227.843,
+            "text": "Esto está pasando, hay gente que opina esto, yo lo comparto como presidente.  Exacto.  Bien. ",
+            "cosine_dist": 0.7356211976378468,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 228804,
+            "end_time": 229204,
+            "text": "Exacto. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 229.765,
+            "end_time": 233.888,
+            "text": "Presidente Delfi, está cumpliendo años nuestra compañera Delfi. ",
+            "cosine_dist": 0.876830468217616,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 233.908,
+            "end_time": 235.069,
+            "text": "Feliz cumpleaños, Delfina. ",
+            "cosine_dist": 0.8741224757816951,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 235.39,
+            "end_time": 238.873,
+            "text": "Muchas gracias.  Tengo una pregunta que, más allá de los tuits... ",
+            "cosine_dist": 0.8512408550361583,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 239.113,
+            "end_time": 242.536,
+            "text": "No le canto el cuplario porque no se lo quiero arruinar con... ",
+            "cosine_dist": 0.6963722352411945,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 242.576,
+            "end_time": 285.245,
+            "text": "No, pero escuchen una cosa.  Sería un lindo una versión rockera de... Sería muy bueno, sería muy bueno.  Delphi me decía, más allá de los tuits, usted ha tenido posiciones fuertes con determinadas figuras.  Figuras con las que correr del tiempo... Se cerró la grieta, si vale la pena usar la grieta.  Los primeros ejemplos que se me ocurren son Patricia Bullrich y el Papa Francisco.  Usted en algún momento, en otra vida, porque hay una vida antes de que usted sea presidente de la nación, hubo mensajes muy fuertes, descripciones muy fuertes.  Algunas personas hablaban de casi descalificaciones hacia la figura de Patricia y hacia la figura del Papa.  ¿Se arrepiente? ",
+            "cosine_dist": 0.6956846619720715,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 287.727,
+            "end_time": 372.109,
+            "text": "Hay un par de cuestiones.  El tema de los cruces que en su momento tuvimos con la doctora Bullrich, a quien yo estimo enormemente, tuvieron lugar dentro de la lógica de la campaña.  En un momento la campaña se degeneró y se fue de cauces.  Y entramos en una situación que a los pocos días de terminada la elección de la primera vuelta lo cerramos.  Con lo cual eso son cosas que pasaron, se aclararon esos malos entendidos y seguimos adelante como siempre con el vínculo político.  maravilloso que habíamos tenido siempre y de hecho te debe constar del trato que recibe la doctora Bullrich de mi parte.  no olvidemos que cuando yo fui a cumplir mi palabra en lo de Mirta volviendo como presidente yo ese planteo.  cuando lo había hecho yo fui con mi novia, con Fátima Flores y sin embargo al Al programa en el que cumplo la palabra voy, digamos, con la doctora Bullrich.  Llevan un claro gesto de apoyo, digamos, hacia lo que es su enorme gestión.  Bien. ",
+            "cosine_dist": 0.532370601936302,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 372.129,
+            "end_time": 391.115,
+            "text": "Presidente, con mucho respeto, le voy a hacer una de las preguntas, tantas preguntas que me llegan.  ¿Usted está loco?  Porque está haciendo cosas que para mucha gente son difíciles de entender, son raras de entender.  Por las formas, por los modos, por los tonos, por los tiempos.  Hay gente que dice, está loco.  ¿Está loco? ",
+            "cosine_dist": 0.7664430030884328,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 393.037,
+            "end_time": 421.615,
+            "text": "No, yo no creo que estoy loco.  O sea, en realidad la diferencia entre un loco y un genio es el éxito.  Por lo tanto, lo primero es que deberían tratar de ser más respetuosos, porque hay toda una metodología de trabajo que de hecho nos... llevó a la presidencia de la nación.  Por lo tanto, en lugar de descalificar lo que no entienden, deberían hacer un esfuerzo por tratar de entender.  ¿Pero qué quiere que le haga Horacio si no la ven? ",
+            "cosine_dist": 0.5404498200125498,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 423.256,
+            "end_time": 432.923,
+            "text": "Hay mucha gente... ¿A usted le divierte ese concepto de la ven, no la ven?  ¿Es así como usted plantea o como se dice así a veces en redes?  ¿Estos no la ven?  ¿Estos la ven? ",
+            "cosine_dist": 0.7135723962708829,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 434.424,
+            "end_time": 565.382,
+            "text": "En realidad, lo que... Lo que está sucediendo es que hay un cambio estructural.  y ese cambio estructural la política convencional no lo puede ver.  Antes, como era un sistema cerrado y no podía ingresar nadie distinto a la política, a pesar de que tenían ese error en la visión y no percibían el desprecio que tienen los argentinos por los políticos tradicionales, En ese contexto, como el sistema estaba cerrado, no lo podían sentir empíricamente, por decirlo de alguna manera.  Por eso es que detestan mi presencia en la política, porque no solo deja de manifiesto en que todo lo que estuvieron pensando durante todos estos últimos cuarenta años están equivocados, sino que además los ponen en un lugar muy incómodo, que es tener que aceptar que son seres despreciables y que la gente los detesta y que no pueden pisar la calle porque si la gente los conociera los lincharía.  Esa es la realidad.  y eso es lo que no pueden ver, no lo quieren ver, porque tendrían que estar aceptando que todo lo que hicieron estaba mal.  Entonces es un problema de falta de autocrítica.  Entonces tiene que ver con eso el no la ven.  Y algunos no la ven porque no pueden por... carencias intelectuales, cognitivas y demás, y hay otros que no la pueden ver porque son los beneficiarios de la casta.  Entonces, digamos, la guita que se llevan de manera indebida sobre este funcionamiento del sistema decadente, hace que no la puedan ver.  Entonces, por ejemplo, fíjate esto, nosotros todo lo que tocamos estamos haciendo estallar cosas de corrupción.  Y entonces... Claro, eso para el político casta es una locura.  Es una locura, es decir, ¿cómo le vas a estar tocando el curro a la política? ",
+            "cosine_dist": 0.42512547120589017,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 565.562,
+            "end_time": 608.177,
+            "text": "Usted recién decía la diferencia entre un loco y un genio es el éxito.  Recién estaba hablando con Guillermín, una experta de educación, y le dije, voy a hablar con el presidente, ¿qué le preguntarías?  Y justo ella me dijo... Le preguntaría cuándo vamos a empezar a ver la luz.  ¿Cuándo la vamos a empezar a ver?  Porque recién estábamos hablando y usted me decía, hay políticos que la ven, hay políticos que no la ven.  Pero mucha gente está diciendo, ¿y la gente cuándo la va a empezar a ver?  Porque hay mucha gente que está haciendo esfuerzos para intentar verla.  Hay mucha gente que quiere verla.  pero todavía no la ven en la cotidianidad, que es en la billetera, en la hora de ir al supermercado y que la guita me alcance, en ir al supermercado y ver que el precio está igual que la semana pasada.  ¿La gente cuándo la va a empezar a ver, presidente? ",
+            "cosine_dist": 0.7399282236072238,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 609.879,
+            "end_time": 622.729,
+            "text": "A ver, ya hay indicios de que las cosas se están mejorando.  A ver, por ejemplo, la inflación mayorista en diciembre fue del cincuenta y cuatro por ciento.  Eso anualizado daba diecisiete mil. ",
+            "cosine_dist": 0.4767457680683277,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 623210,
+            "end_time": 623270,
+            "text": "Sí. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 624.011,
+            "end_time": 829.742,
+            "text": "Y, por ejemplo, la propia inflación mayorista en el mes de enero cayó al dieciocho por ciento, es decir, se redujo en dos tercios.  Si vos tomás la inflación minorista, cuando nosotros arrancamos el mes de diciembre, no nosotros en la gestión, sino el propio mes de diciembre, en la primera semana viajaban los precios al tres mil setecientos anual, en la segunda semana se aceleró al siete mil quinientos, Y obviamente que cuando nosotros asumimos empezamos a hacer un programa de estabilización duro donde iniciamos una política de ajuste fiscal, un saneamiento del Banco Central y un sinceramiento cambiario.  La inflación se estaba esperando que oscilara entre el cuarenta y cinco y el sesenta por ciento y fue del veinticinco por ciento.  En el mes de enero la inflación fue del veinte, pero con un arrastre estadístico de siete puntos, quiere decir que si vos lo limpias, la inflación estaba viajando al trece, y ahora el consenso de mercado estaría diciendo que está en torno al quince por ciento.  Entonces cuando le arrestes el arrastre estadístico vamos a estar muy cerca de un dígito, es decir que La inflación está claramente bajando.  Por otra parte, si uno se fija en el precio del dólar, el dólar había tocado los mil trescientos pesos, el paralelo hoy ya está en mil, mil cincuenta aproximadamente.  Y cuando uno toma el tipo de cambio de importaciones, que es el relevante en estos temas, modificado por el impuesto país, desapareció la brecha.  Eso también es un indicador.  No, dame un segundito más, por favor.  Y cuando vos mirás todos los precios, viste que había en un momento que todos los analistas decían, no, porque se va a venir una devaluación, se va a venir una devaluación.  tendría que estar reflejado en la curva de futuros del dólar.  Porque si estás esperando la devaluación, las transacciones son un dólar más alto.  Bueno, si vos mirás la curva de futuros ahora, está en línea a la política monetaria y cambiaria que está llevando el Banco Central.  Por lo tanto, las variables financieras están mostrando esa mejora.  No solo eso, cuando vos mirás el riesgo país, Nosotros llegamos, el riesgo país estaba en dos mil ochocientos, dos mil novecientos, los bonos cotizaban a dieciocho dólares y hoy los bonos argentinos cotizan a cuarenta y seis dólares y el riesgo país ya perforó los mil setecientos, está en torno a los mil seiscientos cincuenta puntos.  ¿Qué es lo que quiere decir esto?  Que los mercados financieros, que son los que ajustan de manera instantánea, están viendo... los logros en la gestión de la política fiscal, que hemos alcanzado el déficit cero en el primer mes de gestión, o sea, algo verdaderamente inimaginado para Argentina y en el mundo, y el ritmo al cual estamos avanzando en el saneamiento del Banco Central es muy fuerte y nos permitiría, si mantuviéramos este ritmo, poder abrir el cepo a mitad de año.  Es decir, todas las variables financieras que son las que ajustan muy rápido y que se adelantan al ciclo están muy positivas, o sea, con lo cual hay luz, o sea, estamos cada vez más cerca de la luz. ",
+            "cosine_dist": 0.4261059583605319,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 830.582,
+            "end_time": 843.908,
+            "text": "Yo le pregunto, presidente, domingo a la mañana, recién me acaba de dar una clase de economía y hay mucha gente que dice, pero preguntarle al presidente, ¿los jubilados cuándo la van a ver?  ¿Cuándo la van a ver los jubilados? ",
+            "cosine_dist": 0.7933840754857922,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 845.168,
+            "end_time": 862.93,
+            "text": "A ver, vamos a ponerlo en estos términos.  Es muy importante mirar el tema del dólar con los alimentos.  De hecho, la inflación de alimentos en febrero estaría debajo del diez por ciento.  Viene corriendo al nueve, de.  hecho.  Pero voy a un punto más importante y suelen estar muy vinculados. ",
+            "cosine_dist": 0.5057266918207277,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 862.95,
+            "end_time": 868.034,
+            "text": "Pero me está corriendo la pelota, presidente.  Le pregunté por los jubilados, no por los precios.  ¿Los jubilados cuándo la van a ver en la jubilación? ",
+            "cosine_dist": 0.7686869403867954,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 868.114,
+            "end_time": 870.175,
+            "text": "Es que es lo que voy a contestar. ",
+            "cosine_dist": 0.7633138167694382,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 870.436,
+            "end_time": 874.108,
+            "text": "Ok.  No se le ponga mal, presidente. ",
+            "cosine_dist": 0.7090311112259404,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 874.448,
+            "end_time": 881.45,
+            "text": "No, con masa el gobierno anterior cuando se fue ganaban ochenta dólares los jubilados.  Hoy ganan doscientos. ",
+            "cosine_dist": 0.5496928221919847,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 882.61,
+            "end_time": 886.691,
+            "text": "Hoy ganan doscientos.  ¿Pero ochenta dólares de cuáles?  ¿De trescientos o ochenta dólares de mil? ",
+            "cosine_dist": 0.8683636422317367,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 888.231,
+            "end_time": 910.725,
+            "text": "No, ochenta dólares de verdad.  Mirá, hay un ejemplo muy lindo en un libro de Juan Carlos de Pablo que dice que va un hombre a un bazar, pide un jarrón y le dice quiero ese jarrón.  Bueno, ¿cuánto cuesta?  Dice, bueno, mire, cuesta un millón de pesos.  ¿Cómo un millón de pesos si enfrente cuesta doscientos mil?  Entonces dice, vaya y cómprelo enfrente.  No, enfrente no hay más.  Bueno, acá cuando no haya más también va a costar doscientos mil. ",
+            "cosine_dist": 0.4874303049747626,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 910.765,
+            "end_time": 913.693,
+            "text": "Es muy interesante esa metáfora.  Bien. ",
+            "cosine_dist": 0.7433655173382132,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 913.813,
+            "end_time": 922.36,
+            "text": "Pero ese es el que hay.  Entonces, digamos que podés poner cualquier tipo de cambio, pero si no podés hacer ninguna transacción, eso no es precio.  Eso es el de mercado. ",
+            "cosine_dist": 0.5005809898062892,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 922.54,
+            "end_time": 935.03,
+            "text": "Estos doscientos dólares que usted dice que cobran los jubilados, los jubilados dicen, sí, está todo muy bien, pero a mí no me alcanza para nada.  ¿Cuándo se va a modificar?  ¿Va a haber una nueva ley?  ¿Cómo van a empezar a pagar a los jubilados? ",
+            "cosine_dist": 0.7248800664481603,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 935.07,
+            "end_time": 1059.318,
+            "text": "Yo entiendo la reflexión de los jubilados.  Argentina es un país que... Desde el año dos mil once su PBI no crece, por lo tanto estamos muy empobrecidos con un PBI quince por ciento inferior al que teníamos en el año dos mil once.  No por nada Argentina hoy en el ranking mundial de PBI per cápita es ciento cuarenta.  Es decir, Argentina acaba de ser víctima de un desastre.  Los últimos veinte años han sido un desastre.  A ver, el salario promedio en Argentina durante la convertibilidad era mil ochocientos dólares y si hubiéramos mantenido una tendencia razonable hoy sería tres mil.  y el salario promedio en Argentina es trescientos.  Es decir, el populismo nos costó perder un noventa por ciento de los ingresos.  En ese contexto de miserabilidad es donde aparece esta remuneración de los jubilados con una fórmula que los perjudica fenomenalmente y que nosotros intentamos modificar la ley ómnibus, pero que dado los privilegios por los que han peleado la casta política... Esa ley hubo que sacarla, hubo que eliminar el capítulo cuatro.  ¿Por qué?  Porque, digamos, como los políticos delincuentes no quieren ceder frente a sus privilegios, digamos, no quiere que le vayan bien a los argentinos.  Primero está que le vayan bien a los políticos delincuentes.  Entonces, por eso, digamos, empezaron a destrozar la ley.  Y bueno, en ese contexto es donde perdieron los jubilados, porque de hecho nosotros... Dada la dinámica de la fórmula, los jubilados este año estarían perdiendo dos puntos del PBI.  Y nosotros lo que habíamos hecho era una recomposición que le permitía ganar a los jubilados un punto y medio del PBI.  Pero bueno, la miserabilidad de la política primó sobre los intereses de los argentinos.  Y en esa destrucción que causaron, evidentemente, los jubilados fueron perjudicados.  Ahora digamos, pero son víctimas de los intereses rastreros y mezquinos de la casta política. ",
+            "cosine_dist": 0.39735390341487486,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1059.518,
+            "end_time": 1069.346,
+            "text": "Está muy bien.  Presidente, recién estábamos contándome, hay gente que la ve, hay gente que no la ve.  Nacho Torres, ¿la ve?  ¿Los gobernadores la ven?  ¿O qué están viendo los gobernadores? ",
+            "cosine_dist": 0.6731769864723822,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1070.988,
+            "end_time": 1079.788,
+            "text": "No, pobrecito Nachito, no la ve nada.  No la ve, es un pobre chico que no pudo leer un contrato. ",
+            "cosine_dist": 0.6094821166648936,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1081.089,
+            "end_time": 1083.03,
+            "text": "Estamos hablando del gobernador de la provincia de Chubut. ",
+            "cosine_dist": 0.8960857619925118,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1083.951,
+            "end_time": 1125.775,
+            "text": "¿Por qué dice que no la ve?  Pero es de una precariedad intelectual muy grande.  El contrato, digamos, la provincia tomó deuda contra garantía de coparticipación.  Entonces, cuando usted arma esa operación... Esa operación hace que cuando a usted le depositan la coparticipación, la cual se deposita continuamente, se extrae la parte afectada a la deuda y le llega el remanente.  Entonces, yo no tengo la culpa de que el chico no pueda leer un texto con... y comprenderlo.  Evidentemente es una víctima del deterioro de la educación argentina y no puede leer un contrato, pobre chico. ",
+            "cosine_dist": 0.44476989235894704,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1126.075,
+            "end_time": 1137.262,
+            "text": "Escúcheme, presidente, pero a ver, el gobernador lo que está diciendo es el gobierno nacional.  me está poniendo el pie arriba de la cabeza, me está... Pero eso es falso. ",
+            "cosine_dist": 0.6809850676958075,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1137.362,
+            "end_time": 1165.863,
+            "text": "Eso es falso.  Pero eso es falso, Horacio.  A ver, si vos comprometés tus ingresos Sí, contra una deuda.  ¿Qué es lo que, digamos, cuando vos, por ejemplo, no sé, tomás un acuerdo con un banco, tomaste un préstamo, y vos ponés como garantía, digamos, que pueden tomar la plata de tu sueldo, ¿vos te vas a quejar?  porque, digamos, todos los meses te debitan de tu sueldo la cuota del crédito? ",
+            "cosine_dist": 0.448432697007244,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1166.224,
+            "end_time": 1176.088,
+            "text": "Por ahí puteo, pero no me puedo sorprender, digamos, porque es un compromiso que yo tomé.  Es como si fuera el débito automático de la tarjeta de crédito.  Funciona así, perdón, presidente, funciona así, es como el débito automático de la tarjeta de crédito. ",
+            "cosine_dist": 0.7579022568127677,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1177.387,
+            "end_time": 1183.351,
+            "text": "Exactamente es eso.  Entonces, digamos, yo no tengo la culpa de que el pobre chico no esté en condiciones de leer un contrato. ",
+            "cosine_dist": 0.631521159661908,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1183.371,
+            "end_time": 1196.02,
+            "text": "Pero escuchenme una cosa, presidente, porque acá no fue solamente el gobernador de Chubut, salieron todos, prácticamente todos los gobernadores, hasta el jefe de gobierno de la Ciudad de Buenos Aires, salió a apoyar al gobernador de Chubut.  ¿Ninguno la vio?  ¿Ninguno sabe leer un texto? ",
+            "cosine_dist": 0.7133200815987359,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1197.319,
+            "end_time": 1232.857,
+            "text": "Bueno, eso habla muy mal del resto de los gobernadores que apoyaron esa mentira del gobernador de Chubut.  Lamentablemente quedaron expuestos, es más, todos los firmantes quedaron del mismo lado que Kicillof, que Quintela, esos muchachos de que son parte del pasado, porque en el fondo lo que están reclamando... es que ellos no quieren ajustar y le quieren trasladar el ajuste al resto de los argentinos.  Y nosotros estamos acá para defender a los argentinos de bien, no para defender a los políticos runfla. ",
+            "cosine_dist": 0.46734076870738017,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1232.877,
+            "end_time": 1238.119,
+            "text": "Sí, es fuerte la palabra políticos runfla. ",
+            "cosine_dist": 0.7359682246059446,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1238.719,
+            "end_time": 1251.152,
+            "text": "¿Cómo llamaría a alguien que toma un compromiso por una deuda?  y después no lo quiere pagar y frente a esa situación le echa la culpa a otro.  ¿Cómo lo definiría eso? ",
+            "cosine_dist": 0.43312077721949427,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1252.193,
+            "end_time": 1261.526,
+            "text": "No me voy a poner del lado del gobernador, pero le puedo decir, mire, esta deuda no era mía, esta deuda la tomó el gobierno anterior con el gobierno nacional anterior.  Yo lo que estoy haciendo es tratar de resolver este problema. ",
+            "cosine_dist": 0.6635107989722064,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1262.899,
+            "end_time": 1287.075,
+            "text": "Y yo le hago una pregunta.  Yo llegué al poder y heredé cerca de cuatrocientos veinte mil millones de dólares de deuda.  ¿Y eso me da crédito para defaultearla?  Es un disparate.  Se llama continuidad del Estado.  O sea, ni siquiera entonces sabe cómo funciona el Estado este chico.  ¿Qué quiere que le diga?  Y es más, es muy peligroso lo que hizo el resto de los gobernadores apoyando semejante disparate. ",
+            "cosine_dist": 0.484038431495997,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1288.536,
+            "end_time": 1314.549,
+            "text": "¿Los gobernadores tienen conciencia de la situación económica?  Porque es muy claro que ustedes del Gobierno Nacional están intentando hacer recortes.  Hay mucha gente que lo señala como no es un recorte, es un ajuste.  Y por otro lado, hay mucha gente que, sobre todo en las provincias, da la sensación de que el ajuste no llega, que el recorte no llega.  Y si hay algún tipo de recorte que lo haga el Gobierno Nacional, a mí la mía no me la toques.  En el Excel diario que usted mira.  ¿Es así? ",
+            "cosine_dist": 0.6482115055316859,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1314.909,
+            "end_time": 1338.748,
+            "text": "Ese es el planteo de los gobernadores.  Quieren que... A ver, los gobernadores tienen que hacer un ajuste fiscal de un punto del PBI y no lo quieren hacer.  Y nosotros desde la Nación tenemos que hacer un ajuste fiscal de quince puntos del PBI.  Cinco en el Tesoro y diez en el Banco Central.  Ya hemos alcanzado el equilibrio en el Tesoro y estamos trabajando fuertemente para limpiar el problema del Banco Central. ",
+            "cosine_dist": 0.49632275177355223,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1338.828,
+            "end_time": 1357.83,
+            "text": "La pregunta es, ¿no lo quieren hacer o no lo pueden hacer?  Porque hay muchos que dicen, a mí me encantaría hacer el recorte, pero la verdad que a mí los números no me dan.  Tengo los jubilados, tengo los docentes, tengo la salud.  Me encantaría estar recortando, pero no la veo la guita, digamos.  No la veo.  ¿No la quieren hacer o no la pueden hacer? ",
+            "cosine_dist": 0.6489741506482329,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1357.85,
+            "end_time": 1360.832,
+            "text": "Ya sé que no la ven. ",
+            "cosine_dist": 0.766806047706075,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1360.852,
+            "end_time": 1364.274,
+            "text": "Pero la pueden hacer, digamos.  Las provincias pueden hacer el recorte que se necesita. ",
+            "cosine_dist": 0.7935112396321338,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1364.294,
+            "end_time": 1369.017,
+            "text": "A ver, vamos, por ejemplo, le hago el caso de Córdoba, que fue bien emblemático. ",
+            "cosine_dist": 0.6658814341354463,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1369.957,
+            "end_time": 1373.079,
+            "text": "Es casualidad, ¿no?  Es casualidad que usted esté eligiendo Córdoba para hablar de este tema. ",
+            "cosine_dist": 0.825361860204123,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1374.48,
+            "end_time": 1531.457,
+            "text": "No, porque fue, digamos, básicamente el número que salió a la luz y con lo sucio que juega el gobernador.  A ver, entonces, por ejemplo... Los subsidios al transporte eran el equivalente a veinte mil millones de pesos.  Y nosotros obviamente eliminamos esas transferencias.  Pero sin embargo el gobernador de Córdoba gastó veintiocho mil millones de pesos en pauta oficial para que los periodistas hablen bien de él.  Entonces, bueno, debe tener un problema de autoestima que necesita que lo adulen, pero eso no tiene por qué pagarlo los cordobeses.  Y en lugar de ajustar eso o de ajustar los festivales y demás, básicamente, ¿qué es lo que hizo?  decidió subirle las tarifas a la gente mucho más que proporcional que por el monto del subsidio y echarle la culpa, digamos, al gobierno nacional.  Lo cual es una falsedad.  Es decir, ¿qué es lo que quiere decir?  Que él no está dispuesto a ceder de ninguno de los privilegios de casta.  y está dispuesto a cargárselo a los cordobeses diciendo que es culpa mía.  Y en el resto de las provincias están pasando lo mismo, no quieren hacer el ajuste, es decir, no quieren resignar sus privilegios de casta.  Por ejemplo, en el caso de la provincia de Chubut, gasta de manera muy fuerte en pauta oficial, gasta muy fuerte también... En festivales y demás tipos de cosas.  Por ejemplo, previo a esta situación, los legisladores de la provincia de Chubut se subieron sus dietas a dos millones y medio por mes.  ¿Cómo?  ¿Cómo que no hay plata?  Es decir, entonces la de ellos no se toca y entonces... le tratan de tirar el fardo, digamos, el ajuste al gobierno nacional.  Y si el gobierno nacional le dice, no, pará, este ajuste lo tenés que pagar vos, entonces agarran y cargan sobre la gente y le echan la culpa al gobierno central.  Lo cual muestra un comportamiento cuasi adolescente, donde sus despilfarros le echan la culpa al resto.  Se acabó la Argentina del despilfarro, van a tener que poner las cuentas fiscales en orden.  Yo vine a defender a los argentinos de bien, no a la casta política.  Y eso, si me hubieran escuchado en los últimos diez años, la podrían ver, pero no la ven. ",
+            "cosine_dist": 0.4257259098547391,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1532.518,
+            "end_time": 1540.004,
+            "text": "Presidente, tengo doscientas millones de preguntas.  Le abrí el juego a la gente para que pregunte.  Así que le propongo una especie de ping-pong. ",
+            "cosine_dist": 0.6811534380409854,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1540.024,
+            "end_time": 1546.909,
+            "text": "Mire, yo estoy en este momento en un cuarto que tengo de vista un lago, un puente. ",
+            "cosine_dist": 0.6346397912876278,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1547.81,
+            "end_time": 1548.77,
+            "text": "Está relajado. ",
+            "cosine_dist": 0.8632831829363583,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1548.79,
+            "end_time": 1551.232,
+            "text": "Después de preguntar lo que quiere. ",
+            "cosine_dist": 0.7965974717751763,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1551.252,
+            "end_time": 1578.17,
+            "text": "No, no, no, ¿sabe qué?  Porque le propongo, porque tengo muchas preguntas y me encantaría, a mí me interesa mucho escucharlo, es la primera vez que hablo a un presidente de la nación, en vivo.  sobre todo, le agradezco que esté hablando en vivo conmigo, pero le quiero hacer como una especie de ping-pong para poder tener muchas preguntas y muchas respuestas.  Recién usted dijo, el gobernador me jugó sucio.  Muchos gobernadores le jugaron sucio.  ¿Usted siente que le faltaron a la palabra o que lo traicionaron? ",
+            "cosine_dist": 0.7050313431160304,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1580.511,
+            "end_time": 1612.806,
+            "text": "Pero es que tomaron una serie de compromisos con la ley de bases y después la empezaron a desguasar.  Es decir, empezaron, claro, cuando la aprobaron en general, pero cuando fueron a la cuestión en particular... La de ellos no se podía tocar, entonces, bueno, y eso fue lo que derivó en un escándalo, que para mí ese escándalo fue verdaderamente un éxito conceptual rotundo, algo que también el círculo rojo no la ve. ",
+            "cosine_dist": 0.4571516314087748,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1613.226,
+            "end_time": 1621.579,
+            "text": "¿Cuál fue la traición que más le dolió?  Si usted me tuviera que dar un... ¿Se anima a darme un nombre?  No esperaba esto de fulano de tal.  No, no damos nombre. ",
+            "cosine_dist": 0.7866812903608542,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1621.88,
+            "end_time": 1653.11,
+            "text": "No, ninguna me sorprende porque el político argentino... está formateado en el esquema de la traición.  Entonces, en el político argentino, la traición es cuestión de tiempo.  Bueno, yo no vengo de la política y entonces yo no estoy de acuerdo con esos códigos.  Probablemente mi mayor error fue creer que se podía negociar y hablar con los gobernadores de manera honesta. ",
+            "cosine_dist": 0.46672706185668555,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1653.91,
+            "end_time": 1673.476,
+            "text": "Presidente, el gobernador de Chubut dijo... si no aceptan nuestros condicionamientos, vamos a cerrar la canilla, no vamos a mandar petróleo, no vamos a mandar combustible, no vamos a mandar nada.  Es una decisión que puede tomar no el gobernador de Chubut, cualquier gobernador que tenga pozos petroleros o gasíferos. ",
+            "cosine_dist": 0.7103440795133573,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1675.517,
+            "end_time": 1685.085,
+            "text": "Bueno, de vuelta hay otro problema de desconocimiento e ignorancia, ¿no?  O sea, porque eso implicaría violentar el derecho de propiedad. ",
+            "cosine_dist": 0.6190071364039236,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1687.588,
+            "end_time": 1689.909,
+            "text": "O sea, no es una decisión que puede tomar el gobernador. ",
+            "cosine_dist": 0.7845407231716051,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1691.749,
+            "end_time": 1722.056,
+            "text": "Salvo que decida violar el derecho de propiedad, lo cual es un delito.  Y también estar amenazando al resto de los argentinos también es un delito.  Y al mismo tiempo significa no entender cómo funciona el mercado.  Pero la verdad, son discusiones de chiquitaje, de gente muy de cabotaje.  Es decir, yo vengo de estar en una convención internacional.  Yo vengo de estar jugando la final de la Champions League Y la verdad que ponerme a discutir, digamos, con amateurs que no saben leer eso. ",
+            "cosine_dist": 0.5298479626517012,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1722.116,
+            "end_time": 1739.742,
+            "text": "Presidente, pero la pregunta es, ¿qué pasa si esto escala?  Porque hay un montón de versiones, ¿no?  Está la cuestión legal, lo que usted plantea, algunas cuestiones que plantea Torres, algunos especialistas.  Horacio, es muchísimo más fácil.  Pero, ¿qué pasa si el miércoles Torres dice cierre los grifos?  ¿Qué hace usted como presidente? ",
+            "cosine_dist": 0.6713361891171031,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1742.403,
+            "end_time": 1744.084,
+            "text": "Tomará acciones la justicia y listo. ",
+            "cosine_dist": 0.7079422801692492,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1745.555,
+            "end_time": 1749.536,
+            "text": "¿Qué significa tomar acción en la justicia?  ¿Usted está dispuesto a intervenir la provincia? ",
+            "cosine_dist": 0.8039667430664114,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1750.696,
+            "end_time": 1773.742,
+            "text": "Si usted está violando la ley, si usted está, digamos, o sea, o acaso, digamos, que alguien sea un político, significa que no va a poder, que está eximido de cumplir la ley.  No, de ninguna manera.  Bueno, entonces, o sea, ¿y qué es lo que dije yo?  Dentro de la ley todo, fuera de la ley nada.  Entonces, si viola la ley, Dios pagará las consecuencias de violar la ley. ",
+            "cosine_dist": 0.4844172403293495,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1775.218,
+            "end_time": 1784.146,
+            "text": "Le voy a la pregunta.  ¿Usted está dispuesto a intervenir en una provincia en el caso de que un gobernador se revele de la manera que estamos viendo? ",
+            "cosine_dist": 0.7226054650769336,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1787.169,
+            "end_time": 1791.412,
+            "text": "A ver.  Se seguirán los pasos legales que determine la justicia. ",
+            "cosine_dist": 0.6072098946958433,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1792.693,
+            "end_time": 1802.342,
+            "text": "Bien.  Ok.  Tengo doscientas millones de preguntas.  Punto número uno.  Presidente, tengo chicos jóvenes.  Se quieren ir del país.  ¿Se van o se quedan? ",
+            "cosine_dist": 0.7938119287866935,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1804.358,
+            "end_time": 1828.341,
+            "text": "Me parece que es el momento de apostar a la Argentina porque estamos dando claras muestras de que empezamos a salir de verdad.  Lo está viendo todo el mundo.  No puede ser que los jóvenes, que de hecho son los que más nos han apoyado, no lo vean.  Así es que yo, digamos... A los leones los veo con toda la fuerza para salir adelante y pelearla.  Bien. ",
+            "cosine_dist": 0.5359450016459606,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1829.141,
+            "end_time": 1830.662,
+            "text": "Maxi Sarri está conmigo, le quería hacer una pregunta. ",
+            "cosine_dist": 0.9246338044025397,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1831.662,
+            "end_time": 1896.814,
+            "text": "Puedo hacer un comentario.  A ver, Argentina viene de veinte años de destrozar su stock de capital.  Eso significa que el retorno del capital en Argentina es muy alto.  Quiere decir que los que se quedan o entran en el inicio de la recuperación, tienen muchísimo para ganar.  O sea, es una excelente oportunidad de negocios, digamos, estar en Argentina.  Y es por ello que muchos fondos de inversión han estado, digamos, las últimas dos semanas.  Argentina ha sido un desfile importante.  furioso de grandes inversores y van a estar viniendo grandes empresarios.  vamos a tener este foro tecnológico que lo está coordinando el creador de tinder.  así es que la verdad que argentina se está convirtiendo en un foco de atracción a nivel mundial.  por eso digamos Discutamos las cosas importantes y las grandes y no el chiquitaje del potrero de acá a la esquina. ",
+            "cosine_dist": 0.45387645626510575,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1896.834,
+            "end_time": 1900.896,
+            "text": "No, por.  supuesto.  Maxi, te presento al presidente de la Nación.  ¿Qué tal, presidente? ",
+            "cosine_dist": 0.8030797663573677,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1900.956,
+            "end_time": 2007.547,
+            "text": "Buenos días.  Maxi Sardi acá.  ¿Qué tal, Maxi?  En función de esto que usted decía, ¿va a haber préstamo del FMI?  Hubo justamente visita esta semana.  Se está hablando de un adelanto de quince mil millones.  ¿Esto es así?  A ver, el punto es el siguiente.  Nosotros hoy tenemos un programa... Ese programa es un programa fragmentado al que se había accedido durante la presidencia de Macri y por lo tanto está capeado el monto, no se puede ir sobre el monto total del original que eran cincuenta y siete mil millones y están desbonzados cuarenta y cinco mil millones.  O sea, ese es el primer punto.  Por otra parte, deberíamos, para hacer algo así, ir a otro programa, y si bien Argentina ha mostrado un encuadramiento fiscal, monetario y cambiario verdaderamente impresionante, donde las propias autoridades del fondo les cuesta asimilar lo que hemos hecho en tan poco tiempo, ...y por motivo por el cual... ...están dispuestos a apoyar fuertemente... ...y lo mismo... ...fue lo que declaró... ...el propio secretario de Estados... ...Blinken... ...si se va a hacer un nuevo programa... ...hay que analizarlo y estudiarlo... ...y determinar las condiciones... ...no es cuestión de ir y levantar plata... ...porque sí... ...es decir... ...si nosotros decidiéramos... ...ir a una cuestión... de ampliar el crédito con el Fondo Monetario, tendría que estar vinculado a alguna reforma estructural muy importante. ",
+            "cosine_dist": 0.45297249726343647,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2007.567,
+            "end_time": 2034.478,
+            "text": "Presidente, ayer se lo vio muy cerca de Donald Trump.  Donald Trump, podríamos ya decir, Estados Unidos, en cierta forma, como lo estuvo la Argentina, está con la moneda en el aire.  Cae de un lado es Biden, cae del otro lado es Donald Trump.  Si cae del lado de Donald Trump, ¿Qué le dijo Donald Trump de lo que nosotros no escuchamos?  Porque se lo vio buena onda.  ¿Qué le dijo Donald Trump?  ¿Le dijo, mi ley, si yo soy presidente, va a pasar esto? ",
+            "cosine_dist": 0.714361782260421,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2036.399,
+            "end_time": 2071.042,
+            "text": "A ver, yo lo voy a poner en estos términos.  Si usted se fija, yo antes de viajar a Washington estuve reunido con Blinken, que es el segundo de Biden.  Y ayer estuve con Donald Trump, que es el candidato republicano probablemente.  Es decir, me parece que la señal que hay que entender de esto... Es que yo estoy mostrando una fuerte alineación con los Estados Unidos.  Del mismo modo que lo hice con Israel y que lo estoy haciendo con Occidente. ",
+            "cosine_dist": 0.5092943432452732,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2071.722,
+            "end_time": 2082.447,
+            "text": "¿Es verdad que usted no tenía previsto este encuentro?  Por cuestiones de agenda, ¿esto no iba a suceder?  ¿Y algo pasó en la agenda de alguno de los dos que permitió este encuentro? ",
+            "cosine_dist": 0.7375855835162946,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2083.428,
+            "end_time": 2107.587,
+            "text": "Técnicamente no iba a pasar porque yo estaba llegando a Washington... en el horario en el que Donald Trump exponía, pero hubo una modificación en el programa y Donald Trump expuso más tarde.  y cuando Donald Trump terminó de exponer, después me tocaba exponer a mí.  y entonces fue que nos encontramos detrás del escenario, que son las imágenes que se vieron. ",
+            "cosine_dist": 0.5404699921286491,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2107.667,
+            "end_time": 2112.328,
+            "text": "Lo estamos viendo, claro, claro.  Hay mucha gente sorprendida con estas imágenes, no estaba previsto. ",
+            "cosine_dist": 0.8169804255744313,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2112.428,
+            "end_time": 2118.737,
+            "text": "No, porque de hecho, si usted se fija, estábamos detrás de... del escenario, literalmente. ",
+            "cosine_dist": 0.6541845477363251,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2118.877,
+            "end_time": 2124.199,
+            "text": "Sí, ahí está la consola de sonido, están las computadoras, no es un lugar televisivo, no es un set de televisión. ",
+            "cosine_dist": 0.7714993706315587,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2124.619,
+            "end_time": 2128.201,
+            "text": "Presidente, ¿lo traigo?  Exactamente, esas son cosas que se tomaron desde los teléfonos. ",
+            "cosine_dist": 0.6592811029264374,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2128.281,
+            "end_time": 2140.266,
+            "text": "Ok, más allá de que usted está en Estados Unidos en este momento, lo traigo de nuevo a nuestro país.  Mauricio Macri, ¿la ve y cuándo lo ve a Mauricio Macri?  ¿Próximamente? ",
+            "cosine_dist": 0.7468004109950326,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2143.27,
+            "end_time": 2210.02,
+            "text": "Yo creo que el presidente Macri sí la ve y entiende claramente lo que está pasando.  Él ya muchas de estas cosas ya las padeció, estas traiciones.  Pero al margen de eso, y por eso para mí son muy valiosas las charlas que yo tengo con él, porque... aprendo mucho y he mejorado sustancialmente mi proceso decisorio al margen de las herramientas con las que yo trabajo regularmente para tomar decisiones.  pero al margen de eso me permitió comprender mucho mejor como son los jugadores que tengo enfrente y yo tengo un excelente diálogo con el presidente Macri Y puede que esta semana hablemos o la otra.  Nosotros tenemos un diálogo, digamos, frecuente.  Le diría que nosotros hablamos... Una vez cada diez días aproximadamente. ",
+            "cosine_dist": 0.48045952134387526,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2210.04,
+            "end_time": 2258.075,
+            "text": "Y están hablando de esta cuestión que, por lo menos, a veces tenemos la sensación de que nosotros estamos hablando de cosas que pensamos que ustedes están hablando.  y ustedes están hablando de otra cosa.  Nosotros estamos hablando mucho de la libertad de avanza, el PRO, se rompe juntos por el cambio.  Evidentemente, esa ruptura se vio en las últimas sesiones en el Congreso.  Y la pregunta del millón es a futuro.  Hay una idea de... ¿Una coalición en lo formal, pro la libertad de avanza?  ¿Hay una idea de alineamiento?  Usted recién decía los nuestros, los míos.  ¿Hay una idea de que esos míos sean un poquito más amplios y que haya un trabajo de equipo, como decía nuestra meteoróloga, que pasen a ser los nuestros, no los míos nada más, pro la libertad de avanza? ",
+            "cosine_dist": 0.7008834739816527,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2259.296,
+            "end_time": 2287.867,
+            "text": "Pero es que eso ocurrió naturalmente en el Congreso.  La afinidad se vio con claridad y la forma en la cual trabajó el bloque del PRO presidido por Cristian Ritondo.  La verdad es que yo, de hecho, le he agradecido públicamente a Cristian por su trabajo.  No he tenido la posibilidad de decírselo en persona.  Porque, bueno, tengo una agenda un poquito movida. ",
+            "cosine_dist": 0.5387062778760288,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2288.648,
+            "end_time": 2302.018,
+            "text": "Sí, sí, sí.  Una cosa es tener una agenda movida y otra cosa es agarrar una agenda que está acá y empezar a sacudirla como un loco.  Usted también le gusta este quilombo, presidente.  Perdone que se lo diga en estos términos. ",
+            "cosine_dist": 0.7802782557971137,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2303.579,
+            "end_time": 2365.682,
+            "text": "Bueno, eso es algo muy valioso que está señalando usted.  Y voy a comentar por.  qué.  Porque yo entiendo que La política no está acostumbrada a este nivel de vértigo.  Y, por ejemplo, nosotros en este periodo enviamos al Congreso y al DNU mil reformas estructurales.  Y si usted mira la historia argentina... se han hecho pocas reformas estructurales y nosotros en muy poco tiempo mandamos porque cada artículo es una reforma estructural.  de hecho a mí me parece fabuloso lo que está pasando con el DNU porque el DNU está corriendo.  y veamos por ejemplo el impacto sobre los alquileres.  se ha duplicado la oferta de propiedades y los precios si bien han subido han subido mucho menos que la inflación.  Es decir, que en términos relativos los alquileres... ",
+            "cosine_dist": 0.44637070778421706,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2365.722,
+            "end_time": 2382.867,
+            "text": "Se la llevo al otro lado, presidente.  También, producto del DNU, que está corriendo, las prepagas se pusieron imposibles.  Se fueron lejos y con muchas ganas.  Yo también lo estamos sufriendo.  Porque por un lado tenemos alquileres, pero por otro lado tenemos las prepagas que son prácticamente imposibles de pagar. ",
+            "cosine_dist": 0.7025012420310295,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2384.107,
+            "end_time": 2401.437,
+            "text": "Bueno, a ver, ahí uno lo que tiene que tener en claro es... Usted, si quiere, puede ponerle un precio ridículo y controlado a un bien.  Ahora, el problema es que después ese bien desaparece.  Es decir, usted, no sé, ¿qué producto alimenticio le gusta? ",
+            "cosine_dist": 0.5389628188532003,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2403899,
+            "end_time": 2404379,
+            "text": "La carne. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2406.04,
+            "end_time": 2409.862,
+            "text": "A ver, ¿cuánto cuesta el kilo del tipo de carne que usted come? ",
+            "cosine_dist": 0.5780633092532927,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2410.483,
+            "end_time": 2414.645,
+            "text": "Entre seis mil y ocho mil pesos.  Depende de él que me lo venda y la cara con la que me mire. ",
+            "cosine_dist": 0.7995773971630662,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2416.106,
+            "end_time": 2417.407,
+            "text": "Ponemos siete mil en el medio. ",
+            "cosine_dist": 0.7070506460499011,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2417.687,
+            "end_time": 2418.788,
+            "text": "Pongamos siete mil en el medio. ",
+            "cosine_dist": 0.9689100574557074,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2420.16,
+            "end_time": 2430.045,
+            "text": "¿Qué pasa si yo vengo y me hago el generoso y digo a partir de ahora cuesta un peso?  Usted va a estar muy feliz.  ¿Cuál es el problema con eso? ",
+            "cosine_dist": 0.5284199304834009,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2431.446,
+            "end_time": 2432.467,
+            "text": "Que no va a quedar sin carne. ",
+            "cosine_dist": 0.7929928055310702,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2433.692,
+            "end_time": 2434.393,
+            "text": "Bien exacto. ",
+            "cosine_dist": 0.7683811896045151,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2435.354,
+            "end_time": 2444.405,
+            "text": "Pero si usted me dice, se lo pongo a veinticinco mil, yo voy ahí y digo, si no llego a veinticinco mil, y mala suerte, entonces va a haber uno o dos que puedan pagar esos veinticinco mil. ",
+            "cosine_dist": 0.7574838310728758,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2445.246,
+            "end_time": 2552.335,
+            "text": "A ver, peor es si usted, digamos, no deja que los precios sean libres, porque entonces... O tiene un servicio que si no, no va a cumplir los requerimientos de calidad que usted requiere.  Es decir, usted lo va a pagar en términos de cantidades o en términos de calidad del producto.  Es decir, fíjese la aberración que hizo en materia regulatoria el kircherismo, ¿sí?  Regulando el precio de los trenes.  ¿Y qué es lo que pasó?  Y se degradó la calidad del servicio, algo que la gente aparentemente no lo veía y terminó en la masacre de once.  Muy bien.  Entonces, digamos, no es gratis.  Es más, voy a citar otro ejemplo de Pablo.  Dice que era una discusión que se daba en un momento donde el... en la época del austral, pesaba mucho la carne dentro del índice.  Entonces querían bajar la inflación dibujando el índice.  Algo que nos está costando algo la corte, que se hizo después en la época del kiserismo.  Pero fíjese esto.  Entonces llama el presidente al ministro de Economía.  Esto es un cuentito, no es la realidad.  Entonces dice, bueno, quiero hacer bajar el precio de la carne.  Entonces le dice, ¿usted quiere hacer bajar el precio de la carne en serio, presidente?  Le dice, ministro, sí, sí.  Entonces dice, bueno, mire, muy fácil, vamos a sacar un decreto que dice que a partir de las veinticuatro de horas de mañana, aquel carnicero que tenga carne en su carnicería va a ser ejecutado en la Plaza de Mayo.  Obviamente, ¿qué es lo que pasa?  Salen todos los carniceros a vender toda la carne.  Y como consecuencia de ello, el precio se derrumba, ¿no? ",
+            "cosine_dist": 0.4123425645848089,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2552.575,
+            "end_time": 2553.555,
+            "text": "Sí. ",
+            "cosine_dist": 0.947984134680133,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2553.595,
+            "end_time": 2559.378,
+            "text": "Entonces, ese día el ministro de Economía lo llevan en andas porque logró que el precio se hace muy bajo, ¿sí? ",
+            "cosine_dist": 0.4723259805265664,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2559718,
+            "end_time": 2559859,
+            "text": "Sí. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2560.739,
+            "end_time": 2567.362,
+            "text": "¿Qué pasó al otro día?  Lo colgaron al ministro de Economía porque no había más carne. ",
+            "cosine_dist": 0.5752924245157438,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2568.503,
+            "end_time": 2572.185,
+            "text": "Y no creo que Caputo tenga ganas de experimentar esa situación.  Presidente... ",
+            "cosine_dist": 0.8350233744076899,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2573.245,
+            "end_time": 2576.306,
+            "text": "No, Caputo es un señor que sabe de economía, claramente. ",
+            "cosine_dist": 0.6136395970207444,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2576.326,
+            "end_time": 2584.288,
+            "text": "Caputo sabe de economía.  ¿Los demás sabían algo?  ¿Los últimos ministros de Economía sabían algo?  Massa, Guzmán, Batakis. ",
+            "cosine_dist": 0.7554948591136282,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2585.748,
+            "end_time": 2590.369,
+            "text": "Para mí no daban la talla para el cargo. ",
+            "cosine_dist": 0.7106931679907857,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2591.45,
+            "end_time": 2595.931,
+            "text": "Ok.  Acá me dejaron una pregunta.  ¿Su comida favorita, Presidente? ",
+            "cosine_dist": 0.7443748588913106,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2598.297,
+            "end_time": 2603.882,
+            "text": "Mi comida favorita es, como dice, entraña muy jugosa. ",
+            "cosine_dist": 0.5790211987965836,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2603.902,
+            "end_time": 2607.304,
+            "text": "Entraña jugosa, está muy bien.  ¿Cómo va a salir el partido hoy?  ¿Boca-River? ",
+            "cosine_dist": 0.8392724239094087,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2608.745,
+            "end_time": 2610.567,
+            "text": "No, no tengo ni la menor idea.  ¡Vamos, presidente! ",
+            "cosine_dist": 0.9085568276169141,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2610.587,
+            "end_time": 2615.931,
+            "text": "¡Vamos, presidente!  Usted no le tiembla el pulso para nada y no me va a decir Boca-River cómo va a salir hoy. ",
+            "cosine_dist": 0.9448237757468413,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2617.092,
+            "end_time": 2620.535,
+            "text": "Pero hace años que no miro partidos de fútbol.  ¿Por qué? ",
+            "cosine_dist": 0.5718243305773945,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2620575,
+            "end_time": 2620795,
+            "text": "¿Por qué? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2623.064,
+            "end_time": 2624.685,
+            "text": "Porque no tengo tiempo. ",
+            "cosine_dist": 0.9024485562479941,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2624.765,
+            "end_time": 2633.171,
+            "text": "Ah, bueno.  Picha de boca cabulero.  hoy no arriega resultados.  Pero no tiene tiempo para ver partidos de fútbol, pero tiene tiempo para tuitear, presidente. ",
+            "cosine_dist": 0.7462661174976024,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2635.332,
+            "end_time": 2641.397,
+            "text": "Pero eso lo hago entre las comidas a la noche cuando me estoy yendo a dormir y a la mañana cuando estoy desayunando. ",
+            "cosine_dist": 0.567663722118068,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2641.537,
+            "end_time": 2657.364,
+            "text": "Acá elegimos música para ir a la pausa.  Ayer pusimos música que eligió Messi.  Me elige una canción, no sé cuántas pausas me quedan, me van a matar porque una pausa sola nos queda.  ¿Me elige una canción para ir a una pausa? ",
+            "cosine_dist": 0.7508274488955018,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2658.522,
+            "end_time": 2686.885,
+            "text": "Y mire, mi banda favorita son los Rolling Stones.  Mi disco favorito de los Rolling Stones es un disco de mil novecientos setenta y dos doble que se llama Exile on Main Street.  Que de hecho, dado los impuestos extravagantes que habían puesto en Inglaterra, los Stones se fueron a vivir a Francia.  Y que ese disco lo grabaron en un sótano.  Y en el disco uno, en el lado A, la segunda canción es mi canción favorita de los Rolling Stones que se llama Rip This Joint. ",
+            "cosine_dist": 0.46614038124858115,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2687.965,
+            "end_time": 2690.948,
+            "text": "Usted es un pícaro, presidente.  Me está eligiendo un título de una canción. ",
+            "cosine_dist": 0.8889864743456225,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2690.968,
+            "end_time": 2692.449,
+            "text": "Ahí está. ",
+            "cosine_dist": 1.059292489137093,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2692.469,
+            "end_time": 2709.644,
+            "text": "Estamos estallando esto, Rip Disjoint.  Y bueno, pero es puro vértigo esa canción.  No, me parece muy bien.  Es algo que lo representa usted.  Es el gobierno de la libertad avanza.  Sí, escuchen, usted y yo lo iba a sacar de acá, pero me mencionan los impuestos.  ¿Cuándo va a bajar los impuestos, presidente?  Porque usted se comprometió a bajar los impuestos y hasta ahora no hay muchos impuestos que haya bajado. ",
+            "cosine_dist": 0.7475121742953892,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2710.865,
+            "end_time": 2716.302,
+            "text": "¿Cómo que no estamos bajando fuertemente el impuesto inflacionario?  Te hemos dejado de falsificar dinero. ",
+            "cosine_dist": 0.6325003927864725,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2716.322,
+            "end_time": 2719.304,
+            "text": "Y con ganancia, ¿qué va a ser? ",
+            "cosine_dist": 0.861631841098011,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2719.344,
+            "end_time": 2725.248,
+            "text": "Esperá un segundo.  ¿Sabe cuánto le robó el kirchnerismo durante los últimos cuatro años con el señoriaje? ",
+            "cosine_dist": 0.5529426388823977,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2725469,
+            "end_time": 2725749,
+            "text": "¿Cuánto? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2727.19,
+            "end_time": 2762.988,
+            "text": "Veinte puntos del PBI.  Se terminó eso.  Se terminó el señoriaje.  Este año le estamos devolviendo a los argentinos cinco puntos del PBI por no llevar el señoriaje.  Y no solo eso.  Ya alcanzamos el déficit cero.  que era la meta del año, ya lo logramos en el primer mes de gestión.  Esto es muy interesante, porque en la medida que la economía argentina empiece a recuperarse y a crecer, los recursos tributarios van a aumentar.  Cuando otro político se dedicaría a gastar esa plata, ¿sabe qué vamos a hacer nosotros?  Vamos a bajar los impuestos. ",
+            "cosine_dist": 0.3769516002488007,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2764.268,
+            "end_time": 2769.049,
+            "text": "Me parece muy bien.  Le tomo la palabra, presidente.  Ha quedado grabado.  Van a bajar los impuestos. ",
+            "cosine_dist": 0.7855870974291517,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2770.586,
+            "end_time": 2771.627,
+            "text": "Obviamente.  Bien. ",
+            "cosine_dist": 0.8689776475047991,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2771.647,
+            "end_time": 2774.81,
+            "text": "Presidente, le agradezco mucho su tiempo.  Ha sido muy amable con nosotros y buen viaje. ",
+            "cosine_dist": 0.8332996398003665,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2775.931,
+            "end_time": 2781.616,
+            "text": "No, por favor.  Ha sido un verdadero placer para mí.  Un saludo para vos, Horacio, y para todo tu equipo.  Muchas gracias. ",
+            "cosine_dist": 0.555539119400789,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2781.636,
+            "end_time": 2787.401,
+            "text": "Presidente, le agradezco mucho.  Era el presidente de la nación, Javier Millet, conversando con nosotros desde Washington, D.C ",
+            "cosine_dist": 0.7838178962978066,
+            "is_target_speaker": false
+        }
+    ]
+}
