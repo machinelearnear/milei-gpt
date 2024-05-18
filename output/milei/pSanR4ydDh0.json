@@ -1,0 +1,407 @@
+{
+    "Index": 236,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "pSanR4ydDh0",
+    "url": "https://www.youtube.com/watch?v=pSanR4ydDh0",
+    "title": "TRAS SORTEAR EL SUELDO, MILEI HABLÓ DE SU MINISTRO DE ECONOMÍA - Javier Milei en TN 14/3/2022",
+    "duration": 1314.0,
+    "view_count": 145863,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 1",
+            "start_time": 0.06,
+            "end_time": 6.532,
+            "text": "Yo ya tengo cuatro ministerios armados.  Ministerio de Economía, Relaciones Exteriores, o sea, Cancillería, Bienestar Social e Infraestructura. ",
+            "cosine_dist": 0.45570871104314825,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 6.672,
+            "end_time": 8.453,
+            "text": "¿No me puede dar el nombre del Ministro de Economía? ",
+            "cosine_dist": 0.9902303994334888,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 8.733,
+            "end_time": 12.135,
+            "text": "Pobre hombre, le van a arruinar la vida.  Es bien ortodoxo. ",
+            "cosine_dist": 0.5826963859917946,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 14.096,
+            "end_time": 22.1,
+            "text": "Buenas noches.  Ya están en el estudio Patricia Bullrich y Javier Milei.  Con ellos vamos a estar hablando de todo lo que está pasando en el país, en la política. ",
+            "cosine_dist": 0.8777735251446702,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 22994,
+            "end_time": 23575,
+            "text": "A nosotros las urnas ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 23615,
+            "end_time": 24015,
+            "text": "nos dijeron, ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 24575,
+            "end_time": 24675,
+            "text": "no ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 24.795,
+            "end_time": 54.614,
+            "text": "queremos más presión sobre las clases medias, sobre la producción, que se achique el Estado, que se achique la política, como dice acá Javier que está ahí, que se achique la casta, que se achique la política, que se achiquen los ministerios, que se achique, digamos, el gasto en las provincias.  Eso es lo que queremos, no que se achique el mundo privado que es el que da trabajo.  Entonces, el gobierno, en vez de responder... concreta y positivamente, hace exactamente lo contrario. ",
+            "cosine_dist": 0.9126982539522525,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 56.075,
+            "end_time": 81.004,
+            "text": "Bien, como les dije con Javier Milei, que acaba de presentar este libro, acaba de editar, que es El camino del libertario, un libro que habla de su historia, de qué es lo que quiere, de sus proyectos, de un hombre que, según Durán Barba, lo leí ayer, dice que usted puede ser el presidente de la Nación, el próximo presidente de la Nación.  ¿Usted cree lo mismo que Durán Barba? ",
+            "cosine_dist": 0.8236732518199288,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 81.584,
+            "end_time": 101.472,
+            "text": "Sí.  De hecho, estoy trabajando en función de ello.  Estoy armando mi gabinete en la sombra.  Y, de hecho, ya tengo cuatro ministerios armados.  O sea, el Ministerio de Economía, Relaciones Exteriores, o sea, Cancillería, Bienestar Social, digamos, para dar contención a los más vulnerables, e Infraestructura. ",
+            "cosine_dist": 0.4083205093958059,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 102.432,
+            "end_time": 106.461,
+            "text": "Ahora, el... No me puede dar el nombre del ministro de Economía. ",
+            "cosine_dist": 0.930157756277216,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 107.442,
+            "end_time": 114.946,
+            "text": "Usted sabe que si hago eso, pobre hombre, le van a arruinar la vida.  Lo único que le puedo decir es que es bien ortodoxo. ",
+            "cosine_dist": 0.46492404766565687,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 115.907,
+            "end_time": 116.527,
+            "text": "Seguramente. ",
+            "cosine_dist": 1.0240827369748369,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 117.007,
+            "end_time": 129.852,
+            "text": "Si quiere le puedo pasar algún detalle.  En la primera reunión que tuvimos, que estuvimos trabajando once horas, tres horas... lo dedicamos a la discusión sobre dolarización. ",
+            "cosine_dist": 0.40453973345349403,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 130.672,
+            "end_time": 131.313,
+            "text": "¿Dolarización? ",
+            "cosine_dist": 0.8015614029909852,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 131613,
+            "end_time": 132153,
+            "text": "Exactamente. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 132.453,
+            "end_time": 135.575,
+            "text": "Es decir, que una de las variantes sería dolarizar la economía argentina. ",
+            "cosine_dist": 0.8388506627045479,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 135.615,
+            "end_time": 152.346,
+            "text": "Sí, nosotros básicamente lo que estamos pensando es una reforma que arranca con el sistema financiero para hacerlo anticorridas y que después entonces pueda pasarse a una banca libre, libre elección de monedas.  La verdad es que los argentinos ya eligieron qué moneda quiere, que es el dólar, y a partir de ahí dolarizar. ",
+            "cosine_dist": 0.3323835556247666,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 153.127,
+            "end_time": 156.269,
+            "text": "Es decir, como una especie de convertibilidad al principio y después... ",
+            "cosine_dist": 0.7810369694431822,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 157.769,
+            "end_time": 203.803,
+            "text": "En realidad es todo un proceso.  Lo primero que tiene que hacer es reformar la banca para que no haya corridas.  Eso en la literatura se conoce, es banca Simon.  Usted tiene lo que se llama el almacén de valor, donde usted deja su dinero, paga un fee.  por eso, cuando se lo quiere llevar se lo lleva porque está físicamente ahí, y la banca de inversión.  Entonces no hay posibilidad de corrida porque todo se resetea en el sistema de precios.  Entonces a partir de ahí usted puede directamente determinar la competencia de monedas.  Y ahí lo que va a pasar es que los argentinos van a elegir una moneda.  Los argentinos ya le dijeron, es el dólar.  Por lo tanto, usted va a tomar qué tiene en el activo del Banco Central y con eso va a liquidar los pasivos que tenga, ya sea la base monetaria y ya sea, digamos, los títulos que son, por ejemplo, las LELIC, los instrumentos de esterilización. ",
+            "cosine_dist": 0.2918817586958109,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 204.064,
+            "end_time": 211.588,
+            "text": "Es decir, que con un presidente es probable que estemos ante un proceso donde la moneda de la Argentina sea el dólar. ",
+            "cosine_dist": 0.8326181444656338,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 211.948,
+            "end_time": 222.994,
+            "text": "Exactamente, va a desaparecer el Banco Central.  O sea, mi compromiso es, voy a avanzar en la eliminación del Banco Central para que sea historia del pasado la inflación argentina.  No va a haber más inflación argentina. ",
+            "cosine_dist": 0.36094197377826787,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 223.848,
+            "end_time": 226.529,
+            "text": "¿Y usted cree que el Banco Central es el que la provoca?  Con la emisión. ",
+            "cosine_dist": 0.8937465051331851,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 226.709,
+            "end_time": 248.971,
+            "text": "Obviamente, claramente.  O sea, la inflación es siempre y en todo lugar un fenómeno monetario que surge de que cuando la cantidad de dinero sube o la cantidad de demandada baja, o sea, esa conjunción hace que el poder adquisitivo del peso caiga y todos los precios expresados en unidades monetarias suben.  Y le voy a pasar otra más.  Y todos aquellos que dicen que es multicausal... Yo les hago un desafío.  y que me demuestren... ",
+            "cosine_dist": 0.3326027135484614,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 248991,
+            "end_time": 249572,
+            "text": "Guzmán dice eso. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 249.973,
+            "end_time": 279.179,
+            "text": "Bueno, es un error, es un error garrafal.  Entonces le propongo al ministro Guzmán que demuestre que puede haber inflación en una economía de trueque.  ¿Sabe qué?  No puede haber.  Porque en una economía de trueque, ¿usted qué determina?  Precios relativos.  El precio de los anteojos respecto del teléfono, respecto del cuaderno, respecto de la copa.  Sí, son todos precios relativos.  Entonces, ¿y qué es la inflación?  ¿La suba generalizada de todos los precios?  ¿Es la definición que a ellos les gusta?  Bueno, si suben todos los precios, ¿qué pasa?  Los precios relativos no cambian.  Por lo tanto, no hay ningún efecto. ",
+            "cosine_dist": 0.38998826861092917,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 280.28,
+            "end_time": 285.303,
+            "text": "¿Por qué votó en contra del acuerdo con el FMI? ",
+            "cosine_dist": 0.8817943129961718,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 285.343,
+            "end_time": 318.712,
+            "text": "Hay cuestiones de índole técnica y hay cuestiones de índole moral.  Para nosotros desde la libertad de avance las cuestiones morales son todavía mucho más importantes que las técnicas.  Es decir, el primer elemento es, mire Joaquín, esto tiene implícito un impuestazo.  Porque si usted está incrementando la deuda, además del rollover, cinco mil millones de dólares más, ¿eso qué es la deuda?  La deuda son impuestos futuros.  Por lo tanto, sí hay impuestos.  Hay una suba de impuestos porque usted va a tener que pagar más impuestos de cara al futuro por esos cinco mil millones de dólares más que se están tomando para financiar el déficit primario. ",
+            "cosine_dist": 0.33868243197137404,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 318.732,
+            "end_time": 323.154,
+            "text": "De hecho, hoy marcó del PON, la jefa de la AFIP lo anunció en el Senado, ¿no? ",
+            "cosine_dist": 0.917412405149742,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 323.194,
+            "end_time": 481.375,
+            "text": "Por eso.  Es el primer punto.  Entonces, usted ahí tiene un impuestazo para pagar esos cinco mil millones de dólares.  Es el primer punto.  El segundo punto es la deuda.  es algo absolutamente inmoral.  Es decir, no hay nada que nos genere más rechazo a los liberales que la deuda.  Fíjese la inmoralidad de la deuda.  Si son impuestos futuros, eso quiere decir que lo va a pagar gente que no votó, nuestros hijos, nuestros nietos y gente que no nació.  Es decir, mire, ¿sabe qué?  A los chicos en Argentina cuando nacen no le pegan un chachás en la cola.  ¿Saben qué?  Le muestran con cuánta deuda nace, ahí se pone a llorar de lo lindo y ahí arranca.  Entonces digo, vamos, ese es el primer punto, es profundamente inmoral.  ¿Se puede financiar con emisión monetaria, o sea, con señorías?  ¿Qué?  Eso se traduce en inflación, le pega veinticinco veces más fuerte a los que menos tienen.  ¿Y qué?  ¿Un impuesto?  Digamos, una expropiación.  Por lo tanto, primer elemento, es inmoral.  ¿Dónde hay un elemento adicional de inmoralidad?  En el hecho de que, ok, estamos al borde del abismo, y la pregunta es, entonces, ¿quién paga el ajuste?  ¿Qué es lo que dice el kirchnerismo y la izquierda irracional que tiene Argentina?  Que lo pague el acreedor.  Eso quiere decir que usted va a un default.  Si usted va a un default, el precio de los títulos públicos se derrumba.  Eso significa que las tasas de interés se van a las nubes, el riesgo país llega a niveles estratosféricos, le cae la inversión, se le descoordina el mercado de bienes, cae la actividad, cae el empleo, cae el salario real, le explotan los pobres y los indigentes.  Ese es el escenario default.  Y además con el desequilibrio monetario usted podría seguramente ir a una hiper.  Eso es lo que pasa en ese escenario.  Eso es una aberración.  Ahora, también es cierto que lo que propone el ala moderada del gobierno y Juntos para el Cambio es una patraña.  Porque en el fondo lo que están avalando es el financiamiento de una ecuación fiscal que del otro lado está el resultado, está el presupuesto, que incluye una situación donde se sobreajusta al sector privado, de modo tal que la política siga en su fiesta.  No, no, entonces esto no puede ser.  Para Humana el gasto público sube en términos reales.  Y eso, digamos, no solo está de acuerdo el ala moderada del gobierno, sino que también está de acuerdo, juntos por el cambio, por presión de sus gobernadores, por ejemplo Morales, o por presión de Horacio Rodríguez Larreta, que necesitan más dinero porque les encanta gastar.  Entonces se sobrereacciona el ajuste sobre el sector privado para que continúe la fiesta de los políticos.  Entonces nosotros lo que decimos los liberales libertarios es, no, no, Acá hay que honrar las deudas, hay que pagar la deuda, hay que pagar el FMI, pero el ajuste tiene que recaer sobre la política.  Es decir, hay que ir contra el Estado, hay que ir contra el gasto público. ",
+            "cosine_dist": 0.336891650364589,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 481.395,
+            "end_time": 485.096,
+            "text": "Usted lo que pide es un acuerdo distinto con el FMI. ",
+            "cosine_dist": 0.9024643415684572,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 485.396,
+            "end_time": 491.939,
+            "text": "Exactamente.  No un default.  No un default, sino una drástica caída del gasto público que además permita la reducción de impuestos. ",
+            "cosine_dist": 0.5059123546138806,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 492.259,
+            "end_time": 500.083,
+            "text": "Claro.  Ahora, porque pareciera que la alternativa que hoy da el gobierno es o esto o el default. ",
+            "cosine_dist": 0.7536114812468006,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 500.777,
+            "end_time": 695.697,
+            "text": "Bueno, usted sabe, usted es un hombre muy experimentado y con mucho conocimiento, usted sabe que es el polilogismo.  Es decir, esto de yo... Que soy, no sé, la república y el otro es el enemigo.  Todos digamos blanco y negro.  Esa bipolaridad es una falacia.  Que es el falso dilema, o sea, es esto, o la muerte.  No es así.  Es decir, hay una solución que es ajustar y que ajuste la política.  Esa es la realidad.  Lo otro es tratar de infundirle miedo a los ciudadanos.  Y yo le voy a decir algo, Joaquín.  Si yo tengo la economía en desequilibrio, inexorablemente, por más que se resistan, esto es como la ley de la gravedad, ¿sabe qué va a hacer la economía?  Va a ir hacia la situación de equilibrio.  Ahora, ¿cuál es el punto?  El punto es que es como que yo tuviera que llegar a este punto.  Entonces, el gobierno quiere sobreexagerar sobre el sector privado y entonces en la contracción del sector privado a instancias de la mejor del sector público, achique más.  Y el sector público sea grande.  Mire... Eso, más allá de la dinámica transicional del corto plazo... Eso implica que a la postre el sector privado va a estar mucho peor.  Es decir, que el ajuste que avala, juntos por el cambio, con el ala moderada del gobierno, implica que el sector privado va a estar peor.  Entonces, en esa situación, si la política quiere seguir expropiando el sector privado, arruinándolo, conduciéndonos a una situación miserable, ¿sabe qué?  Es mejor que estalle la crisis.  ¿Sabe por?  qué?  Porque eso se va a llevar puesta toda la casta política.  Porque, evidentemente, estas personas... no pueden dejar de robar.  Y como no pueden dejar de robar, están dispuestos a pasarle cualquier factura al sector privado.  El sector privado ya no puede resistir más esto.  Es decir, Argentina hoy tiene un PBI per cápita que está a catorce por ciento debajo del que teníamos en el dos mil once.  Estamos en niveles parecidos o más bajos que los del año setenta y tres.  Tenemos la productividad del año cincuenta y tenemos digamos, once por ciento de indigentes, o sea, cinco millones de argentinos, en el país que produce alimentos para cuatrocientos millones de seres humanos, con una presión fiscal en el campo del sesenta por ciento.  Es decir, le sacan el alimento de doscientos cuarenta millones de seres humanos y en Argentina hay gente que no puede comer, pero digo, eso no puede ser.  ¿Y qué se les ocurre?  Más retenciones.  ¿Y qué van a decir?  Ah, no, porque es el efecto sobre los precios.  Es mentira, Joaquín.  Eso es mentira, porque cuando usted mira los productos de la soja en la canasta de los alimentos argentinos, ¿cuánto pesará si es casi todo exportación?  Es un impuestazo duro y directo sobre el campo.  Es otro avance sobre el derecho de propiedad.  Y encima, digamos, tienen el tupé de decir, no, vamos a crecer liderados por las exportaciones.  Pero es un chiste, código.  O sea, usted, digamos, está esperando que un sector se expanda, no lo está reventando latigazos.  Entonces... Eso desde lo moral.  En lo técnico tiene errores teóricos, errores empíricos y errores de diseño.  La proyección que mandó Guzmán tiene implícito un default, salvo que Argentina se pudiera financiar al tres por ciento.  Hoy la tasa en el mercado es treinta y uno por ciento en dólares.  Si tomo el promedio de los bonos es veinticuatro y si tomo el promedio histórico es ocho por ciento, nueve por ciento.  Es decir, no cierra los números.  Es decir, la proyección tiene incluido un default adentro.  Entonces todos los números que proyectó en la primera parte están todos mal. ",
+            "cosine_dist": 0.34768329490769156,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 696.598,
+            "end_time": 704.383,
+            "text": "Claro, usted cree que además de la cuestión moral hay una cuestión de insolvencia técnica. ",
+            "cosine_dist": 0.814732491845402,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 704763,
+            "end_time": 705323,
+            "text": "Exactamente. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 705.604,
+            "end_time": 717.661,
+            "text": "Dígame, Javier, ¿qué es lo que usted, si llegara a la presidencia, cuáles serían las primeras medidas que usted tomaría?  Ya hablamos de la medida económica sobre el tema del dólar, pero ¿cuáles serían las primeras medidas?  medidas que usted tomaría. ",
+            "cosine_dist": 0.8631012061151999,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 717.721,
+            "end_time": 873.729,
+            "text": "Nosotros, es un plan de crecimiento, es un programa de crecimiento basado en la evidencia empírica y son tres generaciones de reformas.  Las reformas de primeras generaciones, mientras que usted va haciendo toda la reforma financiera para terminar de exterminar la inflación en Argentina, hay una reforma del Estado que implica bajar el gasto público para poder bajar impuestos.  La segunda etapa dentro de esa reforma de primera generación es la flexibilización del mercado laboral hacia adelante.  Hoy hay seis millones de personas que están en el mercado informal.  Es decir, la flexibilización está tomando lugar de.  hecho.  Entonces, deberíamos ir hacia un sistema que básicamente... permita flexibilidad en el mercado laboral.  Y una vez que usted tiene eso, abre la economía.  Ese conjunto de cuatro reformas, o sea, la que tiene que ver con la reforma del Estado, la reforma laboral, la reforma del comercio exterior y la reforma financiera monetaria, si usted quiere, eso le va a asegurar que durante un periodo de quince años, Argentina va a crecer a tasas altísimas.  ¿Y eso qué le va a permitir?  Arreglar, por ejemplo, el sistema previsional, porque si usted tiene... Alto crecimiento, suba de los salarios en términos de dólares, o sea, que es importante esto.  Y además, aumento de la población económicamente activa, porque hay gente que va a querer salir al mercado, y usted tiene un mercado laboral flexible, y todos empiezan a conseguir trabajo, ¿qué pasa?  Y a usted le mejoran los números previsionales, y usted puede poner en caja el sistema previsional sin vulnerar un solo derecho.  Lo mismo puede hacer, por ejemplo, con los trabajadores del Estado.  O sea, usted sabe que hay que achicarlo.  Bueno, pero ¿cómo lo hace?  para que no sea un estallido social?  Bueno, usted puede hacer un programa de retiro voluntario, pero ¿qué pasó con el de los noventa?  ¿Por qué no funcionó?  Porque no teníamos la reforma del mercado laboral, no era flexible.  Ahora usted le va a dar dinero a los empleados estatales y se van a poder ir al sector privado donde son más productivos y además con una indemnización.  Entonces usted tiene eso.  Los planes sociales.  Los planes sociales básicamente la gente los va a abandonar.  Y va a haber un grupo que desafortunadamente no lo va a poder abandonar y uno va a tener que acompañarlo hasta el último día de su vida porque lamentablemente hay gente que ha sido tan maltratada por la política, el sistema los excluyó.  Es decir, son víctimas de este exceso de Estado que imposibilita la creación de riqueza.  Y una vez que usted está en eso, digamos... que además vuelve a tener otro puyo de crecimiento, que es lo que tiene la reforma de tercera generación, que ya son más sofisticadas, que tiene que ver con la educación, que tiene que ver con la salud, que tiene que ver con desmembrar el sistema de coparticipación y ir a un sistema verdaderamente federal donde cada uno se hace cargo de recaudar en función de lo que quiere gastar. ",
+            "cosine_dist": 0.32599052621892044,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 873.909,
+            "end_time": 879.771,
+            "text": "En ese marco, Javier, ¿qué harían, por ejemplo, usted con Aerolíneas Argentinas? ",
+            "cosine_dist": 0.9155639336141143,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 880.396,
+            "end_time": 891.876,
+            "text": "¿Directamente sabe lo que hago?  Eso es cero punto siete de déficit del PBI, las empresas del Estado.  ¿Sabe qué?  A Aerolíneas Argentinas?  se la doy a los empleados.  Se terminó el déficit.  Ahora háganse cargo y compitan. ",
+            "cosine_dist": 0.3440743931989062,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 893.892,
+            "end_time": 896.113,
+            "text": "Y declararía cielos abiertos.  Obviamente, claro. ",
+            "cosine_dist": 0.8990104061827455,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 896.634,
+            "end_time": 988.753,
+            "text": "O sea, desregular.  Además hay que avanzar en una agenda de desregulación enorme.  Argentina tiene setenta mil regulaciones.  Argentina, es más, tiene ciento setenta impuestos.  ¿Sabe qué, Joaquín?  Ciento sesenta recaudan.  cero punto cuatro el PBI.  Ustedes dicen, ¿cómo puede ser eso?  Y son ciento sesenta kioscos.  Del otro lado hay alguien.  O sea, eso hay que eliminarlo.  O sea, por ejemplo, hay que eliminar ingresos brutos y tiene que ser absorbido por el IVA.  Es letal el ingreso bruto.  Cuando usted lee la investigación sobre la naturaleza y las causas de la riqueza de las naciones de Adam Smith y para los amigos, la riqueza de las naciones, ¿qué es lo que sucede?  Él explica que la ruina de España estaba dada por el impuesto de Alcabala.  Es decir, ingresos brutos.  Entonces, ya digo, no hace dos días que sabemos que estas cosas hacen mucho daño.  Y sin embargo, lo mantienen.  ¿Por qué?  Fíjese, durante el gobierno de Macri hicieron un... Y esto fue gestión del ministro Rogelio Frigerio, uno de los mejores ministros que tuvo el presidente Macri.  como ministro del anterior, que hizo un acuerdo fiscal para que empezaran a bajar ingresos brutos.  Algunos quisieron, los subieron para nivelarlo y después empezó a bajar.  Pero la idea era bajar ingresos brutos.  Y vino este gobierno y eliminó todo.  Ahora si quieren te lo pueden subir, pero de vuelta.  Así no se puede, Joaquín.  Usted no puede estar castigando sistemáticamente al que crea riqueza para favorecer Al que la destruye, eso no termina bien.  Problema de incentivos. ",
+            "cosine_dist": 0.3208246880237161,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 988.773,
+            "end_time": 998.78,
+            "text": "Ahora, Javier, en medio de ese plan suyo, ¿cómo enfrentaría la reacción de los gremios?  Porque los sindicatos van a tener una reacción de paros, huelgas, manifestaciones. ",
+            "cosine_dist": 0.9589411155535092,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 999.3,
+            "end_time": 1002.082,
+            "text": "No, no veo por.  qué.  No veo por.  qué. ",
+            "cosine_dist": 0.6896798451288563,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1002.823,
+            "end_time": 1004.764,
+            "text": "Por cosas menores han hecho manifestaciones. ",
+            "cosine_dist": 1.0010232201826919,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1004.804,
+            "end_time": 1127.576,
+            "text": "Bueno, el problema es que, ¿sabe quién es el que más poder le da a los sindicatos?  El propio gobierno con la inflación.  Durante la época de Menem estaban bastante tranquilos y porque no había inflación.  Entonces hay una parte de la negociación que ya no tiene sentido porque si usted no tiene inflación esa parte de conflicto no tiene por qué pasar.  Y de hecho una de las cosas que yo había desarrollado... que el gobierno de Macri se aplicó al inicio, era la cláusula gatillo.  Que era algo que, si usted quería hacer un programa de desinflación gradual, es muy importante que las expectativas de inflación estén alineadas con lo que usted está haciendo de política monetaria.  Y si eso no se cumplía, ya sea si los precios iban por arriba, se disparaba el gatillo y ahí ajustaba, y si no, digamos, o sea... La negociación iba hacia lo que esperaba el Banco Central.  Entonces, usted evitaba que sufrieran las empresas o que sufrieran los trabajadores.  El mejor de los mundos, porque la consecuencia es que no había desempleo.  Funcionó muy bien, pero ¿qué pasa?  Cuando no le gustó la tasa de inflación que tenía el gobierno de Macri, salió a atacar a los sindicatos y salió a atacar a los empresarios.  Entonces, bueno, no terminó bien, pero de vuelta... Nada... Ahora, si usted, digamos, se va a centrar en una negociación y cree que los sindicalistas son el enemigo, bueno, ahí, digamos, hay un problema, hay un problema de concepción.  Es decir, yo no estoy diciendo que sean santos, lo que yo estoy diciendo es, o sea, los trabajadores también, digamos, tienen que tener sus representantes.  Que, obviamente, que hay un montón de cosas que no tendrían que tener los sindicatos y que la reforma del mercado laboral implica barrer con las cinco leyes fascistas de la Carta del Laboro de Mussolini, que confiamos nosotros.  Sí, claro, obvio, pero... ¿Usted se cree que ellos no saben que hay más de seis millones de trabajadores que están en el mercado informal que tienen un problema?  Ellos también tienen un problema.  Entonces, me parece que si uno trata de ir a una solución donde explicar cómo esto funciona, estoy seguro que están dispuestos a aceptar algo así. ",
+            "cosine_dist": 0.30813714042269247,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1127.616,
+            "end_time": 1136.061,
+            "text": "Dígame, ¿usted se siente más cerca o más lejos de Juntos por el Cambio?  Digo, porque para llegar a la presidencia va a tener que hacer un acuerdo político grande, ¿no? ",
+            "cosine_dist": 0.891641669087749,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1136.982,
+            "end_time": 1289.026,
+            "text": "A ver, vamos por partes.  Hay algunos sectores con los que yo me siento muy cómodos y hay sectores con los que no tomaría ni un café.  A ver, con los radicales yo no me siento.  Son la Internacional Socialista, son parte del problema.  La coalición cívica es más de izquierda que los radicales, o sea, son peores todavía.  Con lo cual tampoco me siento con esos.  con las palomitas tibias de Juntos por el Cambio, o sea, los socialdemócratas, o sea, la red, tampoco, son parte del problema.  Ellos tendrían que estar alineados ideológicamente con el kirchnerismo.  Sí, de hecho, digamos, o sea, no tienen grandes diferencias, están contentos con esto que votaron.  De hecho, los que están en gestión ejecutiva de Juntos por el Cambio fueron los que presionaron para que salga esta aberración de habilitarle al gobierno,  ¿sí?,  El ajustazo.  Porque era entrar al Fondo Monetario y ajustar.  Porque los números se conocían.  Cuando usted pone una variación de deuda, atrás está la ecuación, la restricción presupuestaria del gobierno.  Entonces, digamos, no pueden ser tan ingenuos.  O sea, sí que sabían lo que estaba pasando.  Ahora se espanta porque viene el ajustazo.  Entonces, ¿qué es lo que yo creo?  A ver... Hay que terminar con esto de hacer alianzas electorales para ganar.  Porque lo hicimos, la Argentina lo hizo con la alianza para ganarle al peronismo.  Le ganó.  Fue un gobierno desastroso.  Lo hizo Macri para ganarle al kirchnerismo.  Lo hizo, pero no pudo gobernar.  Bueno, ahora... Creíamos que el peronismo esto con su verticalismo lo podría resolver.  Otro gobierno desastroso.  Entonces hay que alinear en función del accidente.  Entonces los colectivistas usted va a tener a los radicales, a la coalición cívica, a las palomitas tibias juntos por el cambio, al cristianismo y a la izquierda.  ¿Y del otro lado qué va a quedar?  Van a quedar los liberales.  Van a quedar el peronismo republicano, el peronismo federal, el menemismo y los halcones juntos por el cambio.  Y que definitivamente nos pongamos de acuerdo una vez por todas en discutir las ideas con las cuales creemos que va a salir el país adelante.  Yo no tengo ninguna duda que si volvemos a abrazar los valores de la libertad, las ideas de la libertad, el liberalismo, el respeto irrestricto, el proyecto de vida del prójimo, basado en el principio de una agresión y en defensa del derecho a la vida, la libertad y la propiedad, ¿Sabe qué, Joaquín?  Así como lo hicimos en el siglo XIX a partir del mil ocho sesenta, de ser un país de bárbaros en treinta y cinco años nos convertimos en la primera potencia mundial, estamos en condiciones de volver a hacerlo.  Y tengo una buena noticia.  En esos procesos de convergencia, el sesenta por ciento de eso ocurre en los primeros quince años. ",
+            "cosine_dist": 0.3454958846506493,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1289.806,
+            "end_time": 1313.362,
+            "text": "Te agradezco mucho, Javier.  Gracias, Joaquín.  Basta de basura keynesiana, ha llegado el momento liberal.  Tenemos un líder y él es un gran rebelde. ",
+            "cosine_dist": 0.9050992701733668,
+            "is_target_speaker": false
+        }
+    ]
+}

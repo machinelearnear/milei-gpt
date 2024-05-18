@@ -1,0 +1,663 @@
+{
+    "Index": 203,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "dDCcBq-BYjQ",
+    "url": "https://www.youtube.com/watch?v=dDCcBq-BYjQ",
+    "title": "MILEI CORRIÓ A VIDAL EN VIVO - Javier Milei sorteó su sueldo 10/5/2022",
+    "duration": 876.0,
+    "view_count": 680971,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 1",
+            "start_time": 0.46,
+            "end_time": 6.313,
+            "text": "Bullrich, que hoy habló de dolarizar, ¿no están robándote un poco de argumentos para hacer campaña política? ",
+            "cosine_dist": 0.9396118431120499,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 6.333,
+            "end_time": 19.822,
+            "text": "Y sacando las marchas que hacen con planeros, no llenan un ascensor, si no fuera por eso.  El otro día fue a la Fundación Libertad, en una reunión de liberales la llenaron de socialistas.  Pobre Alberto, le falta roce con la lectura para criticarme. ",
+            "cosine_dist": 0.3503560628687027,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 20.163,
+            "end_time": 26.367,
+            "text": "Se va preparando para entrar.  María Eugenia Vidal, que ahí está escuchándolo a mi ley, hace algunos gestos, después le vamos a preguntar por los gestos. ",
+            "cosine_dist": 0.782127925724902,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 26.527,
+            "end_time": 30.99,
+            "text": "Ponete a hablar con Vidal, va a saber hacer hablar de economía, va a saber que es bien socialista. ",
+            "cosine_dist": 0.6828802546876809,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 31.55,
+            "end_time": 34.592,
+            "text": "Dale.  Por sí o por no, sabe de economía Patricia Bullrich. ",
+            "cosine_dist": 0.8635852521375897,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 34.712,
+            "end_time": 39.856,
+            "text": "Creo que estamos en el móvil y tenemos ya la comunicación con Javier Milei, porque ya que estamos hablando tanto de él... ",
+            "cosine_dist": 1.015147394432669,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 39.996,
+            "end_time": 43.498,
+            "text": "Miramos lo que estaba por decir y vamos al móvil, dale. ",
+            "cosine_dist": 0.825785039583181,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 43.518,
+            "end_time": 45.7,
+            "text": "Marcela Eddy. ",
+            "cosine_dist": 1.1001747406394409,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 45.72,
+            "end_time": 49.802,
+            "text": "Marcela Eddy, buenas noches.  Estamos aquí en el sorteo de Javier Milei. ",
+            "cosine_dist": 0.9213883931133575,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 49.862,
+            "end_time": 51.724,
+            "text": "Sí, pero una palabra en la boca, ¿no? ",
+            "cosine_dist": 1.016473960149972,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 52.084,
+            "end_time": 59.242,
+            "text": "El quinto.  El quinto.  El quinto sueldo de diputado que va a sortear Javier Milei, trescientos sesenta y seis mil pesos. ",
+            "cosine_dist": 0.8356572133455481,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 59.262,
+            "end_time": 64.763,
+            "text": "Marce, acércate a ver si lo vemos.  ¿Dónde está? ",
+            "cosine_dist": 0.9786136884424383,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 65.024,
+            "end_time": 73.208,
+            "text": "Sí, acá está viniendo.  Él comienza a transmitir para sus redes.  Es el ritual que utiliza siempre.  Acá está.  Bueno, saluda al escribano, Milei. ",
+            "cosine_dist": 0.83884385782369,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 76237,
+            "end_time": 76717,
+            "text": "¿Qué tal, Marcelo? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 76.738,
+            "end_time": 77.658,
+            "text": "¿Cómo le va, diputado? ",
+            "cosine_dist": 0.9385849197175404,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 77.739,
+            "end_time": 78.7,
+            "text": "¿Todo bien? ",
+            "cosine_dist": 0.9832404595721548,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 79.24,
+            "end_time": 84.866,
+            "text": "Acá saluda.  No, salude, salude tranquilo.  Saluda a su hermana, mi ley.  Aquí está Karina también. ",
+            "cosine_dist": 0.9088944740875952,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 85.306,
+            "end_time": 88.57,
+            "text": "Ah, bueno, ¿va a hablar ahora?  ¿Podemos hablar en vivo?  Ahí está. ",
+            "cosine_dist": 0.9601701326364769,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 88.65,
+            "end_time": 89.37,
+            "text": "¿Nos escucha? ",
+            "cosine_dist": 1.1129065369741649,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 89.511,
+            "end_time": 91.633,
+            "text": "El otro día no pudimos hablar. ",
+            "cosine_dist": 0.6949538256356131,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 91.693,
+            "end_time": 94.616,
+            "text": "Póngase, póngase el retorno, Marce, si me das un minutito. ",
+            "cosine_dist": 0.8842931492761369,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 94.636,
+            "end_time": 96.758,
+            "text": "¿Cómo no? ",
+            "cosine_dist": 0.9038367310820098,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 96.898,
+            "end_time": 104.223,
+            "text": "Sí, está Marcela Pagano, está Edi Zunino.  Está Lucas Romero también en el piso.  ¿Cómo estás? ",
+            "cosine_dist": 0.7935525943419518,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 104.243,
+            "end_time": 109.986,
+            "text": "¿Estamos acá con Eddy?  ¿Hace un ratito?  ¡Abrazo grande, Eddy, también! ",
+            "cosine_dist": 0.7751901391084918,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 110.006,
+            "end_time": 126.013,
+            "text": "Escuchando la propuesta de Patricia Bullrich, que hoy habló de dolarizar, de una economía bimonetaria, y nos preguntábamos si tal vez, o yo me preguntaba también, si no están robándote un poco de argumentos para hacer campaña política.  ¿La escuchaste? ",
+            "cosine_dist": 0.9189222577722664,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 128.377,
+            "end_time": 181.436,
+            "text": "Sí, escuché lo que hoy... A mí me llegó el video con el tema de Patricia Bullrich hablando de avanzar hacia un esquema bimonetario, por ejemplo, como el que se aplicó, que está vigente más en Perú, El problema que yo veo con ese caso, porque en Perú funcionó bien, pero el problema en Argentina es que no hay demanda de dinero.  Entonces, si no hay demanda de dinero y además se sigue emitiendo dinero de la manera que lo hace el Banco Central, eso podría generar en el inicio una sustitución de monedas muy fuerte y precipitar la hiperinflación.  Por lo tanto, si bien hay casos donde funciona, como el caso de Perú, Me parece que la situación de la demanda de dinero en Argentina es muy delicada como para arriesgarse a algo así. ",
+            "cosine_dist": 0.34260839195200943,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 182.217,
+            "end_time": 188.361,
+            "text": "¿Vos creés, Javier, que...?  Justamente eso, perdón.  Estábamos justamente analizando eso, si le falta o no asesoramiento económico. ",
+            "cosine_dist": 0.8860083588630299,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 188.421,
+            "end_time": 189.142,
+            "text": "Eso iba a preguntar. ",
+            "cosine_dist": 0.9338363904573844,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 189.162,
+            "end_time": 189.903,
+            "text": "Es el contexto. ",
+            "cosine_dist": 1.0673221747184285,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 192.665,
+            "end_time": 237.332,
+            "text": "No, yo creo que tiene economistas dentro de Juntos por el Cambio y que una de las cosas... De hecho, esta propuesta, por ejemplo, en su momento también la exploró Domingo Cavallo y él es más partidario, por ejemplo, de ir a un régimen bimonetario.  En mi opinión, yo no iría hacia un régimen bimonetario porque Argentina directamente carece de demanda de dinero.  Es decir, si en Argentina se levantara el curso forzoso y hubiera libre elección de moneda... Cuando vos hagas el switch de portafolio, el problema es que esa caída de la demanda de dinero te va a precipitar una hiperinflación en moneda doméstica.  Ajá. ",
+            "cosine_dist": 0.3575889897378939,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 238.549,
+            "end_time": 257.353,
+            "text": "Te hago un comentario a ver qué opinás vos, Javier.  Yo creo que todo este tema de meter la discusión de la dolarización tiene más que ver con la política que con la economía y tiene más que ver con generar la ilusión de meterle billetes en dólar en el bolsillo a la gente en un futuro que no podemos determinar.  ¿Qué decís vos? ",
+            "cosine_dist": 0.7957688881458076,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 260.115,
+            "end_time": 383.336,
+            "text": "A ver, la economía no es independiente de la política.  O sea, de hecho, cuando yo, por ejemplo, menciono que Cavallo fue el mejor ministro de Economía de la historia, lo fue durante el gobierno de Menem.  Lo que fue el paso de Cavallo durante el gobierno de la Rúa, digamos, es lo que generó que la gente tenga una visión tan negativa sobre el mismo ministro y, digamos, una persona que cuando llegó la segunda vez tenía más conocimientos.  Así es que, en realidad... En el fondo hay una cuestión política que es esencial y que no se puede esquivar.  Ese es el primer punto.  Ahora, el segundo punto no es una cuestión de discusión abstracta y puramente política.  Antes de que existiera el Banco Central en mil novecientos treinta y cinco, la inflación era del cero coma nueve por ciento anual.  En los primeros diez años del Banco Central, cuando fue mixto, saltó al seis por ciento.  Número muy alto para la época.  Después nacionalizamos el Banco Central en mil nueve cuarenta y seis y la inflación... Desde mil nueve cuarenta y seis a mil nueve noventa y uno, en promedio, fue del doscientos cincuenta por ciento.  La convertibilidad fue nueve, concentrada en el primer año y medio, y después ya volvimos a tener un banco central activo y, por ejemplo, en los primeros cuatro años del kirchnerismo, inflación diez, en los segundos veinte, después treinta, con Macri cuarenta, y ahora en un número que verdaderamente es... final bandera verde, ¿no?  O sea, es abierto.  Por lo tanto, no es una cuestión abstracta, porque cada vez que la inflación supera el veinte por ciento, se pierde un punto cincuenta y ocho de crecimiento, y eso corregido en la historia argentina, implicaría que deberíamos tener un PIB per cápita como el de Estados Unidos, o puesto en otra manera.  le pega entre veinte y treinta veces más fuerte a los que menos tienen.  por lo tanto me parece que es una situación muy delicada.  o sea no es una cuestión abstracta.  lo que sucede es que hay intereses en el medio y por un lado están los intereses de la gente honesta y por el otro lado el de los políticos ladrones que por ejemplo en los últimos dos años se robaron once puntos del PBI con el señoría es decir con la emisión de dinero para financiar el fisco. ",
+            "cosine_dist": 0.27482010327362616,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 383.356,
+            "end_time": 387.417,
+            "text": "¿Cuánta gente tenés esperando en el sorteo de la dieta hoy? ",
+            "cosine_dist": 0.9011718498537029,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 390.731,
+            "end_time": 396.154,
+            "text": "¿Cuánta gente hay en línea?  ¿O cuánta gente...?  Porque son más de dos millones y medio de personas. ",
+            "cosine_dist": 0.5308195048879928,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 396.174,
+            "end_time": 397.255,
+            "text": "Eso, ¿cuánta gente está anotada? ",
+            "cosine_dist": 0.9710634665874582,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 397.275,
+            "end_time": 404.539,
+            "text": "Para el sorteo de trescientos sesenta... Sí, dos millones y medio.  Para el premio son... ",
+            "cosine_dist": 0.4371105179734526,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 405.04,
+            "end_time": 406.701,
+            "text": "¿Sabés qué?  Recién estábamos analizando... ",
+            "cosine_dist": 0.9381993192159593,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 406.721,
+            "end_time": 414.453,
+            "text": "¿Cuánto es?  ¿Cuánto?  Trescientos sesenta y seis mil quinientos cinco.  Y eso es un montón. ",
+            "cosine_dist": 0.5741295859403435,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 415.014,
+            "end_time": 416.297,
+            "text": "Recién estábamos analizando con... ",
+            "cosine_dist": 0.9532673464424964,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 416.597,
+            "end_time": 421.086,
+            "text": "En realidad es la devolución del dinero a la gente. ",
+            "cosine_dist": 0.606336991026881,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 422.153,
+            "end_time": 460.658,
+            "text": "Buen punto.  Recién analizábamos con Lucas Romero, que es analista, estaba armando una encuesta justamente y hay un primer indicio de resultado, pero es prudente porque todavía no está el resultado con números.  Pero el punto es si la gente empatiza con tus ideas como economista.  A veces son algunas difíciles de seguir y otras son fáciles de entender las que expresás.  ¿O si empatiza más con tu enojo hacia lo que vos denominás la casta política?  Y hay unas primeras encuestas que están más por el lado de que la gente se identifica en tu enojo, en ese enojo que vos expresás públicamente.  ¿Cómo lo vivencias en tu armado y en tu estrategia también política? ",
+            "cosine_dist": 0.928474819801113,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 463.032,
+            "end_time": 507.661,
+            "text": "Desde mi punto de vista no debería separarse la cuestión del enojo, por decirlo de alguna manera, con la cuestión de las ideas, porque en realidad el enojo que yo manifiesto le doy un marco analítico que es en el marco de las ideas de la libertad.  Y hay una explicación orgánica, coherente y consistente sobre lo que le pasa al país desde la visión liberal.  Y a partir de ahí es que se hace un diagnóstico y una propuesta.  Entonces, cuando la gente se siente identificada con eso... Entonces naturalmente hay como un, yo soy poco grande, pero era alcollán, alcollán, había una coincidencia.  Entonces me parece que eso es lo que se está viendo, que son cosas que van de la mano. ",
+            "cosine_dist": 0.2891778124100829,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 509.43,
+            "end_time": 517.719,
+            "text": "Bueno, te lo tomo eso que decís, yo también pienso que la economía siempre está ligada al humor y al clima social.  ¿Sabés qué?  Estás del otro lado, Javi. ",
+            "cosine_dist": 0.9104087962573275,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 517.779,
+            "end_time": 532.534,
+            "text": "Marce, pero para hacer un comentario, también digamos, a ver, el enojo lo podría estar representando la extrema izquierda y sacando las marchas que hacen con planeros, no llenan un ascensor si no fuera por eso. ",
+            "cosine_dist": 0.3430988516939373,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 532.674,
+            "end_time": 540.917,
+            "text": "El otro día Jorge Altamira, fundador del Partido Obrero, decía que la izquierda dejó de ser rebelde y que hoy la rebeldía la tiene la derecha.  Jorge Altamira lo dijo. ",
+            "cosine_dist": 0.818745046640094,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 541.097,
+            "end_time": 575.25,
+            "text": "Sí, sí, claro.  Javi, estamos cerrando este reportaje porque sé que tenés que estar en la votación y de hecho vamos a hacer esa cobertura.  Te dejo la invitación pendiente para que vuelvas al piso con Eddy y conmigo, pero quisiera hacerte, ya sabés que este programa siempre tiene un poquito de redes sociales y de hacer partícipe a la gente mediante una pregunta.  La encuesta del día tiene que haber... con los dichos de una de las líderes de Juntos por el Cambio, como es Patricia Bullrich, y queríamos saber qué piensa la gente.  Si la gente cree que Patricia Bullrich sabe de economía, por sí o por no, tu voto es el que define esta encuesta.  Javi. ",
+            "cosine_dist": 0.953230296444352,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 577.712,
+            "end_time": 580.633,
+            "text": "No es el campo de ella, no hagan ese tipo de cosas. ",
+            "cosine_dist": 0.6235685022014311,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 580.733,
+            "end_time": 586.136,
+            "text": "Pero escúchame, ella habló de dolarizar la economía, nosotros la escuchamos. ",
+            "cosine_dist": 0.8824014974357258,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 587.647,
+            "end_time": 596.912,
+            "text": "Pero lo hace desde la opinión de un político.  O sea, me parece que es injusto.  Es lo primero que haría como mandataria si asume. ",
+            "cosine_dist": 0.5506444043290837,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 597.132,
+            "end_time": 611.401,
+            "text": "Ojo, porque son propuestas que la gente empieza a mirar de cerca.  Porque además son las diferencias que tal vez pueda tener Burrich de otros de los aliados hoy, pero de otros de los referentes políticos que pueden candidatearse dentro de Juntos por el Cambio.  No lo escuchamos a la reta decir lo mismo. ",
+            "cosine_dist": 0.9241406827422639,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 611.801,
+            "end_time": 649.049,
+            "text": "Por eso digo, cada uno empieza a tener su propio juego político.  Bueno, la reta se manifiesta en favor de un Estado fuerte, presente, o sea, bien socialista.  es la reta.  El otro día fue a la Fundación Libertad, que en una reunión de liberales la llenaron de socialistas y encima... Sí, le dan la apertura a un tipo que habla del Estado eficiente, o sea, algo así como el helado caliente, el esqueleto beso, ¿no?  Y lo va y lo dice en la cara de todos los liberales.  Me imagino que el pobre Fredrick Von Hayek o Milton Friedman se estarían revolcando y revolviendo en la tumba, ¿no? ",
+            "cosine_dist": 0.4283518389559353,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 649.71,
+            "end_time": 654.873,
+            "text": "Lo criticó el presidente, Marce Eddy, a Milley hoy.  Lo criticó Alberto Fernández a usted hoy. ",
+            "cosine_dist": 0.8518872872663672,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 655.293,
+            "end_time": 707.026,
+            "text": "Sí, pobre Alberto.  Le falta roce con la lectura para criticarme.  Porque dice que el liberalismo está en favor de los poderosos.  Y habría que explicarle que el liberalismo se basa, por ejemplo, en la cooperación social, en la división del trabajo.  Y solamente poder ser exitoso sirviendo al prójimo conviene mejor calidad, un mejor precio.  La verdad que diga este tipo de cosas, si hay poderosos que pueden oprimir a alguien, eso es porque en realidad le da el poder el Estado.  Entonces, la realidad es que los empresarios, que son los que oprimen a la gente, en realidad existen porque existen los políticos corruptos.  Es decir... A ver, los empresarios no pueden comprar favores que los políticos corruptos no tienen para vender.  Entonces, la realidad es que si existen esos empresarios prevendarios que oprimen a la gente, es porque del otro lado está el Estado, que es el que le facilita eso. ",
+            "cosine_dist": 0.290179190826489,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 707.426,
+            "end_time": 718.634,
+            "text": "Se va preparando para entrar María Eugenia Vidal, que ahí está escuchándolo a mi ley.  Hace algunos gestos, después le vamos a preguntar por los gestos.  Javier, por sí o por no, ¿sabe de economía Patricia Bullrich? ",
+            "cosine_dist": 0.7685620912941877,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 721.161,
+            "end_time": 721.942,
+            "text": "No es su campo. ",
+            "cosine_dist": 0.7760590567029937,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 722.442,
+            "end_time": 724.944,
+            "text": "Bueno, entonces que no la respuesta.  ¿Cómo están los resultados? ",
+            "cosine_dist": 0.9105721327111197,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 724.964,
+            "end_time": 735.353,
+            "text": "A ver.  A ver, hay mucha gente que cree que sí.  El cincuenta y ocho coma tres por ciento es la mayoría.  Considera que Patricia Bullrich no sabe de economía, pero sí hay una minoría. ",
+            "cosine_dist": 0.9607158661803424,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 735.373,
+            "end_time": 739.017,
+            "text": "Igual yo no dije que aceptara, digamos, esa distinción entre sí o no. ",
+            "cosine_dist": 0.49943793353253496,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 739.357,
+            "end_time": 740.618,
+            "text": "No, yo te entiendo. ",
+            "cosine_dist": 1.008532167943152,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 740.658,
+            "end_time": 741.259,
+            "text": "No, no, fuimos acá. ",
+            "cosine_dist": 0.8592013972178988,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 741.279,
+            "end_time": 745.182,
+            "text": "Usted le pone lo que ustedes quieran.  Te llevás bien con Patricia Bullrich.  Yo digo, o sea, no adhiero a... ",
+            "cosine_dist": 0.7609188210368729,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 745.522,
+            "end_time": 754.265,
+            "text": "Ella no está tan de acuerdo con que vos te quedes fuera de Juntos por el Cambio, me parece, ¿no?  Quedó claro ahí la marca y la diferencia. ",
+            "cosine_dist": 0.9623773986813712,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 754.305,
+            "end_time": 759.167,
+            "text": "Bueno, lo que pasa es que tienen demasiado socialismo y a mí el socialismo no... ",
+            "cosine_dist": 0.5332010408227308,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 759.947,
+            "end_time": 760.748,
+            "text": "¿Pero es que solo la reta? ",
+            "cosine_dist": 0.9435348523546039,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 760.788,
+            "end_time": 762.928,
+            "text": "¿Es el mecanismo por el cual se empobrece a la gente? ",
+            "cosine_dist": 0.7135689605394825,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 763.229,
+            "end_time": 765.469,
+            "text": "No, la reta es el argumento... ",
+            "cosine_dist": 0.9447782058552755,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 765.489,
+            "end_time": 769.591,
+            "text": "Ponete a hablar con Vidal, vas a ver, hacelo hablar de economía, vas a ver que es bien socialista. ",
+            "cosine_dist": 0.6796511396553842,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 770.111,
+            "end_time": 776.177,
+            "text": "Bueno, pero María Eugenia gestionó, digamos.  Uno conoce en gestión, conoce la economía.  Ahora se lo vamos a preguntar. ",
+            "cosine_dist": 0.9245311022450584,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 776.197,
+            "end_time": 792.812,
+            "text": "Bueno, también dijo que iba a ir a perseguir a los empresarios porque habían subido los precios y había subido el tipo de cambio.  Por lo menos, digamos que no conoce la teoría del valor.  Así que si recita la teoría objetiva del valor y no conoce la teoría subjetiva del valor, no es mi problema. ",
+            "cosine_dist": 0.45301532871180195,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 794.449,
+            "end_time": 802.696,
+            "text": "Bueno, Javier Milei, muchas gracias por este contacto, interrumpiendo ahí el sorteo de tu redistribución de la dieta.  Ahí está la jefa, Karina. ",
+            "cosine_dist": 0.9052808506829203,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 802.976,
+            "end_time": 804.837,
+            "text": "De evolución. ",
+            "cosine_dist": 0.8399877522859275,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 804.897,
+            "end_time": 811.823,
+            "text": "Tenemos ahí a la jefa en segundo plano.  Nunca nos va a venir a saludar. ",
+            "cosine_dist": 0.7961153710314514,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 811.903,
+            "end_time": 813.965,
+            "text": "Jefe, ¿quieren saber si vas a ir a saludar? ",
+            "cosine_dist": 0.6776440714527017,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 814.985,
+            "end_time": 815.706,
+            "text": "¿Nos quiere saludar? ",
+            "cosine_dist": 0.9756330231691906,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 815.726,
+            "end_time": 817.127,
+            "text": "Claro, jefe, le dice. ",
+            "cosine_dist": 0.9064393957216548,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 817.147,
+            "end_time": 818.088,
+            "text": "Le dice jefe, mira. ",
+            "cosine_dist": 0.9797433959689777,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 818.408,
+            "end_time": 824.389,
+            "text": "¿No vas a ir?  No, dice que no va.  ¿Cómo te tienes, Javier? ",
+            "cosine_dist": 0.7316148006854315,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 825.349,
+            "end_time": 829.871,
+            "text": "Y eso para que diga que detrás de los hombres no hay grandes mujeres también.  ¿Por qué no? ",
+            "cosine_dist": 0.8465387745167434,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 830.011,
+            "end_time": 833.012,
+            "text": "Bueno, en realidad yo soy el hombre detrás de ella. ",
+            "cosine_dist": 0.7507647994705083,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 834.833,
+            "end_time": 847.558,
+            "text": "Bueno, Javier, te dejamos con este color que haces de este sorteo que para mucha gente es necesario.  Después nos contás finalmente cuánta gente participó.  ¿Te parece?  Te dejamos hoy a nuestro compañero Marce Padova.  Gracias. ",
+            "cosine_dist": 0.9280581525365572,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 852.675,
+            "end_time": 858.14,
+            "text": "Gracias, Javi.  Gracias, diputado, muy amable.  Y gracias por la visita también. ",
+            "cosine_dist": 0.9082125900269797,
+            "is_target_speaker": false
+        }
+    ]
+}

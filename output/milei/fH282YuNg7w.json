@@ -1,0 +1,375 @@
+{
+    "Index": 228,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "fH282YuNg7w",
+    "url": "https://www.youtube.com/watch?v=fH282YuNg7w",
+    "title": "\"LARRETA SE TIENE QUE JUNTAR CON EL KIRCHNERISMO\" - Javier Milei en La Nación + 23/3/2022",
+    "duration": 883.0,
+    "view_count": 41785,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 1",
+            "start_time": 0.06,
+            "end_time": 2.15,
+            "text": "¿Se van a acercar a Juntos por el Cambio o no? ",
+            "cosine_dist": 0.8432996396620789,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2.17,
+            "end_time": 15.639,
+            "text": "No, nosotros no nos vamos a acercar a un proyecto colectivista.  Ni el ala de la reta, que es la socialdemocracia, ni el ala de los radicales, que es la internacional socialista y la coalición cívica, pueden compartir un espacio con nosotros.  Ellos tendrían que estar con el kiserismo, en.  realidad. ",
+            "cosine_dist": 0.35358687799064337,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 15.759,
+            "end_time": 34.342,
+            "text": "Hola Hugo, buenas tardes para todos.  Así es, ya estamos aquí en el Congreso.  Hoy una serie de reuniones de la mesa de enlace con los diferentes bloques de los diputados y tenemos la gentileza de estar con Javier Milei, también con Victoria Villarreal, ambos diputados que obviamente van a tener en un ratito nada más con la mesa de enlace diferentes y diversas reuniones.  Javier, ¿qué expectativa, qué propuestas, qué esperan para las reuniones de hoy? ",
+            "cosine_dist": 1.0029789033403922,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 34.958,
+            "end_time": 63.978,
+            "text": "Bueno, nosotros esperamos recibir a la mesa enlace para que nos cuenten cuáles son los problemas que ellos están enfrentando.  Igual nosotros tenemos un fluido diálogo con la gente del sector agropecuario y en ese sentido también hemos hecho algunas acciones para contribuir a que mejore el sector y para que se le quite la pata del Estado de encima.  Así es que creemos que vamos a tener un diálogo muy fructífero. ",
+            "cosine_dist": 0.3601757613785821,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 64378,
+            "end_time": 64918,
+            "text": "Ahora, Javier... ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 65.459,
+            "end_time": 66.459,
+            "text": "Javier Millet los escucha. ",
+            "cosine_dist": 0.9683429987521676,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 66.499,
+            "end_time": 70.962,
+            "text": "Sí, gracias, Jean.  Javier, ¿hay medidas en el campo, inquietud? ",
+            "cosine_dist": 0.8369589884151653,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 70.982,
+            "end_time": 72.723,
+            "text": "Sí, Hugo.  ¿Qué tal, Hugo?  ¿Cómo estás? ",
+            "cosine_dist": 0.674532335671685,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 72.743,
+            "end_time": 87.132,
+            "text": "Buenas tardes.  Un gusto saludarte.  Te decía que el campo está inquieto, con marchas, con movilizaciones.  ¿Ustedes, desde el punto de vista político, acompañan eso?  ¿O más allá de estar en contra de las retenciones, se van a mantener al margen de lo que el campo diga? ",
+            "cosine_dist": 0.8596866770929487,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 92.149,
+            "end_time": 141.069,
+            "text": "Nosotros creemos que el reclamo del campo es absolutamente justo y que, a ver, el campo está siendo expropiado violentamente vía retenciones, además el problema del diferencial entre el tipo de cambio oficial y el tipo de cambio paralelo le genera una ecuación económica financiera que verdaderamente es desastroso.  y el gobierno en lugar de tratar de corregir esta situación, digamos, la profundiza y no tiene ninguna intención de corregir las cosas.  y cuando mejora el precio internacional de los bienes del sector agropecuario, lo único que se le ocurre es cobrarle más retenciones.  Por lo tanto, en ese sentido, me parece que tienen todo el derecho de manifestar su malestar porque si el gobierno dependiera los termina enviando a la quiebra o los convierte en esclavos. ",
+            "cosine_dist": 0.345243707701412,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 141.529,
+            "end_time": 143.251,
+            "text": "Pablo, tenés una pregunta para mi ley. ",
+            "cosine_dist": 0.8325479268556006,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 143.711,
+            "end_time": 149.996,
+            "text": "Sí, ¿cómo estás Javier?  ¿Qué decís?  Te quiero hacer una pregunta política, puede ser un poco antipática, pero vos seguramente me la contestes. ",
+            "cosine_dist": 0.6635914204203125,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 150016,
+            "end_time": 150517,
+            "text": "¿Qué tal Pablo? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 151.257,
+            "end_time": 162.767,
+            "text": "Bien, bien, muy bien.  ¿Vos creés que para el futuro de la Argentina.  es mejor que Alberto Fernández siga junto a Cristina Kirchner o corte con Cristina Kirchner?  Hablando de la gobernabilidad, la estabilidad, la institucionalidad. ",
+            "cosine_dist": 0.72343649968672,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 168.178,
+            "end_time": 174.743,
+            "text": "Sería muy irresponsable de mi parte contestar eso.  Eso es un problema de la coalición gobernante.  y que los problemas entre ellos los arreglen entre ellos. ",
+            "cosine_dist": 0.5610126756621985,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 174.763,
+            "end_time": 175.483,
+            "text": "No, pero para el país. ",
+            "cosine_dist": 0.9649493444349077,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 175.503,
+            "end_time": 213.946,
+            "text": "El único problema es que, digamos, las peleas dentro de las coaliciones después termina afectando negativa... Bueno, de esas peleas que ellos tienen, lo único que hacen es perjudicar a los argentinos.  Vos fijate que con el desequilibrio que tiene la macroeconomía argentina, por ejemplo, tenemos un desequilibrio monetario que es el doble del que teníamos en el Rodrigazo.  ¿A vos qué te parece?  O sea, partiendo de diez veces más de pobres.  O sea, todas las crisis y las hiperinflaciones se precipitan por caídas de demanda de dinero como consecuencia de una crisis política.  Lo que están haciendo entre Alberto Fernández y Cristina Fernández de Kirchner es juzgar en la cubierta del Titanic.  O sea, y en el medio están todos los argentinos que son los únicos que no tienen votos. ",
+            "cosine_dist": 0.3393670553799776,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 214.026,
+            "end_time": 216.708,
+            "text": "¿Vos pensás que esto es como el ochenta y nueve o parecido al ochenta y nueve? ",
+            "cosine_dist": 0.8668210859330683,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 222.073,
+            "end_time": 223.073,
+            "text": "Se parece ",
+            "cosine_dist": 0.7546160050815764,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 224.054,
+            "end_time": 267.075,
+            "text": "más a la lógica del rodrigazo, pero si la precipitación de la caída de la demanda de dinero es muy abrupta, podrías tener un escenario parecido al del del ochenta y nueve, porque fíjate que Si la demanda de dinero en el ochenta y nueve cayó a cero coma dos por ciento del PBI, eso quiere decir que vos podrías multiplicar los precios por sesenta aún sin emitir un solo peso.  Eso es básicamente cinco mil novecientos por ciento de inflación.  ¿Esto qué quiere decir?  Que digamos una situación como la del ochenta y nueve no es descartable.  O sea, pero tendrían que estar haciendo ya directamente cosas de una gravedad política institucional grosera, ¿no? ",
+            "cosine_dist": 0.29978149371378426,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 267.375,
+            "end_time": 274.76,
+            "text": "Ahora, ¿quién es más responsable, Cristina Fernández o Alberto Fernández en esta coalición en problemas o a punto de romperse? ",
+            "cosine_dist": 0.8633660387594753,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 279.983,
+            "end_time": 285.506,
+            "text": "Los dos son responsables, porque digamos, Cristina es la dueña de los votos y él es el que aceptó ser el títere. ",
+            "cosine_dist": 0.43208871810031535,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 286.867,
+            "end_time": 290.289,
+            "text": "Pero él dijo que no es un títere, lo expresó y dijo que es el presidente además. ",
+            "cosine_dist": 0.9206816765552339,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 295.51,
+            "end_time": 297.271,
+            "text": "Bueno, le sale bastante mal en los hechos. ",
+            "cosine_dist": 0.6307944351906902,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 298.532,
+            "end_time": 308.557,
+            "text": "Javier, una parte de la política te tiene cada vez más miedo, porque vos entraste rápido, creciste rápido.  ¿Te ves realmente con chances competitivas para el año? ",
+            "cosine_dist": 0.7709275355119526,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 308.617,
+            "end_time": 341.56,
+            "text": "La casta tiene miedo, sí.  ¿Vos creés que podés ser presidente en el año?  Sí, absolutamente creo que tenemos chances ciertas y... Sí, definitivamente creo que el dos mil veintitrés podría tener un presidente liberal salido de la expresión de la libertad avanza y de hecho estamos trabajando en eso, estamos construyendo el gabinete en la sombra y estamos haciendo un trabajo absolutamente responsable porque sabemos que existen chances ciertas de que podamos llegar a la presidencia. ",
+            "cosine_dist": 0.3346438595936775,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 342.22,
+            "end_time": 353.89,
+            "text": "Tengo a Fausto Spetorno, está con nosotros, por.  supuesto.  Y queremos sumarlo porque no se parece al ochenta y tres, aunque hay algún riesgo, no de hiper, pero una situación similar.  ¿Se parece al dos mil ocho, Fausto? ",
+            "cosine_dist": 0.8402086926925383,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 354.251,
+            "end_time": 358.454,
+            "text": "No hablé del ochenta y tres.  No hablé del ochenta y tres. ",
+            "cosine_dist": 0.6790305946128095,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 358.474,
+            "end_time": 359.315,
+            "text": "Del ochenta y nueve, perdón. ",
+            "cosine_dist": 0.8892996082426172,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 362.099,
+            "end_time": 448.335,
+            "text": "A ver, yo estoy de acuerdo con Javier, es más parecido el escenario al Rodrigazo, a la época pre-Rodrigazo, en el año de los años de los años de los años de los años de los años de los años de los años de los años de los años.  Ya ahí fue el rodrigazo y pasaste con el rodrigazo el cien por ciento, el doscientos por ciento, después del ochenta empezó a picar hasta el tema de la hiperinflación.  Fue un periodo largo hasta llegar a la hiper, porque es una destrucción muy grande la demanda de dinero.  La hiperinflación, como decía Javier, no es igual que la inflación, es otra enfermedad, es cuando la gente rechaza el dinero.  Por eso dice Javier que la demanda de dinero es lo importante.  Si la demanda de dinero se te cae abruptamente, lo que está diciendo es que la gente no quiere más el peso, el peso no vale nada, es rechazado y por lo tanto los precios tienden a infinito.  Acá lo que tenés es seguir financiando el déficit fiscal con emisión monetaria.  Obviamente la demanda de enero va retrocediendo porque ahorrar en pesos hoy es más peligroso que gritar a favor de River en la barra brava de boca.  Entonces lo que sucede es que obviamente hay una caída en la demanda de pesos, pero todavía la inflación es puramente por emisión monetaria y financiamiento del tesoro. ",
+            "cosine_dist": 0.836056104946248,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 450.647,
+            "end_time": 467.496,
+            "text": "Y quería sumártelo a Javier, el tema de la A-Ciento veinticinco del recuerdo del dos mil ocho, ya que estamos mirando para atrás, porque este escenario me parece que tiene algún condimento de los peores momentos de la Argentina, algunos dicen incluso también vinculado al dos mil uno.  Javier. ",
+            "cosine_dist": 0.8211514495632166,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 472.638,
+            "end_time": 563.629,
+            "text": "Bueno, a ver, vamos por partes.  Ciertamente es nuevamente un avance sobre el derecho de propiedad del sector agropecuario.  O sea, y el campo reaccionando de la misma manera, pero la macroeconomía que vos tenías en ese momento era muchísimo más sólida que la que tenés hoy.  Hoy, digamos, yo tenés una brecha cambiaria en torno al cien por ciento, tenés el déficit fiscal, digamos, que lo deciden bajar a velocidad de tortuga embarazada, tenés un desequilibrio monetario de diez u once veces a uno.  Entonces... La verdad que tenés un PIB per capita que es catorce por ciento por debajo del que tenías en el dos mil once, con un nivel parecido al del setenta y tres, con una productividad del año cincuenta, con cuarenta y cinco por ciento de pobres, con once por ciento de indigentes, o sea, cinco millones de personas.  Es decir, está todo dado para que vos tengas una explosión con características sociales verdaderamente graves.  O sea, lo único que hacen es traer todos esos fantasmas.  Entonces, le ponen elementos adicionales que... Fíjate que Fausto más o menos te señaló lo mismo, o sea, que son dos elementos de crisis política que disparan abruptas caídas en la demanda de dinero.  Es decir, todavía no ocurrió, pero la realidad es que en algún momento esa situación... Vos tenés el estrangulamiento externo y vuela.  Es decir, es lo que le pasó a Celestino Rodrigo.  Se quedó sin reserva, tuvo que devaluar y ahí la inflación pasó del treinta al ciento ochenta por ciento y al año siguiente estaba en el cuatrocientos por ciento. ",
+            "cosine_dist": 0.28279679576829364,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 563.749,
+            "end_time": 579.222,
+            "text": "Y permitime que te cuente que Gustavo Segreda ahora nos va a decir cómo Bolsonaro, para bajar la inflación, baja impuestos.  Es decir, lo que está haciendo Brasil y lo que hacen otros países de la región, muy opuesto a lo que hacemos nosotros.  Hola Gustavo, ¿cómo va? ",
+            "cosine_dist": 0.8423149263053857,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 580.56,
+            "end_time": 664.118,
+            "text": "¿Qué tal Hugo?  Buenas tardes.  Un saludo grande para Javier y para Fausto que están ahí.  Bueno, precisamente es lo que siempre se defiende, esta problemática de si se suben los impuestos, se bajan los impuestos.  Brasil ha hecho una reducción de impuestos significativa.  Primero bajó el veinticinco por ciento de un impuesto que es a la producción industrial.  Todo aquel producto que requiera de un proceso industrial bajó el veinticinco por ciento la alícuota a nivel nacional.  A fin del año pasado había bajado el diez por ciento todas las alícuotas del arancel externo común, o sea, productos que llegan a Brasil, que pagan un impuesto de importación y que han sufrido en este caso la reducción del diez por ciento.  Y en esta semana bajó a cero todo el impuesto de importación de cualquier producto que esté vinculado a la canasta familiar.  Esto con el objetivo de hacer una reducción también en la tasa de inflación.  Lo que la justicia todavía no le permitió, y Bolsonaro está pleiteando, es hacer una reducción también en dos contribuciones sociales, para los combustibles, precisamente para bajar también la carga tributaria de los combustibles, que ha aumentado mucho en los últimos días.  ¿Y por qué no le permite esta baja, Hugo?  Porque es un año electoral y la justicia entiende que esto puede ser considerado una herramienta a favor de su campaña presidencial. ",
+            "cosine_dist": 0.7749070689317128,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 664.989,
+            "end_time": 673.071,
+            "text": "Gustavo, perfecto el informe y nos da un panorama de la región y particularmente de nuestro vecino de Brasil, muy distinto a lo que hacemos entre nosotros.  Te mando un abrazo hasta cualquier momento. ",
+            "cosine_dist": 0.9202481178781016,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 673.091,
+            "end_time": 673.711,
+            "text": "Otro para ustedes. ",
+            "cosine_dist": 0.9002527156836551,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 674.591,
+            "end_time": 682.293,
+            "text": "Javier, Bolsonaro está haciendo lo contrario a lo que hace Alberto Fernández.  Si te tocara ser presidente, ¿tomarías ese camino, Milei? ",
+            "cosine_dist": 0.8096098798303151,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 686.815,
+            "end_time": 726.316,
+            "text": "Igual quiero hacer una aclaración, que cuando vos modificás los impuestos... Lo que vos vas a estar haciendo es trabajar sobre el nivel de precios, no sobre la inflación.  Porque la inflación tiene que ver con los problemas del desequilibrio del mercado monetario.  Es decir, si vos bajás impuestos, pero seguís emitiendo a mansalva y se te cae la demanda de dinero, vas a tener inflación.  O sea, modificar los impuestos... Es como que me entiendes, o sea... Si te modifico, no sé, el IVA, ¿me entendés?  O sea, estarás un escalón abajo, pero no sobre la tasa de variación.  Me parece que eso hay que aclarar bien esa cuestión.  Y ahora, sí, dime la pregunta. ",
+            "cosine_dist": 0.29638709261405505,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 726.756,
+            "end_time": 740.147,
+            "text": "No, que justamente es una visión muy distinta a la que aplica nuestro gobierno, la que está aplicando Bolsonaro, bajando impuestos.  ¿Esa sería una idea para un proyecto de libertad de avanza que dirigís? ",
+            "cosine_dist": 0.8613057577094334,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 745.41,
+            "end_time": 765.8,
+            "text": "Sí, obviamente.  Nosotros estamos fuertemente comprometidos en devolverle la libertad a los seres humanos y como parte de devolverle la libertad es achicar el tamaño del Estado.  Digamos, cuanto más Estado tenés, menos libertad tenés.  Por lo tanto, la idea es achicar el Estado y eso implica bajar el gasto público y bajar los impuestos, obviamente. ",
+            "cosine_dist": 0.35301398807254036,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 767.161,
+            "end_time": 776.702,
+            "text": "La última.  Danos un anticipo de lo que va a ser la reunión con la mesa de enlace.  Javier. ",
+            "cosine_dist": 0.959852362555167,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 776.722,
+            "end_time": 802.655,
+            "text": "Bueno, vamos a estar escuchando junto a la doctora Victoria Villaruel, que somos parte de la Libertad Avanza.  Lo que vamos a hacer es escuchar, digamos, cuáles son sus problemáticas y mostrarles cuáles son las distintas propuestas que nosotros hemos estado impulsando para ayudar no solo al sector, sino a la Argentina y para ver si podemos... digamos, incorporar nuevos elementos para hacer más cosas todavía. ",
+            "cosine_dist": 0.34402825469674747,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 803.116,
+            "end_time": 817.042,
+            "text": "Claro, claro, claro.  Siempre me queda esta pregunta para hacerte, si es que se van a acercar a Juntos por el Cambio o no.  Me vas a decir que Juntos por el Cambio se tiene que acercar a ustedes, pero sacando eso, ¿puede haber una alianza finalmente? ",
+            "cosine_dist": 0.869957225615767,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 817.062,
+            "end_time": 852.533,
+            "text": "No, nosotros no nos vamos a... No, nosotros no nos vamos a acercar a un proyecto que tiene una perspectiva socialdemócrata o, digamos, colectivista.  Nosotros solamente nos alineamos con personas que decidan abrazar las ideas de la libertad.  Y, digamos, ni el ala de la reta, que es la socialdemocracia, ni el ala de los radicales, que es la internacional socialista y la coalición cívica, que es todavía más de izquierda, digamos... pueden, digamos, o sea, compartir un espacio con nosotros.  Ellos tendrían que estar con el kiserismo, en realidad. ",
+            "cosine_dist": 0.314003015154265,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 853.534,
+            "end_time": 882.369,
+            "text": "Gracias, Javier.  Un abrazo.  Un abrazo, Villarroel, también, que está contigo.  No, por favor, Villarroel.  Hasta luego.  Basta de basura keynesiana, ha llegado el momento liberal.  Tenemos un líder y él es un gran rebelde. ",
+            "cosine_dist": 0.8748663859313588,
+            "is_target_speaker": false
+        }
+    ]
+}

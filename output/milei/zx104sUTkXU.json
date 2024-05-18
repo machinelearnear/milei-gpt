@@ -1,0 +1,711 @@
+{
+    "Index": 166,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "zx104sUTkXU",
+    "url": "https://www.youtube.com/watch?v=zx104sUTkXU",
+    "title": "MILEI DIO LA CARA TRAS EL ESCÁNDALO DEL CONGRESO Y SALIÓ CON JUICIO - Viviana Canosa 5/6/2023",
+    "duration": 1264.0,
+    "view_count": 274581,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 0",
+            "start_time": 0.06,
+            "end_time": 4.63,
+            "text": "...de Cachanoski con vos, pero hoy dijo que hacía veintiséis años que vos vivías del Estado. ",
+            "cosine_dist": 0.8898867584802755,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 4710,
+            "end_time": 4930,
+            "text": "Bueno... ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 5.19,
+            "end_time": 5.811,
+            "text": "¿Qué trajiste? ",
+            "cosine_dist": 0.9310520949172202,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 6.371,
+            "end_time": 6.991,
+            "text": "Acá traje... ",
+            "cosine_dist": 0.9212462170752109,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 7.011,
+            "end_time": 11.452,
+            "text": "A ver, mostrala.  ¿A qué cámara?  ¿A qué cámara?  Ahí está.  A ver.  Es una carta documento a Cachanoski. ",
+            "cosine_dist": 0.8150316036379889,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 11.472,
+            "end_time": 13.373,
+            "text": "Es la carta documento que le estoy enviando. ",
+            "cosine_dist": 0.6568228488037056,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 13.393,
+            "end_time": 16.974,
+            "text": "El tema que tiene Cachanoski con vos es muy personal.  No me da opereta. ",
+            "cosine_dist": 0.8279738310154392,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 16.994,
+            "end_time": 21.355,
+            "text": "A ver... Alguien ingresó.  modificó la base.  Bueno, explícame. ",
+            "cosine_dist": 0.6336258895230753,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 21.415,
+            "end_time": 69.703,
+            "text": "¿Por qué no renuncia?  Lo que pasó con Sergio Berni que ellos dicen que es una operación.  Hoy vamos a conversar de todo esto y más con Javier Milei que ya está en nuestros estudios.  Pero decía que... De evaluación inminente, no tiene los huevos ni siquiera el ministro Manos de Tijera.  Quiero que hablemos mucho de economía esta noche con Javier Milei, con el candidato.  Con Javier Milei, hace mucho que no lo escuchás.  Desde el nazi que le tiró desde los Estados Unidos el presidente Alberto Fernández, que no se lo ve y no se lo escucha a Javier Milei.  Conversamos enseguida con él, pero decía esto, ¿no?  Pero decía que pasó a Javier Milei, hace mucho que no se lo ve en los medios, que no habla.  Hice un descargo el día que el presidente le dijo, y lo comparó con Hitler, pero después no apareció en la tele, así que vamos a hablar de todo esto y mucho más. ",
+            "cosine_dist": 0.875676570403016,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 69.723,
+            "end_time": 109.241,
+            "text": "Arrancamos con Milei.  Milei, la emergencia de Javier Milei, que algunas sondeos lo dan hasta con un veinticinco por ciento de posibilidad de intención de voto.  ¿Es un enriquecimiento a la democracia o es una amenaza a la democracia?  No, es una amenaza a la democracia, claramente.  Hitler no llegó por un golpe de Estado, llegó votado por los alemanes.  Muchas veces los autoritarios se valen de la democracia para poder acceder al poder.  Y lo que tenemos que hacer es abrir los ojos de la gente y advertir a la gente que por muy desalentada que esté, esos caminos no son caminos saludables. ",
+            "cosine_dist": 0.7452695371314617,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 109.281,
+            "end_time": 110.421,
+            "text": "Gracias por estar, Javier. ",
+            "cosine_dist": 0.9359895343796601,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 110.661,
+            "end_time": 111.842,
+            "text": "No, por favor, es un placer. ",
+            "cosine_dist": 0.6520263058913474,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 112.362,
+            "end_time": 127.52,
+            "text": "Ahora, hablamos todos ese día.  Vos también hiciste tu descargo, pero me gustaría ya que te tengo en vivo, cara a cara, mirándote, que me digas... ¿Qué sentís por el presidente Alberto Fernández que es capaz de compararte con Hitler? ",
+            "cosine_dist": 0.8098942902044571,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 127.56,
+            "end_time": 129.16,
+            "text": "Bueno, no es el único que lo hizo. ",
+            "cosine_dist": 0.6692741292193689,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 129.86,
+            "end_time": 131.562,
+            "text": "No, es verdad, lo hicieron Gerardo Morales y Carrió. ",
+            "cosine_dist": 0.8940404850815311,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 131.622,
+            "end_time": 136.604,
+            "text": "Lo estoy demandando también, digamos, a Alberto Fernández, del mismo modo que estoy... ",
+            "cosine_dist": 0.5733164532867516,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 136.624,
+            "end_time": 137.445,
+            "text": "¿Lo estás demandando? ",
+            "cosine_dist": 0.9096122364078386,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 137.725,
+            "end_time": 149.491,
+            "text": "Sí, claro, del mismo modo que estoy demandando a Carrió y del mismo modo que estoy demandando a un conjunto de periodistas que también lo hicieron y del mismo modo que estoy demandando a Patricio Fontanet. ",
+            "cosine_dist": 0.5168929343877571,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 150.759,
+            "end_time": 153.3,
+            "text": "¿Por qué Hitler?  ¿Por qué te comparan con Hitler? ",
+            "cosine_dist": 0.8120709681317373,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 153.34,
+            "end_time": 164.222,
+            "text": "Bueno, primero porque te diría que están asustados.  Están asustados y lo que buscan es demonizarme.  Ahora, pero este tema es muy delicado.  Muy.  Muy delicado. ",
+            "cosine_dist": 0.44601225326636207,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 164.242,
+            "end_time": 166.383,
+            "text": "Se banaliza el holocausto, se banaliza todo. ",
+            "cosine_dist": 0.9535368633097066,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 166.403,
+            "end_time": 167.443,
+            "text": "Bien, exacto.  Ese es el punto, Viviana. ",
+            "cosine_dist": 0.7431477227189625,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 167463,
+            "end_time": 167803,
+            "text": "Claro, claro. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 168.063,
+            "end_time": 224.343,
+            "text": "Es decir, acá hay una cuestión, si vos querés, que es lo importante.  y después está lo personal.  Acá lo importante, lo importante es que se estaba banalizando el holocausto.  Están haciendo una referencia... un individuo, me cuesta ponerle una definición a ese ser nefasto, que buscó el exterminio del pueblo judío.  El holocausto además incluyó más personas, fueron once millones de personas, pero lo que buscaban era el exterminio del pueblo judío.  Entonces, eso, hacer esa comparación, saquemos la cuestión personal, Es de una gravedad enorme.  Ofende, digamos, la memoria de once millones de seres humanos, de sus familias.  ¿Me comprendés?  La gravedad que tiene.  Es decir, yo, ¿sabés qué? ",
+            "cosine_dist": 0.41334505532283394,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 224.363,
+            "end_time": 229.304,
+            "text": "Ah, pero lo hace por basura, lo hace por bruto, lo hace por ignorante. ",
+            "cosine_dist": 0.9337232345093971,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 229.324,
+            "end_time": 307.742,
+            "text": "¿Por qué lo hace?  No, yo creo que lo hacen con... A ver, yo creo que estamos frente a un fin de ciclo y estamos frente a un cambio de época.  Y... la corporación política, sea de un lado o del otro, no se están dando cuenta.  Es decir, Argentina lleva una degradación de más de cien años que ha hecho de que Argentina debe ser el país más rico del mundo, hoy sea ciento cuarenta al tipo de cambio paralelo.  Es más, Argentina tiene cuarenta por ciento de pobres, tiene diez por ciento indigentes.  O sea, el trato indigente es tremendo.  Porque vos estás diciendo que tenés un país que produce alimentos para cuatrocientos millones de seres humanos.  El fisco le roba a los argentinos, digamos, al campo, sesenta por ciento.  Es decir, quiere decir que se lleva el alimento de doscientos cuarenta millones de seres humanos.  ¿Y cómo puede ser que entonces hay cinco millones de argentinos que no le alcanza para morfar?  ¿Me comprendes que hay algo que anda mal?  Es decir, cuando vos mirás, a todos los argentinos les va peor y a los únicos que les va bien es a los políticos.  Entonces después, es decir... ¿Sabés qué?  La gente, Dios, o sea, tiene razón en estar enojada y debería estar muy enojada. ",
+            "cosine_dist": 0.3705309062444304,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 307.762,
+            "end_time": 311.127,
+            "text": "¿Estás hablando de lo que pasó con el colectivero, por ejemplo, en La Matanza? ",
+            "cosine_dist": 0.9416155609522499,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 311.187,
+            "end_time": 312.168,
+            "text": "Bien, pero es que justamente... ",
+            "cosine_dist": 0.8668742100290423,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 312.228,
+            "end_time": 346.175,
+            "text": "Lo que pasó con Sergio Berni, que ellos dicen que es una operación de Patricia Bullrich.  Digo, tan adormecidos están los políticos, la famosa casta, que no pueden entender que el enojo de toda esa gente es un enojo genuino, que es el dolor de una familia y de una familia de colectiveros.  que estaban desesperados porque ya les mataron a un montón de colectiveros.  ¿Tu viejo era colectivero?  Mi papá era colectivero.  Me acabo de acordar.  Porque ayer yo decía, Cristina Fernández de Kirchner tuvo un papá colectivero.  Y vos también. ",
+            "cosine_dist": 0.846467391950258,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 346.276,
+            "end_time": 349.398,
+            "text": "Yo también.  Pero por eso lo que digo es... ",
+            "cosine_dist": 0.6212539134979143,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 349.438,
+            "end_time": 354.201,
+            "text": "¿Pero qué les pasa?  ¿Qué le pasa a la hija del colectivero que se desconectó de todo? ",
+            "cosine_dist": 0.7640230299207292,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 354.341,
+            "end_time": 418.051,
+            "text": "Toda la casta política está desconectada de la realidad.  Perdieron el contacto total con la realidad.  A ver... Vamos a ponerlo en estos términos.  Vos no lo podés mirar como un hecho puntual.  Esto lo tenés que mirar como un caso, digamos, de algo estructural.  Vos fíjate esto.  Vos tenés algo que falla hace más de cien años.  Y eso se manifiesta.  A ver, el Estado funciona como un seguro.  Por ejemplo, entonces vos te asegurás la seguridad.  El país es un baño de sangre.  Vos te querés asegurar la salud.  Durante la pandemia, este gobierno criminal, ¿sabes que si hubiéramos hecho las cosas como un país mediocre?  Deberían haber muerto treinta mil argentinos, murieron ciento treinta mil.  ¿Te das cuenta que este gobierno asesinó a cien mil personas con su negligencia?  Vos me decís, bueno, me vas a dar educación.  A ver, hoy Argentina tiene el sesenta por ciento de los chicos en situación de pobreza educativa.  Es decir, los menores de diez años no pueden leer un texto y comprenderlo en un sesenta por ciento. ",
+            "cosine_dist": 0.3744191960145672,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 418.091,
+            "end_time": 420.773,
+            "text": "A ver, somos esclavos de toda esta gente.  Somos esclavos. ",
+            "cosine_dist": 0.9223761487338569,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 420.793,
+            "end_time": 471.041,
+            "text": "Bien, exacto.  Entonces, lo que digo es... Digo, porque del otro lado también, ¿viste?  Ahora les gustó de una manera elitista... soberbia y propia de ignorantes, andar poniendo el rótulo de populismo de derecha que es la antipolítica.  Disculpame una cosa, a ver, si vos tenés a alguien que es un chorro, un chorro, un delincuente, te está arruinando la vida, la pregunta es, o peor aún, un tirano, la pregunta es, la respuesta es, ¿no decís nada?  ¿No los podés criticar?  ¿No les podés decir nada?  ¿Quién son ellos?  ¿Me entiendes?  O sea, una cosa es la política, otra cosa son los políticos.  Y estos son unos inútiles.  Cuando vos hacés mal tu trabajo en el sector privado, te pegan una patada en el traste.  Bueno, explícame. ",
+            "cosine_dist": 0.4925456160050271,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 471.921,
+            "end_time": 491.936,
+            "text": "¿Por qué no renunció Bernie?  ¿Por qué no renunció Aníbal Fernández?  ¿Por qué no renuncian todos?  Son unos fracasados.  La gente se cuida sola.  Recién vimos el hombre de José Cepas, el sheriff, con un arma acá, con un arma en una cartera.  Vos decís, no puede ser que la gente salga con un cuchillo para defenderse.  Y los tipos dicen, es una conspiración.  Están viviendo en otro planeta, Javier. ",
+            "cosine_dist": 0.790341156537799,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 491.976,
+            "end_time": 506.399,
+            "text": "A ver, en el dos mil uno, dos mil dos.  te tendrías que acordar, hubo un que se vayan todos.  No se fue ninguno, no se fue ninguno.  Se quedaron todos, se quedaron todos.  Y vinieron con los familiares, con las amantes. ",
+            "cosine_dist": 0.4645859729281995,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 506.799,
+            "end_time": 520.268,
+            "text": "Sí, pero yo creo que en el dos mil uno todavía, no sé, éramos más chicos todos.  La sociedad no estaba tan hecha pelota como ahora, tan dividida, con una grieta tan descomunal.  Y ya ahí quería que se fueran todos.  Imaginate ahora. ",
+            "cosine_dist": 0.8500964634900263,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 520.448,
+            "end_time": 522.309,
+            "text": "Pero por eso, ¿qué es lo que pasa? ",
+            "cosine_dist": 0.6856836768902975,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 522.37,
+            "end_time": 525.072,
+            "text": "Que tampoco es la solución que se vayan todos.  A ver, ¿qué es lo que pasa? ",
+            "cosine_dist": 0.7569696356724152,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 525.513,
+            "end_time": 530.882,
+            "text": "A ver, depende.  Depende.  ¿Vos querés seguir sosteniendo chorros? ",
+            "cosine_dist": 0.6436644476594909,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 531.262,
+            "end_time": 532.803,
+            "text": "Yo no quiero sostener ningún chorro. ",
+            "cosine_dist": 0.8975059223259085,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 532.883,
+            "end_time": 539.668,
+            "text": "Bueno, querés seguir sosteniendo tiranos, porque esto es el populismo de derecha, no quieren que les critiquen. ",
+            "cosine_dist": 0.6053341467110298,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 539.688,
+            "end_time": 554.197,
+            "text": "Bueno, pero Kachanowski hoy te pone, vamos a contarlo de Kachanowski, pero te dice, los llama la casta avanza, como que vos estás rodeándote de casta.  No sé cuál es el tema puntual de Kachanowski con vos, pero hoy dijo que hacía veintiséis años que vos vivías del Estado. ",
+            "cosine_dist": 0.8349012400426237,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 554.277,
+            "end_time": 557.84,
+            "text": "Bueno, es interesante porque, mirá, lo traje. ",
+            "cosine_dist": 0.6391118564394518,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 558.541,
+            "end_time": 559.161,
+            "text": "¿Qué trajiste? ",
+            "cosine_dist": 1.000642708160869,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 559.742,
+            "end_time": 560.383,
+            "text": "Acá traje... ",
+            "cosine_dist": 0.908482642933647,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 560.523,
+            "end_time": 564.568,
+            "text": "A ver, mostrala.  ¿A qué cámara?  Ahí está.  Es una carta documento. ",
+            "cosine_dist": 0.8944542580253185,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 564.588,
+            "end_time": 583.11,
+            "text": "Es la carta documento que le estoy enviando a la empresa Gnosis por poner información falsa.  Ahora... La pregunta es, cuando vos vas a difundir algo así, primero te vas a fijar en qué medio lo ponen, porque si sabés que es un packing, digo, deberías tener reparo.  Primer punto. ",
+            "cosine_dist": 0.39788845128338146,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 583.23,
+            "end_time": 586.374,
+            "text": "Te acusan de haber trabajado y vivido del Estado... Veintiséis años. ",
+            "cosine_dist": 0.7773439308375074,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 586.394,
+            "end_time": 587.755,
+            "text": "Como que hasta veintiséis años. ",
+            "cosine_dist": 1.0083300053705258,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 587.775,
+            "end_time": 591.319,
+            "text": "Después vi que puso, bueno, veintiséis o seis meses es lo mismo.  No, bueno. ",
+            "cosine_dist": 0.8198762697684043,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 591.339,
+            "end_time": 593.601,
+            "text": "Claramente no.  No, no es lo mismo.  Pero no importa. ",
+            "cosine_dist": 0.8545793640517932,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 593.621,
+            "end_time": 594.842,
+            "text": "Pero veintiséis años no, no es lo mismo. ",
+            "cosine_dist": 0.9556517489145435,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 594.882,
+            "end_time": 599.085,
+            "text": "No, aparte, yo a mí concretamente... Mostrá la carta de documento, por favor.  ¿Otra vez? ",
+            "cosine_dist": 0.5814571505237963,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 599.265,
+            "end_time": 600.966,
+            "text": "No, no, le digo al productor que yo sé la manera. ",
+            "cosine_dist": 0.8847742236302027,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 601.026,
+            "end_time": 655.282,
+            "text": "Me hicieron, digamos, son dos contratos que yo tuve, ¿sí?  Con, digamos, con la gente de UCI en aquel momento, en el año noventa y cuatro, que era por un proyecto que tenía que ver con los cítricos, o sea, con el limón concretamente, y otro, digamos, que tenía que ver con la caña de azúcar.  Es decir, yo hice mi trabajo, se trabajó para ese proyecto, se terminó el trabajo y me fui.  O sea, el dato después queda como que estuve ahí, digamos, veintiséis años.  Ahora, ¿cuál es el punto?  Porque esto es lo interesante.  La realidad es que... Por ejemplo, una de las cosas que pasó es que... A ver, Gnosis hace unos días hizo una contratación directa con la ciudad autónoma de Buenos Aires. ",
+            "cosine_dist": 0.34417306140927717,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 656.443,
+            "end_time": 664.285,
+            "text": "Está bien, pero si a vos te ponen que durante veintiséis años laburaste en un lugar y es mentira, es un delirio poner eso porque en dos días te das cuenta que es mentira. ",
+            "cosine_dist": 0.8489992471154362,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 664.886,
+            "end_time": 684.339,
+            "text": "Pero esto no es un dato menor.  Hubo una contratación directa de Gnosis... por parte del gobierno de la Ciudad Autónoma de Buenos Aires, dos días después aparece esta operación y después todos los tuiteros y todos los que están en redes, que trabajan para Juntos por el Cambio, para el gobierno de la ciudad, salieron a levantar esta noticia.  Esto es de una gravedad enorme. ",
+            "cosine_dist": 0.447047444178335,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 684.779,
+            "end_time": 695.188,
+            "text": "Ahora, de todos modos, disculpame que te diga, yo siento que el tema que tiene Kachanowski con vos es muy personal.  O sea, me da como... Bueno... No me da opereta, me da que tiene un tema personal con vos. ",
+            "cosine_dist": 0.7761271649290276,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 695.448,
+            "end_time": 699.532,
+            "text": "Bueno, la vida, o sea, no le puede... Todo el mundo no te va a querer. ",
+            "cosine_dist": 0.590049498698751,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 699.572,
+            "end_time": 701.293,
+            "text": "Pero antes hablaba bien de vos. ",
+            "cosine_dist": 0.7717870523307683,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 701313,
+            "end_time": 701453,
+            "text": "¿Qué? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 701.773,
+            "end_time": 702.734,
+            "text": "Antes hablaba bien de vos. ",
+            "cosine_dist": 0.9673882750192692,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 702.794,
+            "end_time": 750.889,
+            "text": "Ah, no sé.  Fíjate, pero quería señalar estas cosas.  Vos sabés que si esto hubiera sido cierto... durante la campaña, Leandro Santoro, que fue el que lo levantó por primera vez, lo hubiera usado.  Y sin embargo, no pasó.  Te voy a decir algo más.  No solo eso.  Cuando me hicieron la opereta del IFE, que en realidad era una cuestión de un ATP y era para una empresa, no para mí, ahí también hubiera saltado.  Pero fíjate, entonces esto debería haber saltado antes y no saltó.  Y es más, tengo y me consta de periodistas que además no me quieren y que lo dicen explícitamente, Estuvieron con la base hace unos meses y no estaba ese dato.  Es decir, entonces alguien ingresó, modificó la base y ahí montaron la operación y pegaron. ",
+            "cosine_dist": 0.3594671447190576,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 750.909,
+            "end_time": 765.136,
+            "text": "Bueno, pero la mentira tiene patas cortas, olvídate.  Hablame de la economía.  ¿Dónde estamos parados?  Se habla de devaluación, de hiperinflación.  ¿Qué va a pasar con este gobierno, con Sergio Massa, que es un ministro que realmente no termino de entender qué es lo que está haciendo con todos nosotros? ",
+            "cosine_dist": 0.8951436241986517,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 765.197,
+            "end_time": 770.955,
+            "text": "Mirá, desde mi punto de vista, Argentina está... frente a lo que va a ser la peor crisis de la historia argentina. ",
+            "cosine_dist": 0.44484666702495257,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 771195,
+            "end_time": 771555,
+            "text": "¿La peor? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 772.015,
+            "end_time": 922.854,
+            "text": "Sí.  Argentina hoy tiene indicadores sociales que son peores que los que teníamos en la previa del dos mil uno.  Para que te des una idea, o sea, si vos corrigieras la tasa de desempleo y no, digamos, metiendo monotributo social, metiendo empleados públicos extra, cuando vos la modificás, te puedo asegurar que esos trabajos son... Es cuestionable el número de desempleo argentino, claramente.  No solo eso, tenés más pobres, tenés más indigentes, evidentemente nuestros salarios en dólares son menores que los que teníamos en aquel momento.  Después vos tenés un problema de índole monetario.  Cuando vos ponés restricciones en el mercado de cambios, a vos te aparece un exceso de demanda de dólar.  O sea, el tipo de cambio oficial todos quieren.  Eso tiene consecuencias enormes en el resto de la economía, que implican altas tasas de interés, deterioran el nivel de actividad, deterioran el empleo, deterioran los salarios reales.  Pero al mismo tiempo... Vos tenés los pesos, querés salir del sistema y no podés.  Eso se llama sobrante monetario.  Eso pasó dos veces en Argentina.  Pasó en el cincuenta y nueve y en el setenta y cinco.  Hoy, ese desequilibrio, hoy, es peor que el que teníamos en la previa al rodrigazo.  Pensá que en el rodrigazo la inflación se multiplicó por seis y la pobreza por cinco.  A ver, multiplicar la inflación por seis sería llevarla a seiscientos.  Y multiplicar por cinco la cantidad de pobres no puede porque no te dan los números.  ¿Qué quiere decir eso?  Que ahí tenés un desastre social.  Y el otro problema que vos tenés, que es todavía mucho más grave, que es el que tenés en el Banco Central.  El Banco Central, para tratar de que haya presión en los precios con la cantidad de dinero, lo saca esos pesos de la calle con un instrumento que se llama LELIC.  Lo saca y paga una tasa de interés.  Esa tasa de interés hoy es del ciento siete por ciento, quiere decir que eso además cada año se te duplica, por decirlo de alguna manera, con lo cual el efecto bola de nieve es tremendo.  Ahora, mirá esto, porque es interesante.  La relación entonces entre esos pasivos remunerados, llamados LELIC, contra la base monetaria, hoy esa relación es más alta que la que teníamos antes.  a inicios de mil novecientos ochenta y nueve.  La hiper de Alfonsín.  O sea, cinco mil por ciento de inflación en mayoristas.  ¿Qué quiere decir esto?  Que tenés todo para estallar.  Y el tamaño del estallido va a ser enorme.  ¿Y a qué se dedican los políticos?  A mirarse el ombligo.  Vos mismo lo estás diciendo.  Están todos peleándose a ver cómo se reparten el queso.  Sí, Jorge. ",
+            "cosine_dist": 0.31343385321446016,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 923.735,
+            "end_time": 926.738,
+            "text": "Pero perdón, ¿el estallido va a ser tremendo?  cuándo, cómo, dónde? ",
+            "cosine_dist": 0.8630416430610809,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 927.078,
+            "end_time": 981.414,
+            "text": "Claro, ese es el punto.  Porque todos estamos hablando, Javier, porque lo hablamos desde el temor de que suceda.  Todos hablamos de que va a haber un estallido, de que esto es una crisis tremenda.  Y nadie termina de definir bien la idea, cómo la ven.  ¿De qué hablamos de un estallido?  Vamos por partes, Jorge.  Te voy a pasar una frase de Dornbusch.  Dornbusch decía, las crisis tardan en estallar mucho más de lo que nosotros creemos.  Ahora, cuando estallan, el tamaño es mucho peor.  Primera referencia.  Segunda referencia.  Los modelos de crisis y balance de pago de primera, segunda y tercera generación.  Los de primera generación, hay una parte de esos modelos que determinan el momento de la crisis.  Yo me hice famoso con eso.  Yo me hice famoso con eso.  Pero esos modelos no es que sirven para determinar el momento de la crisis.  Sirven para saber si el momento de la crisis se acerca o se aleja. ",
+            "cosine_dist": 0.41144847883975477,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 982.274,
+            "end_time": 983.975,
+            "text": "¿Y en qué estadio estamos? ",
+            "cosine_dist": 0.9044245185251798,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 984.075,
+            "end_time": 1007.37,
+            "text": "Muy cerca.  Muy cerca.  Entonces, ¿qué quiere decir esto?  Ahora, que esto es el elemento que me parece central sobre lo que pregunta Jorge y preguntas vos, Viviana.  ¿Qué es lo que lo detona esto?  Esto se detona por caída de la demanda de dinero.  Es decir, salimos todos desesperados a comprar dólares, por decirlo de alguna manera. ",
+            "cosine_dist": 0.4010004317840823,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1007.65,
+            "end_time": 1020.214,
+            "text": "Hay gente que va al cajero y dicen que no tienen plata.  Me ha pasado con dos amigas.  Yo fui al cajero y no hay plata.  ¿Sabés algo?  Me dicen, le digo, no tengo la menor idea.  Igual lo que tenga, sácalo.  Sácalo. ",
+            "cosine_dist": 0.8339186120583514,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1020.535,
+            "end_time": 1041.41,
+            "text": "Pero fíjate esto, porque esto es lo interesante.  Entonces, esos episodios de caída de la demanda de dinero, ¿qué es lo que lo detonan?  Y esos episodios se detonan básicamente con crisis políticas.  Y están todo el día jugando con esto.  Perdón que iba a decir otra cosa. ",
+            "cosine_dist": 0.385443409288835,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1041.49,
+            "end_time": 1045.655,
+            "text": "Entonces, vos fíjate, todas las peleas... ",
+            "cosine_dist": 0.7823005079846934,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1046.723,
+            "end_time": 1060.336,
+            "text": "No, bueno, está bien.  Pero viste, después vienen los sacardonados abanderados de la forma.  O sea, de repente viene alguien con buena forma y te dice que te vas a asesinar y dices, ¡ay, qué lindo habla!  Y de repente vos decís, ¡che, te están robando!  ¡Te están afanando!  ¡Ay, mirá qué mala palabra! ",
+            "cosine_dist": 0.5797608201618644,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1060.396,
+            "end_time": 1062.658,
+            "text": "Está lleno de pedófilos en la televisión que hablan bien. ",
+            "cosine_dist": 0.8129629194049867,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1062.858,
+            "end_time": 1085.943,
+            "text": "Claro.  Si vos hace un año, volviendo al tema de la explosión de la economía, si vos hace un año nos decías que hoy el dólar iba a estar a más de cuatrocientos pesos, que íbamos a tener dieciocho tipos de cambio.  Perdón, Javi, hay cuarenta y ocho.  Bueno, por eso, hay muchísimos, infinidad.  Sí, lo hizo el raconto de Damián Di Pace.  Cuarenta y ocho.  Cuarenta y ocho, lo publicó hoy Damián. ",
+            "cosine_dist": 0.7333147848233438,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1085.963,
+            "end_time": 1088.404,
+            "text": "Pero para, es récord Guinness, podríamos tener el libro. ",
+            "cosine_dist": 1.03297317481734,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1088.824,
+            "end_time": 1101.996,
+            "text": "Bueno, a ver, es una economía que está enferma.  todos esos tipos de cambios que vos ves, en realidad son devaluaciones encubiertas.  Es decir, cuando vos tenés un exceso de demanda, o ajusta por precio o ajusta por cantidad. ",
+            "cosine_dist": 0.4920264080238028,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1102.016,
+            "end_time": 1123.362,
+            "text": "Ahora, pero quiero hacer esta pregunta, ¿no?  Perdón, Javi, pero ¿con qué está especulando Massa?  Porque ayer le digo, Javi, mañana te venís con todos los anuncios, viene mi ley, habla Massa.  Hoy, con expectativa, pongo la tele, voy en el auto y dice Massa.  lo que dice, digo, pero... ¿Cómo estamos si nos deja así?  Conociéndolo a masa, debe tener una carta guardada. ",
+            "cosine_dist": 0.8058445766488432,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1123.542,
+            "end_time": 1126.222,
+            "text": "¿Cuál puede ser? ",
+            "cosine_dist": 0.6959995564733819,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1126.262,
+            "end_time": 1127.422,
+            "text": "No, no tiene carta. ",
+            "cosine_dist": 0.8172904566718608,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1127.542,
+            "end_time": 1216.867,
+            "text": "Ahora, lo único que apuestan son controles.  O sea, lo único que hacen es reprimir.  Es decir, de vuelta, vuelvo al problema.  Vos podés controlar precios o cantidades.  Yo no controlaría nada porque yo soy liberal.  Pero, de vuelta... Entonces, no les gusta el precio del dólar, entonces lo manejan.  Ahora, ¿qué es lo que pasa?  Se le genera que mucha gente quiere comprar al oficial.  Entonces, ¿cómo lo regulan?  Agarrotazos en la cabeza, que se llaman regulaciones.  Por eso tenés cuarenta y ocho tipos de cambio, porque estamos repletos de regulaciones.  Ahora, dado eso, entonces, la realidad es que no tiene cartas.  Ahora, esto es lo más importante, desde mi punto de vista.  ¿Por qué?  ¿Por qué hacen esto?  Porque lo único que les importa... Yo te voy a pasar un tip de lo que son los políticos.  Porque hay gente que dice, no, bueno, le está armando la bomba al que sigue.  Error, error Garrafal.  No es que le está pasando la bomba al que sigue.  Lo que está haciendo es tratar de retener el poder.  Lo único que les importa es ganar la elección.  Porque si ganan la elección, si después estalla, no les importa.  Porque ya tienen el poder y tienen cuatro años más para robar.  Ese es el problema.  Es decir, y de un lado y del otro piensan igual.  Porque vos decís, no, del otro lado no.  Ah, no, ¿y qué fue lo que hizo la CUNSA con el reperfinamiento?  ¿Acaso no había tipo de cambio libre y no volvió a poner controles de capitales? ",
+            "cosine_dist": 0.42991745049232866,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1216.887,
+            "end_time": 1221.829,
+            "text": "Esperame un segundo que seguimos conversando con vos, La Nación.  No nos queda nada de tiempo. ",
+            "cosine_dist": 0.8547059707589832,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1221.849,
+            "end_time": 1237.477,
+            "text": "Definición final para irnos.  Que hoy es la festividad de Pesaj.  La fiesta de la libertad.  La fiesta que recuerda la salida del pueblo judío de Egipto hacia la tierra prometida.  O sea, ¡viva la libertad, carajo! ",
+            "cosine_dist": 0.549753694961898,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1237.497,
+            "end_time": 1263.911,
+            "text": "Ahí está.  Para vos, Alberto Fernández.  Chau, hasta mañana.  Gracias por acompañarnos.  Gracias, Javier.  La mierda, los malditos empresarios.  A la mierda, Sodomitas, el capital.  Basta de basura que Inesiana.  Ha llegado el momento liberal.  Tenemos un líder y él es un gran rebelde. ",
+            "cosine_dist": 0.9095494503322531,
+            "is_target_speaker": false
+        }
+    ]
+}

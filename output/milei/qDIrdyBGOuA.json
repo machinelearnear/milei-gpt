@@ -1,0 +1,863 @@
+{
+    "Index": 190,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "qDIrdyBGOuA",
+    "url": "https://www.youtube.com/watch?v=qDIrdyBGOuA",
+    "title": "MILEI CASI SE ACCIDENTÓ POR PALERMO - Javier Milei con Guillermo Andino PARTE 2/2 -  27/5/2022",
+    "duration": 1632.0,
+    "view_count": 39437,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 0",
+            "start_time": 60,
+            "end_time": 200,
+            "text": "",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 0.329,
+            "end_time": 5.673,
+            "text": "Macri es un tipo que está cerca tuyo.  Vos te atreves a decirle, si vos querés jugar, vení.  Vos no vas a donde está Macri, vení al corral mío. ",
+            "cosine_dist": 0.8313232919835368,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 5.713,
+            "end_time": 21.084,
+            "text": "No, no, no.  Vos como hincha de Racing deberías saberlo.  El cardenazo de alguien sufrido.  Sí, sí, pero aparte hacen una reflexión sobre ese día que es bastante triste, ¿no?  Porque hacen los chistes y en realidad es un día verdaderamente sangriento.  ¿En qué crees? ",
+            "cosine_dist": 0.4109218551625482,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 21.104,
+            "end_time": 21.965,
+            "text": "¿Sos religioso? ",
+            "cosine_dist": 0.9967789687904309,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 22.225,
+            "end_time": 28.368,
+            "text": "Me iba vinculando con la comunidad judía y conocí a un rabino que somos amigos.  Y no solo eso, sino que... ",
+            "cosine_dist": 0.5913208547967932,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 28.688,
+            "end_time": 41.015,
+            "text": "Javi, en un momento de la charla dijiste recompuse con mis viejos.  Querías contar lo que quieras.  ¿Rescatás algo de Néstor, de Cristina?  Siete preguntas que le hacemos a todos los invitados.  ¿Vos recordás en qué año se formó el grupo de los Rollins? ",
+            "cosine_dist": 0.8106663225594937,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 41.255,
+            "end_time": 47.038,
+            "text": "Nombre de un arquero histórico de Chacarita que se enteró en vivo que se frustró su pase a Boca. ",
+            "cosine_dist": 0.9407059176904145,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 47438,
+            "end_time": 47798,
+            "text": "Vivaldo. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 48.058,
+            "end_time": 52.14,
+            "text": "¿Verdadero o falso de famosos con los que compartís año de nacimiento?  Luis Miguel. ",
+            "cosine_dist": 0.7565715100920998,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 52.34,
+            "end_time": 53.681,
+            "text": "No tengo ni la menor idea. ",
+            "cosine_dist": 0.8354425318732762,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 53.701,
+            "end_time": 54.321,
+            "text": "Cameron Díaz. ",
+            "cosine_dist": 1.034272966070403,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 54.861,
+            "end_time": 80.778,
+            "text": "No tengo ni la menor idea.  Matt Damon.  No tengo ni la menor idea.  El mago Capria.  No tengo ni la menor idea.  El ineficiente Gati jugaba con los pies.  Listo, ya está.  No importa un rábano.  Muy bien.  La hiper del fracasado hiperinflacionario de Chacomus, Raúl Ricardo Alfonsín.  Le regaló el arco donde le hizo el gol de la muleta a River.  Lo vas a decir a mí.  Claro, te cuento ese día.  Hola, ¿cómo están?  Bienvenidos a Los Andino en Casa. ",
+            "cosine_dist": 0.5107922881118265,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 80.918,
+            "end_time": 89.184,
+            "text": "Hola, amor, ¿cómo estás?  ¿Cómo le va locutor?  Ahora sí, me salió así la voz.  Viernes, veintidós horas, por esta casa que amamos, que es caseta O. ",
+            "cosine_dist": 0.6591090745496897,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 89.505,
+            "end_time": 99.052,
+            "text": "Vamos a seguir, ¿eh?  Vamos a seguir.  Sí, un poquito, bueno, solamente, la verdad es súper interesante, ¿se puede llegar a bajar esa tremenda inflación que tenemos? ",
+            "cosine_dist": 0.8638470216757427,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 99.232,
+            "end_time": 102.214,
+            "text": "¿Hay herramientas?  ¿Hay posibilidades?  Sí. ",
+            "cosine_dist": 0.8082674689056071,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 102.895,
+            "end_time": 104.276,
+            "text": "Categóricas. ",
+            "cosine_dist": 0.9553040235156854,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 104.296,
+            "end_time": 122.831,
+            "text": "Sí, sí, claramente, digamos, o sea, esto, el mundo logró domar la inflación.  El problema es que las lecciones que Para bajar la inflación en Argentina se las rechazan.  Entonces es como que... El problema es que aún los propios economistas son parte del problema. ",
+            "cosine_dist": 0.46717121740432177,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 123.491,
+            "end_time": 129.021,
+            "text": "A ver, yo te cambio la pregunta.  ¿Te imaginas presidente primero? ",
+            "cosine_dist": 0.8680661792654177,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 129.062,
+            "end_time": 232.57,
+            "text": "Vamos así.  ¿Te imaginas presidente?  En mi presidencia voy a ir por una reforma monetaria y financiera que va a terminar eliminando el peso y va a matar la inflación.  No va a haber más inflación argentina.  Eso yo lo voy a hacer.  Eliminando el peso.  O sea, ¿dejaríamos de tener como moneda el peso?  Exactamente.  Te hago una pregunta.  O sea, esa sería una de las estrategias.  Claro.  Para poder lograrlo.  Porque, a ver, que esta es la parte... ¿Qué es la inflación?  Vos tenés dos acepciones de la inflación.  Una es que es la suba generalizada de precios.  Esa excepción es parcialmente cierta, tiene algunos problemas.  Y hay otra excepción que es que la inflación en realidad es la pérdida del poder adquisitivo del dinero.  Entonces, cuando vos aumentás la oferta de dinero por encima de la demanda de dinero... Había un exceso de oferta de dinero, entonces el poder adquisitivo del dinero, ¿qué tiene que pasar?  Caer.  ¿Cómo se manifiesta eso?  Y que cada vez necesitás más peso para comprar los mismos bienes.  Fíjate esto, vos en el año dos mil uno, para comprar cien dólares, ¿cuántos pesos necesitabas?  Cien pesos.  Hoy, con cien pesos, ¿qué compras?  Medio dólar.  Listo, se acabó, ¿me entendés?  O sea, es la pérdida de poder adquisitivo del peso.  O sea, eso es la inflación, la pérdida de poder adquisitivo de tu moneda.  Entonces, si vos tu moneda la eliminás, no tenés más inflación.  ¿Por qué?  Porque la eliminaste.  ¿Y qué te vas?  A la moneda.  ¿Por qué durante la convertibilidad no había inflación?  Porque la emisión monetaria estaba mapeada con la demanda de dinero.  Entonces, como vos, ¿cómo hacías el Banco Central para aumentar la oferta de dinero?  Vos ibas y le vendías cien dólares.  y ¿qué te daba?  Te daba cien pesos.  Y cuando no querías los pesos, ¿qué hacías?  ¿Los metías al Banco Central?  Había una ley.  ¿Qué es lo que pasó? ",
+            "cosine_dist": 0.38995332895006796,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 233.41,
+            "end_time": 279.22,
+            "text": "Con esto, Javier, perdón, ¿no?  Porque el tema es eliminar la pobreza, además, en la Argentina y darle la chance a la gente que tenga laburo.  Y muchos hablan de... el teorema de Baglini.  Mi ley dice esto porque está lejos del poder, pero a medida que te vas acercando al poder, cuando llegás, vas a continuar con los planes sociales, vas a tener que emitir en un momento, vas a... Sin embargo, estás diciendo, elimino el peso, el Banco Central.  Digo, ¿es posible hacer eso en una Argentina tan sindicalizada?  tan politizada como vos la denominás, con la casta política.  ¿En quién te vas a apoyar?  ¿Con quién de las personas que están ahora?  Macri es un tipo que está cerca tuyo.  Pero vos te atreves a decirle, si vos querés jugar, vení.  Vos no vas a donde está Macri. ",
+            "cosine_dist": 0.7056159390039761,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 279.36,
+            "end_time": 297.188,
+            "text": "No, no, no, porque yo no quiero saber nada con los socios que él tiene juntos por el cambio.  Para mí la Unión Cívica radica en la coalición cívica, en las palomitas tibias del PRO, que ya sea, digamos, Vidal, Larreta, Ritondo, todos ellos, que son parte del problema, no de la solución.  O sea, son parte del modelo del fracaso. ",
+            "cosine_dist": 0.4065383438633693,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 297.348,
+            "end_time": 298.409,
+            "text": "Javier, pero tenés que tener un equipo. ",
+            "cosine_dist": 0.9710396221588571,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 299009,
+            "end_time": 299590,
+            "text": "Y equipo tengo. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 299.71,
+            "end_time": 301.55,
+            "text": "Para hacer una presidencia y así tener ministerios. ",
+            "cosine_dist": 0.8406933816646347,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 301.63,
+            "end_time": 304.632,
+            "text": "Y obviamente, Dios, si ya tengo de hecho cuatro ministerios funcionando en la sombra. ",
+            "cosine_dist": 0.564143216787437,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 304.994,
+            "end_time": 309.678,
+            "text": "¿Ustedes tienen toda la fe que vos lo podrías revertir?  ¿Y qué tipo de moneda deberías...? ",
+            "cosine_dist": 0.9189401096843792,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 310.018,
+            "end_time": 382.205,
+            "text": "Yo nunca juego a perder, o sea, ni a empatar.  Es más, en el fútbol, vos como hincha de Racing deberías saberlo.  Además, alguien sufrido... Estamos mejor últimamente, pero lo de Boca fue... Pero evitémoslo.  Pero esto, a ver, vos colgándote el travesaño... En el mejor de los mundos... En patasos terminás perdiendo.  Bien, exacto.  Entonces, yo digo, no estoy para colgarme en el travesaño.  Yo salgo a ganar.  Entonces, y nosotros estamos armando una estructura política para ganar, para ser competitivos y ganar.  Y no solo eso, sino que además, como además los números nos acompañan... es irresponsable no tener equipos funcionando.  O sea, yo estoy convencido que vos tenés que tener un gabinete en la sombra.  En ese contexto, básicamente lo que tenemos es el Ministerio de Economía en la sombra, también tenemos un Ministerio de Acción Social, tenemos un ministerio que tiene que ver con las partes de infraestructura y tenemos otra parte que tiene que ver con las relaciones exteriores.  Y estamos trabajando en seguridad y defensa y justicia.  Me parece que es una etapa todavía un poco más adelante y el Ministerio del Interior se define en el último momento en función de cómo queda el balance político. ",
+            "cosine_dist": 0.3647441632208004,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 382.505,
+            "end_time": 402.272,
+            "text": "Con este planteo que vos tenés, obviamente vos empezaste desde muy chiquito a analizar la economía y evidentemente sabemos y nos estás mostrando que tenés mucho conocimiento que por ahí estaría faltando, no lo sé y quisiera saber tu respuesta.  ¿Por qué a nadie se le ocurre o no lo hace esto que vos estás planteando que podría ser, gracias a Dios, la salvación de la Argentina que en tantas generaciones estamos pidiendo? ",
+            "cosine_dist": 0.9439001046271189,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 402.392,
+            "end_time": 568.151,
+            "text": "y Voy a hacer dos puntos.  Voy a contestar lo que preguntás vos, Carolina, que es una pregunta súper valiosa y algo que dijo Guillermo.  Por el tema de los más vulnerables, la inflación es un impuesto recontra regresivo.  Le pega entre veinticinco y treinta veces más fuerte a los que menos tienen.  Es el impuesto más alto y más castigado.  ¿Me comprendés?  O sea, a los que más le pegan es a los que menos tienen.  Por lo tanto, yo no entiendo esos progres que Menés le gusta la inflación.  ¿Me comprendés?  O sea, a los radicales, por.  ejemplo.  Un poquito de inflación está bien.  No, no, no está bien.  Es un desastre.  Recordá que Alfonsín se fue como una rata porque tenía cinco mil por ciento de inflación.  Eso por.  un.  lado.  Por otro lado, cuando vos tenés una inflación que supera el veinte por ciento, agradece un punto cincuenta y ocho de crecimiento.  Si vos corregís eso en la historia argentina, Argentina tendría que tener un PIB per cápita como el de Estados Unidos.  Listo, basta.  O sea... La pregunta es, ¿por qué entonces no cambian?  Bueno, porque en realidad la inflación, o sea, en realidad lo que se llama el señoriaje, que es la emisión de dinero para financiar el fisco, por ejemplo, es literalmente una estafa, es un robo.  Es como que nosotros estamos haciendo transacción en moneda de oro y aparece alguien que me trae una fórmula para falsificar el oro.  Si yo falsifico el oro y me lo cojo en mi casa, no pasa nada.  Pero si yo lo meto en el sistema, te estoy robando.  Bueno, ¿cómo lo hace?  Bueno, cuando vos financiás el déficit fiscal, por ejemplo, eso es un robo.  Este gobierno de ladrones en los últimos dos años emitió once puntos del PBI.  ¿Ves que se robaron a un ritmo de cinco puntos y medio por año?  O sea, una locura.  Entonces... El motivo que dicen, no, en otras partes del mundo tienen.  Mirá, me importa un rábano si en otras partes del mundo tienen, porque acá, digamos, los políticos te roban en promedio cinco puntos y medio del PBI por año.  Pero no solo eso, sino que además, la pregunta es, si yo me pongo en el año mil ochocientos trece y me como la falacia ad populum, porque lo hacen en otro lado, entonces no hubiéramos eliminado la esclavitud.  Entonces, está mal por una cuestión moral, está mal porque... La contraargumentación que hacen son argumentos falaces y la realidad es que hemos demostrado que, por ejemplo, cuando dicen no hay que tener un banco central independiente, mira, más independiente que el que tuvimos en la época de la convertibilidad, lo de la convertibilidad no solo que teníamos una regla recontra rígida, sino que además, no solo eso, sino que era un elemento muy popular porque, digamos, Menem logró la reelección.  Sí.  Y además, De la Rúa ganó la elección diciendo un peso, un dólar. ",
+            "cosine_dist": 0.3411624343209494,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 568.251,
+            "end_time": 571.653,
+            "text": "Y salió a su presidencia en un momento llevando a cabo a los ministros. ",
+            "cosine_dist": 0.8018915836814194,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 572.293,
+            "end_time": 626.795,
+            "text": "Por eso, entonces, lo que digo es, era una regla que además era muy popular, pero no solo esto, esto es más interesante todavía.  Toda la economía estaba operando y contractualmente con la regla, con lo cual romperla era dificilísimo.  ¿Y qué pasó?  Cuando los políticos se quedaron sin financiamiento para robarnos, Fueron y le metieron la mano en el Banco Central.  ¿De qué independencia me estás hablando?  Es decir, es una payasada, ¿me entiendes?  O sea, que te lo digan los descuntos por el cambio, encima todavía es más payasada, porque el veintiocho de diciembre del dos mil diecisiete.  Justo el día de la situación.  Sí, sí, pero aparte hacen una reflexión sobre ese día que es bastante triste, ¿no?  Porque viste que en el tema que hacen los chistes, y en realidad es un día verdaderamente sangriento, ¿no?  O sea, digo que es, en realidad es el día de los santos inocentes, que es cuando mandan a matar a todos los chicos.  Sí, sí, sí. ",
+            "cosine_dist": 0.33817986238878583,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 626.835,
+            "end_time": 649.162,
+            "text": "Sí, tenemos que hacer la pausa, estamos hablando con Javier Milei, en casa, que nos encanta Javi.  Bueno, lo importante es que no se vayan, quédense ahí.  Seguimos aquí en Los Andino en Casa con Javier Milei.  Javi, te vuelvo al lado B, porque uno no imagina a una persona economista, numerario, con la religión.  ¿En qué crees?  ¿Sos religioso?  ¿Crees en algo superior? ",
+            "cosine_dist": 0.7767318454855037,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 650.502,
+            "end_time": 652.283,
+            "text": "Sí, sí, yo creo en Dios. ",
+            "cosine_dist": 0.8005008261435553,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 653.504,
+            "end_time": 656.405,
+            "text": "¿Dios quién es?  ¿Jesús es un dios etéreo? ",
+            "cosine_dist": 0.8722400441094367,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 656.465,
+            "end_time": 674.766,
+            "text": "No, no, no, o sea, yo digamos... Básicamente, o sea, creo que existe.  Yo le hago referencia a él.  uno, o sea, solo hice un desvío para contestarte la pregunta, pero sí que soy un hombre de fe, sí. ",
+            "cosine_dist": 0.4696380793276491,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 676.627,
+            "end_time": 682.188,
+            "text": "No te evangelizás con ninguna religión, sino que sentís que hay alguien superior que en él crees. ",
+            "cosine_dist": 0.9208668380316902,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 682.208,
+            "end_time": 856.291,
+            "text": "Yo estudié en un colegio católico, pero... después de grande más como que me arrepentí el hecho de no darle tanto no darle tanto prestarle tanta atención a una materia que teníamos que es religión.  ahora seguro me imagino que se debe llamar teología pero creo que tiene que ver con que en general te la daban catequistas y no teólogos.  entonces eso es una diferencia muy importante.  pero una de las cosas que me pasó es que dándole clases a un chico yo le daba clases y, digamos, un chico judío.  y entonces yo le daba clases y me hacía unas preguntas pero que eran absolutamente descolocantes.  Un día el padre le dijo, pero escucháme una cosa, ¿de dónde sacás a hacer estas preguntas?  ¿Cómo es que se te ocurren este tipo de cosas?  Ah, me dice, no, porque, claro, estudiaba para rabino y a la mañana estudiaba la Torah en serio.  Y entonces me dice, ah, nosotros estamos acostumbrados que agarramos un tema, lo miramos desde acá, lo miramos desde acá.  Y dice, eso es un flash.  Y eso me dinamitó la cabeza en el buen sentido.  Y es más, un libro que es el Banco Central Teoría y Práctica, lo hicimos con esa metodología.  Agarrábamos cada párrafo y lo... Y íbamos oración por oración a cada punto de la teoría económica.  Aparte, ese libro da para hacer eso.  son tres conferencias de Alan Blinder, son sesenta hojitas, o sea, es una cosa maravillosa.  Encima, Blinder escribe en el formato de Reserva Federal y es tremendo, es fabuloso, o sea, todas las oraciones dicen algo.  Claro, entonces nos pasábamos horas discutiendo cada párrafo, o sea, y eso a mí me pareció algo muy interesante y... Siempre me quedo dando vuelta ahí y de una manera y de otra manera, siempre me iba vinculando con la comunidad judía y siempre tenía estas interacciones muy interesantes hasta que conocí a un rabino que lo conocí de casualidad.  Y nos pusimos a hablar y nos quedamos hablando como dos horas seguidas.  No son esas casualidades de la vida.  No, por eso, está bien, pero yo creo que es el orden espontáneo y aparecimos ahí.  Y fue tremendamente revelador para mí.  De hecho... Tenemos una excelente relación, o sea, somos amigos y no solo eso, sino que cada quince días, o sea, semana por medio, hablamos por teléfono y charlamos temas, que también es un ejercicio muy interesante, porque como él sabe que yo sigo la para allá, entonces me manda dos o tres conceptos y me dice, vamos a discutir ",
+            "cosine_dist": 0.4105728423605337,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 856.331,
+            "end_time": 857.292,
+            "text": "esto.  Para hacerte carburar. ",
+            "cosine_dist": 0.8739752980525407,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 858.312,
+            "end_time": 872.662,
+            "text": "No, no, pero está buenísimo, el ejercicio es, en diez minutos lo discutimos.  O sea, es todo lo que te llega desde la intuición.  Y a partir de ahí, bueno, hablamos de repente dos, tres horas.  Y para mí eso, digamos, también una bendición porque... ",
+            "cosine_dist": 0.49796088327835253,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 872.902,
+            "end_time": 875.664,
+            "text": "Me parece que te hace evolucionar un montón. ",
+            "cosine_dist": 0.7581866327203255,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 875.884,
+            "end_time": 877.545,
+            "text": "Sí, sí, sí, estoy aprendiendo mucho. ",
+            "cosine_dist": 0.8909000699216089,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 877.785,
+            "end_time": 889.459,
+            "text": "Javi, en un momento de la charla dijiste recompuse con mis viejos.  Si querés, contá lo que quieras.  Pero me gustaría saber primero, ¿el viejo Milei de dónde vino, oriundo de dónde, y tu mamá de dónde es? ",
+            "cosine_dist": 0.8092873642360798,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 889.499,
+            "end_time": 891.3,
+            "text": "Mi mamá es Lucic. ",
+            "cosine_dist": 0.7836207832510054,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 892.02,
+            "end_time": 893.56,
+            "text": "Como Rodrigo Lucic. ",
+            "cosine_dist": 0.752639018486881,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 893.7,
+            "end_time": 894.34,
+            "text": "¿No son familia? ",
+            "cosine_dist": 0.996929704978371,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 894.861,
+            "end_time": 919.624,
+            "text": "No.  A ver, lo que tiene que ver con mi papá es, tanto el papá como la mamá, origen italiano, Y lo que tiene que ver con mi mamá, el papá yugoslavo, o sea, mi abuelo materno, y mi abuela materna italiana.  O sea, que tengo setenta y cinco por ciento italiano, veinticinco por ciento yugoslavo. ",
+            "cosine_dist": 0.4241220186741501,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 919.845,
+            "end_time": 921.928,
+            "text": "¿Y haber recompuesto qué significa?  ¿Tuviste un tiempo que no...? ",
+            "cosine_dist": 0.9090052109866008,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 922.159,
+            "end_time": 976.685,
+            "text": "Sí, nosotros tuvimos una pelea, después recompusimos y después tuvimos otra.  Y bueno, en un evento desafortunado, o eso después se puede tipificar así o de otra manera, era algo que a mí me afectaba muy negativamente.  Yo no estaba en Buenos Aires como para ocuparme de eso.  Y la situación era tan fuerte que también había impactado emocionalmente en Cari.  Entonces, digamos, Cari también estaba en una situación muy compleja y ellos tuvieron un muy buen gesto que es la ayudaron a Cari.  O sea que en el fondo indirectamente me estaban ayudando a mí.  Entonces eso a mí me pareció un acto valioso y que ameritaba que hiciéramos tabula rasa y arrancáramos de vuelta. ",
+            "cosine_dist": 0.4796900786764914,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 977.425,
+            "end_time": 981.186,
+            "text": "Perfecto, me encanta.  Tenemos tiempo, vamos, hacemos el juego. ",
+            "cosine_dist": 0.9068642054564549,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 981.426,
+            "end_time": 1003.515,
+            "text": "Igual les paso una línea.  El rencor no conduce a nada.  Y hay una frase de Menem, de Carlos Saúl Menem, que es genial.  ¿Sabés lo que decía?  Vos no manejás mirando el espejo retrovisor.  Viste que valió la pena salirme de... Totalmente, totalmente. ",
+            "cosine_dist": 0.4600191671583589,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1003.676,
+            "end_time": 1006.997,
+            "text": "Pero hay muchas frases para poner abajo. ",
+            "cosine_dist": 0.8252780399840204,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1007.477,
+            "end_time": 1012.18,
+            "text": "El graph va a tener que laburar mucho.  Pará, porque nombraste a Mene, te quiero algo que me quedó. ",
+            "cosine_dist": 0.8413348701389679,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1012.48,
+            "end_time": 1019.103,
+            "text": "¿Rescatás algo de Néstor, de Cristina, de Néstor y Cristina?  Nada. ",
+            "cosine_dist": 0.8098718590256987,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1019163,
+            "end_time": 1019403,
+            "text": "Nada. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1020.084,
+            "end_time": 1031.917,
+            "text": "Nada, son... son lo peor que le pasó a la historia argentina.  O sea, hicieron un daño cultural enorme y destrozaron los valores morales. ",
+            "cosine_dist": 0.5564492191635961,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1031.938,
+            "end_time": 1035.238,
+            "text": "¿Y son los responsables de la grieta, de la famosa grieta que tanto hablamos? ",
+            "cosine_dist": 0.9559453898839072,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1036.478,
+            "end_time": 1086.687,
+            "text": "Exactamente.  Ellos reabrieron la grieta porque esa grieta existía y Menem la cerró.  Hay una anécdota, la conoce muy poca gente y que habla de la grandeza de lo humano de Menem.  Menem, cuando falleció su mamá, estaba preso en Las Lomitas, era un preso político.  Y lo había encerrado una determinada persona y cuando le pidió autorización para salir no lo dejó.  Cuando Menem asumió, esto le valió una pelea con Eduardo, con su hermano Eduardo, el primer indulto, ¿sabés a quién se lo dio?  Al tipo que no lo dejó ir a ver a la madre.  Bien.  Perfecto.  Bueno.  Mirá si ese laburó para cerrar la grieta. ",
+            "cosine_dist": 0.5058197748865376,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1086707,
+            "end_time": 1087247,
+            "text": "Totalmente. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1087.267,
+            "end_time": 1096.152,
+            "text": "Y después, o sea, la basura de la política genera la grieta.  Es una forma de construcción de poder.  la grieta también. ",
+            "cosine_dist": 0.5065720935775271,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1096.172,
+            "end_time": 1099.874,
+            "text": "Lamentablemente, ¿no?  Vamos a hacer un juego. ",
+            "cosine_dist": 0.8006243754586272,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1099.894,
+            "end_time": 1100.995,
+            "text": "Para siempre me queda uno. ",
+            "cosine_dist": 0.9912610394817071,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1101.455,
+            "end_time": 1104.037,
+            "text": "¿Con quién te imaginás en el balotaje? ",
+            "cosine_dist": 0.8804993209967626,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1104.057,
+            "end_time": 1106.358,
+            "text": "No me importa con quién sea el balotaje, lo voy a ganar igual. ",
+            "cosine_dist": 0.6282961546330128,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1109.62,
+            "end_time": 1120.784,
+            "text": "Sería todo un tema histórico en la Argentina que el Balotage fuera entre dos partidos, entre un libertario y alguien ubicado en la derecha, ¿no?  Entre vos y Bullrich, entre vos y Rodríguez Larreta y no entre vos y... ",
+            "cosine_dist": 0.7940341798659959,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1120.804,
+            "end_time": 1123.625,
+            "text": "No, Rodríguez Larreta es izquierda.  Rodríguez Larreta es izquierda. ",
+            "cosine_dist": 0.6375769091534712,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1123.785,
+            "end_time": 1125.546,
+            "text": "Eso para vos, para otros puede no ser. ",
+            "cosine_dist": 0.906946252628938,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1126.006,
+            "end_time": 1138.551,
+            "text": "Bueno, es porque tienen el arco tan corrido a la izquierda que les parece de centro y no lo es.  Mirá, entre Rodríguez Larreta y los que se distan la forma de ver la economía no tienen ningún tipo de diferencia, ¿eh?  La piensan idénticamente igual. ",
+            "cosine_dist": 0.48256399148446794,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1138.979,
+            "end_time": 1153.495,
+            "text": "Por eso yo te hablaba al principio de tu estilo de política y tu estilo sobre todo económico, que es lo que realmente nos está faltando tanto.  Y bueno, a eso íbamos, ¿no?  A diferenciar justamente algo tan importante que es para nosotros poder salvar la política en lo de economía, ¿no? ",
+            "cosine_dist": 0.9201441079279807,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1153988,
+            "end_time": 1154368,
+            "text": "Vos sabés que... ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1154.688,
+            "end_time": 1156.189,
+            "text": "Es la economía estúpida, definitiva. ",
+            "cosine_dist": 0.8653261903391437,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1156.449,
+            "end_time": 1158.931,
+            "text": "Claro.  Vos sabés que lo interesante... ",
+            "cosine_dist": 0.8088083020088243,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1158.951,
+            "end_time": 1159.911,
+            "text": "Y ya vamos al juego. ",
+            "cosine_dist": 0.89131738988095,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1160.232,
+            "end_time": 1238.045,
+            "text": "Lo interesante es que es la primera vez, al menos en el mundo de habla hispana, que un libertario llega a un cargo.  O sea, a un cargo electivo.  Porque a nosotros nos dijeron que no íbamos a poder formar partido.  Formamos partido.  O sea, fuimos con tres partidos, el Partido Libertario estaba en condición de provisorio, con lo cual no hubiéramos podido competir hasta con el Partido Libertario solo.  Y teníamos diecisiete adherentes, además.  O sea, con lo cual, la libertad avanza... Se convirtieron en un instrumento como para poder competir.  Después nos dijeron que no íbamos a pasar los pasos, después decían que perdíamos contra el voto en blanco, después decían que la izquierda nos llenaba la canasta y después nos decían que ni siquiera llegábamos a conseguir los votos para lograr una banca de diputado nacional.  Y pese a que les duela, sacamos el diecisiete por ciento.  Y eso después generó una explosión que es lo que estamos viendo hoy, que yo creo que es fruto del trabajo que han hecho los jóvenes evangelizando.  Es decir, la pandemia hizo que los jóvenes en sus casas los pusieran a los padres a mirar videos de Millet.  Y entonces todo lo maravilloso que estás viendo hoy a nivel país... ",
+            "cosine_dist": 0.4276403622090432,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1238.065,
+            "end_time": 1239.426,
+            "text": "Y así es lo que hicieron todos. ",
+            "cosine_dist": 0.8937381085474209,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1239.526,
+            "end_time": 1260.744,
+            "text": "Claro, exacto.  No, no, no, no.  Se abrieron sus cabezas.  No, pero es que ese punto no es menor lo que dice Guillermo.  Uy, habló la guitarra.  Habló la guitarra.  Habló la guitarra.  Habló la guitarra.  Qué nos querrá decir el universo.  Pero vos sabés que es muy interesante porque ellos... Son los grandes responsables de lo que está pasando. ",
+            "cosine_dist": 0.5396037435127443,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1260.764,
+            "end_time": 1263.49,
+            "text": "Y están rompiendo barreras.  La guitarra se cayó por algo. ",
+            "cosine_dist": 0.96702535188933,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1263.71,
+            "end_time": 1279.547,
+            "text": "Exactamente.  Porque, ¿me comprendes lo que te digo?  O sea, ellos... fueron los que en su casa, durante la pandemia, le hacían ver los videos a los padres, a los abuelos, y los empezaron a convencer.  Una de las cosas que les traje de regalo, que es el libro El Camino del Libertario. ",
+            "cosine_dist": 0.4722583483831436,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1280.307,
+            "end_time": 1282.668,
+            "text": "El Camino del Libertario, resumímelo en... ",
+            "cosine_dist": 0.7102907554452494,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1283.049,
+            "end_time": 1322.951,
+            "text": "No, son tres partes, pero lo interesante es que en la última parte, ¿sabes qué?  Puse mis discursos.  Para que vos tengas para chequear.  Yo durante la campaña decía algo que ahora es lo mismo que estoy haciendo.  Una forma de estar testeándome todo el tiempo.  Por eso me parece la parte divertida.  Porque el discurso es muy lindo, pero después hay que sostenerlo.  Y eso es lo que estamos haciendo, lo estamos sosteniendo en los hechos.  Y eso me parece que te encontrás frente a un nuevo caso que es un político que no te mintió nada.  Resiste el archivo.  Bueno, ahora sí.  ¿Vos hacés las rojas?  Yo voy con las rojas.  Ah, bueno, bueno. ",
+            "cosine_dist": 0.407110626513442,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1323.731,
+            "end_time": 1333.22,
+            "text": "Arrancamos.  Siete preguntas que le hacemos a todos los invitados.  Siete números bíblicos para divertirnos un rato.  Sacarte de la cuestión transversal, por decir algo.  Y la primera dice así. ",
+            "cosine_dist": 0.844284830758633,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1334.301,
+            "end_time": 1336.663,
+            "text": "Tenías una banda que hacías cover de los Rolling Stones. ",
+            "cosine_dist": 0.8884329021604038,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1337.303,
+            "end_time": 1340.366,
+            "text": "Ahora, ¿vos recordás en qué año se formó el grupo de los Rolling Stones? ",
+            "cosine_dist": 0.8290718103734924,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1340.771,
+            "end_time": 1342.452,
+            "text": "En el año mil novecientos sesenta y dos. ",
+            "cosine_dist": 0.7448486766142759,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1342.492,
+            "end_time": 1343.133,
+            "text": "Sí, señor. ",
+            "cosine_dist": 0.9405237713114952,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1343.993,
+            "end_time": 1353.179,
+            "text": "Bueno, vamos con la segunda.  Nombre de un arquero histórico de Chacarita que se enteró en un programa de TV en vivo que se frustró su pase a Vox. ",
+            "cosine_dist": 0.9136667125806306,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1353219,
+            "end_time": 1353659,
+            "text": "Vivaldo. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1354.119,
+            "end_time": 1367.328,
+            "text": "Sí, el flaco Vivaldo.  Correcto, bien, bien.  Bien, bien, bien.  Tercera.  Verdadero o falso de famosos con los que compartís años de nacimiento.  La fecha esa la dijimos.  Javier nació en mil novecientos setenta.  Luis Miguel. ",
+            "cosine_dist": 0.7772119083582494,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1368.14,
+            "end_time": 1370.581,
+            "text": "No tengo ni la menor idea. ",
+            "cosine_dist": 0.8095530370897025,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1370.861,
+            "end_time": 1371.501,
+            "text": "Camerón Díaz. ",
+            "cosine_dist": 1.0087031820691545,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1372.042,
+            "end_time": 1389.469,
+            "text": "No tengo ni la menor idea.  Falso.  Matt Damon.  ¿Tendrá tu edad?  No tengo ni la menor idea.  El mago Capria.  No tengo ni la menor idea.  Nunca hablaste con el mago cuando jugabas, ¿no?  No, tengo otras anécdotas muy divertidas.  hablando con Hugo Lamadrid. ",
+            "cosine_dist": 0.6471762675981856,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1390.129,
+            "end_time": 1391.53,
+            "text": "Ah, sí, Lamadrid es tu personaje. ",
+            "cosine_dist": 0.9536150155586359,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1391.992,
+            "end_time": 1418.814,
+            "text": "Sí, no, pero fue genial porque me estuvo tres horas y como no me pude entrar por ningún lado, entonces terminamos hablando de fútbol.  Lo cuento porque esto es muy lindo para mí.  Gracias a ese reportaje, entonces me preguntó por mi paso en el fútbol.  Entonces, obviamente, dale, dale, dale.  ¿Filiol o Gatti?  Pero claro, yo era hincha de Boca, entonces dice, ah, ok, Gatti.  No, ¿qué Gatti? ",
+            "cosine_dist": 0.47316516478657245,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1419514,
+            "end_time": 1419974,
+            "text": "¡Filiol! ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1420.394,
+            "end_time": 1462.239,
+            "text": "Filiol es el mejor arquero de todos los tiempos, digo, el Superman del arco.  ¿Vos sabés que ahora a Filiol lo presentan cuando va a hacer un acto a un lugar que le hace un homenaje y le dicen, como lo llama Javier Milei, el Superman del arco?  Le quedó por esa nota.  Sí, no lo cuento todo porque es muy largo, pero es interesante porque a partir de eso tuve la posibilidad de conocer al Pato Filiol, para mí fue algo... Ahí está, lo tuvimos entrevistado.  El más grande de todos los tiempos.  Y hay un argumento desde el punto de vista del análisis económico.  Cuando vos jugás al fútbol, ¿cuál es el recurso escaso?  Jugar con la mano.  El ineficiente Gatti jugaba con los pies, listo, ya está.  No importa un rábano. ",
+            "cosine_dist": 0.41115144139362714,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1462.619,
+            "end_time": 1468.605,
+            "text": "¿Cómo se llamó la micronación europea proclamada en abril del veinte quince entre Croacia y Serbia? ",
+            "cosine_dist": 0.9179055465320033,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1469.566,
+            "end_time": 1471.227,
+            "text": "¿Liberland?  Sí señor. ",
+            "cosine_dist": 0.8786395448359078,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1471.267,
+            "end_time": 1475.811,
+            "text": "Quinta, te tiro un rapidito de años de crisis económicas en Argentina para ver si te salen los nombres populares. ",
+            "cosine_dist": 0.8788261122197569,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1476.172,
+            "end_time": 1496.211,
+            "text": "Mediados de mil novecientos setenta y cinco.  Rodrigazo.  Diciembre de dos mil uno.  El corralito, el corralón, el catrás, o sea, la crisis de la convertibilidad.  En el año de la crisis de la convertibilidad.  La hiper del fracasado hiperinflacionario de Chacomus, Raúl Ricardo Alfonsín.  ¡Mil nueve cincuenta y nueve!  Hay que pasar... Hay que pasar el invierno.  Digo, con Álvaro Alzogaray. ",
+            "cosine_dist": 0.47465328194048373,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1496.351,
+            "end_time": 1497.111,
+            "text": "Sí, señor. ",
+            "cosine_dist": 0.9497205492058465,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1497.191,
+            "end_time": 1498.371,
+            "text": "¡Impecable! ",
+            "cosine_dist": 1.0188024660986148,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1498.391,
+            "end_time": 1499.892,
+            "text": "Vamos con la anteúltima. ",
+            "cosine_dist": 1.0018354694151028,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1499.912,
+            "end_time": 1512.814,
+            "text": "Igual digo, con las fechas de... Digo, igual lo deberían... Digo, es un desastre lo mío, pero lo deberían haber hecho con mujeres para así quedaba bien, porque no le miro la edad.  Es que lamentablemente estas las saben todos los argentinos.  Dale con así. ",
+            "cosine_dist": 0.6836977586833637,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1512.874,
+            "end_time": 1516.455,
+            "text": "Lengua materna de un economista que sé que admiras. ",
+            "cosine_dist": 0.9205441691832924,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1516.515,
+            "end_time": 1553.835,
+            "text": "El judío polaco.  ¿Qué le regaló Boca a Martín Palermo cuando se retiró?  Estaba presente, le regaló un arco.  Le regaló el arco donde le hizo el gol de la muleta a River.  Lo vas a decir a mí.  Claro, te cuento ese día.  Ese día... No me caí a la cancha porque mi papá me tenía agarrado el cinturón.  ¿En serio?  No, claro.  ¿Y una de yapa?  ¿Qué número llevaba el pato finión en el Mundial del setenta y ocho?  El cinco.  Y en el Mundial del ochenta y dos, la siete.  Vamos, ¿eh?  Risas.  Listo.  Señoras y señores.  Muchas gracias. ",
+            "cosine_dist": 0.5847231803303122,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1554.115,
+            "end_time": 1555.376,
+            "text": "Gracias, Javier, por haber venido. ",
+            "cosine_dist": 0.9333213446154572,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1555.396,
+            "end_time": 1631.583,
+            "text": "A todos los amigos de casa.  Vamos a iniciar la reconstrucción del país.  Vamos a lograr que en treinta y cinco años vuelva a ser potencia.  Por lo tanto, lo que vamos a estar haciendo es estar sembrando, ¿sí?  O, digamos, plantando el árbol que va a dar sombra dentro de treinta y cinco años.  Pero alguien lo tiene que hacer y alguien lo tiene que enfrentar y alguien de una vez por todas tiene que estar decidido a pagar todos los costos de poner en orden a esta economía decadente.  Y yo estoy dispuesto a hacerlo.  Gracias, Javier.  Muchas gracias.  Nos vemos el próximo viernes a las veintidós.  Chau.  Y gracias a todos los que han venido acá.  Gracias, Karina.  Gracias.  A la mierda los malditos empresarios, a la mierda Sodomitas el capital.  Basta de basura que Inesiana, ha llegado el momento liberal.  Tenemos un líder y él es un gran rebelde. ",
+            "cosine_dist": 0.4847235284871967,
+            "is_target_speaker": true
+        }
+    ]
+}

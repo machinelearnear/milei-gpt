@@ -1,0 +1,735 @@
+{
+    "Index": 195,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "1Pq0Ti-Q3qY",
+    "url": "https://www.youtube.com/watch?v=1Pq0Ti-Q3qY",
+    "title": "MILEI SOBRE SU FAMILIA - Javier Milei con Guillermo Andino PARTE 1/2",
+    "duration": 1611.0,
+    "view_count": 719832,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 2",
+            "start_time": 60,
+            "end_time": 440,
+            "text": "",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 0.009,
+            "end_time": 37.166,
+            "text": "Yo soy virgen de vos.  Es un título.  Bueno.  Bueno.  Pero la primera vez que le dieron la virginidad que había traído por ley, preguntó por su marido.  Terrible.  Mis perros no ladran.  No sé por qué lo hacen.  Aúllan.  Me estaba yendo y estaba en el ascensor y de repente escuchaba los aullidos y dije, ¿qué pasó?  Y decía esa frase, Conan se ponía a aullar.  Cuando mi papá tenía dos años, mis abuelos se separaron.  Mi papá trabajó desde muy chiquito.  A los tres años ya laburaba.  ¿A qué edad?  A los tres años.  Mi abuela materna enviudó, entonces mi mamá trabajaba desde los catorce años con termos de café y un fibrón negro. ",
+            "cosine_dist": 0.41444907596662484,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 38.027,
+            "end_time": 42.599,
+            "text": "A ver, fibrón.  Ay, perdón.  ¿Para vos fue el mejor gobierno? ",
+            "cosine_dist": 0.9346364517081059,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 43.619,
+            "end_time": 52.843,
+            "text": "Para mí fue el mejor gobierno de la historia.  De la historia.  Cuando partió el Carlos, yo hice tres reportajes.  En mi presidencia.  No va a haber más inflación argentina. ",
+            "cosine_dist": 0.49628675785482934,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 52.923,
+            "end_time": 55.405,
+            "text": "No sé si decir del primer tiempo, como dijo Macri. ",
+            "cosine_dist": 0.8127152090810423,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 56.305,
+            "end_time": 57.125,
+            "text": "Hola, ¿cómo están? ",
+            "cosine_dist": 0.8806418910922931,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 57.205,
+            "end_time": 96.499,
+            "text": "Bienvenidos a Los Andino en Casa.  Hola, amor, ¿cómo estás?  ¿Cómo le va, locutor?  Ahora sí, me salió así la voz de viernes, veintidós horas, por esta casa que amamos, que es Caseta O, y que la verdad es una bendición poder recibir aquí a gente que queremos, gente que admiramos, gente con la que queremos hablar.  Y en este caso muy particular.  Totalmente.  Podemos decir probablemente el emergente de la política, que para algunos podrá ser antipolítica, él le llama la casta política, pero de quien hoy más se habla y que está arriba en las encuestas.  ¿Y cuánto?  Le damos la bienvenida al señor Javier Milei, gracias por estar aquí en nuestro hogar. ",
+            "cosine_dist": 0.6931042259773712,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 96.579,
+            "end_time": 104.444,
+            "text": "¿Cómo andás Javi?  Gracias Guillermo, gracias Carolina, gracias por invitarme, porque para mí es un honor poder estar con ustedes en su casa. ",
+            "cosine_dist": 0.46497902347502384,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 104.604,
+            "end_time": 107.006,
+            "text": "Para nosotros es un honor tenerte acá. ",
+            "cosine_dist": 0.8044215009065973,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 107.706,
+            "end_time": 116.813,
+            "text": "No sabes, esperá que termine la nota.  Bueno, por ahora es un honor.  Vamos a ver.  O sea, él tiene más boletos para enviarse que vos. ",
+            "cosine_dist": 0.8771019364292579,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 116.833,
+            "end_time": 117.653,
+            "text": "Claro, bueno. ",
+            "cosine_dist": 1.0018355079062355,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 117.713,
+            "end_time": 173.784,
+            "text": "O sea, porque ella ya me ha tenido que lidiar, ha tenido que lidiar conmigo al aire.  Bueno, yo soy virgen de vos.  Bueno, bueno.  Yo igual pediría que por favor trabajemos sobre la literalidad, porque una de las cosas, yo te voy a contar algo nefasto de la política, que es verdaderamente nefasto.  no podés utilizar más metáforas, el humor queda muy acotado, porque cosas que vos de repente lo estás diciendo en una forma metafórica o lo estás diciendo en modo irónico, te lo toman como un textual y eso es tremendo.  O sea, te limita mucho el uso del lenguaje.  Yo solía utilizar muchas metáforas y ser muy irónico.  No lo puedo hacer ahora. ",
+            "cosine_dist": 0.4616406262209898,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 174.474,
+            "end_time": 184.938,
+            "text": "Y es un aprendizaje, ¿no?  Porque realmente uno se tiene que cuidar muchísimo.  Porque uno está acostumbrado a esa forma de actuar, de pensar, de hablar.  Y de golpe, ¿no?  Te sentís como decís vos, limitado a accionar de otra manera. ",
+            "cosine_dist": 0.9844766578094086,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 185.038,
+            "end_time": 187.499,
+            "text": "¿Y eso qué te genera?  ¿Como que estás encerrado, perimetrado? ",
+            "cosine_dist": 0.7777649483577802,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 188.899,
+            "end_time": 216.425,
+            "text": "No, a ver... De vuelta, costos-beneficios.  O sea, si tomé la decisión de meterme acá, bueno, loco, si te gusta el guturano, bancate la pelusa.  Es decir, esto tiene costos, entonces cuando hicimos el cálculo de costos, lo digo en plural porque estas decisiones, o sea, yo las tomo... Vos y tu equipo.  Sí, pero estas ya son más personales.  ¿Vos y Karina?  Las tomo con Kari, sí, con el jefe. ",
+            "cosine_dist": 0.3846011592277012,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 216.765,
+            "end_time": 217.366,
+            "text": "Con tu hermana. ",
+            "cosine_dist": 0.9156725490131463,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 217.626,
+            "end_time": 253.157,
+            "text": "Sí, de hecho, digamos, la decisión de meterme en política, como es, sí, pero odia las cámaras.  No, no, pero trata de cámaras.  Pero claro, Majul lo logró, ¿no?  Ah, sí, sí, sí, sí, logró, estábamos en Bariloche y logró que entrara en cámaras.  Pero bueno, es porque, digamos, o sea, Luis tiene una ventaja relativa que es que lo mira a mi mamá.  ¡Ay, mi amor!  Entonces, claro.  Apareció el nene y la nena.  Claro, entonces era... Tenía que ver... Con ese lado, familia.  Pero él lo sabía y él usó ese mecanismo. ",
+            "cosine_dist": 0.4751747445326878,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 253.177,
+            "end_time": 254.078,
+            "text": "Me lo imagino. ",
+            "cosine_dist": 1.0319236470038207,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 254.618,
+            "end_time": 256.139,
+            "text": "No, sí, bueno. ",
+            "cosine_dist": 0.8949673052826859,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 256.298,
+            "end_time": 258.6,
+            "text": "Pero pará, vamos a arrancar por ahí.  Karina en tu vida. ",
+            "cosine_dist": 0.8130478213302951,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 259.279,
+            "end_time": 300.821,
+            "text": "Karina en tu vida es muy importante.  Sí, absolutamente.  O sea, de hecho, si vos te fijás, todos mis libros están dedicados a Cari y a Conan.  Y ahora que Conan me hizo abuelo, también están dedicados a Murra y a Milton, a Robert y a Lucas.  Mis hijitos de cuatro patas.  Y ahora también en esta dinámica que pude recomponer el lazo con mis padres y como entonces la veo más, además también incorporé a mi familia core, a Aaron también, que es divino, que es el hijito de Cuatro Patas de Caribe. ",
+            "cosine_dist": 0.3583530818031736,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 301.201,
+            "end_time": 306.586,
+            "text": "Bueno, espero que los tuyos no ladren como está ladrando en este caso Donatella.  No sé si estará saliendo mucho al aire, pero es un poquito, ¿no? ",
+            "cosine_dist": 0.9635308688714875,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 307.167,
+            "end_time": 313.153,
+            "text": "¿Ladra mucho tu perro?  No, vos sabés que mis perros no ladran. ",
+            "cosine_dist": 0.6969103126023575,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 313173,
+            "end_time": 313633,
+            "text": "Qué suerte. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 313.653,
+            "end_time": 336.109,
+            "text": "Bueno, vas a tener que venir a entrenar a Donatella acá, entonces.  No, no, no tienen... O sea, es muy raro que ladren.  Se tiene que dar una situación muy particular.  Y solamente ladran, bueno, si hay algo que los provoca, pero no es algo que hagan regularmente.  Y lo que sí puede pasar, y que yo no sé por qué lo hacen, aúllan. ",
+            "cosine_dist": 0.38239079260394504,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 336.689,
+            "end_time": 339.49,
+            "text": "Ah, bueno, claro, el ladrido por el aúllo. ",
+            "cosine_dist": 0.836064868431939,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 339.63,
+            "end_time": 369.612,
+            "text": "Son bastiones ingleses.  No, no, no, pero son situaciones muy particulares.  Son situaciones muy particulares.  No sé, un día yo me estaba yendo Y estaba en el ascensor y de repente escuchaba los aullidos y dije, ¿qué pasó?  Una llena.  Sí, bueno, cuando... No, no, era de día.  Bueno, o la luna estaba muy fuerte y casi que aparecía el sol.  Y entonces volví al departamento y habían hecho... Estaban en círculo aullando.  Ah, mamita.  O sea, pero aparte entré y no me dieron ni cinco, o sea, que estaban en la de ellos. ",
+            "cosine_dist": 0.43784693600409197,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 369.632,
+            "end_time": 371.494,
+            "text": "Bueno, pero es que si los perros son muy intuitivos. ",
+            "cosine_dist": 0.9371182594286404,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 371.614,
+            "end_time": 493.027,
+            "text": "Eso es para otro programa, pero son muy intuitivos.  Eso a mí me sorprendió, yo me quedé bastante sorprendido.  No, andaste más.  Bueno, pero ellos además también tienen un rol muy importante al margen de la cuestión afectiva y todo.  Por ejemplo... Yo siempre digo que hay una frase, yo metodológicamente cuando me enfrento a un problema nuevo, por decirlo de alguna manera, si se lo puede definir problema, una de las cosas que hago es, yo repito dos frases.  Como mantra.  Sí, como mecanismo analítico para obligarme a mí mismo a pensar del modo correcto, por decirlo de alguna manera.  Una es de Albert Armel Alkian, que dice que todo lo que es, es óptimo.  Si no, sería diferente.  Es decir, vos asumís, que la gente hace las cosas bien y las hace en su propio favor.  No esa mirada despectiva que me ofrece a vosotros, mirá lo que está haciendo este tonto.  No, es explicar por qué eso es óptimo.  Porque en general, cuando utilizás el otro mecanismo, lo más probable es que estés equivocado.  Y después uso otra, que es la de Alberto Venegas Lynch, hijo, nuestro prócer máximo del liberalismo, que además tengo el honor de ser amigo.  que dice, el liberalismo es el respeto irrestricto del proyecto de vida del prójimo, basado en el principio de no agresión y en defensa del derecho a la vida, a la libertad y a la propiedad.  Pero esa frase la incorporé más acá en el tiempo, la que yo usaba siempre era la de Albert Armen Alkian, porque es muy importante para diseñar los ejercicios de optimización y todas esas cosas que usamos en economía.  Y cada vez que yo me enfrentaba a un problema y decía esa frase, Conan se ponía a huyar.  Bueno, está bien.  ¿Cómo se explica eso?  Bueno, yo asumo que es la frase que a él le gusta.  Le gusta escuchar, obvio.  Sí, sí, sí.  Entonces, y eso, digamos, o sea... pasa recurrentemente ahora.  no porque no hago ese tipo de economía pero si ellos están conectados. ",
+            "cosine_dist": 0.34903173175159463,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 493.627,
+            "end_time": 499.793,
+            "text": "quienes sabemos mucho de perros sabemos que están conectados con otras cosas que a lo mejor a veces son difíciles para nosotros. ",
+            "cosine_dist": 1.0035582649277868,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 500.613,
+            "end_time": 560.568,
+            "text": "yo asumo que esa es una frase que a él le debe gustar así como sé que por ejemplo detesta detesta a las óperas de Bellini y Donizetti.  porque porque aparte de las tres grandes divas de la historia de la ópera que son en orden de como a mi me gustan Joan Sutherland o sea la australiana que en paz descanse que murió hace poquito el caso de Renata Tebaldi y el caso de María Calas bueno a mi me gusta.  además me gusta Joan Sutherland.  Y cada vez que pongo, digamos, alguna ópera de Bellini y Donizetti, que son muy cargadas, ya sea, por ejemplo, Norma de Bellini o la Ducía a la Mermur de Donizetti, se va, se va.  No le gusta.  No, se va.  En cambio, a Verdi se lo fuma.  Cuando escucho a Verdi le gusta.  Se queda tranquila.  Pero no le gusta a Bellini y Donizetti.  Wagner, ¿probaste?  Sí, claro.  Es que a mí no me gusta Wagner, es un problema. ",
+            "cosine_dist": 0.3754911687896024,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 560.588,
+            "end_time": 561.209,
+            "text": "Son los que le gustan. ",
+            "cosine_dist": 0.9778060961496834,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 561.269,
+            "end_time": 564.31,
+            "text": "Ahora, hablamos un poco de esto.  No sé si le gusta Wagner. ",
+            "cosine_dist": 0.8626399328716321,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 564.33,
+            "end_time": 567.632,
+            "text": "Hoy no prueba, hoy viene... Ya te lo digo. ",
+            "cosine_dist": 0.9841121740850478,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 567.792,
+            "end_time": 572.955,
+            "text": "Ya, bueno, le voy a poner Wagner.  Hoy viene esa noche, probate un Wagner.  Le pongo la Valkyria, ¿no?  Y a ver si... ",
+            "cosine_dist": 0.9041973277436743,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 572.975,
+            "end_time": 578.819,
+            "text": "Bueno, tengo un programa corto, pero obviamente que con vos vamos a hablar fundamentalmente de política.  No podemos no hablar de política con vos. ",
+            "cosine_dist": 0.9166239054127018,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 578.859,
+            "end_time": 582.981,
+            "text": "¿Hacía falta?  Sí, hace un poquito.  Yo creí que me ibas a enchufar. ",
+            "cosine_dist": 0.902978945247647,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 583.021,
+            "end_time": 597.488,
+            "text": "No, no, pero justamente, yo quiero empezar por otro lado, que es cuando estábamos organizando justamente la entrevista con vos, le decía a Guille cómo me gusta conocerte más del Javier, fuera de la política que todo el mundo está acostumbrado a conocer.  El lado B, Silvia.  El lado B, ponele, sí. ",
+            "cosine_dist": 0.9644865213637234,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 598.629,
+            "end_time": 600.67,
+            "text": "O quizás el lado A, el otro es el lado B. ",
+            "cosine_dist": 0.8647136619744703,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 600.69,
+            "end_time": 613.458,
+            "text": "Claro, el lado que ustedes quieran.  Pero el lado justamente que te desconecta de lo que nosotros estamos habituados a escucharte y muy lindo que es la política.  ¿Cuáles serían tus cables a tierra?  ¿Cuáles son esas cosas que te hacen, que te bajan y te dan un poquito de tranquilidad? ",
+            "cosine_dist": 0.9773899411073569,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 613.578,
+            "end_time": 614.839,
+            "text": "Mira, yo lo definí... ",
+            "cosine_dist": 0.8773424702166025,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 614.859,
+            "end_time": 616.68,
+            "text": "Aparte de esta música clásica que acabas de nombrar. ",
+            "cosine_dist": 0.9634109131050548,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 617.22,
+            "end_time": 654.465,
+            "text": "Sí, pero vos sabés que el problema con la lírica es que necesitas mucho tiempo.  A mí no me gusta ver una ópera, fraccionarla y de repente eso son dos horas, tres horas.  Yo antes iba al Colón, iba a la Avenida, me miraba las óperas, pero ese plan, por ejemplo, implica cinco horas.  No las tengo.  Ni siquiera, de hecho yo volví a escuchar el rock and roll, básicamente porque son pastillas de tres minutos, por decirlo de alguna manera, y no, o sea, de repente, qué sé yo, me pongo a escuchar una ópera y son dos horas, tres horas, entonces no tengo ese tiempo. ",
+            "cosine_dist": 0.40294410324552155,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 654.785,
+            "end_time": 656.367,
+            "text": "¿Tenés poco tiempo como de cables de...? ",
+            "cosine_dist": 0.9319915231248657,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 657.09,
+            "end_time": 671.898,
+            "text": "Sí, bueno, ahora de hecho trabajo de seis a veinticuatro todos los días.  ¿Seis de la mañana te levantás o ya estás laburando?  No, me levanto para sacar a pasear a los chicos.  Porque los chicos a las seis de la mañana piden salir a hacer sus cosas.  Y como son muy grandes... ",
+            "cosine_dist": 0.4593422439080369,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 671.918,
+            "end_time": 674.04,
+            "text": "Las cosas son grandes. ",
+            "cosine_dist": 0.9165578757947473,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 674.06,
+            "end_time": 718.231,
+            "text": "Claro, chicos grandes, cosas grandes.  Entonces... Yo lo dije y eso lo expliqué en una nota que me hizo recientemente Ale Fantino, una nota verdaderamente maravillosa, porque también salió por otro lado, que es cuando yo le hablo de lo que es mi fórmula de la felicidad y cómo yo llegué a eso.  En términos matemáticos se llama condición de transversalidad, la forma de entenderlo fácil es Suponete lo siguiente, que mañana es tu último día en este lugar.  ¿Qué harías?  Ese ejercicio te obliga a situarte en el momento correcto.  A ir al fondo sobre tus preferencias. ",
+            "cosine_dist": 0.43986453544684445,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 718.391,
+            "end_time": 719.471,
+            "text": "Claro, lo que más querés. ",
+            "cosine_dist": 0.8042614781996185,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 719.751,
+            "end_time": 760.294,
+            "text": "¿Qué harías si fuera tu último día en la Tierra?  Y mirá, yo querría estar con Cari, con mis hijitos, o sea, con Conan, Murray, Milton, Robert y Lucas.  Y si me queda un rato, haría un poco de economía.  Imagina, o sea, tu prioridad siempre es... Entonces, claro, eso te obliga como ejercicio a ir a lo más profundo de tu sentimiento, de tu ser, digamos.  Entonces, ahora el ejercicio es válido para descubrir dónde está lo importante para vos.  Totalmente.  Ahora, la realidad es que, digo, yo tengo cincuenta y un años, o sea, en términos estadísticos, por lo menos me deberían quedar veintinueve años.  En términos estadísticos, o sea. ",
+            "cosine_dist": 0.39631483820628366,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 760534,
+            "end_time": 760974,
+            "text": "Más o menos, sí. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 761.514,
+            "end_time": 771.842,
+            "text": "Pone L, pero por decirlo de alguna manera.  Entonces yo no puedo hacer el ejercicio como si me voy a morir mañana.  ¿Por qué?  Porque hay que pagar las cuentas.  Claro. ",
+            "cosine_dist": 0.48252513634939864,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 772.382,
+            "end_time": 776.726,
+            "text": "No podés empezar de coda porque capaz que no te morís mañana. ",
+            "cosine_dist": 0.7638939950873853,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 777.226,
+            "end_time": 799.861,
+            "text": "¿Y qué hacemos entonces?  Entonces, ¿qué es lo que pasa?  Lo que vos haces es, entonces empezás a acomodar todo tus actividades para poder maximizar y disfrutar de la máxima manera estar con lo que para vos es importante.  ¿Me comprendés? ",
+            "cosine_dist": 0.4009397243616818,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 799.961,
+            "end_time": 805.263,
+            "text": "Totalmente.  Es situarse, como digo yo, en el momento que estamos viviendo, que es en el segundo que tenemos en este instante, que lo tenemos certero. ",
+            "cosine_dist": 0.9672945768295704,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 805.283,
+            "end_time": 820.269,
+            "text": "Y que si fuera el último, ahí tenés que empezar a pelar tus preferencias.  Exactamente.  ¿Qué es lo que harías?  Nosotros nos dieron un corto.  Sí, tenemos que hacer la pausa.  Estamos hablando con Javier Milei en casa, que nos encanta Javi.  Y vamos a seguir recorriendo.  ¿Podemos pedir media hora más? ",
+            "cosine_dist": 0.7843118102818287,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 820.309,
+            "end_time": 822.13,
+            "text": "Podemos hacer un poquito más. ",
+            "cosine_dist": 0.9109591653461828,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 822.45,
+            "end_time": 824.411,
+            "text": "Bueno, lo importante es que no se vayan. ",
+            "cosine_dist": 0.8376387761806636,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 824631,
+            "end_time": 824991,
+            "text": "Quédense ahí. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 826.205,
+            "end_time": 830.504,
+            "text": "Seguimos aquí en Los Andino en Casa con Javier.  Me dije, ¿en qué barrio naciste vos? ",
+            "cosine_dist": 0.8637381364341307,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 833.166,
+            "end_time": 866.504,
+            "text": "En Palermo.  Y después nos mudamos a Saes Peña, cerca de donde es la iglesia de Lourdes.  Vivíamos cerca de ahí.  Después, en la misma zona de Tres de Febrero, nos mudamos a Villarrafo, que era un barrio lindero a Devoto.  De un lado tenías Devoto, estaba la General Paz y del otro lado estaba... ¿Familia clase media?  No, no, arrancaron bastante más abajo, tanto mi papá como mi mamá. ",
+            "cosine_dist": 0.4361456078848214,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 866724,
+            "end_time": 867164,
+            "text": "¿Qué hacía él? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 867.344,
+            "end_time": 951.8,
+            "text": "A ver, mi papá, bueno, primero cuando mi papá tenía dos años, mis abuelos se separaron.  Y la tuvo que remar desde muy chiquito.  Mi papá trabajó desde muy chiquito.  A los tres años ya laburaba.  ¿A qué edad?  A los tres años.  A los cinco años ya repartía pedidos.  Porque en esa época no eran tan frecuentes los ascensores y entonces él era el que subía con el canasto.  O sea que toda una vida de laburo.  Y mi mamá, una historia bastante parecida en términos de mucho trabajo también, porque cuando mi abuela materna enviudó, ...bueno, tuvo que salir a parar la olla mi abuela... ...y no alcanzaba, entonces mi mamá... ...trabajaba de asistente en un consultorio odontológico... ...o sea desde los catorce años... ...o sea gente de mucho, mucho trabajo... Y la realidad es que todo lo que lograron, lo lograron a base de esfuerzo, porque cuando mi papá, después mi papá trabajó a un colectivo, o sea, mis padres se casaron muy jóvenes.  ¿Chofer de colectivo?  Sí.  Y entonces, por ejemplo, empezó trabajando en la Ciento Once y después pasó a la Veintiuno.  Y una de las cosas que... que tenía, digamos, es que el componente, el dueño del colectivo, dejaba trabajar para él los feriados. ",
+            "cosine_dist": 0.3920997944329593,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 951.86,
+            "end_time": 956.541,
+            "text": "Claro, esa platita se la llevaba tu hijo. ",
+            "cosine_dist": 0.6731370919969265,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 956.601,
+            "end_time": 965.084,
+            "text": "Exactamente, entonces mi mamá lo acompañaba en el colectivo, siempre digo, con termos de café y un fibrón negro. ",
+            "cosine_dist": 0.496127834136432,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 965.404,
+            "end_time": 972.43,
+            "text": "A ver, fibrón.  No, no, no, no, eso mi mamá, eso lo hacía mi mamá.  Y a vos esta cultura justamente del trabajo y del esfuerzo, ¿sentís que la heredaste? ",
+            "cosine_dist": 0.9010736412900444,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 972.45,
+            "end_time": 1058.051,
+            "text": "¿La tenés?  Yo creo que soy un tipo que trabaja bastante.  ¿Por vos querías?  ¿Desde la política?  Bueno, por eso, está bien, pero no quiero hacerme el autoculto.  Pero sí, yo soy una persona que trabaja mucho.  Lo que pasa es que hay un dicho que viene de la cultura, o un proverbio chino, que es muy bueno.  Dice... que tiene que ver con que si vos trabajás de lo que te gusta, vas a tener una vida fabulosa, porque estás haciendo lo que te gusta.  Y yo decidí ser economista por vocación, porque cuando yo tenía once años, que fue cuando yo decidí ser economista, o sea, yo decidí ser economista igual por las razones equivocadas, pero me apasioné por las razones correctas.  Eso pasó en el año ochenta y nueve.  Pero... Ochenta y nueve, Alfonsín, y la inflación.  Exactamente.  Entonces, ¿qué es lo que pasa?  Cuando yo tenía once años, eso fue en el ochenta y dos, yo cumplo en octubre años.  Entonces, o sea, tenía once años durante la mayor parte del año ochenta y dos. ",
+            "cosine_dist": 0.4417504750983089,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1058.091,
+            "end_time": 1060.372,
+            "text": "Veintidós de octubre de mil nueve setenta, por si quieren saber. ",
+            "cosine_dist": 0.8573093443642824,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1060.632,
+            "end_time": 1153.746,
+            "text": "Exacto.  Entonces, en ese contexto, ¿qué es lo que sucede?  Me... Vino lo que fue la tablita cambiaria, las frases de Sigol que cuesta el dólar pierde y todas esas cosas.  Que obviamente nadie perdió de los que aportaron el dólar.  Y yo lo que vi ahí fue todo un mecanismo de muy fuerte redistribución del ingreso.  Vi una situación muy complicada de gente que de estar bien pasó a estar mal.  Estaban todos los problemas de lo que fue la mil cincuenta.  Bueno, un montón de problemas.  Y en ese contexto... Y en ese contexto... Yo, con una visión materialista en ese momento, dije, bueno, en realidad, si yo quiero estar bien y para eso necesito tener plata, por decirlo de alguna manera, entonces necesito ser economista para eso.  O sea, cuando yo digo, elegí la carrera... Por las razones equivocadas.  O sea, las razones correctas las fueron cuando en el ochenta y nueve, en el medio de la perinflación de Alfonsín, en esa época fue cuando se pusieron los códigos de barra, pero no había códigos de barra.  Había unas chicas que pasaban con una pistola, parecía un ventilador, un secador de pelo, y con eso remarcaban los precios.  Y entonces yo estudiaba en la facultad que cuando los precios suben, la cantidad de demanda baja, y veía a las chicas remarcando la mercadería y la gente se tiraba arriba de la mercadería.  Entonces dije, o lo que estoy estudiando está mal o soy un tonto.  Entonces ahí, que estaba en el plantel profesional de Chacarita, decidí dejar de jugar al fútbol y me dediqué a estudiar.  ¿De qué juegas?  El arquero. ",
+            "cosine_dist": 0.3840836357255206,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1153.766,
+            "end_time": 1159.228,
+            "text": "Por eso cuando mandas, cuando whatsappeamos y mandas el arquero, esa es la foto tuya.  Ese soy yo.  Y en ese contexto... ",
+            "cosine_dist": 0.9042419138024469,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1159.248,
+            "end_time": 1162.869,
+            "text": "Eso te disparó a decir, para acá tengo que hacer algo. ",
+            "cosine_dist": 0.9005786002865982,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1168404,
+            "end_time": 1168544,
+            "text": "Y ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1169.085,
+            "end_time": 1211.465,
+            "text": "mira, mi primer artículo académico lo escribí a los veinte años, se llamaba la hiperinflación y la distorsión de los mercados, o sea, era un artículo que hacía que se invirtiera la curva de oferta, entonces los sucesivos incrementos de demanda que venían de déficit fiscal financiado con emisión monetaria, lo que hacía es que subieran los precios y además la economía se contrajera.  Pero claro, porque me generó una obsesión casi patológica.  Yo, al margen de lo que me daban en la facultad, me iba y me encerraba en la biblioteca del Banco Central.  Entonces, buscaba por índice de temático, entonces, inflación y todo lo que había.  lo pedía y me lo leía.  Lo pedía y me lo leía.  Lo que me podía llevar me lo llevaba y lo que no, lo leía en la biblioteca del Banco Central. ",
+            "cosine_dist": 0.42411720824299426,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1212.266,
+            "end_time": 1231.982,
+            "text": "Ahora, Javier, después vino el uno a uno, en donde podés encontrar una legión de personas que te dicen, yo me quedé afuera del sistema, mi menem me quedó.  Sin embargo, muchos te van a decir, hoy... haciendo un revisionismo de lo que vino después, valga la redundancia, te lo destacan.  ¿Para vos fue el mejor gobierno desde el aprendimiento de la democracia? ",
+            "cosine_dist": 0.8223007147619834,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1232.002,
+            "end_time": 1234.243,
+            "text": "Para mí fue el mejor gobierno de la historia. ",
+            "cosine_dist": 0.8850288058614778,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1234.884,
+            "end_time": 1237.245,
+            "text": "¿De la historia?  ¿De la República Argentina? ",
+            "cosine_dist": 0.7602794758468854,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1237.265,
+            "end_time": 1400.028,
+            "text": "¿El por?  qué?  Claro, hay un artículo que se llama Paz in the Back, que es de Gerardo de la Paulera, un historiador, un economista historiador que además estudió en Chicago, Bosoli e Irigoyen, que se llama Passing the Buck.  Aparte estoy súper orgulloso porque le acaban de dar un premio a los autores porque superaron un artículo académico de historia a las veinte mil lecturas.  O sea, con lo cual estoy contentísimo que pase eso.  Y lo interesante es que ellos utilizan algo que se llama índice de presión macroeconómica de un economista que se llama Robert Barro y eso te permite comparar todos los gobiernos de la historia.  Entonces el primer gobierno de Menem queda primero y el segundo gobierno de Menem, que están criticados, queda tercero.  Y como le criticaban el tema de la joya de la abuela por las privatizaciones y todo eso, lo que sucede es que ellos corrigieron el indicador para penalizar a los gobiernos de Menem sacándole el efecto fiscal de las privatizaciones.  Y aún así, el primer gobierno sigue siendo el mejor gobierno en la historia y el segundo cae al sexto lugar.  Con lo cual, yo no tengo dudas de eso.  Y después, cuando partió el Carlos, yo hice tres reportajes.  De hecho, estábamos en medio de la pandemia.  Entonces hice uno con Gerardo de la Pablera, uno de los autores de este artículo, otro con Carlos Rodríguez, que fue el viceministro de Economía de Roque Fernández, y con Domingo Cavallo.  Y una de las cosas que dice Gerardo, o Sherry, dice, es más, el índice es bastante pobre.  Dice, si vos incorporaras además toda la desregulación que hubo, muchísimo mejor sería todavía.  Entonces, la realidad es que... Hay varias cuestiones por las cuales se demonizó la década del noventa.  Son temas muy complicados.  Yo creo que todavía esas heridas están abiertas.  Y entonces en ese contexto todavía es como suena cada vez menos, pero como que estás pensando fuera de la caja.  Y yo vivo pensando fuera de la caja.  Entonces, porque todos dicen, no, la convertibilidad fue nefasta.  Y la pregunta es, ¿cuál fue la época de menos inflación de Argentina en la historia?  Durante la convertibilidad, ¿no?  Estamos hablando con Banco Central.  O sea, el Banco Central lo creamos en mil nueve treinta y cinco.  Los primeros diez años que el Banco Central era mitad público y la mitad privado, la inflación promedio fue de seis por ciento.  Para esa época era altísima. ",
+            "cosine_dist": 0.3831440536289984,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1400.088,
+            "end_time": 1401.269,
+            "text": "En diez años, seis por ciento. ",
+            "cosine_dist": 0.7900603024668236,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1401.749,
+            "end_time": 1408.592,
+            "text": "Seis por ciento anual.  Anual.  Era enorme.  Pensá que Argentina venía de cero coma nueve por ciento de inflación anual.  O sea, un número enorme. ",
+            "cosine_dist": 0.5615150271300526,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1408753,
+            "end_time": 1409113,
+            "text": "Sí, sí, sí. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1409.853,
+            "end_time": 1455.784,
+            "text": "De ahí, en mil cun nueve cuarenta y seis se nacionaliza el Banco Central, hasta mil nueve noventa y uno, que es el repudio de la moneda.  Le quitamos tres y cero a la moneda, destrozamos cinco signos monetarios, tuvimos dos hiperinflaciones sin guerra, y después vino la convertibilidad.  Durante la convertibilidad vos tuviste nueve por ciento de inflación promedio, Pero todo a concentrar en el primer año y medio.  A partir de mil novecientos y trece, Argentina es el país con menos inflación del mundo.  Después le devuelven la navaja al mono asesino.  Entonces, durante el kirchnerismo, los primeros cuatro años, diez por ciento.  Los segundos cuatro años del régimen, veinte.  Los terceros, treinta.  Macri, cuarenta.  Y ahora, digamos, la inflación está viajando a una velocidad que ronda en el ochenta a cien por ciento.  ¿Se puede llegar a bajar esa tremenda inflación que tenemos? ",
+            "cosine_dist": 0.4228720374744013,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1455.984,
+            "end_time": 1457.684,
+            "text": "¿Hay herramientas?  ¿Hay posibilidades? ",
+            "cosine_dist": 0.986868857886935,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1458730,
+            "end_time": 1458931,
+            "text": "Sí. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1459.631,
+            "end_time": 1460.972,
+            "text": "Categóricas. ",
+            "cosine_dist": 0.9323301279447541,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1461.012,
+            "end_time": 1498.352,
+            "text": "Sí, sí, claramente.  El mundo logró domar la inflación.  El problema es que las lecciones para bajar la inflación en Argentina se las rechazan.  Entonces, es como que... El problema es que aún los propios economistas son parte del problema.  A ver, yo te cambio la pregunta.  ¿Te imaginas presidente primero?  Vamos así.  ¿Te imaginas presidente?  En mi presidencia voy a ir por una reforma monetaria y financiera que va a terminar eliminando el peso y va a matar la inflación.  No va a haber más inflación en Argentina.  Eso yo lo voy a hacer. ",
+            "cosine_dist": 0.39472052915493683,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1498.612,
+            "end_time": 1499.893,
+            "text": "¿Eliminando el peso? ",
+            "cosine_dist": 0.8607007798819557,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1499.913,
+            "end_time": 1564.438,
+            "text": "O sea, ¿dejaríamos de tener como moneda el peso?  Exactamente.  Te hago una pregunta.  O sea, esa sería una de las estrategias.  Claro.  Para poder lograrlo.  Porque, a ver, que esta es la parte... ¿Qué es la inflación?  Vos tenés dos acepciones de la inflación.  Una es que es la suba generalizada de precios.  Esa excepción es parcialmente cierta, tiene algunos problemas.  Y hay otra excepción que es que la inflación en realidad es la pérdida del poder adquisitivo del dinero.  Entonces, cuando vos aumentás la oferta de dinero por encima de la demanda de dinero, hay un exceso de oferta de dinero, entonces el poder adquisitivo del dinero, ¿qué tiene que pasar?  Caer.  ¿Cómo se manifiesta eso?  Y que cada vez necesitás más pesos para comprar los mismos bienes.  Fíjate esto, vos en el año dos mil uno, para comprar cien dólares, ¿cuántos pesos necesitabas?  Cien pesos.  Sí.  Hoy, con cien pesos, ¿qué compras?  Medio dólar.  Listo.  Se acabó, ¿me entendés?  O sea, es la pérdida de poder adquisitivo del peso.  O sea, eso es la inflación.  O sea, la pérdida de poder adquisitivo de tu moneda.  Entonces, si vos tu moneda la eliminás, no tenés más inflación.  ¿Por qué?  Porque la eliminaste. ",
+            "cosine_dist": 0.40394431054607804,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1564.878,
+            "end_time": 1573.122,
+            "text": "Bueno, hemos llegado al final, pero de la primera parte, del primer capítulo, no sé si decir del primer tiempo, como dijo Macri, Yo diría el primer capítulo. ",
+            "cosine_dist": 0.7562192722947165,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1573.162,
+            "end_time": 1574.403,
+            "text": "Vamos con el primer capítulo. ",
+            "cosine_dist": 0.9869712692207137,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1575.243,
+            "end_time": 1576.945,
+            "text": "Javi se queda, por.  supuesto. ",
+            "cosine_dist": 0.916566971854688,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1576.965,
+            "end_time": 1610.053,
+            "text": "Y ustedes, el próximo viernes a las diez de la noche por KZO, la segunda parte del reportaje a Javier Milei en los... Andino en Casa.  A la mierda, los malditos empresarios.  A la mierda, Sodomitas, el capital.  Basta de basura keynesiana, ha llegado el momento liberal.  Tenemos un líder y él es un gran rebelde. ",
+            "cosine_dist": 0.8111608125056342,
+            "is_target_speaker": false
+        }
+    ]
+}

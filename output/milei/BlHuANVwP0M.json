@@ -1,0 +1,471 @@
+{
+    "Index": 254,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "BlHuANVwP0M",
+    "url": "https://www.youtube.com/watch?v=BlHuANVwP0M",
+    "title": "MILEI SOBRE LAS DROGAS - Javier Milei en A dos voces 9/2/2022",
+    "duration": 1254.0,
+    "view_count": 528194,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 1",
+            "start_time": 0.06,
+            "end_time": 5.394,
+            "text": "Después vamos a hablar con Berni, ¿no?  ¿Qué posición tiene con respecto al tema de la droga en el narcotráfico? ",
+            "cosine_dist": 0.9025822836044536,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 5.574,
+            "end_time": 8.236,
+            "text": "Mire, justo lo tengo acá. ",
+            "cosine_dist": 0.878398057933742,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 8337,
+            "end_time": 8637,
+            "text": "Sí. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 8.677,
+            "end_time": 13.441,
+            "text": "Los vicios no son delitos.  ¡Es un milagro que aún estemos vivos! ",
+            "cosine_dist": 0.7540173035091786,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 13.822,
+            "end_time": 33.788,
+            "text": "Ocaña, vamos a Ocaña.  Ahí está Milei, está Hernán Lombardi, está Del Caño, está Berni por ahí, creo que sí.  Acá están las cartas de los políticos, después te las vamos a mostrar, ¿eh?  Le vamos a pedir a Hernán Lombardi o a De Caño que corten.  Y está Milay.  Milay, buenas noches.  ¿Cómo estás? ",
+            "cosine_dist": 0.9669598345558189,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 33.988,
+            "end_time": 35.149,
+            "text": "¿Qué tal, Marcelo?  ¿Cómo estás? ",
+            "cosine_dist": 0.8187852780712608,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 35.269,
+            "end_time": 42.354,
+            "text": "Bien, bueno, queríamos hablar... ¿Se puede manejar la economía sin reservas, como estamos ahora? ",
+            "cosine_dist": 0.9567969496073708,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 43.615,
+            "end_time": 47.898,
+            "text": "Bueno, para los burros e ignorantes, sí. ",
+            "cosine_dist": 0.6258911231688833,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 48398,
+            "end_time": 48599,
+            "text": "Sí. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 49.059,
+            "end_time": 122.268,
+            "text": "Digamos... Claro, para ellos no, porque ellos creen que el nivel de precios viene determinado por el tipo de cambio.  Eso es un problema de índole técnico, de ignorancia, de creer en la teoría objetivo del valor.  Donde vos, por ejemplo, determinás los precios por los costos, lo cual es una burrada.  Eso fue superado en mil ocho setenta y uno con Menger, con Jevons, con Balrao.  Además, si vos tuvieras tipo de cambio flexible, ¿cuánto necesitas tener de reserva?  Cero.  Tenés tipo de cambio flexible.  Ahora, este gobierno lo que quiere es tener tipo de cambio fijo.  emitir a mansalva para financiar el déficit fiscal.  y lo que no se da cuenta es que cuando aumenta la cantidad de dinero por encima de la demanda de dinero, ¿qué pasa?  Cae el poder adquisitivo del peso.  Esto quiere decir que todos los precios expresados en pesos, en unidades monetarias, suben.  El dólar es un precio más y sube como consecuencia de ello.  No es que en realidad cuando toco el tipo de cambio se modifican los precios.  Eso está mal.  hasta tiene un problema de inconsistencia matemática.  Porque si vos querés resolver un sistema de ecuaciones, digamos, los precios son las incógnitas, el tipo de cambio es una de esas incógnitas. ",
+            "cosine_dist": 0.39037173900252375,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 122.328,
+            "end_time": 124.971,
+            "text": "Cuando se refiere a los burros, ¿a qué se refiere Guzmán? ",
+            "cosine_dist": 1.01192438004554,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 125.771,
+            "end_time": 135.116,
+            "text": "Guzmán es parte de ese grupo de personas que sienten un desprecio por la teoría económica exasperante y un desconocimiento de la evidencia empírica feroz. ",
+            "cosine_dist": 0.46571380207730495,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 136.897,
+            "end_time": 140.399,
+            "text": "¿Y el partido de Mila?  ¿Y qué va a hacer cuando se trate el acuerdo con el fondo? ",
+            "cosine_dist": 0.992483377782242,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 140.639,
+            "end_time": 149.063,
+            "text": "Nosotros estamos en contra de eso.  Y he dado los fundamentos.  Fui el primero en señalar que no vamos a acompañar ese acuerdo.  Básicamente porque... ",
+            "cosine_dist": 0.4734552692892211,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 149.083,
+            "end_time": 150.003,
+            "text": "O sea, votan en contra. ",
+            "cosine_dist": 0.9210877069473944,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 150.424,
+            "end_time": 245.696,
+            "text": "Claro, porque tiene algunas cuestiones.  O sea, la primera es... tiene un problema de inconsistencia teórica.  Es decir, en la teoría económica hay algo que, por ejemplo, se llama el multiplicador del presupuesto equilibrado.  Usted lo sabe, Marcelo, es el modelo más básico de todo, puro ajuste de cantidades.  Y aún así, cuando usted aumenta el gasto público, el déficit fiscal sube, no cae, como dice el ministro Guzmán, que dice que él va a expandir el gasto público en términos reales, porque de hecho le piensa ganar a la inflación, porque piensa que sube en términos reales para seguir haciendo políticas fiscales expansivas.  Y en ese contexto... Él cree que el producto va a subir tanto que el déficit fiscal va a caer.  Eso, la teoría económica dice que es falso.  Ahora, cualquier persona, yo diría, bueno, a mí me importa un rábano la teoría económica, a mí me importa la evidencia empírica.  ¿Qué dice la evidencia empírica?  Que eso Argentina lo usó de los últimos ciento veintiún años durante ciento once.  Eso significa que Argentina debe ser el país más rico del mundo.  Hoy el tipo de cambio oficial es en torno al setenta, un poquito más bajo, y el paralelo somos ciento treinta.  O sea, es un escándalo de decadencia.  No solo eso, como consecuencia de estas políticas fiscales desparatadas que vivimos, o sea, y de despilfarro que vivimos.  Eso hizo que desde el inicio del siglo XX hasta hoy tuvimos diecisiete crisis.  De esas diecisiete crisis, quince tienen origen en el déficit fiscal.  Y ese delirio que tenemos con la política fiscal, desde el año cincuenta en adelante, hizo que la mitad del tiempo viviéramos en recesión.  Y hoy tenemos cuarenta y dos por ciento de pobres y once por ciento de indigentes.  Vamos, ¿hasta dónde queremos ir con este modelo? ",
+            "cosine_dist": 0.4081590259499063,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 246.056,
+            "end_time": 250.44,
+            "text": "Pero, Javier, Máximo dice que es demasiado ajuste el acuerdo. ",
+            "cosine_dist": 0.9497020236491499,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 250.82,
+            "end_time": 295.375,
+            "text": "Bueno, ahí hay dos cosas, si usted me lo permite.  Hay una dimensión, que es cómo se ve el problema del FMI, y hay otro problema que tiene que ver qué se discute en el ajuste.  Esta es la parte sustancial.  Por un lado... Fíjese que usted recuerda lo que pasó en el dos mil uno, dos mil dos.  O sea, había una crítica feroz sobre el Fondo Monetario Internacional, tanto domésticamente como internacionalmente.  Y acá que decían, no, el fondo es muy duro.  ¿Y qué decían afuera?  El problema con el Fondo Monetario Internacional es que es muy laxo.  Yo le voy a decir algo.  Yo desprecio la institución del Fondo Monetario Internacional.  Le voy a explicar por.  qué.  Porque el Fondo Monetario Internacional es el invento de dos personas nefastas.  Una es White, que era un espía ruso, ¿sí? ",
+            "cosine_dist": 0.41721486814379116,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 295.675,
+            "end_time": 297.536,
+            "text": "Y otro... Es Keynes.  Keynes. ",
+            "cosine_dist": 0.8543848827057672,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 297.756,
+            "end_time": 328.73,
+            "text": "O sea, con lo cual imagínese que digo, o sea... No, pero aparte hay un problema que se llama riesgo moral o moral hazard, ¿sí?  Que tiene que ver con esto.  Digo, viene un gobierno, hace un desastre, cuando no consigue financiamiento y termina el FMI, ¿qué es lo que pasa?  El FMI termina salvando a un gobierno desastroso de repente.  Fíjese lo que hace con este gobierno.  Y como sabe que este gobierno no tiene credibilidad, no tiene reputación, es un impresentable total.  este gobierno, ¿qué hace?  Le transfiere directamente el ajuste al próximo gobierno.  Una locura, es demencial. ",
+            "cosine_dist": 0.423373416140818,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 328.81,
+            "end_time": 333.093,
+            "text": "¿Usted piensa que este es como un acuerdo puente para... ",
+            "cosine_dist": 0.8786452685205077,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 333.253,
+            "end_time": 341.856,
+            "text": "Obviamente, porque este gobierno ha mostrado que no solo no tiene solvencia para pagar, sino que además no tiene... Voluntad de pago. ",
+            "cosine_dist": 0.5153032088443472,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 342.737,
+            "end_time": 345.962,
+            "text": "O sea, el martes trece lo va a tener que arreglar el próximo gobierno. ",
+            "cosine_dist": 0.9316028455930563,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 346.362,
+            "end_time": 496.54,
+            "text": "Exactamente.  Sí, sí, este gobierno no lo va a arreglar, o sea, si no lo empeora.  Ahora, vamos a esta parte.  ¿Qué es lo que se está discutiendo hoy?  Es decir, ¿cuál es el punto... de la cámpora, por decirlo de alguna manera.  El punto de la cámpora es que el ajuste lo pague el fondo, es decir, que lo pague el acreedor.  Es decir, vos desfalteás, lo paga el acreedor.  Digo, Argentina tiene gran experiencia, Argentina es el máximo desfalteador serial de la época moderna.  Más que Ecuador, o sea, ya le ganamos a Ecuador, estamos para sacarle unos cuerpos, ahí estamos tomando impulso.  Eso es por.  un.  lado.  Entonces dice que lo pagan los acreedores.  Bueno, digo, eso implica tasas de interés astronómicas, después la economía no crece, no acumula capital, hay más pobres, más indigentes, un desastre, pero no importa.  Se equivocan la cámpora en eso.  ¿Por qué?  Porque cuando uno no le paga el fondo, ¿qué va a pasar con el precio de los bonos?  Se va a destruir.  Eso significa que el riesgo país se va a la estratosfera.  Eso te destruye la inversión, destruye la creación de puestos de trabajo, destruye los salarios reales.  Hay una multiplicación de pobres indigentes.  O sea, que creen que lo va a pagar el fondo y lo termina pagando... La gente.  La gente, por más que... La gente, digo, el ápero Macri... Queda pero Macri.  Son ustedes que son unos inútiles.  Llevan dos años para arreglar esto y no lo hicieron.  Primer punto.  ¿Qué es lo que propone el ala moderada del gobierno y la oposición, digamos que no somos los liberales libertarios?  Que hay que hacer el acuerdo.  Ahora, ¿el acuerdo de quién paga el ajuste?  O sea, porque lo que hay que hacer es poner las cuentas fiscales en orden.  El tema es quién paga el ajuste.  El programa que manda el gobierno hace que el ajuste lo pague el sector privado.  O sea, además de la inconsistencia macroeconómica, está el problema de que quiere que lo pague el sector privado.  ¿Cómo?  apretando con la AFIP y además bajándole transferencias al sector privado.  Yo no estoy de acuerdo con eso.  Yo no estoy de acuerdo.  Para mí el ajuste no lo tiene que pagar el sector privado, lo tiene que pagar la política.  Ejemplo, se puede, por ejemplo, fíjese esto.  ¿Sabe que usted le podría duplicar los ingresos a las compañías sin tocar la tarifa?  Es interesante, porque no hay que cometer el error que cometió Aranguren de cargar todo sobre las tarifas.  Lo que hay que hacer es recalibrar la ecuación económica financiera del contrato.  Entonces yo, por ejemplo, le puedo incrementar los ingresos, se los puedo duplicar a las compañías.  ¿Sabe qué?  ¿Usted vio la boleta cuando viene?  La mitad son impuestos.  Elimine los impuestos.  Elimine los impuestos a las... ",
+            "cosine_dist": 0.3804993132671296,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 496.74,
+            "end_time": 498.362,
+            "text": "Ahí el Estado se va a quedar sin financiación. ",
+            "cosine_dist": 1.0879143415180286,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 499.162,
+            "end_time": 511.347,
+            "text": "Entonces lo tiene que pagar la política.  Entonces el dilema es esto o que lo pague la política o que estalle.  Y que cuando estalle se lleve puesto a la maldita casta política ladrona que nos está arruinando la vida. ",
+            "cosine_dist": 0.4357475793987402,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 512.386,
+            "end_time": 522.15,
+            "text": "¿Y puede estallar la economía ahora en el corto plazo?  O como dijo Alberto, con el acuerdo evitamos un feriado cambiario... ",
+            "cosine_dist": 0.830811502355215,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 523.26,
+            "end_time": 573.457,
+            "text": "A ver, el problema es que el modelo que tiene el gobierno es inconsistente.  Si usted hace déficit fiscal, no puede financiar con más impuestos.  No lo puede financiar con endeudamiento.  ¿Con qué lo va a financiar?  Emisión monetaria.  O sea, vamos a seguir dándole a la maquinita a lo loco.  Y entonces, ¿qué va a pasar?  Va a generarse un exceso de oferta de dinero porque además nadie quiere tener los pesos en el bolsillo.  Entonces, ¿qué es lo que pasa?  Va a caer el poder adquisitivo del dinero.  Entonces, como el dólar es un activo financiero, ¿usted qué hace?  Va y compra dólares.  ¿Eso qué hace?  Aumenta la brecha.  ¿Cuál es el problema de la brecha?  El problema técnico.  Esto es un poquito técnico, pero espero tratar de ser claro.  Usted genera un exceso de demanda.  Cuando usted tiene un exceso de demanda, quiere decir que en el resto de la economía hay un exceso de oferta.  Por ejemplo, ¿qué significa en el mercado de bonos?  Que se destruye el precio de los bonos, es decir, el riesgo país por la estratosfera.  ¿Sabe cuánto tiene de riesgo país Ucrania? ",
+            "cosine_dist": 0.36357765448563206,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 575.007,
+            "end_time": 575.787,
+            "text": "No, pero... ",
+            "cosine_dist": 0.9962629282280272,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 575.807,
+            "end_time": 578.948,
+            "text": "Está, Dios, Dios, tiene a los rusos a punto de una guerra. ",
+            "cosine_dist": 0.7889064582160928,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 578.968,
+            "end_time": 579.968,
+            "text": "Menor que Argentina es seguro. ",
+            "cosine_dist": 1.0345063233359946,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 580.588,
+            "end_time": 622.086,
+            "text": "Tiene ochocientos puntos de riesgo país.  ¿Sabe cuánto tiene Argentina?  Casi tres mil.  En la punta corta.  Vamos.  O sea, está claro el problema, ¿no?  O sea, somos más riesgosos que Ucrania.  Que tienen a los rusos a punto de romperlos todo.  Que esperemos que no suceda.  A ver, no solo eso, eso implica que se le va a destruir la inversión.  Argentina, para poder mantener el stock de capital, necesita por lo menos una inversión de seis puntos del PBI.  Ese nivel de inversión no se alcanza.  desde el segundo gobierno de Cristina Fernández de Kirchner.  O sea, imagínese, o sea, con lo cual nosotros por eso cada vez somos más pobres.  Eso implica menos puestos de trabajo, menores salarios reales, tenemos los mismos salarios reales del dos mil tres, más pobres y más indigentes. ",
+            "cosine_dist": 0.38437471749473917,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 622.126,
+            "end_time": 640.719,
+            "text": "Pero lo que es cierto, Milay, que, digamos, el gobierno, usted manifiesta todos los errores, pero el gobierno, no es la última, pero viene ganando elecciones, digamos, el kirchnerismo de los últimos veinte años.  O sea, Cristina también hizo una política económica rara y terminó, digamos. ",
+            "cosine_dist": 0.9086129657214297,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 640.759,
+            "end_time": 642.219,
+            "text": "Bueno, porque, a ver... ",
+            "cosine_dist": 0.6941118836270822,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 642.239,
+            "end_time": 644.479,
+            "text": "Es como que se añora esos años. ",
+            "cosine_dist": 1.0340290650719843,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 645.44,
+            "end_time": 711.019,
+            "text": "Lo voy a tratar de hacer con un ejemplo, porque esto lo va a clarificar mucho.  Porque yo le digo, ¿sabe lo que pasa?  Marcelo, se consumieron el capital.  Y en algún momento un economista dijo una estupidez, dijo, vivieron en una ficción.  Digo, si yo me compré un auto, una heladera, una casa, lo que fuera, ¿qué ficción?  Lo toco ahí, me compré la mesa, está acá.  Acá.  ¿Cómo me compré la mesa?  Ese es el punto.  Es decir, no es una ficción.  Lo que pasa es que nos comimos el capital.  Suponga lo siguiente.  Usted tiene un departamento.  Sí.  ¿Sí?  Entonces, ¿qué hace?  Lo hipoteca.  ¿Qué le están dando?  Plata.  Entonces, usted agarra la plata y se la patina todo en Europa.  Cuando no tiene... Hace un mango, ¿qué hace?  Se vuelve.  Cuando ustedes se vuelven, lo están por ejecutar.  Usted se quedó sin trabajo, no tiene un mango... ¿Qué va a pasar?  Le van a ejecutar la casa.  Va a quedar sin casa, va a quedar sin trabajo y va a quedar en la calle.  Y usted va a decir, ah, bueno, pero antes estábamos mejor.  Sí, claro, nos estábamos comiendo el capital.  ¿Sabe cuál es el problema?  Nos comimos el capital.  ¿Sabe qué?  Nuestra productividad se está destruyendo. ",
+            "cosine_dist": 0.4061798083201248,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 711.239,
+            "end_time": 711.96,
+            "text": "No tenemos nada. ",
+            "cosine_dist": 0.828423365984923,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 712.24,
+            "end_time": 745.574,
+            "text": "¿Sabe qué?  Hoy tenemos un PBI per cápita que está, digamos, catorce por ciento debajo del que teníamos en el dos mil once.  Está en el nivel de mil nueve setenta y tres.  La productividad está en los niveles del año cincuenta.  Es decir, esto es un escándalo.  Es decir, se comieron el capital.  Con esta locura de que en realidad hace, digamos, keynesiana, de que... No sé si los veo, porque aparte lo dicen tanto lo de... el oficialismo como una parte de la oposición.  Digamos, usted tiene un... ",
+            "cosine_dist": 0.37560565618200104,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 745.754,
+            "end_time": 746.795,
+            "text": "Es junto por el cambio. ",
+            "cosine_dist": 0.9588140281153846,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 747.235,
+            "end_time": 813.486,
+            "text": "Sí, digamos, de hecho tiene a alguien con muchas aspiraciones que dice, no, bueno, porque en realidad, digamos, esto de estimular el gasto público y el consumo, digamos, genera nuevos, más ingresos y genera más impuestos y permite hacer... No funciona.  Eso solamente destruye riqueza.  Y ese es el caso argentino.  O sea, le dieron tanta rosca al... O sea, uno no crece por acumular consumo, o por darle rosca al consumo.  Crece acumulando capital físico, capital humano y tecnología.  Y eso se hace invirtiendo.  Ya sea invirtiendo... En los fierros, o sea, en los capitales físicos, que para eso es el que tiene que tener rentabilidad.  Con esta presión impositiva es imposible.  Y lo que tiene que ver con el capital humano depende de dos cosas, fundamentalmente.  Que la gente coma.  bien y que la gente se eduque.  En Argentina, digamos, los resultados de la educación son deplorables y además ya no les alcanza ni para morfar a los chicos.  O sea, dos tercios de los chicos no le alcanza para comer.  Es decir, estamos mal y vamos muchísimo peor. ",
+            "cosine_dist": 0.3812065440312833,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 815.788,
+            "end_time": 828.394,
+            "text": "Emile, después vamos a hablar con Bernie, ¿no?  ¿Qué posición tiene con respecto al tema de la droga, el narcotráfico?  ¿Usted liberaría, blanquearía el tema o no? ",
+            "cosine_dist": 0.8878689676866658,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 828.994,
+            "end_time": 829.895,
+            "text": "El punto, digamos... ",
+            "cosine_dist": 0.799519020455902,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 830.315,
+            "end_time": 830.995,
+            "text": "El consumo, ¿no? ",
+            "cosine_dist": 1.046268785907827,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 831.715,
+            "end_time": 837.058,
+            "text": "A ver, lo primero que... Mire, justo lo tengo acá. ",
+            "cosine_dist": 0.7633038229758806,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 837.078,
+            "end_time": 838.819,
+            "text": "Sí, los vicios. ",
+            "cosine_dist": 1.0960938233434099,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 838.859,
+            "end_time": 1013.298,
+            "text": "Los vicios no son delitos.  Hay que entender eso.  Primer punto.  Ahora, ¿cómo funciona esto?  Esto es lo importante.  La pregunta es, ¿usted vive en el mundo del anarcocapitalismo?  No.  O sea, usted tiene estado.  No solo que tiene estado, sino que además tiene estado de bienestar.  Que además se ocupa de la salud, lo hace pésimamente, pero se ocupa de la salud.  Acá la clave es que si usted, por ejemplo, si usted decide suicidarse, lo decide hacer suicidándose en cuotas, que es drogarse, a mí no me molesta, usted haga lo que quiera.  O sea, por mí, si usted se quiere suicidar, hágalo.  No, digamos, yo le voy a decir, mire, no lo haga, va su familia, se va a sentir mal, sus amigos se van a sentir mal.  Usted, digamos, o sea, mire, se pierde lo maravilloso que es la vida, pero usted dice, no, yo no quiero.  Bueno, listo, ok.  O sea, es una decisión personal.  Como liberal, que yo creo en el respeto irrestricto del proyecto de vida del prójimo, avanzado en el principio de una agresión y en defensa del derecho a la vida, la libertad de la propiedad, usted podría hacer lo que quiera.  ¿Qué es lo que pasa?  Ese es el mundo narcocapitalista.  En ese mundo no existe Estado.  Usted toma la decisión y usted se acarga del costo.  ¿Cuál es el problema cuando hay Estado?  Cuando hay Estado, quiere decir que hay que ese droga... Me está pasando la cuenta a mí.  Y ahí es donde se pudre todo.  Es decir, la inconsistencia del oficialismo radica en que quiere drogas como si fuera un mundo narcocapitalista... O sea, un mundo sin Estado, pero quiere Estado presente.  Eso es una estupidez del tamaño de una casa.  Propio de las imbecilidades de este gobierno, un gobierno que es tan imbécil que va a otros, le pide la escupidera a Estados Unidos y va a otros países y le pide, va y le habla mal de Estados Unidos.  No solo eso, sino que además le dice a Rusia que somos la puerta para América Latina, es decir, para cumplir el sueño del Foro de San Pablo de la Unión Soviética Latinoamericana.  Es decir, un modelo de país que fue un fracaso en lo económico, en lo social, en lo cultural, y además asesinaron a unos ciento cincuenta millones de seres humanos.  No solo eso, sino que después va a China.  Va y hace una defensa encendida de ese modelo, porque dice que se siente identificado el presidente con ese modelo inmundo, empobrecedor y asesino.  le rinde honores a un tipo que mató a setenta y ocho millones de seres humanos digo nosotros digamos o sea es un milagro que aún estemos vivos.  Digo, porque están destrozando el país.  O sea, es gracioso cuando el jefe de gabinete, no, ahora... Canciller.  Canciller dice, no, porque el mundo está interesado en las cosas que dice Alberto Fernández.  ¿Sabe qué le diría yo, Marcelo?  Yo también estaría interesado, porque no puedo creer la cantidad de estupideces que dice.  Es decir, nadie en el mundo racional, nadie va a comprender lo que está diciendo ese hombre. ",
+            "cosine_dist": 0.4421202635883028,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1014.859,
+            "end_time": 1042.974,
+            "text": "Milenio, y hoy veo que esto está atado obviamente al tema del fondo, se está hablando de pasar a la capital el tema de los colectivos, y en un ratito vamos a hablar con Jorge Macri, pero se habla, en definitiva lo que está atrás es un ajuste de las tarifas, a ver a quién le pone el gancho, ¿no?  Bueno, usted es legislador por la capital, ¿hay que traspasarlo, hay que bancarse? ",
+            "cosine_dist": 0.8333030119767179,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1043.859,
+            "end_time": 1121.273,
+            "text": "Vamos a ponerlo en otros términos.  Si yo estuviera en otra posición, yo digamos, o sea, dado el maltrato que recibe la ciudad autónoma de Buenos Aires, o sea, yo soy partidario de volver a la constitución de al verde original, que no haya coparticipación.  Que cada provincia, que cada, digamos, estado provincial, si usted quiere, llámenlo como usted quiera, se haga cargo de sus cuentas.  Entonces, porque esto, digamos, cuando se hizo el sistema de coparticipación y la versión de los años setenta, que se metió además la idea de la justicia social en la coparticipación, arruinaron todo.  Porque hay provincias que son beneficiarias netas, digamos, y hay provincias que son pagadores netos.  Digo, ¿el caso más escandaloso cuál es?  La ciudad autónoma de Buenos Aires.  O sea, si yo estuviera al frente de la ciudad autónoma de Buenos Aires, no me quedaría de manera tibia y llorando.  y cuando me tocan, digamos, la coparticipación, o sea, lo compenso rompiéndole la cabeza con impuestos a los porteños.  ¿Sí?  O sea, yo digo que tendría una posición muchísimo más extrema.  A punto tal, digo, o sea, ah, ok, ¿ustedes me quieren seguir perjudicando?  ¿Me quieren seguir arruinando la vida?  Bueno, buscaría la forma de cindirme. ",
+            "cosine_dist": 0.38052263584803614,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1123.317,
+            "end_time": 1125.658,
+            "text": "Oh, pero eso, eso armó un lío. ",
+            "cosine_dist": 0.9586427801098434,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1126.378,
+            "end_time": 1127.598,
+            "text": "Ah, y entonces que... ",
+            "cosine_dist": 0.7266437194683579,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1128.898,
+            "end_time": 1130.358,
+            "text": "Eso no es medio irrealizable. ",
+            "cosine_dist": 0.8286640744655751,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1131.179,
+            "end_time": 1174.115,
+            "text": "A ver, ¿y qué?  ¿Usted le parece que es un equilibrio realizable?  Supongo que usted tiene una hija y de repente hay alguien que tiene una adicción a tener violación a mujeres.  O sea, y su hija es víctima.  Entonces, ¿qué va a decir?  Y no, bueno, pero es una solución más radicalizada.  No, hay que terminar.  Hay que terminar, hay que terminar con el sistema de coparticipación, hay que barrerlo, hay que terminar con esto de que lo único que hace es beneficiar a los feudos inmundos como el de Formosa, como el de La Rioja, como el de Chaco, que además encima son los lugares que tienen mayores niveles de pobreza.  Es decir, son beneficiarios netos y tienen una explosión de pobreza.  Digo, ¿cómo funciona?  Ah, pero a los políticos les va bárbaro. ",
+            "cosine_dist": 0.4564841881590007,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1174.135,
+            "end_time": 1175.115,
+            "text": "Milay, gracias. ",
+            "cosine_dist": 1.014859351384406,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1175.155,
+            "end_time": 1175.756,
+            "text": "Gracias, Marcelo. ",
+            "cosine_dist": 0.75214851334846,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1175.776,
+            "end_time": 1178.057,
+            "text": "Amelo, déjelo, pero bueno, polémico eso usted. ",
+            "cosine_dist": 1.0322803185682377,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1179.998,
+            "end_time": 1219.549,
+            "text": "Nunca es dura la verdad.  Lo que no tiene es remedio.  Lo interesante es que en economía hay forma de salir.  Pero esa forma no es.  Ninguna solución desde la socialdemocracia hasta la izquierda.  La única solución es liberal.  Porque es la única que probó que... ¿Sabe qué?  La condición natural del hombre hasta que llegó el capitalismo era la pobreza.  Y cuando llegó el capitalismo vivían mil millones de seres humanos... Y había noventa y cinco por ciento de personas en pobreza extrema.  Antes de llegar a la pandemia, la cantidad de gente en el planeta Tierra se multiplicó casi por ocho veces y la pobreza extrema cayó a menos del cinco por ciento.  Punto para el liberalismo. ",
+            "cosine_dist": 0.396023732893235,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1220.089,
+            "end_time": 1253.839,
+            "text": "Gracias, Miley.  Ahora está Bernie.  Vamos a hablar en instantes con Bernie.  Está también Hernán Lombardi.  Está Ocaña.  Vamos a Ocaña.  A la mierda los malditos empresarios, a la mierda Sodomitas el capital.  Basta de basura que Inesiana, ha llegado el momento liberal.  Tenemos un líder y él es un gran rebelde. ",
+            "cosine_dist": 0.9442817446856632,
+            "is_target_speaker": false
+        }
+    ]
+}

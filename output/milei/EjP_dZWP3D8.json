@@ -1,0 +1,239 @@
+{
+    "Index": 227,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "EjP_dZWP3D8",
+    "url": "https://www.youtube.com/watch?v=EjP_dZWP3D8",
+    "title": "MILEI SE CRUZÓ FUERTE CON PERIODISTA K QUE LO COMPARÓ CON GUZMÁN - Milei en Diputados 23/3/2022",
+    "duration": 928.0,
+    "view_count": 165723,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 0",
+            "start_time": 0.06,
+            "end_time": 2.029,
+            "text": "Ahí tenés doce puntos de ajuste del PBI, ¿eh? ",
+            "cosine_dist": 0.6297261002827176,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2.049,
+            "end_time": 8.051,
+            "text": "Mucho de eso está en el acuerdo con el FMI, diputado, ¿eh?  ¿Cómo?  Mucho de lo que acaba de decir está en el memorándum económico que envió Guzmán. ",
+            "cosine_dist": 0.9716766096763114,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 8.071,
+            "end_time": 27.255,
+            "text": "No, eso es falso.  Eso no, eso es falso, discúlpame.  No tienen nada en.  común.  No sé, digamos, de dónde crees que puede tener algo en.  común.  De lo que yo digo, no tiene nada en común.  Oscila entre el ocho y el diez por ciento.  ¿Qué partes tengo en?  común?  Nada tengo en.  común.  Desprecio fuertemente ese argumento cuando dicen la inflación es multicausal.  No veo dónde hay algo en común en eso. ",
+            "cosine_dist": 0.4203422817043633,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 27.415,
+            "end_time": 48.791,
+            "text": "Y hace minutos nada más acaba de finalizar la reunión con los representantes de la Mesa de Enlace, junto con los diputados de la Libertad de Avanza.  Tengo a mi lado al diputado Javier Milei, quien muy amablemente va a compartir unas notas, unas palabras con nosotros.  Diputado, gracias por estar con nosotros en la materia de Diputados TV.  ¿Podrías contarnos, hacer un resumen, bueno, cuáles fueron los principales temas que se abordaron aquí con los representantes de la Mesa de Enlace? ",
+            "cosine_dist": 0.9037800886280355,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 49.111,
+            "end_time": 162.983,
+            "text": "Bueno, vinieron a contarnos sobre la problemática que están enfrentando en el sector, donde claramente el incremento de las retenciones es un problema.  Es más, las retenciones en sí mismas son un problema.  Hay un problema también muy grave que tiene el sector, que tiene que ver con el tema del tipo de cambio, el desdoblamiento cambiario, porque esos ingresos los perciben al tipo de cambio oficial y tienen que pagar sus insumos al tipo de cambio paralelo, lo cual, digamos, genera un problema económico enorme, sobre todo siendo que la brecha es del cien por ciento, tiene un problema de inestabilidad de las reglas jurídicas, porque justamente, es decir, ellos hacen la siembre y antes de cosechar, digamos, les cambian las reglas de juego, es como que a vos... Si pactás un trabajo, determinás qué ingresos vas a tener a fin de mes y una vez que vos ya estás trabajando, te cambian y te bajan el ingreso la mitad, lo cual es verdaderamente una situación tremendamente violenta la que sufre el sector y además está siendo fuertemente discriminado.  ...no sólo en lo económico por tener una presión fiscal en blanco... ...de más del sesenta por ciento, sino que además son víctimas... ...de ataques recurrentemente por distintos personajes... ...de la casta política, por lo tanto me parece que es una situación... ...extremadamente delicada y obviamente también están afectados... ...por la falta de crédito y por los efectos negativos de la inflación... ...y bueno, entonces en ese contexto nosotros hemos escuchado sus reclamos... También tienen los problemas del mercado laboral, tienen los problemas, digamos, del tema de los caminos y las distintas imposiciones que van teniendo para poder salir.  Por lo tanto, verdaderamente es un milagro que el sector del campo pueda aún sobrevivir con este maltrato que recibe por parte de la política en términos de política fiscal y monetaria. ",
+            "cosine_dist": 0.33478664447328554,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 163.523,
+            "end_time": 167.685,
+            "text": "Diputado Milei, ¿cómo le va?  Melina Flederman lo saluda.  Gracias por recibirnos un ratito. ",
+            "cosine_dist": 0.9660376315956472,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 168.065,
+            "end_time": 168.846,
+            "text": "¿Qué tal, Melina? ",
+            "cosine_dist": 0.8051119476563557,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 169.346,
+            "end_time": 182.973,
+            "text": "Mucho gusto.  ¿Qué tal?  Diputado, a ver, desde su experiencia y desde su campo de conocimiento, ¿qué se necesita hoy por hoy para que un hombre de campo tenga reglas claras y esa actividad sea más rentable? ",
+            "cosine_dist": 0.9285280600545576,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 185.76,
+            "end_time": 220.265,
+            "text": "Bueno, en principio le podés eliminar las retenciones y si hay algo... Y te digo, hoy por hoy es mucho más importante también el efecto que genera el desdoblamiento cambiario.  O sea, el tema del tipo de cambio oficial y el tipo de cambio paralelo.  O sea, pensá que cobran al oficial... Y tienen que pagar al paralelo, eso genera un daño enorme, o sea, es un daño, digamos, verdaderamente sideral.  Así es que yo diría que en esas dos líneas, o sea, es lo que más le está destruyendo los beneficios al sector. ",
+            "cosine_dist": 0.3460185931220904,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 220.505,
+            "end_time": 228.391,
+            "text": "Pero si no desaparecieran las retenciones, ¿retenciones fijas, por ejemplo, podría ser una buena solución intermedia? ",
+            "cosine_dist": 0.9567505818050882,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 230.68,
+            "end_time": 269.015,
+            "text": "No, ningún impuesto es bueno.  Así es que, en realidad, hay que trabajar para eliminar los impuestos.  Aparte, si a este gobierno tanto le gusta hablar del modelo del export lead growth, o sea, el crecimiento liderado por las exportaciones, ¿vos me querés decir cómo es que pretenden crecer en base a las exportaciones y castigan a los sectores exportadores?  O sea, es un oxímono, es una contradicción.  Una contradicción.  O sea, al margen de que yo considere que es un mal modelo, o sea, que no tiene desde el punto de vista de la teoría y la evidencia empírica del crecimiento económico, está mal.  Pero, ok, si decidieron abrazarlo, bueno, por lo menos que mantengan la coherencia. ",
+            "cosine_dist": 0.36404070532435473,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 269.275,
+            "end_time": 272.056,
+            "text": "Diputado, ¿cómo le va?  Mauricio Cantando lo saluda.  ¿Qué tal? ",
+            "cosine_dist": 1.0264944654347754,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 273.276,
+            "end_time": 275.057,
+            "text": "¿Qué tal, Mauricio? ",
+            "cosine_dist": 0.6960623089495213,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 275.097,
+            "end_time": 301.796,
+            "text": "José Luis Esper pidió justamente esta mañana eliminar las retenciones a cero.  El resto de la oposición es bastante más gradual.  Dice que sería un agujero fiscal muy grande para el gobierno en el corto plazo y, juntos por el cambio y los bloques federales, plantear una gradualidad o hasta un traspaso a impuestos a las ganancias.  Si mañana eliminamos las retenciones, ese bache fiscal que sería inmediato, ¿cómo se cubriría?  ¿O no se cubriría y se podría ajustar?  ¿Qué cálculo tiene hecho usted? ",
+            "cosine_dist": 0.95254205227376,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 302.939,
+            "end_time": 332.235,
+            "text": "No, no, no, habría que bajar el gasto público.  El problema es que, digamos, juntos por el cambio, son iguales que el oficialismo y les encanta el gasto público.  Es decir, son espacios políticos donde ellos creen que pueden gastar los ingresos de la gente mejor que la propia gente.  Entonces, en ese sentido, claramente, hay que eliminar las retenciones, obviamente, y que bajen el gasto público.  El problema no son los que producen, el problema son los parásitos. ",
+            "cosine_dist": 0.38374800537930687,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 332.595,
+            "end_time": 336.199,
+            "text": "De lo que vio el presupuesto y pudo leer, ¿qué bajaría para compensar una baja grande? ",
+            "cosine_dist": 0.9593099276057553,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 336.219,
+            "end_time": 338.102,
+            "text": "Espera que se le cayó el auricular, no te va a escuchar. ",
+            "cosine_dist": 0.8695298507731223,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 338.162,
+            "end_time": 348.594,
+            "text": "Sí, de lo que vio el presupuesto, el presupuesto que finalmente no se aprobó, pero que es la pauta que tenía Martín Guzmán, y lo que se mermaría el ingreso sin las retenciones, ¿qué bajaría usted? ",
+            "cosine_dist": 0.9756434170808899,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 350.197,
+            "end_time": 419.502,
+            "text": "Bueno, por ejemplo, eliminaría de cuajo la obra pública, que es un lugar donde roban los políticos y son cerca de tres puntos del PBI.  Por ejemplo, eliminaría de cuajo las transferencias discrecionales de Nación a provincia y de provincia a municipio.  Son cerca de cinco puntos del PBI, donde es puro robo de la política.  Avanzaría sobre eliminar los subsidios al sector energético, pero recalibrando la ecuación económica financiera de los contratos... Y que en lugar de que el costo, digamos, lo que quede remanente en términos de suba de tarifa, lo enfrente el Estado con reducción de impuestos.  O, por ejemplo, eliminar las empresas públicas y se las pasaríamos directamente a los empleados.  O sea, así nos genera más déficit.  Y otra cosa también que habría que eliminar son las jubilaciones de privilegio, porque, digamos... Las que quedan representan cero punto siete del PBI.  Es decir, es un impacto similar al déficit de todas las empresas del sector público.  Diputado José Di Mauro.  Ahí tenés doce puntos del PBI de ajuste.  Ahí tenés doce puntos de ajuste del PBI, ¿eh?  Así que mirá si tienen... Pero ¿sabés cuál es el problema?  El problema es que tienen que dejar de robar... ",
+            "cosine_dist": 0.33312144206563865,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 419.522,
+            "end_time": 424.225,
+            "text": "Mucho de eso está en el acuerdo con el FMI, diputado, ¿eh?  Mucho de lo que acabo de decir. ",
+            "cosine_dist": 0.9935205530206876,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 424445,
+            "end_time": 424845,
+            "text": "¿Cómo? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 424.865,
+            "end_time": 429.867,
+            "text": "Mucho de lo que acaba de decir está en el memorándum económico que envió Guzmán. ",
+            "cosine_dist": 1.0142137211407207,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 429.887,
+            "end_time": 582.391,
+            "text": "Transferencias a provincias... No, eso es falso.  Eso no, eso es falso, discúlpame.  Lo que mandó Guzmán y acordó con el FMI tiene varios problemas y por eso, digamos, y la libertad avanza, votamos en contra del presupuesto y votamos en contra de este artículo de financiamiento, digamos... Sí, por eso.  Hay inconsistencias teóricas, hay inconsistencias empíricas, hay errores de diseño y además... es un entramado absolutamente inmoral.  Por lo tanto, no tiene nada en.  común.  No sé de dónde crees que puede tener algo en.  común.  Y aparte, este último, cuando votan el financiamiento, no solo que miente, porque al incrementar la deuda, implica mayores impuestos futuros, sino que además hay una inconsistencia de índole técnica, porque... el financiamiento que vos aprobas tiene como contrapartida justamente un presupuesto.  Es decir, entonces, digamos que muchos no sepan que es la partida doble o que la ignoren o que Miren para otro lado, no quita que ese financiamiento tiene como contrapartida un presupuesto que estaba plagado de inconsistencias como las que acabo de mencionar.  Por lo tanto, de lo que yo digo, no tiene nada en.  común.  Es más, te voy a hacer un punto adicional de la aberración.  Cuando vos haces una proyección, tiene que pasar, cuando vos dejas el modelo simulando, tiene que pasar por el cumplimiento de la condición de solvencia intertemporal, que es decir, que el gobierno pueda pagar.  ¿Y sabes qué?  Con la relación deuda-producto que tiene el gobierno, con... El crecimiento que asumió Guzmán de dos por ciento y con el superior primario de uno por ciento, Argentina solamente podría cumplir esa constitución si la tasa de interés en dólares fuera el tres por ciento.  Hoy la tasa de Argentina en la punta corta, treinta y uno por ciento.  Si tomo el promedio, es veinticuatro.  Y si tomo el promedio histórico, oscila entre el ocho y el diez por ciento.  ¿Qué partes tengo en?  común?  Nada tengo en.  común.  Digamos, he criticado fuertemente todas las aberraciones.  O sea, es más, desprecio fuertemente ese argumento cuando dicen la inflación es multicausal.  Sí, las causas que terminan, digamos, por las cuales se emiten, por gasto público en esto, por gasto público en otro, por gasto público en otro.  Es decir, por lo tanto, no veo dónde, digamos, o sea, hay algo en común en eso.  Ok.  Diputado, muchas gracias por este contacto con nosotros.  Cuando quiera lo invitamos aquí al piso.  No.  Por favor, ha sido un verdadero gusto.  Gracias a ustedes. ",
+            "cosine_dist": 0.3163819062853864,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 582.411,
+            "end_time": 585.751,
+            "text": "Muchas gracias.  Muy amable también a Lucena que nos permitió hablar con el diputado Milei. ",
+            "cosine_dist": 0.9794702945756568,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 585.791,
+            "end_time": 836.367,
+            "text": "Está junto a Javier Milei también.  Exactamente, Eleonora, Paulino, ¿cómo están?  Ha terminado la reunión que han tenido Javier Milei con la mesa de enlace.  Bueno, primero preguntarles qué conclusión han sacado de esta reunión.  Estuvieron aproximadamente más de una hora charlando.  Bueno, en realidad hemos tenido una charla en la cual el sector nos ha manifestado sus problemas, el trato discriminatorio, cómo son atacados, cómo son perseguidos, y obviamente que eso además lo hacen con la política fiscal, o sea, claramente hay un problema con el tema de las retenciones, que es claramente un avance sobre el derecho de propiedad.  ¿Es ilegal?  Para mí, obviamente, los impuestos.  se supone que los debería generar la Cámara de Diputados, porque justamente son los representantes del pueblo.  De hecho, en su momento hemos enviado un proyecto justamente para eliminar los artículos del código aduanero, que es lo que utiliza el Ejecutivo para cobrar estos impuestos.  y que se discuta en la Cámara y que se saque la careta.  Pero también, digamos, el sector es castigado fuertemente con los problemas de controles en el mercado cambiario, donde la brecha cambiaria les destruye la secuación económica, porque básicamente cobran al oficial y tienen que pagar después los insumos al paralelo, generándole un daño enorme.  Y entonces estamos en contacto para trabajar en una agenda que mejore la economía del sector, porque claramente es un sector que está siendo muy duramente castigado y me parece que eso es inmoral, eso es incorrecto.  O sea, no tenés por qué estar maltratando a un sector, porque definitivamente lo que se está haciendo es maltratar a un sector.  ¿Cuál va a ser el tipo de acompañamiento o herramientas a partir de lo que han escuchado de parte de la mesa de enlace?  Bueno, nosotros estamos fuertemente comprometidos con varias cuestiones.  La primera, nosotros hemos hecho un proyecto en el cual he trabajado junto a Gerardo Milman y después distintos diputados adhirieron, como por ejemplo la doctora Villarroel, donde básicamente nosotros pedimos eliminar los dos artículos del Código Aduanero que es sobre lo que usa el Ejecutivo para fijar las retenciones.  Cuando hace eso, automáticamente se queda sin las retenciones.  Y después que se discute en la Cámara, Obviamente que en nuestra posición nosotros estamos totalmente en contra de la existencia de las retenciones, por lo tanto, nunca aceptaríamos retenciones.  No solo eso, sino que también hemos trabajado, la doctora Villarroel envió un proyecto, del cual yo también lo apoyé, que tiene que ver con la eliminación del impuesto a los débitos y créditos bancarios.  Y obviamente nosotros, por ejemplo, respecto al tema de la inflación y la brecha cambiaria, digamos, dada la posición que hemos sostenido sistemáticamente de directamente avanzar hacia lo que se llamaría técnicamente una dolarización, ahí se terminarían los problemas de inflación y se terminarían también los problemas de brecha cambiaria.  O sea, terminaría ese problema.  En minutos Pelletti va a estar dando una batería de anuncios con respecto al tema de los alimentos.  Bueno, ya el Ministro de Agricultura, Domínguez, también anunció.  ¿Realmente es la verdadera guerra contra la inflación?  ¿Cómo lo califica?  Primero es que utilizar ese término en las actuales, digamos, en general es desacertado y en la situación particular que vive el mundo es muchísimo peor.  Pero al margen de eso, a ver, las medidas que quiere impulsar Feletti, digamos, son medidas que... la historia documenta desde el dos mil ochocientos antes de cristo es que nunca funcionaron.  están volcadas.  en un libro se llama cuatro mil años de controles de precios y salarios como no combatir la inflación.  o sea y justamente digamos si hay un país que usó esa herramienta y nunca funcionó fue argentina.  argentina desde la segunda mitad del siglo veinte siempre aplicó controles de precios salvo durante la convertible.  se fue la única época en el nuevo inflación durante la convertibilidad.  entonces esto digamos de querer Atacar el problema monetario con medidas que implican avances sobre el derecho de la propiedad y cercenamiento de la libertad, lo único que termina generando es desabastecimiento y que aquellas personas que supuestamente querían proteger son las más vulneradas y las más perjudicadas con estas medidas.  Por lo tanto, muy lejos de hacer... ",
+            "cosine_dist": 0.3296265537863938,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 838.429,
+            "end_time": 858.157,
+            "text": "Claro, bueno, mencionalo.  La falta de constitucionalidad además de la medida tomada por el presidente también es algo que tenemos que destacar porque afecta directamente a la seguridad jurídica.  En un país donde no hay seguridad jurídica difícilmente lleguen inversiones nuevas y difícilmente se pueda trabajar y los productores del campo puedan desarrollar una actividad exitosa.  Además... ",
+            "cosine_dist": 0.881884572011115,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 858.197,
+            "end_time": 882.377,
+            "text": "...que venía perfectamente anclado a lo que era la negociación con el FMI.  Bueno, allí estaban las declaraciones de la propia Villarroel y Javier Milay.  En realidad no habló la mesa de enlace.  No, es cierto.  Este es un dato no menor, porque convoca a la mesa de enlace, pero concentran la atención y centralizan la palabra.  dirigentes de, o sea, Milei y Villarroel. ",
+            "cosine_dist": 0.7377082322006993,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 882.397,
+            "end_time": 927.627,
+            "text": "Claro, este es el bloque de la Libertad Avanza, con quien estuvo reunida la mesa de enlace, están allí al lado de Milei en este momento, lo veíamos hace un ratito, Jorge Chemes de CRA, está Carlos Acetoni de Federación Agraria, él vio la usirica que es el vicepresidente de Coninagro, Carlos Iannisotto está con un tema personal, por eso no viajó, y seguramente Nicolás Pino estará allí, ahí lo vemos.  a Nicolás Pino, exacto.  A la mierda los malditos empresarios, a la mierda Sodomitas el capital.  Basta de basura que Inesiana, ha llegado el momento liberal.  Tenemos un líder y él es un gran rebelde. ",
+            "cosine_dist": 0.8641224324112079,
+            "is_target_speaker": false
+        }
+    ]
+}

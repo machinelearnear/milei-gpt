@@ -1,0 +1,631 @@
+{
+    "Index": 258,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "qh62k18UpYE",
+    "url": "https://www.youtube.com/watch?v=qh62k18UpYE",
+    "title": "\"EN ARGENTINA SE CHOREAN 25 MIL MILLONES DE DÓLARES\" - Javier Milei con Chiche Gelblung 4/2/2022",
+    "duration": 661.0,
+    "view_count": 68591,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 1",
+            "start_time": 0.14,
+            "end_time": 2.83,
+            "text": "¿Hay más de un millón cien mil anotados para el sueldo? ",
+            "cosine_dist": 0.9813812457239584,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2.85,
+            "end_time": 14.574,
+            "text": "No los pasamos largamente, estamos en un millón trescientos mil.  Los políticos en Argentina se afanan cinco puntos del PBI.  El PBI de Argentina, si lo tomás al oficial, es quinientos mil millones de dólares. ",
+            "cosine_dist": 0.4753361344695165,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 14.614,
+            "end_time": 24.058,
+            "text": "Veinticinco mil millones de dólares te da.  Veinticinco mil millones de dólares se va en la ineficiencia de la política.  En choreo de la política.  Javier Milei, ¿cómo están?  Buenas tardes, gracias por atendernos. ",
+            "cosine_dist": 0.8373253600191146,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 25.145,
+            "end_time": 28.826,
+            "text": "¿Qué tal, Chiche?  Un placer enorme estar hablando contigo nuevamente. ",
+            "cosine_dist": 0.5764478602531533,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 29.067,
+            "end_time": 35.109,
+            "text": "Igualmente.  ¿Hay más de un millón cien mil anotados para el sueldo o pasaron?  No sé, ¿estaban por ahí? ",
+            "cosine_dist": 0.917193003759403,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 35.149,
+            "end_time": 38.87,
+            "text": "No los pasamos largamente, estamos en un millón trescientos mil. ",
+            "cosine_dist": 0.6553338269026436,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 39.271,
+            "end_time": 44.373,
+            "text": "Un millón trescientos mil, Javier, para el sueldo.  Ahora, la primera vez, ¿cuánto tuviste? ",
+            "cosine_dist": 0.9278394220194743,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 45.773,
+            "end_time": 48.994,
+            "text": "La primera vez, ponerle un millón. ",
+            "cosine_dist": 0.7500639913942689,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 49.575,
+            "end_time": 51.935,
+            "text": "Y ahora subiste trescientos mil, treinta por ciento. ",
+            "cosine_dist": 0.8903506345533745,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 52.416,
+            "end_time": 54.937,
+            "text": "Exactamente.  En pocos días. ",
+            "cosine_dist": 0.6821631012929743,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 56.238,
+            "end_time": 58.38,
+            "text": "¿Los que se anotaron antes no están en carrera? ",
+            "cosine_dist": 0.8994607097416205,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 58.4,
+            "end_time": 71.151,
+            "text": "No, sí, los que se anotaron antes, por cómo está armado el sistema, sí están.  O sea, se agregaron trescientos mil más en un día y algo. ",
+            "cosine_dist": 0.4502565592405783,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 72.092,
+            "end_time": 77.537,
+            "text": "Muy bien.  O sea, que los que quedaron en carrera de antes siguen en carrera.  Siguen en carrera, salvo... ",
+            "cosine_dist": 0.9518634136194055,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 79.462,
+            "end_time": 89.574,
+            "text": "Salvo la persona que ganó, que lo quita de la base y se tiene que reescribir si quiere volver a participar. ",
+            "cosine_dist": 0.5162649951572231,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 89.934,
+            "end_time": 92.277,
+            "text": "Ah, se puede reescribir y si gana dos veces lo echamos. ",
+            "cosine_dist": 0.9378427528182376,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 92.497,
+            "end_time": 99.746,
+            "text": "No, bueno, está bien.  Yo diría que le preguntemos más cosas sobre el futuro porque tiene una suerte de novela. ",
+            "cosine_dist": 0.5987027924494064,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 100.584,
+            "end_time": 126.327,
+            "text": "Ahora, te digo lo siguiente, independientemente de esto, que es un tema que obviamente le interesa a mucha gente, pero lo que digo es, el acuerdo este del fondo, Cristalina Giorgieva acaba de hacer una recomendación muy crítica sobre el tema de la inflación.  Digo, ¿me lo explicás cómo es esta historia?  ¿Vamos a tener acuerdo o no vamos a tener acuerdo?  Por el Congreso creo que no pasa.  No sé, ¿vos qué opinás?  Y ahora Cristalina Giorgieva arregla la inflación. ",
+            "cosine_dist": 0.8578728264313696,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 129.066,
+            "end_time": 147.696,
+            "text": "Vamos por partes.  El acuerdo con el FMI todavía no hay.  Hay una carta de intención por parte de Argentina, donde básicamente lo que propone es que el sector público no haga ningún tipo de ajuste, de hecho se expande, y que el que pague el ajuste sea el sector privado, ",
+            "cosine_dist": 0.43290293623536535,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 147716,
+            "end_time": 147736,
+            "text": "y ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 148.616,
+            "end_time": 175.439,
+            "text": "después que se resuelva con la magia del crecimiento, cuando sabemos que ese modelo de hacer déficit fiscal para crecer no funciona.  O sea, la historia argentina dice que de ciento veintiún años, durante ciento once tuvimos déficit fiscal, cada vez nos va peor, así que ese modelo no funciona.  Eso por un lado, por lo tanto, el programa está lleno de inconsistencias técnicas y además hace planteos que verdaderamente... ",
+            "cosine_dist": 0.43495244128358734,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 175.639,
+            "end_time": 187.502,
+            "text": "Pero hay algunos que dicen que el FMI le dio una ayuda a Alberto para poder llegar a las elecciones sin drama.  Digo, ¿es razonable pensar eso o no?  Sí. ",
+            "cosine_dist": 0.851766788081745,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 188.422,
+            "end_time": 216.79,
+            "text": "No, eso sí porque lo que hace es dejar las bases para que haya un acuerdo muy, muy... muy light, ¿sí?  Para que, digamos, no tenga que haber desembolso de fondos a organismos internacionales hasta el año dos mil veinticuatro.  Es decir, lo que hace es claramente entiende que el gobierno carece de voluntad de pago y entonces directamente lo tira para adelante para no quedar como el malo de la película. ",
+            "cosine_dist": 0.4153759085796752,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 216.81,
+            "end_time": 223.355,
+            "text": "Pero el problema que tenemos nosotros es lo siguiente.  Digo, vamos a tener más plata en el bolsillo, menos plata, ¿cómo es la historia? ",
+            "cosine_dist": 0.8713617144210464,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 225.291,
+            "end_time": 251.31,
+            "text": "No, el sector privado va a tener menos porque te van a ajustar.  Primero te van a perseguir más, o sea, te van a perseguir más para cobrarte impuestos, para que la presión fiscal se haga más efectiva.  Y por otro lado, va a haber recorte de transferencias al sector privado.  El sector privado va a estar peor y el único que mejora es el Estado que, digamos, sigue creciendo en términos reales.  O sea, le va a ganar a la inflación. ",
+            "cosine_dist": 0.4516397530433691,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 252.574,
+            "end_time": 255.475,
+            "text": "El sector privado le va a... Perdón, no te entendí bien.  ¿Cómo qué? ",
+            "cosine_dist": 0.9780715887227814,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 257.336,
+            "end_time": 266.36,
+            "text": "Así como lo escuchás, el sector público en términos reales se expande, le gana a la inflación.  Sí.  Y todo el ajuste recae en el sector privado. ",
+            "cosine_dist": 0.5161159233402337,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 266.38,
+            "end_time": 272.343,
+            "text": "O sea, también, ¿qué significa eso?  ¿Que la gente va a ganar más en el sector privado? ",
+            "cosine_dist": 0.9276137595270472,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 273.524,
+            "end_time": 283.542,
+            "text": "No, que va a estar mucho peor todavía en el sector privado.  Que los únicos que... para que te des una idea ni siquiera se mantienen constantes el sector público. ",
+            "cosine_dist": 0.49948915643240477,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 284.823,
+            "end_time": 307.032,
+            "text": "pero es muy complicado.  vos me hablás en difícil.  yo lo que digo es lo siguiente vamos a estar peor la gente de laburo va a estar peor nosotros vamos a estar peor.  no vamos a estar mejor exactamente y los políticos mejor pero peor cuanto peor porque ya estamos acostumbrados a estar mal. ",
+            "cosine_dist": 0.7531967301165294,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 307.112,
+            "end_time": 325.487,
+            "text": "pero digo cuanto peor Nada, nos van a sacar todavía más dinero de los bolsillos, nos van a apretar más la presión fiscal, digamos, o sea, lo dicho el otro día marcó el fondo, te van a ir a buscar hasta abajo de la cama para cobrarte los impuestos.  Y por otra parte, va a haber quita de transferencia del sector privado, ejemplo, suba de tarifas. ",
+            "cosine_dist": 0.4740308865498132,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 326.508,
+            "end_time": 328.57,
+            "text": "Sí, la suba de tarifas ya empieza el mes que viene. ",
+            "cosine_dist": 0.9870359790594943,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 329.391,
+            "end_time": 336.978,
+            "text": "Y bueno, ahí tenés... Bueno, ahí tenés un ajuste, según cómo lo hagan, ahí tienen para sacar tres puntos el PBI. ",
+            "cosine_dist": 0.5833555377632809,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 337.478,
+            "end_time": 342.22,
+            "text": "Pero con el aumento de tarifas vos estás de acuerdo, vos decís que son tarifas subsidiadas. ",
+            "cosine_dist": 0.9489010761727613,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 343.581,
+            "end_time": 360.815,
+            "text": "Yo lo que digo es que hay que recalcular la ecuación económica financiera del contrato, que es lo que verdaderamente importa, y es que los ingresos que vos generás a lo largo de toda la concesión te sirva para cubrir todos los costos de la concesión operativos, los costos fiscales. ",
+            "cosine_dist": 0.471292128009258,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 360.835,
+            "end_time": 369.161,
+            "text": "Hablás muy difícil.  ¿Qué es la concesión operativa?  No entiendo.  ¿La luz va a ser más barata o más cara?  Más cara.  Y vos lo que querés que sea, ¿más cara? ",
+            "cosine_dist": 0.9277654066773429,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 370.302,
+            "end_time": 379.068,
+            "text": "No, no.  Eso es falso.  Porque cuando vos tomás la tarifa, cuando vos vas a pagar, el cincuenta por ciento son impuestos.  Sí. ",
+            "cosine_dist": 0.5397682303879427,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 379.128,
+            "end_time": 380.789,
+            "text": "Ah, ah, ah. ",
+            "cosine_dist": 1.0616373861603876,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 380.809,
+            "end_time": 395.102,
+            "text": "¿Qué es?  Entonces vos le podrías duplicar los ingresos a las empresas sin tocar a nadie del sector privado, pero eso implicaría que ajuste la política, cosa que no quieren hacer.  Entonces nos va a transferir el ajuste al sector privado. ",
+            "cosine_dist": 0.4824329616945553,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 396.182,
+            "end_time": 404.325,
+            "text": "Hay formas de hacerlo para no joder a la gente.  La política no se va a chicar nada, nada, nada, no van a ganarse un peso. ",
+            "cosine_dist": 0.8247608108277996,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 405.286,
+            "end_time": 408.007,
+            "text": "Exacto, bueno, no solo que no se van a chicar, se expanden. ",
+            "cosine_dist": 0.6653070670530195,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 408.327,
+            "end_time": 417.606,
+            "text": "Claro, lo único que no va bien... Es así.  Bueno, está clarito.  Está muy contento Zingutín con eso, porque dice que va a ganar mucho más. ",
+            "cosine_dist": 0.8950086590297786,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 418.666,
+            "end_time": 427.068,
+            "text": "Si un día quisiera que me hicieran la cuenta, puede ser que mi ley la tenga, que me haga la cuenta de qué es el gasto político, cuánto representa... ",
+            "cosine_dist": 0.8240683091188077,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 427.088,
+            "end_time": 428.368,
+            "text": "Pero no está hablando del gasto político. ",
+            "cosine_dist": 0.8789227547127516,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 428.408,
+            "end_time": 429.748,
+            "text": "Sí, sí, la política. ",
+            "cosine_dist": 0.9425517898188456,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 430.589,
+            "end_time": 435.389,
+            "text": "No ajusta la política, no ajusta los subsidios.  Aerolíneas argentinas, siempre lo de siempre. ",
+            "cosine_dist": 0.8019807687181634,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 435.589,
+            "end_time": 438.05,
+            "text": "Eso es la política.  La línea de bandera es la política. ",
+            "cosine_dist": 0.877077253116536,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 439.688,
+            "end_time": 466.134,
+            "text": "A ver, para que tengan una idea, hay un estudio del BID sobre la ineficiencia técnica del gasto público.  La peor región del mundo es América Latina con cuatro coma cuatro por ciento del PBI.  Argentina tiene siete dos.  Es eso la política.  Son siete punto dos, donde hay cinco puntos del PBI que se llaman filtraciones, ocho oreos.  O sea, los políticos en Argentina se afanan cinco puntos del PBI. ",
+            "cosine_dist": 0.4621270327557985,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 468.015,
+            "end_time": 472.899,
+            "text": "Cinco puntos del PBI son veinte mil millones de dólares.  No, sí, veinte mil millones de dólares. ",
+            "cosine_dist": 0.9605935623185201,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 473.639,
+            "end_time": 475.861,
+            "text": "Depende a qué tipo de cambio lo tomes el... ",
+            "cosine_dist": 0.6258348865680559,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 476.101,
+            "end_time": 480.964,
+            "text": "Bueno, el tipo de cambio, no sé, a ver, el PBI de la Argentina es mil millones de dólares diarios. ",
+            "cosine_dist": 0.9362316424585844,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 480.984,
+            "end_time": 495.37,
+            "text": "El PBI de la Argentina, digamos, si lo tomás al paralelo, son doscientos cincuenta mil millones de dólares diarios.  Si lo tomás al oficial, es quinientos mil millones de dólares. ",
+            "cosine_dist": 0.465541936847353,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 495.831,
+            "end_time": 504.837,
+            "text": "Y bueno, quinientos mil millones de dólares tenemos de PBI.  ¿Y vos decís qué?  Veinticinco mil millones de dólares te da.  O sea, veinticinco mil millones de dólares se va en la ineficiencia de la política. ",
+            "cosine_dist": 0.8014315970439563,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 505.677,
+            "end_time": 510.901,
+            "text": "No.  En choreo de la política.  Se llama filtraciones el concepto. ",
+            "cosine_dist": 0.6684573410522819,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 511.922,
+            "end_time": 517.826,
+            "text": "Bueno, Javier, te esperamos acá en unos días.  Te mando un abrazo.  Abrazo gigante, Chiches. ",
+            "cosine_dist": 0.8063612565718108,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 517.846,
+            "end_time": 519.467,
+            "text": "Un placer enorme hablar contigo. ",
+            "cosine_dist": 0.8144007221282776,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 520.582,
+            "end_time": 523.765,
+            "text": "No, nunca nadie me lo contestó eso. ",
+            "cosine_dist": 0.8864474752300193,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 523924,
+            "end_time": 524246,
+            "text": "¿El qué? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 524.506,
+            "end_time": 525.647,
+            "text": "¿Qué es el gasto de la política? ",
+            "cosine_dist": 0.8191899428239237,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 525.667,
+            "end_time": 527.408,
+            "text": "Se lo acaba de explicar el choreo. ",
+            "cosine_dist": 1.052260149686297,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 527.428,
+            "end_time": 529.71,
+            "text": "No, no, no.  Bueno, el choreo, vos decís que... ",
+            "cosine_dist": 0.8987816719659133,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 529.75,
+            "end_time": 531.291,
+            "text": "Mirá, ¿qué querés?  Yo no tengo por.  qué. ",
+            "cosine_dist": 0.9870729966526647,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 531.311,
+            "end_time": 535.814,
+            "text": "No, no, no, porque no es el único.  Hace mucho que dicen, si ajustás la política, solucionás las tarifas. ",
+            "cosine_dist": 0.8460754661728017,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 535.894,
+            "end_time": 541.818,
+            "text": "No, no, no, dijo sin choreo de la política.  Porque también consideran gasto de la política los empleados públicos.  Pero no dijo eso, no dijo eso la política. ",
+            "cosine_dist": 0.8438089093259027,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 541838,
+            "end_time": 542419,
+            "text": "No dijo nada. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 542.559,
+            "end_time": 545.0,
+            "text": "No dijo que el choreo de la política... política. ",
+            "cosine_dist": 0.8996766205699849,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 545.14,
+            "end_time": 548.142,
+            "text": "O sea, en corrupción se van veinticinco mil millones de dólares. ",
+            "cosine_dist": 0.8905369483941459,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 548.262,
+            "end_time": 553.305,
+            "text": "Mi ley le puede contestar.  No, no lo entiendo.  Que no entiende sin cutina.  Sí, claro. ",
+            "cosine_dist": 0.7629076691243404,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 553.365,
+            "end_time": 566.413,
+            "text": "Bueno, lo primero es para decir si contesté o no, es ir y leer el artículo que yo estoy recomendando.  Si yo te estoy diciendo, dale, lee este artículo. ",
+            "cosine_dist": 0.523981427495658,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 566.433,
+            "end_time": 569.915,
+            "text": "No leemos ni el UTA nosotros, que vamos a leer el artículo del BIS. ",
+            "cosine_dist": 0.8712892639318537,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 570.056,
+            "end_time": 592.664,
+            "text": "A ver, esa es una.  Otra cosa es, por ejemplo, la obra pública.  La obra pública tiene mucho robo.  La obra pública es una gran fuente de corrupción.  Las transferencias discrecionales, ya sea de nación a provincia y de provincia a municipio, también es una gran fuente de corrupción.  Si quieren les explico cómo es el robo con las transferencias discrecionales. ",
+            "cosine_dist": 0.4641136067462681,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 593.184,
+            "end_time": 600.747,
+            "text": "No, muy técnico, muy técnico.  O sea, vos decís que eso es la política, no es que los políticos ganan más.  Eso es lo que no entiende el circuitismo. ",
+            "cosine_dist": 0.848857260250672,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 600.827,
+            "end_time": 602.907,
+            "text": "Claro, es corrupción, no es política, es corrupción. ",
+            "cosine_dist": 0.8793214220853722,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 603.467,
+            "end_time": 606.848,
+            "text": "Corrupción.  Choreo.  Choreo, dice. ",
+            "cosine_dist": 0.9043057009988821,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 606.928,
+            "end_time": 613.631,
+            "text": "Choreo, claro.  Claro, corrupción es una cosa.  La política, uno puede entender, la política es gastos en empleados públicos. ",
+            "cosine_dist": 0.9108926021673779,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 613.751,
+            "end_time": 617.832,
+            "text": "No, no, es corrupción de los políticos.  Choreo, choreo, choreo.  Choreo es otra cosa. ",
+            "cosine_dist": 0.9812731652471227,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 619.104,
+            "end_time": 620.726,
+            "text": "A la mierda, los malditos empresarios. ",
+            "cosine_dist": 0.9148354638689495,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 620.786,
+            "end_time": 659.997,
+            "text": "A la mierda, sodomitas del capital.  Basta de basura keynesiana, ha llegado el momento liberal.  Tenemos un líder y él es un gran rebelde. ",
+            "cosine_dist": 0.8385662203030432,
+            "is_target_speaker": false
+        }
+    ]
+}

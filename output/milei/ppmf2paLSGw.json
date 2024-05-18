@@ -1,0 +1,439 @@
+{
+    "Index": 224,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "ppmf2paLSGw",
+    "url": "https://www.youtube.com/watch?v=ppmf2paLSGw",
+    "title": "MILEI DESTROZÓ AL VAGO DE MÁXIMO KIRCHNER - Javier Milei en La Nación + 27/3/2022",
+    "duration": 1054.0,
+    "view_count": 228220,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 1",
+            "start_time": 0.38,
+            "end_time": 7.316,
+            "text": "Es con la gente adentro, siempre.  Siempre, compañero.  Estás muy emocionado, Máximo.  ¿Qué pasa?  Trece kilómetros caminando.  Es eso. ",
+            "cosine_dist": 0.9782536101202189,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 7.356,
+            "end_time": 10.458,
+            "text": "¿Vamos a agitar un poquito? ",
+            "cosine_dist": 1.0505258588809459,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 10.478,
+            "end_time": 13.922,
+            "text": "Vamos a ir a agitar con los compañeros, Máximo.  Esto es todo tuyo. ",
+            "cosine_dist": 1.064976550846129,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 16.844,
+            "end_time": 19.465,
+            "text": "¿Algún gobierno busca que la gente quede afuera?  Ninguno. ",
+            "cosine_dist": 0.8693336592914002,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 19.665,
+            "end_time": 40.229,
+            "text": "Es más, el modelo que ellos proponen deja mucha gente afuera porque tenemos cuarenta y cinco por ciento de pobres, porque tenemos once por ciento de indigentes.  Los que dejan afuera a la gente, justamente, en especial, los políticos populistas.  O sea, justamente lo que propone él.  No existe eso, digamos.  O sea, nadie hace un modelo contra la gente.  Es una frase hecha para que la gente se fascine. ",
+            "cosine_dist": 0.4037121939085432,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 40.249,
+            "end_time": 42.77,
+            "text": "Nosotros no tenemos un problema con las divisas.  No lo hemos resuelto. ",
+            "cosine_dist": 0.9996712058799203,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 43.507,
+            "end_time": 45.449,
+            "text": "¿No se van a levantar los controles de divisas? ",
+            "cosine_dist": 0.8843657356168945,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 45.469,
+            "end_time": 65.71,
+            "text": "En el inmediato de ningún modo.  En el inmediato de nosotros, ahora nuestro objetivo es acumular reservas.  Y bueno, nosotros vamos liberando reservas para los inversores para que puedan cumplir sus obligaciones externas.  Pero por ahora los dividendos preferimos que se queden en Argentina. ",
+            "cosine_dist": 0.9580414033807849,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 66.917,
+            "end_time": 67.958,
+            "text": "Javier, buenas noches, ¿cómo estás? ",
+            "cosine_dist": 0.9875242495524207,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 68.138,
+            "end_time": 68.739,
+            "text": "¿Qué tal, José? ",
+            "cosine_dist": 0.8390108337623642,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 69.019,
+            "end_time": 76.086,
+            "text": "Bueno, arranquemos por el principio de esta historia que tiene que ver con un presidente que empieza a hablar de diablos para el tema de inflación. ",
+            "cosine_dist": 0.8090811064224815,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 76.226,
+            "end_time": 85.731,
+            "text": "Bueno, entonces... Varias cosas.  Primero le resolvió el traje que se tiene que usar para PC en Halloween. ",
+            "cosine_dist": 0.47187625610070416,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 86.732,
+            "end_time": 87.952,
+            "text": "Para el titular del Banco Central. ",
+            "cosine_dist": 0.8362472198363295,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 87.972,
+            "end_time": 101.999,
+            "text": "Para el titular del Banco Central.  Entonces es el diablo y las máquinas impresoras de dinero están poseídas y emiten que da calambre.  Entonces ahí está el mal.  Entonces hay que exorcizar el Banco Central y si es necesario, como es lo que yo propongo, es eliminarlo. ",
+            "cosine_dist": 0.4458178430460519,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 102.679,
+            "end_time": 105.941,
+            "text": "Vos decís que cuando el presidente habla de diablos, ¿a quién le habla? ",
+            "cosine_dist": 0.6758756886090322,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 106.969,
+            "end_time": 163.793,
+            "text": "En realidad le habla a la tribuna.  O sea, la inflación es siempre y en todo lugar un fenómeno monetario que surge de un crecimiento de la oferta por encima de la demanda que genera una pérdida de poder adquisitivo de la moneda y todos los precios expresados en esa unidad monetaria suben.  Digo, esa es la única explicación razonable para la inflación.  Todo lo demás... Es para, ya ni para psicólogo, es para psiquiatra directamente.  Porque en el fondo es, digamos, cómo le pueden echar la culpa a otros, pero esto es de manera compulsiva.  O sea, porque en realidad, por ejemplo, en un momento habla de la remarcación.  Por favor, que algún economista, digamos, de los que tiene cerca, ¿por qué no se ponen a pensar que si vos tenés, suponete, mercados concentrados, lo que hace es determinar el nivel de precio, no la tasa de variación del precio?  O sea, con lo cual, eso, digamos, de que son estructuras concentradas, eso es una estupidez, porque hace al nivel de última y no a la tasa de variación. ",
+            "cosine_dist": 0.3339208272242876,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 164.113,
+            "end_time": 174.519,
+            "text": "Javier, para entender un poco el contexto, vos lo que decís es, por un lado emisión monetaria, es los billetes, la maquinita de billetes sin respaldo que volcó, por ejemplo, el plan Platita de cara a las elecciones, que hoy la pagamos. ",
+            "cosine_dist": 0.8262866767564642,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 174.619,
+            "end_time": 203.2,
+            "text": "Pero no es solamente el plan Platita.  La estafa llamada señoriaje, el señoriaje, en los últimos dos años, o sea, que gobernó este gobierno, juntó once puntos del PBI.  ¿Cómo querés que no haya inflación?  La inflación va a estar desbordada.  ¿Por qué?  Porque vos fíjate, el último dato que tuviste, ¿cuánto fue?  Cuatro siete.  Quiere decir que en los últimos doce meses tuviste cincuenta y dos coma tres por ciento. ",
+            "cosine_dist": 0.35140692465660106,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 203.24,
+            "end_time": 205.902,
+            "text": "Primera quincena en alimentos, más del seis por ciento. ",
+            "cosine_dist": 0.8309344409285552,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 205.942,
+            "end_time": 264.261,
+            "text": "No, pero para ver cómo en dinámica esto está complicadísimo.  Si yo miro el bimestre, que me dio ocho, ocho, lo anualizo, estoy en sesenta y cinco.  Si tomo el dato punta, lo analizo, estoy en setenta y cinco.  Es decir, que quiere decir que vos vas en una aceleración.  Cuando el proceso inflacionario, digamos, ese exceso de oferta de dinero se genera por una caída de la demanda de dinero, la dinámica dice que primero supe el tipo de cambio, después los transables, después los mayoristas, después el IPC y después los salarios.  Esa es la dinámica.  Como vos tenés control de capitales, no lo estás viendo en el dólar más que en la brecha, cien por ciento de brecha.  Ahora vos fíjate esto, ¿pero qué quiere decir que los transables se adelantan?  ¿Cuánto dio alimentos?  ¿Siete, cinco?  Eso anualizado es ciento treinta.  Y si vos corregís por la brecha, quiere decir que la inflación reprimida en Argentina está en torno al trescientos cuarenta por ciento. ",
+            "cosine_dist": 0.37661145412285113,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 264.301,
+            "end_time": 277.291,
+            "text": "Trescientos cuarenta por ciento.  Muchos que te miran leen lo que vos estás diciendo y por otro lado escuchan al presidente de la nación hablando de esta cuestión de un sector, la inflación es autoinfligida. ",
+            "cosine_dist": 0.7737019368539046,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 279.059,
+            "end_time": 305.0,
+            "text": "Bueno, porque justamente los políticos que están en el poder también son parte del pueblo argentino.  Y claro, nada más que es infligida desde los políticos hacia la gente de bien.  Pero sí es autoinfligida porque no la está generando un extraterrestre ni un extranjero.  Digamos, o sea... El que tiene un déficit fiscal desbocado es este gobierno, el que emite como un marrano de peces, así que son todos, digamos, esos los que generan el dolor. ",
+            "cosine_dist": 0.40303328133667427,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 305.4,
+            "end_time": 323.748,
+            "text": "Quiero mostrarte a Máximo Kirchner.  Máximo Kirchner que salió a la cancha y empezó a hablar concretamente de lo que pasa con la gente, con la gente si está adentro, si está afuera.  Recordemos, Máximo Kirchner, una de las espadas del Congreso Nacional y por otro lado, la vicepresidenta, ni más ni menos que Cristina Fernández Kirchner.  Veámoslo. ",
+            "cosine_dist": 0.7996951674398897,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 324.761,
+            "end_time": 341.484,
+            "text": "Y lo que tenemos que entender de acá en más es que cuando la gente está presente en un gobierno, cuando la gente es parte de un gobierno, cuando lo banca, cuando hace lo que tiene que hacer, lo malo es menos malo y lo bueno es más bueno.  Es con la gente adentro, siempre. ",
+            "cosine_dist": 0.9138885975408078,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 341.504,
+            "end_time": 344.685,
+            "text": "Siempre, compañero.  Estás muy emocionado, Máximo. ",
+            "cosine_dist": 0.9735388506811504,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 344.745,
+            "end_time": 350.668,
+            "text": "¿Qué pasa?  Trece kilómetros caminando.  Es eso.  Vamos a agitar un poquito.  Vamos a agitar con la compañera, Máximo.  Esto es todo tuyo. ",
+            "cosine_dist": 1.0663350391991924,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 358.74,
+            "end_time": 361.862,
+            "text": "Es con la gente adentro.  ¿Algún gobierno busca que la gente quede afuera? ",
+            "cosine_dist": 0.7895619012441981,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 362.462,
+            "end_time": 417.83,
+            "text": "Ninguno, ninguno.  Es más, el modelo que ellos proponen deja mucha gente afuera, porque tenemos cuarenta y cinco por ciento de pobres, porque tenemos once por ciento de indigentes, porque en el país que produce alimentos para cuatrocientos millones de seres humanos y con una presión en el campo por encima del sesenta por ciento, el Estado se queda con el alimento de doscientos cuarenta millones de seres humanos y el cinco millones de argentinos que no le alcanza para morfar.  Los que dejan afuera a la gente justamente son los políticos, en especial los políticos populistas.  O sea, justamente lo que propone él.  Es decir, no existe eso, digamos, o sea, nadie hace un modelo contra la gente.  Sí, eso es una falacia, eso es un... Es una frase hecha para que la gente se fascine y abogar por la envidia, el odio, el resentimiento, el trato desigual frente a la ley, que no es ni más ni menos que esa aberración llamada justicia social. ",
+            "cosine_dist": 0.3837753811126705,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 418.591,
+            "end_time": 437.064,
+            "text": "Javier, hablando de proyectos y de iniciativas, en estos días vimos, sobre todo hoy, fuiste tendencia en redes sociales y demás por esa imagen, ¿te acordás la de Cavallo?  De un dólar un peso, pero en este caso era un milé y un dólar.  Y tiene que ver con el proyecto que está vinculado con la dolarización.  ¿Qué tan viable es dolarizar la economía argentina? ",
+            "cosine_dist": 0.7980253223450879,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 437.425,
+            "end_time": 453.934,
+            "text": "A ver, técnicamente es viable.  O sea, y la realidad del problema no es que no se pueda hacer técnicamente.  El problema es la casta política.  Porque son los que se beneficiaron, por ejemplo, en los últimos dos años, once puntos del PBI con señoría G. ",
+            "cosine_dist": 0.3721773377587375,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 455.003,
+            "end_time": 456.005,
+            "text": "¿A qué se llama, señoría? ",
+            "cosine_dist": 1.00928943885079,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 456.085,
+            "end_time": 611.012,
+            "text": "La emisión de dinero para financiar el déficit, por.  ejemplo.  Entonces, ¿qué es lo que estoy proponiendo yo?  Porque muchos... no sé si por ignorantes y o deshonestidad intelectual, fueron sobre el tema de la dolarización sin ver todos los pasos antes de los que yo hablo.  Primero que está enmarcado en un conjunto de reformas estructurales.  Yo hablo de reformas de primera generación, segunda generación, tercera generación.  En la primera generación hablo de la reforma del Estado para bajar el gasto público, para bajar los impuestos, flexibilizar el mercado laboral hacia adelante y abrir la economía.  Y en ese... Mientras que todo eso ocurre abajo, ocurre la reforma monetaria financiera.  ¿La primera etapa cuál es?  A ver, ¿por qué existe el Banco Central en serio?  La explicación que quieren usar los economistas chorros socios de los políticos delincuentes.  Básicamente para cumplir la función de prestamista de última instancia.  ¿Por qué?  Porque vos tenés lo que se llama un sistema de encaje fraccionario.  Cuando vos vas y haces un depósito, ¿qué hace el banco?  Guarda veinte y presta ochenta.  Y te respalda.  Sí, es el encaje.  Y eso vuelve a la calle, después la plata que vuelve al banco viene en ochenta, guarda dieciséis y así sucesivamente.  Y se genera algo que se llama multiplicador monetario.  Es decir, los bancos toman plata corto y la prestan a largo.  Es un intermediador de plazo.  Entonces, si a alguien se le ocurre ir contra el banco y pedirle mucha plata, el banco no la tiene.  Entonces, ¿qué hace?  Le pide plata al Banco Central, esa operación se llama redescuento, devuelve la plata y cuando recupera el crédito, le paga al Banco Central.  Ahora... Entonces el Banco Central solamente existe a los fines de ser prestamista de última instancia.  Ahora, ¿qué es lo que yo propongo?  Yo lo que propongo es ir a una banca que se llama Banca Simon, que tiene cien por ciento de encaje, Es decir, vos cuando haces un depósito a la vista, tienes cien por ciento de descaje.  Es como si fuera una caja fuerte.  Entonces, ¿qué es lo que pasa?  Vos te querés sacar el dinero, mañana lo podés hacer.  Vas a pagar un fee, si querés te abrazás con los billetes, te sacás fotos, haz lo que quieras.  Y siempre la plata está.  Y si vos te gusta ganar interés, viste que hay un dicho que dice, si te gusta el Durazno, bancate la pelusa.  Bueno, esto es igual.  Vos querés interés, vas a tener que ir a la banca de inversión.  ¿Cuál es el tema?  Que si vos invertís en un fondo que pierde o quiebra, perdés vos, perdés el fondo, pero no pierde el resto de la sociedad, no se socializa la pérdida.  En ese contexto vos creaste un sistema anticorrida, se llamaba Banca Simon.  A partir que vos tenés esa situación, podés ir, y la segunda reforma es, en este plano, es eliminar la superintendencia de entidades financieras, es decir, los desregulás, o sea, banca libre. ",
+            "cosine_dist": 0.3598090743448693,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 611.212,
+            "end_time": 618.235,
+            "text": "Pero a ver, Javier, vos no estás explicando toda la parte técnica y mucha gente que te mira dice, ¿me va a mejorar la vida o no?  Pero definitivamente, definitivamente. ",
+            "cosine_dist": 0.7824081374897274,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 618.275,
+            "end_time": 637.914,
+            "text": "Pero déjame que explique cómo sigue el proceso.  Entonces vos te lanzás a una competencia de monedas.  Entonces... Vos ahí podés elegir la moneda que quieras, podés elegir el oro, o sea, podés elegir el dólar, el euro, el franco suizo, el yen, la libra, lo que tengamos, se te ocurra.  El oro, si querés.  Ahora la realidad es esto, ¿cuánto cuesta el blue? ",
+            "cosine_dist": 0.41386307143706913,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 639.124,
+            "end_time": 639.885,
+            "text": "Y ahora doscientos. ",
+            "cosine_dist": 0.8115840000810082,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 640.185,
+            "end_time": 710.751,
+            "text": "Ok, decime cuánto cuesta la onza de oro.  ¿Sabes qué?  Vas a dolarizar.  O sea, esa es la realidad.  Ahora, vamos, entonces, una vez que vos haces eso, vas al balance del Banco Central, todo lo que tiene que ver con Lelix y todos esos pasivos monetarios remunerados, en realidad debería haber sido deuda pública y eso tiene que ser canjeado por deuda pública.  Y el activo del Banco Central, que, digamos, los dólares que haya, digamos, y por ejemplo los títulos públicos que tenés, vos tenés que todo eso usarlo para rescatarlo.  la base monetaria.  Y ahí, digamos, automáticamente no necesitas más el Banco Central.  Entonces la economía va a quedar operando la moneda que le guste a la gente, seguramente va a ser el dólar.  Ese es el primer punto.  ¿Eso cómo funciona?  Porque para que no digan, no, pero te perdés el prestamista de última instancia.  ¿Y qué?  No me interesa tenerlo, si ya no tengo encaje fraccionario.  Te perdés el señoríaje.  Obvio que, digamos, lo festejo que se pierde el señoríaje, si en el fondo es una estafa de los políticos a los argentinos de bien.  Entonces... O que te digan, no sé, no podés controlar la tasa de interés.  Bienvenido, si la tasa de interés es un mecanismo de coordinación intertemporal.  Es como controlar... Mirá la locura que es controlar la tasa de interés.  Es como querer controlar los precios presentes y los precios futuros.  O sea, un delirio. ",
+            "cosine_dist": 0.39233999680976617,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 710.771,
+            "end_time": 724.994,
+            "text": "Sí, sí, una cuestión que te aleja.  Pero mirá, hablando de esto y concretamente poniendo en referencia, tengo a Roberto Felletti.  Y vos me decís, ¿por qué Roberto Felletti, José?  Si te estoy hablando de ancla monetaria y demás.  Porque él tiene su propia ancla.  Quiero compartirla con vos.  Mirá. ",
+            "cosine_dist": 0.7513006311579032,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 725.054,
+            "end_time": 779.976,
+            "text": "Esta secretaría... inscribe sus políticas de canasta en una macro.  Y la macro puede habilitar algunas tensiones.  Ahora, el dólar está bajando.  Se cerró el acuerdo con el fondo.  ¿Y qué es esto en tres días?  Si no es un ataque especulativo infundado.  Digo, no tolerable.  No tolerable.  Porque es contra los argentinos y argentinas.  Por eso hablo de la especulación.  La especulación... de los que quieren comprarse, no sé, más departamentos en Miami, más cuatro por cuatro, y salen a la ruta a exhibir el lujo que tienen, porque quieren convalidar una suba del cincuenta por ciento en dólares en sus stocks, por solo efecto riqueza, por solo efecto riqueza.  Yo dije la otra vez, si vamos así, la mesa de enlace va a decidir qué comemos y qué no comemos. ",
+            "cosine_dist": 0.6682102252386641,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 781.737,
+            "end_time": 784.538,
+            "text": "Roberto Felletti, ¿qué es hoy a la política económica argentina? ",
+            "cosine_dist": 0.918202573322286,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 786.848,
+            "end_time": 804.227,
+            "text": "directamente es parte de esta enfermedad que nos mata.  ¿Por qué?  Fíjate las barbaridades que dice.  En tan poquito tiempo, la cantidad de aberraciones que dice.  Dice, los especuladores.  Yo tengo una pregunta.  Te ofrecen dos trabajos idénticamente iguales.  Idénticamente iguales.  En uno te pagan más que el otro.  ¿Cuál elegís? ",
+            "cosine_dist": 0.37892666283013055,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 804707,
+            "end_time": 805188,
+            "text": "Que pagan más. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 805.688,
+            "end_time": 814.35,
+            "text": "Obvio.  Ok.  Ahora vas... al supermercado, tenés dos productos idénticamente iguales y la única diferencia es el precio.  ¿Comprás el más barato o el más caro? ",
+            "cosine_dist": 0.45411999821138915,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 814.37,
+            "end_time": 815.371,
+            "text": "El que vale menos. ",
+            "cosine_dist": 0.8813217698908358,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 815.391,
+            "end_time": 856.055,
+            "text": "Ah, o sea, sos un especulador porque estás comprando barato y vendés caro.  ¡Ay, qué malo que son!  No, es parte de la vida humana.  Vos sabés que cuando salís a la calle, si vos creyeras que te va a pisar un auto y te mata, no salís, te quedás en tu casa.  Y esa probabilidad existe.  Sin embargo, estás especulando.  O sea, lo primero es que no sabe, no entiende lo que es el concepto de especulación.  Primer punto.  Segundo punto.  Vos fijate que su discurso tiene incluida la envidia, el odio, el resentimiento, porque en el fondo está atacando a un grupo porque de repente se compró un determinado bien.  ¿Por qué digo, si yo me gano el dinero honestamente, por qué no me puedo comprar una cuatro por cuatro, un yate o un Lamborghini? ",
+            "cosine_dist": 0.39295526288917326,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 856.115,
+            "end_time": 857.477,
+            "text": "¿Por qué no puedo crecer con mi plata? ",
+            "cosine_dist": 0.8854823517059738,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 858.058,
+            "end_time": 931.434,
+            "text": "Exactamente, ¿por qué no puedo disponer de mi dinero?  Esa es otra de las barbaridades que dice.  Después demuestra ser un absoluto ignorante en teoría del valor.  Porque él cree que los precios se determinan por los costos.  O sea, ¿vos sabés que si los precios se determinaran por los costos no habría quiebras?  Es una estupidez.  Eso ya, digamos, el que resolvió este problema fue Karl Menger en el año mil ochocientos setenta y uno en un libro que se llama Principios de Economía Política.  Son los precios los que determinan los costos y no los costos los que determinan los precios.  Porque si vos tenés un determinado ingreso, Vos vas a poder pagar en función de ese ingreso.  No que, digamos, sacaste todos los costos, vas y pones el precio y la gente te lo valida.  No, eso no existe.  Es una burrada.  Entonces, ¿qué querés que haga este hombre?  Lo único que puede hacer es daño.  Es decir, y los que él dice que va a defender son a los que termina matando.  O sea, gracias a la especulación es que la sociedad, digamos, logró sobrevivir.  Porque, por ejemplo, suponete que vos tenés que comprar, no sé, Trigo para hacer pan.  ¿A vos qué te gustaría?  Que ese precio esté siempre estable para que vos puedas hacer tus cálculos y comprar, vender, lo que fuera.  Ahora, digamos, la producción de trigo no es pareja todo el tiempo.  O sea, en algunas etapas del año sube, en otras etapas baja. ",
+            "cosine_dist": 0.39873989394196385,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 931.454,
+            "end_time": 933.935,
+            "text": "Sí, varía de acuerdo al contexto y la realidad. ",
+            "cosine_dist": 0.8847232161055683,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 934.035,
+            "end_time": 1013.378,
+            "text": "Bueno, ¿qué es el especulador?  Entonces, el especulador es el que va a comprar cuando está barato y va a vender cuando esté... caro.  ¿Y cuál es el efecto que va a hacer?  Va a lograr nivelar.  Es un benefactor social.  El tipo que hizo esa especulación, entonces, contribuye a la estabilidad de los precios.  O sea, ayuda a que la gente pueda tomar mejores decisiones.  Por lo tanto, este hombre, todo lo que dice está mal.  Entonces, ¿cómo crees que puede terminar esto mal?  Es más, y te voy a decir algo, porque a este hombre le gustan los controles de precios.  Hay un libro que se llama Cuatro mil años de controles de precios y salarios.  El subtítulo es Cómo no combatir la inflación.  Hay evidencia que desde el año dos mil ochocientos antes de Cristo esa metodología no funcionó nunca.  ¿Y querés saber un país que tampoco nunca funcionó?  Argentina.  Porque Argentina desde la mitad del siglo XX para adelante hasta ahora siempre tuvo control de precios salvo en la convertibilidad.  ¿Cuál fue la única época que no tuvimos convertibilidad?  Que no tuvimos inflación.  En la convertibilidad.  ¿Sabés por?  qué?  Porque tenías el dinero, la oferta de dinero se ajustaba a la cantidad de dinero que quería tener la gente.  Entonces, pasado... el reacomodamiento de precios relativos que venía de las distorsiones generadas por la hiper de Alfonsín y por la hiper de Menem al inicio de su mandato, en un año y medio... O sea, en mil nueve noventa y tres, la convertibilidad empezó en abril del noventa y uno, vos tenías la inflación más baja del mundo.  Listo. ",
+            "cosine_dist": 0.3952392592566947,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1013.398,
+            "end_time": 1018.982,
+            "text": "Ahí se estacionó.  Javier, un placer.  El Camino del Libertario, el nuevo libro que tenés.  ¿Esto qué es?  ¿Campaña? ",
+            "cosine_dist": 0.906291675482745,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1019.622,
+            "end_time": 1022.844,
+            "text": "No, estaba pensado de antes. ",
+            "cosine_dist": 0.893772492923313,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1022.984,
+            "end_time": 1027.608,
+            "text": "Suena el Camino del Fuego.  Mirá, me abren los ojos detrás de escena varios que vienen después. ",
+            "cosine_dist": 0.8910189058285908,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1027.848,
+            "end_time": 1028.688,
+            "text": "Hay cosas divertidas. ",
+            "cosine_dist": 0.855479601769521,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1028.828,
+            "end_time": 1053.362,
+            "text": "Lo vamos a leer.  Muchas gracias por haber venido.  Gracias a vos.  A la mierda los malditos empresarios, a la mierda Sodomitas el capital.  Basta de basura que Inesiana, ha llegado el momento liberal.  Tenemos un líder y él es un gran referente. ",
+            "cosine_dist": 0.9215414618480573,
+            "is_target_speaker": false
+        }
+    ]
+}

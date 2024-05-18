@@ -1,0 +1,655 @@
+{
+    "Index": 252,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "RYBG8ykbBxs",
+    "url": "https://www.youtube.com/watch?v=RYBG8ykbBxs",
+    "title": "MILEI LE HACE JUICIO AL CANTANTE DE CALLEJEROS - Javier Milei en TN 14/2/2022",
+    "duration": 1788.0,
+    "view_count": 256855,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 0",
+            "start_time": 13.9,
+            "end_time": 22.302,
+            "text": "Al señor Fontanet.  lo estoy demandando en este momento.  Tengo cinco causas contra cinco periodistas que me han dicho nazi.  Se van a tener que disculpar en el lugar y además me van a tener que pagar. ",
+            "cosine_dist": 0.5533319925673723,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 26.817,
+            "end_time": 51.693,
+            "text": "¿Cómo les va?  Buenas noches.  Esto es La Rosca.  Una nueva pelea nació en Ciudad.  Y de esto, nuestro primer invitado, Javier Milei, va a tener que ver, porque es diputado nacional, porque tiene una posición distinta de Juntos por el Cambio, del Frente de Todos, pero seguramente nos va a dar alguna definición fuerte.  Bueno, muy bien.  Vamos a, como hacen siempre Eduardo y Daniel, vamos hasta allá.  Y le agradecemos muchísimo a Javier Milei que esté hoy acá con nosotros. ",
+            "cosine_dist": 0.9200500698971412,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 51.733,
+            "end_time": 54.134,
+            "text": "¿Cómo va?  ¿Qué tal, Pablo?  ¿Qué tal, Javier? ",
+            "cosine_dist": 0.7859879161843029,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 54.154,
+            "end_time": 55.175,
+            "text": "Muy bien.  ¿Todo bien? ",
+            "cosine_dist": 0.9085482745187559,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 56.237,
+            "end_time": 57.538,
+            "text": "Maravilloso.  Maravilloso. ",
+            "cosine_dist": 0.69212763171697,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 57.598,
+            "end_time": 69.703,
+            "text": "A ver, sos diputado de la ciudad, con lo cual esta discusión que está teniendo el gobierno con la gestión de la RETA, este nuevo round sobre los subsidios de los colectivos del transporte, ¿cómo lo ves vos? ",
+            "cosine_dist": 0.8706725762690516,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 70.783,
+            "end_time": 142.533,
+            "text": "Bueno, lo primero que hay que entender es que las cosas hay que pagarlas.  Y si vos querés que algún servicio no se pague... Digo, vos tenés que poner la diferencia.  Digo, eso es lo que es el subsidio, por decirlo de alguna manera.  Ahora, entendiendo esa lógica, me parece que la Ciudad Autónoma de Buenos Aires, o sea, la gestión de la RETA, se caracteriza por llorar, por la tibieza.  En realidad, debería ir con los tapones de punta.  O sea, si yo estuviera a cargo de esa gestión, yo iría con los tapones de punta contra el Gobierno Nacional... Y al señor Gerardo Morales lo hubiera cruzado en seco, por caradura y por mentiroso.  ¿Qué es lo que dice?  Los jujeñitos tienen que estar pagando... A ver, al Chanta de Gerardo Morales, mentiroso, le voy a decir esto.  Y también a Capitanich, que dijo lo mismo.  Los países... A ver, las provincias más beneficiadas por el sistema de coparticipación federal de impuestos son Formosa, Chaco, Catamarca, Santiago del Estero, La Rioja, Jujuy... ¿Y quiénes son los que son más perjudicados?  Perdón que los lea, pero... ",
+            "cosine_dist": 0.419814976514136,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 142694,
+            "end_time": 143094,
+            "text": "No, está bien. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 143.334,
+            "end_time": 148.736,
+            "text": "Capital Federal, que es el peor de los casos, que pierde el noventa y uno por ciento. ",
+            "cosine_dist": 0.5033336740671664,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 148.756,
+            "end_time": 150.477,
+            "text": "¿Pero qué pierde?  ¿La coparticipación?  Claro. ",
+            "cosine_dist": 0.8370493085023856,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 150.977,
+            "end_time": 217.505,
+            "text": "El eje central acá es la coparticipación.  Acá el problema central es la coparticipación.  El sistema de coparticipación federal de impuestos, como nosotros lo conocemos... fue gestado entre el año setenta y tres y setenta y cuatro con esa idea de la justicia social.  Entonces, ¿qué hacen?  Destruyen algunas provincias en favor de otras.  Entonces, ¿quiénes son los que mencioné?  Primero, a todos aquellos que se ven ampliamente beneficiados por el tema de la coparticipación.  Y dentro de los más perjudicados está la más perjudicada de todas, la Capital Federal, la Ciudad Autónoma de Buenos Aires, Santa Fe, Buenos Aires.  Entonces, es un sistema macabro.  Entonces, si vos no podés... A ver, generar la independencia de ingresos, entonces, digamos, tu política queda acondicionada.  Entonces, lo que vos tenés que hacer es ir y saltarle la yugular al gobierno nacional.  O sea, yo, por ejemplo, ya sea en la tibieza de la RETA ahora en la Ciudad Autónoma de Buenos Aires, o la tibieza también de María Eugenia Vidal cuando era gobernadora.  Bueno, a ver, si yo, por ejemplo... Provincia de Buenos Aires.  ¿Vos sabés que hay una violación del pacto de San José de Flores?  ¿Sabés qué?  Podés pedir escindir la provincia. ",
+            "cosine_dist": 0.49197454530462137,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 217.585,
+            "end_time": 227.895,
+            "text": "Está bien, déjame preguntarte algo y ya voy con Jazmín.  Lo que digo es, vos decís, las cosas hay que pagarlas.  ¿Esto qué quiere decir?  Que el porteño o el bonaerense que hoy paga dieciocho pesos el primer boleto, ¿cuánto los debería pagar? ",
+            "cosine_dist": 0.9254887319333693,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 227.915,
+            "end_time": 265.08,
+            "text": "No, no.  Bueno, porque eso sale de un cálculo que tiene que ver con la ecuación económica financiera del contrato o de las condiciones que vos fijás.  Eso es una cuestión.  Ahora, la otra cuestión que es importante es que nada es gratis.  Entonces, si vos no lo pagás de manera directa en el precio, ¿lo vas a pagar con qué?  cuando pagás el subsidio que lo pagás con impuestos.  Por eso, digamos, o sea, la discusión no es tanto si discuto cuánto el precio del colectivo, porque supongamos lo siguiente, a mí se me ocurre, no sé, subsidiar, no sé, los bombones, por decir algo.  Bueno, entonces, ok, subsidio los bombones, bueno, pero alguien lo tiene que pagar. ",
+            "cosine_dist": 0.46702951353621647,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 266.152,
+            "end_time": 274.978,
+            "text": "Está bien, pero la masa que tiene, y vos lo sabés mejor que nosotros, la masa de subsidios para el transporte es multimillonaria.  Acá, ¿cómo desarmás esa bomba? ",
+            "cosine_dist": 0.886555966308094,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 275.578,
+            "end_time": 319.082,
+            "text": "Bueno, a ver, lo que pasa es que cada jurisdicción se tendría que hacer cargo de sus propias cuentas.  Digo, eso tampoco lo quiere hacer el señor Larreta.  Porque Larreta, cuando, por ejemplo, le bajaron la coparticipación... Él hizo la más fácil, agarró y subió impuestos.  O sea, como si no lo hubiera subido un montón, y además acumular un montón de deuda, y además romper toda la ciudad, destrozarla estéticamente, con esas estupideces que se hacen en materia de diseño de la ciudad, que son horribles, rompiendo todas las avenidas, parece que odia a los porteños.  Entonces, bueno, a ver, por lo menos... si él no quiere que sufran los porteños, que desarme alguno de los kioscos del maxikiosco que es la capital federal. ",
+            "cosine_dist": 0.4410595233474559,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 319.583,
+            "end_time": 329.708,
+            "text": "Deputado, el tema del esquema de tarifas, de lo que tiene que ver con la electricidad y demás, ¿en ese sentido le parece bien que haya una diferenciación, un esquema tarifario diferente? ",
+            "cosine_dist": 0.8494710193105209,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 330.229,
+            "end_time": 394.587,
+            "text": "No, es otra salvajada... del gobierno, o sea, de vuelta, pero la idea de la justicia social, de vuelta, ¿qué hizo?  Fue y tomó un segmento que lo considera, digamos, más acomodado y va y lo destruye con más tarifa.  Ahora, la realidad también es que está fuertemente correlacionado de los lugares donde perdió el gobierno.  En realidad, digamos, vos los subsidios económicos vos los podrías eliminar,  ¿sí?,  Y lo que tenés que hacer es que no tenga impacto sobre las tarifas.  Entonces, ¿cómo se hace eso?  Por eso, si ustedes se fijan que hace un rato mencioné un término que se llama ecuación económica financiera del contrato.  Eso quiere decir que los ingresos que vos vas a generar a lo largo del periodo de concesión te tienen que alcanzar para cubrir el costo de operación y mantenimiento, el costo fiscal y el costo de capital.  Es decir, para pagar la deuda y para pagar la retribución de capital.  Así es como funciona una regulación que funciona.  Por decirlo de alguna manera.  Entonces vos, por ejemplo, una cosa que le podrías hacer es duplicar el ingreso a las empresas reguladas sin que le toque un solo peso a los consumidores. ",
+            "cosine_dist": 0.40106298087237724,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 394.608,
+            "end_time": 395.288,
+            "text": "¿Pero cómo se hace eso? ",
+            "cosine_dist": 1.0428687978309323,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 395.629,
+            "end_time": 401.416,
+            "text": "Por ejemplo, ¿viste alguna vez la factura de la mitad que tiene? ",
+            "cosine_dist": 0.6895564611531207,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 401896,
+            "end_time": 402297,
+            "text": "Impuestos. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 402.717,
+            "end_time": 404.598,
+            "text": "Ok, entonces podrías eliminar los impuestos. ",
+            "cosine_dist": 0.6528139364097985,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 405.038,
+            "end_time": 406.319,
+            "text": "Pero el Estado deja de recaudar. ",
+            "cosine_dist": 0.9174724876542419,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 406.999,
+            "end_time": 418.624,
+            "text": "Y que vaya y que baje el gasto público en otro lado, que deje de robar la política.  Es decir, que deje de robar con la obra pública, que dejen de robar con las transferencias discrecionales de nación a provincia y provincia a municipio, y que dejen de robar, por ejemplo, con estos pasamanos. ",
+            "cosine_dist": 0.5103575971635158,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 419.284,
+            "end_time": 441.098,
+            "text": "Bueno, tomo lo que te preguntaba, Jasmin, entonces vamos a hacer un ejercicio, después va a ser una pregunta final.  Sí, vos en el dos mil veintitrés te ves presidente, te ves ministro de Economía, pero yo te digo hoy.  Te dan la llave, voy a hacer como hace Seidman a las nueve de la mañana, te doy la llave del Ministerio de Economía a las nueve de la noche y te digo, sos el ministro, ¿qué haces?  Ante esta disyuntiva que tiene el gobierno de Narrelo en el fondo, que tiene que tocar los subsidios a las tarifas.  ¿Cómo haces? ",
+            "cosine_dist": 0.9719100185221727,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 441.279,
+            "end_time": 469.75,
+            "text": "No hay que ir por los parches, hay que hacer las cosas que hay que hacer.  Que es la reforma del Estado, bajar abruptamente el gasto público en las partidas que yo te acabo de decir.  Vos, por ejemplo, eliminar la obra pública de Cuajo yendo a un sistema de iniciativa privada chilena.  Eliminar las transferencias discrecionales.  Eliminar los subsidios recalibrando las ecuaciones económicas financieras del contrato.  Eliminando las jubilaciones de privilegio y eliminando el déficit de las empresas estatales.  Ahí tenés un paquete de diez puntos del PBI.  Mirá si tenés para bajar. ",
+            "cosine_dist": 0.4648514537085289,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 469.91,
+            "end_time": 476.154,
+            "text": "Pero esto no tiene costo social porque muchos en tu fuerza también hablan de hay que echar empleados públicos. ",
+            "cosine_dist": 0.908106498754567,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 476.174,
+            "end_time": 477.254,
+            "text": "No, eso en mi fuerza no. ",
+            "cosine_dist": 0.7548969322803126,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 477.554,
+            "end_time": 484.037,
+            "text": "¿No?  No hablan de echar empleados públicos.  Eso en mi fuerza no.  ¿No?  Cachanosky no es de tu fuerza, Roberto Cachanosky, que dice que hay que echar empleos públicos. ",
+            "cosine_dist": 0.9721010365346388,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 484.097,
+            "end_time": 488.258,
+            "text": "No, bueno, pero digamos, Cachanosky no está dentro de nuestro espacio. ",
+            "cosine_dist": 0.6205223630908498,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 488.358,
+            "end_time": 492.279,
+            "text": "Ok, vos qué decís respecto del tema de los empleos públicos, porque hablás del gasto público. ",
+            "cosine_dist": 0.8862427371508794,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 492.399,
+            "end_time": 584.823,
+            "text": "Nosotros, de hecho, el planteo es que son tres generaciones de reforma.  En la primera vos haces una reforma del Estado para bajar el gasto público y con eso bajar los impuestos.  Esa es... Digamos, una de las partes de la primera reforma, después una vez que vos haces eso, flexibilizás el mercado laboral hacia adelante para no violentar derechos y después abrís la economía en el marco de una reforma monetaria.  ¿Eso qué es lo que te va a permitir?  Ese conjunto de reformas te va a permitir que por lo menos durante quince años Argentina va a crecer a tasas muy fuertes.  Después en las reformas de segunda generación con una economía que crece muy fuerte, pero muy fuerte en serio, o sea, en el mundo cuando se crece fuerte es... ...cresco a tasa del siete al diez por ciento... ...es decir que voy a duplicar el PBI per cápita... ...en el lapso de siete a diez años... ...cuando vos tenés ese proceso de crecimiento...  ...¿sí?...  ...bueno, hay algunas cosas que... ...por ejemplo... ...frente a tanta creación de puestos de trabajo... ...una de las cosas que te va a pasar... ...es que vos por ejemplo podrías hacer... ...un programa de retiro voluntarios... ...entonces con un mercado laboral flexible... ...con una economía expandiéndose... ...¿qué es lo que va a  pasar?...  ...eso te va a permitir que puedan ser absorbidos... ...por el sector privado... ...otra cosa que vos podés hacer es... Frente a ese tamaño de crecimiento, frente a la cantidad de gente que está ingresando en el sector privado, ¿eso qué es lo que te va a permitir?  Hacer la reforma del sistema previsional sin quitarles derechos a los actuales jubilados.  Entonces, vos podés ir haciendo reformas que la propia dinámica te la permite, si, solo si, antes, hacer las cosas que tenés que hacer, que son las más complicadas. ",
+            "cosine_dist": 0.41076124516208057,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 585.063,
+            "end_time": 600.547,
+            "text": "Diputado, antes de preguntarle, que seguro vamos a hablarle del FMI también, le pregunto en línea de cara al dos mil veintitrés también, pero planteándose desde lo político.  Usted es libertario y asunto.  Liberal libertario.  Liberal libertario.  Bueno, y Espar también. ",
+            "cosine_dist": 0.8463770668939542,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 600.607,
+            "end_time": 604.227,
+            "text": "Sin embargo, en el Congreso no lograron... No, José Luis no es liberal libertario. ",
+            "cosine_dist": 0.8098427912204185,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 604347,
+            "end_time": 604767,
+            "text": "Es liberal. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 605.228,
+            "end_time": 606.648,
+            "text": "José Luis es liberal clásico. ",
+            "cosine_dist": 0.8314558663830813,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 607.532,
+            "end_time": 611.494,
+            "text": "¿Esa es la diferencia de por qué armaron un bloque junto?  Porque la gente a veces se pregunta, bueno, ¿por qué? ",
+            "cosine_dist": 0.8775706707599857,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 611.674,
+            "end_time": 636.765,
+            "text": "Bueno, ahí eso explica mucho de nuestras diferencias.  Porque él además pertenece a una familia de liberales clásicos, por ejemplo, que admite la existencia de fallos de mercado.  que tiene que ver con la tradición neoclásica a la Chicago, si vos querés.  Y yo digo, soy liberal libertario en la tradición austríaca.  Para mí no existen fallos de mercados. ",
+            "cosine_dist": 0.40545784025899767,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 637.045,
+            "end_time": 653.151,
+            "text": "Ok, ahora, de cara a dos mil veintitrés, en donde estas diferencias por ahí son muy sutiles para las grandes coaliciones.  ¿Tienen pensado, usted cree que así solo puede llegar a un dos mil veintitrés competitivo el liberalismo, si dentro de Juntos por el Cambio también pueden sumarse algunos que le plantean reparos a usted? ",
+            "cosine_dist": 0.8270629783642779,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 653.171,
+            "end_time": 658.778,
+            "text": "No, yo no creo en esa solución.  Yo no creo en una solución dentro de Juntos por el Cambio. ",
+            "cosine_dist": 0.6368636060937978,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 659.759,
+            "end_time": 662.221,
+            "text": "¿Y entonces tu relación con Patricia Bullrich qué significa? ",
+            "cosine_dist": 0.9757267178471941,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 662.241,
+            "end_time": 743.448,
+            "text": "Porque yo creo en otro formato de solución política.  A ver, yo lo que creo es que... Esas alianzas electorales a los fines de ganar elecciones pueden ser muy exitosas para ganar la elección, pero un desastre para gobernar.  El primer ejemplo de eso, ¿con quién lo tuvimos?  Con la alianza.  Hicieron un armado amplio, ¿para qué?  Para ganarle al peronismo.  Le ganaron al peronismo.  ¿Cómo fue gobernando?  Un desastre.  Después vino, cambiemos, se armó un frente hiper heterogéneo, ¿no?  O sea, vos tenés a Macri recitando en aquel momento, igual que ahora, liberalismo clásico, vos... Tenías, por ejemplo, a la Unión Cívica Radical, que es la internacional socialista, a las propias palomas de Juntos por el Cambio, que son socialdemócratas y algunos con algunos tintos todavía más intervencionistas y que les gusta más el canto público, y la coalición cívica, que es más de izquierda todavía que el radicalismo.  En ese contexto... ¿Qué era lo que se buscaba?  Que se le gane al kirchnerismo.  Se le ganó al kirchnerismo.  ¿Cuál fue el problema?  El gobierno fue espantoso.  ¿Por qué?  Porque cuando uno quería ir para un lado, los otros querían ir para el otro.  Mirá el problema que tenés, digamos, con las barbaridades que dice el señor Gerardo Morales.  ¿Por qué no contestó, digamos, el señor Larreta a la barbaridad, a la aberración que dijo...? ",
+            "cosine_dist": 0.3884327926336595,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 744.288,
+            "end_time": 759.038,
+            "text": "Pero yendo a lo que te preguntaba antes, Jazmín, yo lo que digo en el dos mil veintitrés, pero no tiene que ver con... que va a estar hablando otra cosa.  Yo digo, vos tenés una ambición.  Entonces algunos me preguntaban, decían, che, ¿va Milenio a la rosca?  Preguntale si quiere ser presidente, preguntale si quiere ser ministro de Economía. ",
+            "cosine_dist": 0.952705702757684,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 759.058,
+            "end_time": 815.428,
+            "text": "¿Qué querés ser en la próxima elección?  Quiero tener un país libre.  Quiero tener un país, digo, con las reformas que te estoy contando, digamos, o sea, reformas pro mercado.  Es decir, como lo pensó Alberti y Gorostiaga en la constitución del cincuenta y tres, que se puso, en mil ocho cincuenta y tres, que se puso en funcionamiento en mil ocho sesenta, y de ser un país de barro en treinta y cinco años nos convertimos en la primera potencia mundial.  Es decir, no solo que lo lograron nosotros, lo hicimos primero nosotros.  O sea, nosotros mismos.  Y esto era bastante más complicado que ahora.  Entonces, a lo que... Pero quiero volver a la pregunta muy buena que me hicieron.  ¿Cómo veo yo este problema en el fondo?  O sea, yo creo que hay que agruparse por afinidad ideológica.  Entonces, para mí tiene que estar de un lado los colectivistas, llámese las palomas de Juntos por el Cambio, o sea, Vidal, Larreta, la tibieza, con la coalición cívica, con la unión cívica radical y con los kirchneristas. ",
+            "cosine_dist": 0.4587361789414369,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 815.468,
+            "end_time": 824.809,
+            "text": "Pero vos estás diciendo entonces... Corregime si me equivoco, vos decís yo puedo romper juntos por el cambio y hacer llevarme a Patricia Bullrich y a Macri. ",
+            "cosine_dist": 0.9767662540138004,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 824.849,
+            "end_time": 877.302,
+            "text": "A ver, yo creo que, a ver, de hecho vos fíjate que hay videos de Larreta recitando keynesianismo, digamos, haciendo gala y digamos, o sea, casi mojándose hablando del gasto público y diciendo que los impuestos crean riqueza, una cosa verdaderamente... Bastante rara.  Bueno, será por eso que nos cobra tanto impuesto y que después de las elecciones, después de que prometieron todo, nos subieron los impuestos a lo porteño.  Pero digo, al margen de ese detalle, y del otro lado, ¿quiénes quedarían?  Sí, aquellos que defienden las libertades individuales, la verdadera república.  Entonces, en ese contexto, ¿quiénes tendrías?  Tendrías el espectro liberal, o sea, desde los liberales clásicos hasta los libertarios, tendrías... a distintas expresiones del peronismo, como el peronismo republicano, como el peronismo federal, como el menemismo, y obviamente, no te voy a escapar a la respuesta, a los halcones, con los cuales además me llevo muy bien. ",
+            "cosine_dist": 0.4183626845233194,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 877.782,
+            "end_time": 885.449,
+            "text": "Macri, Patricia Bullrich, Pichetto, ¿voy bien?  Sí.  ¿Eso es?  ¿Vos con ellos irías a una opción electoral en el dos mil veintitrés? ",
+            "cosine_dist": 0.9421934151428742,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 885.669,
+            "end_time": 887.891,
+            "text": "Sí, claro, para ganarle a los colectivistas, sí, claro. ",
+            "cosine_dist": 0.7007829985548355,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 888.562,
+            "end_time": 904.795,
+            "text": "recién nombró a los menemistas.  Hoy estuvo en el aniversario de un año de la muerte del expresidente Menem, se abrazó con su lemita, fue muy comentado ese abrazo.  ¿Qué representa ese abrazo?  y si sostiene esto de que fue el mejor presidente de la Argentina? ",
+            "cosine_dist": 0.8138659228793172,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 904.855,
+            "end_time": 949.908,
+            "text": "Definitivamente, lo ratifico.  Menem fue el mejor presidente de la historia argentina.  Cuando vos tomás, hay un trabajo que se llama Passing the Back, que fue escrito por Gerardo de la Pablera, Bozzoli e Irigoyen.  Se desarrolla el índice de presión macroeconómica.  Entonces tenés un indicador por el cual podés comparar a todos los gobiernos de la historia argentina.  El mejor gobierno de la historia argentina es el primer gobierno de Menem.  Por lo tanto, no solo digamos que... En lo económico.  Bueno, está bien, yo puedo opinar de las cosas que entiendo, de las otras.  estoy aprendiendo, por decirlo de alguna manera, y me asesoro con los que saben. ",
+            "cosine_dist": 0.4263987607755122,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 949.928,
+            "end_time": 953.59,
+            "text": "Pero las privatizaciones salvajes fueron parte de lo económico. ",
+            "cosine_dist": 0.9512539040966994,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 953.83,
+            "end_time": 1011.606,
+            "text": "Las privatizaciones, digo, o sea, a ver, cuando Menem llegó, en invierno no teníamos gas y cuando había era de color naranja.  Cuando Menem llegó, en la luz nos cortaban la luz.  O sea, había apagados programados que después, cortes programados, que después no se cumplían y terminaban durando muchísimo más, y nos quedábamos sin luz en verano, cuando más necesitábamos.  Es decir, todo era un desastre, todo funcionaba mal.  O sea, a ver, vos para... Recibir una línea telefónica.  tenía que esperar treinta años.  O sea, todavía está, digamos, cuando por ejemplo Alfonsín festejaba con el plan Megatel porque alguien le recibió un teléfono.  O sea, treinta años... A ver, esa era la Argentina desbastada.  O sea, y gracias a las reformas que se hicieron en los noventa, a pesar de tener los salvajes de los kirchneristas destrozando todas las empresas reguladas, haciendo daños enormes, ¿Aún todavía tenemos luz, gas? ",
+            "cosine_dist": 0.4210770629166315,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1012.166,
+            "end_time": 1025.832,
+            "text": "Quiero hablar, quiero pedirle al señor director y le doy unos instantes para que nos ponga un video y con un audio de alguien que habló respecto de tu relación menemista, pero también te hizo una acusación muy grave que es Fontanet.  ¿Lo podemos ver, señor director?  Lo vemos. ",
+            "cosine_dist": 0.9550408094295508,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1032.833,
+            "end_time": 1132.371,
+            "text": "Es una idea genial la que tiene.  Es un visionario.  Dice que Menem fue mejor presidente.  Quiso volar Río Tercero.  Es un fenómeno.  Quiso volar Telefónica, Telecom, un montón de negocios que hubiesen quedado para el país, pero bueno.  ¿Qué va a hacer?  Él quiere ir ahí.  Es lindo, ¿no?  Con ese peinado que tiene.  Y esa cola de nazi que tiene que estar al lado.  Con ese peinado que tiene.  Y esa cola de nazi que tiene que estar al.  lado.  Con ese peinado que tiene.  Bien, voy a ir por lo de los más importantes a cuestiones de segundo orden, por decirlo de alguna manera, aun cuando no sean importantes.  Primer punto.  Al señor Fontanet lo estoy demandando en este momento.  O sea, lo vamos a demandar porque Argentina es uno de los cincuenta países del mundo que firmó el IRJA.  Es decir, el IRJA tiene que ver con la banalización del holocausto.  O sea, acá usted no le puede decir nazi a otra persona.  Es un delito, eso constituye un delito.  Eso es lo primero que hay que entender.  Por lo tanto, lo voy a demandar por banalización del holocausto.  O sea, punto uno.  Es decir, con esa aberración.  Segundo punto, voy a señalar que el hombre habla de economía, verdaderamente habla de temas políticos igual que de economía, tampoco sabe nada.  La realidad es que si yo quiero, digamos, eliminar el Banco Central, o sea, una... Y a la luz de la moneda que históricamente eligieron los argentinos, seguramente vamos a quedar dolarizados, pero eso es un problema de decisión de los individuos.  Mañana quieren pasarse al euro, quieren pasarse al bitco, es cuestión de ellos. ",
+            "cosine_dist": 0.4404558423167947,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1132.391,
+            "end_time": 1143.76,
+            "text": "Está bien, pero igual lo que digo es, esa es una discusión que está dando ahora que tiene todo el derecho del mundo decirte, pero decirte nazi o tener cara de nazi es una acusación Muy grave.  Vos la dirimís en la justicia. ",
+            "cosine_dist": 0.9150632446160553,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1143.92,
+            "end_time": 1161.405,
+            "text": "Yo la voy a dirimir directamente en la justicia.  De hecho, también tengo cinco causas contra cinco periodistas que me han dicho nazi.  Es más, hasta un caso se me dijo nazi hitleriano.  Se inventó una nueva categoría de insulto. ",
+            "cosine_dist": 0.4198433888119181,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1161.625,
+            "end_time": 1165.466,
+            "text": "¿Y eso cómo lo resolves con los periodistas?  ¿Aceptás una disculpa o querés otra cosa? ",
+            "cosine_dist": 0.9902129359138376,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1165.686,
+            "end_time": 1175.75,
+            "text": "No, no, no, no.  Se van a tener que disculpar en el lugar y además me van a tener que pagar.  Así, digamos, o sea, les duele donde el órgano más sensible, que es el bolsillo. ",
+            "cosine_dist": 0.42277475859919844,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1177.09,
+            "end_time": 1193.116,
+            "text": "Diputado, le quería consultar.  Usted durante la campaña habló mucho del populismo y de este gobierno populista.  Y después cuando se sorteó su sueldo, bueno, parece un gesto un poco populista, ¿no?  Sortear.  ¿Lo va a seguir haciendo los cuatro años de mandato que quedan?  Sí. ",
+            "cosine_dist": 0.8735203565663803,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1195.276,
+            "end_time": 1315.889,
+            "text": "A ver, voy a explicar.  Primero hay una cuestión de índole conceptual.  Desde mi punto de vista, desde mi perspectiva filosófica, El Estado es una organización criminal, violenta, que vive de una fuente coactiva de ingresos que se llaman impuestos.  De hecho, los impuestos vos no los pagás voluntariamente, los pagás a punta pistola porque si no pagás vas presa.  Digo, primer punto.  Frente a esa situación, desde mi punto de vista, de vuelta, recuerden que yo filosóficamente soy anarcocapitalista.  En la vida real después soy minarquista, pero eso es porque tengo los pies sobre la tierra.  Pero mi ideal de sociedad es ese.  Frente a esa situación yo considero que ese dinero ha sido robado a la gente.  Y lo que hago yo es devolvérselo.  Es decir, yo le devuelvo ese dinero.  Es una suerte de muestra.  Muy injusto.  Bien, bueno, ahora ese es el punto exacto, Jazmín.  A ver.  Porque el punto es, ¿cómo te enseñan en la educación pública, sea de gestión privada o gestión estatal, lavadora del cerebro a Robin Hood?  Te dicen que Robin Hood le robaba a los ricos para darle a los pobres.  ¡Es mentira!  Es mentira, y eso un periódico alemán lo señaló bien.  En realidad, ¿qué era lo que hacía Robin Hood?  Le robaba al recaudador de impuestos, que venía de robarle el fruto de su trabajo a la gente honesta, que se lo quería llevar al sheriff de Nottingham.  ¿Y qué hacía Robin Hood?  Le afanaba esa plata al recaudador de impuestos.  ¿Y qué hacía?  Se la devolvía.  a los generadores de riqueza originarios.  Entonces, eso es lo que estoy haciendo yo.  Ahora digo, lo que pasa está bueno como muestra, porque vos fíjate, populismo es lo que hacen la basura de políticos que tenemos que agarran y hacen caridad con la guita ajena.  Yo, digamos, esa que en el entramado legal que tenemos es mía, yo se la devuelvo a la gente porque no me gusta cómo se la sacan. ",
+            "cosine_dist": 0.3730730489507329,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1316.069,
+            "end_time": 1343.358,
+            "text": "Déjame tener una disquisición.  Digo, vos hablás del Estado de una manera que... Pero a mí me parece que la Argentina, con casi un cincuenta por ciento de pobreza, con esta inseguridad que matan a la gente, hemos visto un montón de casos nuevamente... La desaparición del Estado sería una locura.  ¿A dónde nos iríamos sin un Estado que se ocupe de llegar a los que menos tienen a resolverle las cosas básicas, así sigan en la pobreza, sacando por ahí a la gente de la indigencia y llevándola a la pobreza? ",
+            "cosine_dist": 0.8586207029325268,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1343.398,
+            "end_time": 1356.903,
+            "text": "A ver, vos fíjate, Pablo, yo hablé de reformas de tres generaciones.  No es que yo dije ya.  O sea, vos, la pregunta es, ¿cómo te comes un elefante? ",
+            "cosine_dist": 0.5239383621903837,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1358.138,
+            "end_time": 1358.879,
+            "text": "No tengo la menor idea. ",
+            "cosine_dist": 1.0322132988522639,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1359.179,
+            "end_time": 1463.757,
+            "text": "De a pedacitos.  ¿Me comprendés?  Entonces, vos tenés familias de reformas.  Y es muy importante la secuencialidad de las reformas.  O sea, viste que yo dije, primero la reforma del Estado, bajando el gasto público, después bajar los impuestos, después reformar el mercado laboral hacia adelante, después abrir la economía en un contexto de reforma monetaria y financiera para acabar con la inflación.  No es lo mismo la forma en la cual vos haces esa reforma.  Por ejemplo, vos, el gobierno de la dictadura, ¿qué hizo?  Abrió la economía.  No bajó ni los impuestos ni reformó el mercado laboral.  ¿Qué hizo?  Hizo un desastre.  Generó un, digamos, un industricidio.  Reventó un montón de empresas.  O sea, mandó un montón de gente a la calle.  Bueno, ¿por qué?  Porque no reformó ni el sistema laboral ni tampoco reformó, digamos, el sistema impositivo.  Porque si vos... Te abrís la economía, tu precio va a estar topeado por lo que pasa en el mundo.  Si vos tenés una presión fiscal más alta, ¿cómo vas a compensar?  Con menores salarios.  Ahora, con menores salarios, o sea, si vos tenés un mercado laboral inflexible, se te genera desempleo.  Si el mercado, digamos, es flexible, tenés un despiole social.  Bueno, entonces, es reformas y con la secuencialidad que te señalé.  Eso es lo que te va a permitir crecer y hacer los distintos tipos de reformas.  Entonces, digo... Además, te voy a decir algo.  Aquellos que son los vulnerables de esta economía no son los culpables de lo que pasa, son las víctimas.  Obvio.  Cuando vos vas a hacer la reforma del Estado, los que tienen que perder son los ladrones y los políticos, no la gente honesta que es víctima de la existencia del Estado. ",
+            "cosine_dist": 0.40814413222819634,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1464.037,
+            "end_time": 1475.681,
+            "text": "Tenemos el tramo final, obviamente tenemos un montón de preguntas para hacer con Jazmín.  Voy, Jazmín, a tu pregunta que tenía que ver con el graph que tenemos.  Vamos a tratar de hacer un ping-pong final.  ¿Te parece?  ¿Te animás a un ping-pong final? ",
+            "cosine_dist": 0.9422580681667321,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1476.261,
+            "end_time": 1478.842,
+            "text": "Salvo que me pidas que sí o no, que sabes que no contesto sí o no. ",
+            "cosine_dist": 0.6496870330103858,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1478.942,
+            "end_time": 1482.145,
+            "text": "No, de mi anarquismo no te voy a preguntar.  Dale.  Los sorteos de Milei. ",
+            "cosine_dist": 0.9525689592543928,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1482.165,
+            "end_time": 1483.425,
+            "text": "ya lo contestó. ",
+            "cosine_dist": 0.9490197586506717,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1483.766,
+            "end_time": 1488.328,
+            "text": "Bueno, perfecto.  ¿Te dolió que el primero que ganara el sorteo fuera un kirchnerista? ",
+            "cosine_dist": 0.9106416699249076,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1488.428,
+            "end_time": 1512.866,
+            "text": "No, para nada.  ¿No?  Para nada, porque esas son las reglas.  A ver, el tema es, yo se lo devuelvo a la gente, hay distintos mecanismos.  Por ejemplo, una cosa que podría hacer es quemar, agarrar ese dinero y quemarlo.  Entonces, ¿qué haces?  Achicás los saldos reales, eso tendría un efecto en precio, pero sería tan bajo que me parece mucho más interesante agarrar y sortear y quién se lo lleva. ",
+            "cosine_dist": 0.4397059641860279,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1513.066,
+            "end_time": 1522.012,
+            "text": "Diputado, le consulto esto por el FMI.  Usted es de los pocos que dijo que ya va a votar en rechazo junto con la izquierda.  ¿Los extremos se tocan? ",
+            "cosine_dist": 0.9257103097671661,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1522.652,
+            "end_time": 1523.793,
+            "text": "Pero por motivos distintos. ",
+            "cosine_dist": 0.8059387425808162,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1524.714,
+            "end_time": 1534.56,
+            "text": "Pero lo mismo le pasa junto por el cambio.  Si se abstienen, se van a estar medio parecidos con Máximo.  ¿Vos estarías de vuelta con Nicolás del Caño o del Pla? ",
+            "cosine_dist": 0.9897676199836561,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1534.72,
+            "end_time": 1627.062,
+            "text": "Está bien, yo voy a explicar la situación.  A ver, por ejemplo, en el mundo el FMI es muy cuestionado.  Es decir, acá se lo cuestiona por duro, en el mundo se lo cuestiona por blando.  Es decir, a mí el fondo me parece hiperlaxo.  Y yo voy a votar en contra de lo que propone el gobierno porque básicamente la presentación de Guzmán fue muy clara desde mi punto de vista.  A ver, punto uno, lo que propone tiene errores teóricos, violenta algo que en economía se llama el multiplicado del presupuesto equilibrado porque él dice que si aumenta el gasto público sube tanto el PBI que el déficit en términos de PBI-K, lo cual es falso.  En términos empíricos es falso, porque eso en Argentina... ...de los últimos ciento veintiún años se hizo durante ciento once... ...y debe ser el país más rico del mundo... ...somos setenta al tipo de cambio oficial... ...y al dólar Mickey Mouse... ...y al dólar paralelo somos ciento treinta... ...es decir, un escándalo... ...porque además tenemos casi cincuenta por ciento de pobres... ...once por ciento indigentes... ...por lo tanto, o sea... ...eso ya de por sí va mal, y además... Ese programa es recontracasta porque aumenta el gasto público en términos reales y quiere decir que le manda más ajuste al sector privado.  Por lo tanto, es inadmisible.  Solo aceptable por... Tibios, como los de Juntos por el Cambio, o gente vinculada a depender fuertemente de gobernadores como Morales, que quieren más plata nada más. ",
+            "cosine_dist": 0.4156956711344709,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1627.182,
+            "end_time": 1635.689,
+            "text": "Pero vamos a suponer que se impone tu posición, lo que te gustaba, Jasmín, y se rechaza el acuerdo con el fondo.  ¿Qué le sigue al país? ",
+            "cosine_dist": 0.9081491323889553,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1636.13,
+            "end_time": 1642.651,
+            "text": "Esa es otra discusión.  y no es que... Si yo estuviera a cargo de esto, ni siquiera estaríamos en el FMI. ",
+            "cosine_dist": 0.5790568879914506,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1642.711,
+            "end_time": 1646.735,
+            "text": "Bueno, pero fue Macri con quien vos hablás el que se endeudó en cuarenta y cinco mil millones. ",
+            "cosine_dist": 0.820396463281386,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1646.775,
+            "end_time": 1760.216,
+            "text": "Bueno, de vuelta, yo fui un crítico acérrimo del gobierno de Macri en su gradualismo fiscal.  Es decir, hay videos en esta casa donde los critico fuertemente.  O sea, critico fuertemente... como lo orientaba el señor Jaime Durán Barra y Marcos Peña, es decir, el error de poner a un keynesiano como Prat-Gay en el inicio.  Fui muy crítico, está en los videos, no hace falta ni que lo repita.  Ahora, el punto es el siguiente.  En ese contexto, lo que se está discutiendo es quién paga el ajuste.  Ejemplo, el kirchnerismo duro o la izquierda, ¿qué quieren que lo pague?  Que lo pague el FMI, o sea, un default.  O sea, si vos defaulteás, ¿qué es lo que va a pasar?  El precio de los bonos se destruye, la tasa de interés se va a la estratosfera, eso genera una caída en la inversión, en la actividad, en el empleo, aumenta a los pobres y a los indigentes.  O sea, que querías hacérselo pagar al FMI y es causarte un desastre interno.  La otra alternativa que es, El ala moderada del gobierno y Juntos por el Cambio, básicamente, ¿qué es lo que quieren?  Quieren un acuerdo en el fondo donde saben que si se produce ese estallido, se lleva puesta toda la casta política.  Entonces, con tal de defender a la casta, ¿qué hacen?  Le mandan un brutal ajuste al sector privado.  Bueno, yo no voy a aceptar eso.  Yo no voy a aceptar, digamos, dejarles pasar... que le vuelvan a meter la mano en el bolsillo a la gente, que no se empobrezcan, porque además ese programa va a ser recontra recesivo, no lo van a sostener y también va a explotar por los aires.  Lo que nosotros proponemos, los liberales libertarios, es que se pongan las cuentas en orden.  Ni siquiera que haya déficit, pero el ajuste lo tiene que hacer la basura de la política.  Tienen que perder los políticos.  Y si no quieren perder, que se los lleve puesto la crisis y que se produzca, digamos, una rase de toda la casta política que empobrece a la gente. ",
+            "cosine_dist": 0.3810927174915405,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1760.837,
+            "end_time": 1764.218,
+            "text": "Javier Milei, gracias por este rato aquí con Jazmín y conmigo acá en La Rosca. ",
+            "cosine_dist": 0.9661408266159954,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1764.578,
+            "end_time": 1765.178,
+            "text": "Gracias, Pablo. ",
+            "cosine_dist": 0.9457963012725842,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1765.258,
+            "end_time": 1787.744,
+            "text": "Gracias, Jazmín.  Muy amable.  A la mierda los malditos empresarios A la mierda Sodomitas el capital Basta de basura keynesiana.  Ha llegado el momento liberal.  Tenemos un líder y él es un gran rebelde. ",
+            "cosine_dist": 0.9682649303083913,
+            "is_target_speaker": false
+        }
+    ]
+}

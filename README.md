@@ -12,9 +12,12 @@ Che y si queremos hacer un LLM que hable de la misma forma que un famoso ... com
 
 ## Links para ir leyendo y tener en cuenta
 - https://www.philschmid.de/fine-tune-llms-in-2024-with-trl
+- https://github.com/huggingface/alignment-handbook
+- https://github.com/unslothai/unsloth
 - https://predibase.com/blog/lora-land-fine-tuned-open-source-llms-that-outperform-gpt-4
 - https://medium.com/@xuebinbin12/fine-tuning-chat-based-llm-with-multi-turn-conversational-data-part-i-d8c64d01a20d
-- https://github.com/e-p-armstrong/augmentoolkit
+- https://github.com/e-p-armstrong/augmentoolkit, https://github.com/severian42/Vodalus-Expert-LLM-Forge, https://huggingface.co/blog/dvilasuero/synthetic-data-with-llama3-distilabel
+- https://huggingface.co/docs/transformers/main/en/chat_templating
 - https://huggingface.co/blog/burtenshaw/domain-specific-datasets
 - https://huggingface.co/spaces/argilla/domain-specific-datasets-welcome
 - https://www.reddit.com/r/LocalLLaMA/
@@ -63,26 +66,26 @@ Esta es la estructura de los JSON que vamos a tener de output, eg. `./output/mil
 
 **Top-level keys:** These are metadata fields providing information about the video.
 
-- "Index": An integer index.
-- "channel_id": The ID of the YouTube channel.
-- "channel": The name of the channel.
-- "uploader_url": The URL of the uploader's YouTube page.
-- "id": The ID of the video.
-- "url": The URL of the video.
-- "title": The title of the video.
-- "duration": The duration of the video in seconds.
-- "view_count": The view count of the video.
-- "candidate_name": The name of the candidate.
-- "quality": The quality of the video.
+- `Index` An integer index.
+- `channel_id` The ID of the YouTube channel.
+- `channel` The name of the channel.
+- `uploader_url` The URL of the uploader's YouTube page.
+- `id` The ID of the video.
+- `url` The URL of the video.
+- `title` The title of the video.
+- `duration` The duration of the video in seconds.
+- `view_count` The view count of the video.
+- `candidate_name` The name of the candidate.
+- `quality` The quality of the video.
 
 **Segments:** An array of dictionaries, each representing a segment of the video with the following keys:
 
-- "speaker": The speaker of the segment.
-- "start_time": The start time of the segment in seconds.
-- "end_time": The end time of the segment in seconds.
-- "text": The text spoken during the segment.
-- "cosine_dist": The cosine distance value (probably used for speaker verification).
-- "is_target_speaker": A boolean indicating if the speaker is the target speaker.
+- `speaker` The speaker of the segment.
+- `start_time` The start time of the segment in seconds.
+- `end_time` The end time of the segment in seconds.
+- `text` The text spoken during the segment.
+- `cosine_dist` The cosine distance value (probably used for speaker verification).
+- `is_target_speaker` A boolean indicating if the speaker is the target speaker.
 
 ```json
 {

@@ -918,7 +918,7 @@ def main():
 
             words_list = list(map(lambda x: x["word"], wsm))
 
-            labled_words = punct_model.predict(words_list)
+            labled_words = punct_model.predict(words_list, chunk_size=100) # https://github.com/oliverguhr/deepmultilingualpunctuation/pull/15
 
             ending_puncts = ".?!"
             model_puncts = ".,;:!?"

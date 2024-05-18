@@ -1,0 +1,1383 @@
+{
+    "Index": 210,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "ajrRPM3SdM8",
+    "url": "https://www.youtube.com/watch?v=ajrRPM3SdM8",
+    "title": "MILEI DESTROZÓ A PUTIN - Javier Milei en Canal Metro 22/4/2022",
+    "duration": 1714.0,
+    "view_count": 207242,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 1",
+            "start_time": 0.06,
+            "end_time": 1.07,
+            "text": "Quiero felicitarte. ",
+            "cosine_dist": 0.9711100188780812,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1.47,
+            "end_time": 7.614,
+            "text": "¿Qué hice?  ¿Qué hice?  ¿Qué hice?  ¿Qué hice?  ¿Qué hice?  La más grande fue la de Alfonsín. ",
+            "cosine_dist": 0.7697206679885702,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 7.654,
+            "end_time": 10.155,
+            "text": "Bueno, yo te hablo. ",
+            "cosine_dist": 0.7888375149212525,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 11.056,
+            "end_time": 19.021,
+            "text": "Ella es un poquito más grande.  Qué forma de hacerle bullying a un invitado, tratarlo de viejo así.  Encima se te ríe. ",
+            "cosine_dist": 0.7605377481592446,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 19.221,
+            "end_time": 20.342,
+            "text": "Gracias por la corrección. ",
+            "cosine_dist": 0.9567021361338318,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 20.362,
+            "end_time": 23.123,
+            "text": "No, no, no, no fue una corrección, me estoy defendiendo. ",
+            "cosine_dist": 0.8539103866952664,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 24.711,
+            "end_time": 28.553,
+            "text": "La Argentina de nuestros abuelos, que era una Argentina rica, como vos explicabas recién. ",
+            "cosine_dist": 1.010195850267622,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 29.053,
+            "end_time": 31.014,
+            "text": "Sí, por lo que me dijiste antes, vendría a ser la de mis padres. ",
+            "cosine_dist": 0.7542986379037295,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 31.775,
+            "end_time": 70.757,
+            "text": "También tu idea, también tu idea.  Patricia Bullrich, una palabra, una palabra.  Bueno, contra cara, perdón.  El ministro de Economía, su amigo Guzmán.  Cristina Kirchner.  El presidente Alberto Fernández.  Domingo Cavallo.  Y tenemos a... Hola a todos, bienvenidos, bienvenidos como siempre a Revelados.  Y ahora vas a escuchar el tema musical directo cuando quieras, porque hoy tenemos a un invitado súper especial.  Escuchá.  Pero por supuesto, sí, tenés razón.  Bienvenido tenemos en el estudio.  Y es un honor para nosotros recibirlo al diputado nacional Javier Milei.  Enorme placer. ",
+            "cosine_dist": 0.8782890202787097,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 71.117,
+            "end_time": 73.519,
+            "text": "¿Qué tal, Javier?  Un gusto enorme estar aquí nuevamente. ",
+            "cosine_dist": 0.8461029617172063,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 73.559,
+            "end_time": 83.465,
+            "text": "Igual, para nosotros.  Gracias, ante todo, por tu tiempo, que es tirano.  Lo sé.  Y que estés acá compartiendo esta entrevista con la gente del otro lado también.  Como dije, un honor enorme. ",
+            "cosine_dist": 0.9263677476552072,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 84145,
+            "end_time": 84445,
+            "text": "Gracias. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 84.786,
+            "end_time": 86.267,
+            "text": "Ante todo, quiero felicitarte. ",
+            "cosine_dist": 0.916238956605522,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 86.667,
+            "end_time": 91.451,
+            "text": "¿Qué hice?  ¿Qué hice?  ¿Qué hice?  ¿Qué hice? ",
+            "cosine_dist": 0.879142264754592,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 91.952,
+            "end_time": 103.682,
+            "text": "No solamente de acá, sino del otro lado de la gente.  Las estadísticas te favorecen enormemente para la presidencia de dos mil veintitrés.  ¿Sos consciente de eso? ",
+            "cosine_dist": 0.8949257064500821,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 104.022,
+            "end_time": 113.781,
+            "text": "Sí, yo creo que hay dos dimensiones de la situación.  Sí.  Yo soy alguien que tiene una formación deportiva también, ¿no? ",
+            "cosine_dist": 0.4394220089328298,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 113.821,
+            "end_time": 116.123,
+            "text": "Además, sí.  Que es muy bueno en estos aspectos. ",
+            "cosine_dist": 1.05722059553879,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 116.343,
+            "end_time": 142.926,
+            "text": "Claro, porque una de las cosas muy importantes es entender que no somos tan buenos cuando ganamos ni tan malos cuando perdemos.  Por lo tanto... Estos resultados que nosotros estamos teniendo en las distintas encuestas, que además no las hacemos nosotros, que de hecho las hacen gente que mucho cariño no nos tiene.  Son imparciales.  No, no, te diría que no son imparciales, nos tiran... A matar. ",
+            "cosine_dist": 0.4107907438878847,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 143.086,
+            "end_time": 146.888,
+            "text": "Claro, bueno, pero lo que quiero decir con esto es que no son aliados de ustedes. ",
+            "cosine_dist": 0.9325217592450215,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 147108,
+            "end_time": 147549,
+            "text": "Claramente. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 147.569,
+            "end_time": 155.552,
+            "text": "Claro, son totalmente opuestos y eso suma en el momento de los resultados que son tan positivos, tan favorables. ",
+            "cosine_dist": 0.8961858907142813,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 155.592,
+            "end_time": 171.0,
+            "text": "Claro, exacto.  Entonces, aún aquellos que no nos quieren nada, que encargan estos trabajos y dan estos números, así que la verdad que estamos muy contentos, pero con mucha cautela, con mucha mesura y entendiendo que todavía no ganamos nada. ",
+            "cosine_dist": 0.40345871509769604,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 171960,
+            "end_time": 172280,
+            "text": "Están. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 173.021,
+            "end_time": 198.404,
+            "text": "Nosotros estamos trabajando, hay que seguir trabajando.  Esto es una carrera de largo aliento y esto es trabajo.  Hay que trabajar y hay que ser cuidadoso, hay que ser muy respetuoso con muchos temas, porque ahora las responsabilidades también son distintas.  Si uno quiere tomar un compromiso más grande, tiene que estar a la altura del nuevo compromiso al que está apuntando. ",
+            "cosine_dist": 0.3221987125213236,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 198.817,
+            "end_time": 220.762,
+            "text": "Exactamente.  Ahora, hay una frase que la escuché en reiteradas oportunidades, que vos decís, yo quiero, tengo como objetivo transformar a la Argentina.  Ahora, para esa transformación, ¿cuál sería ese primer puntapié?  ¿Por dónde comenzarías, por ejemplo?  Porque hay mucho por hacer.  Como bien decís, hay que trabajar, hay que trabajar muchísimo, arduamente.  ¿Por dónde iría ese primer cambio? ",
+            "cosine_dist": 0.8930334106178673,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 220.862,
+            "end_time": 232.574,
+            "text": "A ver, hay dos cuestiones.  Una es de índole conceptual.  La conceptual es volver a abrazar las ideas de la libertad.  Ideas que Argentina dejó atrás hace cien años aproximadamente. ",
+            "cosine_dist": 0.3888136215779523,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 232.654,
+            "end_time": 233.574,
+            "text": "Exacto. ",
+            "cosine_dist": 1.0160225759632615,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 233.614,
+            "end_time": 242.076,
+            "text": "Donde empieza a abrazar sucesivas dosis de socialismo y de ser el país más rico del mundo.  Hoy somos setenta al tipo de cambio oficial o ciento treinta al paralelo. ",
+            "cosine_dist": 0.3837697239489988,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 242236,
+            "end_time": 242797,
+            "text": "Tristísimo. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 243.237,
+            "end_time": 356.522,
+            "text": "Entonces lo que hay que hacer es reencontrarnos con nuestra verdadera historia original que nos había convertido en el país más rico del mundo.  Para eso hay que abrazar las ideas de la libertad.  Aquellos países que son más libres son ocho veces más ricos que los reprimidos.  El segmento más vulnerable de la población está once veces mejor que su equivalente en el país reprimido.  Es más, los más vulnerables de los países que son libres están mejor que el noventa por ciento de la población del país reprimido.  Y hay veinticinco veces menos de pobre en el formato estándar y cincuenta veces en el formato extremo.  Es decir, ir hacia el lado de la ciudad de la libertad, te diría, es un buen negocio.  al margen que en el plano moral las ideas de la libertad están por encima del colectivismo.  Pero al margen de esa situación, para no escapar a la pregunta, ok, bueno, me gusta como definición, bueno, ¿y qué hacemos?  La práctica.  Claro, o sea, vamos, quiero... Bueno, ahí lo que nosotros estamos proponiendo son tres familias de generaciones, o sea, la reforma de primera generación, segunda generación y tercera generación.  La reforma de primera generación, La secuencia es la siguiente.  Vos tenés que hacer una reforma al Estado bajando el gasto público, donde especialmente roba la política.  Eso te va a permitir bajar impuestos sin tener una crisis fiscal.  Una vez que vos avanzaste en esto, avanzaste en una reforma del mercado laboral hacia adelante, pensá que hoy hay más de seis millones de argentinos que trabajan en el mercado informal.  Es decir, esto de la sobreprotección, estas leyes que son propias del fascismo, lo que están haciendo es dejar a la gente sin trabajo, es lo que explica en parte que los chicos se vayan del país porque no tienen futuro acá.  No vas a echar a nadie de los que contrataste, pero no contratas uno nuevo.  Y eso es quien afecta principalmente a los jóvenes, que son los que tienen que estar en el mercado. ",
+            "cosine_dist": 0.30708732379208237,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 356.542,
+            "end_time": 358.444,
+            "text": "Sin duda, la desmotivación, ¿no? ",
+            "cosine_dist": 0.9125191490994782,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 358.484,
+            "end_time": 379.936,
+            "text": "Exactamente.  Y una vez que vos completaste esas dos reformas, abrís la economía.  Y en simultáneo, en paralelo, porque es una reforma que... que tiene mucho trabajo interno, es lo que se llama la reforma del sistema monetario y bancario, que a la postre terminaríamos eliminando el Banco Central para sacarnos el problema de inflación de una vez y para siempre de la Argentina. ",
+            "cosine_dist": 0.3640236579718863,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 380.076,
+            "end_time": 386.138,
+            "text": "Esta es tu idea que venís trayendo ya a lo largo de todo este tiempo.  ¿Esto sería factible? ",
+            "cosine_dist": 1.0115764258624969,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 386.958,
+            "end_time": 392.86,
+            "text": "Sí, es absolutamente factible.  Argentina tiene Banco Central desde mil nueve treinta y cinco. ",
+            "cosine_dist": 0.5547930457476243,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 393.752,
+            "end_time": 395.954,
+            "text": "antes no tuvo y funcionaba bien. ",
+            "cosine_dist": 0.9831038550890281,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 396.314,
+            "end_time": 419.873,
+            "text": "Exactamente.  El Banco Central es un invento, te diría, relativamente moderno en la historia de la humanidad.  Y en rigor, yo tengo cuestiones en contra del Banco Central que tienen que ver con una discusión moral y una discusión técnica.  Para mí la más importante igual es la moral, al margen de la técnica.  Porque en términos morales yo te diría, pero vos estás a favor del robo. ",
+            "cosine_dist": 0.36795013088418527,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 420.691,
+            "end_time": 421.611,
+            "text": "Por supuesto que no. ",
+            "cosine_dist": 1.0589956088368142,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 421.791,
+            "end_time": 427.572,
+            "text": "Ok.  Esa es una cuestión moral.  Entonces yo ahora te voy a demostrar que el Banco Central es un robo. ",
+            "cosine_dist": 0.4092420183792175,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 427832,
+            "end_time": 428093,
+            "text": "Claro. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 428.553,
+            "end_time": 437.654,
+            "text": "Por ejemplo, supongamos que estamos haciendo, es muy divertido porque está dando vuelta un video de muchos años atrás del tío Rico y los sobrinitos. ",
+            "cosine_dist": 0.3704150055315468,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 438.355,
+            "end_time": 439.175,
+            "text": "Sí. ",
+            "cosine_dist": 0.8331988215176751,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 439.215,
+            "end_time": 488.29,
+            "text": "Que encuentran la máquina que duplica las monedas.  Claro.  Pero al margen de eso, pensá este caso.  Supongamos que estamos acá y tenemos una economía que hacemos transacciones en moneda de oro.  Y de repente aparece un amigo mío que encuentra la forma de convertir el plástico en oro.  Entonces, ¿qué hacemos?  Empezamos a comprar plástico para convertirlo en oro.  Ahora yo tengo un montón de oro falso que a la vista de la gente no se nota.  Si yo me lo quedo en mi casa es una falsificación, pero no hace nada.  Yo no le estoy causando daño a nadie.  Porque digo, yo me compré el plástico, yo le pagué a mi amigo para hacer la conversión.  O sea, por ahora eso no generó ningún daño.  Ahora suponete que yo... lo quiero meter adentro de la economía.  Entonces voy y le digo a alguien, ah, vos tenés un lingote de oro, te cambio uno por un lingote mío.  Es raro, ¿no? ",
+            "cosine_dist": 0.36247646221580865,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 488630,
+            "end_time": 488830,
+            "text": "Sí. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 489.291,
+            "end_time": 523.914,
+            "text": "Te resultaría raro, porque digo, ¿para qué vamos a hacer un intercambio?  Digo, para quedarnos los dos con el mismo lingote de oro, ya sería raro.  Más raro sería si te digo, como no me lo aceptas, digo, ¿y si te doy dos lingotes?  Viste que hay un dicho que dice, cuando la limosna es grande hasta el santo desconfía.  Tal cual.  Entonces, vos no vas a ir a ponerte a negociar con lingotes.  ¿Qué vas a hacer?  Vas a generar monedas y vas a comprar cosas.  Y entonces, eso sí es una estafa, porque vos en realidad estás comprando con plástico algo que tenías que comprar en oro y que la gente en la cabeza tenía ese valor de oro. ",
+            "cosine_dist": 0.2802500916297631,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 523.934,
+            "end_time": 524.595,
+            "text": "Exacto. ",
+            "cosine_dist": 1.066136985747995,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 524.615,
+            "end_time": 563.978,
+            "text": "Entonces, ¿qué es lo que pasa?  Al aumentar la oferta de oro, sin que se haya generado ningún efecto para que vos quieras tener más oro, ¿Qué va a pasar?  El poder adquisitivo del oro va a caer.  Es decir que todos los precios expresados en términos de oro van a subir, o sea, inflación.  ¿Y quién es el que puede hacer esa replicación idéntica?  El Banco Central.  Y cuando financia al fisco, está falsificando moneda, es decir, te está estafando, te está robando.  Entonces, fíjate esto, ¿y sabés cuánto?  ¿Financió en los últimos dos años el Banco Central al Tesoro?  ¿Al gobierno? ",
+            "cosine_dist": 0.30597180004892766,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 564218,
+            "end_time": 564619,
+            "text": "¿Cuánto? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 565.079,
+            "end_time": 576.747,
+            "text": "Once puntos del PBI.  ¿Te das cuenta que es una estafa colosal?  Es decir, si lo tomamos al tipo de cambio oficial, estaríamos hablando de más de cincuenta y cinco mil millones de dólares. ",
+            "cosine_dist": 0.37952816488235164,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 576.767,
+            "end_time": 577.388,
+            "text": "Es una locura. ",
+            "cosine_dist": 0.995906658401641,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 577.628,
+            "end_time": 583.452,
+            "text": "Y si lo estuviéramos mirando al paralelo, estaríamos hablando de treinta y tres mil millones de dólares. ",
+            "cosine_dist": 0.4362632259043282,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 584.73,
+            "end_time": 601.643,
+            "text": "Es una estafa.  Total, un desfasaje total.  Ahora, bien decís, hablaste de la inflación, sacamos el Banco Central.  O sea, que sería como una de las primeras aristas para comenzar a controlar el tema de la economía.  Estamos atravesando la inflación más grande, yo creo, que de la historia. ",
+            "cosine_dist": 0.8995215236562133,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 601.663,
+            "end_time": 602.824,
+            "text": "En los últimos veinte años, ¿no? ",
+            "cosine_dist": 0.8477350216320292,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 602.864,
+            "end_time": 603.544,
+            "text": "Sí, sin dudas. ",
+            "cosine_dist": 0.9497884375513439,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 603.684,
+            "end_time": 605.626,
+            "text": "No, la más grande fue la de Alfonsín. ",
+            "cosine_dist": 0.6988571984582732,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 605826,
+            "end_time": 605986,
+            "text": "Bueno... ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 609.923,
+            "end_time": 615.108,
+            "text": "Yo soy un poquito más grande.  No hacía falta que, digamos... ",
+            "cosine_dist": 0.6538220878963844,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 615.208,
+            "end_time": 619.472,
+            "text": "No, bueno, me remito a los libros.  Tenés razón.  De hace veinte años.  Es cierto. ",
+            "cosine_dist": 0.929635952247404,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 619.512,
+            "end_time": 621.134,
+            "text": "La infusión más alta de los últimos veinte años. ",
+            "cosine_dist": 0.7141629544641699,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 621.154,
+            "end_time": 626.479,
+            "text": "Claro, que yo recuerdo.  De los últimos veinte años.  Es terrible.  Hace poco el presidente dijo... ",
+            "cosine_dist": 0.8873624620054871,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 626.499,
+            "end_time": 628.541,
+            "text": "¿Qué forma de hacerle bullying a un invitado? ",
+            "cosine_dist": 0.7906843733673729,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 628.561,
+            "end_time": 630.002,
+            "text": "Tratarlo de viejo así. ",
+            "cosine_dist": 0.8039419415554205,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 630.923,
+            "end_time": 635.779,
+            "text": "Encima se te ríe.  No, no, no. ",
+            "cosine_dist": 0.8492224953442586,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 635.819,
+            "end_time": 638.785,
+            "text": "Mi error fue no haberme remitido a los libros en este caso.  Sin lugar a dudas. ",
+            "cosine_dist": 0.9155372039702278,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 638.825,
+            "end_time": 641.53,
+            "text": "Hace veinte años.  Muy bien. ",
+            "cosine_dist": 0.7457960400110247,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 641.57,
+            "end_time": 643.533,
+            "text": "Gracias por la corrección.  No, no, no. ",
+            "cosine_dist": 0.8714361997383548,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 643.594,
+            "end_time": 645.437,
+            "text": "No fue una corrección.  Me estoy defendiendo. ",
+            "cosine_dist": 0.8727054394222781,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 647.06,
+            "end_time": 664.844,
+            "text": "Pero es altísima, realmente.  La gente está pasándola muy mal, la clase media está sufriendo un montón.  Entonces, ¿podemos decir, con esta explicación que quedó recontra, claro, que eliminando el Banco Central se puede empezar a controlar lo que es la inflación en Argentina? ",
+            "cosine_dist": 0.8486043977613072,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 665.064,
+            "end_time": 751.54,
+            "text": "Terminás definitivamente con la inflación.  La eliminás, la estirpás.  Porque ¿qué es en el fondo la inflación?  La inflación es la pérdida de valor de la moneda.  Entonces, si vos le sacás el control de la moneda a los políticos, no puede perder valor, porque vos qué vas a usar como dinero.  Porque lo que hay que entender es que el dinero... O sea, no es simplemente, Dios, el papelito.  El dinero puede ser cualquier bien que obre como bien de intercambio indirecto.  Porque ¿cómo era originalmente?  Vos tenías una economía de trueque.  ¿Cuál es el problema con el trueque?  Que vos tenés que justo coincidir con alguien que quiera comprar lo que vos tenés para vender y vos... Digamos, la operación opuesta, querer comprar lo que la otra persona... Eso es un problema enorme en una sociedad grande, peor todavía.  Y después está el problema de la indivisibilidad.  O sea, a mí me puede encantar comer pan, pero yo no voy a cambiar una conferencia por un kilo de pan, ni por la cantidad de kilos de pan que equivale a una conferencia, porque no voy a poder consumir ese pan, por decirlo de alguna manera.  Entonces, en ese contexto, ¿qué es lo que descubre el hombre?  Que había bienes que se intercambiaban mucho.  Entonces, por ejemplo, el trigo, el lino, la sal, el tabaco, de ahí viene el término salario.  ¿Por qué?  Porque te pagaban con sacos de sal.  ¿Viste que cuando se cae la sal en la mesa te dicen es mala suerte? ",
+            "cosine_dist": 0.30299114756799217,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 751.6,
+            "end_time": 753.781,
+            "text": "Sí, que te tenés que tirar la sal para atrás, dicen. ",
+            "cosine_dist": 1.001534138102443,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 753.801,
+            "end_time": 796.199,
+            "text": "Claro, ¿por qué?  Porque cuando vos ponías el saco en el piso pagando, si se te caía la sal, claro, era mala suerte porque podías comprar menos.  O sea, el saco pesaba menos y por ende te estabas perdiendo plata.  Entonces, y en ese proceso, vos fijate que entonces cualquier bien puede oficiar de dinero.  Ahora, lo que pasa es que hay algunos que son muy incómodos.  Por ejemplo, bueno, de vuelta, me vas a tirar con algunas sotas que tengo encima, pero había películas de cárceles, de presos, y la moneda que usaban, ¿cuál era?  Los cigarrillos.  ¿Me comprendés?  Es decir, que cualquier bien puede oficiar como dinero si cumple algunas determinadas características. ",
+            "cosine_dist": 0.31255726929645333,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 796.439,
+            "end_time": 797.18,
+            "text": "Se entiende. ",
+            "cosine_dist": 0.952490486670341,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 797.22,
+            "end_time": 861.608,
+            "text": "Entonces, acá es lo interesante.  En ese proceso los seres humanos dicen, bueno, tengo los problemas de que, por ejemplo, no sé, voy con la sal, llega a llover, se me degrada, digo, puedo tener problemas con él.  Entonces, ¿qué fueron?  Fueron por las monedas metálicas.  Entonces, para las transacciones chicas se usaba la plata y para las transacciones grandes se usaba el oro.  Y después, en el primer Congreso de Génova, los señores feudales, los emperadores, nos arruinaron la vida porque crearon el curso forzoso.  ¿Para qué?  Para poder falsificar monedas.  Por ejemplo, el término señoriaje, que es cuando vos financias... al fisco con emisión monetaria, ¿de dónde viene el señoría?  Que agarraban los señores feudales, agarraban las monedas, las sacudían para que perdiera peso y ese oro que quedaba hacía nuevas monedas.  Claro, entonces las monedas iban perdiendo peso e iba generando inflación.  Entonces, ¿por qué te exigían el curso forzoso?  Para que no uses otra que tenía otro peso. ",
+            "cosine_dist": 0.2947808399608076,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 861748,
+            "end_time": 862008,
+            "text": "Claro. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 862.948,
+            "end_time": 869.71,
+            "text": "¿Viste que, por ejemplo, las monedas... ...alrededor tienen unas ranuritas.  Bueno, ese invento lo hicieron... ",
+            "cosine_dist": 0.4564027087992437,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 869.91,
+            "end_time": 871.071,
+            "text": "No fue nada. ",
+            "cosine_dist": 0.9864865464947589,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 871.131,
+            "end_time": 889.015,
+            "text": "Claro, porque era para que justamente no te roben haciendo esto.  O sea, mirá como a lo largo del tiempo.  siempre el Estado intenta robarte.  Y en Argentina esto lo hicieron de manera grosera.  Pensá que desde mil nueve treinta y cinco en adelante... ...nosotros le quitamos trece cero a la moneda, le podríamos quitar dos más, tres más... ",
+            "cosine_dist": 0.41578281164479947,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 889.475,
+            "end_time": 898.617,
+            "text": "Bueno, hubo muchos cambios, estuvo el austral, el peso, volvió el peso, el austral, hubo patacones, lecops, bueno. ",
+            "cosine_dist": 0.8910398611041966,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 899.458,
+            "end_time": 934.544,
+            "text": "Fíjate esto, esto es muy importante, porque en rigor, o sea, a ver, si yo lo digo, lo ponemos en estos términos, hubo cinco, vos destrozaste cinco signos monetarios, por decirlo de alguna manera.  Y en rigor son seis los signos monetarios que destrozamos.  Porque viste que los pesos que tenemos ahora, antes... antes del dos mil dos, esos decían al costadito que decían convertibles de curso legal.  Es decir, se reconocía que atrás de eso vos podías con ese papel ir y reclamar los dólares por el mismo monto. ",
+            "cosine_dist": 0.32703847006623976,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 934.885,
+            "end_time": 936.246,
+            "text": "Claro, el mismo valor. ",
+            "cosine_dist": 0.8159773017680891,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 936.286,
+            "end_time": 950.779,
+            "text": "Bueno, anda a querer convertir ahora.  Es decir, dejó de ser convertible.  Entonces, ¿qué es lo que pasa?  El Banco Central emite para financiar el fisco, aumentan los pesos a la economía, pierde poder adquisitivo el peso.  ¿Qué quiere decir?  Que todos los precios en unidades monetarias suben. ",
+            "cosine_dist": 0.36169152885445466,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 951.019,
+            "end_time": 956.71,
+            "text": "Claro, porque acá, cuando uno dice aumento al dólar, en definitiva, quien pierde valor es el peso. ",
+            "cosine_dist": 0.8538655439655861,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 957.455,
+            "end_time": 964.997,
+            "text": "Esa es la reflexión exacta.  No es que sube el dólar, no es que suben los precios, sino que en realidad está perdiendo valor el peso. ",
+            "cosine_dist": 0.4351489929649561,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 965578,
+            "end_time": 966118,
+            "text": "Exactamente. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 966.138,
+            "end_time": 967.318,
+            "text": "Esa es la reflexión correcta. ",
+            "cosine_dist": 0.824484695331078,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 967758,
+            "end_time": 967978,
+            "text": "Bien. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 968.438,
+            "end_time": 972.58,
+            "text": "Ya estás mejor que el noventa por ciento de los economistas argentinos que no entienden la inflación. ",
+            "cosine_dist": 0.542594808130128,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 972.62,
+            "end_time": 977.441,
+            "text": "Es que explicas muy bien, Javier.  Además, Javier, por supuesto, todos sabemos que es un gran profesor, un gran estudiante. ",
+            "cosine_dist": 0.86601531794074,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 977.481,
+            "end_time": 978.342,
+            "text": "Ponele, ponele. ",
+            "cosine_dist": 1.0251712081939213,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 978.462,
+            "end_time": 1042.987,
+            "text": "Obvio que sí.  Pero volviendo también al tema que uno dice, también lo escuché... constantemente.  por un lado tenemos la suba de la inflación que ya quedó clarísimo.  por otro lado están los planes y por otro lado los trabajadores que es imposible que le aumenten los sueldos por.  ejemplo los privados están cerrando empresas están cerrando negocios no los pueden mantener y la gente bueno no cobra o directamente lo despiden.  el punto es el siguiente que ¿Qué harías vos con el tema respecto a la falta de trabajo que hay?  Yo lo que quiero dejar siempre en claro, el tema es que uno también huele mucha vagancia.  Por ejemplo, dire cuando quiera podemos ver imágenes de lo que fueron los cortes en la nueve de julio, tres días la semana pasada acampando.  Y no quiere decir que esto ya pasó, porque tal vez la semana que viene... O la otra, volvamos a padecer lo mismo.  Quienes trabajamos, nos cuesta llegar a nuestro trabajo, abogados que no pudieron cubrir audiencias, médicos que no llegaron a operar a sus pacientes. ",
+            "cosine_dist": 0.8914696027700776,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1043.027,
+            "end_time": 1044.167,
+            "text": "Gente que pierde el presentismo. ",
+            "cosine_dist": 0.7041618868993454,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1044.328,
+            "end_time": 1049.11,
+            "text": "Gente que pierde el presentismo, que es fundamental y lo están necesitando. ",
+            "cosine_dist": 0.885019627691264,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1049.25,
+            "end_time": 1052.732,
+            "text": "Mirá el contrasentido.  Porque esa gente está pidiendo más planes. ",
+            "cosine_dist": 0.46940155090948654,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1054295,
+            "end_time": 1054675,
+            "text": "Ahí voy. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1054.755,
+            "end_time": 1075.169,
+            "text": "¿Y con qué lo pagás?  Con nuestros impuestos.  ¿Con tu trabajo?  ¿Con tus impuestos?  ¿Que lo pagás con qué?  Con tu trabajo.  Y si no te dejan trabajar, ¿cómo generás para poder pagárselos?  Es decir, la protesta es inconsistente en sí misma.  Y además hay un problema en términos de derecho.  Vos tenés derecho a transitar. ",
+            "cosine_dist": 0.3964077888047113,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1075.901,
+            "end_time": 1077.083,
+            "text": "Está en la Constitución Nacional. ",
+            "cosine_dist": 0.9807137647499704,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1077.925,
+            "end_time": 1081.371,
+            "text": "Y esta gente está violentando tu derecho a transitar. ",
+            "cosine_dist": 0.5343112923860245,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1081.391,
+            "end_time": 1087.423,
+            "text": "¿Y por qué lo permiten?  ¿Por qué permitieron eso durante tres días, por?  ejemplo?  ¿Cuál es tu opinión? ",
+            "cosine_dist": 0.8798515701448866,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1088.061,
+            "end_time": 1091.643,
+            "text": "Porque el sistema político es un sistema cobarde. ",
+            "cosine_dist": 0.6342571634565706,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1092.023,
+            "end_time": 1093.043,
+            "text": "¿Vos lo cambiarías esto? ",
+            "cosine_dist": 0.9316457032404531,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1093.423,
+            "end_time": 1099.726,
+            "text": "Sí, yo creo que el tema de los planes hay que... Lo primero que hay que entender... Hay que regularlos para que también... ",
+            "cosine_dist": 0.598969802500507,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1099.746,
+            "end_time": 1122.178,
+            "text": "A ver, a mi entender, opino desde mi lugar, el profesional que sabe respecto al tema sos vos.  Pero a mí me da la impresión que tienen que ser... A ver, tienen que... por un tiempo, o sea, no, in eternum, constantemente, familias y familias y generaciones viviendo de planes, porque esto también, al ser humano, lo anula, anula su capacidad de recursos. ",
+            "cosine_dist": 0.8948939700002952,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1122.739,
+            "end_time": 1154.202,
+            "text": "Yo estoy de acuerdo con ese efecto, es el dicho chino que dice... Vos dale el pescado y vuelve todos los días.  O sea, enseñale a pescar y aprendió a ganarse la vida.  Ahora, vamos por partes.  Lo primero que tenemos que comprender es que aquellos que reciben los planes no son personas perversas, perse por decirlo de alguna manera.  En realidad, el problema es que son víctimas del sistema. ",
+            "cosine_dist": 0.3241739165014056,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1154.602,
+            "end_time": 1166.564,
+            "text": "Sí.  Hay un poco de todo, porque los otros días, el caso de la viuda de La Boca, resulta que era una piba de veintiún años, una vaga, que intoxicaba a gente y era una... ",
+            "cosine_dist": 0.8335249782628071,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1166.584,
+            "end_time": 1170.625,
+            "text": "Bueno, está bien, pero a ver, lo que voy es lo siguiente.  Más allá de un caso puntual, hay un problema estructural. ",
+            "cosine_dist": 0.4791804749832461,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1170.645,
+            "end_time": 1174.925,
+            "text": "El punto es que también hay una falta de investigación que nos está recibiendo también. ",
+            "cosine_dist": 0.8334344788079582,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1174.965,
+            "end_time": 1197.082,
+            "text": "Hay un problema estructural.  El problema estructural es... Esas personas son víctimas del sistema.  Y vos, digamos, frente a la víctima y al victimario, vos no vas contra la víctima, tenés que ir contra el victimario.  Sin dudas.  El victimario es la casta política.  Es decir, los responsables de este desastre son los políticos ladrones que tenemos en Argentina que nos hundan cada vez más.  Donde los únicos que progresan son ellos. ",
+            "cosine_dist": 0.309640581801365,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1197.102,
+            "end_time": 1198.784,
+            "text": "Y no les pasa nada. ",
+            "cosine_dist": 0.873864628953165,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1199.304,
+            "end_time": 1250.232,
+            "text": "Claro, es más, el sistema está tan bien armado que tenés siempre los mismos.  Yo el otro día me sorprendía, porque mi ley habla de la casta, hacemos el mía culpa que hicimos las cosas mal.  Bueno, en el sector privado te hubieran echado, no tendrías ni chance de volver.  Pero bueno, al margen de esa situación, ¿por qué...?  Aparecen los planes porque vos no generás condiciones para trabajar, que es lo que vos decías antes.  O sea, las empresas se están cerrando.  No se genera... O sea, vos para poder generar puestos de trabajo tenés que invertir.  Si a vos te van a expropiar, evidentemente no vas a invertir.  Si a vos te matan impuestos, no vas a invertir.  Si vos tenés una inflación que no te permite calcular bien tus costos y tus ingresos, no vas a invertir.  Mirá todas las cosas que hacemos mal para no invertir. ",
+            "cosine_dist": 0.27047977464780115,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1250.292,
+            "end_time": 1254.674,
+            "text": "Y si también el país no da confianza, no van a venir inversiones.  Exactamente. ",
+            "cosine_dist": 0.9070843964719957,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1255.274,
+            "end_time": 1271.312,
+            "text": "Entonces, tener el problema de inversión.  Ahora, supongamos que resolvés todo eso.  Ahora, la inversión la tenés que financiar.  ¿Se financia con qué?  Con el ahorro.  Y si vos tenés, digamos, gobiernos que lo único que hacen es estimular el consumo, si vos consumís más ahorros, ahorrás menos. ",
+            "cosine_dist": 0.32071793407196125,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1271.332,
+            "end_time": 1272.593,
+            "text": "No tenés capacidad de ahorro. ",
+            "cosine_dist": 0.8776726471682454,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1273.474,
+            "end_time": 1295.374,
+            "text": "Y bueno, entonces, fíjate, todo lo que se hace mal, que lo que termina siendo que es castigar la inversión, entonces el stock de capital per cápita no sube, por lo ende no se crean ni puestos de trabajo ni los salarios suben.  Y por ende cada vez somos más pobres.  En esa misma lógica que no se generan puestos de trabajo y vos tenés todo un sistema laboral recontra regulado, los chicos no encuentran trabajo y se van. ",
+            "cosine_dist": 0.361594178962225,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1296.292,
+            "end_time": 1304.921,
+            "text": "Exactamente.  No tiene motivación, como dijimos al comienzo del programa, la Argentina de nuestros abuelos, que era una Argentina rica, como vos explicabas recién. ",
+            "cosine_dist": 0.9561113254000815,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1305.422,
+            "end_time": 1308.885,
+            "text": "Sí, por lo que me dijiste antes, vendría a ser la de mis padres.  No. ",
+            "cosine_dist": 0.7802108122049907,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1309.726,
+            "end_time": 1315.831,
+            "text": "Entonces, también tu idea... Es dolarizar la economía. ",
+            "cosine_dist": 0.9165490898836144,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1315.851,
+            "end_time": 1317.352,
+            "text": "Les pongo un poco de humor, ¿no? ",
+            "cosine_dist": 0.736944954314456,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1317.392,
+            "end_time": 1319.392,
+            "text": "No, sin duda.  Y hace falta, hace falta el humor. ",
+            "cosine_dist": 0.8593914386488539,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1319.412,
+            "end_time": 1321.033,
+            "text": "Hablar de estas cosas es bastante duro. ",
+            "cosine_dist": 0.6466955873085614,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1321.193,
+            "end_time": 1329.736,
+            "text": "Sí, sí, totalmente.  Y el programa también tiene ese mensaje de relajarse un poco, desestructurarse, pero estar informado y bien informado.  Dolarizar la economía. ",
+            "cosine_dist": 0.9096537126851083,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1330.317,
+            "end_time": 1335.199,
+            "text": "Bueno... Yo digo, son las reformas que van en paralelo a las que te señalaba. ",
+            "cosine_dist": 0.6214757021127204,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1335.219,
+            "end_time": 1336.84,
+            "text": "Sí, sería parte de tu plataforma política. ",
+            "cosine_dist": 0.9205814276054779,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1337.121,
+            "end_time": 1351.34,
+            "text": "Sí, es, de.  hecho.  Y es una reforma que primero tenés que reformar el sistema financiero.  O sea, hoy tenemos lo que se llama un sistema de encaje fraccionario.  O sea, vos llevas la plata al banco, el banco guarda una parte y el resto la presta. ",
+            "cosine_dist": 0.3374994248620551,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1351.701,
+            "end_time": 1352.902,
+            "text": "Sí, o no te vuelve. ",
+            "cosine_dist": 0.8265762011473602,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1353.322,
+            "end_time": 1355.444,
+            "text": "No, bueno, claro, el problema es que si todo el mundo quisiera... ",
+            "cosine_dist": 0.6051692443939483,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1355.464,
+            "end_time": 1356.484,
+            "text": "Que no te pase lo del corralito. ",
+            "cosine_dist": 0.9660271818798707,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1356.604,
+            "end_time": 1360.828,
+            "text": "Claro, si todo el mundo quisiera... Bueno, es lo que pasó, el sistema de encaje fraccionario... ",
+            "cosine_dist": 0.5571907684762414,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1360.848,
+            "end_time": 1362.969,
+            "text": "Lo que también con esta idea querrías evitar. ",
+            "cosine_dist": 0.9060811954983524,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1363.23,
+            "end_time": 1373.777,
+            "text": "Exactamente.  Porque con tu idea eso no pasaría.  No pasaría más porque vos tendrías, por un lado, lo que se llama el almacén de valor... Vos ponés la plata ahí, pagás un fisco como si fuera una caja fuerte y cuando querés te la llevas. ",
+            "cosine_dist": 0.3560797027022462,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1373.997,
+            "end_time": 1375.018,
+            "text": "Y es tuya, nada más. ",
+            "cosine_dist": 1.030657534293092,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1375.058,
+            "end_time": 1406.216,
+            "text": "Exactamente.  Y si vos querés ganar intereses, vas a la banca de inversión.  Entonces, por ejemplo, si invertís en un fondo que hace las cosas mal, perdés vos, perdés el fondo, pero no pierde el resto.  O sea, no se socializa la pérdida.  Entonces, el sistema es anticorrida.  Una vez que haces eso, lo que tenés que hacer es liberarlo y que compitan.  Y eso va a ser muy interesante porque cuando te tengas que endeudar, te vas a endeudar a tasa más baja.  Y cuando tengas que capturar un retorno, te van a pagar más.  Y eso va a generar una ganancia y bienestar en toda la sociedad. ",
+            "cosine_dist": 0.2566169810490544,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1406.456,
+            "end_time": 1407.116,
+            "text": "Es positivo. ",
+            "cosine_dist": 1.0321301303797241,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1407.696,
+            "end_time": 1434.406,
+            "text": "Y al margen de esto también, vos ahí podés lanzar la competencia de monedas.  La realidad es que los argentinos ya eligieron la moneda que quieran.  A mí la verdad que me da lo mismo que elijan el euro, el dólar, el yen, el rimimbi, más conocido como yuan, la libra esterlina, no sé, el franco suizo, lo que vos quieras, el oro, la plata o el bitcoin.  A mí me da exactamente lo mismo.  Yo creo que a la luz de la historia argentina elegiremos el dólar.  Y una vez que haces eso... ",
+            "cosine_dist": 0.32833976589453995,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1435.768,
+            "end_time": 1439.17,
+            "text": "También es la moneda más fuerte, la moneda en cualquier país. ",
+            "cosine_dist": 0.833263087374412,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1439.251,
+            "end_time": 1442.133,
+            "text": "Sí, es la que usa el setenta por ciento del mundo. ",
+            "cosine_dist": 0.5910768770962965,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1442.193,
+            "end_time": 1460.346,
+            "text": "Sin duda, si por algo también será.  Estabas hablando recién de la casta política.  Diré, por favor, podemos ver unas fotos.  Vamos a hacer lo siguiente, un juego.  Hablando de desestructurarnos, darle un poco, bueno, no sé, de humor.  Bueno, ella, por ejemplo, me encanta.  Patricia Bullrich, la idea es la siguiente.  La primer palabra que te viene a la mente, sin pensar, una palabra. ",
+            "cosine_dist": 0.9671414480774517,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1461.006,
+            "end_time": 1462.007,
+            "text": "Una persona frontal. ",
+            "cosine_dist": 0.7170047114339171,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1462.583,
+            "end_time": 1464.764,
+            "text": "Bien, a mí me encanta Patricia. ",
+            "cosine_dist": 0.946996433908944,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1464.844,
+            "end_time": 1480.589,
+            "text": "¿Harías también equipo con Patricia?  Bueno, a ver, una de las cosas que yo siempre he dicho de Bullrich es que en este negocio complicado que es la política, es una persona que siempre me fue de frente, que nunca me mintió.  O sea, ella está en un espacio... Bueno, claro, por eso lo digo. ",
+            "cosine_dist": 0.4601535043895628,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1480609,
+            "end_time": 1481149,
+            "text": "Sí, hay pocos. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1481.469,
+            "end_time": 1487.173,
+            "text": "Y además, yo digo... Tiene unos ovarios así de grandes, me encanta. ",
+            "cosine_dist": 0.7266252334589368,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1487.493,
+            "end_time": 1493.518,
+            "text": "Otra, a ver, bueno, el presidente de Ucrania, a ver, ¿qué?  Una palabra. ",
+            "cosine_dist": 0.8933288779107693,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1494.758,
+            "end_time": 1500.803,
+            "text": "Cojonudo, ¿no?  Sí, sí, sin dudas, sí.  Perdón, Dios, es un poco fuerte. ",
+            "cosine_dist": 0.5690209994725668,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1500.823,
+            "end_time": 1505.247,
+            "text": "A mí en estos momentos me da como una envidia tener un presidente así. ",
+            "cosine_dist": 0.8325036361530731,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1506.788,
+            "end_time": 1508.33,
+            "text": "Sí, las tiene bien puestas. ",
+            "cosine_dist": 0.8775108193044696,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1508.39,
+            "end_time": 1510.611,
+            "text": "Muy bien puestas, sí.  Un aplauso para Zelensky. ",
+            "cosine_dist": 0.9886231927684479,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1510692,
+            "end_time": 1511012,
+            "text": "Claro. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1511.372,
+            "end_time": 1515.956,
+            "text": "Bueno, contra cara.  Perdón, no te quiero decir nada, decilo vos. ",
+            "cosine_dist": 0.9792876481244663,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1515.996,
+            "end_time": 1519.759,
+            "text": "Un autócrata.  No quiero instigar nada.  Un autócrata. ",
+            "cosine_dist": 0.6500602874345476,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1520.12,
+            "end_time": 1524.958,
+            "text": "Bien.  Otro.  El ministro de Economía, su amigo Guzmán. ",
+            "cosine_dist": 0.8170943119340329,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1525.278,
+            "end_time": 1530.061,
+            "text": "El Pelele.  El Pelele.  Listo.  El Pelele.  Sacamos, Barrida.  El Pelele. ",
+            "cosine_dist": 0.8809641506456913,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1531.482,
+            "end_time": 1532.282,
+            "text": "Cristina Kirchner. ",
+            "cosine_dist": 1.0378152051674716,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1537.685,
+            "end_time": 1539.146,
+            "text": "Digamos, la reina de los populistas. ",
+            "cosine_dist": 0.656295812215864,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1539.946,
+            "end_time": 1543.988,
+            "text": "Bien.  El presidente Alberto Fernández. ",
+            "cosine_dist": 0.8784073914106499,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1544.188,
+            "end_time": 1548.291,
+            "text": "Un títere. ",
+            "cosine_dist": 0.9028925763782493,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1548.311,
+            "end_time": 1549.031,
+            "text": "Domingo Cavallo. ",
+            "cosine_dist": 0.9245620504087094,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1549.571,
+            "end_time": 1550.912,
+            "text": "El mejor ministro de Economía de la historia. ",
+            "cosine_dist": 0.7417026785487212,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1551.186,
+            "end_time": 1552.487,
+            "text": "Bien.  Y tenemos a... ",
+            "cosine_dist": 0.9732325508754087,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1552.547,
+            "end_time": 1575.496,
+            "text": "El mejor presidente de la historia.  Sí, porque fue el mejor presidente para vos.  Mira, hay un trabajo que se llama Passing the Back, que es de Gerardo de la Paulera, Bozzoli e Irigoyen.  Vos sabés que hoy le dieron un premio a los autores porque es el artículo de historia económica más leído en la historia de la humanidad. ",
+            "cosine_dist": 0.37895132237322837,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1575656,
+            "end_time": 1576196,
+            "text": "Qué bueno. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1577.043,
+            "end_time": 1596.699,
+            "text": "Qué interesante.  Siempre les hago el chivo.  Porque es un paper que me parece muy notable.  Ellos hacen un índice que se llama Índice de Presión Macroeconómica, lo desarrolló un economista que se llama Robert Barro, y eso te permite un marco analítico para comparar todos los gobiernos de la historia. ",
+            "cosine_dist": 0.36248058606449285,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1597.279,
+            "end_time": 1598.1,
+            "text": "Impresionante. ",
+            "cosine_dist": 1.0537031954085427,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1598.12,
+            "end_time": 1601.702,
+            "text": "Y el mejor gobierno de la historia argentina es el primer gobierno de Menem. ",
+            "cosine_dist": 0.6384273148619366,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1602.063,
+            "end_time": 1602.963,
+            "text": "La primera etapa, claro. ",
+            "cosine_dist": 0.9088270931197919,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1603.003,
+            "end_time": 1606.746,
+            "text": "El primer gobierno.  Bueno, ojo que el segundo gobierno quedó tercero en el ranking. ",
+            "cosine_dist": 0.5966556336214983,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1606.966,
+            "end_time": 1609.368,
+            "text": "Bien, pero el primero fue muy bueno. ",
+            "cosine_dist": 0.8755282422114534,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1609.989,
+            "end_time": 1625.969,
+            "text": "Pero esto es muy interesante.  Fijate que los dos primeros años de Menem, hasta que llegó Cavallo, la chocó.  O sea que tuvo el mejor gobierno de la historia Menem.  con Cavallo, Ministro de Economía.  Por eso ellos son los dos mejores de la historia. ",
+            "cosine_dist": 0.4028858729751835,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1626.189,
+            "end_time": 1636.859,
+            "text": "Bien, buenísimo, buenísimo la aclaración también.  Y aprovecho para mandarle un gran saludo, un cariño a Eduardo Menem, que es parte de Revelados, siempre contamos con él, con su presencia. ",
+            "cosine_dist": 0.8933850665361418,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1636.879,
+            "end_time": 1642.485,
+            "text": "Soy muy amigo de Martín, uno de sus hijos, que está cumpliendo años. ",
+            "cosine_dist": 0.4913072430229717,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1642.865,
+            "end_time": 1659.071,
+            "text": "Le mandamos un cariño, entonces, un beso gigante.  Bueno, nos vamos un pequeño corte, ¿te quedás?  Sí.  Por supuesto.  Y vos también, pequeño cortecito, quedate ahí, por supuesto, enseguida volvemos con Revelados, Canal B. Brindamos ahora sí con vos del otro lado también por esta Argentina transformada, por una Argentina de cambios.  Tu mensaje, Javier. ",
+            "cosine_dist": 0.854192593620085,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1660.132,
+            "end_time": 1665.274,
+            "text": "Volvamos a abrazar las ideas de la libertad y eso nos traerá paz y prosperidad y felicidad. ",
+            "cosine_dist": 0.42911109284918714,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1665.931,
+            "end_time": 1713.46,
+            "text": "Absolutamente.  Brindamos con vos también.  Por una Argentina con cambios, por una Argentina con proyectos, por una Argentina fundamentalmente en donde no tengamos ganas de irnos.  Y una sorpresa para vos.  Tenemos, por supuesto, la traviata de la mano de Gala Lírica.  Nos vamos escuchándolos.  Impresionante.  Beso enorme.  Buena semana y, por supuesto, nos reencontramos siempre.  ¿En dónde?  Revelados por Canal Metro.  A la mierda los malditos empresarios, a la mierda Sodomitas el capital.  Basta de basura keynesiana, ha llegado el momento liberal.  Tenemos un líder y él es un gran rebelde. ",
+            "cosine_dist": 0.9073709861128619,
+            "is_target_speaker": false
+        }
+    ]
+}

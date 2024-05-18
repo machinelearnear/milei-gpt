@@ -1,0 +1,607 @@
+{
+    "Index": 212,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "zkJ100_yQ24",
+    "url": "https://www.youtube.com/watch?v=zkJ100_yQ24",
+    "title": "MILEI SOBRE SU VINCULACIÓN CON SERGIO MASSA - Javier Milei en La Mirada 17/4/2022",
+    "duration": 1898.0,
+    "view_count": 110451,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 1",
+            "start_time": 0.06,
+            "end_time": 7.895,
+            "text": "Una personalidad allegada a vos, como es el caso de Malatón, que hablan de que la Argentina tiene un futuro promisorio, que está todo para arriba. ",
+            "cosine_dist": 0.6859225985968045,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 7.975,
+            "end_time": 14.8,
+            "text": "Carlos es un gran entusiasta, o sea, es alguien que apoya fuertemente, pero no es alguien orgánico de lo que es la libertad de avanza. ",
+            "cosine_dist": 0.3411816719112344,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 14.9,
+            "end_time": 21.225,
+            "text": "¿Y por qué dicen que Massa, el gobierno de Fernández, te estimula para jorobar al partido de Rodríguez Larreta? ",
+            "cosine_dist": 0.5888982015028836,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 21.345,
+            "end_time": 38.482,
+            "text": "Marcos Peña tenía una obsesión que creía que yo lo criticaba a él porque me mandaba Massa.  Todas las cosas que mandó Massa voté todas en contra.  Que estas mismas estupideces las dicen Larreta o Santilli en reuniones privadas con empresarios.  Porque después me cuentan, también siguen insistiendo de que a mí me financia Eduardo Urnequian. ",
+            "cosine_dist": 0.3423866903836693,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 39.182,
+            "end_time": 45.728,
+            "text": "¿Saben quién viene esta noche acá?  El argentino más famoso.  Por lo menos el más famoso de los últimos... ",
+            "cosine_dist": 0.6502837568305477,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 45.808,
+            "end_time": 47.39,
+            "text": "¿Del que hablan todos?  ¿Del que todos hablan? ",
+            "cosine_dist": 0.9583489592832792,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 47.43,
+            "end_time": 57.821,
+            "text": "Del que todos hablan.  Del que algunos ya empezaron a decir, caso Domingo Cavallo, pero yo a Domingo Cavallo hay cosas que le creo, otras que no le creo, que va a ser el próximo presidente de los argentinos. ",
+            "cosine_dist": 0.6691965260529369,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 58.462,
+            "end_time": 59.163,
+            "text": "Durán Barba también. ",
+            "cosine_dist": 0.848567451051013,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 59.603,
+            "end_time": 60.744,
+            "text": "Durán Barba dijo otra cuestión. ",
+            "cosine_dist": 0.8472646246174589,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 60.764,
+            "end_time": 61.704,
+            "text": "Que va a ir al balotaje. ",
+            "cosine_dist": 0.875818355483924,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 62.145,
+            "end_time": 82.72,
+            "text": "Exacto.  Que iba a estar en la doble vuelta presidencial del año próximo.  Me refiero, señoras y señores, al transitado hombre de los medios, Javier Milei, que nos va a dar un reportaje aquí in.  situ.  Y si la Cámara lo decide, lo mostramos. ",
+            "cosine_dist": 0.6040326262093529,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 82.74,
+            "end_time": 84.041,
+            "text": "Sí, ya lo mostraron. ",
+            "cosine_dist": 1.0315023677290427,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 84.281,
+            "end_time": 87.003,
+            "text": "¿Ya lo mostraron?  No lo había visto.  Hola, Javier. ",
+            "cosine_dist": 0.8782140637079774,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 87.955,
+            "end_time": 89.417,
+            "text": "Hola Roberto, hola Javier. ",
+            "cosine_dist": 0.7287015383343449,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 90.439,
+            "end_time": 124.558,
+            "text": "Bien, te cuento Javier que los últimos tres días hubo dos acontecimientos casi históricos.  Uno está referido al tema de lo que fue la Semana Santa en la época que gobernaba el doctor Raúl Alfansín.  Tarea imposible la de un periodista hoy preguntarle algo nuevo a mi ley.  Porque está Javier en todos lados, te cambió la vida, casi ya no sos economista, sos un hombre de la política, hablás de todo.  Bueno, si uno quiere ser presidente tiene que hacer eso, ¿verdad? ",
+            "cosine_dist": 0.5756677575871738,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 125.606,
+            "end_time": 132.739,
+            "text": "Sí, pero yo no siento que haya dejado de ser economista.  Y mucho menos, o sea, mi posición liberal. ",
+            "cosine_dist": 0.48883690882213393,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 133.6,
+            "end_time": 178.999,
+            "text": "Bien, entonces a propósito de eso, hay algo que yo no entiendo.  Vos observás un panorama sombrío sobre la Argentina, estás hablando hace mucho tiempo de que el país se va a dar la piña, en realidad ya se la dio, creo, tal tema inflacionario, etc.  Pero, por ejemplo, una personalidad allegada a Vox, como es el caso de Malatón, y también puedo referirme a algunos economistas profesionales, medianamente respetuosos, como el caso de Álvarez Ajís, podría mencionar otros, que hablan de que la Argentina tiene un futuro promisorio, que está todo para arriba, que se va todo para arriba.  ¿Cómo es eso y esta contradicción interna que tenés vos, o cercana? ",
+            "cosine_dist": 0.6058039757296176,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 179.888,
+            "end_time": 418.555,
+            "text": "A ver, primero, Carlos es un gran entusiasta, no es parte de... Claro, no es parte de... Pero él mismo lo dice en las redes, o sea, no estoy diciendo... O sea, es alguien que apoya fuertemente, que es entusiasta, que adhiere a la sede de la libertad, pero no es alguien orgánico, digamos, de lo que es la libertad avanzada.  Ahora... Y en esa lógica, cada uno, como liberales, opinamos lo que se nos da la gana y podemos tener opiniones distintas.  Pero vamos por partes.  A ver, Argentina se pega a la piña.  Argentina se ha pegado a una piña.  A ver, Argentina arrancó el siglo XX siendo el país más rico del mundo.  Hoy el tipo de cambio oficial es setenta, al paralelo ciento treinta.  Listo, o sea, ahí hay algún problema que no fue mal.  No solo eso, Argentina... Además, su PBI no ha pasado de un determinado nivel desde el año dos mil once.  Hoy, en términos per cápita, el PBI per cápita de Argentina es catorce por ciento menor que el que teníamos en el año.  A ver, la caída del... De hecho, la caída del dos mil dos fue de diez coma seis por ciento.  Por lo tanto, o sea, y es así que fue una linda piña.  O sea, esto también.  No solo eso, sino que además tenemos los salarios del dos mil tres, los salarios reales.  Tenemos el PBI per cápita de... el año setenta y tres y tenemos una productividad de los años cincuenta.  Por lo tanto, o sea, Argentina claramente se dio una piña y por eso tiene cuarenta por ciento de pobres y tiene diez por ciento de indigentes.  Ese es el primer punto.  Segundo punto, la cuestión inflacional es una cuestión muy grave.  Para ponerlo en números, En la convertibilidad, una vez que se alcanza la estabilidad, o que se corrige los precios relativos que venían de las dos superinflaciones anteriores, Argentina tiene un promedio de inflación del uno por ciento anual.  Es decir, que requería setenta años duplicar el nivel de precios.  En el primer tramo kirchnerista, con una inflación promedio del diez por ciento, la cantidad de años para duplicar el nivel de precios pasó a siete.  O sea, en el gobierno de Cristina, que trepó al veinte, es decir, que cayó a tres coma... digamos, o sea, veinte es tres coma tres.  Tres coma cinco, perdón.  Después trepó a treinta.  en el tercer gobierno de Cristina.  Es decir que estamos hablando que para duplicar el nivel de precios se necesitaban dos coma treinta y tres años.  Después Macri vino con cuarenta.  Quiere decir que para duplicar el nivel de precios se necesitaba uno coma setenta y cinco años.  Hoy, ¿qué tenemos?  Que si miro la inflación respecto de los últimos doce meses, estoy en cincuenta y cinco.  Si miro la inflación del trimestre y la anualizo, estoy en ochenta.  Si tomo el dato punta... estoy en ciento diecisiete.  Si tomo alimentos, que es un indicador líder de la inflación, estoy en ciento treinta.  Pero recordemos que alimentos tiene que ver con la evolución de los transables, es decir, con los bienes, digamos, que Argentina exporta.  Es decir, que son vinculados a los commodities.  Entonces hay que corregir por brecha.  Quiere decir que entonces la verdadera inflación en Argentina estaría viajando a nivel del trescientos cincuenta por ciento.  Por lo tanto, o sea, la situación no solo que es muy delicada, en el plano de lo que tiene que ver con el crecimiento, sino que es muy delicada en términos de lo que tiene inflación, es muy delicada en lo que tiene que ver con el nivel de actividad.  y es muy delicada por lo político, porque las grandes crisis de Argentina, con los problemas fiscales, externos, monetarios, se terminan precipitando y se vuelven así épicas, explosiones épicas, Cuando cae la demanda de dinero.  ¿Y qué es lo que hace que la demanda de dinero caiga?  La crisis política.  Que Cristina está todo el día fogoneándola. ",
+            "cosine_dist": 0.24170321400109784,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 418.835,
+            "end_time": 423.637,
+            "text": "Te puedo cortar ahí porque si no, la cantidad de preguntas que tenemos no te las vamos a poder hacer. ",
+            "cosine_dist": 0.705601482277449,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 425.726,
+            "end_time": 430.108,
+            "text": "Es algo que te hago recurrentemente.  Exacto. ",
+            "cosine_dist": 0.6066743811505542,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 430.128,
+            "end_time": 433.809,
+            "text": "Escuchame, no me gustás más cuando estás irascible, pero... ",
+            "cosine_dist": 0.7170419306857163,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 434.369,
+            "end_time": 437.61,
+            "text": "Ah, no te gusta esta versión de mi ley amigable. ",
+            "cosine_dist": 0.8045868821368293,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 437850,
+            "end_time": 438210,
+            "text": "Exacto. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 438.55,
+            "end_time": 447.793,
+            "text": "No, pero lo que pasa es que, digamos, hay una parte de la política que está todo el día que me quiere irritar porque quiere hacer rédito electoral con eso.  ¿Y por qué? ",
+            "cosine_dist": 0.2947215789132648,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 447.853,
+            "end_time": 461.524,
+            "text": "dicen que, por ejemplo... Masa y el gobierno de Fernández en alguna medida te estimula para jorobar al partido de Rodríguez Larreta y de Macri, etc. ",
+            "cosine_dist": 0.5720853211743987,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 461.584,
+            "end_time": 516.179,
+            "text": "A ver, eso es una paranoia que viene de la época de Marcos Peña.  Marcos Peña tenía una obsesión que creía que yo lo criticaba a él porque eso, digamos, me mandaba a Masa.  Digo, primero... Es obvio que entonces, digo, me investigan, pero parece que no tanto como, digamos, sino más apego en sus preferencias, por decirlo de alguna manera.  Pero además... Es decir, ¿cómo es mi comportamiento en la Cámara?  Todas las cosas que mandó Massa voté todas en contra.  Ahora, esos fueron los que le dieron la mano al oficialismo para que pueda sacar el ajustazo con el FMI.  Porque yo voté en contra también ahí.  Entonces, la realidad, lo que debería entender el señor Marcos Peña, que lo criticaba porque era un inútil, un inepto, un incompetente.  Y que es el que... ",
+            "cosine_dist": 0.3029279417170254,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 516.419,
+            "end_time": 517.961,
+            "text": "Perdón, ese es el Milley que... ",
+            "cosine_dist": 0.7654400063462973,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 518.221,
+            "end_time": 524.588,
+            "text": "Claro, que en ese momento lo llamaba Marcos Piña porque se decía lo que iba a pasar. ",
+            "cosine_dist": 0.8554717841299548,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 524.608,
+            "end_time": 601.392,
+            "text": "Claro, entonces hay como una cuestión así patológica de vincularme con Sergio Massa, lo cual es falso.  No solo eso, sino que además... digamos, o sea, algunos de los que ustedes mencionaron, o el socio del que mencionaron, van a reuniones con empresarios y dicen la misma mentira.  Es decir, van y le mienten a la gente.  Ahora es interesante porque en una cuestión absolutamente protocolar, donde cuando tenemos las reuniones de labor parlamentaria, donde Sergio Massa, como presidente de la Cámara de Diputados, saluda a cada uno de los diputados, uno por uno, y Se toma el laburo de saludarlos por el nombre, de hacerle alguna pregunta.  Una persona muy cordial.  Esa es la realidad.  Cuando yo me estrené en la función, me saludó.  Y esa foto se viralizó y todos los cambiemitas me dijeron un montón de cosas.  Ahora, cuando yo estaba con una responsabilidad institucional, porque estaba con el presidente de la Cámara.  Qué interesante, ¿no?  Porque en una reunión donde Larreta lo podría haber esquivado, estaba y se sacó, digamos, tiene la misma foto.  Y después se sacaron una foto juntos.  Y ahí los cambiemitas dicen, qué gran integrador, Horacio, vamos.  Muchachos, ¿por qué no se ponen de acuerdo con lo que quieren hacer? ",
+            "cosine_dist": 0.24259663020997968,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 601.412,
+            "end_time": 607.578,
+            "text": "En realidad, Rodríguez Larreta y Massa están integrados hace mucho tiempo.  Ah, por eso. ",
+            "cosine_dist": 0.6102025088767131,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 607.798,
+            "end_time": 640.813,
+            "text": "Pero ese es otro tema.  ¿Y puedo hacer otro descargo más?  Que estas mismas estupideces las dicen estos personajes, como Larreta o Santilli, en reuniones.  privadas con empresarios, porque después me cuentan, me entero.  Entonces, ¿qué es lo que pasa?  También siguen insistiendo de que a mí me financia Eduardo Urnequian.  O sea, a ver, yo era el economista jefe de Corporación América.  Y el día nueve de diciembre... Yo renuncié a mi trabajo.  ¿Por qué?  Porque el día esa se asumió. ",
+            "cosine_dist": 0.2706366206418044,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 641.154,
+            "end_time": 652.04,
+            "text": "Acá hay una cuestión mucho más importante que no tiene nada que ver si renunciaste o no renunciaste.  Todo el mundo sabe lo que es sacarle un peso a Eduardo Núñez.  Así que eso es imposible. ",
+            "cosine_dist": 0.630402795024277,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 652.22,
+            "end_time": 693.885,
+            "text": "Bueno, está bien.  Está claro, esa es la realidad.  Es más, cuando yo decidí lanzarme... A mí me llamó Eduardo y me dijo, hacía falta que te metieras en este quilombo.  O sea, me vas a traer problemas.  O sea, justamente a Eduardo no le gustó la decisión.  Me decía, hacía falta esto.  O sea, digo, sigo acá, trabajaba.  ¿Qué hice?  Para evitarle problemas a la empresa, hice licencia sin goce de sueldo.  Y cuando accedí a la banca, Renuncié antes de estar formalmente en la banca.  Entonces, vamos.  Y lo que decís vos, Roberto, es así. ",
+            "cosine_dist": 0.32272855596438277,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 694.405,
+            "end_time": 695.185,
+            "text": "Ahora, yo tengo una... ",
+            "cosine_dist": 1.082785757648973,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 695.906,
+            "end_time": 699.188,
+            "text": "¿Puedo hacer una pregunta sola?  Sí, sí, claro.  Y después te doy todo el espacio a vos. ",
+            "cosine_dist": 0.7771118008634451,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 699.208,
+            "end_time": 699.808,
+            "text": "No, no, era con esa. ",
+            "cosine_dist": 1.0617214599692517,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 701.209,
+            "end_time": 718.773,
+            "text": "Vos hace cuarenta y ocho horas dijiste que estabas a favor de que la gente pudiera tener la cantidad de armas que quisiera.  Sí.  Es una revelación liberal, digamos, que provoca algún tipo de shock.  ¿Me la podés explicar en menos de un minuto?  Sí. ",
+            "cosine_dist": 0.5853355070044031,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 720.054,
+            "end_time": 750.312,
+            "text": "A ver, cuando las armas están prohibidas, o sea, los que no pueden acceder son los honestos, los delincuentes las tienen igual.  Por lo tanto, cuando vos prohibís las armas, el costo esperado de un crimen baja.  Entonces, el beneficio esperado aumenta y la actividad, por ende, aumenta.  ¿Y qué muestra la evidencia empírica?  Por ejemplo, en Estados Unidos, que hacen este tipo de estudios, o sea, los estados que tienen libre portación de armas tienen menos delitos que, digamos, estas versiones progres que terminan generando mucho más delitos. ",
+            "cosine_dist": 0.3206563404571038,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 750.472,
+            "end_time": 761.137,
+            "text": "Ahora, en ese caso, si uno lo traslada, por ejemplo, al uso de drogas, ¿También estás interesado en la libertad del consumo de drogas? ",
+            "cosine_dist": 0.590457033869588,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 761.317,
+            "end_time": 810.792,
+            "text": "Ahí el tema de la droga es una cosa más compleja.  ¿En qué sentido?  La pregunta es quién paga la cuenta.  Es decir, supongamos que Javier se quiere drogar.  Ok, yo no tengo ningún problema en que Javier se drogue.  Ahora, el tema es quién paga la cuenta.  Porque si vos tenés estado de bienestar... Yo no me quiero meter en las cuestiones entre ustedes.  O sea, ese es un problema de ustedes.  Yo lo que digo es la siguiente.  O sea, si alguien decide hacerlo, yo no tengo problema.  O sea, yo no tengo problema.  A mí me molesta que me pasen la cuenta.  Entonces, si vos tenés estado de bienestar, ese estado además se ocupa de... lo que tiene que ver con la salud.  Entonces, si una persona decide drogarse y arruinar su vida y los costos los tengo que pagar yo, no. ",
+            "cosine_dist": 0.30150375431645304,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 812.433,
+            "end_time": 819.858,
+            "text": "¿Cuál fue la reacción de Milton Friedman cuando su hijo se hizo adicto al consumo de drogas? ",
+            "cosine_dist": 0.6356793395405582,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 820.538,
+            "end_time": 922.84,
+            "text": "No sé cómo reaccionó Milton Friedman, pero Milton Friedman tiene un análisis muy parecido con el tema de la inmigración.  Es decir, Milton Friedman pertenecía a una familia polaca que va a Estados Unidos, llega a Brooklyn, y él decía, bueno, ¿estamos a favor o no de la inmigración?  Bueno, depende la respuesta.  Y dice, y mire que yo, digamos, vengo de una familia judía de Polonia que se vino para acá.  ¿Y por qué decía eso?  Porque todo depende si hay estado de bienestar o no.  Porque si hay estado de bienestar, ¿cuál es el problema?  El problema es que va a venir alguien a usar tu estado de bienestar y vos tenés que pagar la cuenta.  Entonces, en ese caso te terminan regulando.  Es decir, claramente que lo mejor sería que ni siquiera existiera la frontera, si fuera por eso, en el límite del anarcocapitalismo.  Pero el problema es, bueno, primero que los estados existen.  Entonces, vos tenés una condición inicial, lo que se llama condición de estado.  Y la otra es que encima hay estado de bienestar.  Entonces, te tiene que trasladar la cuenta.  Entonces, yo sería más proclive en línea con... La visión libertaria es desmantelar el estado de bienestar para que podamos avanzar en una mayor libertad.  Pero, ¿qué pasa?  La libertad también implica responsabilidad.  Y así como vos vas a disfrutar de los beneficios de tu acción, también te tenés que hacer cargo de los costos.  Y si los políticos siguen promoviendo una sociedad de preadolescentes, bueno, la cosa termina con estos problemas que tenemos ahora. ",
+            "cosine_dist": 0.2731945338479661,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 923.68,
+            "end_time": 938.984,
+            "text": "¿Vos?  Yo quería volver a la parte política, que tiene que ver con lo que decías de los cambiemitas o de Juntos por el Cambio.  ¿Vos descartás de plano una gran paso opositora en la que vos participes con tu espacio en la de Juntos por el Cambio? ",
+            "cosine_dist": 0.8043385827819275,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 939.624,
+            "end_time": 945.599,
+            "text": "De ninguna manera voy a estar en Juntos por el Cambio.  Bien.  No se mezcla el agua con el aceite. ",
+            "cosine_dist": 0.5047869815660653,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 945.819,
+            "end_time": 948.38,
+            "text": "Pero te ves con Macri, te ves con Pichetto. ",
+            "cosine_dist": 0.78589170152304,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 948.58,
+            "end_time": 949.6,
+            "text": "Pero son cosas distintas. ",
+            "cosine_dist": 0.6604534246513187,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 950.36,
+            "end_time": 951.721,
+            "text": "No, pero con radicales no te ves. ",
+            "cosine_dist": 0.7825806764235264,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 951.741,
+            "end_time": 1049.909,
+            "text": "Ah, bueno, ok.  A ver, mi línea de separación es la socialdemocracia.  Entonces, de un lado quedan los colectivistas, del otro lado quedamos los que defendemos al individuo, la libertad y la república en serio.  ¿Cuál es la diferencia?  Hay quien quedaría del lado colectivista.  Los radicales, que son la internacional socialista.  Quedarían también, por ejemplo, la coalición cívica, que son todavía más de izquierda que los radicales.  Quedarían las palomitas tibias del PRO, como Larreta, como Vidal, como Santilli.  Y al mismo tiempo también quedarían los kirchneristas de ahí.  Porque en el fondo tienen las mismas ideas de cómo funciona la economía, pero con malos modales.  Entonces, por ejemplo, a Horacio Rodríguez Larreta le encanta hacer obra pública y le encanta el keynesianismo, pero lo dice con buenos modales.  Kicillof ni siquiera conjuga bien los verbos, pero digo más o menos lo mismo.  Pero dicen lo mismo.  De hecho, hay discursos de Cristina que dicen lo mismo que dice Larreta.  O sea, es interesante ver eso.  Hay que agarrar esos discursos.  Cuando Kicillof era el ministro de Cristina, esos discursos infumables que hacía Cristina, bueno, repetía el multiplicador que viene siendo de la misma manera que lo repite Larreta.  O sea, con lo cual, entre el pensamiento de Larreta y el de Cristina tampoco hay mucha diferencia.  Y de hecho tiene una... ...posición totalitaria respecto al poder... ...cuando dice que quiere tener el setenta por ciento de... ...digamos, de la Cámara.  Entonces, ¿para qué?  Para que la Cámara le funcione como... ...como una escribanía.  O sea, que en el fondo tampoco cree en la democracia... ...y tampoco cree en la diversidad. ",
+            "cosine_dist": 0.2834377311423858,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1050.349,
+            "end_time": 1054.911,
+            "text": "¿Y por qué dicen que vos no crees en la democracia... ...con denuncias tanto a los partidos políticos? ",
+            "cosine_dist": 0.6963769004125824,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1054.931,
+            "end_time": 1215.869,
+            "text": "Bueno, porque, digamos, o sea, lo que están haciendo... ...están proyectando.  Es decir, yo en ningún momento dije que... ...necesitaba el setenta por ciento de la Cámara... ...de las Cámaras para gobernar.  Él lo dice... Con lo cual, lo que están haciendo es proyectando.  Ellos proyectan su totalitarismo sobre otros.  De hecho, son muy totalitarios y muy fascistas, por ejemplo, cuando hacen los planteos a la Hegel.  No, digamos, si vos no estás con nosotros, sos pro-Venezuela.  Eso es falso, es un falso dilema, es una falacia, es el polilogismo.  Entonces, eso por.  un.  lado.  Y por otro lado... ¿Quiénes quedarían?  Quedarían los liberales, quedaría el peronismo republicano, quedaría el peronismo federal, quedaría el menemismo y los halcones de Juntos por el Cambio.  Yo diría de Juntos por el Cambio porque hay también otras personas que... tienen las ideas bien orientadas hacia la libertad, aun cuando no estén adentro del PRO, por decirlo de alguna manera.  Entonces, los halcones junto por el cambio es una mejor definición y que nosotros estaríamos dispuestos a recibirlos con los brazos abiertos porque estarían del mismo espectro ideológico.  Porque hay algo que es cierto y es lo siguiente.  A ver, estos rejuntes electorales... No funcionan.  Pasó con la alianza.  La alianza que era un rejunte electoral, ¿sí?  Buen vehículo que le ganó al peronismo, porque en términos de resultados le ganó al peronismo.  ¿Cómo fue el gobierno?  Un desastre.  Después vino el caso de Macri.  No con cambios.  ¿Cuál era la idea?  Ganarle al quiserismo.  Le ganaron al quiserismo.  ¿El gobierno?  cómo fue?  Un desastre.  En esa situación quedó la idea de... que el peronismo solamente podía gobernar.  Y como en realidad son muy verticalistas, podía funcionar.  ¿Por qué?  Porque todos supuestamente se alinean.  Entonces se juntaron y ganaron la elección, le ganaron a Juntos por el Cambio.  Ahora, ¿cuál es el problema?  La realidad es que esa heterogeneidad ideológica hace que la choquen y este gobierno es otro desastre enorme.  Entonces, lo que yo creo es que las agrupaciones deberían ser por... por conceptos.  Y obviamente que cuando vos haces esas agrupaciones y vas a tener diferencias, porque afortunadamente somos todos distintos y no necesariamente pensamos de la misma manera.  Por lo tanto, además nos beneficiamos con ese intercambio.  Pero no es, por ejemplo, lo que quiere el señor Larreta, que quiere tener el setenta por ciento. ",
+            "cosine_dist": 0.2819760285488524,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1215.909,
+            "end_time": 1217.45,
+            "text": "Perfecto.  ¿Qué más agregabas? ",
+            "cosine_dist": 0.8244006483727897,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1217.61,
+            "end_time": 1227.393,
+            "text": "No, yo te quería preguntar, te postulás para presidente y el año que viene podrías tener la banda y el bastón.  ¿Alcanza para tener el poder en Argentina o crees como Cristina que con eso no alcanza? ",
+            "cosine_dist": 0.8545485922832041,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1229.974,
+            "end_time": 1307.511,
+            "text": "Yo tengo una lectura de lo que fue el discurso de Cristina.  Cristina, desde mi punto de vista, lo que intentó decir, esto es mi lectura, puedo estar equivocado o no, Ella lo que trató de explicar es que tiene que ver con la forma que ella mira el poder y este tipo de cuestiones.  Y es que en realidad el verdadero poder lo tienen las corporaciones.  Toda una visión conspiranoica de cómo funciona el mundo.  Exacto.  En esa lógica lo dijo.  Ahora, ¿cuál es el problema?  El problema es que lo dijo en un momento donde está en jaque la autoridad del presidente.  Y la verdad... Es una persona con mucha experiencia, no tiene un pelo de ingenua.  Por lo tanto, si vos leés el discurso puro, podés entender la lógica de ese discurso.  Cuando vos lo ponés en el contexto político, le tiró con un exocet a Alberto.  Ahora, yo creo que vos si tenés el poder, lo podés ejercer claramente.  Lo que pasa es que vos para ejercer el poder... Vos tenés que estar convencido.  O sea, por ejemplo, en mi caso, yo estoy convencido de lo que hay que hacer, sé cómo se hace y además tengo las agallas para hacerlo.  ¿Viste qué educado que estoy, Robert? ",
+            "cosine_dist": 0.29139620324707305,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1307531,
+            "end_time": 1308051,
+            "text": "Sí, sí. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1308071,
+            "end_time": 1308572,
+            "text": "Más que vos. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1308.592,
+            "end_time": 1312.135,
+            "text": "Me está gustando.  Mucho más que vos.  Escuchame, ya que tenés agallas, pensamiento. ",
+            "cosine_dist": 0.8317835325488708,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1312535,
+            "end_time": 1312915,
+            "text": "¿Coraje? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1313.436,
+            "end_time": 1329.93,
+            "text": "Coraje también.  En marzo del año que viene, por ahí, tenemos elecciones en la provincia de Buenos Aires.  Porque deciden adelantarlas.  Vamos a las cuestiones prácticas.  ¿Con quién vas de candidato?  ¿Qué vas a hacer en la provincia de Buenos Aires que falta nada más que un año?  Y mucho antes para las PASO. ",
+            "cosine_dist": 0.624046981166102,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1330.43,
+            "end_time": 1353.316,
+            "text": "Bueno, nosotros estamos trabajando intensamente para armar.  una alianza electoral, no sé si es el término correcto, eso lo saben bien los que se dedican a este tipo de cosas, que además tenga fortaleza en cada distrito.  Es decir, nosotros no vamos a ir a hacer una presidencia... ",
+            "cosine_dist": 0.29003417989009406,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1353.336,
+            "end_time": 1355.077,
+            "text": "Como dice la policía, dame nombres. ",
+            "cosine_dist": 0.594326595849149,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1356.098,
+            "end_time": 1363.563,
+            "text": "No te voy a dar nombres, porque una de las cosas que pasa es que cuando vos das nombre y empezás a mostrar información, después vuelan los valijazos. ",
+            "cosine_dist": 0.305049740357614,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1364.987,
+            "end_time": 1371.95,
+            "text": "Ajá, bueno.  Tengo que ir a un corte.  No te vayas porque por ahí después hasta podemos comer con el caballero. ",
+            "cosine_dist": 0.6957919846011729,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1373.331,
+            "end_time": 1374.391,
+            "text": "¿Y a Álvaro no lo llevamos? ",
+            "cosine_dist": 0.8307349233130112,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1374.411,
+            "end_time": 1383.936,
+            "text": "A Álvaro también lo vamos a llevar, un colado.  Escuchame, volvemos en un minuto y mientras tanto vos tenías otra frase para decir. ",
+            "cosine_dist": 0.5983000544066487,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1384.116,
+            "end_time": 1394.158,
+            "text": "No, justo la dije, era la de Cristina.  Cristina dijo que con el bastón y la banda no alcanza, pero dijo algo más.  Dijo, más si no se hace lo que se tiene que hacer, pero dejémoslo ahí. ",
+            "cosine_dist": 0.8908174684066791,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1394.319,
+            "end_time": 1477.106,
+            "text": "Pero acordate también que el tema de la banda y el bastón para ella realmente no tenía importancia, si no se lo quiso dar a Macri.  Exacto, exactamente.  Volvemos enseguida.  Gracias, Javier.  Por si no conocen a nuestro invitado, les digo que es una persona que, según algunos encuestadores, todos los meses... sube un punto en la consideración general.  Razón por la cual de aquí a las elecciones va a estar más que mejor posicionado.  A propósito de eso, alguien que del tema de sondeo sabe, que es el señor Durán Barbas, hace cuarenta y ocho horas que dijo que Javier Milei va a estar en la segunda vuelta.  ¿Qué otro dato adicional?  El otro dato adicional es que Scioli confesó que Lula se interesa por este personaje que ha aparecido en la Argentina.  Te preguntamos, hay una casta política que en alguna medida podemos compartir todos los privilegios que tiene, pero me parece que también hay una casta económica, porque desde que te lanzaste con el tema de la dolarización, llovieron... diez, veinte, treinta economistas de fuste, con más o menos fuste, que salieron a objetar el tema y a tratarte como a disminuirte.  Hay un conflicto y también un fuego amigo que tenés adentro. ",
+            "cosine_dist": 0.6187019347859326,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1477.933,
+            "end_time": 1547.516,
+            "text": "Bueno, en ese sentido, a mí, mientras que se discuta con honestidad intelectual, yo no tengo problemas en debatir el tema.  Me parece que es un... A ver, lo que he estado contando en materia inflacionaria, mirar la historia monetaria argentina, me parece que implica pensar el problema.  Ese es el primer punto.  El segundo punto, que no es menor, hay una discusión técnica, pero hay una discusión moral también.  O sea... Estos días estuvo circulando el video del tío rico y sus sobrinos que se dedicaban a multiplicar las monedas.  Y entonces, ¿qué es lo que terminó pasando?  Generaron una hiperinflación.  Pero, ¿qué es lo interesante?  Cuando ustedes falsifican la moneda, ¿cuál es el problema?  Es que estás estafando al que la va a recibir.  O sea, supongamos que, no sé, hacemos transacción en moneda de oro y yo empiezo... consigo la forma de convertir el plástico en oro.  Entonces empiezo a generar oro falso.  Mientras que tengo mi casa, no pasa nada.  Pero cuando lo meto adentro de la economía, estoy estafando a la gente.  Eso es una estafa.  Si te cambio un lingote por un lingote, te estoy jodiendo. ",
+            "cosine_dist": 0.28242517433916536,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1548.337,
+            "end_time": 1550.338,
+            "text": "Sí, pero no me contestaste lo de los economistas. ",
+            "cosine_dist": 0.7737742754995214,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1550.418,
+            "end_time": 1751.64,
+            "text": "No, pero es que justamente quiero ir a esto.  Por lo tanto, lo primero que hay que entender es que La emisión, el señoría que por ejemplo financiara al gasto, al déficit fiscal, es una estafa, ¿no?  Porque estoy como metiendo oro falso, por decirlo de alguna manera.  Estoy estafando a la gente que está haciendo transacciones a la vieja cantidad de oro, o sea, a un nivel de precios que era menor.  y por ende el que lo estafa termina siendo con el impuesto inflacionario es el gobierno.  A ver, el gobierno en los últimos dos años se llevó en materia de impuesto inflacionario, de señoriaje, once puntos el PBI.  Es decir, muchos de esos economistas son cómplices de la casta política y ladrona.  Es decir, porque están promoviendo algo que significa una estafa, que golpea entre veinticinco y treinta veces más fuerte sobre los que menos tienen.  Es decir, le golpea a la gente de laburo, el pobre tipo que va, se levanta a las cuatro o cinco de la mañana, se toma dos colectivos para llegar al laburo... vive sacando cuentas, son tan inmorales que defienden eso.  Defienden estafar a esa gente, por.  ejemplo.  No solo eso, sino que además se pierde un punto cincuenta y ocho de crecimiento cada vez que la tasa de inflación pasa al veinte.  Eso corregido en la tasa... Eso corregido en la historia argentina.  Argentina tendría que tener un PBI per cápita como el de Estados Unidos.  Entonces... No tengo dudas que van a aparecer economistas financiados por los políticos a torpedear.  ¿Por qué?  Porque son cómplices de esos políticos ladrones.  O sea, son cómplices.  Por lo tanto, no tengo ningún problema.  Aparte, el bajo nivel técnico de las críticas que hacen es verdaderamente... Digo, sin ir más lejos, una vergüenza el presidente del Banco Central diciendo no, bueno, lo que mi ley no dice es que esto implica un ajustazo.  Y la pregunta es... Pero como no es que el Banco Central tiene que ser independiente, me está diciendo que vos querés usar el Banco Central para financiar el fisco, que justamente es para cobrarte impuesto inflacionario, en realidad para llevarse el señoríaje, que es peor todavía.  Y así como lo dijo Pese, lo dijeron otro montón de impresentables.  O cuando te dicen, no, bueno, pero el problema es que si recibís un shock externo, ¿te molesta que cambien los precios relativos?  Entonces te puede decir, no, bueno, lo que pasa es que cuando tenés que resignar los recursos, como hay rigidez en el mercado laboral, vas a generar desempleo.  Disculpame, los problemas del desempleo no se arreglan generando inflación, se arreglan corrigiendo la rigidez en el mercado laboral.  Entonces, todos esos planteos que se hacen son tremendamente de un nivel muy bajo.  O cuando dicen, no, bueno, pero te quedás sin el control de la tasa.  Pero eso lo dice gente que despotricaba contra Moreno.  Moreno controlaba los precios presentes.  Querer controlar la tasa de interés implica controlar los precios presentes y futuros, lo cual es una aberración aún muchísimo peor.  O aquellos que directamente lo comparan con la convertibilidad, cuando la convertibilidad era dinero fiduciario y sistema de encaje fraccionario.  Cuando yo, digamos, estoy proponiendo competencia de monedas, eliminación del peso y un sistema de Banca Simon que sea anticorrida.  Entonces, se están comparando un sistema que es del uno al siete, es tres.  El tres era la convertibilidad, ¿no?  O sea, dinero fiduciario, tipo de cambio fijo respaldado, con encaje fraccionario.  Ecuador, por ejemplo, es cuatro. ",
+            "cosine_dist": 0.31279947195223834,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1752.221,
+            "end_time": 1753.301,
+            "text": "Está el presidente acá. ",
+            "cosine_dist": 0.8680454274833117,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1753.321,
+            "end_time": 1855.589,
+            "text": "Bueno, y yo propongo siete.  Bueno, esto estaría bueno preguntarle, a ver si como dicen algunos mentirosos, ¿sí?  Economistas mentirosos.  tapufis, ¿sí?  No, en Ecuador quieren salir.  En realidad el que quiso salir en Ecuador era el chorro de Rafael Correa para estafar a la gente.  Y la gente le dijo que no, le dijo que no.  O sea, es más, la única política de Estado que tiene Ecuador es justamente la dolarización.  Es decir, es la que todos están de acuerdo y no se la pueden sacar porque la gente no quiere que las estafe.  Entonces, estos chantas en realidad son chorros cómplices de los políticos chorros.  Entonces digo, yo no tengo problema.  O sea, después obviamente lo van a romper de formato técnico y obviamente en lugar de discutir las ideas conmigo me menosprecian.  Bueno, que hagan lo que quieran, ¿sabe qué?  Me importa nada.  Es decir, yo voy a seguir dando la batalla cultural, voy a seguir... Ahora, por ejemplo, la semana que viene voy a estar en Mendoza y voy a dar una charla sobre dolarización.  O sea, entonces le voy a explicar a la gente sobre dolarización.  Y entonces yo seguiré dando la batalla.  Y si yo tengo la dicha de que los argentinos decidan que yo sea el próximo presidente de la Argentina, bueno... Yo voy a proponer la reforma del sistema financiero que a la postre termine con la eliminación del Banco Central.  Ahora, el punto es el siguiente acá.  Si no me la quieren pasar por el Congreso, no me importa.  ¿Sabés por?  qué?  Porque voy a hacer una consulta popular, voy a hacer un referéndum.  ¿Y sabes qué?  Cuando le pegue un tremendo cachetazo a la población, a la casta política que los quiere robar con el impuesto inflacionario, ahí se van a tener que alinear. ",
+            "cosine_dist": 0.34483391747970893,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1856.579,
+            "end_time": 1864.762,
+            "text": "Lindo cierre.  Te agradezco.  Se nos va el tiempo.  Te invito otro día.  Que vengas con tu hermana, si la mostrás.  Con el jefe.  Con el jefe, claro.  Con el jefe. ",
+            "cosine_dist": 0.6422993002910311,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1866.183,
+            "end_time": 1870.605,
+            "text": "Quizá vos la comés eso.  O sea, el problema es que al jefe no le gusta. ",
+            "cosine_dist": 0.5365862866708548,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1870.625,
+            "end_time": 1897.201,
+            "text": "No le gusta.  Bueno, seguimos con el programa, Javier.  Vamos a una nota ahora del final.  A la mierda, los malditos empresarios.  A la mierda, Sodomitas, el capital.  Basta de basura keynesiana, ha llegado el momento liberal.  Tenemos un líder y él es un gran referente. ",
+            "cosine_dist": 0.8540427928830779,
+            "is_target_speaker": false
+        }
+    ]
+}

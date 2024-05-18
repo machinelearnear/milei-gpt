@@ -1,0 +1,1031 @@
+{
+    "Index": 194,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "nVvl9h96_qI",
+    "url": "https://www.youtube.com/watch?v=nVvl9h96_qI",
+    "title": "MILEI DOMÓ A PERIODISTA QUE LO CHICANEÓ CON LOS PASAJES DE DIPUTADO - Javier Milei en TN 26/5/2022",
+    "duration": 2166.0,
+    "view_count": 634319,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 2",
+            "start_time": 0.06,
+            "end_time": 10.234,
+            "text": "Los diputados y los senadores tienen acceso a pasajes en avión.  Lo que se estaba publicando es que tanto Milei como su compañera usaron esos pasajes para ir a lugares para hacer campaña.  Quería preguntarte si esto es así, Javier. ",
+            "cosine_dist": 0.9591313562430375,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 10.794,
+            "end_time": 12.175,
+            "text": "Sí, no tengo problema en contestar. ",
+            "cosine_dist": 0.7814941632889576,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 12.555,
+            "end_time": 16.197,
+            "text": "Tu agenda de diputado nacional no lo obligaba a ir a ese viaje a Mendoza. ",
+            "cosine_dist": 1.030799938672975,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 16.397,
+            "end_time": 19.919,
+            "text": "¿Por qué no?  ¿Acaso Mendoza no es parte de la Argentina? ",
+            "cosine_dist": 0.47525618432165084,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 19.939,
+            "end_time": 22.46,
+            "text": "No, pero ¿qué proyecto de ley está discutiendo en Mendoza? ",
+            "cosine_dist": 0.9685186454700243,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 22.6,
+            "end_time": 23.761,
+            "text": "¿Los vas a seguir usando los pasajes? ",
+            "cosine_dist": 1.1349451353839581,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 23.861,
+            "end_time": 31.045,
+            "text": "¿Se podría ser ministro de Economía de otro presidente?  Milei, con esta foto, ¿por qué dice usted que la educación pública habría que abolirla? ",
+            "cosine_dist": 1.003256588827713,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 31.225,
+            "end_time": 33.646,
+            "text": "¿Y si estás a favor de que la gente se arme para defenderse? ",
+            "cosine_dist": 1.1019030890924557,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 34.166,
+            "end_time": 47.474,
+            "text": "No responde Milei.  Milei no quiere jugar.  Elige a Macri o a Milei.  Esa es la pregunta por la verdad.  Y si elige la consecuencia, se tiene que poner el pañuelo verde, que es el pañuelo que representó Macri o Milei.  Ahora, ¿usted la aceptaría? ",
+            "cosine_dist": 1.069703463607668,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 47.714,
+            "end_time": 50.656,
+            "text": "Absolutamente.  Una mujer capaz y corajuda. ",
+            "cosine_dist": 0.5303897206285282,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 50.896,
+            "end_time": 52.497,
+            "text": "Vamos a charlar nosotros con Santi Fioritti.  Hola, Santi. ",
+            "cosine_dist": 1.0290728113922283,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 52.617,
+            "end_time": 55.058,
+            "text": "Que está acá al lado mío. ",
+            "cosine_dist": 0.9018373061634307,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 55.078,
+            "end_time": 55.758,
+            "text": "¿Qué tal, Diego? ",
+            "cosine_dist": 1.0038364140330898,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 55778,
+            "end_time": 56298,
+            "text": "¿Cómo vamos? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 56.658,
+            "end_time": 70.344,
+            "text": "Y con el invitado principal que tenemos hoy, el hombre del momento.  Decía, hoy cuando hablábamos en maquillaje con Diego Zegman de la entrevista que vamos a hacer hoy, me dijo, es en definitiva, por un montón de razones, el hombre del momento, Javier Milei.  Supongo que ya lo viste en pantalla. ",
+            "cosine_dist": 1.0411782654808321,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 70.364,
+            "end_time": 73.305,
+            "text": "Javier Milei, ¿cómo te va? ",
+            "cosine_dist": 0.848527877981412,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 73.985,
+            "end_time": 75.746,
+            "text": "¿Cómo anda, Jakeman? ",
+            "cosine_dist": 0.9610245705919659,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 75.766,
+            "end_time": 77.227,
+            "text": "Ahí está, ya lo entrevista, vio. ",
+            "cosine_dist": 1.063971189596424,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 77247,
+            "end_time": 77808,
+            "text": "¿Qué cuenta? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 78.228,
+            "end_time": 102.544,
+            "text": "Él es nuestro periodista, le decimos en el pase, le decimos periodista barra psicólogo de cabecera.  Y yo hoy le dije a Diego, que te entrevista tanto y que además te entrevista muy bien, le dije, pensáte una pregunta, Diego, una pregunta que hoy, la primera pregunta, la que te parezca medular, que hoy le harías a Javier Milei.  Vos solés decir, ¿es personal o es laboral?  Viste, vos empezás las notas con esa discriminación.  Así que elegí vos y andá con la primera pregunta. ",
+            "cosine_dist": 1.0614709174403558,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 103.044,
+            "end_time": 131.256,
+            "text": "Javier Milei, venís de dar conferencias en Paraguay, empresarios de Paraguay, y en general das frente a mucho público.  Tomate un segundo para pensar y contanos cuál fue una pregunta del público, alguien del auditorio, que te hizo dudar y te hizo pensar.  No respuesta automática, uno tiene preseteadas ya algunas respuestas y los conferencistas más.  Algo que te haya dejado pensando.  A ver... ",
+            "cosine_dist": 0.6794501626826271,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 132.913,
+            "end_time": 176.846,
+            "text": "En realidad, yo estoy muy contento con lo que fue la presentación porque es muy raro que en Paraguay se junten quinientos empresarios.  O sea, es una cosa no convencional, digamos, esos niveles de convocatoria para algo que es muy reducido.  Y la realidad es que... El planteo que hice, ellos no salen del formato tradicional de las preguntas porque lo ayuda a saber cómo es la batalla cultural en distintos lugares y eso... El tipo de inquietudes que nacen son más o menos parecidas en todos lados.  Porque la forma en la cual la izquierda aborda el tema es el mismo. ",
+            "cosine_dist": 0.34844523826976237,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 176.866,
+            "end_time": 183.451,
+            "text": "Recién Diego te decía, ¿hubo alguna pregunta que te hizo dudar a vos?  Porque a veces lo más difícil en un momento es dudar.  ¿Dudar?  Decir esto me sacó de la cabeza. ",
+            "cosine_dist": 0.9868423830841752,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 183.752,
+            "end_time": 186.094,
+            "text": "¿Vos dudás, Javier? ",
+            "cosine_dist": 0.8208824013020873,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 186.114,
+            "end_time": 188.616,
+            "text": "¿En algún momento dudás? ",
+            "cosine_dist": 0.8622191484261231,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 190.057,
+            "end_time": 199.204,
+            "text": "Bueno, cuando estoy explorando un problema nuevo que todavía nunca lo investigué y que lo tengo que estar pensando... Y obviamente aparecen las dudas, aparecen las preguntas. ",
+            "cosine_dist": 0.36983812074181055,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 199.404,
+            "end_time": 209.749,
+            "text": "¿Cuál fue el último que te tocó y ya le paso a Luciana y sigue?  ¿Cuál fue el último que decís, esto no va a ser tan fácil si me toca estar en el gobierno?  ¿Qué fue? ",
+            "cosine_dist": 0.7508800368514109,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 212.41,
+            "end_time": 289.956,
+            "text": "Bueno, yo tengo claro que las reformas que yo planteo son bastante disruptivas, tienen todas sus complejidades, pero... En eso lo que pasa es que son tantos años de estudiar la teoría económica, masticar la evidencia empírica, estudiar tanto el caso argentino, es que a mí, la verdad es que yo tengo bien claro cómo se sale de esta situación.  O sea, no solo que tengo claro... ¿Cómo se sale?  ¿Cómo se hace?  Y además tengo la convicción.  Eso, digamos, a mí en esos términos no tengo... Dudas.  Así, dudas, aclaro.  O sea, digo, porque nada, pero yo me dediqué a estudiar eso.  O sea, mira, ¿cuáles son los dos grandes problemas que tiene hoy la Argentina?  Una es la inflación, ¿no?  Y otro, digamos, es el tema que tiene que ver con la falta de oportunidades, que la gente no encuentra oportunidades, que se va... Bueno, eso es un problema de falta de crecimiento.  Justamente mi especialización es crecimiento económico sin dinero, que es lo más básico dentro del rama, y con dinero.  O sea, eso es a lo que yo me especialicé, eso es de lo que entiendo.  Con lo cual, los problemas que tiene hoy la economía argentina Ya te digo que la teoría económica los tiene resueltos desde hace muchos años.  Hay que agarrar y aplicar el manual, nada más. ",
+            "cosine_dist": 0.30844052737597494,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 289.996,
+            "end_time": 294.061,
+            "text": "Le empezaría a repreguntar ahora mismo, pero tengo que liberar, Diego, a vos y a todos ustedes. ",
+            "cosine_dist": 1.1076210966232993,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 294.241,
+            "end_time": 295.583,
+            "text": "Excelente programa, Luc. ",
+            "cosine_dist": 0.8640052693140691,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 295.943,
+            "end_time": 387.281,
+            "text": "Igualmente.  Nos vemos, gracias.  Gracias, nos vemos el jueves que viene.  Y ahora sí, bienvenidos formalmente a Verdad Consecuencia.  Te lo contamos recién.  El país habla de Javier Milei por un montón de razones.  Hay quienes se espantan frente al fenómeno Javier Milei.  Hay quienes adhieren, lo siguen como si fuera una estrella de rock.  Es la conversación en un montón de mesas familiares.  Es la conversación en los medios.  Ni te digo lo que es la conversación sobre Milei en los estrategas de la política argentina pensando en el año que viene.  Hay un montón de preguntas.  Dio unas pequeñas respuestas recién.  Vamos a hacer muchas más.  Vamos a repreguntar.  Está Santiago Fioritti con nosotros.  Te decíamos, Maru, está de vacaciones.  Va a volver en un par de semanas.  Y hay mucho tema para hablar de hoy porque Millet representa un fenómeno que contiene otros liderazgos también, si se quiere, otras representaciones de una política casi antipolítica.  Le dicen la casta, odiar a la casta.  Está Amalia Granata también acá en el estudio.  Y un poco como una contracara o como un origen, en un principio, para hacer de todo esto, la Argentina sin educación.  Hoy, acá, en Verdad Consecuencia, Bruno Giacono te va a mostrar por primera vez números oficiales, números que tuvo que reconocer el Estado sobre los chicos que dejaron la escuela en la pandemia.  y no volvieron nunca más.  La de la secundaria, la que vamos a hablar hoy, es la que está enamorada de Javier Milei, que cree que lo va a sacar de todos sus problemas.  Así que también vamos a hablar de la juventud.  Pero antes de ir con Santiago, otro tema.  Fíjate cómo cantó esta canción, lo oímos todos. ",
+            "cosine_dist": 0.974244977183413,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 395.245,
+            "end_time": 402.928,
+            "text": "Se viralizó esto.  ¿Es Mangel Milei y usted lo vio?  Lo había visto hasta en Paraguay.  Estuve trabajando. ",
+            "cosine_dist": 0.9801744804049163,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 403.128,
+            "end_time": 405.449,
+            "text": "¿Se enteró que habías estado cantando en el acto? ",
+            "cosine_dist": 0.9900580063442562,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 406.289,
+            "end_time": 407.47,
+            "text": "No, no me enteré. ",
+            "cosine_dist": 0.9275727039313486,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 407.49,
+            "end_time": 408.61,
+            "text": "Se vio por todos lados, Javier. ",
+            "cosine_dist": 0.908816996450175,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 408.71,
+            "end_time": 420.335,
+            "text": "Está bien, pero yo cuando voy a un lugar, no es que, digamos, trabajo duro y parejo y la verdad que, digamos, escucharlo cantar a Alberto no me pierdo nada. ",
+            "cosine_dist": 0.5690043097678542,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 420.835,
+            "end_time": 440.741,
+            "text": "Bueno, pero ¿cómo está Cristina?  ¿Cómo está esa pelea?  Pero hay otra que está teniendo capítulos, si querés, menos explícitos, pero casi igual de intensos y que se está dando juntos por el cambio y específicamente entre Macri y Larreta.  Y el origen de esta pelea, más allá de quién es el candidato jefe de gobierno, tiene que ver con otras cosas también. ",
+            "cosine_dist": 1.002741275883568,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 440.761,
+            "end_time": 482.106,
+            "text": "¿Larreta y Macri?  Sí.  Bueno, Macri hoy... lo que me cuentan a mí del entorno del expresidente es que le está tomando, de algún modo, examen a Larreta hasta qué punto va a hacer las reformas.  Si le toca ser presidente, que Macri no hizo, no pudo, no quiso, no se animó y que hoy dice son indispensables para ser.  De ahí te llevo al invitado del día.  Macri está diciendo, varias de las ideas que representa mi ley me representan a mí.  Esto genera escosor.  ¿En quiénes?  En el radicalismo, que mañana, como bien decías, hace la Convención Nacional, y en el propio Larreta, con quien mi ley, evidentemente, tiene muchas críticas, porque todo el tiempo lo está criticando Larreta, y Larreta dice, yo no voy a hablar de mi ley, estoy haciendo un plan de gobierno y un plan económico para el próximo gobierno. ",
+            "cosine_dist": 0.9687932483625645,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 482.589,
+            "end_time": 487.272,
+            "text": "Bueno, ahí lo escuchaba recién a Santi y obviamente, bienvenido formalmente. ",
+            "cosine_dist": 0.9888520173313355,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 487.652,
+            "end_time": 489.333,
+            "text": "Gracias Luciana, gracias Santiago. ",
+            "cosine_dist": 0.6095551363794978,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 489.353,
+            "end_time": 493.036,
+            "text": "¿A usted le interesa que se rompa Juntos por el Cambio? ",
+            "cosine_dist": 0.9809245000561159,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 494.117,
+            "end_time": 591.918,
+            "text": "No, no es un tema que tiene que ver conmigo.  Lo que sucede es que hay una lectura sobre eso que emerge a partir de lo que yo considero que le debe la política a la Argentina.  Una de las cosas que para mí habría que hacer para ordenar el tablero político es, por un lado, que queden de un lado los colectivistas y que por otro lado queden aquellos que abrazan las ideas de la libertad.  Porque ¿cuál es mi experiencia?  Mi experiencia es que, o como yo lo veo... tiene que ver con que cada vez que se hicieron estos frentes electorales para ganar una elección, fueron exitosos en lo electoral, pero fracasaron en la gestión.  Llámese.  La alianza fue exitosa para... ganarle al peronismo, lo logró y fue un gobierno desastroso.  Cambiemos, fue un armado electoral para ganarle al kiserismo y fue sumamente exitoso, porque no solo le ganó, sino que en la elección de medio término fue arrasante el triunfo.  y sin embargo fue un fracaso el gobierno.  Y cuando aparece esa idea y dice, bueno, entonces esto solamente puede ser gobernado por peronistas porque son los únicos que tienen vocación de poder y verticalistas, Nos encontramos con el frente de todos, que es un gobierno aberrante.  Entonces, si vos no podés ordenar el tablero en términos... de visión, eso te genera un problema en el momento de gobernar.  Eso es lo que yo creo.  ¿Por qué?  Porque una parte quiere ir para un lado y otra quiere ir para otro. ",
+            "cosine_dist": 0.305513470971556,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 592.078,
+            "end_time": 602.065,
+            "text": "Está bien, pero para eso necesita ganar antes de gobernar.  Y si necesita ganar, tiene que ganar con alianzas.  Por eso le pregunto si le interesaría.  No digo que usted lo haga, pero le parecería que le sirve. ",
+            "cosine_dist": 1.0212861595494076,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 602.085,
+            "end_time": 691.625,
+            "text": "Pero está bueno el punto, Luciana.  Está muy bueno el punto.  Porque en realidad, lo que yo digo es que para ser parte... de un nuevo fracaso, yo no quiero estar ahí.  Es decir, yo creo que de esto solamente se sale abrazando nuevamente las ideas de la libertad.  Entonces, yo no puedo, por ejemplo, por fines electorales para ganar una elección, unirme con colectivistas, ya sea la Unión Cívica Radical, que es la internacional socialista, la coalición cívica, que es un desprendimiento por izquierda del radicalismo, tampoco con las palomas que forman parte de esa coalición.  De hecho, son mucho más parecidos en términos de pensamiento al kirchnerismo que a cualquier solución liberal.  Entonces, ¿y del otro lado qué te tiene que quedar?  Y te van a quedar los liberales, te van a quedar lo que tiene que ver con espacios de centro-derecha.  Entonces, vos ahí te vas a encontrar, por ejemplo, con lo que tiene que ver con el caso de... los peronistas republicanos, te podés encontrar con el peronismo federal, te podés encontrar con el menemismo.  O sea, todas expresiones que ponen un norte sobre la libertad individual, sobre el individuo.  Entonces, cuando vos llegás al poder, vas a tener mandato.  O sea, la gente... A ver, si llego yo al poder, ¿vos qué creés?  Digamos, si salgo a una motosierra para cortar el gasto público, ¿vos creés que alguien se va a sorprender? ",
+            "cosine_dist": 0.29973604211573335,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 691985,
+            "end_time": 692085,
+            "text": "No. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 694.996,
+            "end_time": 716.782,
+            "text": "Lo quería llevar a Javier a uno de los temas del día, Luciana, que tiene que ver con una denuncia que se hizo por el uso de pasajes en el Congreso.  Recordemos que los diputados y los senadores tienen acceso todos los meses a pasajes en avión.  Lo que se estaba publicando es que tanto Miley como su compañera en la Cámara de Diputados usaron esos pasajes para ir a lugares para hacer campaña.  Quería preguntarte si esto es así, Javier. ",
+            "cosine_dist": 0.9658221448853838,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 717.302,
+            "end_time": 731.57,
+            "text": "Sí, no tengo problema en contestar.  Lo primero que quiero señalar es que Ustedes pueden chequear mi Instagram.  Todo el dinero que me entra a mí, todo el dinero que me ingresa, es todo lo que es transferido después del sorteo. ",
+            "cosine_dist": 0.48126263044818673,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 731.61,
+            "end_time": 732.571,
+            "text": "Primero de salario. ",
+            "cosine_dist": 1.061676640906021,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 732.951,
+            "end_time": 756.905,
+            "text": "Claro, o sea, yo no me quedo con un solo peso.  Primer punto.  Segundo punto.  Porque esto está bueno, el punto que levanta Santiago, porque hubo una crítica diciendo cómo, digamos, si son diputados por la capital federal, ¿por qué, digamos, usan pasajes para ir al interior?  Bueno, en realidad hay que recordarle a la gente que no es que nosotros somos legisladores porteños, nosotros somos diputados nacionales. ",
+            "cosine_dist": 0.3552584580991137,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 757.29,
+            "end_time": 759.711,
+            "text": "Pero representan a los ciudadanos de la Ciudad de Buenos Aires en las conversaciones. ",
+            "cosine_dist": 0.952401558566959,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 759.791,
+            "end_time": 800.481,
+            "text": "Sí, pero en realidad estás en una discusión nacional, es un tema de índole nacional.  Entonces justamente esos pasajes están para qué, para ir a las distintas provincias y juegan el rol de un viático.  O sea, ese es el concepto general que tienen esos gastos.  Ahora, entendido eso, en mi... Ahora, ¿qué es lo que sucede?  ¿Cómo funciona este mecanismo?  Antes era así.  A vos te asignaban determinados pasajes.  Y había gente, digo, esto estalló en un escándalo cuando se dio a la luz que la señora Carrió no viajaba a ningún lado y después iba y cambiaba los pasajes y se la quedaba la plata. ",
+            "cosine_dist": 0.32768343274081013,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 800.501,
+            "end_time": 801.882,
+            "text": "Es un derecho que tienen los legisladores. ",
+            "cosine_dist": 0.9877939007388912,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 802.402,
+            "end_time": 832.692,
+            "text": "No, digamos, así eran las reglas.  O sea, yo estoy diciendo cómo era la regla, pero eso estalló en un escándalo y cómo se convirtió la regla.  La regla es que vos hoy te asignan Movilidad, tenés distintos esquemas de movilidad y vos lo podés elegir.  Yo elegí uno de los esquemas de movilidad.  Ahora, ¿qué es lo que pasa?  Si vos no usás esos pasajes, ese cargo se cae, no se puede usar.  y el dinero, ¿sabés a dónde vuelve?  Vuelve a la Cámara de Diputados, o sea, le vuelve a la casta. ",
+            "cosine_dist": 0.3328507592949319,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 833.826,
+            "end_time": 842.835,
+            "text": "Perdón, porque esto es importante.  Sobre todo porque es justo uno de los temas más sensibles y a los que usted apela más que tiene que ver con el gasto político. ",
+            "cosine_dist": 0.9877387228025559,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 843.296,
+            "end_time": 858.513,
+            "text": "Cuando hablamos de casta... Cuando yo hablo de casta, cuando hablo de la casta política tiene que ver con políticos que aplican medidas... que le hacen daño a la gente, que ellos lo saben y aún así lo aplican.  Y por eso... ",
+            "cosine_dist": 0.412419894848719,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 858.533,
+            "end_time": 863.02,
+            "text": "Bueno, cuando usted dona su sueldo, lo que está diciendo es todos deberían donar su sueldo. ",
+            "cosine_dist": 1.017611872990861,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 863.04,
+            "end_time": 867.466,
+            "text": "No, no, no.  De hecho, no es así, Luciana.  Una de las cosas... Primero que no lo dono. ",
+            "cosine_dist": 0.5926595424661569,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 868428,
+            "end_time": 868989,
+            "text": "Lo sortean. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 870.163,
+            "end_time": 905.09,
+            "text": "El sorteo es el mecanismo por el cual le devuelvo a los creadores originales de riqueza lo que el Estado le sacó por la fuerza.  Es decir, lo que verdaderamente hacía Robin Hood.  O sea, no el Robin Hood que nos cuentan en el colegio socialista que le quitaba a los ricos para darle a los pobres.  No, Robin Hood ¿qué hacía?  Después de que pasaba el recaudador de impuestos, iba contra el recaudador de impuestos, le sacaba ese dinero y se lo devolvía a las víctimas.  Entonces... Ahora, ahí hay una cuestión, o sea, por ejemplo, porque yo ahora, por ejemplo, ahora cuando viene el próximo sorteo de mi dieta, como usé este pasaje, digamos, o sea, yo además devuelvo esa plata. ",
+            "cosine_dist": 0.3541053989926235,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 905.89,
+            "end_time": 908.473,
+            "text": "Bueno, por eso, esperemos acá, hagamos un punto porque es importante. ",
+            "cosine_dist": 1.076542181890317,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 908.693,
+            "end_time": 909.513,
+            "text": "Sí, claro, obvio. ",
+            "cosine_dist": 0.9188141451052814,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 909.553,
+            "end_time": 914.498,
+            "text": "Quiero terminar en esto.  Usted viajó a una conferencia en Mendoza. ",
+            "cosine_dist": 0.9697150278749648,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 915438,
+            "end_time": 915638,
+            "text": "A ver. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 915.699,
+            "end_time": 917.54,
+            "text": "A dar una conferencia en Mendoza con el pasaje. ",
+            "cosine_dist": 0.966587786453045,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 917.56,
+            "end_time": 918.381,
+            "text": "Vamos por parte. ",
+            "cosine_dist": 0.7785824335263416,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 918.781,
+            "end_time": 921.904,
+            "text": "¿Eso es así o no?  Para limpiar la información.  A ver. ",
+            "cosine_dist": 1.0029987154648847,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 922.589,
+            "end_time": 983.989,
+            "text": "No, es que, digamos, justamente la información le quitan pedazos.  O sea, yo cuando voy a un lugar, yo tengo un montón de reuniones.  Y esto también lo digo por Victoria, porque ustedes toman cualquiera de las redes de Victoria y nosotros vamos al interior y tenemos reuniones con un montón de gente.  O sea, nosotros vamos y nos interiorizamos.  De hecho, cuando yo fui a Mendoza, por más que lo quieran mostrar como un acto partidario, yo di una charla Y quiero ver cuántos políticos tienen la posibilidad de interactuar con veinte mil personas.  mi proyecto para bajar la inflación que es eliminar el Banco Central.  Con lo cual, digamos, o sea, pero no es la única reunión que tengo.  Yo de hecho tenía pactada dos actividades más y ahora voy a contar las otras más.  Una, por ejemplo, que era ir a la bolsa de comercio.  Y por decisión de un miembro de Juntos por el Cambio, se me bajó esa actividad.  Y no solo esa, no se me permitió ir a dar una charla a la Universidad Nacional de Cuyo. ",
+            "cosine_dist": 0.3377924869180058,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 984.704,
+            "end_time": 985.345,
+            "text": "Está bien. ",
+            "cosine_dist": 0.9611613892414108,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 985.525,
+            "end_time": 994.032,
+            "text": "Pero después yo tuve reuniones... No, no, es para clarificarlo, para que quede claro.  Pero me encanta aclararlo, por eso digo yo me parece fantástico. ",
+            "cosine_dist": 0.735348466631482,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 994.052,
+            "end_time": 1013.688,
+            "text": "Porque la gente cuando el presidente viaja en el helicóptero presidencial en el medio de una campaña a hacer un acto, con razón, nosotros lo denunciamos, la gente se enoja y es parte de eso.  Entonces, como mínimo, es fuerte que su agenda de diputado nacional no le obligaba a ir a ese viaje a Mendoza. ",
+            "cosine_dist": 0.9563893958065375,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1014.235,
+            "end_time": 1017.857,
+            "text": "¿Por qué no?  ¿Acaso Mendoza no es parte de la Argentina? ",
+            "cosine_dist": 0.46826756178623385,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1017.877,
+            "end_time": 1020.298,
+            "text": "No, pero ¿qué proyecto de ley está discutiendo en Mendoza? ",
+            "cosine_dist": 0.9890799047822172,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1020.558,
+            "end_time": 1088.009,
+            "text": "Yo voy y discuto, por ejemplo, y pienso con los empresarios cuáles son sus problemas.  Interactúo de modo directo.  O sea, digamos, y en esas interacciones... Es más, y te voy a decir algo.  A diferencia de Victoria, yo no puedo hacer tan explícitos esos movimientos porque después esos empresarios son perseguidos por el poder.  Porque vos, ¿cómo te crees que tomaron esos empresarios cuando los dirigentes de Juntos por el Cambio me censuraron y me bajaron la conferencia de la Bolsa de Comercio?  ¿Cómo sabes que esa vocación totalitaria no les va a aplicar a ellos?  Que dicho sea de paso, ese problema no solo lo tuve en Mendoza, Lo tuve con Morales también, que me censuró un acto.  Y vos decís, ah, bueno, y también me generó muchos problemas el señor Montenegro en Mar del Plata.  Ahora, ¿son solamente juntos por el cambio los que me hacen problemas?  No, también me hacen problemas los kirchneristas.  Yo tenía pactado un acto en La Matanza.  ...lo tenía todo cerrado... ...y el señor Espinosa bajó la línea... ...de que se me tenía que bajar el acto... ...y se me bajó... ...por eso ahora el diez de junio lo hago... Eso tiene que ver con riñas de la política... ",
+            "cosine_dist": 0.36402972479493867,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1088.029,
+            "end_time": 1099.714,
+            "text": "...yo sobre su pasaje... ...si usted ahora decidió devolver la plata... ...es porque siente que a lo mejor no estuvo bien... ...por ahí no estuvo... ...por ahí cuando hablamos de la duda... ...estuvo bien venirse a Mendoza... ...no tiene nada que ver con ser diputado nacional... ",
+            "cosine_dist": 0.9551678066485543,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1099.754,
+            "end_time": 1126.892,
+            "text": "...sí estuve haciendo actividades de diputado nacional... ...y tanto Victoria como yo... ...lo hacemos abiertamente... Hay una cuestión de economía de escala.  Si yo voy a un lugar y tengo un montón de reuniones, bueno, ya que estoy, además, hago una clase.  O sea, y de vuelta, no es que yo voy a hacer política, hago una clase donde le estoy contando, en este caso fueron veinte mil mendocinos que escucharon mi propuesta de cómo terminar de... ",
+            "cosine_dist": 0.3748336579353897,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1126.932,
+            "end_time": 1129.494,
+            "text": "¿Los vas a seguir usando, Javier?  ¿Los vas a seguir usando los pasajes? ",
+            "cosine_dist": 1.126826405488772,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1130.055,
+            "end_time": 1144.633,
+            "text": "Si se da una circunstancia como lo que pasó en esto, digamos que fue por una cuestión de organización y operativa, hubo que usarlos, Sí, no tengo problema, los uso y después, o sea, cuando viene el sorteo, devuelvo la plata.  Digo, ¿cuál es el problema?  O sea, es un, digamos, solamente fue un cuento. ",
+            "cosine_dist": 0.3890329661790697,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1144.653,
+            "end_time": 1145.794,
+            "text": "¿No es más fácil pagarlo y listo? ",
+            "cosine_dist": 1.1331009134114336,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1147.222,
+            "end_time": 1155.365,
+            "text": "Depende, porque a veces no conseguís los pasajes o tenés algunos problemas para conseguirlos.  Entonces, digo, no es todo tan fácil a. veces. ",
+            "cosine_dist": 0.503605823396712,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1156.646,
+            "end_time": 1166.89,
+            "text": "Está María Renata con nosotros, que no la saludamos todavía.  Buenas noches, María.  Bienvenida.  Ahora vamos a conversar con ella.  Yo tengo una... Obviamente, todos saben, mi ley es economista.  Lo conocimos como economista. ",
+            "cosine_dist": 1.0027402920128055,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1166.91,
+            "end_time": 1169.471,
+            "text": "Sigo siendo economista y orgullosamente. ",
+            "cosine_dist": 0.7914442321683934,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1171.472,
+            "end_time": 1183.336,
+            "text": "Supóngase que hay, no sé, elecciones y gana un presidente que usted puede avalar, pero no es usted.  ¿Usted podría ser ministro de Economía de otro presidente, digamos, en este momento? ",
+            "cosine_dist": 0.998782853853508,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1185.817,
+            "end_time": 1252.066,
+            "text": "Voy a contar, me encanta la pregunta, es una muy buena pregunta y la voy a contestar contando el caso de quien para mí fue el mejor ministro de Economía de la historia argentina.  ¿Quién fue?  Domingo Cavallo.  Cuando vos mirás el desempeño de Domingo Cavallo, cuando yo hago esta afirmación que acabo de hacer, eso tiene que ver con lo que fue Cavallo durante el gobierno de Menem.  Hay un trabajo de Gerardo de la Pablera, Bozzoli e Irigoyen que se llama Passing the Back y evalúa todos los gobiernos de la Argentina.  Y el mejor gobierno en la historia argentina es el primer gobierno de Menem.  Y si ustedes, bueno, ustedes son chicos, pero los que tienen más años como yo se acuerdan, Menem arrancó y lo chocó un par de veces el auto, por decirlo de alguna manera.  Venía de la hiperinflación de Alfonsín y tuvo la propia.  Falló el plan Bungibor, falló el plan Derman, hasta que después le encontró la vuelta con Cavallo.  Fue tan fuerte lo que se generó eso que esos cuatro años hicieron que fuera el mejor gobierno de la historia.  Con lo cual, ¿y quién era el ministro?  Cavallo.  O sea, Cavallo... ",
+            "cosine_dist": 0.32709434538424453,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1252.226,
+            "end_time": 1253.626,
+            "text": "También fue el ministro con De la Rúa cuando... ",
+            "cosine_dist": 1.0263425301074347,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1253.706,
+            "end_time": 1278.848,
+            "text": "Bueno, a eso, digamos, me estás espoliando la respuesta, Luciana.  O sea, y después, vos fijate que Cavallo también fue ministro de Economía con De la Rúa y fue una gestión desastrosa.  Entonces, ¿dónde estaba la diferencia?  en quien sabía manejar el poder.  Menem sabía manejar el poder, de la Rúa, como todo radical, no sabía y colapsó. ",
+            "cosine_dist": 0.33202237655743083,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1279.309,
+            "end_time": 1287.717,
+            "text": "O sea, vos no serías ministro, para responder la pregunta de Luciana.  No serías ministro de nadie, ni de Macri, por ejemplo, que hablás con él, o de Patricia Bullrich, por decir un nombre. ",
+            "cosine_dist": 1.0090548674498387,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1289.038,
+            "end_time": 1304.688,
+            "text": "En realidad, para que se diera esa situación, tendríamos que tener un presidente... que tenga lo que tenga que tener para hacer las cosas que hay que hacer.  O sea, esto no es para tibios, esto es para gente con coraje. ",
+            "cosine_dist": 0.36036297906937576,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1305.128,
+            "end_time": 1310.912,
+            "text": "Patricia Burdi, te he escuchado alogiarla.  ¿No descartás ser ministro de Patricia o de Macri, por?  ejemplo? ",
+            "cosine_dist": 0.9962526663937318,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1312.373,
+            "end_time": 1331.739,
+            "text": "No sé, no sé si a ellos les interesaría convocarme.  O sea, si yo tuviera que adoptar o tuviera que elegir eso, tendría que ser alguien que esté decidido a hacer las reformas pro mercado.  Ahora, la realidad es que si alguien quiere elegir la reforma de promercado, ¿para qué va a elegir la copia que eligió en el original? ",
+            "cosine_dist": 0.3697758066617488,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1333.781,
+            "end_time": 1338.286,
+            "text": "Suponiendo que fuera el ministro de Economía.  hoy, es cortito esto, ¿subiría o bajaría retenciones? ",
+            "cosine_dist": 0.9617102483393,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1339.068,
+            "end_time": 1342.19,
+            "text": "Las elimino yo las retenciones.  No deben existir las retenciones. ",
+            "cosine_dist": 0.5860756768854263,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1342.21,
+            "end_time": 1347.773,
+            "text": "¿Pero cómo se hace?  Porque eliminar las retenciones le quita al Estado un montón de ingresos. ",
+            "cosine_dist": 1.037734544872979,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1348.434,
+            "end_time": 1356.619,
+            "text": "Y si no se lo sacás al Estado, se lo sacás al sector privado, que es el que genera riqueza.  ¿Por qué castigás al que genera riqueza? ",
+            "cosine_dist": 0.4275915206280493,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1356.639,
+            "end_time": 1362.122,
+            "text": "El Estado se supone que paga sueldos, que tiene que hacer obra pública, que mantiene las escuelas, los hospitales. ",
+            "cosine_dist": 0.8971051317871699,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1362.142,
+            "end_time": 1416.111,
+            "text": "Pero la obra pública es una aberración.  Conceptualmente es una aberración.  Porque ¿con qué se financia la obra pública?  Con impuestos, o sea, ya sea impuestos futuros, deuda, con lo cual es inmoral porque castiga a las generaciones futuras, aún hasta la gente que no nació, lo podés hacer con impuesto inflacionario, o sea, con señorías que financiando el déficit fiscal con emisión monetaria.  Con lo cual, digamos, no solo que distorsionás el sistema de precios, cuando la inflación pasa al veinte por ciento, perdés un punto cincuenta y ocho de crecimiento, que corregió en la historia monetaria argentina, deberíamos tener un PIB per cápita como en Estados.  Unidos.  Y la otra, digamos, y le pega entre veinticinco y treinta veces más fuerte a los que menos tienen.  Y la otra es subir los impuestos, que es una expropiación.  Entonces, digo, ¿por qué?  Yo te hago la pregunta, digo, ¿por qué vos... Ponés por encima al parásito y que destruye riqueza sobre el tipo que se rompe el lomo laburando para generar riqueza. ",
+            "cosine_dist": 0.33504180181444765,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1417.492,
+            "end_time": 1419.594,
+            "text": "Cortitas, ¿dolariza la economía sí o no como ministro? ",
+            "cosine_dist": 1.0711793871144228,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1420.811,
+            "end_time": 1437.356,
+            "text": "Sí, eso no es función del ministro de Economía porque el Banco Central se supone que es independiente.  Sí lo puedo hacer como presidente, o sea, ¿qué es lo que yo voy a proponer?  ¿Lo haría?  Sí, yo voy a proponer la reforma estructural del sistema financiero para que a la postre poder terminar eliminando el Banco Central. ",
+            "cosine_dist": 0.4407213106545689,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1437.376,
+            "end_time": 1440.257,
+            "text": "¿Y dónde sacamos los dólares si no los fabricamos nosotros? ",
+            "cosine_dist": 1.029849945239009,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1440.277,
+            "end_time": 1540.9,
+            "text": "Bueno, a ver... Porque, digamos, los tenés que fabricar.  Justamente lo que nos mata a nosotros es la fabricación de pesos a mansalva.  Y si vos quisieras dolarizar, yo te hago una pregunta, porque esto es más interesante.  Vos más o menos tendrías que tener de base monetaria cinco por ciento del PBI.  O sea que al tipo de cambio oficial, al paralelo estamos hablando de quince mil millones de dólares, Y si es al oficial le citás treinta mil, ponele.  Y al paralelo quince mil.  O sea, vos la deberías hacer a mercado.  Entonces la pregunta es, ¿cómo no vas a...?  Y el Banco Central libre hoy tiene, después de que le puso plata al fondo, siete mil millones.  Digo, ¿por qué no vas a poder conseguir un préstamo, ponele, de ocho mil millones, para poder tener la base monetaria que deberías tener...?  Y contra eso utilizás más de seis mil setecientos billones, o sea, que vos tenés en el banco, seis punto siete billones que vos tenés en el balance del Banco Central como títulos públicos.  O la otra, o sea, ¿por qué si este gobierno de impresentables consiguió diez mil millones de dólares para un programa que era inconsistente en lo teórico, inconsistente en lo empírico, inconsistente en el diseño, inconsistente hasta contablemente, porque no suman los números, no dan los números, Y aún así consiguió diez mil millones de dólares.  Imaginate, digamos, tratar de buscar dólares para financiar una reforma estructural que va a terminar con la inflación.  ¿Por qué, digamos, o sea, la casta política acepta tomar deuda para financiar el zafarrancho fiscal y no para terminar con la inflación de los argentinos? ",
+            "cosine_dist": 0.3170298470403058,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1541.656,
+            "end_time": 1548.819,
+            "text": "Ahora seguimos un ratito con ese tema.  Lo tenemos a Manu Jové, te lo contábamos recién.  Te decía, está Amalia Granata con nosotros, le damos la bienvenida.  Buenas noches, Amalia. ",
+            "cosine_dist": 1.1223209377767027,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1548879,
+            "end_time": 1549259,
+            "text": "¿Cómo te va? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1549.299,
+            "end_time": 1577.856,
+            "text": "Buenas noches.  Amalia un poco compone con Javier y otros liderazgos en este momento.  lo que se le dice la nueva derecha o la nueva derecha libertaria o polémica, a pesar de que no están todavía unidos en un mismo partido político, digo todavía.  Pero mi pregunta, viendo esto un poco y viendo todo lo que pasa en el gobierno, es si vos creés que la posibilidad de crecimiento que están teniendo tan exponencial o esto que está pasando tiene que ver con lo que pasa en el gobierno, el resultado de eso. ",
+            "cosine_dist": 1.0062058016339177,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1577.876,
+            "end_time": 1597.313,
+            "text": "Tiene que ver con el enojo de la gente, claramente.  A ver, yo cuando en el dos mil diecinueve saco trescientos mil votos es justamente por el hartazgo de la gente a la vieja o a la política tradicional y tratar de buscar caras nuevas.  y propuestas nuevas que sí se sienten a trabajar y que sí se sienten a discutir y que sí se sienten a hacer proyectos. ",
+            "cosine_dist": 0.9380338240633915,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1597.333,
+            "end_time": 1601.716,
+            "text": "¿Son nuevas o son las más viejas de todas?  Porque, qué sé yo, el servicio militar obligatorio o lo de... ",
+            "cosine_dist": 1.0760993596768083,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1601.897,
+            "end_time": 1694.976,
+            "text": "El servicio, primero que no es el servicio militar obligatorio, es el servicio cívico.  y me hubiese gustado que... los periodistas que criticaron tanto, incluso compañeros que han criticado legisladores el proyecto, lo hayan leído, porque nadie lo había leído todavía, pero las críticas eran terribles.  Después, obviamente, cuando lo presenté, muchos dijeron, ah, bueno, no está tan mal.  O sea, lo que yo propongo, y te escuchaba vos al principio cuando hablabas de educación, es un tema que la política o la casta, como dice Javier, no se encargó nunca, que es de la educación, y... Si vos vas a los índices y a lo que está sucediendo con los chicos hoy, no solo en el nivel secundario, que salen sin comprender un texto, sino en el nivel primario, que hay chicos de tercer y cuarto grado que todavía no saben leer, vamos a tener dentro de diez años un futuro complicado.  Realmente un futuro complicado, pero como al político el niño no vota, no le interesa y la educación es un tema pendiente que nadie trata.  Entonces cuando yo propongo el servicio cívico es para que los chicos que decían no trabajar ni estudiar, que tienen dieciocho años, incluso los que han abandonado el colegio, porque no nos vamos a mentir, un chico que abandonó el colegio no va a volver al colegio.  esa es una ilusión que no existe.  no va a retomar al colegio no va a retomar y va a deber veinte materias.  eso no lo va a hacer y las va a rendir.  eso no va a suceder.  entonces los chicos que tienen dieciocho años que deciden ni estudiar ni trabajar que ingresen al servicio cívico y que aprendan un oficio el que sea no solamente un oficio sino que aprendan a levantarse temprano a lavarse los dientes a higienizarse porque aunque ",
+            "cosine_dist": 0.9347704336903386,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1695316,
+            "end_time": 1695576,
+            "text": "nosotros ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1695.636,
+            "end_time": 1701.698,
+            "text": "vivimos otra realidad hay muchos chicos que no tienen esos hábitos de higiene de cuidado del cuerpo. ",
+            "cosine_dist": 0.9566778548404262,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1701.718,
+            "end_time": 1709.181,
+            "text": "estamos hablando de chicos chicos.  ¿Haciendo eso?  No, chicos de dieciocho años.  De dieciocho años no tienen las rutinas básicas. ",
+            "cosine_dist": 1.0364401863149233,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1709.201,
+            "end_time": 1714.164,
+            "text": "Muchos no, y te puedo llevar a lugares donde ni siquiera tienen un baño, o sea, en caca y en el barro. ",
+            "cosine_dist": 0.9397979561125341,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1714.184,
+            "end_time": 1716.044,
+            "text": "No, bueno, en Argentina la mitad de la población está... ",
+            "cosine_dist": 1.0706052216205657,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1716.084,
+            "end_time": 1717.645,
+            "text": "Imaginate lavarse los dientes.  Bueno, ",
+            "cosine_dist": 0.962844684817065,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1717.685,
+            "end_time": 1741.333,
+            "text": "lo decías vos recién, yo lo que mencionaba al principio, es un informe que hizo Bruno Giacono, que consiguió, por un pedido de acceso a la información, que por primera vez el Gobierno Nacional reconozca cuál es el número oficial, yo creo que es mucho más, Bruno lo va a decir, de chicos que no volvieron a la escuela después de la pandemia.  Y ese número, aún con lo bajo que a mí me parece, es escalofriante, Bruno. ",
+            "cosine_dist": 0.9408813317435661,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1741.353,
+            "end_time": 1750.815,
+            "text": "¿Cómo estás, Lu?  Buenas noches.  Así es.  Desde que empezó la pandemia hasta hoy, más de un millón de chicos dejaron de ir a la escuela o tuvieron problemas para seguir estudiando.  Más que nada, perdí futuro. ",
+            "cosine_dist": 0.9821981127686592,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1753.8,
+            "end_time": 1773.627,
+            "text": "Por el tema de la pandemia, que teníamos que hacer todo vía internet, después perdí comunicación, perdí celular y no pude terminar el colegio.  No tenía computadora, no tenía netbook, no tenía tablet, no tenía nada para comunicarme.  Milei, con esta foto, ¿por qué dice usted que la educación pública habría que abolirla? ",
+            "cosine_dist": 0.9732755543948207,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1774.747,
+            "end_time": 1942.471,
+            "text": "Yo voy a hacer mi planteo y después voy a decir lo que yo efectivamente digo.  El primer punto es, cuando vos revisás lo que es la evidencia empírica del crecimiento económico, hay un modelo base, que es el modelo básico con el que se estudia, digamos, del crecimiento, es un modelo que se llama Solo Usuam.  Ahora, ¿cuánto explicaba eso?  Nada más que el quince por ciento.  Después de largos debates y de distintas propuestas, a fines de los ochentas, se termina de incorporar empíricamente el análisis del capital humano, y cuando vos incorporás el capital humano, te explica el ochenta y cinco por ciento del crecimiento económico.  Es decir, setenta puntos porcentuales son explicados por el capital humano.  Ahora voy a mencionar algo que señaló Gustavo, que es muy importante.  El capital humano tiene distintas dimensiones.  La primera dimensión del capital humano, que por ejemplo explica el crecimiento de las potencias durante el siglo XIX, es que la gente pudiera comer.  para poder trabajar.  Es decir, con lo cual, lo que acaba de señalar Gustavo, acaba de tirar una bomba, perdón Gustavo, digamos, que esté usando esta terminología, básicamente, ¿por qué?  Porque siete de cada diez chicos son pobres, tienen problemas de acceso a la educación y tienen problemas de la alimentación.  ¿Esto qué quiere decir?  Que ya tenés problemas en la primera etapa del capital humano.  En la segunda etapa del capital humano, que tiene que ver con la educación, le puede dar a Gustavo, nuestros registros son verdaderamente deplorables.  Y como dijo recién, hoy tenemos problemas que hace cincuenta años no teníamos.  Se le cayó el micrófono a Gustavo, aviso porque después no va a poder hablar.  Yo aviso, ayudo con... El otro tema es, ahora el problema es... Cuando yo hablo del tema de la educación pública, yo digo que puede ser de gestión privada o de gestión estatal.  Esa distinción Gustavo la hizo.  Y lo que pasa es, yo lo que estoy proponiendo es un sistema de vouchers.  Ese sistema de vouchers, o sea, todas las personas en Argentina van a tener un voucher y van a poder elegir la institución que ellas quieran, ya sea... de gestión estatal o de gestión privada.  ¿Y eso qué es lo interesante?  Que genera competencia.  y cuando vos generás competencia, ahí surge lo mejor.  O sea, independientemente que la gestión sea estatal o que sea privada.  Por lo tanto, eso es lo que yo propuse.  Propuse que... Porque mira, esto está en un libro de Hayek, es fabuloso la primera parte. ",
+            "cosine_dist": 0.32691147680791466,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1942.492,
+            "end_time": 1945.094,
+            "text": "Tenemos que ir a la pausa rápido, cerremos la idea rápido. ",
+            "cosine_dist": 1.0454184518930654,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1945.114,
+            "end_time": 1982.712,
+            "text": "Hayek dice, mira, él recita de repente un libro que se llama Los Fundamentos de la Libertad, los dos primeros libros de ese libro.  Parece narcocapitalista, pero dice, bueno, ahora la gente quiere Estado porque quiere tener estos seguros, porque operan como un seguro.  Lo que yo estoy proponiendo es una forma... Para los argentinos es tan importante la educación.  Lo que estoy proponiendo es un mecanismo de financiación.  O sea, que vos puedas poder elegir a dónde vas independientemente de tu condición social.  ¿Por qué?  Porque vos vas con un voucher.  Entonces, quienes hacen mejor las cosas, les va a ir muy bien.  Y los que la hacen mal... digamos, terminarán desapareciendo. ",
+            "cosine_dist": 0.3653645293287906,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1983.292,
+            "end_time": 2019.665,
+            "text": "Podríamos hablar dos horas de esto.  Sabemos que es complejo y es profundo.  Y polémico.  Y muy polémico, claro, porque plantea el individualismo al extremo a la hora de conseguir educación.  Gustavo, te agradecemos un montón.  Yo quiero que un día le dediquemos un programa entero a la educación.  Todos hablamos siempre de eso.  Nos encanta que vengas y escucharte.  Milei, Granata, quédense acá.  Todavía queda programa.  Y ustedes también quédense acá.  Ya volvemos.  Una pausa y estamos acá.  Estamos de vuelta.  Mirá, te digo así.  Santiago Félix tiene una pregunta para Milei.  Podés hacerla.  No la puede responder Milei.  Esperá un momentito. ",
+            "cosine_dist": 1.0323881746590042,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2019.946,
+            "end_time": 2025.949,
+            "text": "Hablamos mucho de economía, hablamos mucho de educación.  Te quiero preguntar por la inseguridad y si estás a favor de que la gente se arme para defenderse. ",
+            "cosine_dist": 1.0990991309903142,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2026.03,
+            "end_time": 2042.716,
+            "text": "No responde Milei.  Milei no quiere jugar a la verdad.  Consecuencia es un derecho que los que vienen pueden utilizar o no.  Así que va a jugar Amalia Granata.  Después de la pausa, la respuesta y la verdad.  consecuencia con Granata.  Están listos los Bella y Bestia para entrar en acción, pero quedó una pregunta para Milay y el verdad. ",
+            "cosine_dist": 1.03885368304274,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2042.756,
+            "end_time": 2047.906,
+            "text": "consecuencia para María.  La pregunta es si está a favor de la aportación de armas para que la gente se defienda de la inseguridad. ",
+            "cosine_dist": 1.025892526818304,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2048.928,
+            "end_time": 2076.282,
+            "text": "Bueno, yo digamos, como seguidor de Gary Becker y adherente a su teoría y a la evidencia empírica, cuando vos a una actividad le bajás el costo y aumenta el beneficio, esa actividad se expande.  Cuando vos prohibís el uso de armas, ¿sabes qué?  Los delincuentes, por más que se lo prohíban, la usan igual.  Les aumentan los beneficios esperados y hay más delincuencia.  Yo estoy a favor de la libre portación de armas, definitivamente. ",
+            "cosine_dist": 0.3684654307112113,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2076.502,
+            "end_time": 2102.81,
+            "text": "Necesitaríamos media hora más de programa.  Solamente por ese tema, Amalia y Renata.  Sí, verdad, consecuencia.  Si tiene que hacer una alianza para ser gobernadora en veinte, veintitrés.  Ella, en la última elección, fue con Federico Angelini, que es el macrismo en la provincia de Santa Fe.  ¿Elige a Macri o a Millet?  Y esa es la pregunta por la verdad.  Y si elige la consecuencia, se tiene que poner el pañuelo verde, que es el pañuelo que representó toda la... ",
+            "cosine_dist": 1.0043892160602548,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 2103.15,
+            "end_time": 2106.912,
+            "text": "¿No puede ser una interna?  No, Macri o Milley. ",
+            "cosine_dist": 0.9589344172999539,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2107.152,
+            "end_time": 2117.837,
+            "text": "Ahora, aparte yo le dije, se la van a abrir a Javier.  Atención, en medio término de Santa Fe fue aliada con el macrismo, acaba de elegir a Javier.  ¿Usted la aceptaría? ",
+            "cosine_dist": 1.0503667382226045,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2118.527,
+            "end_time": 2122.108,
+            "text": "Absolutamente.  Una mujer capaz y corajuda. ",
+            "cosine_dist": 0.5093996239635485,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2122.588,
+            "end_time": 2165.771,
+            "text": "Ahí está.  Dos títulos.  Javier Milei está a favor de la libre portación de armas de todos los ciudadanos y se acaba de armar una alianza política.  Me parece, nos vamos hasta el jueves que viene.  Quedate con Bella y Bestia.  Hay mucho para seguir acá.  En verdad, consecuencia.  Chau.  Hasta el jueves.  Que descanse.  Que estés bien.  Gracias a ustedes.  A la mierda los malditos empresarios, a la mierda Sodomitas el capital.  Basta de basura que Inesiana, ha llegado el momento liberal.  Tenemos un líder y él es un gran rebelde. ",
+            "cosine_dist": 0.9872168685220852,
+            "is_target_speaker": false
+        }
+    ]
+}

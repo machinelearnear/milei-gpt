@@ -1,0 +1,1999 @@
+{
+    "Index": 276,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "1TbQcv8B4mc",
+    "url": "https://www.youtube.com/watch?v=1TbQcv8B4mc",
+    "title": "MILEI SE CRUZÓ CON PERIODISTA A FAVOR DEL PASE SANITARIO - Javier Milei en La Nación + 28/12/2021",
+    "duration": 2151.0,
+    "view_count": 194618,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 2",
+            "start_time": 0.06,
+            "end_time": 1.591,
+            "text": "¿Entonces estarías de acuerdo con el pase sanitario? ",
+            "cosine_dist": 1.0092494292101157,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1.932,
+            "end_time": 4.155,
+            "text": "No, nada, nada, no, no. ",
+            "cosine_dist": 0.8675627902639803,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 4.475,
+            "end_time": 5.657,
+            "text": "¿Fue casi un pase sanitario? ",
+            "cosine_dist": 1.0213605122030291,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 5.697,
+            "end_time": 14.929,
+            "text": "No, contra la Constitución Nacional, va contra el Código Civil, contra el Código Penal, contra el Código Comercial y si querés te doy las leyes que viola, la veintisiete cuatro noventa y uno, la veintisiete quinientos setenta y dos. ",
+            "cosine_dist": 0.45524231593866804,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 15.429,
+            "end_time": 43.748,
+            "text": "La aprobación hace nada, hace minutos nada más en el Congreso bonaerense de la habilitación de las reelecciones que estaban frenadas y que hoy, yo digo sorpresivamente por la magnitud de la votación y la velocidad, ha cambiado.  La política ha tenido un gran día, no así la gente.  Ganó la política, perdió la gente.  Podría ser el título del programa de hoy.  Buen día para todos.  Primero vamos a estar hablando enseguida con Javier Milei, el hombre de la casta. ",
+            "cosine_dist": 0.8231069360212915,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 44.068,
+            "end_time": 56.474,
+            "text": "No, no, no, no.  El hombre que denuncia a la casta y que claramente trabajan para darme la razón todos los días.  Porque lo que estás contando hoy no hace más que darme la razón que son castas que laburan para eso. ",
+            "cosine_dist": 0.48877701718148603,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 56.494,
+            "end_time": 61.337,
+            "text": "Mi ley, espere su turno.  Espere su turno.  Ya vamos a hablar de eso. ",
+            "cosine_dist": 0.8962501001999019,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 62.597,
+            "end_time": 80.981,
+            "text": "Ya noventa intendentes que no podían acceder a una reelección.  si querían hacerlo, después de la sanción de hoy, podrán hacerlo.  Aquellos que fueron elegidos en el dos mil quince, cumplieron su mandato, primer mandato en el dos mil diecinueve, empezaron en el segundo en el dos mil diecinueve y podrán hacerlo en el dos mil veintitrés. ",
+            "cosine_dist": 0.9010321336154635,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 81.021,
+            "end_time": 91.003,
+            "text": "Después tenemos la lista de los noventa intendentes, una lista larga, obviamente, pero además nos vas a contar del lío que hay en Juntos por el Cambio, porque Juntos por el Cambio apoyó esto. ",
+            "cosine_dist": 0.7766109794647426,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 91.443,
+            "end_time": 94.965,
+            "text": "Juntos por el Cambio apoyó esto y son los más beneficiados por esta ley. ",
+            "cosine_dist": 0.852172794531052,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 95.265,
+            "end_time": 97.126,
+            "text": "¿Hacen la ley y los liberales? ",
+            "cosine_dist": 0.9405069986520035,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 97.526,
+            "end_time": 98.826,
+            "text": "Espere su turno. ",
+            "cosine_dist": 0.9267115136681363,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 99.207,
+            "end_time": 100.667,
+            "text": "Dentro de los noventa... ",
+            "cosine_dist": 0.8156580319791673,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 100.827,
+            "end_time": 104.709,
+            "text": "No, se sale de la vaina.  Dentro de los noventa, cuarenta y ocho son de Juntos por el Cambio. ",
+            "cosine_dist": 0.8551016500279665,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 104.749,
+            "end_time": 126.244,
+            "text": "Uno no puede decir, Fer... por qué se vota a determinada persona, porque siempre hay múltiples factores, algunos emocionales, otros más racionales.  Ahora, si por algo han votado a Javier Milei, creo yo es por hablar de la casta política, Javier.  Ahora sí, contanos cuál fue tu sensación hoy cuando el Congreso aprobó esta ley que habilita las reelecciones. ",
+            "cosine_dist": 0.8124174062135359,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 126.684,
+            "end_time": 181.094,
+            "text": "Bueno, lo que uno ve es que sobre la última parte del año la casta política está haciendo un descontrol y es todo en contra de la gente.  Porque es muy importante la definición de casta, ¿no?  Es decir, ¿qué es la casta?  Es cuando un conjunto de políticos toman decisiones en su propio favor en contra de la gente.  Hoy lo que pasó en la legislatura de Buenos Aires es algo en contra de la gente.  Esto es pura casta.  Y ahí, digamos, no solo está al frente de todos.  sino que están juntos por el cambio, o sea, son cómplices.  Entonces, esto es lo que yo he señalado sistemáticamente, son muy parecidos, hay un ala que tiene una clara diferencia, pero el resto, digamos, no son tan distintos al kircherismo.  Y son funcionales, y acaban de habilitar, y muchos de ellos se ven beneficiados con esto.  Entonces, esto es otro claro ejemplo de caste, es decir, ellos hacen cosas en favor de ellos, en contra de la gente. ",
+            "cosine_dist": 0.41203802234082365,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 181.354,
+            "end_time": 193.265,
+            "text": "Pero lo que quiero decir... hablando de la casta, es que muchos no pisaron el palito y no estuvieron adentro de lo que decidió la casta.  Y son históricamente casta, en teoría, para seguir... ",
+            "cosine_dist": 0.8389396394233468,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 193.285,
+            "end_time": 197.709,
+            "text": "Está bien, pero digo, la mayoría de los diputados radicales, la mayoría de los diputados pro votaron. ",
+            "cosine_dist": 0.8790054109012335,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 198.029,
+            "end_time": 205.052,
+            "text": "Sí, sí, sí.  Del pro no la mayoría, pero lo suficiente es para ayudar a la mayoría del radicalismo. ",
+            "cosine_dist": 0.9088252652742758,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 205.072,
+            "end_time": 243.118,
+            "text": "Igual, con eso hay que tener mucho cuidado, porque muchas veces votan estratégicamente para cómo se ve para afuera.  Entonces hay que tener cuidado.  Es decir, lo importante es que la votación salió o no.  ¿Fueron cómplices?  Sí.  Entonces son parte del mismo problema.  Hay que ver, digamos, no es solamente en esto, es en un conjunto de votaciones, en un conjunto de situaciones donde vos los vas a terminar viendo.  A ver, por ejemplo, los que están de acuerdo con el consenso fiscal.  Eso también es un problema de casta.  ¿O acaso no es un acuerdo para subirnos los impuestos y reventarle la cabeza al resto de los argentinos? ",
+            "cosine_dist": 0.3205475301909353,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 243.138,
+            "end_time": 250.622,
+            "text": "Es como si de pronto hubiera desaparecido la grieta, ¿no?  En algunos casos puntuales.  En el consenso fiscal, también en esto que se votó hoy. ",
+            "cosine_dist": 0.7553624860228514,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 250.642,
+            "end_time": 255.844,
+            "text": "¿Cuando se trata de la de ellos?  Ahí están siempre de acuerdo.  No hay grieta. ",
+            "cosine_dist": 0.46822394022237135,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 256.064,
+            "end_time": 276.792,
+            "text": "Es muy interesante lo que pasó en las dos últimas medidas a las que hacen referencia, el consenso fiscal y esta, porque es transversal, había intereses transversales y de alguna manera también generan conflicto en la oposición.  Podríamos decir que en algún punto es como un regalito envenenado del oficialismo a algunos opositores porque les genera conflicto interno. ",
+            "cosine_dist": 0.7336910376246147,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 277.572,
+            "end_time": 297.93,
+            "text": "Ahora después cuando tengamos la lista de los noventa intendentes la vamos a repasar, porque ahí está lo que dice Fer, ahí de todos los colores, pero tal vez favorezca más a los de Juntos por el Cambio.  La tenemos, vamos a compartir la lista de noventa intendentes que en teoría no iban a poder ser reelegidos dentro de dos años y a partir de hoy sí.  Vamos a estar repasándola, a ver, bueno, es infinita. ",
+            "cosine_dist": 0.8035323070103109,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 298.63,
+            "end_time": 309.838,
+            "text": "Pero ahí tenés, mirá, Eduardo... Bueno, a ver, lo que pasa es que pongamos las localidades, ¿no?  Albert, El Mirante, Brona, Recifes, Avellaneda, Azul, Bahía Blanca.  Voy así rápidamente, ¿no? ",
+            "cosine_dist": 0.9448024902850541,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 309.878,
+            "end_time": 315.803,
+            "text": "Los amarillos son los de Juntos por el Cambio que van a poder ser reelegidos.  Exactamente.  Recordemos, no iban a poder ser reelegidos. ",
+            "cosine_dist": 0.7439933068835937,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 315.823,
+            "end_time": 323.48,
+            "text": "Estos son los noventa que pueden ser reelegidos.  Vos fíjate que tenés la mayoría amarillos... Que son de Juntos por el Cambio. ",
+            "cosine_dist": 0.8911427747024523,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 323.861,
+            "end_time": 327.704,
+            "text": "Por esto vos decís que beneficiaba más a Juntos por el Cambio que al peronismo. ",
+            "cosine_dist": 0.8363851308749072,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 327.744,
+            "end_time": 340.088,
+            "text": "Exactamente, a cuarenta y ocho... de Juntos por el Cambio, algunos vecinales, que acá creo que son los que están pintados en violeta, y el resto son del Frente de Todos, los de azul. ",
+            "cosine_dist": 0.8082633342817667,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 340.848,
+            "end_time": 348.032,
+            "text": "Fijate en el Conurbano, a ver si podemos ampliar Conurbano.  Claro, hay un montón de distritos.  Acá sí beneficia al peronismo, ¿no?  Al Frente de Todos. ",
+            "cosine_dist": 0.8158437522974696,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 348.172,
+            "end_time": 352.735,
+            "text": "Y sí, básicamente, tenés Malvinas Argentinas, tenés Lomas de Zamora. ",
+            "cosine_dist": 0.9130062463777572,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 353.836,
+            "end_time": 355.637,
+            "text": "Bueno, Lomas de Zamora no es menor, ¿no? ",
+            "cosine_dist": 0.9316727976776827,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 355.837,
+            "end_time": 378.896,
+            "text": "No, no es menor, obviamente.  Ahí está Martín Insaurralde.  ¿Qué pasa?  ¿Qué decía Juntos por el Cambio?  Juntos por el Cambio decía, nosotros necesitamos que la ley salga porque además los más beneficiados de la trampa son los del frente de todos.  ¿Por qué?  Porque son los que se pidieron licencia.  Entonces los que se pidieron licencia van a poder, si no se modifica, van a poder ir a la reelección.  Y todos nosotros que no pedimos licencia, no. ",
+            "cosine_dist": 0.8322975407358729,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 379.116,
+            "end_time": 381.978,
+            "text": "Porque asumieron un cargo en el Ejecutivo, en la Oficial o Nacional. ",
+            "cosine_dist": 0.9023043811305473,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 382.058,
+            "end_time": 397.789,
+            "text": "Hay un tecnicismo que habilitaba esto que sería la formación.  Una trampita.  Ahora, a mí lo que me impacta es el cambio de espíritu, porque el espíritu era, no le conviene a la política y no le conviene a los ciudadanos que haya reelecciones de reelecciones. ",
+            "cosine_dist": 0.7703871201423769,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 397.809,
+            "end_time": 401.25,
+            "text": "La medida de fondo, la señal es pésima para eso. ",
+            "cosine_dist": 0.9908116639629988,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 401.29,
+            "end_time": 419.091,
+            "text": "Porque aparte muchos decían, yo no voy a ir, me parece que es incorrecto, pero ahora que lo habilitan, ¿no van a ir realmente?  Si yo no estoy de acuerdo con algo, ¿lo voy a aprovechar esa norma?  Dentro de esos noventa, la pregunta, tenés cuarenta y ocho y que dicen, mira, yo apoyé a mi gobernadora, mi gobernadora dice, no tenemos que hacer esto, ¿lo voy a hacer al final? ",
+            "cosine_dist": 0.9365109450665963,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 419.751,
+            "end_time": 422.074,
+            "text": "Bueno, es una cuestión, pero como dice... ",
+            "cosine_dist": 0.9652211338997585,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 422.094,
+            "end_time": 425.759,
+            "text": "De acá a dos años nos olvidamos todos, también cuentan con eso, me parece, ¿no? ",
+            "cosine_dist": 0.8444032452574544,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 425.939,
+            "end_time": 432.121,
+            "text": "Bueno, hay uno de estos intendentes que salió a pegarle a la gobernadora diciendo, no sé qué opina de Promesa de Buenos Aires y ahora está en Ciudad. ",
+            "cosine_dist": 0.9868319865853556,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 432.181,
+            "end_time": 435.942,
+            "text": "Claro, bueno, Grindetti fue ese.  Grindetti, el intendente de la ONU. ",
+            "cosine_dist": 0.9738386486105693,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 435.982,
+            "end_time": 438.503,
+            "text": "En esos términos, ¿eh?  No lo estoy inventando yo en esos términos. ",
+            "cosine_dist": 0.9680734077162418,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 438.583,
+            "end_time": 442.284,
+            "text": "Y si ahora se fue a Ciudad, ¿por qué le preocupa tanto lo que pasó en Provincia?  Una chicana, evidentemente. ",
+            "cosine_dist": 0.8766261117763287,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 442.304,
+            "end_time": 443.985,
+            "text": "Bueno, pero es del mismo partido. ",
+            "cosine_dist": 0.9088061223864623,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 444.065,
+            "end_time": 449.207,
+            "text": "Coincidencia entre Grindetti y Mario Seco, que fue igualmente enérgico.  Por eso digo que es traversal. ",
+            "cosine_dist": 0.8257305197658594,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 450.127,
+            "end_time": 473.73,
+            "text": "A ver, tenemos el textual de Grindetti, a ver qué es lo que decía, recordemos, hombre, importantísimo de Juntos por el Trabajo.  Jefe de campaña en Provincia de Buenos Aires fue.  Yo no quiero entrar en polémicas, pero María Eugenia Vidal ahora está en la ciudad.  Yo soy de los primeros que trabaja por la unidad y eso internamente lo saben.  Creo que las discusiones hay que darlas hacia adentro y no por los medios.  Néstor Grindetti... ",
+            "cosine_dist": 0.7994759326826154,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 474.09,
+            "end_time": 493.47,
+            "text": "Brindetti es el que dice, el que sostiene la teoría.  Primero, Brindetti anunció que no va a ir por la reelección en el año veinte y veintitrés.  Dijo, yo no tengo ninguna intención y no voy a ir por la reelección.  Pues veremos qué hace, pero dice, no voy a ir por la reelección.  Y además, dice, hay que votarla porque favorece al frente de todo lo que está sucediendo. ",
+            "cosine_dist": 0.8067148252950326,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 493.49,
+            "end_time": 503.081,
+            "text": "Pero eso es un problema de los políticos, que como bien dice Javier, para la gente, para el ciudadano común, esto es, che, ¿por qué se quieren quedar tanto las intendencias?  ¿Cuál es el negocio de la política?  Pero hay algo ",
+            "cosine_dist": 0.7513803352418673,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 503241,
+            "end_time": 503601,
+            "text": "peor, ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 504.422,
+            "end_time": 505.023,
+            "text": "Tato, es ",
+            "cosine_dist": 0.8819365540486872,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 506.004,
+            "end_time": 571.102,
+            "text": "la señal.  Es decir, se firma una regla y al rato, cuando están a los bordes de cumplirla, la vuelven a cambiar.  Es decir, es una tomada de pelo.  Ahora, esto, lo que uno ve en la provincia de Buenos Aires, también lo ve en el tema del consenso fiscal, o lo podés ver también en lo que fue el armado de las listas de Juntos por el Cambio de la Capital.  Recordá que por cómo había conformado las cosas en la lista, López Murphy va a quedar muy atrás.  ¿Y qué hicieron?  A las once de la noche, un ratito antes de la veda, cambiaron la regla para que pudiera estar en otro espacio y poder dar una mejor competencia contra los liberales.  Entonces lo que digo es, están todo el tiempo cambiando la regla de juego en función... de una ventaja electoral, es decir, en el fondo es estar aferrados al cargo, es decir, están desesperados por el cargo.  Esa es la realidad.  Y eso vale de un lado como del otro, es decir, en el fondo esa no es la grieta, esa es la falsa grieta. ",
+            "cosine_dist": 0.37502050013235844,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 571.122,
+            "end_time": 585.651,
+            "text": "¿Sabés cuál es?  Que se tomó una decisión en pos de la transparencia política, en pos de terminar con los privilegios.  Es como si se hubiese votado, terminar con la boleta única, la lista sábana y de repente volver. ",
+            "cosine_dist": 0.8415609921824235,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 585.951,
+            "end_time": 601.001,
+            "text": "Sí, de hecho había sido una de las mejores cosas que hizo María Eugenia Vidal en la provincia de Buenos Aires, hay que decirlo, en sociedad con Massa, que ahí también habla de la fragilidad del sistema, ¿no?  Hasta hace cinco años eran aliados Vidal y Massa y hoy están en veredas opuestas, ¿no? ",
+            "cosine_dist": 0.7915839504546568,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 601.041,
+            "end_time": 609.787,
+            "text": "Claro, bueno, eso es lo que termina pasando en la política también, ¿no?  Que a veces ves cómo de un lado y del otro se van pasando de partido y eso es lo que la gente también ve como algo... ",
+            "cosine_dist": 0.9364086639039517,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 610.327,
+            "end_time": 640.845,
+            "text": "En un ratito.  Tenemos, para mostrarle a Javier Milet, yo le voy a pedir que se ate a la silla, que no salte, porque él se altera con estas cosas, lo que aprobó la provincia de Buenos Aires para el próximo año, que es la habilitación para contratar empleados públicos.  Vieron que parece que faltan empleados públicos en provincia.  Y han agregado veinticinco mil nuevos cargos.  Tenemos placa para compartir con ustedes, que son mil seiscientos para el Ministerio de Salud.  Veinticinco mil más.  Veinticinco mil más.  Exacto. ",
+            "cosine_dist": 0.8140618042798419,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 641.106,
+            "end_time": 641.726,
+            "text": "Tremendo. ",
+            "cosine_dist": 0.94465661238112,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 642.027,
+            "end_time": 644.149,
+            "text": "Total lo pagamos nosotros con los impuestos. ",
+            "cosine_dist": 0.6670238750506294,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 644.229,
+            "end_time": 662.717,
+            "text": "Mil quinientos para el Ministerio de Justicia.  Todos plantas permanentes.  Esto después no los echás nunca más, obviamente.  Diez mil para el Ministerio de Seguridad.  Uno imagina que es policías.  Pero bueno, imagina.  Seguimos, dale.  Ciento veinte para el Ministerio de Mujeres.  ¿Había Ministerio de Mujeres en provincia también? ",
+            "cosine_dist": 0.7941120746347524,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 662.758,
+            "end_time": 664.459,
+            "text": "También, claro.  Cuando crearon acá, crearon allá. ",
+            "cosine_dist": 1.0404909372404045,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 665.6,
+            "end_time": 671.104,
+            "text": "¿Dose mil para la Dirección de Cultura y Educación?  Uno imagina que docentes.  Pero vaya uno a. saber. ",
+            "cosine_dist": 0.7663088314977918,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 671.124,
+            "end_time": 681.621,
+            "text": "Bueno, ahí yo te digo, diez mil para seguridad y doce mil... Si son policías y docentes... No sé si en esa cantidad, pero es lo único que justifico que se amplíe. ",
+            "cosine_dist": 0.9223744221521055,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 681.761,
+            "end_time": 693.89,
+            "text": "Sí, si van a trabajar después, sí, ¿no?  Porque después hay un festival de licencias también en esas áreas.  Pero bueno, esto también es un tema, ¿no?  La gente que le aumentan los impuestos para sostener esto. ",
+            "cosine_dist": 0.7907962574933665,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 693.91,
+            "end_time": 694.83,
+            "text": "Forma parte de lo mismo. ",
+            "cosine_dist": 0.9128208709544161,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 695.031,
+            "end_time": 696.011,
+            "text": "Es parte de lo mismo. ",
+            "cosine_dist": 0.9018265798769777,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 696.111,
+            "end_time": 698.093,
+            "text": "Y sí, porque esto lo tenés que sostener con impuestos. ",
+            "cosine_dist": 0.8551106047109139,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 699.713,
+            "end_time": 807.529,
+            "text": "Es parte de la misma lógica con la que piensa el gobierno.  El gobierno cree que se puede crear riqueza desde el sector público y eso es imposible.  Es decir, el sector público no crea riqueza, la riqueza la crea el sector privado.  Mira, Franz Oppenheimer decía que había dos formas de sustentarte, por decirlo de alguna manera.  Uno son los medios económicos, el mercado.  Es decir, sirviendo al prójimo conviene mejor calidad, un mejor precio.  Es decir, creando riqueza.  Y la otra son los medios políticos.  Es el robo, digamos, la política no genera nada.  Es decir, es falso creer que la política puede generar empleo.  Es decir, porque en realidad cuando vos estás supuestamente creando un empleo acá, en realidad estás cobrando impuestos, estás destruyendo cosas en otro lado.  Por lo tanto, en realidad, digamos, la destrucción de riqueza... Neta es tremenda y vos no estás mejor.  O sea, y tampoco es cierto que pueden sostener un salario y si le dieran roja con la maquinita porque quiere decir que le están pagando algo que no le pagan al mercado y por ende la productividad no es la que corresponde.  Es decir, todo lo que haga el sector público destruye.  Es decir, porque vos cada vez que querés gastar algo, alguien lo tiene que pagar.  O lo pagás con deuda que es profundamente inmoral porque son impuestos futuros castigando a generaciones futuras.  Los financiás con emisión monetaria.  Y hoy salió una nota, digamos, donde justamente mostraba que el mayor recurso que tuvo recaudatorio el gobierno este año, ¿cuál fue?  La emisión monetaria.  Un punto cuatro billones sin considerar el DEC.  Por lo tanto, estamos en un punto ocho billones.  Y eso es inflación, eso le pega a los que menos tienen.  Pero fíjense esto, que esto es lo más importante.  Están discutiendo un montón de cosas que hacen a la política, pero tenemos.  Cuarenta y cinco por ciento de pobres.  Tenemos once por ciento de indigentes.  O sea, en el país de los alimentos hay cinco millones de argentinos que no le alcanza para comer. ",
+            "cosine_dist": 0.36545096579937,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 807.87,
+            "end_time": 809.33,
+            "text": "Y esta gente está discutiendo. ",
+            "cosine_dist": 0.7454229531046852,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 809.35,
+            "end_time": 812.891,
+            "text": "a ver cómo permanece en el cargo.  ¿Tanto miedo le tienen al mercado? ",
+            "cosine_dist": 0.5522727416770166,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 813.271,
+            "end_time": 825.178,
+            "text": "Ahora, te hago una pregunta a vos, Pancho.  A todo esto estamos esperando todavía el plan plurianual.  ¿Para eso no hay reuniones, no hay rosca, no hay discusiones, no hay nada para armar un plan? ",
+            "cosine_dist": 0.760480498971708,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 825.838,
+            "end_time": 843.49,
+            "text": "Se supone que parte de las conversaciones que se están teniendo estos días es para este plan.  La información que yo tengo es que viene bastante demorado.  Con lo cual, y además con estas cosas, no sé qué va a... ¿Qué, por ejemplo, ve el Fondo Monetario esto que estamos discutiendo ahora?  ¿Van a nombrar veinticinco mil empleados? ",
+            "cosine_dist": 0.8785376173835995,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 843.51,
+            "end_time": 845.611,
+            "text": "Vos sí que lo miran.  a eso, sí. ",
+            "cosine_dist": 0.8647815668763792,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 845.631,
+            "end_time": 846.392,
+            "text": "Miran el gasto. ",
+            "cosine_dist": 0.8467524826296338,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 846.832,
+            "end_time": 951.864,
+            "text": "Bueno, una de las cosas, cuando vos haces un programa con el fondo, tenés metas en términos de déficit fiscal, tenés metas en términos de agregados monetarios y tenés metas en términos de reservas internacionales netas.  A ver, cuando vos mirás el presupuesto, ¿Cuál es el problema del presupuesto que había mandado el gobierno?  Porque parece que quieren hacer el plurianual sobre esa base.  Ahora, ¿cuál era el problema?  Cuando vos haces una proyección, para que tengas una idea ya de los errores garrafales que tiene... Vos partís de un año base.  Y a partir de ahí proyectás.  Ahora, ¿cuál es el problema?  Si vos el año base está mal, porque ya el propio ministro te reconoce que no había actualizado los datos que vos tenías a septiembre para diciembre.  Digo, ya tenés un problema enorme.  Para que se den una idea, el presupuesto original tenía una previsión de aumento del gasto del cuarenta por ciento.  Cuando vos tenés el que está ejecutado ya, digamos, a noviembre, en realidad, ponéle a noviembre, ya tenías veinte por ciento de diferencia para adelante.  Con lo cual, digamos, está claro que no lo ibas a cumplir.  Por eso de un día para el otro te aparecen con cincuenta y seis artículos, con expansión de gasto.  Pero vos fíjate que tiene errores técnicos, errores contables, errores de teoría económica, errores de evidencia empírica.  Y suponete que le sale bien.  Le faltan doce mil millones de dólares.  O sea, entonces después lo dibujan y dibujan que tiene seis mil y después les quedan seis mil para cubrir.  ¿Y de dónde lo van a sacar?  Si las reservas internacionales netas de Argentina son negativas.  Por lo tanto, o sea... Y además cuando escuchan los discursos del presidente de la Comisión de Presupuestos, el señor Carlos Heller, parece que tiene un cartel que dice vamos al default, vamos al default.  O sea, ¿así?  Lo único que hacen es precipitar la piña. ",
+            "cosine_dist": 0.34078268393770617,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 951.884,
+            "end_time": 964.875,
+            "text": "Mirá que interesante lo que me dice alguien muy importante... De la justicia en la provincia de Buenos Aires.  Dice, veinticinco mil nuevos cargos para la administración, cero para el Poder Judicial.  Y dice, es toda una decisión institucional. ",
+            "cosine_dist": 0.8772623807191389,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 965.256,
+            "end_time": 967.138,
+            "text": "Claro, obvio.  Ah, tenés razón. ",
+            "cosine_dist": 0.9477402292159077,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 967.238,
+            "end_time": 967.958,
+            "text": "Y tiene razón. ",
+            "cosine_dist": 1.049797556591354,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 968.399,
+            "end_time": 972.763,
+            "text": "Había ciento veinte para el Ministerio de Justicia.  Pero no es el Poder Judicial, claro. ",
+            "cosine_dist": 0.963947262100823,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 972.783,
+            "end_time": 978.008,
+            "text": "Pero te sumo algo más.  Cero para el Poder Judicial.  Además de esos veinticinco mil cargos, acaban de crear tres ministerios y un ente autárquico. ",
+            "cosine_dist": 0.8976911107322577,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 978108,
+            "end_time": 978449,
+            "text": "¿En dónde? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 978.629,
+            "end_time": 982.01,
+            "text": "En el Senado.  Bonerense acaba de aprobarle tres ministerios nuevos a Kicillof. ",
+            "cosine_dist": 0.9651245027752028,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 982.15,
+            "end_time": 983.39,
+            "text": "¿Va a tener tres ministerios más? ",
+            "cosine_dist": 0.9825896078348056,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 983.41,
+            "end_time": 986.051,
+            "text": "¿Querés saber cuáles son?  A ver.  Hace minutos se los aprobó. ",
+            "cosine_dist": 0.9738112668789521,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 986.071,
+            "end_time": 987.891,
+            "text": "Esto es información que es de ahora. ",
+            "cosine_dist": 0.9254036360904807,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 988.131,
+            "end_time": 991.892,
+            "text": "Es de ahora.  Lo aprobó el Senado.  Lo pidió Kicillof el nueve de diciembre. ",
+            "cosine_dist": 0.9916500913342393,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 991.912,
+            "end_time": 995.933,
+            "text": "Lo pidió Kicillof como para además tratar la ley de... ",
+            "cosine_dist": 0.9346622381474411,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 996.033,
+            "end_time": 1008.04,
+            "text": "Para pagar cargos.  Claro, porque lo que se busca es jerarquizar las áreas.  ¿Cuáles son las tres áreas?  Ambiente.  transporte y hábitat, desarrollo urbano y crea un ente autárquico. ",
+            "cosine_dist": 0.9267213688777157,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1008.08,
+            "end_time": 1008.801,
+            "text": "El primero es... ",
+            "cosine_dist": 1.1430304125609212,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1009.321,
+            "end_time": 1022.754,
+            "text": "El primero, te digo quién va a estar a cargo incluso.  Ambiente es el primero.  Daniela Villar, no sé si le suena, que es la pareja de Federico Ottermin, ¿le suena a Federico Ottermin?  Presidente de la Cámara de Diputados bonaerense. ",
+            "cosine_dist": 0.9543569344814498,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1022.974,
+            "end_time": 1024.435,
+            "text": "Ah, le dieron un cargo a la señora. ",
+            "cosine_dist": 0.9934921960071819,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1024.714,
+            "end_time": 1030.179,
+            "text": "Exactamente.  Que era diputada de la Nación, que dejó su cargo para asumir este Ministerio de Ambiente. ",
+            "cosine_dist": 0.934340968143013,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 1030.219,
+            "end_time": 1035.222,
+            "text": "O sea, en la Cámara de Diputados ",
+            "cosine_dist": 1.0245323792706225,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1035242,
+            "end_time": 1035662,
+            "text": "votaron un ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1035.682,
+            "end_time": 1036.781,
+            "text": "cargo para la señora del ",
+            "cosine_dist": 0.9920346161837045,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1036.882,
+            "end_time": 1038.804,
+            "text": "presidente de la Cámara. ",
+            "cosine_dist": 1.019868910867805,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1038.844,
+            "end_time": 1040.384,
+            "text": "Igual lo votó el Senado. ",
+            "cosine_dist": 1.0178466977143845,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1040.404,
+            "end_time": 1041.585,
+            "text": "En este caso lo votó el Senado. ",
+            "cosine_dist": 1.0244550850497955,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1041.605,
+            "end_time": 1044.387,
+            "text": "Lo votó el Senado, así que vamos a ser honestos. ",
+            "cosine_dist": 0.942455273562731,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1044.767,
+            "end_time": 1053.313,
+            "text": "Por el otro lado es Transporte y Hábitat.  El de Transporte y Hábitat, ya te digo, es un masista el que va a quedar a cargo.  El nombre de este masista, Jorge Donofrio. ",
+            "cosine_dist": 0.9302983652535093,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1053.514,
+            "end_time": 1056.357,
+            "text": "Que sería una secretaría y ascendió a... ",
+            "cosine_dist": 0.7937419057533097,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1056.397,
+            "end_time": 1062.965,
+            "text": "Claro, exactamente.  El diputado masista, Jorge Donofrio, va a quedar a cargo de... ",
+            "cosine_dist": 0.9898579708990465,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1063.025,
+            "end_time": 1065.888,
+            "text": "Habrá una inversión importante en trenes, ¿no? ",
+            "cosine_dist": 0.9255395204843757,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1066249,
+            "end_time": 1066669,
+            "text": "Seguramente. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1068.271,
+            "end_time": 1070.752,
+            "text": "Uno se ríe para no llorar.  ¿Y el tercero?  Y el ",
+            "cosine_dist": 0.9719256250478882,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1070.792,
+            "end_time": 1073.653,
+            "text": "tercero es Desarrollo ",
+            "cosine_dist": 0.9211128203403631,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1073914,
+            "end_time": 1074354,
+            "text": "Urbano, ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1074.814,
+            "end_time": 1090.801,
+            "text": "que era una cercana a Kicillof, que cuando se hizo todo este cambio después de que perdió las pasos, la habían rajado, y vuelve al equipo, lo vamos a hacer el nombre acá para no meter la pata, que lo tengo acá, Agustina Simone, la ministra de Infraestructura, que la habían desplazado, vuelve a ser ministra con un cargo nuevo. ",
+            "cosine_dist": 0.9662082580388035,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1090.941,
+            "end_time": 1093.022,
+            "text": "Ahora, Habitat, ¿y cómo se llama el último? ",
+            "cosine_dist": 0.9377103973076606,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1093.042,
+            "end_time": 1093.762,
+            "text": "Desarrollo Urbano. ",
+            "cosine_dist": 0.9782182179802761,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1094.923,
+            "end_time": 1095.963,
+            "text": "¿Puede ser el mismo ministerio? ",
+            "cosine_dist": 0.9260291621880371,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1096.123,
+            "end_time": 1103.045,
+            "text": "No, no, no, pero es que era quizás Galaria.  Pero lo más lindo de todo esto, que era un ente autárquico, o sea que no va a depender de nadie, un presupuesto propio y demás. ",
+            "cosine_dist": 1.0053123896832186,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1103.125,
+            "end_time": 1104.025,
+            "text": "Pero el presupuesto propio... ",
+            "cosine_dist": 0.881389218381795,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1104.065,
+            "end_time": 1111.047,
+            "text": "Que se va a llamar Instituto Cultural.  No, la plata la dan ellos, pero ellos después deciden cómo manejan la plata.  Eso es el autárquico. ",
+            "cosine_dist": 0.8880745492230899,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1111.307,
+            "end_time": 1113.887,
+            "text": "Instituto Cultural es... Instituto Cultural.  Ese es nuevo también. ",
+            "cosine_dist": 1.003450442087175,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1113.907,
+            "end_time": 1117.628,
+            "text": "Ese es nuevo.  Por eso a lo mejor los doce mil... ",
+            "cosine_dist": 0.9916508363252872,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1117.648,
+            "end_time": 1119.869,
+            "text": "Claro, van al Instituto Cultural.  Claro, pensamos que eran docentes... ",
+            "cosine_dist": 1.0394816353048388,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1119.889,
+            "end_time": 1120.969,
+            "text": "¿Cómo que es un ente autárquico? ",
+            "cosine_dist": 0.96706764850172,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1122.09,
+            "end_time": 1128.355,
+            "text": "Un ente autárquico, por ejemplo, vos tenés de esa misma manera, es el ex-confer, es un ente autárquico. ",
+            "cosine_dist": 0.9589739183238875,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1128.395,
+            "end_time": 1130.897,
+            "text": "¿Cómo se financia eso?  ¿De dónde sale la plata? ",
+            "cosine_dist": 0.8115740546373776,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1130.977,
+            "end_time": 1131.938,
+            "text": "Siempre de nosotros. ",
+            "cosine_dist": 0.9896390824850849,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 1131.978,
+            "end_time": 1133.179,
+            "text": "¿De los impuestos de todos? ",
+            "cosine_dist": 1.1231630375596815,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1133.219,
+            "end_time": 1168.271,
+            "text": "Siempre de nosotros.  No te equivocás.  ¿Te puedo hacer dos notas de color?  ¿Sabés quiénes tienen la costumbre de a cada cosa crearle un ministerio?  los comunistas, mirá cómo les va.  Y después, ¿no viste qué bien que nos fue con el coronavirus, no?  O sea, estoy siendo irónico, por favor, porque últimamente con los textuales están... Digamos, tenemos Ministerio de Salud ahora, y en lugar de tener veintisiete mil muertos, acorde al promedio, tenemos ciento diecisiete mil, o sea, dio noventa mil personas, perdieron la vida, pero tenemos Ministerio de Salud. ",
+            "cosine_dist": 0.3930942137504918,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1168.311,
+            "end_time": 1170.231,
+            "text": "Bueno, lo mismo con el Ministerio de la Mujer, ¿no? ",
+            "cosine_dist": 0.9041239425079277,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1170.311,
+            "end_time": 1186.738,
+            "text": "Que crearon un Ministerio de la Mujer, pero lo Ya que hablábamos de transporte y de trenes, hay un ejemplo que para mí marca lo poco que importa el control del gasto en la Argentina.  Si vos querés tomarte un tren en la Argentina gratis, setenta kilómetros, digamos, retiro cabrez... ",
+            "cosine_dist": 0.780327328813907,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1187.598,
+            "end_time": 1188.519,
+            "text": "A ver, a ver, pará, pará. ",
+            "cosine_dist": 0.9214785031503825,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1188.779,
+            "end_time": 1196.245,
+            "text": "Si vos querés tomarte un tren en la Argentina, Retiro, Cabred, o sea, setenta kilómetros, podés no pagar boleto y no pasa nada. ",
+            "cosine_dist": 0.7962623038693756,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1196.305,
+            "end_time": 1197.065,
+            "text": "Nadie te controla. ",
+            "cosine_dist": 0.9233589692569167,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1197.125,
+            "end_time": 1197.966,
+            "text": "Nadie te controla. ",
+            "cosine_dist": 0.7868750999824005,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1198.066,
+            "end_time": 1199.407,
+            "text": "En todo el recorrido nadie te pide boleto. ",
+            "cosine_dist": 0.8827703147409539,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1199.427,
+            "end_time": 1207.753,
+            "text": "Nadie te controla.  Si querés podés voluntariamente, pasás la sube, pero nadie te controla, lo cual a uno le hace pensar, esto es todo regalado. ",
+            "cosine_dist": 0.7948172271988663,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1207.773,
+            "end_time": 1266.437,
+            "text": "Claro, de vuelta.  Bueno, primero que no existe tal cosa como un almuerzo gratis, nada es regalado, alguien lo paga, se paga de otra manera, de vuelta con deuda, con inflación o con más impuestos.  Pero, ¿por qué ocurre eso?  Porque está a cargo del sector público, entonces, ¿qué es lo que pasa?  Cuando vos estás en el sector privado, si te pasa eso y te equivocas, ¿cuál es el problema?  Pasa la quiebra.  Acá, digamos, cuando el Estado tiene déficit, ¿qué hace?  Te pasa la cuenta.  ¿Querés un buen ejemplo?  No estaban hablando de los números de aerolíneas.  Pierde el setecientos palos verdes por año.  O sea, acumula lo que lleva perdido en estos últimos diez años, son siete mil palos verdes.  O sea, y en el fondo, ¿quién paga eso?  ¿Sabés quién lo paga?  los que no toman los aviones.  O sea, es como, digamos, ¿quién termina pagando?  El que es el beneficiario directo, el que toma el avión y va a un precio distinto, que parece que no es tan así porque ahora, digamos, para ser más competitivo... No, lo paga el comerciante de San Justo que no viaja al avión.  Exactamente, lo paga el que no va. ",
+            "cosine_dist": 0.3568938536955305,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1266.977,
+            "end_time": 1274.763,
+            "text": "Te sumo, querés saber, perdón la interrupción, quién va a estar al frente del Instituto Cultural, que entre otras cosas va a tener como finalidad... ",
+            "cosine_dist": 0.9598727860460123,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1274.783,
+            "end_time": 1280.808,
+            "text": "Yo te digo, este programa se está convirtiendo en un programa peligroso, porque ya no paramos de sumar noticias que irritan... ",
+            "cosine_dist": 0.7975353947986309,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1281.829,
+            "end_time": 1282.97,
+            "text": "Bueno, querés saber quién es... ",
+            "cosine_dist": 1.041892701557231,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1282.99,
+            "end_time": 1285.371,
+            "text": "Tres ministerios nuevos y un instituto cultural. ",
+            "cosine_dist": 0.85542932305471,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1285.471,
+            "end_time": 1297.6,
+            "text": "Sí, que va a buscar garantizar el acceso a los derechos de bienes culturales, materiales e inmateriales, como el derecho a la producción de cultura desde las prácticas que el pueblo realiza.  ¿Quién va a estar al frente? ",
+            "cosine_dist": 0.8874904502172486,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1297.66,
+            "end_time": 1299.341,
+            "text": "¿Qué es Sarasa?  ¿Qué es eso?  A ver. ",
+            "cosine_dist": 0.9903022690048208,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1299.661,
+            "end_time": 1307.446,
+            "text": "Te doy dos pistas.  Era ex diputada, ex candidata a intendente de La Plata y ex decana de periodismo de la Universidad de La Plata.  ¿Quién es? ",
+            "cosine_dist": 0.9396615665860981,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1307.806,
+            "end_time": 1310.328,
+            "text": "¿Es la que le dio un premio a Hugo Chávez, por ejemplo? ",
+            "cosine_dist": 1.0167603947179262,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1310.348,
+            "end_time": 1320.538,
+            "text": "Esa misma.  Ella va a estar a cargo, Florencia, ella va a estar a cargo de Instituto Cultural, ente autárquico que acaba de aprobar el Senado. ",
+            "cosine_dist": 0.8297485196439658,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1320.558,
+            "end_time": 1324.162,
+            "text": "Bueno, eso es caja, eso es caja política.  ¿En serio? ",
+            "cosine_dist": 0.7500166886673357,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1324.742,
+            "end_time": 1330.408,
+            "text": "No, vos me estás jodiendo.  Que crean ministerios, digamos, con una fachada para hacer caja política. ",
+            "cosine_dist": 0.4875527976274303,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 1330.428,
+            "end_time": 1332.11,
+            "text": "Pero es irónico también eso que estás diciendo. ",
+            "cosine_dist": 0.9669288535236393,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1332.15,
+            "end_time": 1336.134,
+            "text": "¿Cómo?  Hay que aclararlo.  Sí, claro, de vuelta, de vuelta.  Estoy siendo irónico. ",
+            "cosine_dist": 0.8145739804215936,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1336.154,
+            "end_time": 1338.876,
+            "text": "¿Puede repetir la función que va a tener Florencia Saintut? ",
+            "cosine_dist": 0.8560435535739253,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1339.176,
+            "end_time": 1356.107,
+            "text": "Ella va a estar a cargo del Instituto Cultural como entidad autárquica, que va a tener que garantizar el acceso al derecho a los bienes culturales, materiales e inmateriales, como el derecho a la producción de la cultura desde las prácticas que el pueblo realiza. ",
+            "cosine_dist": 0.864461695878813,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1356.247,
+            "end_time": 1359.729,
+            "text": "¿Qué van a ir?  juntando murgas y llevándolas por los barrios? ",
+            "cosine_dist": 0.7693068893052092,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1359.889,
+            "end_time": 1362.17,
+            "text": "¿Y ahora el Ministerio de Cultura?  qué hace? ",
+            "cosine_dist": 1.0292497626728896,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1362.19,
+            "end_time": 1364.632,
+            "text": "Ah, qué buena pregunta.  ¿Quién es el Ministerio de Cultura? ",
+            "cosine_dist": 0.9029179541994216,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1365.212,
+            "end_time": 1366.553,
+            "text": "Ahora lo buscamos. ",
+            "cosine_dist": 1.0008656348879768,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1366.573,
+            "end_time": 1371.596,
+            "text": "Ese es el que labura de verdad, el otro es el que hace caso. ",
+            "cosine_dist": 0.70344017586992,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1372.097,
+            "end_time": 1375.279,
+            "text": "Uno se ríe, pero estas son las cosas que después se enojan a la gente. ",
+            "cosine_dist": 0.8583783339597999,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 1375.639,
+            "end_time": 1380.822,
+            "text": "De cada ministerio, de cada ente que acaban de crear... y al cual le asignan funciones. ",
+            "cosine_dist": 0.9171827979048306,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1380.842,
+            "end_time": 1381.783,
+            "text": "¿Va a haber nuevos empleados? ",
+            "cosine_dist": 1.0195894327723927,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 1381.803,
+            "end_time": 1392.19,
+            "text": "Esas funciones antes las hacía otro.  O sea, las están sacando alguien para generar un nuevo ministerio.  Pero, digamos, alguien organizaba lo cultural en la provincia de Buenos Aires. ",
+            "cosine_dist": 0.8742088691053467,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1392.21,
+            "end_time": 1409.964,
+            "text": "Claro, lo que pasa es que la diferencia entre estos nuevos ministerios, que eran secretarías, es que el presupuesto que tienen es más chico y la estructura que tienen es más chica.  O sea, que tienen menos empleados.  Cuando vos pasás a ser ministerio, tenés mayor capacidad para tener mayor empleados.  El ministerio implica que el titular tenga más sueldo Que los otros tengan más caja y que tengan más cargos. ",
+            "cosine_dist": 0.908305486895876,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1410.725,
+            "end_time": 1422.137,
+            "text": "Agustina Vila era la directora de Cultura, no teníamos, era la directora general de Educación y Cultura.  Ahora va a quedar aparentemente solo con Educación y se crearía este ente autárquico para la cultura. ",
+            "cosine_dist": 0.9254842765550716,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1422.157,
+            "end_time": 1426.402,
+            "text": "Bueno, Pancho, contanos esto, inquietante, están en este momento bloqueando estaciones de servicio. ",
+            "cosine_dist": 0.9001355703096703,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1426.602,
+            "end_time": 1437.626,
+            "text": "Así es.  Nueve en este momento.  Viene desde la semana pasada.  Esto es costo argentino.  Vos imaginate, sos estacionero PYME.  La mayoría de las estaciones de servicio en la Argentina son PYMES.  Ah, ¿en serio? ",
+            "cosine_dist": 0.8998782534238704,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1438.427,
+            "end_time": 1439.527,
+            "text": "No importa la bandera. ",
+            "cosine_dist": 0.9301766639007917,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1439.867,
+            "end_time": 1442.548,
+            "text": "No, claro.  Vos tenés la bandera, que es otra cosa. ",
+            "cosine_dist": 0.896687050327495,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1442.568,
+            "end_time": 1443.569,
+            "text": "Es la marca. ",
+            "cosine_dist": 0.8862739112595881,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1443.649,
+            "end_time": 1446.85,
+            "text": "Es como una franquicia. ",
+            "cosine_dist": 0.9507835972313019,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1447.13,
+            "end_time": 1449.811,
+            "text": "La última medida de fuerza de este tipo fue en el dos mil nueve. ",
+            "cosine_dist": 0.8889985549680084,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1451.011,
+            "end_time": 1453.173,
+            "text": "Esto que estamos viendo es... Argentina. ",
+            "cosine_dist": 0.8241096567018891,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1453.393,
+            "end_time": 1459.317,
+            "text": "Exactamente.  Algunos de las protestas, los sindicalistas me dicen, no es bloqueo, son asambleas. ",
+            "cosine_dist": 0.7931094548526765,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1459.437,
+            "end_time": 1462.899,
+            "text": "No es ensalada española. ",
+            "cosine_dist": 1.0561595286063594,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 1462.979,
+            "end_time": 1467.222,
+            "text": "Es como cuando te dicen, no es paro, es quite de colaboración. ",
+            "cosine_dist": 0.9839440071622013,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1467.262,
+            "end_time": 1469.864,
+            "text": "¿Andás en moto o en auto?  ¿Sos de moto o no? ",
+            "cosine_dist": 0.8986047129463528,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1471.085,
+            "end_time": 1473.967,
+            "text": "No, dejé de usar la moto porque a mi hijito Conan no le gustaba. ",
+            "cosine_dist": 0.5544795660229204,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1474.227,
+            "end_time": 1478.673,
+            "text": "Bueno, imaginate a Millet con los tiempos de moto yendo a cargar nafta ahí.  No, no te dan mucha gana. ",
+            "cosine_dist": 0.798975773692377,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1478.713,
+            "end_time": 1516.77,
+            "text": "Complicado.  Bueno, por eso las petroleras se quejan, sobre todo los estacioneros, se quejan de apriete.  El que está encabezando esta protesta es Carlos Acuña Hijo.  el hijo de Carlos Acuña, de la CGT, hijo también de Blanca Cantero, te acuerdas que fue intendente de Presidente Perón, del Frente Renovador.  Y lo que vas a escuchar ahora es un audio, una conversación entre Carlos Acuña, esto fue hoy, Carlos Acuña y el CEO de esa que es Shell Argentina, que tiene en este momento nueve estaciones de servicio bloqueadas.  ¿Lo tenés?  A ver, dale, avísame cuando... ",
+            "cosine_dist": 0.7648302780996858,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1516.97,
+            "end_time": 1525.714,
+            "text": "Ya, ya viene, ahí lo escuchamos.  Si aceptás esas condiciones, yo te espero en la mutual a las, no sé, una y media o dos, ahí en Alsina, y nos juntamos. ",
+            "cosine_dist": 0.9050777825002332,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1526.594,
+            "end_time": 1530.611,
+            "text": "Yo de esa no levanto.  Este es el otro, este no es con la de Shell. ",
+            "cosine_dist": 0.8672680713210341,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1530.731,
+            "end_time": 1533.034,
+            "text": "Este señor que veíamos ahí es Acuña Hijo. ",
+            "cosine_dist": 0.7371648790542468,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1533.314,
+            "end_time": 1553.735,
+            "text": "Sí, Acuña Hijo.  Este es con una persona a la que bloqueó en Banfield la semana pasada, que le dice, yo levanto todo, porque le dice, bueno, pero levantame la medida, si aceptás las condiciones, que es una paritaria, en realidad están más o menos cuatro puntos de distancia.  Nosotros nos sentamos.  Si no, no.  De esa que Shell no levantó. ",
+            "cosine_dist": 0.7492330502536625,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1553.755,
+            "end_time": 1557.458,
+            "text": "Ahora lo están buscando, pero adelantanos qué es lo que le decía al capo de Shell. ",
+            "cosine_dist": 0.9015426248538108,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1558.519,
+            "end_time": 1569.728,
+            "text": "Al capo de Shell le decía directamente, quiero juntarme con ustedes, pero para un asado, no para esto.  De este modo nosotros no vamos a levantar la medida.  Incluso consiguieron el apoyo de Elegante. ",
+            "cosine_dist": 0.7660666264009303,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1570.248,
+            "end_time": 1571.549,
+            "text": "El cantante, Elegante. ",
+            "cosine_dist": 0.9298198878217514,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1571609,
+            "end_time": 1572150,
+            "text": "¿Qué tiene que ver? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 1572.23,
+            "end_time": 1573.451,
+            "text": "El cantante es... ",
+            "cosine_dist": 0.9410409620664235,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1574.251,
+            "end_time": 1576.892,
+            "text": "Para el asado, va a cantar en el asado. ",
+            "cosine_dist": 1.02515736352618,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1576.912,
+            "end_time": 1579.174,
+            "text": "Ahora, esto, perdón, ¿esto no es ilegal, Silvina? ",
+            "cosine_dist": 0.7779587740794129,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1579.234,
+            "end_time": 1580.354,
+            "text": "Obvio, sí, es una extorsión. ",
+            "cosine_dist": 1.0317876672179542,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1580.514,
+            "end_time": 1610.99,
+            "text": "Bueno, por eso está judicializado desde ya de los dos lados.  Ahora, acá hay un trasfondo interesante, que es que en la cámpora.  algunos ven con buenos ojos este conflicto, porque es un buen modo de decir, bueno, a ver, esto es inviable, ¿cómo está?  Se necesitan aumentos de combustibles que están doce por ciento atrasados y YPF podría subir los combustibles en el verano.  Por eso, otra vez, es transversal y enrevesado el conflicto. ",
+            "cosine_dist": 0.7116698514961168,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1611.47,
+            "end_time": 1615.072,
+            "text": "¿Los sindicatos son un problema, Javier, según tu mirada? ",
+            "cosine_dist": 0.8125713885563026,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1615.552,
+            "end_time": 1682.421,
+            "text": "A ver, el problema es la legislación laboral argentina, digamos que replica las leyes del fascismo, o sea, donde básicamente al empresario se lo trata como un delincuente.  Y se terminan generando una supuesta cantidad de derechos en favor de los trabajadores que lo único que hace es perjudicarlos.  Digamos, los perjudica con menores salarios, los reales, los perjudica con más desempleo, con más tiempo que tardan para conseguir trabajo, castigando a los más jóvenes.  Es decir, toda la ley laboral argentina es un problema.  Porque en principio, digamos, que vos tengas un representante, eso no sería un problema.  No, no, por el contrario.  El problema radica en todo el andamiaje legal que es Argentina, que es todo antiempresa.  Y en el fondo, que vos tengas toda la legislación antiempresa, lo que hace es destruir empleo, castiga a los más vulnerables.  Porque en el fondo, ¿qué hace?  El capital se va.  Se va a otro lugar.  Y cuando vos le quitás el capital al trabajador, va a tener menos productividad, va a tener menores salarios reales y te va a pasar lo que pasa en Argentina, donde tenés niveles de pobreza e indigencia verdaderamente alarmantes. ",
+            "cosine_dist": 0.34782000682699865,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1683.162,
+            "end_time": 1692.871,
+            "text": "Bueno, hablamos un poco del coronavirus.  Hoy la verdad que yo me asusté mucho, todos supongo que nos asustamos cuando vimos las cifras del día de hoy, que obviamente más de casi cuarenta mil casos. ",
+            "cosine_dist": 0.852195570644064,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1695033,
+            "end_time": 1695474,
+            "text": "Exactamente. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1695.834,
+            "end_time": 1701.66,
+            "text": "La gran pregunta es si esto va a repercutir en mayores internados, si va a repercutir en mayores muertes. ",
+            "cosine_dist": 0.8077368407591924,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1701.861,
+            "end_time": 1733.369,
+            "text": "Lo que te están mostrando hasta ahora las estadísticas es que eso no va a pasar.  ¿Por qué?  Porque en el mundo tampoco está pasando eso.  Es una jornada de récord de contagios en Ciudad de Buenos Aires y en Córdoba.  Ninguna de las dos provincias nunca había tenido tantos contagios a lo largo de la pandemia de casi dos años como los contagios que tuvo... En el día de hoy, ¿sí?  Seis mil en un caso y ocho mil en el otro caso.  Provincia de Buenos Aires está en once mil contagios, pero con una serie de trampitas, podríamos decirlo de alguna manera, porque Provincia de Buenos Aires es de estos tres grandes distritos la que menos se está testeando en función de la cantidad de habitantes que tiene. ",
+            "cosine_dist": 0.8866329757785223,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1733.389,
+            "end_time": 1735.17,
+            "text": "O sea, voy a decir que Provincia de Buenos Aires debería haber más. ",
+            "cosine_dist": 0.9264575314768405,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1735.43,
+            "end_time": 1750.325,
+            "text": "Podría tener muchos más si se testeara de la manera correspondiente.  ¿Por qué?  Porque lo estamos viendo.  Esto es el promedio de la última semana.  Provincia de Buenos Aires te testea.  cada cien mil habitantes, ochenta y ocho personas.  Promedio diario. ",
+            "cosine_dist": 0.8570017918828516,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1750.666,
+            "end_time": 1751.767,
+            "text": "Parece poco, ¿no? ",
+            "cosine_dist": 0.8968160732029113,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1751.787,
+            "end_time": 1758.414,
+            "text": "Parece poco.  Eso te daba ayer una positividad del veintiuno por ciento.  Hoy esa positividad está arriba del treinta. ",
+            "cosine_dist": 0.8426946988706804,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1759.014,
+            "end_time": 1763.237,
+            "text": "O sea que cada cien tipos a los que les hacen un testeo, treinta les da positivo. ",
+            "cosine_dist": 0.8589011058509188,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1763.457,
+            "end_time": 1765.858,
+            "text": "Exactamente, eso mismo. ",
+            "cosine_dist": 0.7776325351431589,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1765.878,
+            "end_time": 1767.679,
+            "text": "Están cazando en un zoológico prácticamente. ",
+            "cosine_dist": 0.8284339305332122,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1768.0,
+            "end_time": 1773.603,
+            "text": "Exactamente, porque la OMS te dice que lo máximo esperable es de diez personas en lugar de treinta. ",
+            "cosine_dist": 0.904840682073635,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1773.623,
+            "end_time": 1775.064,
+            "text": "Mirá en Cava, en Cava testean mucho más. ",
+            "cosine_dist": 0.9773549544051772,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1775.264,
+            "end_time": 1788.073,
+            "text": "En Cava te testean cada cien mil habitantes, cuatrocientas cuarenta y cinco personas.  Compara el ochenta y ocho contra el cuatrocientos cuarenta y cinco.  Sacá la cuenta, son casi cinco veces más en Ciudad de Buenos Aires.  ¿Y la positividad del testeo?  Fíjate cómo baja al quince por ciento. ",
+            "cosine_dist": 0.8901197146064855,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1788.113,
+            "end_time": 1789.154,
+            "text": "O sea, es más razonable. ",
+            "cosine_dist": 0.9153634983095391,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1789.174,
+            "end_time": 1792.558,
+            "text": "O sea, está más cercana al diez por ciento, está diciendo la Ciudad de Buenos Aires, está tratando de cazar. ",
+            "cosine_dist": 0.9035828731991609,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1792.578,
+            "end_time": 1795.081,
+            "text": "Igual tienen que... Tiene que... Tiene que... ",
+            "cosine_dist": 1.0109179115000355,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1795.121,
+            "end_time": 1803.591,
+            "text": "Tiene que... Le falta todavía estar dentro de los límites que marca la OMS.  Y en el caso de Córdoba, que es otra de las provincias, fíjate en Córdoba hace ciento ochenta testigos, hace mil habitantes. ",
+            "cosine_dist": 0.8918915742822293,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1803.631,
+            "end_time": 1805.172,
+            "text": "Uy, nada.  Tampoco. ",
+            "cosine_dist": 0.9257005287618183,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1805.212,
+            "end_time": 1807.175,
+            "text": "Pero, fíjate la positividad de Córdoba. ",
+            "cosine_dist": 0.8512622168793169,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1807.815,
+            "end_time": 1813.962,
+            "text": "Bueno, ahí están cazando ya no en el zoológico, adentro de la jaula del león.  O sea, imaginate lo que significa... ",
+            "cosine_dist": 0.8448367117258366,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1814.023,
+            "end_time": 1816.185,
+            "text": "Están testeando a los que tienen síntomas. ",
+            "cosine_dist": 0.8250081165939851,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1816.225,
+            "end_time": 1820.57,
+            "text": "Básicamente eso, fíjate el promedio nacional, cómo estamos, cuál está por encima o por abajo. ",
+            "cosine_dist": 0.9094127230281115,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1821.651,
+            "end_time": 1828.179,
+            "text": "O sea que hoy leemos treinta y tres mil novecientos ocho casos, nos asustamos, pero en realidad hay muchísimos más. ",
+            "cosine_dist": 0.7755263309593311,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1828.599,
+            "end_time": 1831.782,
+            "text": "En el día de hoy, porque esos eran con los datos que no estaban hasta hoy, en el día ",
+            "cosine_dist": 0.8685166652784703,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1831822,
+            "end_time": 1832102,
+            "text": "de hoy, ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1832.362,
+            "end_time": 1838.608,
+            "text": "solo contando el día, porque ese es un promedio semanal, la positividad de hoy fue del treinta y siete por ciento, con treinta y tres mil testeos, si ",
+            "cosine_dist": 0.8945709535563722,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1838968,
+            "end_time": 1839028,
+            "text": "lo ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1839.088,
+            "end_time": 1844.553,
+            "text": "bajaras al diez por ciento la positividad tendríamos que estar hablando de cuánto, cien mil testeos, cien mil contagios hoy. ",
+            "cosine_dist": 0.8610618255013536,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 1844.713,
+            "end_time": 1849.698,
+            "text": "Vos que hablás con especialistas todo el día, yo siempre digo, tú pudes casi licenciar un COVID. ",
+            "cosine_dist": 0.9621387813396934,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1849798,
+            "end_time": 1849838,
+            "text": "Sí. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 1851.919,
+            "end_time": 1861.604,
+            "text": "Hablás con todos los especialistas.  Está claro que lo que está circulando es Ómicron, ¿no?  Porque la particularidad que tiene es que explota.  Y esto explotó. ",
+            "cosine_dist": 0.8787149934004514,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1861.624,
+            "end_time": 1864.086,
+            "text": "La semana pasada... Y no explotaron las terapias, ¿no? ",
+            "cosine_dist": 1.0121772401571008,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1864.206,
+            "end_time": 1866.867,
+            "text": "Y no explotaron las terapias, siguen en niveles muy bajos.  Por ejemplo, Córdoba... ",
+            "cosine_dist": 0.9472335314318681,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 1866.887,
+            "end_time": 1868.108,
+            "text": "Son dos características de Ómicron. ",
+            "cosine_dist": 1.0830214854842892,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1868.148,
+            "end_time": 1895.666,
+            "text": "Tal cual.  Por ejemplo, Córdoba no llega al tres por ciento de internación de camas de terapia intensiva.  Ciudad de Buenos Aires no llega al cinco por ciento, cuando los picos tenían cinco o seis veces más en números de internados.  Y en medio de todo esto empiezan a aparecer las acciones que toma cada provincia por su propia cuenta.  Hay una provincia que hoy firmó un decreto que aquella persona que se contagie de COVID, si necesita utilizar el servicio de salud público, lo va a tener que pagar de su bolsillo. ",
+            "cosine_dist": 0.8313653589834601,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1896.186,
+            "end_time": 1896.827,
+            "text": "¿Catamarca? ",
+            "cosine_dist": 1.0099375211290056,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1897.067,
+            "end_time": 1899.809,
+            "text": "Exactamente, por no haberse vacunado. ",
+            "cosine_dist": 0.8636197397653018,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1899.829,
+            "end_time": 1904.433,
+            "text": "Aquel que no está vacunado, finalmente hoy Catamarca firmó el decreto. ",
+            "cosine_dist": 0.8240112757576726,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1905.474,
+            "end_time": 1907.776,
+            "text": "No está mal eso, si vos no cumpliste... ",
+            "cosine_dist": 0.8970033964643828,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1907.796,
+            "end_time": 1951.806,
+            "text": "No, porque vos, o sea, el tema siempre, lo importante acá es la libertad.  Y que vos te hagas responsable de las decisiones que tomás.  O sea, nadie se quiere enfermar per se.  Entonces, por ejemplo, una de las cosas que vos podés hacer es estar continuamente testeándote.  Yo, por ejemplo, en una app, lo sigo haciendo ahora porque tengo mucha más actividad en otros planos que implica interacción.  O sea, testear regularmente.  Yo me testeo, por ejemplo, por lo menos dos veces por semana.  Y yo además tengo dos vacunas.  O sea, yo estoy además vacunado.  Porque creo que es la forma en la cual uno se hace cargo de... Te vacunaste hace poco.  Sí, me vacuné, digamos... ",
+            "cosine_dist": 0.40843659013266187,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 1953.78,
+            "end_time": 1955.141,
+            "text": "¿Antes de las elecciones o no? ",
+            "cosine_dist": 0.9906628118708105,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1955.201,
+            "end_time": 1956.782,
+            "text": "Antes de las elecciones me di la segunda. ",
+            "cosine_dist": 0.5853675405117769,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1957.382,
+            "end_time": 1961.865,
+            "text": "¿Te vacunaste?  Lo que se dice es que te vacunaste justamente para poder salir del país a hacer algunas actividades. ",
+            "cosine_dist": 0.9557423993470675,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1961.885,
+            "end_time": 1962.725,
+            "text": "Para poder salir a trabajar. ",
+            "cosine_dist": 0.8477676940308092,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1962.745,
+            "end_time": 1964.186,
+            "text": "No es por una cuestión de convicción. ",
+            "cosine_dist": 1.067918964942009,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1964.386,
+            "end_time": 1967.188,
+            "text": "Si vos no querés tomarte los recaudos, arreglate todo. ",
+            "cosine_dist": 0.8886551203599132,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1967.228,
+            "end_time": 1999.933,
+            "text": "Es que vos, claro, vos tenés que hacerte cargo de tus decisiones, tomar decisiones renta-riesgo, yo la llamo.  Sí.  O sea, entonces vos evaluás los riesgos y entonces, por ejemplo, vos podrías... Digamos, a ver, una de las cosas que vos tenés con las vacunas, ¿cuál es?  ¿Cuánto tarda en hacerse una vacuna?  Por lo menos diez años.  Sí.  Estamos un año y medio, hay algo que empíricamente falta.  Otra cosa que también tenés es que por algo, digamos, los laboratorios te piden cláusulas de indemnidad.  ¿Por qué?  Porque entonces, digamos, quiere decir que toda la faceta empírica no está toda entera para, digamos, o sea, está habilitada en emergencia. ",
+            "cosine_dist": 0.3280655418506261,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2000.013,
+            "end_time": 2003.177,
+            "text": "Vos decís que hay derecho a que alguien no quiera vacunarse. ",
+            "cosine_dist": 0.8417411800486094,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2003.197,
+            "end_time": 2004.338,
+            "text": "Entonces vos podés decidir. ",
+            "cosine_dist": 0.6748157307940343,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2005.459,
+            "end_time": 2014.609,
+            "text": "Hay una vacuna que tiene aprobación definitiva en Estados Unidos, en la FDA, y que no te va a dar una aprobación definitiva por si no... La tecnología avanza mucho. ",
+            "cosine_dist": 0.9060411428457753,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2014.629,
+            "end_time": 2016.792,
+            "text": "Yo no obligo a nadie, pero cada uno se hace cargo de... ",
+            "cosine_dist": 0.9042521810384635,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2019.895,
+            "end_time": 2040.865,
+            "text": "de las decisiones individuales.  Entonces, yo digo, o sea, por ejemplo, y yo esto lo expliqué también en el debate, o sea, yo, digamos, por ejemplo, no me la daba, pero sí le pedí a mis padres, que son grupo de riesgo, que sí la hagan, y sí lo hicieron, ¿por qué?  Porque son grupo de riesgo.  En mi caso, digamos, hasta que, digamos, no me pusieron contra la espada de la pared, porque, digamos, no podía salir a trabajar afuera, digamos, o sea, entonces ahí no me quedó otra que, digamos... ",
+            "cosine_dist": 0.3470451498748347,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2041.466,
+            "end_time": 2049.792,
+            "text": "Entonces, ¿estarías de acuerdo con el pase sanitario?  No.  Para vos fue casi un pase sanitario. ",
+            "cosine_dist": 0.8164610973840555,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2050.272,
+            "end_time": 2071.931,
+            "text": "No, el pase sanitario va contra la Constitución Nacional, va contra el Código Civil, contra el Código Penal, contra el Código Comercial, y si querés te doy las leyes que viola.  La veintisiete cuatro noventa y uno, la veintisiete quinientos setenta y dos, la veintisiete quinientos veintinueve.  ¿Qué tiene que ver eso?  Sí, pero sí.  Eso se llama falacia.  Ah, porque lo hace esto, entonces está bien. ",
+            "cosine_dist": 0.47896719509256014,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2071.971,
+            "end_time": 2075.574,
+            "text": "No, a vos te obligaron a hacerlo, prácticamente. ",
+            "cosine_dist": 0.7865613100344278,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2075.873,
+            "end_time": 2110.061,
+            "text": "¿Me podés escuchar?  Yo te escucho.  Porque con ese criterio, ¿sabés qué?  En el año mil ochocientos trece no hubiéramos abolido la esclavitud.  Total, había esclavitud en un montón de lados.  Eso no es un argumento.  Los argumentos tienen que ser.  O sea, yo todos los argumentos que te doy, te los doy desde el punto de vista de la libertad.  Después, digamos, o sea, si a vos no te gusta la libertad, te gusta cercenarle la libertad a la gente, querés ser cómplice del esclavismo, cómplice de este avance del Estado sobre la libertad de los individuos, es tu decisión.  Después, cuando vienen y te arrebatan la libertad, después no llores.  Pero acá el mercado te ha cercenado tu libertad.  No, no, no.  ¿Sabés qué?  Se ha cercenado tu libertad el mercado. ",
+            "cosine_dist": 0.41502541944845883,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 2110.081,
+            "end_time": 2114.363,
+            "text": "Son todos libres, pero tanto está conduciendo.  y necesita... ",
+            "cosine_dist": 0.9624005267011654,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2114.583,
+            "end_time": 2119.345,
+            "text": "No, pero habló del mercado, yo le pregunto si sabe lo que es el mercado.  A ver, definime qué es el mercado. ",
+            "cosine_dist": 0.6871215132298224,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2119.625,
+            "end_time": 2120.725,
+            "text": "Definime qué es el mercado, dale. ",
+            "cosine_dist": 0.9895037206327337,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2120.745,
+            "end_time": 2122.506,
+            "text": "Vamos a ver si sabe qué es el mercado. ",
+            "cosine_dist": 0.8201741131244997,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2122.606,
+            "end_time": 2150.099,
+            "text": "Gracias, mi ley, gracias, tu cu.  Arambo.  Bodega, ahora sí.  A la mierda, los malditos empresarios.  A la mierda, sodomitas del capital.  Basta de basura keynesiana, ha llegado el momento liberal.  Tenemos un líder y él es un gran rebelde. ",
+            "cosine_dist": 0.8249231077923418,
+            "is_target_speaker": false
+        }
+    ]
+}

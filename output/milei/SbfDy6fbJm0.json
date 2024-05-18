@@ -1,0 +1,799 @@
+{
+    "Index": 281,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "SbfDy6fbJm0",
+    "url": "https://www.youtube.com/watch?v=SbfDy6fbJm0",
+    "title": "MILEI ARREMETIÓ CONTRA ALFONSÍN POR LA CRISIS DEL 2001 - Javier Milei en La Nación + 20/12/2021",
+    "duration": 1925.0,
+    "view_count": 100429,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 0",
+            "start_time": 0.06,
+            "end_time": 4.37,
+            "text": "Raúl Ricardo Alfonsín diciendo, yo no digo que no hay que pagar la deuda, pero qué lindo sería no pagarla. ",
+            "cosine_dist": 0.44256161727793863,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 4.39,
+            "end_time": 5.33,
+            "text": "Un programa de Mirte Legrán. ",
+            "cosine_dist": 0.9647623577960245,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 5.411,
+            "end_time": 18.434,
+            "text": "Y ahí es donde inicia la corrida bancaria.  Cuba no se va a convertir en la Unión Soviética, Venezuela no se va a convertir en Cuba, Argentina no se va a convertir en Venezuela, Chile no se va a convertir en Argentina.  Y ahí los tenés, todos caminando hacia la miseria socialista. ",
+            "cosine_dist": 0.4584895105976752,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 18.594,
+            "end_time": 22.955,
+            "text": "Quería darle la bienvenida a Milei, Javier Milei.  Buenas tardes, gracias por venir. ",
+            "cosine_dist": 0.8571137431906337,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 23.336,
+            "end_time": 25.916,
+            "text": "¿Qué tal, Pancho?  Es un gusto enorme estar nuevamente aquí. ",
+            "cosine_dist": 0.7286750591653587,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 26.136,
+            "end_time": 29.658,
+            "text": "A ver, te traje, a ver si se puede ver... Mirá esto. ",
+            "cosine_dist": 0.925320070945098,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 30899,
+            "end_time": 31420,
+            "text": "Un dólar. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 32.1,
+            "end_time": 37.526,
+            "text": "Esto era en el dos mil uno.  Un dólar, un peso.  Ahora vale esto. ",
+            "cosine_dist": 0.8485982254572729,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 39.648,
+            "end_time": 42.851,
+            "text": "Ahí se ve mejor.  Exactamente.  ¿Qué pasó? ",
+            "cosine_dist": 0.7159855018688802,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 42.951,
+            "end_time": 44.213,
+            "text": "En el medio, ¿qué hicimos mal? ",
+            "cosine_dist": 0.9761534713738851,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 45.828,
+            "end_time": 103.582,
+            "text": "Bueno, hicimos muchísimas cosas mal.  En principio hay que también tener en cuenta lo que fue la caída de la convertibilidad.  La convertibilidad fue el programa más exitoso de la historia económica argentina a punto tal que ubica en el ranking de mejor gobierno de la historia argentina el primer gobierno de Menem, que es cuando se lanza después de heredar la hiperinflación de Alfonsín y tener su propia hiperinflación Menem.  lo que hubo fue una concatenación de hechos adversos para la economía argentina.  Estuvo la crisis asiática en el noventa y siete, en el noventa y ocho vino la crisis rusa, a punto tal que la economía argentina venía creciendo a un ritmo del siete, ocho por ciento, cuando impacta en agosto del mil nueve.  noventa y ocho, la economía queda frizada y no crece más, por eso el crecimiento de ese año queda en el tres por ciento.  Al año siguiente viene la crisis de Brasil. ",
+            "cosine_dist": 0.3464075689272965,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 104.023,
+            "end_time": 105.264,
+            "text": "De evaluación brasileña, sí. ",
+            "cosine_dist": 0.9996039838938632,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 105.284,
+            "end_time": 191.394,
+            "text": "Exactamente.  Después viene la suba de tasa de interés en los Estados Unidos con la caída en los términos de intercambio de Argentina.  Esa es la situación externa que va recibiendo Argentina y por eso ya para el año dos mil Argentina se queda sin financiamiento.  Y es por eso que Argentina tiene que recurrir a lo que se llamó el blindaje, armar un monto de financiamiento para que Argentina no tuviera que ir a los mercados porque se habían cerrado los mercados.  ¿Qué es lo que sucedió?  El gobierno de la Rúa al momento de tener que elegir un ministro de Economía, los que estaban originalmente en la discusión era Ricardo López Murphy, que proponía una situación ortodoxa y de poner los números fiscales en orden, y los heterodoxos siempre de esto se arregla creciendo, esto se arregla con el dale.  dale, que metió además un impuestazo a una economía que se venía recuperando, abortó la recuperación, Y cuando llega el blindaje a fines del dos mil, Argentina tenía que poner las cuentas fiscales en orden.  Obviamente, Machinera, como todo heterodoxo, no hizo lo que tenía que hacer.  El resultado fue que, sumado a esto, hay que agregarle que hay una frase de allá por marzo del dos mil uno, muy responsable por parte de Raúl Ricardo Alfonsín, diciendo, yo no digo que no hay que pagar la deuda, pero qué lindo sería no pagarla. ",
+            "cosine_dist": 0.3259381395174966,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 191.414,
+            "end_time": 193.316,
+            "text": "Un programa de Mirte Legrán, sí.  Exactamente. ",
+            "cosine_dist": 0.7711814678002393,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 193.476,
+            "end_time": 265.418,
+            "text": "Y ahí es donde... Inicia la corrida bancaria, porque hay que pensar que era el principal referente de la alianza que gobernaba, es decir, veníamos de la renuncia de Chacho Álvarez, con lo cual había toda una cuestión de índole política débil.  ya, y en ese contexto, si vos los bancos estaban hasta la médula de títulos públicos y viene alguien con tanto peso político diciendo que... qué lindo sería no pagar la deuda, lo primero que hacés es ir a buscar los depósitos.  Ese tema no es un tema menor, porque en realidad lo que vos tenés que, cuando empieza la corrida bancaria, vos qué hacías, te sacabas los depósitos y después con los depósitos en la mano, ¿qué hacías?  Comprabas dólares.  Eso achicaba la cantidad de dinero en la economía.  Al achicar la cantidad de dinero, lo que generaba era una contracción de la demanda.  Y como los precios no caían al ritmo que caía la demanda, se generaba desempleo.  y al generarse desempleo se generaba mayor tensión social.  Obviamente... Cuando frente a esta situación, lo que trata de hacer, lo echan a Machiné, lo ponen a López Murphy.  López Murphy trata de hacer un ajuste fiscal y a los quince días vuela por los aires.  Y ahí llega Cavallo, tratando de... ",
+            "cosine_dist": 0.3291377275224563,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 265.438,
+            "end_time": 277.769,
+            "text": "Dejame detenerme un segundo ahí, porque los heterodoxos te dicen, ¿cómo vas a ajustar una economía que tenía deflación, que estaba ya ajustándose a sí misma, que tenía problemas, que estabas en recesión?  ¿No era tarde ya para ajustar ahí? ",
+            "cosine_dist": 0.8057116756216063,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 278.149,
+            "end_time": 338.021,
+            "text": "A ver, el tema es el siguiente, Pancho.  El ajuste va a tomar forma de todas maneras.  Cuando vos la tasa de interés por cuestiones de riesgo salta y el equilibrio de arbitraje internacional está por encima de la tasa de equilibrio doméstico, eso inexorablemente genera presiones en el tipo de cambio.  O sea, generan presiones devaluatorias.  Pero como eso además se traduce en una situación en la cual a vos te cae la cantidad de dinero, vos entrás en un equilibrio deflacionario.  O sea, eso es lo que te pasa con un sistema de tipo de cambio fijo.  En un sistema de tipo de cambio flexible, vos terminás devaluando.  Pero ¿cuál es el problema?  El problema es que vos tenías la ley de convertibilidad.  Y la realidad es que si vos terminabas devaluando, el daño terminaba siendo muchísimo más grande.  Pero el daño mayor... No es el problema del desequilibrio de precios.  El problema más grande es que vos tenías una corrida en el sistema financiero.  Ese es el gran problema. ",
+            "cosine_dist": 0.3394229577789176,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 338.341,
+            "end_time": 341.704,
+            "text": "Eso es más grave que la apreciación, por ejemplo, del tipo de cambio. ",
+            "cosine_dist": 0.8455756066910516,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 342.064,
+            "end_time": 452.83,
+            "text": "Sí, porque es cierto que vos hubieras tenido un aumento del desempleo, porque el sistema en Argentina no es flexible, pero también es cierto... que no tendría por qué haber derivado en semejante catástrofe.  Ahora, ¿el problema dónde radica?  En que vos vas y corres contra los bancos.  Los bancos, o sea, son un intermediador de plazos.  Entonces, ¿qué hacían?  Tenían que pedir redescuentos o utilizar los encajes.  Entonces, ¿qué se pasaba?  Se te contraía la cantidad de dinero.  Y el Banco Central además tenía que dar redescuento, con lo cual te caía todavía más la cantidad de dinero.  Entonces vos entrabas en un loop verdaderamente complicado.  Es decir, los problemas con los sistemas de tipo de cambio fijo.  Esto se había estudiado con claridad con lo que fue la experiencia de la ley PIL en Inglaterra, cuando tenía patrón oro y el sistema encaje fraccionario.  Bueno, o sea, si vos no tenés la forma de poner en caja las cuentas públicas y vas a utilizar el Banco Central para financiarte, terminaba cada dos por tres en alguna corrida y con algún problema.  Bueno, en este caso... El problema era el fisco.  no conseguía financiamiento, empezó a ir contra las AFJP, empezó a ir contra los bancos, o sea, empezó a utilizar mecanismos, no te olvides, por ejemplo, lo que se llamaban los préstamos garantizados, o sea, y que te permitían utilizarlo como encaje, por lo cual... Los encajes seguían ahí, pero el problema es que no eran líquidos.  Entonces, si alguien te venía a correr, no tenías con qué devolverlo.  Entonces, le tenías que poner los préstamos garantizados al Banco Central y el Banco Central emitía y alimentaba la corrida.  Entonces, pero el eje central, lo que termina haciendo caer el programa de convertibilidad, es la corrida.  O sea, la corrida bancaria que deriva en corrida financiera.  Fíjate que después del macanón enorme ese que hace Alfonsín y que deriva en la corrida... no tienen mejor idea que sacar una ley de intangibilidad de depósitos.  Era, te los vamos a afanar.  Y fue lo que terminó pasando. ",
+            "cosine_dist": 0.3616919591365204,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 452.91,
+            "end_time": 471.675,
+            "text": "Pero un anticipo.  Javier, me interesa mucho tu opinión de lo que va a contar ahora Hugo Machiavelli.  Bueno, el episodio del que participaste porque ya sos diputado.  ¿Esta situación es más preocupante que la del dos mil uno o en ese momento estábamos peor?  Te lo dejo para dentro de un ratito.  Porque, Hugo, ¿cómo sigue esta pelea dentro del Congreso? ",
+            "cosine_dist": 0.8171055455540677,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 471.915,
+            "end_time": 473.215,
+            "text": "Bueno, dos instancias. ",
+            "cosine_dist": 0.9447366402439775,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 473.635,
+            "end_time": 511.264,
+            "text": "Por un lado, dentro del Congreso puede haber una presentación a fines de febrero, cuando se retoman las sesiones, de un nuevo presupuesto que pudiera ser aprobado en marzo.  Ayer lo dijo el diputado Negri, en el pase entre Especial Domingo y La Corneza, dijo... Si traen un presupuesto coherente, nosotros lo vamos a aprobar y puede salir en marzo.  Esa es una decisión que incluso Negri reconoció como de autocrítica porque dice, no está bueno que un gobierno no tenga presupuesto.  Entonces, Mario Negri lo declara formalmente, veremos si ese es el camino que toma el gobierno o el otro, el del DNU, que pareciera ser lo inmediato lo que va a ocurrir prorrogando el presupuesto del año pasado. ",
+            "cosine_dist": 0.8965603151970551,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 511.504,
+            "end_time": 518.427,
+            "text": "Máximo hablaba de esta manera de los cuatro... o de los tres poderes.  y el cuarto poder, refiriéndose a los medios. ",
+            "cosine_dist": 0.8896584553822185,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 518.527,
+            "end_time": 520.248,
+            "text": "Escuchá. ",
+            "cosine_dist": 1.075805991766472,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 520.308,
+            "end_time": 521.188,
+            "text": "Yo veía como hasta ",
+            "cosine_dist": 1.0214033626007395,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 521.268,
+            "end_time": 523.409,
+            "text": "cuando el poder judicial, ",
+            "cosine_dist": 0.9044142020740504,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 523.77,
+            "end_time": 524.55,
+            "text": "hay tres poderes ",
+            "cosine_dist": 1.0438159332265582,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 524.61,
+            "end_time": 529.193,
+            "text": "en Argentina, un poder judicial que lo tiene bajo permanente ",
+            "cosine_dist": 0.9425070468883362,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 529213,
+            "end_time": 529613,
+            "text": "acoso al ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 529.653,
+            "end_time": 532.474,
+            "text": "gobierno y que incluso volteó el Consejo de la Magistratura el ",
+            "cosine_dist": 0.9320837050513178,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 532.554,
+            "end_time": 534.115,
+            "text": "jueves, el mismo día. ",
+            "cosine_dist": 1.0558858716830866,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 534.255,
+            "end_time": 554.552,
+            "text": "otro poder del Estado, el poder legislativo, le niega... le niega el presupuesto del presidente.  y hay otro poder más, ya saben cuál es también, el cuarto, que pareciera ser el primero, que es el poder mediático, gracias compañero Pérsico, el poder mediático que también tiene bajo permanentemente acoso a Alberto. ",
+            "cosine_dist": 0.8464129082295941,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 554.592,
+            "end_time": 580.382,
+            "text": "Quieren un país para pocos y nosotros queremos un país para todas y para todos.  y en esa tarea, Alberto, nos vas a encontrar, confiá.  No nos dan miedo las peleas ni las tapas de los diarios.  Vos decís lo que tenemos que hacer, para dónde ir, y ahí nosotros vamos a acompañar para poder sacar nuestra patria adelante.  Javier, nosotros los periodistas la ligamos siempre, pero en este caso está diciendo el Poder Legislativo le negó el presupuesto al gobierno. ",
+            "cosine_dist": 0.7784485443705034,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 580.602,
+            "end_time": 606.085,
+            "text": "Bueno, eso es falso, porque lo primero que debería hacer el gobierno si se quiere quejar porque le rechazaron el presupuesto, es porque el problema de que el presupuesto estaba mal confeccionado, tenía errores de consistencia.  Tenía errores técnicos, tenía errores empíricos, errores teóricos y sobre todas las cosas era un presupuesto de índole inmoral. ",
+            "cosine_dist": 0.3985898578800158,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 607.205,
+            "end_time": 619.335,
+            "text": "A ver, ahora vamos con lo inmoral que me interesa.  Pero el otro día el Chino Navarro a propósito de esta discusión decía ¿podrían haberlo votado en general y en particular todas esas objeciones técnicas que vos hacés se podrían haber planteado? ",
+            "cosine_dist": 0.8230030319891254,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 620.095,
+            "end_time": 642.641,
+            "text": "No.  No.  No, porque estaba muy mal confeccionado.  Hay muchas inconsistencias en el presupuesto.  El primero es, ¿cómo se hace un presupuesto?  Se toma un dato inicial y a partir de ese dato inicial se proyecta.  Ahora, ¿qué es lo que pasa?  Si vos el dato inicial está mal... ¿Qué podés proyectar?  Está todo mal. ",
+            "cosine_dist": 0.39641293289351964,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 642.861,
+            "end_time": 644.342,
+            "text": "¿Cuál era el dato inicial que estaba mal? ",
+            "cosine_dist": 0.9368598935918246,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 644.782,
+            "end_time": 697.205,
+            "text": "Bueno, por ejemplo, el Ministro de Economía no se tomó el trabajo de actualizar los números de septiembre a cuando hizo la fecha de presentación en diciembre.  Por lo tanto, eso ya de por sí es una falta de respeto.  Los números estaban absolutamente obsoletos, por decirlo de alguna manera.  Para que te des una idea, Pancho, Vos tenías, por ejemplo, proyectado el gasto para septiembre en cuarenta, con todo lo que pasó hasta diciembre y con los ejecutados y todo, te queda en veinte por ciento.  Está claro que ese número no era realizable a la luz de la dinámica de inflación, a la luz de la dinámica de cómo vienen todas las cosas.  Bueno, fíjate esto.  Aún así vos tenías un gap financiero, un agujero financiero de doce mil millones de dólares.  Lo corrigieron de manera mágica cargándolo sobre organismos multilaterales que no se le van a dar esa plata.  Pero no solo eso. ",
+            "cosine_dist": 0.3581106340250165,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 697.245,
+            "end_time": 699.687,
+            "text": "¿Y no decía crédito del BID, tanto del Banco Central? ",
+            "cosine_dist": 0.9329059431432056,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 699.787,
+            "end_time": 747.958,
+            "text": "Bueno, exacto.  Entonces cuando se ponen a rascar la olla de distintos lugares le quedan seis mil.  ¿De dónde va a sacar los seis mil que falta?  Y eso aún contemplando que el presupuesto está mal diseñado.  Tiene errores técnicos muy groseros.  Por ejemplo, si la economía se viene expandiendo al diez en este momento... El arrastre estadístico para el año que viene es cuatro por ciento.  Es decir, que si vos no crecieras más, o sea que el crecimiento se detiene en diciembre, el arrastre estadístico es cuatro por ciento.  O sea, las cuentas te van a mostrar un cuatro por ciento de expansión el año que viene por el mero arrastre estadístico.  Esto es muy interesante, porque entonces si vos no tenés crecimiento genuino, no tenés crecimiento de la demanda de trabajo.  Ahora, la población sigue creciendo, por lo tanto, si va a estar creciendo la población y la demanda de trabajo no crece, el salario real tendría que caer, ¿sí o no?  Sí, claro.  Bueno, le da que sube cuatro por ciento, ahí tenés un error. ",
+            "cosine_dist": 0.337885069216733,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 748.258,
+            "end_time": 780.315,
+            "text": "Javier, para, vos te quedás,  ¿no?,  unos minutos con nosotros.  Te voy a sumar otra pregunta.  Una era si estamos ahora peor que en el dos mil uno y la otra es por qué decís que el presupuesto es inmoral.  Porque ya veo que insististe con esta palabra durante el fin de semana.  Te quedás, ¿no?  Sí, claro.  Vamos y volvemos.  Quiero mostrarle a Javier Milei estos dos billetes que valen lo mismo, Javier.  Esto más o menos en el mercado libre, en el blue, vale lo mismo.  ¿Con cuál de los dos te quedás si valen lo mismo? ",
+            "cosine_dist": 0.7872804572435179,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 780796,
+            "end_time": 781296,
+            "text": "Con el verde. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 782.569,
+            "end_time": 785.25,
+            "text": "¿Y por?  qué?  sería la pregunta entonces, si vale lo mismo? ",
+            "cosine_dist": 0.7972896172215329,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 785.571,
+            "end_time": 803.179,
+            "text": "No, no es cierto, porque en realidad el mercado de cambios en Argentina está hiperregulado, o sea, hay una montaña de regulaciones entre el oficial, que está en torno a los cien pesos, y el paralelo, hay una diferencia del cien por ciento.  Si fuera así, que lo liberen.  Y vas a ver dónde termina. ",
+            "cosine_dist": 0.42633483045623566,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 803.199,
+            "end_time": 806.92,
+            "text": "O sea que vos estás diciendo que no vale doscientos pesos el dólar. ",
+            "cosine_dist": 0.7786017499135125,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 807.66,
+            "end_time": 969.939,
+            "text": "No, porque en realidad lo que vos tenés que incorporar... A ver, primero digo, o sea, yo no puedo saber el número a ciencia cierta, básicamente porque tendría que ser omnisciente, omnipresente y omnipotente para conocer todo el vector de precios.  Eso Hayek lo llamaba la fatal arrogancia y eso no lo puede hacer ningún ser humano.  Ahora, lo que está claro es que las condiciones, si vos tenés... ...repleto de regulaciones por todos lados... ...si el contado con liqui está... ...veinte mangos arriba... ...que es donde sí hay muchas más transacciones... ...está claro que ese precio no es de equilibrio... ...ese es el primer punto y eso está claro... ...y que claramente si vos liberaras las restricciones... ...va a ser mucho más alto... ...es más, lo que pasa es que hay muchos economistas... ...que son parte del problema... ...que probablemente porque están... ...con conocimientos muy vetustos... ...no saben incorporar el problema de las expectativas... Porque, ¿qué te dicen?  Bueno, te miran lo que se llama el tipo de cambio real.  Que el tipo de cambio real es un cociente, dado los precios internacionales, entre el tipo de cambio no binal y el nivel de precios local, dado los internacionales.  ¿Qué es lo que quiere decir?  Pero vos, para justificar, y entonces te dicen que, bueno, el tipo de cambio real de hoy es como el que había en el dos mil tres, o en el dos mil dos, dos mil tres, como en el ochenta y nueve, que números absolutamente altos.  Ahora, ¿sabes lo que pasa?  que hay infinitas combinaciones de tipo de cambio nominal y precios que dan ese número.  ¿Y qué es lo que pasa?  Entonces vos tendrías que ver qué pasa con los precios en la economía.  La realidad es que el desequilibrio en la economía argentina hoy es de por lo menos en lo monetario de diez veces a uno.  ¿Qué quiere decir esto?  Que vos tenés escondido abajo de la alfombra una inflación de aproximadamente novecientos por ciento.  Entonces si vos se llegara a liberar el tipo de cambio y sincerar el valor de las variables económicas, vos vas a tener una situación muy complicada en lo monetario que te generaría un verdadero desastre inflacionario.  En ese contexto, vos no sabes cuál es el nivel de precio.  Por lo tanto, hablar de que el dólar nominalmente en un precio está caro es una inconsistencia, es una... muestra de falta de conocimiento o de que tienen los conocimientos muy viejos.  O sea, parece que no les llegó a la biblioteca todo lo que es expectativas racionales, que nace en mil novecientos setenta y dos con un artículo pionero de Lucas, y después el más conocido es el del setenta y tres, que es la validación empírica, y a partir de ahí, digamos, cambió la forma de hacer economía.  Bueno, hay algunos que parece que eso no les llegó... Y entonces no se dan cuenta que en realidad lo que tienen que mirar en el nivel de precios es todo el desequilibrio monetario y todas las perspectivas tan negativas que tiene Argentina en materia económica. ",
+            "cosine_dist": 0.3092895391141417,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 970.219,
+            "end_time": 972.382,
+            "text": "¿Por qué decís que es inmoral el presupuesto? ",
+            "cosine_dist": 0.8749335673866364,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 973.163,
+            "end_time": 977.508,
+            "text": "Porque cualquier presupuesto que tenga déficit fiscal es inmoral. ",
+            "cosine_dist": 0.43750984645933766,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 978.109,
+            "end_time": 981.55,
+            "text": "Pero siempre, ¿Estados Unidos siempre tiene déficit fiscal o no? ",
+            "cosine_dist": 0.8003893465262768,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 981.631,
+            "end_time": 983.972,
+            "text": "Eso no deja que sea inmoral. ",
+            "cosine_dist": 0.6122387686323256,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 984.332,
+            "end_time": 987.133,
+            "text": "O sea, ¿el presupuesto de Estados Unidos es inmoral? ",
+            "cosine_dist": 0.8359423120245139,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 987.653,
+            "end_time": 1016.445,
+            "text": "Todo presupuesto que tenga déficit fiscal es inmoral, porque vos lo tenés que financiar.  Entonces, ¿con qué lo vas a financiar?  Con deuda.  ¿La deuda qué es?  Impuestos futuros, esto quiere decir que la fiesta de las generaciones presentes, vos se la estás cargando a tus hijos, a tus nietos, a tus bisnietos, a tus tatarañetos, se lo cargas a gente que por ejemplo ni siquiera nació, gente que ni siquiera vota, por lo tanto está claro que es inmoral.  ¿Vos te imaginás irte de farra y pasarle la cuenta a tu hija? ",
+            "cosine_dist": 0.33725380878635847,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1017.503,
+            "end_time": 1020.486,
+            "text": "Entonces habría que hacer un ajuste fenomenal, porque ese desequilibrio... ",
+            "cosine_dist": 1.0098385876578622,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1020.907,
+            "end_time": 1026.233,
+            "text": "Bien, exacto.  Ese es el primer punto por el cual es inmoral.  La otra forma que lo podría financiar, ¿cómo es?  Con impuestos. ",
+            "cosine_dist": 0.5345510845598922,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1027194,
+            "end_time": 1027755,
+            "text": "Con emisión... ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1027.915,
+            "end_time": 1110.119,
+            "text": "Con emisión monetaria.  ¿Cómo se llama eso en la teoría económica?  Señoriaje.  ¿De dónde viene el señoriaje?  de la época de los señores feudales.  No era una época muy linda para los ciudadanos de a pie, por decirlo de alguna manera.  ¿Y cuál es el problema con la emisión monetaria?  Que genera inflación.  y en la inflación no sólo que distorsiona el funcionamiento del sistema económico, sino que pega entre veinticinco y treinta veces más fuerte sobre los que menos tienen.  Por lo tanto, parece una inmoralidad que le estés robando plata a los que menos tienen para regalárselo a los políticos y que la derrochen.  Y no sólo eso, sino que lo otro que podrías hacer es... cobrar más impuestos, y los impuestos son un robo.  Vos no los pagás voluntariamente.  los impuestos, por eso se llaman impuestos.  Es decir, te puedo pasar una reflexión que está en la Torah o en el Viejo Testamento, si vos querés.  Es cuando cuenta sobre el origen de los impuestos en Egipto.  Es decir, el pueblo de Israel estaba funcionando tan bien, el pueblo judío estaba evolucionando tan bien, que para ponerle un freno, los egipcios, ¿qué hicieron?  le empezaron a poner impuestos para que no puedan progresar y para mantenerlos esclavizados.  Mirá que, digamos, esos son los impuestos.  Es decir, son los políticos en la casta política tratando de esclavizarnos y generarnos una situación de dependencia donde ellos progresan y a nosotros nos va mal. ",
+            "cosine_dist": 0.3232531141220797,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1110.499,
+            "end_time": 1112.18,
+            "text": "No por nada, ¿sí? ",
+            "cosine_dist": 0.6948294781746065,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1112.7,
+            "end_time": 1126.396,
+            "text": "La gente se va del país.  Justamente por eso, del mismo modo que el pueblo judío se fue de Egipto, y caminó cuarenta años por el desierto para conseguir la libertad. ",
+            "cosine_dist": 0.38555195261332453,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1126.897,
+            "end_time": 1138.645,
+            "text": "Vamos a ver qué es lo que pasa, por ejemplo, en Chile.  En un rato quiero tu opinión sobre, ya tiene presidente electo, está Mario Solís, nuestro colega allá en Santiago.  Vamos para allá.  Mario, gracias por atendernos. ",
+            "cosine_dist": 0.8454091321978927,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1139.582,
+            "end_time": 1142.545,
+            "text": "¿Qué tal?  Muy buenas tardes.  Bueno, un gusto estar en contacto con ustedes nuevamente. ",
+            "cosine_dist": 0.9835786369271802,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1143.125,
+            "end_time": 1152.174,
+            "text": "Bueno, novedades.  Lo que te haya sorprendido hasta ahora del discurso de Boric, supongo que las encuestas venían diciendo que iba a ganar, ¿no?  No hay una sorpresa ahí, ¿o sí? ",
+            "cosine_dist": 0.7583364993360692,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1153.559,
+            "end_time": 1190.044,
+            "text": "A ver, hay una realidad sorpresa.  La sorpresa es que se indicaba según las encuestas o las encuestas que aparecieron durante la semana pasada que la diferencia iba a ser de uno o dos puntos.  Que es por eso que en un momento José Antonio Cas había insistido en que si perdía la elección iba a acudir al tribunal electoral.  Porque cuando se habla de un margen tan estrecho existe la posibilidad que entre los votos objetados pueda repuntar.  El tema es que la diferencia fue bastante más amplia, estamos hablando de un once por ciento aproximadamente, y es por eso que finalmente José Antonio Casas en un momento decide felicitar a Gabriel Boric y reconocerlo como el presidente que vendrá el año dos mil veintidós. ",
+            "cosine_dist": 0.8990697037498302,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1190.904,
+            "end_time": 1259.677,
+            "text": "Mario, te quiero mostrar un tape en el que Boric habla de las AFJP, que para nosotros es un tema, porque nosotros las expropiamos en el dos mil ocho, Y en Chile han sido un modelo que de alguna manera financió también al sector un mercado de capitales interesante.  Si te parece lo escuchamos y me decís qué puede venir hacia adelante.  Dale, ponelo, por favor.  No queremos que sigan haciendo negocios con nuestras pensiones.  Crecimiento y distribución justa de la riqueza van de la mano.  Lo hemos dicho en nuestra campaña, lo sabemos.  Las AFP en Chile, que hoy día ganan cifras absurdas a costa del trabajo de los chilenos y chilenas, son parte del problema.  Y vamos a defender un sistema público, autónomo, sin fines de lucro y sin AFP.  ¿Mario va a estatizar el sistema, el nuevo presidente? ",
+            "cosine_dist": 0.826980732436774,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1260.954,
+            "end_time": 1316.818,
+            "text": "A ver, no está claro de qué forma se va a realizar, porque recordemos que cualquier cambio que se quiera plantear tiene que ir de la mano de la aprobación del Congreso Nacional, y en ese tema, lamentablemente, no es una decisión que pueda tomar el presidente por sí solo.  que ha planteado Gabriel Boric, y que no es solamente Gabriel Boric, la pelea contra las AFPs en Chile viene de hace muchos años, es justamente por cómo está elaborado este modelo de pensiones.  Entre los cambios que se le realizaron con el pasar del tiempo, los principales beneficiados fueron las empresas de AFP.  Por ejemplo, en el gobierno del socialista Ricardo Lagosa Escobar, se estableció que si habían pérdidas de la rentabilidad, tenía que asumirlos el cotizante.  Pero si habían ganancias, tenía que repartirlas con la AFP.  Entonces todo eso es lo que provoca la molestia en la población chilena.  y es ahí cuando empiezan a surgir grupos que dicen no más AFP y obviamente Gabriel Boric toma este recurso y obviamente lo incorpora a su campaña. ",
+            "cosine_dist": 0.9018230615496315,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1317.659,
+            "end_time": 1323.084,
+            "text": "Mario, ¿se va a radicalizar más?  ¿Va a moderarse?  ¿Qué es lo que estás viendo? ",
+            "cosine_dist": 0.8672152829135304,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1324.568,
+            "end_time": 1365.663,
+            "text": "Lo que yo veo, y esto se vio en esta campaña, la segunda vuelta, que se van a tener que establecer acuerdos.  En un momento la izquierda de Gabriel Boric se oponía a la izquierda tradicional.  Hablemos del Partido Socialista, Partido Comunista, hablemos de la democracia cristiana.  Y en un momento se dio cuenta que tenía que empezar a establecer vínculos para poder llegar al poder y que fue lo que ocurrió finalmente durante la tarde de ayer.  Por lo tanto, él ha insistido también en que tiene que trabajar en esta política del diálogo, sobre todo cuando se va a enfrentar a un Congreso que la mayoría está compuesto por integrantes de la derecha.  Por lo tanto, cualquier medida a la que quiera avanzar él durante su gestión va a tener que establecer acuerdos con ese Congreso. ",
+            "cosine_dist": 0.8690293087626959,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1365.964,
+            "end_time": 1369.405,
+            "text": "Mario, muchísimas gracias.  Excelente informe.  Un abrazo. ",
+            "cosine_dist": 0.8883571509239248,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1370174,
+            "end_time": 1370454,
+            "text": "Gracias. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1371.175,
+            "end_time": 1373.697,
+            "text": "¿El modelo vudú es este, Javier? ",
+            "cosine_dist": 0.8681609194670044,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1374.117,
+            "end_time": 1456.109,
+            "text": "Sí, definitivamente es un modelo que básicamente... Mirá, esto es muy interesante.  Yo tuve la dicha de conocer al hermano del presidente de Chile, Piñera.  y que fue el mentor de este modelo de, digamos, de jubilaciones.  Vos sabés que Milton Friedman, él había sido alumno de Milton Friedman, y le decía, la madre de todas las reformas, porque eso permitió canalizar el ahorro.  convertirlo en inversión y generar un proceso de crecimiento virtuoso que hizo que Chile, de ser el segundo país más pobre de América Latina, se convirtiera en el país más rico de América Latina.  Y básicamente, ¿qué es para alguien de izquierda ese sistema?  Y básicamente es... un montón de caja, entonces van a ir a apropiarse de esa caja y van a salir a gastarla, despilfarrarla, van a hacer populismo, se van a comer el capital, van a destrozar el ahorro, se van a quedar sin inversión, les va a caer el PBI per cápita y se van a convertir en un país pobre como Argentina.  Es muy interesante cuando uno mira estas experiencias, ¿no?  Porque era, o sea, Cuba no se va a convertir en la Unión Soviética, ¿sí?  Venezuela no se va a convertir en Cuba, Argentina no se va a convertir en Venezuela, y Chile no se va a convertir en Argentina.  Y ahí los tenés, todos caminando hacia la miseria socialista. ",
+            "cosine_dist": 0.3598144945470404,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1456.29,
+            "end_time": 1460.055,
+            "text": "Puede ser que... Bueno, Lula hizo una gestión más racional de la que esperaba el mercado, ¿no? ",
+            "cosine_dist": 0.9491007272148559,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1461.557,
+            "end_time": 1577.698,
+            "text": "Sí, pero son los responsables del Foro de San Pablo, es uno de los integrantes del Foro de San Pablo, la idea de la Unión Soviética Latinoamericana, es decir, es un modelo que empobrece en todo el mundo, por lo tanto no hay... Fíjate que es más, vos sabés que lo que está pasando en Chile está muy bien explicado en dos libros de Axel Kaiser, uno que se llama La fatal ignorancia, parafraseando el libro de Hayek, La fatal arrogancia, y explica, digamos, cómo en Chile se pierde la batalla cultural y ahora desemboca en un comunista en el poder.  Y vos fíjate que ya, digamos, o sea, muestra todo el germen de la decadencia, la idea de la justicia social, que también está en un libro de Axel Kaiser que se llama La tiranía de la igualdad.  Fíjate que el eje central que hace Boric es justamente sobre la cuestión de la desigualdad, que en realidad... Una de las cosas que está en un libro maravilloso de Israel Kirchner, hoy me vine con la biblioteca Cuesta, que se llama Creatividad, Capitalismo y Justicia Distributiva, dice Israel Kirchner, mira, la evidencia empírica en términos cuantitativos de la superioridad del capitalismo en términos productivos es innegable.  Y dice, pero fíjate esto, la queja que hace la izquierda es una queja de índole moral, una queja de que el sistema es injusto.  Y lo que dice Israel Kirchner es, bueno, entonces vamos a analizar esta cuestión porque si tuvieran razón, no importa que el sistema sea más productivo, merece ser destruido porque es inmoral, porque es injusto.  ¿Y sabes lo que deriva a lo largo de ese libro?  que el sistema capitalista no solo es superior en lo cuantitativo, además es superior moralmente, porque los valores sobre los que se basa el socialismo son la envidia, el odio, el resentimiento, el trato desigual frente a la ley, la violencia.  y sobre todo, digamos, nunca hay que olvidar que asesinaron a los ciento cincuenta millones de seres humanos. ",
+            "cosine_dist": 0.37082315332524596,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1578.28,
+            "end_time": 1611.989,
+            "text": "¿Un disvalor es cambiarse de partido, Ezequiel?  ¿Tenemos un caso parecido al de Borocotó?  A ver, es un caso de una persona menos conocida, porque Eduardo Lorenzo Borocotó era un médico reconocido hacia televisión.  Y esta joven que estamos viendo aquí es Natalia Sánchez Jauregui, diputada provincial del partido FE, que es el partido que tuvo como principal actor al Mummo Venegas, quien en su momento tenía un acuerdo con el PRO, con el Macrismo Conjuntos para el Cambio.  Fíjate, esa frase que estamos viendo, nos tratan como los negritos de Juntos para el Cambio. ",
+            "cosine_dist": 0.8983868618986363,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1612.469,
+            "end_time": 1613.37,
+            "text": "¿Por qué dice esto? ",
+            "cosine_dist": 0.9891052703491129,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1613.77,
+            "end_time": 1637.32,
+            "text": "Porque Natalia Sánchez Jauregui, quien en el año dos mil diecinueve hizo campaña con Juntos para el Cambio, fue candidata a diputada provincial.  Una mujer que venía recomendada por Pablo Anzaloni, que es un diputado nacional que se hizo célebremente famoso por frases antisemitas.  Luego pidió disculpas, pero la DAIA, por supuesto, sacó un repudio con él.  Pablo Anzaloni no se fue al frente de todos, se fue a un bloque que es aliado al frente de todos. ",
+            "cosine_dist": 0.9157485053581731,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1637.34,
+            "end_time": 1638.161,
+            "text": "Y Natalia Sánchez ",
+            "cosine_dist": 1.008248436857396,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1638.181,
+            "end_time": 1640.961,
+            "text": "Jauregui, cuando asumió, no bien asumió, no fue ",
+            "cosine_dist": 0.8991318516635669,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1641.261,
+            "end_time": 1642.762,
+            "text": "al bloque de Cambiemos, sino que se armó ",
+            "cosine_dist": 0.9587246146714296,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1643.102,
+            "end_time": 1643.822,
+            "text": "un monobloque. ",
+            "cosine_dist": 0.8705818963203922,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1643.842,
+            "end_time": 1662.126,
+            "text": "¿Y qué decidió esta semana, en estos días?  Mirá la foto que estamos viendo, Pancho.  ¿Cuándo es?  Esta foto es de hace un mes aproximadamente.  Es de algunas semanas.  Decidió pasarse orgánicamente al frente.  O sea, acá ya no hay sorpresa.  Juntos por el cambio deberían venir intuyéndolo. ",
+            "cosine_dist": 0.9080865545035253,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1662.846,
+            "end_time": 1666.507,
+            "text": "Pero por supuesto, porque ella lo primero que hace en el dos mil diecinueve asume la banca. ",
+            "cosine_dist": 0.9368927313336426,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1666.527,
+            "end_time": 1706.528,
+            "text": "Había asumido por Cambiemos y se hace un monobloque.  Un monobloque vinculado al partido de ella, al partido FE.  Y ahora decidió directamente pasarse al frente de todos con dos características muy importantes.  La primera es... Que ella se haya pasado en el bloque de diputados de la provincia de Buenos Aires es clave para ese hombre que vemos al lado, para Axel Kicillof, porque le da la primera minoría en la Cámara de Diputados bonaerenses.  Ahora le vamos a preguntar a Javier, mira, y qué piensa de esto.  Porque algunas veces Javier dice que son lo mismo.  A ver si esto es irrelevante o no.  Vámonos a Nueva York.  ¿Está Ronen?  Vamos con Ronen Suar en Nueva York.  Hay un crecimiento, lamentablemente, de la variante Omicron.  ¿Cómo andás, Ronen?  Bien. ",
+            "cosine_dist": 0.9037386821545584,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1707.188,
+            "end_time": 1723.299,
+            "text": "¿Cómo estás?  Bueno, la verdad que sí, muy complicada la situación.  Se ha puesto la obligatoriedad, por un lado, del uso de tapabocas desde hace algunas semanas, pero el incremento tiene que ver básicamente, en este caso, con el triple de casos en un solo día. ",
+            "cosine_dist": 0.6321679598515204,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1723.339,
+            "end_time": 1724.62,
+            "text": "Esto sucedió el jueves pasado. ",
+            "cosine_dist": 0.8047843295117033,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1725.1,
+            "end_time": 1747.413,
+            "text": "Luego siguieron aumentando los casos y eso determinó, lamentablemente, que de alguna u otra manera se suspendan.  Espectáculos en Broadway, lo que tiene que ver con algunas funciones, ¿por qué hubo?  Casos positivos en los elencos, pero además por prevención.  Hamilton, que es una de las obras más concurridas, clausuró, o por lo menos durante hace cuatro días, que no está dando... ",
+            "cosine_dist": 0.6746807369464478,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1747.433,
+            "end_time": 1754.496,
+            "text": "O sea, independientemente, Ronen, independientemente de que no haya habido casos en el elenco, se suspenden por precaución. ",
+            "cosine_dist": 0.8860502261713428,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1755.197,
+            "end_time": 1756.437,
+            "text": "Se suspende por precaución. ",
+            "cosine_dist": 0.8358450605250631,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1756.818,
+            "end_time": 1761.38,
+            "text": "Javier, ¿va a haber un impacto en el mundo?  ¿Otro impacto?  Yo pensé que salíamos... ",
+            "cosine_dist": 0.887880565842347,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1763.604,
+            "end_time": 1787.594,
+            "text": "Bueno, yo lo que diría es que traten de evitar hacer un enfoque como el que hicieron antes, porque el daño que causaron, el remedio fue peor que la enfermedad.  Y en el caso argentino es emblemático con las cuarentenas cavernícolas.  Así es que lo único que espero es que no repitan los mismos errores que se cometieron en la primera oleada, que fueron verdaderamente devastadores para toda la Argentina. ",
+            "cosine_dist": 0.4614564018900894,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1788.439,
+            "end_time": 1792.522,
+            "text": "Javier Milei, ¿estamos peor o mejor que en el dos mil uno, económicamente hablando? ",
+            "cosine_dist": 0.935303311876246,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1793.002,
+            "end_time": 1795.084,
+            "text": "Estamos muchísimo peor en todos los aspectos. ",
+            "cosine_dist": 0.7084200709387406,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1795.184,
+            "end_time": 1796.765,
+            "text": "O sea, coincidís con Ramón Puerta, vos. ",
+            "cosine_dist": 0.9706111017028114,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1797.165,
+            "end_time": 1885.867,
+            "text": "Sí, claro, la situación de Argentina es muchísimo peor porque desde la llegada del kirchnerismo solo hubo una recuperación cíclica y nos empezamos a comer el capital.  Para que te des una idea... Hoy Argentina en el ranking mundial de PBI per cápita está a setenta y si lo corregís al tipo de cambio paralelo estamos a ciento veinte.  Tenemos un salario real como el del año dos mil cuatro que estaba muy abajo de lo que era la situación de la convertibilidad.  Estamos en una situación de un PBI per cápita en línea al de mil novecientos setenta y cuatro, un nivel de productividad en línea a los años cincuenta y tenemos una explosión de pobres e indigentes verdaderamente impresionante que son de característica estructural porque uno lo que tiene que entender.  ...es que el aumento de pobres e indigentes que uno vio saltar desde el dos mil uno al dos mil dos... ...tiene que ver con las características de la situación contractiva que generó... ...ya sea la corrida bancaria que derivó en corrida cambiaria... ...y la presencia del corralito, corralona, el catrás... que terminó descoordinando la economía argentina con la caída más fuerte del PBI en la historia, y eso obviamente generó una explosión de desempleo y un aumento de pobres indigentes.  Pero en el caso de Argentina, hoy eso se da... con niveles no de desequilibrio como esas características, por lo tanto estructuralmente estamos muchísimo peor. ",
+            "cosine_dist": 0.3864523281296155,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1886.508,
+            "end_time": 1888.67,
+            "text": "¿Y hay que hacer otro ajuste?  entonces, cortitos? ",
+            "cosine_dist": 0.9013474886375035,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1889.831,
+            "end_time": 1897.679,
+            "text": "A ver, para crecer necesitas invertir, para invertir tenés que ahorrar, y el ahorro es justamente hacer el ajuste en el sector público. ",
+            "cosine_dist": 0.45857042084353383,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1898.66,
+            "end_time": 1900.182,
+            "text": "Gracias Javier, muy amable. ",
+            "cosine_dist": 0.9379709956558048,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1900.202,
+            "end_time": 1900.842,
+            "text": "Gracias Pancho. ",
+            "cosine_dist": 0.964210653327581,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1900.863,
+            "end_time": 1924.4930612244898,
+            "text": "Ya volvemos.  A la mierda los malditos empresarios, a la mierda Sodomitas el capital.  Basta de basura que Inesiana, ha llegado el momento liberal.  Tenemos un líder y él es un gran rebelde. ",
+            "cosine_dist": 0.9554239985396998,
+            "is_target_speaker": false
+        }
+    ]
+}

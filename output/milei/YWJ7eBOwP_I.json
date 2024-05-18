@@ -1,0 +1,1111 @@
+{
+    "Index": 234,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "YWJ7eBOwP_I",
+    "url": "https://www.youtube.com/watch?v=YWJ7eBOwP_I",
+    "title": "SE VIENE LA DOLARIZACIÓN ARGENTINA - Javier Milei con Chiche Gelblung 16/3/2022",
+    "duration": 1296.0,
+    "view_count": 195569,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 0",
+            "start_time": 0.06,
+            "end_time": 1.95,
+            "text": "Te va a quedar la economía seguramente dolarizada. ",
+            "cosine_dist": 0.5799771899286077,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1.97,
+            "end_time": 3.751,
+            "text": "Si vos decís que hay que dolarizar. ",
+            "cosine_dist": 0.7490886594516547,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3.971,
+            "end_time": 8.474,
+            "text": "Digamos, se puede llamar dolarizar.  En un mercado laboral flexible, ahí podés abrir la economía. ",
+            "cosine_dist": 0.4856857125123851,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 8.594,
+            "end_time": 13.237,
+            "text": "Flexible, ¿qué quiere decir?  Lo hacés laburar doce horas por día.  A un jubilado, ¿cuánto le tenés que pagar? ",
+            "cosine_dist": 0.8686856609382267,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 13.497,
+            "end_time": 26.806,
+            "text": "Tienen que ganar lo que corresponde que dice la ley.  Lo que vos no podés hacer es mentirle a la gente.  Vos le tenés que decir la verdad.  ¿Qué es lo que dijo Alberto Fernández?  Que le iba a duplicar la jubilación.  Si vos le duplicabas la jubilación, vos metías diez puntos más de déficit fiscal en términos del PBI. ",
+            "cosine_dist": 0.35340608035074306,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 27.546,
+            "end_time": 36.372,
+            "text": "Recién decía el Diego Arias que cuando todos discutimos, mi ley sigue creciendo.  En los votos, por supuesto, no sé.  ¿Cómo estás, Javier?  ¿Bien? ",
+            "cosine_dist": 0.861759505164843,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 36.532,
+            "end_time": 37.993,
+            "text": "Todo bien.  ¿Cómo estás, Chiche?  Bien. ",
+            "cosine_dist": 0.8108207882891234,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 38.193,
+            "end_time": 41.956,
+            "text": "Ayer el presidente anunció la guerra contra la inflación.  Empieza el viernes. ",
+            "cosine_dist": 0.8797180285406611,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 42.998,
+            "end_time": 51.686,
+            "text": "Bueno, en principio me parece una frase desacertada en varios sentidos.  Uno, hacer una analogía con la guerra.  En este momento del mundo... ",
+            "cosine_dist": 0.4468213272355137,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 51.706,
+            "end_time": 52.707,
+            "text": "No es el mejor. ",
+            "cosine_dist": 0.9588953669097801,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 53.388,
+            "end_time": 109.386,
+            "text": "Es muy desafortunada.  O sea, es una de las tantas frases desafortunadas del presidente.  Por otra parte, la inflación no es un problema desde ahora.  O sea, lleva muchos años el problema con la inflación en Argentina.  De hecho, desde la salida de la convertibilidad no paramos de acelerar la tasa de inflación todo el tiempo.  Por lo tanto, debería haber sido una tarea inmediata, más bien asumida, porque recordemos que la inflación tiene dos efectos muy negativos.  Uno es lo que castiga sobre el crecimiento económico.  Eso, si uno corrige la historia monetaria argentina, por la inflación que tuvo, cada vez que sube por encima del veinte por ciento, se pierde un punto cincuenta y ocho de crecimiento, tendríamos un PIB per cápita como el de Estados Unidos.  Y el otro tema, que no es un punto menor, diría que es el más violento de todos, le pega entre veinticinco y treinta veces más fuerte a los más vulnerables.  Por lo tanto, eso era una agenda del momento cero y que empieza el viernes. ",
+            "cosine_dist": 0.3116181512532129,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 109.486,
+            "end_time": 116.25,
+            "text": "Pero han intentado, aparentemente van a reforzar precios máximos.  ¿Ustedes creen que tienen posibilidad de tener éxito esta guerra? ",
+            "cosine_dist": 0.7681229037173639,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 116.85,
+            "end_time": 165.486,
+            "text": "No tiene posibilidad de éxito.  Mira, hay un libro maravilloso que se llama Cuatro mil años de controles de precios y salario y el subtítulo es Cómo no combatir la inflación.  Y empieza a ser un relevamiento desde el dos mil ochocientos antes de Cristo en la quinta dinastía de los sumerios en Egipto.  Nunca funcionó.  ¿Querés un ejemplo que tampoco funcionó en un país?  Argentina.  En el único periodo desde que tiene Banco Central, o si vos querés, desde la segunda mitad del siglo XX en adelante, que no hubo inflación, fue cuando hubo la convertibilidad y los precios eran libres.  En el resto siempre hubo control de precios y nunca funcionaron.  Porque los controles de precios es un avance sobre el derecho de propiedad y eso lo que hace es contraer la oferta y que los precios terminen siendo más altos.  ¿Y sabés a quién más perjudica?  a los que menos tienen, porque son los que llegan más tarde al mercado y no tienen cómo pagarlo. ",
+            "cosine_dist": 0.33171228861879365,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 166.507,
+            "end_time": 172.852,
+            "text": "Ahora, pero lo que te digo es, si todo esto se demostró a lo largo de la historia, reciente de los argentinos, ¿por qué se vuelve a insistir en eso? ",
+            "cosine_dist": 0.8235900854488967,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 173.432,
+            "end_time": 174.653,
+            "text": "Porque es una... ",
+            "cosine_dist": 0.7161372221598855,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 174.733,
+            "end_time": 178.376,
+            "text": "Porque no hay idea, porque Guzmán no es un buen ministro de Economía... ",
+            "cosine_dist": 0.9015912862112416,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 178.556,
+            "end_time": 225.472,
+            "text": "Bueno, yo eso de que Guzmán no era una persona apta para el cargo, eso lo dije desde el primer momento, me dijeron de todo, ahora los hechos lo están dejando bien en claro.  Pero ¿cuál es el punto?  Argentina tiene, y esto es también parte de los contenidos que baja desde la educación pública, sea de gestión estatal o de gestión privada, son contenidos en favor de la casta política.  Esto parece un chiste, pero toda esa idea de la inflación multicausal, En el fondo lo que hace es ser cómplice de los políticos ladrones, porque es justamente lo que permite echarle la culpa a todos.  Cuando en realidad, si vos, mirá, entendés que la inflación es siempre y en todo lugar un fenómeno monetario, que se genera por aumentar la oferta de dinero, por encima de la demanda de dinero. ",
+            "cosine_dist": 0.31103790057299574,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 225.492,
+            "end_time": 229.655,
+            "text": "Pero Macri no aumentó la oferta de dinero y tuvo más inflación.  No, eso es falso, la aumentó. ",
+            "cosine_dist": 0.798582376858863,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 230.175,
+            "end_time": 291.412,
+            "text": "De hecho, y tuvo varios problemas.  Uno fue, no solo lo que emitió, sino lo que le cayó a la demanda de dinero, en especial cuando, por ejemplo, Dujovne, Caputo y... y Marcos Peña avanzaron sobre la independencia del Banco Central, terminaron generando un desastre, terminaron yendo al FMI, por lo tanto, y es más, después del resultado de las PASO, con el número abultado que consigue Alberto Fernández, se precipita aún más todavía la caída de la demanda de dinero, por lo tanto... La realidad es que la única forma que vos vas a encontrar para bajar la inflación es dejando de emitir.  Como yo creo que los políticos jamás van a hacer eso, porque esto es un curro grande.  ¿Saben cuánto fue la emisión de dinero en el año?  dos mil veinte?  Ocho puntos del PBI.  Es una estafa.  La emisión monetaria es una estafa.  Entonces, ¿pero quién se beneficia de esa estafa?  Los políticos.  Por lo tanto, o sea, y lo interesante es que cuando aparece el efecto no deseado, la inflación... ",
+            "cosine_dist": 0.3239208260604446,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 291.432,
+            "end_time": 294.515,
+            "text": "¿Cómo dicen los políticos?  Pero las empresas también hacen negocio. ",
+            "cosine_dist": 0.8244087139971789,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 295.055,
+            "end_time": 297.317,
+            "text": "Obvio.  Los empresarios existen. ",
+            "cosine_dist": 0.546023915596769,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 297.337,
+            "end_time": 298.178,
+            "text": "Los bancos ganan guita. ",
+            "cosine_dist": 0.9787820375520668,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 299.439,
+            "end_time": 306.184,
+            "text": "Eso está para discutir, porque vos cuando ganás plata tenés que limpiar el efecto de la inflación.  Y cuando limpias el efecto de la inflación no ganaron plata. ",
+            "cosine_dist": 0.479724426619873,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 306.204,
+            "end_time": 308.586,
+            "text": "¿Y qué es lo que está preguntando? ",
+            "cosine_dist": 0.9299610584902495,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 309.242,
+            "end_time": 318.594,
+            "text": "Hoy discutíamos en el pase cuál sería una buena medida para controlar esta inflación.  Lo que observamos es un hartazgo de la gente.  ¿Cuáles serían dos puntos claves para poder bajar esta inflación? ",
+            "cosine_dist": 0.854872402134939,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 318.614,
+            "end_time": 338.227,
+            "text": "Yo directamente soy partidario de eliminar el Banco Central.  Porque la inflación, que es la pérdida de poder adquisitivo del dinero, Y se genera porque vos emitís más dinero que el que la gente quiere tener.  Y eso lo que hace es que caiga el poder adquisitivo del dinero, todos los precios expresados en unidades monetarias suben.  Si vos eliminás el Banco Central, ese problema se terminó. ",
+            "cosine_dist": 0.35300225008860353,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 338.507,
+            "end_time": 347.616,
+            "text": "Hoy tengo un problema de que la gente no le alcanza la guita.  Y vos le vas a decir, yo cierro el Banco Central.  ¿Y que le vas a empezar a alcanzar la guita automáticamente?  ¿O es un proceso que lleva diez años? ",
+            "cosine_dist": 0.8180133859678895,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 347.716,
+            "end_time": 393.489,
+            "text": "No, es que en realidad... Bueno, a ver, si fuera que durara diez años, o sea, es mejor que empieces hoy más que, digamos, más tarde, porque, digamos, va a joder a más gente.  Pero, a ver, el proceso de desinflación, o sea, cuando vos termines de emitir dinero... El impacto se va a ver dieciocho meses después.  O sea, tarda dieciocho meses.  Está un poco muerto.  Dieciocho meses.  Bueno, pará, pará.  Pero con esto, digamos, cada año tenemos más inflación.  Por lo tanto, digo, esta no es la solución.  Y los que más se van a beneficiar de eso... son justamente los que menos tienen.  O sea, imaginate que vos empieces en una situación donde se reconvierten los precios relativos, empiezan a subir los salarios en dólares y los commodities, como están dados, entonces tu salario real empieza a subir. ",
+            "cosine_dist": 0.281346546279164,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 393.509,
+            "end_time": 398.352,
+            "text": "¿Qué mecanismo pasaría eso?  Yo cierro el Banco Central, le digo a Pesce, andate a tu casa, cierro el Banco Central. ",
+            "cosine_dist": 0.8849291583644153,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 399.386,
+            "end_time": 455.059,
+            "text": "No hay más emisión de dinero, no hay más peso, o sea, te va a quedar la economía seguramente dolarizada.  Y entonces, fíjate Ecuador, cuánto tiene inflación.  Es el país de Sudamérica que tiene menos inflación.  Panamá no tiene inflación, Hong Kong no tiene inflación.  ¿Eso vos decís que es dolarizar?  Dolarizar, digamos, se puede llamar dolarizar.  En realidad esto es un proceso donde reconvertís el sistema financiero Y después dejás la libre elección de la moneda.  como los argentinos ya eligieron la moneda.  La moneda que el argentino quiere es el dólar, seguramente van a elegir el dólar.  Entonces, en ese momento vos mapeas la base monetaria, que es el dinero que nosotros emite el Banco Central y que tenemos nosotros en la mano y los bancos en su caja.  Y eso, digamos, con eso retirás todos los pesos contra reservas y toda la deuda que tiene el Banco Central... Y no tenemos reservas.  Bueno, de última, en ese caso, buscarás el mecanismo para hacerte los dólares para salir a una en radio... ¿Pero cuál es el mecanismo? ",
+            "cosine_dist": 0.31308352741497103,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 455.119,
+            "end_time": 455.999,
+            "text": "No tenemos dólares. ",
+            "cosine_dist": 1.0213914976630354,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 456.499,
+            "end_time": 457.2,
+            "text": "Bueno, en realidad... ",
+            "cosine_dist": 0.8193541601811773,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 457.22,
+            "end_time": 460.821,
+            "text": "Los dólares que hay, lo que tiene Banco Central es el dólar de la gente que lo tiene ahorrado. ",
+            "cosine_dist": 0.8648299951438807,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 460.841,
+            "end_time": 463.681,
+            "text": "Bueno, parte es eso, parte es eso. ",
+            "cosine_dist": 0.4700622009217619,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 463.701,
+            "end_time": 465.342,
+            "text": "Le vas a manotear los dólares a la gente, ¿no? ",
+            "cosine_dist": 0.8305672370316189,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 465.462,
+            "end_time": 480.424,
+            "text": "No, no, si justamente lo que estás haciendo es darle los dólares a la gente.  Es decir, esos dólares están calzados contra los depósitos en dólares, eso no lo podés tocar.  Pero bueno, digamos que el gobierno se haga de los dólares para pagar eso. ",
+            "cosine_dist": 0.35844093998444726,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 480.704,
+            "end_time": 485.388,
+            "text": "Y en el mientras tanto, digo, en esos dieciocho meses, con la mitad de los argentinos pobres... ",
+            "cosine_dist": 0.8553999927883255,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 486.417,
+            "end_time": 489.959,
+            "text": "Pero, a ver, ¿vos crees que con más inflación vas a tener más pobres? ",
+            "cosine_dist": 0.4429333344521561,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 489.979,
+            "end_time": 491.579,
+            "text": "Vas a tener más pobres. ",
+            "cosine_dist": 0.9449939741052069,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 491.779,
+            "end_time": 563.966,
+            "text": "Y entonces, si haces algo para que no haya inflación, entonces vas a tener menos pobres.  Lo que vos vas a tener es que... ¿Cuál es el punto?  Esto también pasó en la convertibilidad.  Vos venías de dos hiperinflaciones.  Pasaste a la convertibilidad y vos solamente emitías contra demanda de pesos.  ¿Y cómo hacías para demandar pesos?  Agarrabas tus dólares y se los vendías en el banco central y ahí pasabas a tener pesos.  ¿Eso qué hizo?  Que el mercado monetario siempre esté en equilibrio.  Ahora, ¿qué pasa?  Como vos venías de dos años de dos hiperinflaciones, eso tiene un rezago.  Se terminan de reacomodar los precios.  Entonces, en ese interim vos vas a tener inflación en dólares.  y en esa inflación de dólares... Es interesante porque se te van a recomponer los salarios en dólares y los precios de los commodities siguen estando en los mismos dólares.  Entonces el salario real va a tener una suba impresionante.  O sea, va a ser una máquina de sacar gente de la pobreza.  ¿Por qué?  Porque básicamente tu salario en dólares va a subir.  Mira, te lo doy con un ejemplo para que vean lo mal que estamos.  El decir más alto de la distribución del ingreso en la Argentina, o sea, el diez por ciento que más gana, ¿sabés cuánto gana en promedio al tipo de cambio paralelo que es el que hay? ",
+            "cosine_dist": 0.2689467085446513,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 564.086,
+            "end_time": 564.826,
+            "text": "Cinco mil dólares. ",
+            "cosine_dist": 1.034909919386903,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 564.886,
+            "end_time": 587.689,
+            "text": "Quinientos dólares.  ¿Sabés cuánto gana un lavacopa en Estados Unidos?  Un chico que entra en McDonald's, dos mil quinientos.  Es decir, los salarios en Argentina están destrozados, medidos en dólares.  Por eso, digamos, tenemos tantos pobres e indigentes.  Cuando vos recompongas monetariamente y los precios se reacomoden, lo que vas a tener es que los salarios reales en dólares van a subir fuertemente. ",
+            "cosine_dist": 0.32014748945166294,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 590.037,
+            "end_time": 593.638,
+            "text": "que funcionó durante un cierto tiempo, tuvo una salida traumática. ",
+            "cosine_dist": 0.8317355195064738,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 594.599,
+            "end_time": 600.341,
+            "text": "Pero la salida no fue durante el gobierno de Menem.  Pero la salida no fue durante el gobierno de Menem. ",
+            "cosine_dist": 0.5587454034623941,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 600.761,
+            "end_time": 601.561,
+            "text": "No, fue posterior. ",
+            "cosine_dist": 0.923346967350354,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 601.761,
+            "end_time": 606.123,
+            "text": "Ah, fue con el gobierno de la Alianza.  Fue, digamos, un gobierno liderado por un radical. ",
+            "cosine_dist": 0.4263944154378201,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 607.403,
+            "end_time": 610.805,
+            "text": "Pero vos tenés que decir, si hubiera seguido el Menemismo no pasaba nada. ",
+            "cosine_dist": 0.9203241325699258,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 611.225,
+            "end_time": 612.386,
+            "text": "Si alguien que hubiera... ",
+            "cosine_dist": 0.7089837540213626,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 612.526,
+            "end_time": 614.487,
+            "text": "¿Por qué crees que la gente no lo votó a Dualde? ",
+            "cosine_dist": 0.8486085946414128,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 614.527,
+            "end_time": 618.889,
+            "text": "Dualde prometió seguir con la competitividad.  No, no, no, Dualde justamente lo que prometía era dinamitar el sistema. ",
+            "cosine_dist": 0.47863686380283343,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 619.469,
+            "end_time": 621.791,
+            "text": "Pero el de la Rúa prometió seguir y después no lo pudo sostener. ",
+            "cosine_dist": 0.8141484579498448,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 621.811,
+            "end_time": 648.845,
+            "text": "Sí, bueno, pero puso los jugadores incorrectos, arrancó con un impuestazo, o sea, la economía estaba recuperándose... porque Argentina venía de varios shocks externos negativos, o sea, Argentina tuvo la crisis asiática, tuvo la crisis rusa, Argentina se empieza a recomponer de eso, sufre el shock brasileño, pero ¿cómo responde el gobierno de la Rúa?  Con un impuestazo.  Es decir, nunca, digamos, o sea, la de los políticos no se toca.  Y pasó algo también... ",
+            "cosine_dist": 0.2858222399009889,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 648.865,
+            "end_time": 650.446,
+            "text": "Pero lo que pasó, pasó.  Lo que pasa ahora... ",
+            "cosine_dist": 0.9182011752209123,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 650.466,
+            "end_time": 676.805,
+            "text": "No, no, y después hubo otro tema muy importante.  Había un señor que era de Chascomús, el fracasado hiperinflacionario Chascomús, que dijo, que era uno de los principales referentes de la alianza, y dijo, yo no digo que no hay que no pagar la deuda, pero qué lindo sería.  Al otro día arrancó la corrida.  Después tuvieron que poner la intangibilidad de los depósitos y terminaron después tocando los depósitos.  Entonces, digo... No es trivial quienes estaban en el poder. ",
+            "cosine_dist": 0.3102206468260392,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 677.766,
+            "end_time": 680.787,
+            "text": "¿Y en estos momentos los que están en el poder pueden hacer esa modificación? ",
+            "cosine_dist": 0.8357732236114674,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 681.087,
+            "end_time": 690.531,
+            "text": "No, no porque carecen de reputación.  Por lo tanto, todo lo que hagan no es creíble y todo lo que hagan, aun cuando quieran hacer las cosas bien, van a terminar causando daño. ",
+            "cosine_dist": 0.35681475108155236,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 692.105,
+            "end_time": 694.926,
+            "text": "A ver, ¿por qué?  Si yo quiero hacer, voy a cerrar el Banco Central. ",
+            "cosine_dist": 0.8162270152217648,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 695.066,
+            "end_time": 696.327,
+            "text": "Suponete lo siguiente, vos decís... ",
+            "cosine_dist": 0.624181530387709,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 697.207,
+            "end_time": 699.168,
+            "text": "Suponiendo que eso sea una sustitución. ",
+            "cosine_dist": 0.8988821052484867,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 699.188,
+            "end_time": 734.478,
+            "text": "Bueno, pero esto, olvídate, pero este gobierno jamás lo va a hacer.  Si dice que mi tierno causa inflación y la culpa es tuya, de ella, de ellos, mía.  O sea, olvídate, digamos.  A ver, este gobierno, ¿qué es lo que pasa?  Para que un plan de estabilización sea exitoso... Cuando vos generás el ahorro derivado del ajuste, se tiene que transformar en inversión.  Si eso no pasa, se genera recesión.  Ahora, ¿qué es lo que pasa?  Para que eso ocurra, el plan, digamos, tiene que ser un plan que esté bien diseñado.  No solo que tiene que estar bien diseñado, sino que vos tenés que tener reputación.  O sea, entonces, si vos... ",
+            "cosine_dist": 0.30293334353898094,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 734.638,
+            "end_time": 736.958,
+            "text": "Que te den bola y que te crean y que te tengan confianza. ",
+            "cosine_dist": 0.7984141864528654,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 736.978,
+            "end_time": 750.162,
+            "text": "Entonces, si está bien diseñado y tenés reputación, te creen, Y la estabilización es exitosa y no causa dolor.  Ahora, este gobierno no tiene reputación, no es creíble y además los números están mal hechos. ",
+            "cosine_dist": 0.3164881542919282,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 751.363,
+            "end_time": 752.383,
+            "text": "No saben hacer un número. ",
+            "cosine_dist": 0.9472356873407893,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 752.483,
+            "end_time": 762.106,
+            "text": "Los números están mal hechos, Chiche.  Los números están mal hechos.  A ver, es un tema muy técnico, no sé si da para hablarlo en tele, pero... No.  Ok, entonces los números están mal hechos. ",
+            "cosine_dist": 0.42866142570877486,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 762.876,
+            "end_time": 766.058,
+            "text": "¿Los números están mal hechos?  También están mal hechos. ",
+            "cosine_dist": 0.8649877945828873,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 766.258,
+            "end_time": 767.118,
+            "text": "Cuando vos diseñás los números... ",
+            "cosine_dist": 0.8917505474552901,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 767.178,
+            "end_time": 773.002,
+            "text": "Ahora, todo dice que estás preparando tu equipo para el dos mil veintitrés.  ¿Quién va a ser tu ministro de Economía? ",
+            "cosine_dist": 0.7922350923582822,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 773.242,
+            "end_time": 775.523,
+            "text": "No voy a revelar los nombres.  Lo que sí te voy a decir es que ya tengo... ",
+            "cosine_dist": 0.6610173787843334,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 775.543,
+            "end_time": 776.624,
+            "text": "¿Pero tenés un ministro de Economía? ",
+            "cosine_dist": 0.9232134367582944,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 776.744,
+            "end_time": 782.187,
+            "text": "Sí, claro.  Mi reunión con el otro día de mi equipo económico eran cerca de diez personas. ",
+            "cosine_dist": 0.5490835122115252,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 783047,
+            "end_time": 783307,
+            "text": "¿Cuánto? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 783.728,
+            "end_time": 788.992,
+            "text": "Diez personas.  Estuvimos once horas hablando sobre el programa económico y tres horas sobre la dolarización. ",
+            "cosine_dist": 0.45338441386886397,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 789032,
+            "end_time": 789592,
+            "text": "¿Un nombre? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 789.752,
+            "end_time": 793.996,
+            "text": "No, no voy a revelar los nombres porque los van a volver locos.  O sea, necesito que trabajen tranquilos. ",
+            "cosine_dist": 0.5180158346470765,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 794.696,
+            "end_time": 798.279,
+            "text": "¿Este escenario te favorece? ",
+            "cosine_dist": 0.8245092271245077,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 798.299,
+            "end_time": 818.824,
+            "text": "No lo sé.  Digamos, yo... A ver, cuando vos empezás a mirar los que están dando los números... No te lo podés tomar a la ligera.  No sea cosa que se dé un equilibrio en el cual, digamos, te pueda pasar, por ejemplo, algo como lo que pasó en Chile y que la gente me elija a mí.  No podés llegar sin saber lo que vas a hacer. ",
+            "cosine_dist": 0.33269012098185724,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 818.844,
+            "end_time": 820.625,
+            "text": "Ayer Durán Barroa dice que podés ser presidente. ",
+            "cosine_dist": 0.9532404762007334,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 820.725,
+            "end_time": 824.267,
+            "text": "Bueno, entonces más todavía a mi favor de que tengo que trabajar. ",
+            "cosine_dist": 0.5839366144932959,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 824.347,
+            "end_time": 826.008,
+            "text": "Y eso es un presidente. ",
+            "cosine_dist": 0.8688740180555838,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 826.328,
+            "end_time": 836.95,
+            "text": "Bueno, pero por eso ya tengo armados cuatro ministerios.  Tengo armado el Ministerio de Economía, tengo Relaciones Exteriores, o sea, Cancillería, tengo armado Bienestar Social y Infraestructura. ",
+            "cosine_dist": 0.3958450934335248,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 836.97,
+            "end_time": 839.35,
+            "text": "¿Y qué hace con los planes?  ¿Los borrás? ",
+            "cosine_dist": 0.832216735323731,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 839.651,
+            "end_time": 855.375,
+            "text": "No, los planes, o sea, son parte de lo que yo denomino las reformas de segunda generación en una economía que ya viene creciendo a tasa muy fuerte durante más de diez años.  Pero mantiene los planes.  Obviamente, que los planes la gente los deje, no que vos se los sacas. ",
+            "cosine_dist": 0.34730685690761864,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 855.835,
+            "end_time": 859.757,
+            "text": "¿A un jubilado cuánto le tiene que pagar hoy?  ¿Cuánto debiera ganar un jubilado? ",
+            "cosine_dist": 0.9119599477412552,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 859.837,
+            "end_time": 869.961,
+            "text": "El jubilado debe ganar, digamos, acorde a lo que está pactado en la ley.  Yo, digamos, en eso no podés tocar ni vulnerar derechos.  Ahora, vos sí podés hacer la reforma previsional en un contexto de mucho crecimiento. ",
+            "cosine_dist": 0.36803699576832793,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 869.981,
+            "end_time": 873.382,
+            "text": "Pero vos vas a querer ganar pagando un jubilado treinta y dos lucas. ",
+            "cosine_dist": 0.8553452891166656,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 874.122,
+            "end_time": 902.865,
+            "text": "Tienen que ganar lo que corresponde que dice la ley.  Yo no voy a, digamos, esas cosas no se pueden... Vos no podés inventar riqueza de la nada.  Es decir, tienen que estar los recursos.  Si no, los estás engañando.  Lo que vos no podés hacer es mentirle a la gente, vos le tenés que decir la verdad.  Porque ¿sabés lo que pasa?  Si vos después le mentís, ¿qué es lo que dijo Alberto Fernández?  Que le iba a duplicar la jubilación.  Ahora, si vos le duplicabas la jubilación, vos metías diez puntos más de déficit fiscal en términos del PBI. ",
+            "cosine_dist": 0.31434543198699516,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 904.183,
+            "end_time": 909.647,
+            "text": "¿Qué tres cosas?  no le podés mentir a la gente.  que harías vos? ",
+            "cosine_dist": 0.8594962043036727,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 909.667,
+            "end_time": 916.272,
+            "text": "No, vos le tenés que decir lo que vas a hacer.  Yo le digo lo que voy a hacer.  Básicamente es una reforma del Estado para bajar el gasto público, poder bajar los impuestos. ",
+            "cosine_dist": 0.3937144559393837,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 916292,
+            "end_time": 916772,
+            "text": "¿Echar gente? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 917.493,
+            "end_time": 949.845,
+            "text": "No, eso no corresponde a las reformas de primera generación.  Vos no podés echar gente, tendrías un desastre social.  No podés hacer eso.  Entonces tenés que bajar partidas donde roba la política.  Ejemplo, la obra pública.  Ejemplo, las transferencias discrecionales.  Ejemplo, tenés que eliminar la jubilación de privilegio.  ¿Sabés qué podés hacer?  Tomar las empresas del Estado y dársela directamente.  que quede en manos de sus empleados.  y se determinó ese problema de déficit.  Hay que cortar, por ejemplo, con la jubilación de privilegio, que son cero punto siete del PBI.  ¿Sabés cuánto es todo el déficit? ",
+            "cosine_dist": 0.32576313212012453,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 950.225,
+            "end_time": 952.146,
+            "text": "A los sueldos no le puede bajar el sueldo. ",
+            "cosine_dist": 1.0155729383761973,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 953.007,
+            "end_time": 984.574,
+            "text": "Yo no dije que no.  Lo que estoy diciendo es que no tengan jubilación de privilegio.  Eso es cero punto siete del PBI.  El déficit de todas las empresas del Estado es cero punto siete.  Imagínate, digamos, o sea, el curro que es eso.  Y también, digamos, tenés que reconvertir las tarifas, ¿sí?  recalibrando la ecuación económica financiera del contrato, para que el impacto en precios sea el menos posible.  ¿Sabés cuánto hay en toda esa reforma?  Podés bajar entre once y doce puntos del PBI y el gasto público.  Mirá si vas a tener para bajar impuestos y para hacer crecer a la economía.  Una vez que vos hiciste la reforma... ",
+            "cosine_dist": 0.3275898048338256,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 984.674,
+            "end_time": 988.015,
+            "text": "El PBI argentino.  hoy, ¿cuánto es?  ¿Trescientos mil millones de dólares? ",
+            "cosine_dist": 0.8892793852131989,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 988.175,
+            "end_time": 991.336,
+            "text": "Al tipo de cambio paralelo.  Es un poquito menos. ",
+            "cosine_dist": 0.4892788555559825,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 992.236,
+            "end_time": 993.516,
+            "text": "¿Doscientos cincuenta mil millones de dólares? ",
+            "cosine_dist": 0.9212703672787421,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 993.536,
+            "end_time": 1001.22,
+            "text": "Ponéle, sí, o doscientos setenta y cinco mil al tipo de cambio paralelo.  Al oficial es... poco más de quinientos mil millones de dólares. ",
+            "cosine_dist": 0.38290724341957105,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1001.68,
+            "end_time": 1003.561,
+            "text": "Pero reales son doscientos setenta y ocho millones. ",
+            "cosine_dist": 0.773399046436496,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1003.601,
+            "end_time": 1004.362,
+            "text": "El de verdad es ese. ",
+            "cosine_dist": 0.7106157925832219,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1004.442,
+            "end_time": 1013.849,
+            "text": "Y tres puntos, cuando vos decís tres puntos del PBI, entonces estás hablando de veintisiete por tres, cinco mil millones de dólares.  Así de simple. ",
+            "cosine_dist": 0.8406528472433821,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1014.529,
+            "end_time": 1016.251,
+            "text": "Esta era la primera, le faltan dos, Chiche. ",
+            "cosine_dist": 0.9534447067485105,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1016.771,
+            "end_time": 1039.298,
+            "text": "Bueno, no, pero las otras reformas, por ejemplo, vos tenés que reformar el mercado laboral, esto es primera generación.  Sí.  No tenés que hacer flexible hacia adelante para no vulnerar los derechos adquiridos.  Y una vez que vos tenés un Estado, digamos, chico, que no es una máquina de impedir la competitividad, y un mercado laboral flexible, ahí podés abrir la economía. ",
+            "cosine_dist": 0.30331171793872547,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1039.318,
+            "end_time": 1042.56,
+            "text": "¿Flexible qué quiere decir?  ¿Hacer laburar doce horas por día? ",
+            "cosine_dist": 0.8210920520402676,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1043.521,
+            "end_time": 1054.964,
+            "text": "No, es un acuerdo entre partes.  Vas a laburar el tiempo que vos quieras, el tiempo que te pongas de acuerdo con tu empleador.  como tiene que ser.  En ese contexto, vos vas a tener... ",
+            "cosine_dist": 0.3318837684676277,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1055.004,
+            "end_time": 1058.386,
+            "text": "Porque hoy hay una flexibilización laboral de.  hecho. ",
+            "cosine_dist": 0.8832500780185806,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1058.406,
+            "end_time": 1079.763,
+            "text": "Pero es que de hecho existe, hay más de seis millones de personas.  Y bueno, entonces, eso es para los que dicen que no, que digamos... Hay flexibilización de.  hecho.  Bueno, pero por eso, entonces es mejor que no sea solo de hecho, sino que sea también de derecho y así, digamos, se puede producir mucha inversión que sea intensiva en trabajo y la gente pueda conseguir mejores laburos y de mejor calidad y de mejor salario. ",
+            "cosine_dist": 0.38195282732269087,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1080.859,
+            "end_time": 1083.773,
+            "text": "¿Por qué coincidiste en la votación con la izquierda? ",
+            "cosine_dist": 0.8219269333879963,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1086.128,
+            "end_time": 1091.932,
+            "text": "Eso en el caso de la izquierda se llama error tipo dos.  Con las malas ideas llegaron al resultado correcto. ",
+            "cosine_dist": 0.4513504541081297,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1092.332,
+            "end_time": 1093.733,
+            "text": "¿Por las malas ideas llegaron al resultado correcto? ",
+            "cosine_dist": 0.9332284075500471,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1093.773,
+            "end_time": 1095.294,
+            "text": "Claro, bueno, error tipo dos se llama. ",
+            "cosine_dist": 0.690656872453496,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1095.634,
+            "end_time": 1096.435,
+            "text": "Error tipo dos. ",
+            "cosine_dist": 0.9375559813640802,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1096.455,
+            "end_time": 1104.04,
+            "text": "Yo tengo mis fundamentos por los cuales voté en contra.  Básicamente voté en contra por cuestiones de índole moral y por cuestiones de índole técnica. ",
+            "cosine_dist": 0.4700199790881481,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1105.601,
+            "end_time": 1106.642,
+            "text": "¿No hay que pagar las deudas? ",
+            "cosine_dist": 0.9344750282166805,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1107.162,
+            "end_time": 1155.011,
+            "text": "Yo digo que hay que pagar las deudas, que hay que pagar el fondo, pero que el ajuste no tiene que recaer en el sector privado, tiene que caer en los parásitos de la política.  ¿Y por qué se pusieron de acuerdo el ala moderada del Frente de Todos y Juntos por el Cambio?  Porque todo el ajuste cae sobre el sector privado.  Y no solo que cae sobre el sector privado, sino que además sobre reaccionen el ajuste en el sector privado para que siga aumentando la fiesta de la política.  No solo mantenerla, sino aumentar la fiesta de la política porque el gasto público en términos reales crece.  ¿Y cómo lo compensan?  Con impuestazos y con reducción de transferencia al sector privado.  Entonces eso es absolutamente inmoral.  Es decir, acá hay que hacer el ajuste, pero el ajuste no tiene que caer en la gente de bien, tiene que caer en el Estado, tiene que caer sobre la política. ",
+            "cosine_dist": 0.2961022973014451,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1155.031,
+            "end_time": 1160.688,
+            "text": "Este es el último libro de mi ley, El camino del libertario.  ¿Cuándo salió? ",
+            "cosine_dist": 0.8542064741566422,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1161.149,
+            "end_time": 1164.311,
+            "text": "Salió el viernes pasado. ",
+            "cosine_dist": 0.5654370710554957,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1164652,
+            "end_time": 1165232,
+            "text": "¿Y se vende? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1166.133,
+            "end_time": 1168.835,
+            "text": "Somos el sexto libro más vendido de la Argentina en este momento. ",
+            "cosine_dist": 0.541291354466191,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1169.155,
+            "end_time": 1169.956,
+            "text": "¿Me lo vas a dedicar? ",
+            "cosine_dist": 1.0525154696757095,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1170.316,
+            "end_time": 1171.257,
+            "text": "Pero por supuesto. ",
+            "cosine_dist": 0.7016374860505966,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1172338,
+            "end_time": 1172798,
+            "text": "Tomá, mirá. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1175.08,
+            "end_time": 1176.621,
+            "text": "Si querés te lo dedico a vos, Cintia. ",
+            "cosine_dist": 0.9650004487586811,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1178.063,
+            "end_time": 1182.406,
+            "text": "¿Lo querés a Chiche para algún ministerio por ahí?  ¿Por ahí te quiere para algún ministerio? ",
+            "cosine_dist": 0.9379436842032021,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1183.007,
+            "end_time": 1184.188,
+            "text": "Yo lo quiero. ",
+            "cosine_dist": 1.061143760156876,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1184.228,
+            "end_time": 1185.429,
+            "text": "No, mi ley, digo. ",
+            "cosine_dist": 0.9778199428903911,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1185.489,
+            "end_time": 1200.253,
+            "text": "Yo lo que quiero... ¿Qué dice ahí?  ¿Qué les pasa a ustedes?  Están todos loquitos, Chicho.  ¿Eh?  Están loquitos.  ¿Qué le pusiste? ",
+            "cosine_dist": 0.9115329030701416,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1200.373,
+            "end_time": 1201.594,
+            "text": "Ay, qué letra, mi ley. ",
+            "cosine_dist": 0.9131389294490786,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1202.895,
+            "end_time": 1206.559,
+            "text": "¿Qué querés, que encima tenga buena letra?  ¿Cómo, no se entiende? ",
+            "cosine_dist": 0.6376388386512148,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1207.72,
+            "end_time": 1210.203,
+            "text": "Para Chiche, sí, con admiración y mis mejores... ",
+            "cosine_dist": 0.8886035657089095,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1210.856,
+            "end_time": 1211.957,
+            "text": "El mayor de mis afectos. ",
+            "cosine_dist": 0.701794221415804,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1212.978,
+            "end_time": 1221.904,
+            "text": "Wishes.  Suerte.  Gracias, Javier, por visitarnos.  Un placer, un honor.  Te estás vistiendo mejor.  Te estás vistiendo mejor. ",
+            "cosine_dist": 0.8841152728611784,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1221.944,
+            "end_time": 1230.151,
+            "text": "No, pero vos sabés que me compré toda una familia de trajes hace tres meses y me van gigantes.  Así que le tengo que pasar de vuelta. ",
+            "cosine_dist": 0.4343522522360723,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1230.171,
+            "end_time": 1235.695,
+            "text": "En el pelo me dicen que te hiciste algo.  Tenés un asesor de vestuario bueno. ",
+            "cosine_dist": 0.8911151214090844,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1235.715,
+            "end_time": 1243.86,
+            "text": "No, no.  Sabés que un día me agarró mi hermana y me dijo, odio las rayas.  Y... Te vas a cambiar y vas a dejar usar rayas.  Entonces fuimos y nos... ",
+            "cosine_dist": 0.5403812009114852,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1244.66,
+            "end_time": 1250.802,
+            "text": "Sí, te compraste varios trajes.  Sí, sí.  Empezaste a... Te empezó a resultar la política. ",
+            "cosine_dist": 0.7903226727536953,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1251.383,
+            "end_time": 1261.727,
+            "text": "No, no, no.  O sea, a ver, yo respondo a los mandos naturales.  Mi hermana es literalmente el jefe.  Y si dijo que esos trajes no los quería ver más, condición suficiente. ",
+            "cosine_dist": 0.4041892784402351,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1261.947,
+            "end_time": 1273.194,
+            "text": "Bueno, me parece muy bien que te hayas sacado la red.  Te he dado mafioso.  A mí me encantan los trajes muy rayados.  Soñaste con tener un cero kilómetro, hoy un cero se cerrará con Fiat Vego Porto.  Mirá, gracias, Fabián. ",
+            "cosine_dist": 0.8926498974978355,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1273.534,
+            "end_time": 1295.529,
+            "text": "Gracias.  A la mierda, los malditos empresarios.  A la mierda, Sodomitas, el capital.  Basta de basura keynesiana.  Ha llegado el momento liberal.  Tenemos un líder y él es un gran rebelde. ",
+            "cosine_dist": 0.957442781931559,
+            "is_target_speaker": false
+        }
+    ]
+}

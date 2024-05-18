@@ -1,0 +1,1679 @@
+{
+    "Index": 222,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "N2xhBzZBBPQ",
+    "url": "https://www.youtube.com/watch?v=N2xhBzZBBPQ",
+    "title": "MILEI SOBRE LOS PLANES SOCIALES - Javier Milei con Luis Majul 3/4/2022",
+    "duration": 1997.0,
+    "view_count": 111190,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 0",
+            "start_time": 0.14,
+            "end_time": 2.791,
+            "text": "Perdón el término, pero de burro, y no quiero ofender a los burros. ",
+            "cosine_dist": 0.6113332122012926,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2.811,
+            "end_time": 4.392,
+            "text": "Ah, vos le pediste disculpas a los burros. ",
+            "cosine_dist": 1.0894295311044009,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 4.412,
+            "end_time": 8.756,
+            "text": "Pobreaznos, compararlo con este señor, percibe el beneficio de engastar de más. ",
+            "cosine_dist": 0.615542623604076,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 8.776,
+            "end_time": 12.198,
+            "text": "Escúchame, ¿te puedo hacer una preguntita?  ¿Por qué a veces cambian la voz y de repente... ",
+            "cosine_dist": 0.8897559768992122,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 12.639,
+            "end_time": 16.742,
+            "text": "Cuando haces un regalo, tratás de quedar bien con lo menos posible, minimizás el costo. ",
+            "cosine_dist": 0.5408086156710907,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 16762,
+            "end_time": 17362,
+            "text": "¿Te parece? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 17.703,
+            "end_time": 18.563,
+            "text": "Sí.  Bueno, depende que... ",
+            "cosine_dist": 0.8933433890700135,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 18.583,
+            "end_time": 21.446,
+            "text": "No, no, no, hay gente más generosa que otra, ¿no? ",
+            "cosine_dist": 0.9006105464210797,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 21.466,
+            "end_time": 23.849,
+            "text": "Por favor.  O hay gente más hipócrita que otra. ",
+            "cosine_dist": 0.6714042577335206,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 23.889,
+            "end_time": 29.29,
+            "text": "No te voy a decir cuál es el día de mi cumpleaños porque me vas a regalar cualquier cosa, un peine. ",
+            "cosine_dist": 0.8880633648946925,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 30.471,
+            "end_time": 37.453,
+            "text": "La aerolínea se la demos directamente a todos sus empleados.  ¿Y los planes sociales?  Wait.  Entonces eso te genera... ",
+            "cosine_dist": 0.4838463305045211,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 38.453,
+            "end_time": 39.374,
+            "text": "Javier, gracias por venir. ",
+            "cosine_dist": 0.8600446921775806,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 39.854,
+            "end_time": 40.754,
+            "text": "Por favor, es un placer. ",
+            "cosine_dist": 0.7951252437263779,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 41.114,
+            "end_time": 42.875,
+            "text": "Bueno, ¿estamos peor que en el dos mil uno? ",
+            "cosine_dist": 0.9797364096558221,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 43.155,
+            "end_time": 51.863,
+            "text": "Sí, estamos mucho peor que en el dos mil uno.  Porque, si vos te fijás, tenemos... Muchísima más pobreza de verdad. ",
+            "cosine_dist": 0.49276204765740383,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 52283,
+            "end_time": 52764,
+            "text": "¿Estructural? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 53.224,
+            "end_time": 108.315,
+            "text": "Claro, sí.  Porque muchos hacen la comparación maliciosa al dos mil dos.  O sea, ya detonada la crisis.  Y, digamos, antes no teníamos estos niveles de inflación.  Por lo tanto... Técnicamente estamos mucho peor.  y si vos tomaras ese PBI per cápita en ese momento y lo extrapolaras ahora, la diferencia es enorme porque tendríamos que estar hablando de un PBI per cápita por lo menos de trece mil, quince mil dólares y al oficial tenemos seis mil, cinco mil.  O sea, con lo cual eso también explica la cantidad de pobres que tenemos y la cantidad de indigentes que tenemos.  Lo cual, digamos, en un país que produce alimentos para cuatrocientos millones de seres humanos, con una presión fiscal en el campo del sesenta por ciento, el Estado se lleva al alimento de doscientos cuarenta millones de seres humanos.  ¿Me podés explicar cómo puede ser que haya cinco millones de argentinos que no coman?  Es una locura.  Bueno, el logro del populismo. ",
+            "cosine_dist": 0.3923542280660933,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 109.976,
+            "end_time": 120.239,
+            "text": "Y si estamos peor, porque este es el argumento del gobierno, ¿por qué no está ya nada?  ¿Por qué no está la gente, bueno, en su momento estaba golpeando la puerta de los bancos?  ¿Por qué? ",
+            "cosine_dist": 0.8353374256542146,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 121.517,
+            "end_time": 150.217,
+            "text": "Ahí hay dos cosas.  Lo que termina detonando las crisis suelen ser lo que se llaman caídas de la demanda de dinero.  Es decir, una situación en la cual la gente huye del dinero.  Y esas situaciones se dan cuando tenés una crisis política.  La realidad es que técnicamente, y esto es muy importante tenerlo en cuenta, hoy las condiciones monetarias son dos veces peor que la que teníamos antes del rodrigazo.  Pero con el agravante, que partimos desde diez veces más de pobres.  O sea, con lo cual... ",
+            "cosine_dist": 0.3842997278611813,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 150.257,
+            "end_time": 156.059,
+            "text": "A ver, cuando vos decís condiciones monetarias, explícamelo como si fuera un niño. ",
+            "cosine_dist": 0.7988519294160463,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 156.799,
+            "end_time": 207.638,
+            "text": "El dinero que hay en la calle, que la gente lo tiene básicamente porque tenés el CEPO y te obligan a demandarlo.  Lo cual no solo es una locura.  el CEPO porque, digamos, te cercena tu conjunto de elección, porque vos de repente querés tener dólares, no querés tener pesos, y entonces te obligan a tener los pesos.  Y no solo te afecta en el presente, sino que te afecta en el futuro, porque el peso no es reserva de valor, con lo cual deteriora toda tu situación futura.  Y en el entonces quedás obligado a tener más pesos que los que vos querrías tener, y eso hace que te cobren más impuesto inflacionario porque te aumenta la base imponible.  Ahora, vos en condiciones normales, esa plata no la querrías tener.  Bueno, eso se llama exceso de dinero, técnicamente se llama money overhang.  Sobrante monetario.  Y lo que vos tenés que... Este sobrante monetario de hoy es el doble que el que tenías previo al Rodrigazo. ",
+            "cosine_dist": 0.3819126650075192,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 208.418,
+            "end_time": 209.499,
+            "text": "¿Y qué me querés decir con eso? ",
+            "cosine_dist": 0.9046043764080196,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 209.979,
+            "end_time": 213.902,
+            "text": "A ver, en el Rodrigazo vos venías de una inflación del treinta y saltó el ciento ochenta. ",
+            "cosine_dist": 0.5540320753065199,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 214.122,
+            "end_time": 216.703,
+            "text": "De un día para el otro, de un momento para el otro.  Sí. ",
+            "cosine_dist": 0.8722572443084161,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 217.224,
+            "end_time": 219.145,
+            "text": "Y al otro año se fue arriba del cuatrocientos. ",
+            "cosine_dist": 0.6230486131011159,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 220.251,
+            "end_time": 222.392,
+            "text": "O sea, saltó de una inflación de cuánto, me dijiste? ",
+            "cosine_dist": 0.9433181758867512,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 222.412,
+            "end_time": 223.873,
+            "text": "De treinta por ciento a ciento ochenta. ",
+            "cosine_dist": 0.7586204328775222,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 224.413,
+            "end_time": 225.294,
+            "text": "A tres dígitos. ",
+            "cosine_dist": 0.9710508748225437,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 225494,
+            "end_time": 225754,
+            "text": "Claro. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 226014,
+            "end_time": 226494,
+            "text": "De un saque. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 226.594,
+            "end_time": 230.956,
+            "text": "Claro.  Y al otro año se fue al cuatrocientos por ciento. ",
+            "cosine_dist": 0.5491696221436901,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 230.996,
+            "end_time": 232.977,
+            "text": "Técnicamente no es una hiper, pero... ",
+            "cosine_dist": 0.8978443807331542,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 233.617,
+            "end_time": 248.602,
+            "text": "Bueno, pero es una hipermoderna.  Porque en aquel momento vos, por ejemplo, si haces, por ejemplo, una inflación, una hipermoderna... Con doscientos por ciento sería una hipermoderna.  Porque hoy en el mundo no hay inflación. ",
+            "cosine_dist": 0.4726283639868587,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 248.982,
+            "end_time": 251.185,
+            "text": "Bueno, Venezuela tuvo una hiperinflación. ",
+            "cosine_dist": 0.9261893529019729,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 251.565,
+            "end_time": 290.755,
+            "text": "Sí, sí.  Y en el caso de Venezuela es grave porque estuvo durante tres años con la hiperinflación.  Porque en general las hiperinflaciones suelen ser episodios muy traumáticos, muy cortos.  Y con las ideas que tiene este gobierno, tuvieron tres años de hiperinflación en Venezuela.  Si me permitís, es más, voy a hacer una referencia de uno de los informes que vos pasaste o de los videos que pasaste.  Fíjate que, por ejemplo, Feletti es parte del problema, no parte de la solución.  Porque él dice que tiene microeconómicamente dos inflaciones.  Una chantada total, Luis.  La macroeconomía... A ver... La inflación es un problema macroeconómico, no micro. ",
+            "cosine_dist": 0.39138335470294494,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 290.775,
+            "end_time": 294.46,
+            "text": "Mi problema es la micro y lo demás es la guerra y lo demás es Guzmán. ",
+            "cosine_dist": 0.8128650111390526,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 294.48,
+            "end_time": 305.536,
+            "text": "Claro, es todo mentira.  La inflación es un problema macroeconómico.  Si no que me muestra algún libro de microeconomía, aún en la parte de equilibrio general se habla de inflación. ",
+            "cosine_dist": 0.4875581721238498,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 305.556,
+            "end_time": 309.078,
+            "text": "Un libro de microeconomía que diga que si controlamos las góndolas no aumentan los precios. ",
+            "cosine_dist": 0.8264797157067363,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 309.518,
+            "end_time": 332.431,
+            "text": "Justamente, los libros de microeconomía te dicen no hagas eso porque te va a decir que vas a generar escasez.  Viste que las góndolas están más flaquitas ahora.  Y la cantidad de productos que hay en los supermercados argentinos es mucho menor.  Pero no solo eso, vos fíjate que en un momento dice la culpa de los monopolios.  Eso está mal, eso es de... Perdón el término, pero de burro.  Y no quiero ofender a los burros. ",
+            "cosine_dist": 0.43505880432092825,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 332.451,
+            "end_time": 336.673,
+            "text": "Ah, vos le pediste disculpas a los burros. ",
+            "cosine_dist": 0.8877475899780842,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 336.753,
+            "end_time": 343.216,
+            "text": "No, no, claro.  Pobre, haznos... Compararlo con este señor que es verdadero... A ver, primero... ",
+            "cosine_dist": 0.5523498553336277,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 346.098,
+            "end_time": 348.399,
+            "text": "Igual estuvo muy bien porque dijo que milagros no hace. ",
+            "cosine_dist": 0.9389533142859076,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 348.679,
+            "end_time": 385.046,
+            "text": "No, bueno, está bien, pero con eso se aleja.  Y aparte, yo te hago una pregunta en serio, Luis.  Si todo el mundo logra controlar la inflación, entonces no es un milagro.  Porque el milagro tiene que ser algo excepcional.  O sea, los países que tenemos inflación somos cinco.  Ahora, vamos a esto.  A lo que quiero ir es lo siguiente.  El monopolio... O sea, de última, podrá afectar al nivel de precios, pero nunca la tasa de variación.  La tasa de variación es un problema macroeconómico que tiene que ver con lo que vos hagas en el Banco Central.  La otra mentira, que tampoco hay que dejársela pasar, que dice, no, bueno, que es la guerra.  ¡Mentira! ",
+            "cosine_dist": 0.3934702458623458,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 385.487,
+            "end_time": 386.387,
+            "text": "El presidente dijo... ",
+            "cosine_dist": 0.9897524744060932,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 386.547,
+            "end_time": 387.407,
+            "text": "Pero es que es mentira. ",
+            "cosine_dist": 0.8730207329969362,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 387.587,
+            "end_time": 394.11,
+            "text": "El presidente dijo, a ver, era, como dijo, más o menos, del cincuenta por ciento, más o menos entre un diez y un doce la guerra. ",
+            "cosine_dist": 0.9069559636422037,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 394.59,
+            "end_time": 422.937,
+            "text": "Mentira.  Mentira.  A ver, mirá, vamos a hacerlo con un ejemplo.  Suponete que por alguna... suben los precios internacionales de los alimentos.  Y vos no podés dejar de mandar alimento, porque si no te morís de hambre.  Entonces, digamos, convalidás ese aumento de precio.  Quiere decir que entonces, si vos estás consumiendo lo mismo y pagás un precio más alto, ahora estás gastando más plata ahí.  Si vos estás gastando más plata ahí, en otro lugar tenés que gastar menos.  Entonces, el precio que subió acá, en otro lado, tiene que caer. ",
+            "cosine_dist": 0.4029028028696644,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 423.297,
+            "end_time": 424.478,
+            "text": "Entonces, es falso. ",
+            "cosine_dist": 0.902534907272392,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 424.918,
+            "end_time": 449.489,
+            "text": "Solamente vos podrías tener inflación si aparece el Banco Central, emite dinero y convalida que el precio que tiene que caer no caiga y, por ende, el que tiene que subir, sube más.  Por lo tanto, si quiere ir a buscar el problema, que lo vaya a buscar al Banco Central.  Luis, en los últimos... Dos años, este gobierno estafó a los argentinos con emisión monetaria para financiar el déficit fiscal. ",
+            "cosine_dist": 0.46044677015675584,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 449.629,
+            "end_time": 450.929,
+            "text": "¿Cómo estafó?  A ver, explícame. ",
+            "cosine_dist": 0.9128674146121107,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 451.069,
+            "end_time": 462.171,
+            "text": "Es una estafa.  A ver, lo hago con un ejemplo muy cotidiano para que se vea.  Suponete que estamos en una economía que hace transacciones en monedas de oro. ",
+            "cosine_dist": 0.40178742127964895,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 463.252,
+            "end_time": 472.586,
+            "text": "¿Tengo que suponer eso?  Sí.  Muchachos... Estamos transando monedas de oro, Federico.  Vamos a comerciar.  Bueno, dale. ",
+            "cosine_dist": 0.7992691086024919,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 472.906,
+            "end_time": 479.028,
+            "text": "Entonces, sucede que ahora viene un amigo mío, un físico y otro, un químico, que logran transformar el plástico en oro. ",
+            "cosine_dist": 0.46912666826425264,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 479.508,
+            "end_time": 480.269,
+            "text": "Unos alquimistas. ",
+            "cosine_dist": 1.0100396318360505,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 481.489,
+            "end_time": 484.25,
+            "text": "Entonces, ¿qué empezamos a hacer?  Empezamos a comprar plástico. ",
+            "cosine_dist": 0.4766829227989676,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 484.27,
+            "end_time": 485.05,
+            "text": "¿Son amigos tuyos? ",
+            "cosine_dist": 0.8821675983106183,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 485851,
+            "end_time": 486151,
+            "text": "Es una... ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 486.611,
+            "end_time": 489.872,
+            "text": "No, porque está el Bitcoin también.  Hay mucho lío con eso también. ",
+            "cosine_dist": 0.8535632153966819,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 490.132,
+            "end_time": 508.304,
+            "text": "Entonces, ¿qué es lo que pasa?  Vos... Entonces empezamos a falsificar ese oro.  Mientras que ese oro esté en mi casa, ¿qué problema hay?  Ninguno.  Suponete que lo uso para decorar mi casa.  No pasa nada, no jode para nada.  Ahora, suponete que ahora lo queremos usar.  Entonces yo vengo y te digo, Luis, ¿me cambias tu lingote de oro por el mío?  ¿Por el mío? ",
+            "cosine_dist": 0.3730862582640405,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 508.965,
+            "end_time": 510.946,
+            "text": "¿Es el que tus amigos convirtieron en plástico? ",
+            "cosine_dist": 0.9121016028486387,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 511.066,
+            "end_time": 512.707,
+            "text": "Y te resultaría raro. ",
+            "cosine_dist": 0.7648666740470306,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 512.748,
+            "end_time": 513.488,
+            "text": "Qué bandido, ¿eh? ",
+            "cosine_dist": 1.0069951300536144,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 513.528,
+            "end_time": 520.323,
+            "text": "Y suponete que después te digo... Y si te doy dos, en el fondo te estoy estafando.  ¿Cómo se hace esto en la economía? ",
+            "cosine_dist": 0.5105015973616702,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 520.383,
+            "end_time": 522.725,
+            "text": "Lo que vos querés decir es que cuando nos daban pesos... ",
+            "cosine_dist": 0.8816474953329072,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 524.086,
+            "end_time": 549.29,
+            "text": "Para financiar el déficit fiscal, eso es una estafa.  Y eso se manifiesta después como inflación y una pérdida de poder adquisitivo del dinero.  Entonces, ¿qué significa esto?  Si el gobierno en los últimos dos años se emitió por el equivalente de once puntos del PBI, este gobierno se estuvo robando a un ritmo de cinco puntos y medio el PBI año a año con emisión monetaria instrumentado desde esa institución nefasta llamado Banco Central de la República Argentina. ",
+            "cosine_dist": 0.4707704144430216,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 549.31,
+            "end_time": 553.455,
+            "text": "A ver, ¿por qué y para qué?  ¿Por qué para la economía y por qué y para qué para la política? ",
+            "cosine_dist": 0.7512491508164051,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 554.562,
+            "end_time": 562.068,
+            "text": "Bueno, en realidad, primero porque están financiando el déficit fiscal.  O sea que están financiando la fiesta, la joda de la política. ",
+            "cosine_dist": 0.4440887665068205,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 563.149,
+            "end_time": 563.909,
+            "text": "El plan platita. ",
+            "cosine_dist": 0.9611393197199782,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 564.35,
+            "end_time": 576.179,
+            "text": "Por.  ejemplo, pero el efecto del plan platita todavía no se vio.  Pensá que cuando vos emitís un peso, el impacto en precios tarda dieciocho meses.  O sea, todavía no estás viendo el plan platita. ",
+            "cosine_dist": 0.5378113426522022,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 576.239,
+            "end_time": 590.308,
+            "text": "A ver, los... Treinta mil millones de pesos, después va a estar Santilli, hablando de la provincia de Buenos Aires, que se gastaron, que se gastaron, que le dio el gobierno nacional a Kicillof para las elecciones, treinta mil millones de pesos. ",
+            "cosine_dist": 0.7706934906490496,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 591.689,
+            "end_time": 604.088,
+            "text": "Sí, pero ese mes, ese diciembre, se patinaron de déficit seiscientos mil millones de pesos.  O sea, es un descalabro lo que hicieron.  Y eso no lo vas a ver, todavía no lo estás viendo, lo vas a ver dentro de... ",
+            "cosine_dist": 0.47110041986098306,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 605.229,
+            "end_time": 607.17,
+            "text": "A ver, no lo vas a ver en el impacto de la inflación. ",
+            "cosine_dist": 0.9200778704562458,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 607.31,
+            "end_time": 610.751,
+            "text": "Todavía no está ese impacto.  Faltan como quince meses para que lo veas. ",
+            "cosine_dist": 0.6171206301281416,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 611.112,
+            "end_time": 615.854,
+            "text": "Pero ahora vamos a tener, para marzo vamos a tener una inflación, dicen algunos, del cinco punto siete por ciento. ",
+            "cosine_dist": 0.7617759479208941,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 615.914,
+            "end_time": 622.077,
+            "text": "Pero Luis, a ver, financiamos siete punto cuatro del PBI, digamos, durante el dos mil veinte. ",
+            "cosine_dist": 0.6728514248881093,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 622.097,
+            "end_time": 623.858,
+            "text": "¿Qué significa eso, para que la gente lo entienda? ",
+            "cosine_dist": 0.9191110673220061,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 624.74,
+            "end_time": 658.843,
+            "text": "Emitimos a Mansalva, tiramos peso a la calle para financiar la fiesta de la política.  Entonces, y Alberto Fernández se ufanaba de cómo él manejaba la pandemia, siendo una de las economías que más cayó en el mundo.  Es más, el problema del mundo durante la pandemia era la deflación.  ¿Por qué era el problema la deflación?  Porque cuando la gente se asusta, deja de consumir bien y ¿qué hace?  Acumula dinero.  Entonces eso hace que el poder adquisitivo de la moneda suba, es decir, que tenga deflación.  ¿Y acá por qué no?  Pero acá, digamos, ¿vos te vas a quedar con pesos, Luis? ",
+            "cosine_dist": 0.4025052755343812,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 659.183,
+            "end_time": 669.449,
+            "text": "A ver, ¿vos me preguntás a mí?  No, bueno, tampoco hay muchos instrumentos para... Bueno, la gente huye, obviamente.  ¿Qué hace?  Compra bienes. ",
+            "cosine_dist": 0.7963447378228856,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 669.469,
+            "end_time": 690.061,
+            "text": "Y huye como puede.  después del rodrigazo la salida histórica es acumular dólares.  O sea, hay gente que acumula dólares, hay gente que acumula en ladrillos, o sea, en propiedades, pero acá hay gente que hasta acumulaba alimentos y los metía en el freezer porque sabía que tenían que comprar al principio del mes. ",
+            "cosine_dist": 0.35436939432423364,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 690.081,
+            "end_time": 693.444,
+            "text": "Ahora mismo están acopiando alimentos secos, ¿no?  Exactamente. ",
+            "cosine_dist": 0.8216172939829236,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 693.504,
+            "end_time": 723.366,
+            "text": "De hecho, las personas más vulnerables tienen que hacer eso porque si le erran en ese cálculo, no comen.  Entonces, ahora fíjate el nivel de locura que hemos llegado.  En el país de los alimentos tener que hacer la cuenta para poder llegar a comer.  Entonces, ¿qué más hace falta para que esta gente se dé cuenta de que hicieron un desastre y que todavía lo peor no llegó?  Porque el día que vos generes la crisis política que te hace caer la demanda de dinero... ",
+            "cosine_dist": 0.3397156511500574,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 723.647,
+            "end_time": 724.347,
+            "text": "Ahí viene la hiper. ",
+            "cosine_dist": 0.9994569350817393,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 724.587,
+            "end_time": 736.229,
+            "text": "Ahí viene la hiper, claro.  Vos vas a tener algo dos veces peor que el rodrigazo.  Ponele, ahí se multiplicó por seis, si multiplicamos por seis ahora, iríamos a trescientos sesenta de inflación. ",
+            "cosine_dist": 0.3991971614748181,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 736.249,
+            "end_time": 737.63,
+            "text": "De un día para el otro, eso es hiper. ",
+            "cosine_dist": 0.9397875489016779,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 738.17,
+            "end_time": 747.915,
+            "text": "Claro, ahí tendrías la aceleración.  Pero no solo eso, Luis, sino que estamos partiendo de una base de diez veces más de pobres.  En aquel momento se multiplicaron por seis veces los pobres. ",
+            "cosine_dist": 0.4639816789650305,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 748.035,
+            "end_time": 748.996,
+            "text": "Eran cinco puntos. ",
+            "cosine_dist": 0.9772201744571763,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 749.096,
+            "end_time": 752.552,
+            "text": "Cuatro por ciento, saltó a veinticinco.  Ponerle cinco o seis veces. ",
+            "cosine_dist": 0.5303938648671709,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 752.952,
+            "end_time": 754.553,
+            "text": "Ahora hay treinta y siete puntos... ",
+            "cosine_dist": 0.8207734406837703,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 754.574,
+            "end_time": 760.138,
+            "text": "Ponerle cuarenta, redondearlo en cuarenta.  O sea, ¿a qué vamos a ir?  A noventa y cinco por ciento de pobres. ",
+            "cosine_dist": 0.4500171975592172,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 760.478,
+            "end_time": 766.763,
+            "text": "Y por eso vos decís que no vas a quitar los planes sociales en el caso hipotético de que, no sé, seas presidente. ",
+            "cosine_dist": 0.6891344351574784,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 767.123,
+            "end_time": 784.712,
+            "text": "Mira, Luis, esto... A ver, si vos vas a libros que yo he publicado... Esto es lo bueno de haber publicado cosas.  Hay libros míos del dos mil tres explicando que vos no podés sacar los planes sociales, eso se justifica en base a un... que es la ética de la emergencia de Ayn Rand.  O sea, los que reciben... ",
+            "cosine_dist": 0.42069402471243256,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 784.732,
+            "end_time": 790.594,
+            "text": "Pero la emergencia arrancó en dos mil uno y no termina.  Las emergencias son como los impuestos, ¿viste? ",
+            "cosine_dist": 0.7592154692386661,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 790.934,
+            "end_time": 813.291,
+            "text": "Eso estoy de acuerdo, por eso.  Pero a lo que digo es, el día que vos arranques a hacer las reformas, vos no podés atacar justamente a las víctimas del sistema.  Los que reciben los planes en general son víctimas del sistema.  Vos tenés que ir, no tenés que ir sobre el efecto, sino tenés que ir con la causa.  Y la causa es la casta.  Entonces vos tenés que ir contra todas las partidas. ",
+            "cosine_dist": 0.3661484325654637,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 813.311,
+            "end_time": 822.135,
+            "text": "¿Pero qué significa la casta?  Porque la casta es... Si vos le metés en todo casta... Debe haber políticos que son honestos.  Y después, ¿casta es qué?  El gasto público.  El gasto público es casta, eso sí. ",
+            "cosine_dist": 0.8235118695603625,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 822.575,
+            "end_time": 823.435,
+            "text": "Bueno, pero a ver... ",
+            "cosine_dist": 0.76263906730292,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 823.716,
+            "end_time": 830.916,
+            "text": "O casta o... O... O manejar el ejército de pobres para seguir acumulando poder político. ",
+            "cosine_dist": 0.7940701300513298,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 830.956,
+            "end_time": 835.618,
+            "text": "Por ejemplo, hacer casta es que vos aplicás políticas que sabés que fracasan... ",
+            "cosine_dist": 0.4832571440476927,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 836.978,
+            "end_time": 839.499,
+            "text": "Porque tu único objetivo es acumular más poder y quedarte. ",
+            "cosine_dist": 0.7852657482248431,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 839.839,
+            "end_time": 893.276,
+            "text": "Exacto.  Ejemplo, el rey de la casta, ¿quién es?  Alberto Fernández, porque cuando estaba fuera... La criticaba Cristina con el tema de la inflación y le decía, no mande a Moreno y a los chicos de la cámpora del supermercado, vaya y pídale cuentas a Marco del Ponte.  O sea, en ese momento entendía la naturaleza monetaria de la inflación.  Ahora no, ahora es culpa de todo el mundo, menos de él.  Y en realidad es de él.  Porque si la política monetaria, como dijimos hace un rato, tiene dieciocho meses de rezago, este gobierno tiene veintisiete meses.  Por lo tanto, digamos, es toda culpa de él.  Entonces, o sea, y que no venga con apero Macri, porque justamente una de las cosas que pasó cuando, renuncia a Caputo al Banco Central y asume Sanleris, frisó la cantidad de dinero.  O sea, con lo cual le terminó generando un beneficio, esa inflación de la que él se ufanaba, que le hizo bajar al treinta y siete por ciento, fue a pesar de él. ",
+            "cosine_dist": 0.38839112548976307,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 893.737,
+            "end_time": 923.008,
+            "text": "Entiendo.  Y cuando vos hablas de... Bueno, primero decís que, a ver, cuando sea presidente de los militares voy a mantener a los presidentes.  Después dijiste que los argentinos nos refugiamos en el dólar, eso está claro.  Cuando vos hablas de dolarización, hubo mucha gente que... no está de acuerdo con vos, que está en todo su derecho.  Veamos primero a Carlos Melconian, este es un textual de Melconian, ahí lo tenés en la pantalla, Javier.  Los que tienen un proyecto dolarizador tienen que llamar a David Copperfield para arreglar el balance del Banco Central, Carlos Melconian. ",
+            "cosine_dist": 0.8127099385000407,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 923.689,
+            "end_time": 935.473,
+            "text": "Me extraña que haga referencia entonces al balance del Banco Central, porque justamente si uno mira el balance del Banco Central, vos sabrías... que podés hacer la operación.  Es decir, justamente... ",
+            "cosine_dist": 0.4255238705924841,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 935.533,
+            "end_time": 936.774,
+            "text": "Pero no era que no había dólares. ",
+            "cosine_dist": 0.823096336234464,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 936.794,
+            "end_time": 955.287,
+            "text": "No, no, no, pero... A ver, el punto es el siguiente.  La base monetaria, el dinero que emite el Banco Central es un pasivo.  Otro pasivo que emite son las LERICs, o sea, que devengan interés.  Yo digamos, o sea, la reforma tiene cuatro puntos, o sea, hubo mucha deshonestidad intelectual en cómo se discutió esto. ",
+            "cosine_dist": 0.3751186568162569,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 955.307,
+            "end_time": 957.008,
+            "text": "Acá tenés tiempo, así que desarrollalo. ",
+            "cosine_dist": 0.7901689221771276,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 957.068,
+            "end_time": 968.847,
+            "text": "Por eso yo te lo cuento.  La primera etapa es... La única justificación de verdad para tener un banco central es que sea prestamista de última instancia.  Es decir, cuando tenés una corrida, le ponga plata a los bancos para que puedan... ",
+            "cosine_dist": 0.35428292833536834,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 969.567,
+            "end_time": 970.548,
+            "text": "Para que no quiebren los bancos. ",
+            "cosine_dist": 0.8740347203440458,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 970.768,
+            "end_time": 1017.051,
+            "text": "Exactamente.  Es el único motivo por el cual existe.  Verdadero.  Después todos los demás son todas metáforas para justificar el robo de la política.  Pero, entonces... La primera parte de la reforma es reformar el sistema financiero.  Yo hablo de convertirlo a Banca Simon.  ¿Banca qué?  Banca Simon.  ¿Qué es eso?  Es un modelo de banca que se desarrolló durante la década del treinta en la Universidad de Chicago.  Ocho economistas lo desarrollaron.  para prevenir las corridas bancarias.  Es decir, que no tengas más este sistema de encaje fraccionario, que vos pones la plata en el banco, una parte la guarda, pero otra la presta.  Entonces, vas a tener lo que se llama el almacén de valor, que es como si fuera una caja fuerte, dejas la plata ahí, pagas un fee, y cuando querés te la llevas.  O sea, siempre.  Y después, si te gusta... Hay un nicho que dice que si te gusta... ",
+            "cosine_dist": 0.36471172454347245,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1017231,
+            "end_time": 1017652,
+            "text": "La pelusa. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1018.212,
+            "end_time": 1025.757,
+            "text": "Claro, el durazno, bancate la pelusa.  Bueno, esto es igual.  Te gusta la tasa de interés, anda a la banca de inversión.  Entonces, si vos vas a la banca de inversión, invertiste en un fondo que quebró, perdés vos. ",
+            "cosine_dist": 0.4387864057485412,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1027.917,
+            "end_time": 1031.14,
+            "text": "Es una decisión de un privado que se la banque el privado. ",
+            "cosine_dist": 0.8980276199195733,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1031.18,
+            "end_time": 1036.623,
+            "text": "Exactamente.  ¿Te gusta la tasa de interés?  Hace eso.  ¿A vos te gusta la tasa de interés? ",
+            "cosine_dist": 0.5893324788234722,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1036.803,
+            "end_time": 1038.243,
+            "text": "¿Te gusta? ",
+            "cosine_dist": 0.8379529515059239,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1039.484,
+            "end_time": 1043.808,
+            "text": "A ver, digamos, yo me puedo manejar solo mis fondos, por eso. ",
+            "cosine_dist": 0.5672835897726333,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1045.068,
+            "end_time": 1048.23,
+            "text": "¿Sos audaz para manejar tus fondos? ",
+            "cosine_dist": 0.7601245410115728,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1048.349,
+            "end_time": 1054.074,
+            "text": "No, no.  Soy bastante averso al riesgo, por decirlo de alguna manera.  Ok, ok. ",
+            "cosine_dist": 0.4777151875915584,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1054.494,
+            "end_time": 1057.496,
+            "text": "¿Al averso o que no es al verso? ",
+            "cosine_dist": 0.8427736007025426,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1057.516,
+            "end_time": 1061.018,
+            "text": "Claro, tiene que ver con aversión al riesgo, o sea, que rechazas el riesgo. ",
+            "cosine_dist": 0.6106258171929476,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1061.078,
+            "end_time": 1062.759,
+            "text": "Pero perdón, no te quería interrumpir. ",
+            "cosine_dist": 0.8930193590360205,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1062.799,
+            "end_time": 1096.078,
+            "text": "La segunda etapa es, una vez que vos hiciste esa separación de la banca, en una hiper, ¿cuánto tardás?  Nada, lo haces instantáneo.  En una situación normal, tardás en cuánto liquida la cartera del banco.  Técnicamente se llama duration.  Ok, ok.  Ahí te pasas a banca libre.  ¿Qué quiere decir esto?  Que a partir de ahora, los bancos, las instituciones financieras tienen que competir y arrancarse los ojos entre ellos.  ¿Eso qué implica?  Que cuando vos te endeudes, lo vas a hacer más barato.  Y cuando te paguen tasa, te van a pagar tasa más grande.  Es decir, vas a comprimir el spread, lo que ganan las instituciones. ",
+            "cosine_dist": 0.36196381888508555,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1096.118,
+            "end_time": 1098.179,
+            "text": "Ok, ya me diste uno o dos puntos.  Dos puntos, claro. ",
+            "cosine_dist": 0.7380177604297327,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1098.559,
+            "end_time": 1109.109,
+            "text": "Una vez que haces eso, lanzás la competencia de moneda.  Es decir, que la gente elija la moneda que se le gana.  Ahora, la realidad es, los argentinos ya eligieron su moneda.  seguramente elijan... ",
+            "cosine_dist": 0.45295464510102235,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1109.129,
+            "end_time": 1110.71,
+            "text": "Los ciudadanos ya eligieron el dólar. ",
+            "cosine_dist": 0.9433963697897316,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1110.95,
+            "end_time": 1147.039,
+            "text": "Eligieron el dólar.  Entonces, cuando vos haces eso, vos tenés que liquidar la base monetaria y las LELICs.  ¿Por qué están las LELICs en el balance del Banco Central?  Porque vos financiás al fisco, le das guita, le das emisión monetaria a cambio de un bono.  ¿Y cuál es el punto?  El punto es que cuando vos haces eso, después ese dinero entra a la economía y genera inflación.  Entonces, ¿qué hacen?  Lo esterilizan.  Entonces te dan una LELIC y sacan la plata y de esa manera el dinero está fuera del sistema.  Pero hoy tenemos... casi cinco billones de pesos en LELICS.  Entonces, digamos, tenemos un descontrol monetario. ",
+            "cosine_dist": 0.3387298462824132,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1147.079,
+            "end_time": 1149.681,
+            "text": "Entonces, vos cuando hablas de dolarización, ¿qué decís? ",
+            "cosine_dist": 0.8821866316260258,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1150.001,
+            "end_time": 1181.217,
+            "text": "Entonces, las LELICS tenés que reconocer lo que verdaderamente es, que es deuda pública, que es lo que siempre debería haber sido.  ¿Y qué es lo interesante?  Vos le estás pasando un instrumento que es de pésima calidad, que es ilíquido, ¿sí?  O sea, ilíquido quiere decir que si lo querés liquidar en el mercado no podés tener muchas chances.  Y se lo vas a cambiar por un bono en dólares... de una economía que está reestructurando y que además va a tener fuerte liquidez.  Por lo tanto, si alguien quiere los depósitos, los bancos... O sea, vos hablás de una dolarización bastante... ",
+            "cosine_dist": 0.4030548104270232,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1181.517,
+            "end_time": 1182.558,
+            "text": "No es una dolarización... ",
+            "cosine_dist": 0.9094425581376457,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1183.258,
+            "end_time": 1191.221,
+            "text": "No es la convencional.  Mira, en el armado de sistemas financieros y política monetaria, vos tenés siete estadios. ",
+            "cosine_dist": 0.4750213312684213,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1193.033,
+            "end_time": 1194.094,
+            "text": "Bueno, yo... ",
+            "cosine_dist": 0.8534183643240008,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1194.114,
+            "end_time": 1201.036,
+            "text": "No, no, no.  Ponele, la convertibilidad era el estadio tres, que era dinero fiduciario... ¿Y la dolarización? ",
+            "cosine_dist": 0.5460897354423213,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1201.076,
+            "end_time": 1203.437,
+            "text": "qué estadio es? ",
+            "cosine_dist": 0.8248213110048125,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1203.477,
+            "end_time": 1215.521,
+            "text": "Dinero fiduciario y banca, digamos, de encaje fraccionario, pero ese dinero fiduciario respaldado.  La dolarización, por ejemplo, como en Ecuador, es estadio cuatro.  Yo estoy proponiendo estadio siete. ",
+            "cosine_dist": 0.4280337976879057,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1216.331,
+            "end_time": 1218.212,
+            "text": "¿Y qué significa?  ¿Qué me querés decir con eso? ",
+            "cosine_dist": 0.9616041183398807,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1218.892,
+            "end_time": 1223.395,
+            "text": "Es el sistema más libre, es anticorrida y con libre elección de moneda. ",
+            "cosine_dist": 0.5846220186962304,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1223.615,
+            "end_time": 1236.882,
+            "text": "Déjame que te diga lo que, no sé si tenemos el video de lo que dijo Prat-Gay acá cuando nosotros lo hablamos.  Ah, no, es un textual de Prat-Gay, ¿no?  Que lo dijo acá, creo.  Los que proponen dolarización no dicen toda la verdad. ",
+            "cosine_dist": 0.8381029065143332,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1238.217,
+            "end_time": 1244.702,
+            "text": "Bueno, el problema es que, de vuelta, fue una crítica intelectualmente deshonesta lo que hizo Alfonso. ",
+            "cosine_dist": 0.5254269166414451,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1244.722,
+            "end_time": 1245.323,
+            "text": "¿Por qué deshonesta? ",
+            "cosine_dist": 0.9821341988019787,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1245.923,
+            "end_time": 1273.324,
+            "text": "Porque, a ver, yo expliqué las reformas, cuáles son las reformas.  Entonces, alguien se agarró del título y se hacen críticas sobre el título y no se estudia lo que yo verdaderamente dije.  Entonces, por ejemplo, vos... Él te dice un plan Bónex.  Estás metiendo un plan Bónex.  Disculpame, o sea, vos ya tenés un plan.  Es como un plan Bónex.  ¿O qué crees que tienen los bancos?  Están abarrotados... ",
+            "cosine_dist": 0.3940785407262304,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1273.344,
+            "end_time": 1276.227,
+            "text": "De pesos.  Del ELIX.  Del ELIX. ",
+            "cosine_dist": 0.8335188521353634,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1276.448,
+            "end_time": 1295.26,
+            "text": "O sea, con lo cual, digamos, el bono ahí lo tenés y la realidad es que tenés un bono que te van a licuar.  Entonces... Primero, compararlo con el plan Bónex, que fue a la fuerza, es una mala idea.  Cuando vos no considerás ni siquiera el cambio de instrumentos, las reformas estructurales en las que esto está enmarcado, es intelectualmente deshonesto. ",
+            "cosine_dist": 0.3914499189049606,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1295.38,
+            "end_time": 1327.478,
+            "text": "Está bien, yo la verdad que no soy quien para decir si está bueno o no está malo, pero está bien que sea el debate, me parece interesante el debate.  Yo te puedo pedir un favor, no te vayas de acá, porque esto sí es algo que hace, no toda la clase política, pero sí lo hace parte del kirchnerismo.  Cristina utiliza el Senado como si fuera de su propiedad.  y cuando decimos que lo utiliza como si fuera de su propiedad es porque no rinde cuentas, gasta lo que quiere y ni siquiera respeta las normas que están en la propia normativa del Senado y de la ley.  ¿No es así Silvina? ",
+            "cosine_dist": 0.7565273083645959,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1328.266,
+            "end_time": 1337.648,
+            "text": "Sí, efectivamente.  A ver, mira, yo creo que te acordarás, todos nos acordamos, el video de los piedrazos a todo el Senado al despacho de Cristina. ",
+            "cosine_dist": 0.8202825944637583,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1337.908,
+            "end_time": 1341.989,
+            "text": "Bueno, ese es el video mentiroso, digamos.  Exactamente.  Ahí también le pusieron un poco de... ",
+            "cosine_dist": 0.873482915218582,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1342.029,
+            "end_time": 1361.544,
+            "text": "Exactamente, lo que vimos ahí.  Bueno, esta semana se conoció cuánto iban a salir a costar los arreglos del despacho de Cristina, los arreglos del Senado en.  general.  Ajá.  millones doscientos mil pesos.  Eso fue una información oficial que fue aportada en la propia causa donde se investiga. ",
+            "cosine_dist": 0.8322784879661866,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1361.785,
+            "end_time": 1367.989,
+            "text": "Claro, ella dijo, nosotros hicimos el cálculo de lo que nos salía a refaccionar eso, ¿no?  Exactamente. ",
+            "cosine_dist": 0.8456040485026599,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1368.189,
+            "end_time": 1382.899,
+            "text": "Dos millones de pesos en reposición de vidrios, un millón y medio en material textil y dos millones setecientos mil en carpintería y revestimiento.  La verdad que me pareció bastante costoso, ¿no?  Porque más allá de la puesta en escena, era un vidrio que se había roto. ",
+            "cosine_dist": 0.8100854800301481,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1383.439,
+            "end_time": 1396.294,
+            "text": "Y empecé a ahogar... Perdón, la verdad que sí, se rompió un... Yo no quiero minimizar lo que le pasó a la vicepresidenta ni a todo lo que recibieron piedrazos, pero se rompió un ventanal, seis palos y pico por un ventanal.  Claro, exactamente. ",
+            "cosine_dist": 0.786401290126382,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1396.314,
+            "end_time": 1430.498,
+            "text": "Bueno, como siempre, está bien que lo quieran agrandar, pero como siempre tratan de ver la oportunidad para sumarle más gastos.  Y a partir de ahí empecé a ver la memoria del dos mil veintiuno del Senado.  Todos los años el Senado presenta un poco de qué se hizo, cuánto se gastó.  Y bueno, fui a mirar la memoria del dos mil veintiuno de Cristina.  Y ahí me encontré con otros números que me llamaron muchísimo la atención.  En gastos de reparaciones por licitaciones, porque a su vez hay muchos que son contrataciones directas, más de trescientos veinte millones de pesos.  Pero te voy a contar algunas de las reparaciones que se hicieron en el Senado.  Sí. ",
+            "cosine_dist": 0.8179011906018491,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1431.198,
+            "end_time": 1434.0,
+            "text": "Se lo pasaron, o sea, rompían las cosas para volver a arreglarlas. ",
+            "cosine_dist": 0.8494777961753378,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1434.06,
+            "end_time": 1455.371,
+            "text": "Mira, revisión y adecuación de fachadas.  Servicio de provisión, pulido e hidroláquedado de pisos de madera.  Impermeabilización de patio y terraza.  Esto, mira, me llamó la atención.  Provisión y colocación de vidrios de seguridad en oficinas, pasillos de circulación y áreas comunes.  O sea, ponían vidrios de seguridad, pero evidentemente... ",
+            "cosine_dist": 0.8356603014550574,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1455.391,
+            "end_time": 1456.652,
+            "text": "Para que no la miren a los ojos. ",
+            "cosine_dist": 0.8524273426260506,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1458.573,
+            "end_time": 1464.699,
+            "text": "No, bueno, o para que no se puedan romper, pero en esa ventana evidentemente no lo han puesto porque si no tendría que haber sucedido esto. ",
+            "cosine_dist": 0.8336083254897546,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1464.719,
+            "end_time": 1465.38,
+            "text": "Mirá vos. ",
+            "cosine_dist": 1.0097132937019708,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1465.42,
+            "end_time": 1466.421,
+            "text": "Servicio de reparación. ",
+            "cosine_dist": 0.887200755928884,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1466.501,
+            "end_time": 1476.65,
+            "text": "Qué bueno, para qué bueno lo que decís.  Provisión y colocación de vidrio de seguridad en oficinas, pasillos de circulación y horas comunes, menos en la ventana que se rompió con el piedrazo.  Raro, ¿no? ",
+            "cosine_dist": 0.8536637536599843,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1476.73,
+            "end_time": 1495.308,
+            "text": "Porque evidentemente el que tiró el piedrazo tenía que conocer que esa ventana no tenía vidrio de seguridad.  Raro.  Servicio de reparación y puesta a puntos de bombas del sistema de calefacción del Palacio Legislativo.  En total del dos mil veintiuno en reparaciones, cuatrocientos cuarenta y tres millones de pesos.  Hasta acá una cifra exorbitante. ",
+            "cosine_dist": 0.833663837743796,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1495.408,
+            "end_time": 1496.669,
+            "text": "Un montón de guita. ",
+            "cosine_dist": 0.8727226615279162,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1496.709,
+            "end_time": 1498.931,
+            "text": "Pero a esto le tenemos que sumar otro dato. ",
+            "cosine_dist": 0.9122314049985358,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1498.971,
+            "end_time": 1499.712,
+            "text": "¿Qué dibujo? ",
+            "cosine_dist": 0.9561723330391179,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1500.052,
+            "end_time": 1522.65,
+            "text": "A ver, este dibujo, esto que vemos que nos llama la atención, tendría que haber sido auditado por la propia auditoría interna del Senado.  Pero con excusa del COVID, que siempre les viene bien, decidieron que hay muchas cosas que no se habían auditado en el Senado.  Entre esas cosas tenemos el famoso Fondo Especial de Reserva, que lo hemos contado en programas anteriores. ",
+            "cosine_dist": 0.8105816344509486,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1522.67,
+            "end_time": 1528.395,
+            "text": "El Fondo de Reserva es un instrumento para gastar a mansalva lo que se le antoje. ",
+            "cosine_dist": 0.8375892421013419,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1528.415,
+            "end_time": 1530.396,
+            "text": "Y encima no es auditado. ",
+            "cosine_dist": 0.8408299907516453,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1530.436,
+            "end_time": 1534.84,
+            "text": "Le ponen el título de Fondo de Reserva para que no sea pasible de auditoría. ",
+            "cosine_dist": 0.810591480523323,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1535.38,
+            "end_time": 1553.011,
+            "text": "...de aplicación del Fondo Especial de Reserva... ...dispuesto por la disposición tal del dos mil dieciocho... ...por motivo de contrataciones de obras y servicios... ...no se han realizado intervenciones en los anexos de pagos... ...dado que al veintidós de noviembre del dos mil veintiuno... ...los mismos no han sido girados a esta dirección general... ...todo dos mil veintiuno no fue auditado... ",
+            "cosine_dist": 0.8536250914555328,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1553.151,
+            "end_time": 1553.832,
+            "text": "...y mirá este otro... ",
+            "cosine_dist": 0.9412031974829593,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1554.392,
+            "end_time": 1577.437,
+            "text": "rendiciones de cuentas, o sea, lo que estábamos hablando recién, en el contexto de la pandemia, medidas decretadas debido a la situación sanitaria, que es de público conocimiento, al veintidós de noviembre del dos mil veintiuno, no han sido girada la documentación relativa a la rendición de cuentas, etcétera, etcétera, que está dispuesta por normativa, o sea, no rinde cuentas, no la auditan, y gasta millones en supuestas ",
+            "cosine_dist": 0.8191340253013482,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1577.577,
+            "end_time": 1578.317,
+            "text": "reparaciones, ",
+            "cosine_dist": 0.8986050625670154,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1578.337,
+            "end_time": 1580.577,
+            "text": "que bueno, que sale de la plata de todos nosotros. ",
+            "cosine_dist": 0.86529933208618,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1580.617,
+            "end_time": 1582.958,
+            "text": "Qué impresionante. ",
+            "cosine_dist": 0.9732028771981335,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1582978,
+            "end_time": 1583458,
+            "text": "Ahora, ¿cómo? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1584.497,
+            "end_time": 1588.718,
+            "text": "¿Cómo se controla esto?  Primero, estamos de acuerdo que es un escándalo. ",
+            "cosine_dist": 0.8677760165200759,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1588.778,
+            "end_time": 1606.802,
+            "text": "Es un escándalo.  A ver, pero si me permitís, explico por qué pasa esto.  Mira, Milton Friedman decía, hay cuatro formas de gastar.  Vos podés gastar la tuya o la de otros.  La podés gastar en vos o en otro.  Lo mejor que podés hacer es gastar la tuya en vos mismo, porque vos sabés lo que te cuesta ganarla y vos sabés bien lo que querés. ",
+            "cosine_dist": 0.3774332792850702,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1607.878,
+            "end_time": 1611.221,
+            "text": "Eso está bueno porque te pones los límites vos mismo, porque si cuánto me costó, claro. ",
+            "cosine_dist": 0.9308692186205568,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1611.241,
+            "end_time": 1612.382,
+            "text": "Claro, porque es con la tuya. ",
+            "cosine_dist": 0.6586610237809247,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1612.402,
+            "end_time": 1614.645,
+            "text": "Si no la ganaste en el casino, no te vino de arriba, eso. ",
+            "cosine_dist": 0.8318496468142861,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1615.105,
+            "end_time": 1625.195,
+            "text": "Exactamente, no sabe lo que cuesta ganarla.  Entonces, y además vos sabés lo que vos querés.  La otra forma es gastar la tuya en otros.  ¿Se acuerdan?  Haces un regalo, tratás de quedar bien con lo menos posible, minimizás el costo. ",
+            "cosine_dist": 0.4472571477455277,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1625.375,
+            "end_time": 1630.06,
+            "text": "¿Te parece?  Sí.  Bueno, depende.  Hay gente más generosa que otra, ¿no? ",
+            "cosine_dist": 0.8537933697414717,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1630.66,
+            "end_time": 1633.383,
+            "text": "O hay gente más hipócrita que otra.  No importa. ",
+            "cosine_dist": 0.6519262969307814,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1633.403,
+            "end_time": 1635.765,
+            "text": "Vamos a decir que siempre se gasta. ",
+            "cosine_dist": 0.9133241371276772,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1635.785,
+            "end_time": 1662.663,
+            "text": "Vas a minimizar el costo, Luis.  Porque siempre el individuo... para que no caiga en una contradicción existencial, domina su pulsión de supervivencia.  Es el límite de la fibra íntima, si no te morís.  Porque lo que dicen que ponen a los demás por delante son todos mentirosos, porque si no donás todo lo que generás, ¿qué te va a pasar?  No vas a tener para comer, te vas a morir. ",
+            "cosine_dist": 0.37695307850882476,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1663.513,
+            "end_time": 1667.976,
+            "text": "Ahora, si lleva todo eso al extremo, obviamente. ",
+            "cosine_dist": 0.8664551242696332,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1668.016,
+            "end_time": 1673.38,
+            "text": "Bueno, esto es la lógica bajo la cual pensaba Borges, que es fenomenal, porque te permite ver cuando algo es ridículo. ",
+            "cosine_dist": 0.592913542317795,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1673.4,
+            "end_time": 1676.922,
+            "text": "Si estás enamorado, si tenés un gran amigo, le haces un regalo fantástico. ",
+            "cosine_dist": 0.838625743938177,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1676.942,
+            "end_time": 1722.425,
+            "text": "Pero eso es porque me genera satisfacción a mí.  O sea, yo disfruto de ver contento a un amigo mío y en función de eso le hago un regalo.  Entiendo, entiendo.  Pero volvamos al choreo.  Ahora, una cosa es... Después cuando vos gastás en vos la de otro.  Vos sabés la gente que yo conozco, digamos que cuando, digamos, o sea, viaja por negocios, o sea, viaja, no en ejecutiva, viaja en primera.  Pero después cuando él tiene que, con la propia, viaja en el gallinero.  O sea, con lo cual, digamos, cuando gastan la de otro, despilfarran.  Pero ¿cuál es la peor forma de gastar?  En la de otros, en otros.  Ahora, cuando vos tenés autócratas que se gastan la de otros en otros y además perciben beneficio de gastar de más... ",
+            "cosine_dist": 0.41549016823215523,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1722.445,
+            "end_time": 1728.068,
+            "text": "Escúchame, ¿te puedo hacer una preguntita?  ¿Por qué a veces cambian la voz y de repente... ",
+            "cosine_dist": 0.8089537307255668,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1728.628,
+            "end_time": 1730.209,
+            "text": "No, porque tiene que ver con... ",
+            "cosine_dist": 0.8129177517608314,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1730.569,
+            "end_time": 1731.41,
+            "text": "Con la intensidad. ",
+            "cosine_dist": 0.9603191947843168,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1731.71,
+            "end_time": 1769.172,
+            "text": "Con la intensidad que voy acelerando.  Sí, sí.  Entonces, ya que siempre gastarla en otros es un disparate, por eso siempre funciona mal el Estado, pero hay gente que se ocupa de hacerlo funcionar peor.  ¿Para qué?  Para conseguir beneficios como contracara del monopolio de la violencia.  Porque la única forma que vos podés hacer estos desastres es porque tenés el aparato represivo de tu lado.  Si no, no podés hacerlo.  Y es lo que hace la casta política, y es lo que nos empobrece, y es lo que hace que la gente cada día esté más enojada.  Porque a ellos les va muy bien, al resto de los argentinos no. ",
+            "cosine_dist": 0.35900410433024055,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1770.272,
+            "end_time": 1773.175,
+            "text": "Entiendo.  Bueno, ahora, ¿cómo se evita esto? ",
+            "cosine_dist": 0.8032490782617525,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1774.697,
+            "end_time": 1782.321,
+            "text": "La única forma de achicar, de terminar con estos problemas, es achicando el tamaño del Estado.  Tenés que achicar el tamaño del Estado.  ¿Pero qué hace? ",
+            "cosine_dist": 0.5359255970020833,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1782.361,
+            "end_time": 1783.421,
+            "text": "¿Cerrarse el Senado? ",
+            "cosine_dist": 0.9094733620445575,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1783.961,
+            "end_time": 1808.44,
+            "text": "No, no, no.  Digamos, no.  Pero vos, a ver, lo primero que tenés que hacer es ir a los grandes curros.  La obra pública, las transferencias discrecionales, el rol que tienen los subsidios económicos, o las jubilaciones de... Mirá, ¿vos sabés que el déficit que generan todas las empresas del Estado... Es cero punto nueve del PBI.  ¿Sabés cuántas son las jubilaciones de privilegio las que quedaron? ",
+            "cosine_dist": 0.3879514121852973,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1808540,
+            "end_time": 1808840,
+            "text": "¿Cuántos? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1809.581,
+            "end_time": 1811.082,
+            "text": "Cero coma siete, cero coma ocho. ",
+            "cosine_dist": 0.5387686197202536,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1811.142,
+            "end_time": 1813.183,
+            "text": "¿En serio tanto? ",
+            "cosine_dist": 0.7320481510078805,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1813.603,
+            "end_time": 1822.848,
+            "text": "Y en el cero nueve que te dije antes, está Aerolíneas, pero Aerolíneas es una de ellas.  Bueno, viste, y todo el mundo se escandaliza porque pierde dos palitos por mes Aerolíneas. ",
+            "cosine_dist": 0.46627375262636006,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1822.888,
+            "end_time": 1825.61,
+            "text": "Bueno, pero es un escándalo igual, ¿eh? ",
+            "cosine_dist": 0.9046120243960993,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1826.892,
+            "end_time": 1845.92,
+            "text": "Obvio que es un escándalo.  Por eso, digamos, la propuesta que yo tengo con Aerolíneas es que la aerolínea se la demos directamente a todos sus empleados.  ¿Por qué?  Porque es un activo que hoy regalado es caro.  Entonces, se lo das a los empleados, los empleados son los dueños, y haces cielos abiertos y que compitan. ",
+            "cosine_dist": 0.4255429499252831,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1845.94,
+            "end_time": 1847.64,
+            "text": "Contéstame esta última pregunta agradeciéndote el tiempo. ",
+            "cosine_dist": 1.0015769274091761,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1847660,
+            "end_time": 1848160,
+            "text": "No, por favor. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1848.501,
+            "end_time": 1851.442,
+            "text": "¿Qué propuesta tenés para los planes sociales? ",
+            "cosine_dist": 0.7130165595664917,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1852.509,
+            "end_time": 1946.254,
+            "text": "Desde mi punto de vista, los planes sociales vos no los podés tocar en la primera etapa de lo que yo llamo... Tenés tres reformas, tres generaciones de reformas.  La primera tiene la reforma del Estado, bajar estos gastos espurios del sector público para bajar impuestos.  De hecho, la reforma tributaria que tenemos en mente es de los ciento setenta impuestos que hay, es llevarlo a diez.  O sea, ya tenemos... Sí, hay ciento sesenta que, ¿sabes cuánto recaudan?  Cero punto cuatro el PBI.  Es un curro enorme.  O sea, son ciento sesenta personas que se llevan medio puntito el PBI.  Visto macro es poco, visto en la personal es mucho.  Después de regular el mercado laboral hacia adelante... Abrir la economía, en todo esto también se hace en simultáneo la reforma monetaria.  ¿Y los planes sociales?  Wait.  Entonces eso te genera un fuerte crecimiento económico.  Eso te va a asegurar que durante quince años vas a crecer muy fuertemente.  Y vas a crecer intensivo, además, en mano de obra.  Por lo tanto, vas a tener un aumento de la P.A.  Vas a tener, digamos, más puestos de trabajo.  Vas a tener más remuneración porque son más productivos.  Y eso te permite hacer las reformas de segunda generación, que es... que los planes sociales los deje la gente porque les conviene ahora trabajar, ir a la reducción de la planta del Estado con programas de retiros voluntarios, pero ahora con un mercado laboral flexible, no como en los noventa, te va a permitir que eso sea absorbido, y también, ¿sabés qué te va a permitir hacer?  Ir con el tema de la reforma previsional, porque el sistema está quebrado.  Pero vos podés hacer todas estas reformas que he hecho en un contexto de tanto crecimiento, no vulnerás ningún derecho adquirido. ",
+            "cosine_dist": 0.38934093503890665,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1946.574,
+            "end_time": 1954.439,
+            "text": "Javier, gracias por venir.  Un placer.  Escuchame una cosita.  No te voy a decir cuál es el día de mi cumpleaños porque me vas a regalar cualquier cosa, un peine. ",
+            "cosine_dist": 0.8458017517804285,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1955.6,
+            "end_time": 1961.444,
+            "text": "La pregunta es, ¿por qué crees que yo tengo, digamos, tan baja la estima hacia tu persona? ",
+            "cosine_dist": 0.5078162180248476,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1961.524,
+            "end_time": 1962.345,
+            "text": "No, no, no la estima. ",
+            "cosine_dist": 0.9925246807432482,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1962.445,
+            "end_time": 1963.345,
+            "text": "No, no, no, pero aparte... ",
+            "cosine_dist": 0.8030046827602315,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1963.465,
+            "end_time": 1964.586,
+            "text": "Porque vos hablás de costo. ",
+            "cosine_dist": 0.895901234543952,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1964.646,
+            "end_time": 1972.672,
+            "text": "No, pero aparte... No, yo no me preocupo por eso.  No, porque vos no sabés, tío.  Quizás tengo personas cercanas que me meten... No, ojo con lo que haces.  Tu mamá. ",
+            "cosine_dist": 0.6158923548781814,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1972.692,
+            "end_time": 1996.825,
+            "text": "Sí, sí.  Gracias, gracias.  Gracias por venir.  Gracias.  A la mierda los malditos empresarios, a la mierda Sodomitas el capital.  Basta de basura que Inesiana, ha llegado el momento liberal.  Tenemos un líder y él es un gran rebelde. ",
+            "cosine_dist": 0.9403748693943216,
+            "is_target_speaker": false
+        }
+    ]
+}

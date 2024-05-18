@@ -1,0 +1,455 @@
+{
+    "Index": 170,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "MZEnIUQGuDg",
+    "url": "https://www.youtube.com/watch?v=MZEnIUQGuDg",
+    "title": "MILEI DESBURRÓ AL ZURDO DE GERARDO ROMANO - Javier Milei en A dos voces 20/7/2022",
+    "duration": 985.0,
+    "view_count": 1380356,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 2",
+            "start_time": 0.22,
+            "end_time": 10.457,
+            "text": "No financiarización, no inversión en especulación financiera.  No sé, por ahí el señor que es economista o más que la fórmula liberal o neoliberal, no sé cómo se dice. ",
+            "cosine_dist": 0.8017877705596071,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 10.477,
+            "end_time": 12.839,
+            "text": "Vos decís que si eso avanza estamos mal. ",
+            "cosine_dist": 1.0305596156570767,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 12.979,
+            "end_time": 21.666,
+            "text": "Ya fracasó, porque sin inflación no hay crecimiento.  Medida y controlada.  No sé si es el cinco, el seis, cuál será para el modelo económico argentino. ",
+            "cosine_dist": 0.6870966974822952,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 21.986,
+            "end_time": 34.451,
+            "text": "Alfonso decía un poquito de inflación estaba bien y se fue con el cinco mil por ciento.  Hay que desterrar un montón de mitos, o sea, que hoy yo estuve escuchando.  La verdad que si nosotros seguimos recitando este tipo de cosas, nos vamos a hundir, vamos a ser cada vez más pobres. ",
+            "cosine_dist": 0.4293982854280409,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 34.811,
+            "end_time": 39.513,
+            "text": "En instante vamos a hablar con ellos, ahí está Javier Milei. ",
+            "cosine_dist": 0.8297451236242583,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 39.573,
+            "end_time": 45.116,
+            "text": "En un momento, Marcelo, muy especial, con un dólar que pasó ampliamente la barrera de los trescientos. ",
+            "cosine_dist": 0.8738776181419643,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 45.636,
+            "end_time": 47.717,
+            "text": "No hay un dólar para nada, ¿no? ",
+            "cosine_dist": 0.9290644241258751,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 47.877,
+            "end_time": 49.558,
+            "text": "Ya lo dijo la ministra Bataki. ",
+            "cosine_dist": 0.9332550153286293,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 49.618,
+            "end_time": 50.398,
+            "text": "¿Dónde hay un dólar? ",
+            "cosine_dist": 0.9582649370904431,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 50.978,
+            "end_time": 73.531,
+            "text": "...aumentó de seis pesos en el día de hoy... ...y obviamente hay información de último momento y es esta.  Va a estar Javier Milei, va a estar Andahasi, va a estar Romano... ...queremos ver también las opiniones de artistas... ...de gente del mundo de la cultura... ...que tienen otra visión, distinta a todos nosotros... ...y está Carlos Melcoñán.  ¿Qué tal?  Buenas noches. ",
+            "cosine_dist": 0.9048798570456744,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 73.951,
+            "end_time": 119.322,
+            "text": "Cuando Argentina perdió el crédito externo en el dos mil dieciocho... Estos gobiernos de cuatro años entran en un proceso de deterioro y duración.  Si no se acomodan los tantos, el periodo es de supervivencia hasta llegar.  A este gobierno le pasó, no usó un mínimo manual de supervivencia, porque mi definición de... a la oposición se le abre el arco.  un penal sin arquero, es que yo lo veo como definido el tema.  Siempre cuando hablas con un analista político, dice, nunca digas así porque se puede dar vuelta.  Para mí el proceso es irreversible. ",
+            "cosine_dist": 0.7766345815125233,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 119.742,
+            "end_time": 124.205,
+            "text": "¿Quién tiene los dólares?  ¿Por qué los dólares no se vuelgan?  ¿Por qué no hay dólares? ",
+            "cosine_dist": 0.7663714148777098,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 125.086,
+            "end_time": 127.127,
+            "text": "Pero no hay dólares porque el... ",
+            "cosine_dist": 0.7603727565500484,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 127.207,
+            "end_time": 127.948,
+            "text": "¿Quién los tiene? ",
+            "cosine_dist": 1.0858247482265433,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 127.968,
+            "end_time": 130.451,
+            "text": "¿Quién los tiene?  Todos los argentinos lo tenemos. ",
+            "cosine_dist": 0.8121297069038053,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 130.491,
+            "end_time": 133.052,
+            "text": "No, bueno, pero le vamos a echar la culpa al que viaja. ",
+            "cosine_dist": 0.9188392484088269,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 133.072,
+            "end_time": 178.012,
+            "text": "No es echar culpa.  O sea que si vos te protegés de la inflación y tenés dólares, yo te voy a echar la culpa de que tengas dólares.  Vos tenés dólares y yo tengo dólares.  Y los muchachos de acá tienen dólares y él tiene dólares y él tiene dólares.  ¿Qué querés?  Trabajar sobre la base del susto.  Porque acá uno se pone a analizar qué se tranquilizó, qué se tranquilizó la moneda.  Pero en una cosa ficticia, que cuando uno veía no tenía gollete.  De la misma manera que después se pega unas escaladas fenomenales, no voy a decir absolutamente injustificables, pero porque hace unos meses valía doscientos y hoy vale trescientos, es por esta inestabilidad, por la incertidumbre, porque pisás importaciones. ",
+            "cosine_dist": 0.7621392032432202,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 178.292,
+            "end_time": 190.357,
+            "text": "¿Cómo se va a conseguir... Inversión industrial, no financiarización, no inversión en especulación financiera.  No sé, por ahí el señor que es economista o... ",
+            "cosine_dist": 0.7878408375527152,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 190.377,
+            "end_time": 194.36,
+            "text": "Sí, le vamos a preguntar a András, ¿cómo lo estás viendo vos? ",
+            "cosine_dist": 0.9569236001486005,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 194.38,
+            "end_time": 230.947,
+            "text": "Con mucha preocupación.  Mirá, yo si lo tengo que pensar como escritor, te diría que no sé si es el fin de la farsa... o el comienzo de la tragedia.  Yo espero, como dice Melconian, que sea el fin de la farsa, porque estos dos años fueron una farsa, una gran farsa.  Hablan de la derecha uruguaya, del funcionamiento del Uruguay.  Uruguay tiene tres millones de habitantes y tiene un millón de migrantes.  Sería como si la Argentina, para solucionar y que la gente no se nos siente en la nueve de julio, de los cuarenta y cinco millones, sacar quince millones y mandarlos a donde les parezca. ",
+            "cosine_dist": 0.6963783541140214,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 231.647,
+            "end_time": 239.409,
+            "text": "¿Y vos pensás en los planes así, liberales, ajustes, apuntan a eso?  ¿Cómo dijo?  Los planes liberales, el de Macri y otros, apuntan a eso. ",
+            "cosine_dist": 0.8509893570536036,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 239.429,
+            "end_time": 335.216,
+            "text": "Macri ya nos mostró en los planes cuáles, y además aclaró, voy a hacer más de lo mismo, él mismo confesó su delito.  Voy a hacer más rápido con Vargas Llosa, creo que fue el... la nota, el reportaje en que lo dijo televisivamente.  Yo no conozco el programa que ofrecen más que la fórmula liberal o neoliberal.  Si eso avanza, estamos mal.  Ya fracasó, ya fracasó el milagro económico brasileño.  Fue hecho en dictadura y fue hecho con el ciento cincuenta por ciento anual de inflación.  Porque sin inflación no hay crecimiento.  Medida y controlada.  No sé si es el cinco, el seis, cuál será para el modelo económico argentino.  Pero bueno, está también el tema de la fuga, de elevación impositiva, de la hidrovía, del Paraná.  Ahí estaba escuchando que no solamente la soja la comercializan contrabandeando.  El aceite... Entonces... Se vuelve muy difícil sin recaudación.  Anda a ver lo que es la cultura para ellos, son el mejor país del mundo de los norteamericanos, al momento de pagar el tax.  No existe si todo no pasa por la gente pagando impuestos.  Yo pago impuestos, pago el treinta y pico por ciento de ganancias y bienes personales.  Y este gobierno me rompió el culo con bienes personales, porque lo llevó al doble a la alícuota. ",
+            "cosine_dist": 0.7026127104469833,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 335857,
+            "end_time": 336437,
+            "text": "Y te lo bancás. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 337.833,
+            "end_time": 346.436,
+            "text": "Pero si es en aras del bienestar general.  Y es más, los bonos se cayeron a pedazos.  De marzo acá hay un cuarenta por ciento. ",
+            "cosine_dist": 0.7186154457233861,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 346.576,
+            "end_time": 351.097,
+            "text": "O sea que el tipo que tenía un palo en bonos tiene seiscientas lucas. ",
+            "cosine_dist": 0.8429953662155469,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 352.498,
+            "end_time": 353.538,
+            "text": "¿Y qué hacemos con Cristina? ",
+            "cosine_dist": 0.996621014670406,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 354.439,
+            "end_time": 361.381,
+            "text": "Acá está Javier Milei.  Vamos a hacer una pausa muy breve y vamos a hablar con él.  Un día en el dólar tocó dos diecisiete. ",
+            "cosine_dist": 0.9160730824356604,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 362.001,
+            "end_time": 365.803,
+            "text": "Tres diecisiete.  Ojalá.  Salen todos a comer. ",
+            "cosine_dist": 0.9710861825940458,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 366.183,
+            "end_time": 381.692,
+            "text": "Bueno, gracias.  Tres diecisiete.  Javier Milei en instantes.  Gracias Romano.  Gracias Andalucía.  Bueno, y seguimos en A Dos Voces.  Está Javier Milei.  Yo dije dos y siete y salieron todos a comprar dólares. ",
+            "cosine_dist": 0.9250089020867829,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 381.732,
+            "end_time": 468.413,
+            "text": "Claro, ojalá.  Javier, ¿qué tal?  Buenas noches.  ¿Qué tal?  A ver, ¿hasta dónde llega?  Porque es la pregunta que todo el mundo hace.  A ver, lo primero que hay que entender es que el dólar no tiene techo porque el peso no tiene piso.  Es decir, lo que ustedes están observando es la pérdida de poder adquisitivo del peso.  Es decir, cuando usted tiene una fuerte expansión de la oferta monetaria con una caída en la demanda de dinero, ¿qué es lo que pasa?  El poder adquisitivo del peso cae.  Entonces, todos los precios expresados en unidades monetarias suben.  Eso se llama inflación.  Ahora, ¿qué es lo que pasa?  Cuando usted mira el dólar como es un activo financiero, pica primero.  Y después vienen todos los otros precios.  No es que el dólar hace subir a los otros precios.  En realidad lo que pasa es que como es un activo financiero, sube primero.  Y después, como la economía va ingresando el dinero y se va moviendo en las distintas manos, eso es lo que termina haciendo que se termine generando el proceso inflacionario.  Y esto es lo más interesante de todo.  De lo dañino que es esto... ¿A quién es el que más castiga esto?  A los que más castigan y a los que menos tienen.  Porque en toda esta corrida del dólar, yo hoy veía en un medio, mostraban los datos de los salarios en dólares.  Entonces, el salario problema en Argentina es de los salarios en dólares.  Estamos abajo de Brasil con tres setenta y cinco, Uruguay con seis noventa y siete, Perú con tres noventa y dos, Ecuador con cuatro noventa, Chile con quinientos sesenta y cinco.  ¿A dónde vamos?  O sea, porque... Por eso vamos camino a cincuenta por ciento de pobres y más de diez por ciento de indigentes. ",
+            "cosine_dist": 0.3712440545851039,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 468.433,
+            "end_time": 478.383,
+            "text": "Javier, ¿esto es un problema político?  O sea, la pelea, Cristina, Alberto, la disputa, el desgaste de la gobernabilidad conduce a una situación así o no?  ¿O son dos caminos paralelos? ",
+            "cosine_dist": 0.8803593309356627,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 478.463,
+            "end_time": 494.124,
+            "text": "Yo le digo como lo veo.  Para mí el principal problema de la Argentina es moral.  Es decir, nosotros tenemos un conjunto de delincuentes en el poder.  hace ciento seis años que lo único que hacen es enriquecerse a costa de los argentinos. ",
+            "cosine_dist": 0.47102743526961444,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 494.504,
+            "end_time": 496.346,
+            "text": "Sean de un lado o sean del otro. ",
+            "cosine_dist": 0.708718343087189,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 496.987,
+            "end_time": 548.658,
+            "text": "La casta.  La casta, exactamente.  Ese problema de índole moral tiene una traducción en un modelo que es donde hay una necesidad nace un derecho.  Pero la casta te dice que sos casta también.  No, bueno, digo, sí, la casta me puede decir lo que quiera.  Digo, ellos son unos chorros y a mí me pueden revolear y me pueden dar vuelta de lado y de lado y no me van a encontrar nada.  Entonces, ¿qué es lo que pasa?  De hecho, digo, vivo una autopsia de cielo abierto de siete por veinticuatro y no me pueden encontrar nada.  Entonces, ¿qué es lo que quiero decir?  En ese sentido... La economía ese problema lo resuelve vía el sistema de precios, o sea, lo resuelve vía la propiedad privada.  El gobierno lo resuelve por la violencia, por el gasto público, por los impuestos, por la inflación.  ¿Y qué es lo que está pasando?  De ser el país más rico del mundo, hoy ya somos menos de setenta, ochenta al oficial, al paralelo estamos abajo de ciento treinta.  ¡Es una catástrofe!  Es decir, y acá lo único que les va bien es a los políticos, no a la gente de bien que labura. ",
+            "cosine_dist": 0.39254866212587924,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 548.718,
+            "end_time": 570.862,
+            "text": "Ahora, Javier, vos en algún momento planteaste el tema de la dolarización como una salida, como una cuestión de política económica financiera para parar esto.  Muchos dijeron que estás loco, que es imposible, que el dólar tendría que valer no tres diecisiete, sino dos mil cuatrocientos.  A ver... ¿Es factible hacer la dolarización? ",
+            "cosine_dist": 0.8999882286829598,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 570.942,
+            "end_time": 663.872,
+            "text": "Es absolutamente factible hacer la dolarización.  Lo que pasa es que, yo le voy a decir, Marcelo, hay muchos colegas que lamentablemente son unos burros.  O sea, usted tiene una base monetaria de trece mil millones de dólares hoy a este tipo de cambio de trescientos veinte.  Usted también tiene, por otro lado, tiene la deuda de las Lelics, que son veintidós mil millones de dólares.  O sea, usted tiene que rescatar treinta y cinco mil millones de dólares.  ¿Sabe cuánto valen los pasivos de los activos del Banco Central?  no solo las reservas internacionales netas, los que tienen bonos y todo, tienen un total de cerca de setenta y cinco mil millones de dólares.  Entonces usted podría agarrar y hacer una ingeniería para rescatar el tema de las LELICs, con lo que le queda de la posición de reservas internacionales netas, de traer de las reservas, y con lo que le queda, que es un remanente que oscila entre cuarenta y ocho mil y cincuenta mil millones de dólares de títulos públicos, Usted tendría que rescatar diez mil millones de dólares de base monetaria.  Es decir, que con los títulos cotizando al veinte por ciento, usted puede dolarizar.  ¿Cuánto cotizan hoy los títulos de Argentina?  ...al veinte por ciento... ...es decir... ...y que es una catástrofe... ...porque pensemos que Sri Lanka... ...que acaba de defaultear... ...cotizan entre cuarenta y cincuenta... ...recordemos que Argentina... ...tiene un riesgo país... ...de dos mil ochocientos puntos básicos... ...sí... ...pero en la punta corta... ...son cinco mil quinientos... ...y... ...nosotros tenemos más riesgo... ...por ejemplo que... ...Ucrania... ...que tiene ciento treinta mil soldados rusos... ...allá adentro... ...entonces... ...sabe qué se puede hacer... ...ahora sabe cuál es el problema... ...que tenemos políticos ladrones... ...porque esto es lo importante... ...este año... ...de déficit fiscal consolidado... ",
+            "cosine_dist": 0.381493377202914,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 663992,
+            "end_time": 664032,
+            "text": "...sí... ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 664.913,
+            "end_time": 694.342,
+            "text": "Entre déficit primario, tres puntos y medio.  Interés, dos puntos.  Y cuasifical, tres y medio.  Nueve puntos del PBI.  ¿Sabe qué?  El Rodrigazo estalló con catorce en mil novecientos y cinco.  En el año ochenta y dos la tablita estalló con once.  La hiperinflación de Alfonsín estalló con ocho.  La convertibilidad estalló con siete.  Imagínense que con nueve puntos del PBI y déficit fiscal tenemos un problema enorme.  Y tenemos un desequilibrio monetario atroz que es el doble del que teníamos previo al Rodrigazo.  Y lo cuento porque esto es verdaderamente complicado y serio. ",
+            "cosine_dist": 0.43177307516593133,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 694.362,
+            "end_time": 696.343,
+            "text": "O sea que podría estallar si acá no hay medidas. ",
+            "cosine_dist": 0.957698244892177,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 697.083,
+            "end_time": 716.65,
+            "text": "Exactamente.  O sea, si usted no hace un ajuste en serio, esto estalla por los aires males.  Estamos a las puertas de un rodrigazo.  Lo que sí es interesante es que cuando yo alertaba sobre todas estas cosas, ah, el loquito a mi ley, el loquito a mi ley.  Y sucede que ahora todos hablan de hiper, todos hablan de potencial.  ¿Qué es un ajuste?  Motosierra en el gasto público.  No podés tener nueve puntos de déficit fiscal.  Se acabó. ",
+            "cosine_dist": 0.49111431737624434,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 717.463,
+            "end_time": 718.965,
+            "text": "No hace obra pública para todos. ",
+            "cosine_dist": 0.8974467988501863,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 719.566,
+            "end_time": 750.904,
+            "text": "Hay que eliminar la obra pública.  De hecho, en mi programa económico, que son reformas de tres generaciones, la primera generación, yo propongo una drástica reducción del gasto público para poder bajar impuestos, reformar el mercado laboral hacia adelante, siendo un sistema tipo seguro de desempleo y abrir la economía en el marco, además, de una reforma monetaria y financiera que a la postre termine con la eliminación del Banco Central para que no haya más pesos y que los argentinos puedan elegir libremente su moneda.  ¿Qué trabajo le da a usted?  corta obra pública?  ¿Corta mano de obra?  ¿Y quién dijo que la obra pública da trabajo?  Eso es falso.  Eso es falso. ",
+            "cosine_dist": 0.4332658423322745,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 750924,
+            "end_time": 751464,
+            "text": "Bueno, Alberto dijo... ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 751.685,
+            "end_time": 801.154,
+            "text": "No, bueno, eso es falso.  ¿Con qué se financia la obra pública?  Con impuestos, ya sea impuestos presentes, los actuales, o futuros, la deuda, o con impuesto inflacionario.  Bueno, cuando usted le cobra impuesto a alguien, a usted le queda menos plata en el bolsillo, con lo cual destruye puestos de trabajo en otro lugar donde la gente sí quería tener.  Entonces también hay que destarrar toda esa mentira que la inflación genera crecimiento, que es un desastre.  Alfonsín decía un poquito que la inflación estaba bien y se fue con el cinco mil por ciento.  O esa estupidez de que la robotización genera desempleo.  Si eso fuera cierto, desde que apareció la revolución industrial hasta ahora, entonces la tasa de desempleo tendría que ser el ochenta y siete coma cinco por ciento.  Es decir, hay que desterrar un montón de mitos.  O sea, hoy yo estuve escuchando, que obviamente no voy a entrarme en eso porque... digamos, la persona no se puede defender.  Pero, digo, la verdad que si nosotros seguimos recitando este tipo de cosas, nos vamos a hundir, vamos a ser cada vez más pobres. ",
+            "cosine_dist": 0.42373919383177716,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 801.174,
+            "end_time": 811.616,
+            "text": "Javier, ¿le puedo dejar una pregunta y me la responde?  Sí, claro.  La pregunta es si, digamos, ¿cómo salimos de esta?  Porque todos los días el dólar sube, sube, y no es el problema del dólar, es la inflación que sube, sube. ",
+            "cosine_dist": 0.9410943384316104,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 811996,
+            "end_time": 812456,
+            "text": "Exacto. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 812.676,
+            "end_time": 827.224,
+            "text": "¿Qué tendría que hacer el gobierno en estos días, en estas horas, si Cristina, Alberto y Massa están reunidos ahora?  ¿Qué le recomendaría a usted?  La pausa es muy breve.  Bueno, seguimos con Javier Milay. ",
+            "cosine_dist": 0.9808954853066524,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 828.285,
+            "end_time": 829.366,
+            "text": "Había quedado una pregunta tuya. ",
+            "cosine_dist": 0.9308191191911876,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 829.486,
+            "end_time": 839.813,
+            "text": "Sí, la pregunta es, no lo tenemos confirmado, ¿podría hacerse en este momento la reunión entre Alberto, Cristina y Massa?  La situación está muy complicada.  ¿Qué habría que hacer ya, mañana, pasado? ",
+            "cosine_dist": 0.9630870538992518,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 839.873,
+            "end_time": 840.933,
+            "text": "¿Qué le recomendarías? ",
+            "cosine_dist": 0.909044840852358,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 841.374,
+            "end_time": 890.112,
+            "text": "¿Sabes lo que se necesita en este momento?  altura de estadista y eso Alberto no lo tiene y Cristina tampoco porque en este momento todo lo que haga el gobierno va a salir mal.  ¿por qué?  porque usted necesita un programa de estabilización.  la única forma que un programa de estabilización salga bien es que usted lo construya bien y que tenga credibilidad.  ahora para hacerlo creíble Usted tiene que tener reputación, algo que no tiene Alberto, algo que no tiene Cristina, tienen una pésima historia, por lo tanto no son creíbles.  Eso quiere decir que aun cuando usted trajera a los mejores economistas de la historia, a Adam Smith, a Karl Menger, a Mises, a Hayek, a Rothbard, no va a salir bien.  ¿Sabe por?  qué?  porque este gobierno no es creíble.  Entonces lo que tiene que hacer el gobierno es tomar las riendas, hacer los ajustes que corresponden, poner la macroeconomía en orden y dejarle al próximo gobierno la cosa ordenada. ",
+            "cosine_dist": 0.41685210592577215,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 890.312,
+            "end_time": 893.974,
+            "text": "No un acuerdo con la oposición.  O sea, una cosa de transición, admitir una transición. ",
+            "cosine_dist": 1.021359754119356,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 894.254,
+            "end_time": 959.073,
+            "text": "Exactamente.  Saber, digamos, Alberto Fernández, al viendo que es un cadáver político, tendría que hacer este servicio a la patria.  Pero ¿saben qué?  Son unos miserables y no lo van a hacer.  Y siempre van a pretender que el ajuste lo pague la gente.  Lo único que yo sí le puedo decir... que sí hay solución.  No es con este gobierno ni es con la pseudooposición.  Es volver a abrazar las ideas de la libertad.  Cuando Argentina lo hizo, en treinta y cinco años dejó de ser un país de bárbaros y se convirtió en un país rico.  Irlanda, que es un caso más reciente, siendo el país más miserable de Europa, hoy tiene un PIB per cápita de diez por ciento mayor que el de Estados Unidos.  O si ustedes quieren tomar un país muy complejo como el de la India, en los últimos treinta años, desde que empezaron a hacer las reformas pro mercado, multiplicaron su PIB per cápita por once veces.  Es decir, hay esperanzas, se puede hacer, podemos volver a crecer, Podemos eliminar la inflación, podemos terminar de una vez por todas, pero ¿saben lo que hay que entender?  Que hoy la solución está en manos del problema y si seguimos votando a la casta parasitaria, chorra, inútil que tenemos, no vamos a salir.  Entonces, lo que sí tiene que entender la gente es que hay solución, pero esa solución solamente es posible si es liberal. ",
+            "cosine_dist": 0.4555522297317778,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 959.113,
+            "end_time": 960.153,
+            "text": "Gracias. ",
+            "cosine_dist": 1.0378632935092569,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 960.193,
+            "end_time": 984.746,
+            "text": "Gracias a ustedes.  Bueno, y nos vamos, mira, agradecemos a la bella y la bestia.  A la mierda los malditos empresarios, a la mierda Sodomitas el capital.  Basta de basura que Inesiana, ha llegado el momento liberal.  Tenemos un líder y él es un gran rebelde. ",
+            "cosine_dist": 0.9275741055745673,
+            "is_target_speaker": false
+        }
+    ]
+}

@@ -1,0 +1,503 @@
+{
+    "Index": 216,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "ihb80h6_lek",
+    "url": "https://www.youtube.com/watch?v=ihb80h6_lek",
+    "title": "CAVALLO LLENÓ DE ELOGIOS A MILEI - Javier Milei en A dos voces 13/4/2022",
+    "duration": 976.0,
+    "view_count": 101782,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 1",
+            "start_time": 60,
+            "end_time": 360,
+            "text": "",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 0.129,
+            "end_time": 7.332,
+            "text": "A mi ley, más que como economista, lo veo como un líder.  Como alguien que... Espere, Cavallo, hay que tomarlo como un elogio. ",
+            "cosine_dist": 0.6732731866875459,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 7.352,
+            "end_time": 13.434,
+            "text": "El profesor Cavallo, durante el primer gobierno de Menem, lo convierte en el mejor ministro de Economía de toda la historia argentina. ",
+            "cosine_dist": 0.6174789907533073,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 13.674,
+            "end_time": 14.974,
+            "text": "Ah, se tiran flores. ",
+            "cosine_dist": 1.0456977963891447,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 14.994,
+            "end_time": 17.555,
+            "text": "Pero hay gente muy cortita de entendedera. ",
+            "cosine_dist": 0.6094560718063134,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 17.575,
+            "end_time": 24.458,
+            "text": "La República en este país tiene un medio de corrupción y hay causas judiciales que no sabemos cuándo van a terminar.  Pero de ahí a eliminarla y eliminar el trabajo que eso genera... ",
+            "cosine_dist": 0.9104127464577695,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 24.658,
+            "end_time": 26.198,
+            "text": "Pero es que es falso que genere trabajo. ",
+            "cosine_dist": 0.763397929091934,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 26.299,
+            "end_time": 31.823,
+            "text": "Pero ahí afecta a la gente.  No digo si está bien o mal la obra pública.  Usted saca la obra pública y tiene trabajo eso. ",
+            "cosine_dist": 0.9130859804637423,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 31.903,
+            "end_time": 36.467,
+            "text": "Pero eso es falso.  La obra pública con qué se financia, con impuestos.  Pero cuando usted cobra impuestos... ",
+            "cosine_dist": 0.7586270315543407,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 36.567,
+            "end_time": 62.305,
+            "text": "Hacemos una breve pausa.  Salto de las últimas dos décadas.  Un programa especial, un programa importante.  Ahí está Milei, en instantes vamos a hablar con él.  Carolina Lozada también.  Ya está Nicolás del Caño en los estudios de... a dos voces, vamos a estar con Domingo Cavallo, está en Estados Unidos, pero vamos a hablar con él, y está José Luis Manchinea. ",
+            "cosine_dist": 0.9221733340235022,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 62.525,
+            "end_time": 77.43,
+            "text": "Exactamente, ahí lo vemos al ex Ministro de Economía, Domingo Cavallo, vamos a hablar con todos ellos sobre esta desgracia que tenemos los argentinos, que es este índice de inflación.  Ojo Marcelo, invitamos también al referente del oficialismo. ",
+            "cosine_dist": 0.8592782196239773,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 77.91,
+            "end_time": 84.616,
+            "text": "Claro, seguro.  Carolina, el dato estamos viendo, ¿cómo viste la inflación? ",
+            "cosine_dist": 0.9581070110761101,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 84.636,
+            "end_time": 97.907,
+            "text": "Ya está, Javier, en un ratito va a estar con nosotros en los estudios.  Milei, ¿usted considera que es necesario mantener al ministro, que con el ministro Guzmán se puede salir adelante de este pico de inflación? ",
+            "cosine_dist": 0.8669644078126557,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 98.667,
+            "end_time": 176.78,
+            "text": "A ver, este gobierno ya no puede parar la inflación y todo lo que haga le va a salir mal, además.  O sea, cuando usted emite el impacto en precios es dieciocho meses después.  Es decir, por más que hoy el gobierno se volviera un gobierno ortodoxo a frenar a la emisión monetaria, va a tener todavía dieciocho meses de seguir purgando inflación.  ¿Por qué?  Porque en los últimos dos años este gobierno emitió por el equivalente a once puntos del PBI.  Por lo tanto, esa inflación está viajando y no va a poder hacer nada, aun cuando corte con la emisión monetaria, corte con el déficit fiscal, aun cuando tú... Es más, si por obra de arte, digamos, o un arte de magia, Alberto decidiera hacer efectivamente el ajuste y lo que tiene que hacer, como no tiene credibilidad porque no tiene reputación, además ese programa va a ser muy costoso socialmente.  Por lo tanto, nada bueno de lo que puede pasar con este gobierno, porque además la crisis política entre Alberto y Cristina, eso fogonea además la caída de la demanda de dinero.  Por lo tanto, aun cuando usted hiciera todo bien, aun cuando usted no emitiera, aun cuando se suspendieran los efectos de los rezagos de la política monetaria, continuamente la crisis política que genera la relación entre Alberto y Cristina hace que la demanda de dinero caiga y los precios sigan subiendo. ",
+            "cosine_dist": 0.32015804762506095,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 177.32,
+            "end_time": 190.414,
+            "text": "Cavallo, usted hace poco hizo declaraciones, dijo que uno de los economistas, mencionó a varios economistas, Melcoñán, La Kunza.  Un tercero y Milei.  ¿Está Milei acá? ",
+            "cosine_dist": 0.9498975921875031,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 190.474,
+            "end_time": 196.137,
+            "text": "Bueno, el tercero que mencioné no hay que dejarlo afuera, que es Luciano Laspina. ",
+            "cosine_dist": 0.6308508080666353,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 196.297,
+            "end_time": 197.317,
+            "text": "Ah, no, no me acordaba por eso. ",
+            "cosine_dist": 1.0216441810670707,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 197.337,
+            "end_time": 200.319,
+            "text": "Para mí es uno de los economistas mejores. ",
+            "cosine_dist": 0.696163563816447,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 200.439,
+            "end_time": 201.439,
+            "text": "Y acá está Milei. ",
+            "cosine_dist": 0.920552213794802,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 201.739,
+            "end_time": 203.0,
+            "text": "¿Le quiere decir algo, Milei? ",
+            "cosine_dist": 0.9699592545828694,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 203.66,
+            "end_time": 206.822,
+            "text": "Bueno, a Milei más que como economista lo veo como un líder. ",
+            "cosine_dist": 0.7068031325717873,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 207.842,
+            "end_time": 214.485,
+            "text": "A ver, Pérez Cavallo, ¿hay que tomarlo como un elogio o como diciendo no, economista, no? ",
+            "cosine_dist": 0.8608425445446389,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 214.545,
+            "end_time": 276.563,
+            "text": "Es un líder que además conoce de economía, pero obviamente que él lo que está planteando es un rumbo completamente diferente al histórico para la Argentina, en una dirección que yo creo que es la dirección correcta.  Ahora... Muchos dicen él exagera.  Bueno, quizás para vencer ideas anacrónicas que tuvieron años y décadas de insistencia y que provocaron una deformación cultural, se necesita quizás exagerar un poco en la otra dirección.  Pero lo que yo veo de mi ley es que, por ejemplo, en el tema este de la lucha contra la inflación, él... ha explicado lo que él ve como una reforma monetaria, pero precedida por una reforma financiera.  Se ha preocupado por pensar el tema.  Y dice que tiene un equipo que podría implementar esa idea. ",
+            "cosine_dist": 0.5351246319075538,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 276.603,
+            "end_time": 277.504,
+            "text": "Vamos a hablar con él. ",
+            "cosine_dist": 0.9318764595976075,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 277.604,
+            "end_time": 303.79,
+            "text": "Yo espero que los otros partidos que pueden llegar a ser gobierno, como por ejemplo Juntos por el Cambio, que tienen muy buenos economistas también, Hagan una tarea semejante, es decir, piensen una solución y la expliquen.  Incluso yo pienso que después la podrían discutir con Milei o con los economistas de Milei y de todo eso puede salir una buena solución para la Argentina. ",
+            "cosine_dist": 0.5668957428415062,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 303.81,
+            "end_time": 306.052,
+            "text": "Vamos a hablar con Gómez, no sé si quiere decir algo. ",
+            "cosine_dist": 0.968726647894176,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 306.092,
+            "end_time": 307.453,
+            "text": "¿Le gusta que le dé consejo, Cavallo? ",
+            "cosine_dist": 0.960929543285917,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 309.173,
+            "end_time": 322.129,
+            "text": "Bueno, desde mi punto de vista, el rol que ha tenido el profesor Cavallo durante el primer gobierno de Menem lo convierte en el mejor ministro de Economía de toda la historia argentina. ",
+            "cosine_dist": 0.5853197642515782,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 322.149,
+            "end_time": 325.993,
+            "text": "Ah, se tiran flores. ",
+            "cosine_dist": 0.9517345411745303,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 326.033,
+            "end_time": 379.339,
+            "text": "No, no, no.  A ver, esto yo lo digo... Desde hace mucho tiempo, esto está fundamentado en un trabajo de Gerardo de la Paulera, Bozzoli e Irigoyen, que se llama Passing the Back.  Utilizan el índice de presión macroeconómica de barro y evalúan todos los gobiernos de la historia argentina.  El mejor gobierno de la historia argentina fue el primer gobierno de Carlos Saúl Menem.  Y si ustedes recuerdan, el inicio del gobierno de Menem tuvo muchos problemas.  De hecho, falló el plan Bungeborn, o sea que estuvo siete días Roy que en paz descanse, después vino Rapparelli.  Y después estuvo el plan de Herman González que también falló.  Y cuando asumió el doctor Cavallo... Hay que decirlo, digamos, o sea, en un contexto muy, muy complicado para la economía argentina, en abril del noventa y uno se establece la convertibilidad y dieciocho meses después Argentina era el país con menos inflación del mundo. ",
+            "cosine_dist": 0.37699330429970423,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 379.479,
+            "end_time": 384.625,
+            "text": "Ahora, algo estaría pasando mal en la Argentina porque cada vez estamos peor, ¿no?  Y la gente que menos tiene cada vez está peor. ",
+            "cosine_dist": 0.820836061781546,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 384.865,
+            "end_time": 454.966,
+            "text": "Bueno, pero, a ver, el punto es el siguiente.  Eso no lo va a arreglar la emisión monetaria.  El problema es que la gente no tenga empleo, el problema es que no tenga productividad, el problema es que los salarios reales son bajos, es porque la economía no crece.  O sea, la política monetaria no es para eso.  Es decir, en rigor, lo que buscaría en rigor estricto la política monetaria es proveer... una unidad de medida donde se puedan fijar los precios.  Por eso los seres humanos a lo largo de la historia usaron distintas monedas.  Usaron el trigo, el lino, usaron el tabaco, la sal.  Se usó el whisky, los clavos, los cigarrillos en las cárceles.  Y la humanidad evolucionó hacia el oro y la plata.  ¿Sí?  Ahora, ¿por qué?  Porque es lo que se llama un medio de intercambio indirecto.  Es decir, nadie se queda con el dinero para tener dinero en sí mismo.  O sea, usted trabaja para conseguir dinero, para ese dinero ir y comprar otros bienes.  Es decir, entonces, y el dinero tiene un conjunto de funciones.  Una que sea reserva de valor.  ¿Usted se quedaría, alguno de ustedes se quedaría, digamos, en su sano juicio con los pesos en el bolsillo? ",
+            "cosine_dist": 0.3412374489882166,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 455266,
+            "end_time": 455846,
+            "text": "Nadie. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 455.926,
+            "end_time": 457.987,
+            "text": "¿Por qué?  Porque se derriten como barra de hielo. ",
+            "cosine_dist": 0.6049569089630764,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 458.007,
+            "end_time": 459.407,
+            "text": "Los sectores pobres que no tienen otra alternativa. ",
+            "cosine_dist": 1.017514866603211,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 459.427,
+            "end_time": 534.485,
+            "text": "Bueno, Eso es a lo que quiero ir.  Entonces, se derrite como barra de hielo en el desierto del Sahara los pesos.  Por lo tanto, no es un mecanismo para ahorrar.  No solo eso, tampoco cumple bien la función de unidad de cuenta.  Porque cuando usted va a hacer una transacción de una casa, un bien de capital, un bien largo, se piensa en dólar.  Entonces lo único que sirve es como medio de pago generalizado porque hay curso forzoso.  Porque si usted a la gente le diera la opción de elegir la moneda, no elegiría esa moneda.  Y además le digo algo, hay un problema adicional.  Cuando usted genera inflación, le pega entre veinticinco y treinta veces a los que menos tienen.  O sea, esos son los más damnificados.  Pero no solo eso, cuando la tasa de inflación pasa al veinte por ciento, se pierde un punto cincuenta y ocho de crecimiento.  Si usted corrige eso en la historia monetaria argentina desde que tenemos bancos centrales en mil nueve treinta y cinco, Argentina tendría que tener un PBI per cápita como el de Estados Unidos.  Entonces, La política monetaria en realidad no puede hacer nada bueno, porque si expande, causa daño, genera boom y boost.  Cuando usted contrae, también genera problemas con esa suba de la tasa de interés, con destrucción de capital, reasignación de los recursos, que como es ficticio, después vuelve a destruir todo.  ¿Qué es lo mejor que puede hacer el Banco Central?  Nada.  ¿Y para que no haga nada?  ¿Para qué lo quiero tener?  Si es un riesgo enorme todo el tiempo. ",
+            "cosine_dist": 0.38405210494361,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 534.645,
+            "end_time": 536.306,
+            "text": "Pero eso no es una exageración suya. ",
+            "cosine_dist": 1.0635401614635152,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 536.346,
+            "end_time": 537.567,
+            "text": "No es una exageración. ",
+            "cosine_dist": 0.7294460353730884,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 537.587,
+            "end_time": 540.869,
+            "text": "Porque en ningún país del mundo, en todos los países existe el Banco Central. ",
+            "cosine_dist": 0.9881931673082055,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 540.889,
+            "end_time": 624.766,
+            "text": "Vamos por parte, Marcelo, vamos por parte.  Primero, digamos, con ese argumento... Digamos, usted entonces, en la asamblea del año XIII, usted seguía por la esclavitud, porque del otro lado no había nada.  No, no es una chicana.  Se llama falacia ad populum.  O sea, entonces, no.  Eso no tiene que ver con eso.  A ver... Si usted se fija en algún sentido, el control de la política monetaria Europa no lo tiene.  Y los italianos, los españoles, hasta los griegos y los portugueses están contentos de estar en el euro porque no perdieron la estabilidad monetaria.  Es decir, lo que hay que entender es que el dinero es un bien de intercambio indirecto.  Y la cantidad de dinero en la economía que puede ser... Oro, plata, bitcoins, dólares, francos, suizos, me da lo mismo a mí.  Euro, lo que usted quiera, a mí me da lo mismo.  La determina la gente.  Y entonces, ¿qué es lo que pasa?  Cuando usted determina la política monetaria, lo único que hace es determinar la escala nominal, es decir, el nivel de precios, o sea, la inflación.  Entonces, la verdad es que, fíjese, Argentina, el único periodo que tuvo estabilidad monetaria, ¿cuándo fue?  Durante la convertibilidad.  ¿Por qué?  Porque el dinero, la oferta de dinero, crecía endógenamente acorde a la demanda de dinero.  Entonces, ¿qué pasó?  Usted corrigió los desequilibrios monetarios que traía la economía después de dos hiperinflaciones.  Cuando usted fue a la convertibilidad, tuvo un año y medio para limpiar eso y en el año noventa y tres... ",
+            "cosine_dist": 0.3790240641124627,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 624.786,
+            "end_time": 628.489,
+            "text": "Es decir, mi ley, que si usted va a ser candidato a presidente, ¿no? ",
+            "cosine_dist": 0.9572960937223811,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 629.079,
+            "end_time": 634.461,
+            "text": "No solo que voy a ser candidato a presidente.  Si paso a la segunda vuelta, voy a ser el próximo presidente argentino. ",
+            "cosine_dist": 0.3892912035095264,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 634.601,
+            "end_time": 637.362,
+            "text": "Si es presidente, ¿mete una convertibilidad de entrada?  No. ",
+            "cosine_dist": 0.9249184090086793,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 638.122,
+            "end_time": 690.295,
+            "text": "A ver, son dos... Se llaman reformas de primera generación.  Entonces, en el plano monetario voy a avanzar en una reforma monetaria y bancaria.  Porque el único motivo por el cual uno tiene banco central es porque tiene un sistema financiero de encaje fraccionario.  Es decir, el riesgo de la corrida y que el Banco Central, digamos, actúe como el prestamista de última instancia.  Ahora, si usted va a un sistema de bancas Simon, el sistema es anticorrida.  ¿Por qué?  Porque usted tiene lo que se llama el almacén de valor, que es como si fuera una caja fuerte.  Usted paga para que le guarden el dinero.  Y la banca de inversión, que además debería ser offshore.  ¿Para qué?  Para que los políticos ladrones no puedan meter la mano adentro de los bancos.  Entonces, ¿usted quiere tasa de interés?  Bueno, si le gusta el Durazno, bánquese la pelusa.  Va a la banca de inversión.  Si usted entra en un fondo que quebró, el problema lo tiene usted y el que administraba el fondo.  Pero no lo tiene Edgardo ni ninguno de todos los que estamos acá. ",
+            "cosine_dist": 0.3430082956147765,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 690.936,
+            "end_time": 694.162,
+            "text": "Ahora, Milei, los que son críticos, usted dice... ",
+            "cosine_dist": 0.8779277880739156,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 694.302,
+            "end_time": 751.674,
+            "text": "Le pido un segundito, por favor.  Sí, pero después contésteme esto, porque digo, Milei... Yo le contesto todo lo que usted quiera.  Estoy para eso.  Ahora, fíjese.  Y más preguntas si quiere también.  A ver, lo que quiero decir es lo siguiente.  Una vez que uno hace eso y va a un sistema de banca libre donde los bancos compiten, con lo cual se va a poder endeudar más bajo, va a tener mejores retornos, usted lanza una competencia de moneda.  La realidad es que los argentinos, desde mi punto de vista, ya eligieron la moneda.  Eligieron el dólar.  Por lo tanto, lo más probable es que la primera moneda que elijan los argentinos es el dólar.  Y usted, después que hace eso, puede liquidar el Banco Central.  O sea, tiene que rescatar todos los pasivos del Banco Central.  Yo le digo, como pequeño dato que muchos economistas parece que hablan de temas monetarios y no conocen la hoja de balance del Banco Central, habría que decirles que dentro de otras cosas, en el activo del Banco Central hay el doble de títulos públicos que lo que hay de base monetaria.  Mire si usted tiene para trabajar y hacer ingeniería financiera.  Pero hay gente muy cortita de entendedera. ",
+            "cosine_dist": 0.30447837541686085,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 753.456,
+            "end_time": 766.562,
+            "text": "Vamos a suponer la idea de Marcelo, llega a la presidencia, mientras hace todo eso, ¿qué hace por los que menos tiene?  Porque aplica un ajuste, porque el miedo, los que lo critican dicen, lo que pasa es cuando es mi ley, si llega el gobierno va a aplicar un ajuste que los que menos tienen van a estar todavía mucho peor. ",
+            "cosine_dist": 0.8683875368538839,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 766.862,
+            "end_time": 789.36,
+            "text": "Mire, cuando yo sea presidente sí va a haber un ajuste.  Porque va a haber una reforma del Estado.  Pero ¿sabe qué?  Se van a terminar los privilegios de la política.  O sea, el ajuste no va a caer sobre los vulnerables.  El ajuste no va a caer sobre las personas de menor poder adquisitivo.  El ajuste va a caer sobre los ladrones de la política.  Voy a ir, por ejemplo, contra la obra pública.  La voy a eliminar de cuajo yendo al sistema... ",
+            "cosine_dist": 0.42227295469237947,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 789.38,
+            "end_time": 792.623,
+            "text": "Pero ahí afecta a la gente que trabaja.  No digo si está bien o mal la obra pública. ",
+            "cosine_dist": 0.8432204883997583,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 792.703,
+            "end_time": 802.99,
+            "text": "Usted saca la obra pública y el que tiene trabajo eso, ¿y a dónde lo manda?  No, pero eso es falso, Eduardo.  Fíjese, mire esto.  A ver... La obra pública con que se financia, con impuestos.  Pero cuando usted cobre impuestos... ",
+            "cosine_dist": 0.6328727759672845,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 803.07,
+            "end_time": 804.812,
+            "text": "Hacemos una breve pausa. ",
+            "cosine_dist": 1.0247423391348989,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 805.372,
+            "end_time": 808.955,
+            "text": "Le hice la pregunta y me olvidé que teníamos que hacer una pausa. ",
+            "cosine_dist": 0.8701696834670734,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 809.695,
+            "end_time": 818.903,
+            "text": "Le agradecemos a Domingo Cavallo también, que cuando esté en la Argentina lo vamos a invitar acá al estudio, Cavallo.  Bueno, muchas gracias. ",
+            "cosine_dist": 0.8746201678551543,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 819.804,
+            "end_time": 831.447,
+            "text": "Bueno, gracias.  Hacemos pausa, es muy breve y responde Milei.  Sí, Marcelo, breve porque... Sí, breve. ",
+            "cosine_dist": 0.915429349387861,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 832.387,
+            "end_time": 842.854,
+            "text": "Nadie duda que la corrupción en este país es sinónimo... Perdón, la corrupción.  La obra pública en este país es sinónimo de corrupción y hay causas judiciales que no sabemos cuándo van a terminar.  Pero de ahí a eliminarla y eliminar el trabajo que eso genera... ",
+            "cosine_dist": 0.8757146201410082,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 843.075,
+            "end_time": 877.938,
+            "text": "Pero es que es falso que genere trabajo.  Porque usted la obra pública la tiene que financiar.  Y se financia con impuestos.  Si usted cobra impuestos, destruye otro sector, destruye puestos de trabajo en otra parte de la economía, que sí la gente quería la plata ahí.  Lo puede financiar con deudas, que es una atrocidad.  Es cargarle el costo de la fiesta a nuestros hijos, a nuestros nietos, a gente que no votó o gente que no nació, con lo cual es absolutamente inmoral.  Y la otra es que lo financie con emisión monetaria, es decir, con la falsificación de dinero, con la inflación, afectando y golpeando sobre lo más pobre.  O sea, es falso que la obra pública genere el trabajo, solo produce daño.  Lo único que crea valor es el sector privado con su inversión. ",
+            "cosine_dist": 0.44447840595540267,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 878.178,
+            "end_time": 885.522,
+            "text": "Mi ley, la última.  Si el gobierno sigue así, las peleas y esta, ¿podemos caer en hiperinflación? ",
+            "cosine_dist": 0.9362278945371115,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 885.602,
+            "end_time": 920.96,
+            "text": "Hay un riesgo cierto de caer en hiperinflación.  Si usted toma los últimos doce meses, tendríamos cincuenta y cinco por ciento de inflación.  Si tomo el trimestre y lo anualizo, estamos en ochenta.  Si tomo la punta corta, estamos en ciento diecisiete.  Si tomamos los alimentos, que son los que se anticipan, estamos en ciento treinta.  Pero recuerde que hay una brecha cambiaria en torno al cien por ciento.  ¿Qué quiere decir?  Que la verdadera inflación en Argentina hoy, que es la que es alimentos y corregida por brecha cambiaria, es del trescientos sesenta por ciento.  Yo en mi mundo eso lo llamo hiperinflación.  No sé cómo lo llamaran otros, pero para mí eso es un desastre.  Gracias, Emilei.  Gracias, Emilei. ",
+            "cosine_dist": 0.4098265263243439,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 921.5,
+            "end_time": 936.912,
+            "text": "Hacemos una brevicia.  Qué programa, ¿no?  Sí, a full.  Un programa especial con diferentes opiniones por un tema muy grave, porque hoy la inflación tocó récord de los últimos veinte años.  Aclaremos. ",
+            "cosine_dist": 0.9065438198850204,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 937.113,
+            "end_time": 946.18,
+            "text": "Estuvo Cavallo Milei, Cavallo Machinea del Caño y Carolina Lozada.  Invitamos en la producción a miembros del oficialismo para que vengan a explicar esta situación, pero nadie... ",
+            "cosine_dist": 0.884330606498275,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 946.5,
+            "end_time": 956.658,
+            "text": "No sabe, no contesta.  En un ratito.  ¡Suscríbete al canal! ",
+            "cosine_dist": 0.855505298208005,
+            "is_target_speaker": false
+        }
+    ]
+}

@@ -1,0 +1,775 @@
+{
+    "Index": 233,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "2jFwumT7nvA",
+    "url": "https://www.youtube.com/watch?v=2jFwumT7nvA",
+    "title": "MILEI DESTRUYÓ LOS CONTROLES DE PRECIOS - Javier Milei en La Nación + 16/3/2022",
+    "duration": 1252.0,
+    "view_count": 83493,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 0",
+            "start_time": 0.06,
+            "end_time": 6.58,
+            "text": "Que a partir de las veinticuatro horas el carnicero que tenga carne en la carnicería va a ser degollado en la Plaza de Mayo. ",
+            "cosine_dist": 0.46267026971076464,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 7.242,
+            "end_time": 11.626,
+            "text": "Bueno, si quieren yo les hago el asado.  Con lo cara que está la carne, ¿eh?  No, no hay problema. ",
+            "cosine_dist": 0.8367631623565227,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 11.687,
+            "end_time": 16.829,
+            "text": "El pasado dijo que la iba a comprar la carne.  Yo dije que hacía el asado, muy bien. ",
+            "cosine_dist": 0.9638272068660606,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 16.909,
+            "end_time": 33.236,
+            "text": "Queremos ver lo que está pasando y porque vamos a hablar con Javier Milei de estas sumas, que tanto estas sumas como las sumas de los jubilados.  Javier, acá estuvimos analizándolo.  Gracias por venir.  No, por favor.  ¿Te tomaste una marcha para venir o no? ",
+            "cosine_dist": 0.8482595152772108,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 33.456,
+            "end_time": 37.519,
+            "text": "Estuvo bastante movidito para llegar, pero lo logramos. ",
+            "cosine_dist": 0.7103090882532261,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 37.559,
+            "end_time": 59.452,
+            "text": "Es complicado.  Muchas gracias, de verdad, por la corrida, además, porque está tratando de venir de lejos y es muy complicado.  Pero lo que estábamos hablando y lo que hablamos más temprano en la información que dimos es que, a ver, ¿cuánto impacta el aumento de la inflación, el aumento de las bebidas y de los alimentos en la plata que reciben?  Por ejemplo, los jubilados. ",
+            "cosine_dist": 0.8409106474106414,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 59.612,
+            "end_time": 70.797,
+            "text": "Él decía, un sallé, ¿cómo  era?,  Un sachet y un kilo de pan es prácticamente por día, si vos lo mensualizás por día, es un tercio de lo que cobra un salero mínimo. ",
+            "cosine_dist": 0.8471600979858374,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 71.017,
+            "end_time": 99.147,
+            "text": "A ver, lo primero que tenemos que entender es que Argentina es un país que está empobrecido.  Lo primero que hay que tener conciencia es que nos convertimos en un país pobre.  Hoy si uno toma el PBI per cápita al precio de mercado del dólar, Argentina es ciento treinta en el ranking mundial.  Al oficial es setenta, pero es el dólar Mickey Mouse, no lo consigue nadie.  No existe ese.  Entonces, a ver, el decir más alto de la distribución en Argentina gana en promedio quinientos dólares.  O sea, el decir más alto. ",
+            "cosine_dist": 0.3622804642613674,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 99.287,
+            "end_time": 100.007,
+            "text": "Los que más cobran. ",
+            "cosine_dist": 0.8405519614358108,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 100.267,
+            "end_time": 134.565,
+            "text": "Exactamente.  En Estados Unidos el lavacopa gana mil quinientos dólares.  Un chico que entra en McDonald's dos mil quinientos dólares.  Lo primero que hay que tener en cuenta es que somos un país que se empobreció.  Ahora, y cualquier situación que queramos modificarla por la fuerza y, digamos, contra las leyes del mercado, lo único que va a hacer es generar pobres.  Es decir, porque si funcionara esto de subir salarios por decreto, por decir algo, pero ganemos todos un millón de dólares.  ¿Pero quién lo va a pagar?  Nadie.  Por lo tanto, lo primero que hay que tener en cuenta es que las soluciones mágicas tampoco funcionan y que si las queremos aplicar nos va a ir muchísimo peor todavía. ",
+            "cosine_dist": 0.34728507159067457,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 134.585,
+            "end_time": 139.166,
+            "text": "Igual no es mágico.  Aumentan que aumenten como para que puedas comprar lo mínimo.  No te creas que alcanza para más. ",
+            "cosine_dist": 0.9075660928326372,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 139.266,
+            "end_time": 187.358,
+            "text": "No, no, pero es que el salario real, digamos, cae naturalmente por el empobrecimiento de la economía.  A ver, la economía argentina, el nivel del PBI per cápita, hoy estamos catorce por ciento debajo del que teníamos en el año dos mil once.  Tenemos niveles parecidos al del año mil nueve setenta y tres, tenemos productividad del año cincuenta.  Nos empobrecimos.  ¿Y eso por qué ocurre?  Porque la inversión que hay en Argentina ni siquiera alcanza para cubrir la reposición.  Por lo tanto, somos menos productivos y cuando somos más personas, entonces cada vez vamos siendo más pobres.  Porque justamente no hay una inversión suficiente como para que nosotros podamos tener nuevas máquinas y ser más productivos.  Y encima el gobierno lo trata de arreglar.  sigue aumentando el gasto público, con lo cual son más impuestos, con lo cual lo genera inflación, y ahí es donde aparece el problema. ",
+            "cosine_dist": 0.40360431658551776,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 187.438,
+            "end_time": 195.806,
+            "text": "Ahora, si la inflación se desata aún más, ahí está Pablo, que estaba reclamando a Pablo, acá, acá.  Si se desata más, la gente no va a poder comprar lo mínimo. ",
+            "cosine_dist": 0.9441148336253875,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 195.826,
+            "end_time": 197.908,
+            "text": "La inflación está desatada y va a estar peor. ",
+            "cosine_dist": 0.7275881909660662,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 198.729,
+            "end_time": 201.011,
+            "text": "¿Qué significa bajar? ",
+            "cosine_dist": 0.8563333740827909,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 201.031,
+            "end_time": 219.744,
+            "text": "Vamos a ponerlo en dinámica.  Nosotros tenemos el dato de cuatro o siete que salió ayer.  Eso en términos anualizados.  estamos en los últimos doce meses, cincuenta y dos.  Si tomamos el último bimestre, que es ocho coma ocho por ciento, lo anualizamos, viene bajando a un ritmo del sesenta y cinco por ciento. ",
+            "cosine_dist": 0.41594728306333184,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 219764,
+            "end_time": 220184,
+            "text": "Sesenta y cinco anual. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 221.286,
+            "end_time": 270.453,
+            "text": "Viene viajando en el último bimestre.  Y si tomás el último dato es el que se está adelantando, que se están acelerando.  Y ahora te voy a pasar una noticia muchísimo peor.  Sí, no te pongas mal, pero lamentablemente es así.  A ver, la inflación en alimentos fue del siete coma cinco por ciento.  Eso quiere decir que la inflación en alimentos viene viajando a un ritmo del ciento cuarenta por ciento.  Y además... Pero eso es matemático.  Exactamente.  Sí, pero aparte hay un problema más, que es... El precio de los alimentos está ligado al tipo de cambio.  Y vos tenés una brecha cambiaria del cien por ciento.  Con lo cual, si vos corrigieras, hoy la inflación de alimentos verdadera, sin represión financiera y sin represión monetaria, estaría en el orden del trescientos cuarenta por ciento. ",
+            "cosine_dist": 0.3771744754284241,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 270.513,
+            "end_time": 279.677,
+            "text": "Es muy importante lo que estás diciendo, ¿sabés por?  qué?  Porque todo está apretado.  En realidad, lo que estamos viviendo, que es malísimo, podría ser muchísimo peor. ",
+            "cosine_dist": 0.8506753070600008,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 280.194,
+            "end_time": 304.996,
+            "text": "No, no, es que va a ser peor en la medida que no dejes que los precios se expresen.  Cuanto más tardes en liberar la economía y desincerar la economía, más se te va a caer la inversión, más se te va a caer el producto, más pobre vamos a ser, menos empleo va a haber.  Es decir, que esto de mantener la economía reprimida... Vos, es como que, no sé, es como querer curar un cáncer con una aspirina, digamos, que te va a durar nada. ",
+            "cosine_dist": 0.38612146665098723,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 305.297,
+            "end_time": 327.556,
+            "text": "Faltan un par de cosas sumar también.  Tarifas, estos números no tienen tarifas.  Y algo que el gobierno en medio de lo tiró así, porque trata de explicarlo de mentirita, y es, la guerra no está en este índice.  Acá no hay ningún precio del trigo que haya tocado esto.  Los contratos de trigo que impactaron en la última semana de febrero se habían cerrado tres meses antes.  Los precios de la guerra vienen después. ",
+            "cosine_dist": 0.812087092190935,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 327.936,
+            "end_time": 367.877,
+            "text": "Exactamente, o sea, todavía los efectos de la guerra no están en el índice de precios, o sea, porque hay un periodo para producir.  Entonces, la guerra lleva veinte días y esperemos que pronto se termine.  Y además el ministro es un mentiroso.  Y lo voy a decir abiertamente, porque dice no, porque cuando suben los precios internacionales suben acá.  Eso es mentira, porque si a vos te suben los precios internacionales y vos gastás, y vos querés seguir consumiendo las mismas cantidades, vas a gastar mucha más plata.  Entonces gastás menos en otro y entonces así como sube este precio, baja el otro.  ¿Sabés por qué hay inflación?  Porque hace veintiséis meses que no paran de emitir dinero.  Entonces, como la política monetaria tiene un rezago de dieciocho meses, ¿sabés qué?  Ahora empiezan a haber todas las barbaridades que hicieron desde que llegaron al gobierno. ",
+            "cosine_dist": 0.3452366663313965,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 368.117,
+            "end_time": 371.379,
+            "text": "Pablo, estás desesperado por preguntarme, imagino. ",
+            "cosine_dist": 0.9579321837242329,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 371399,
+            "end_time": 371859,
+            "text": "Dale, dale. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 371.879,
+            "end_time": 372.76,
+            "text": "Dale que hay poco tiempo. ",
+            "cosine_dist": 0.993128796315314,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 373.34,
+            "end_time": 389.989,
+            "text": "Hay una información de último momento, María Laura, y es que finalmente el gobierno amenazó por escrito a los exportadores.  Bueno, si no cumplen con el acuerdo de precios bajos para la carne, van a restringir directamente las exportaciones.  Javier, quiero saber si en el corto plazo esto sirve para controlar la inflación. ",
+            "cosine_dist": 0.7351018498977768,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 390.689,
+            "end_time": 412.646,
+            "text": "No, a ver, eso lo que hace es afectar al nivel de precios, pero la tasa inflacional, esto hay que aclararlo, es la tasa de variación del nivel de precios.  Si yo pongo retención o si yo pongo restricciones, lo único que voy a hacer es modificar el nivel, pero no la tasa de variación.  Pero aparte en el medio, vulnero los derechos de propiedad y termina desapareciendo la mercadería, con lo cual el remedio es peor que la enfermedad. ",
+            "cosine_dist": 0.39588025477645494,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 412.666,
+            "end_time": 417.79,
+            "text": "A ver si lo podés contar de nuevo, porque es una información urgente que Pablo nos está tirando... ",
+            "cosine_dist": 0.8635132878833122,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 418.03,
+            "end_time": 448.712,
+            "text": "Ayer por la tarde algunos exportadores dijeron, algunos productores de carne.  en realidad sostuvieron que no podían seguir cumpliendo con el acuerdo de precios que habían alcanzado supuestamente de común acuerdo, insisto en este término, con el gobierno.  Bueno, hoy nos damos cuenta de que el común acuerdo no existía y esto se... derivó en algo coercitivo.  El gobierno ahora dice, si los que producen carne no cumplen con el programa de precios, no pueden exportar.  ¿Está claro?  Si vos te fijas en el precio, si no, no vendés afuera. ",
+            "cosine_dist": 0.7162654740446457,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 448.732,
+            "end_time": 452.775,
+            "text": "Ahí está.  Si no aceptan la medida, Javier, si no la aceptan, no van a poder exportar. ",
+            "cosine_dist": 0.8873601861792327,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 454.401,
+            "end_time": 500.789,
+            "text": "Bien, a ver, esto está en un ejemplo de un libro de Juan Carlos de Pablo que es brillante.  Va, el presidente llama al ministro de Economía y le dice, quiero que haga bajar el precio de la carne como sea.  Y le dice, ¿usted está seguro que quiere que baje como sea?  Como sea.  Entonces le dice, bueno, el decreto dice que a partir de las veinticuatro horas el carnicero que tenga carne en la carnicería va a ser degollado en la Plaza de Mayo.  ¿Qué pasa?  Entonces salen todos y venden.  ¿Qué pasa con el precio de la carne?  Baja.  Entonces ese día al ministro de Economía lo llevan en andas.  ¿Qué pasa el otro día?  No hay más carne.  El precio es infinito.  Es decir, ¿por qué no hay más?  Entonces, a ver, esto es una medida homeopática que dura cinco minutos y después el resultado termina siendo peor porque no va a haber carne para nadie entonces. ",
+            "cosine_dist": 0.3500373180118326,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 503.314,
+            "end_time": 509.42,
+            "text": "Todo va a ser peor este año.  entonces, digamos.  Yo te pregunto, ¿cómo avisarás los próximos meses?  ¿Qué decís? ",
+            "cosine_dist": 0.9309178736427751,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 510.201,
+            "end_time": 518.77,
+            "text": "Que está todo mal y que el gobierno se empecina en hacer las cosas muchísimo peor.  Por lo tanto, sería increíble que vaya mejor. ",
+            "cosine_dist": 0.4468178591422577,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 519.821,
+            "end_time": 522.043,
+            "text": "¿Puede decir que baje la inflación? ",
+            "cosine_dist": 0.8977515444417082,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 522.063,
+            "end_time": 524.766,
+            "text": "No hay chance de que baje la inflación.  Si está en franca aceleración. ",
+            "cosine_dist": 0.5386308572809259,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 525.167,
+            "end_time": 526.548,
+            "text": "No hay chance directamente. ",
+            "cosine_dist": 0.9293971050901811,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 526.629,
+            "end_time": 537.781,
+            "text": "No, porque aparte se te está cayendo la demanda de dinero.  O sea, los precios te pueden subir.  O porque vos emitís, o porque te cae la demanda de dinero, o porque pasan las dos cosas a. la.  vez.  Y adiviná qué pasa en Argentina. ",
+            "cosine_dist": 0.37006146759121994,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 538.251,
+            "end_time": 539.332,
+            "text": "Las dos cosas a. la.  vez. ",
+            "cosine_dist": 0.9862610605473762,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 539.352,
+            "end_time": 542.475,
+            "text": "Bien, entonces, digamos, ¿qué chances hay de que bajen los precios?  Sería un milagro. ",
+            "cosine_dist": 0.5637166475894843,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 543.496,
+            "end_time": 549.262,
+            "text": "Cuando se congelan los precios sostenidamente, digo, puede llegar a haber desabastecimiento.  Eso a mí me preocupa. ",
+            "cosine_dist": 0.8765930653083088,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 549.302,
+            "end_time": 582.106,
+            "text": "Es un resultado natural de los controles de precios, porque estás vulnerando el derecho de propiedad.  Entonces, el que tiene la posibilidad de vender, no lo vende.  Es más... Esa política no es que el mundo la conoce.  hace dos días.  Hay un libro que se llama Cuatro mil años de controles de precios y salarios.  El subtítulo es ¿Cómo no combatir la inflación?  Hay casos desde el dos mil ochocientos antes de Cristo, en la quinta dinastía de los sumerios, que no funcionó.  No funcionó nunca en ningún lugar.  No funcionó en Argentina tampoco.  El único periodo desde que tenemos Banco Central que no hubo inflación fue justamente durante la convertibilidad que no había controles. ",
+            "cosine_dist": 0.3400563784144077,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 582.126,
+            "end_time": 583.987,
+            "text": "Vos sabés que yo tengo ojos en la espalda, ¿no? ",
+            "cosine_dist": 0.8508695928769401,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 585.436,
+            "end_time": 587.458,
+            "text": "No tengo dudas. ",
+            "cosine_dist": 0.6986614871799388,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 587.498,
+            "end_time": 599.051,
+            "text": "La veo a María, lo veo a Rubén.  Están ahí con todo.  Tengo que tenerlos, porque si no, ¿cómo me entero?  Está desesperado el profe Rubén.  Yo le digo el profe. ",
+            "cosine_dist": 0.8287904449400887,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 599.071,
+            "end_time": 600.873,
+            "text": "No soy profe. ",
+            "cosine_dist": 0.8743170865488679,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 601.714,
+            "end_time": 649.184,
+            "text": "A ver, te agrego algo.  Nos entusiasmamos cuando el presidente dijo guerra.  Bueno, a ver, ¿qué medidas van a hacer a la inflación?  No, yo no me entusiasmé porque no usé esa palabra.  La palabra es horrible.  Otra guerra, otro pedaleo del presidente espantoso.  Pero dijimos, bueno, a ver, viene algo, van a tomar una medida.  Desde ese momento hasta ahora, medidas que tuviste, rapidito, la que acaba de decir Pablo, apretaste a los frigoríficos diciendo, si no cumplen con lo mismo, si no cumplen con lo mismo que no cumplieron antes, le aplico la ley de abastecimiento y además les prohibo las exportaciones.  Dos, ayer citó Roberto Felletti de nuevo a los supermercados y a los minoristas.  ¿Qué les dijo ayer?  Más precios cuidados, más precios congelados.  Esto es lo que se viene el viernes, no esperen otra receta. ",
+            "cosine_dist": 0.8065865272904315,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 649.444,
+            "end_time": 651.806,
+            "text": "Eso es lo que es la guerra, digamos.  Esa es la guerra. ",
+            "cosine_dist": 0.857049187805311,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 651.826,
+            "end_time": 654.067,
+            "text": "Más de lo mismo que siempre fracasó. ",
+            "cosine_dist": 0.7984203797080202,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 654.747,
+            "end_time": 675.977,
+            "text": "Bueno, muchas gracias a Nahum, que me viste toda esta semana, esta ropa divina.  Si la gente me dice y me escribe en cinturón, bueno, parece que la gente joven no usa cinturón.  Posta les digo, ¿eh?  Yo me hubiera puesto un cinto, pero te dicen, no, sin cinturón es más canchero.  ¿Qué sé yo, Milei?  Yo no tengo idea, pero quiero estar al día, ¿entendés? ",
+            "cosine_dist": 0.9012126416760663,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 676.999,
+            "end_time": 680.244,
+            "text": "Lo entiendo por usted, o sea, yo uso, yo soy un señor grande ya. ",
+            "cosine_dist": 0.765348461777537,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 681.405,
+            "end_time": 696.726,
+            "text": "Yo también soy una señora grande, no te creas.  Tenemos que compartir ahora este ratito con nuestros compañeros de horario.  que son Paulina y Eleonora.  Yo quiero ponerles otro nombre, pero por ahora se está resistiendo. ",
+            "cosine_dist": 0.8541252606027728,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 696.746,
+            "end_time": 698.427,
+            "text": "Bueno, pero ese es el que le pusieron. ",
+            "cosine_dist": 0.8655486476506612,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 698.967,
+            "end_time": 713.15,
+            "text": "Y bueno, pero viste cómo es.  Para divertirnos un poco, está Javier Milei acá.  Se montó en una manifestación y vino.  Es casi real, porque estaba todo cortado. ",
+            "cosine_dist": 0.8853524576209447,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 713.41,
+            "end_time": 714.45,
+            "text": "Estaba bastante complicado. ",
+            "cosine_dist": 0.8475751713812556,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 714.47,
+            "end_time": 728.135,
+            "text": "Les cuento a mis compañeros, a Eleonora y a... Te tengo que poner en autos.  Se lo cuento a Eleonora y a Paulino porque además les tengo que preguntar cómo les fue en el cumpleaños porque ella también cumplió años ayer.  ¿Vos sabés que mucha gente importante cumple años el quince de marzo? ",
+            "cosine_dist": 0.8363442033647301,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 728.335,
+            "end_time": 729.316,
+            "text": "Por ejemplo, vos. ",
+            "cosine_dist": 0.8836477857867151,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 729336,
+            "end_time": 729816,
+            "text": "Por ejemplo... ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 730.576,
+            "end_time": 732.337,
+            "text": "Por ejemplo, Eleonora.  Elisabetta Piqué. ",
+            "cosine_dist": 0.8603920340906538,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 733.017,
+            "end_time": 748.406,
+            "text": "Elisabetta Piqué.  También, también.  Vos seguir, ¿eh?  Ojo, ojo al piojo.  Ahí está Javier Milei y lo trajimos porque nos canta La Posta en relación a los números, ¿viste?  Y te cuento, Paulino, que La Posta es de terror. ",
+            "cosine_dist": 0.8751994415302884,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 749.764,
+            "end_time": 806.736,
+            "text": "Y es solo la película de un presente que probablemente marque aspectos más concluyentes en términos de esa inercia que hablaban con Javier, inflacionaria en la que entró la Argentina, a la cual el presidente le ha puesto un día a partir de la cual va a intentar combatirlo, lo cual es ya un desaguisado per se, digamos, porque lleva veintisiete meses gobernando, de eso voy a hablar en un rato.  La verdad es que la impresión que uno tiene generalizada es que estamos en... las postrimerías de decisiones trascendentes para la Argentina con cierto vacío de autoridad general.  No solo presidencial, general.  Es decir, sin liderazgos, ni en la oposición, ni en el oficialismo, ni en la dirigencia gremial, ni en la dirigencia empresaria.  Todo lo cual se torna bastante más anárquico.  Y la calle lo muestra, parcialmente lo muestra. ",
+            "cosine_dist": 0.7411682326216813,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 806.816,
+            "end_time": 813.221,
+            "text": "Es como, a ver, como sostenido en el tiempo, ¿no?  Toda esta situación está sostenida, no mejora. ",
+            "cosine_dist": 0.9066394019367314,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 813.581,
+            "end_time": 820.627,
+            "text": "A ver, si hay algo que se caracteriza el desempeño de Argentina desde el inicio del siglo XX hasta ahora es la decadencia permanente. ",
+            "cosine_dist": 0.5479718950548994,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 820887,
+            "end_time": 821147,
+            "text": "Claro. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 821.948,
+            "end_time": 913.383,
+            "text": "Y en realidad lo que uno ve es que es un equilibrio muy débil, porque en realidad hay un desequilibrio fiscal propio de las grandes crisis, hay un desequilibrio monetario propio de las grandes crisis, hay un desequilibrio... cambiario propio de las grandes crisis.  la situación del mercado laboral es muy precaria, tenemos un mercado de pobreza, tenemos un mercado de pobreza, tenemos un mercado de pobreza, tenemos un mercado de pobreza, tenemos un mercado de pobreza, No solo que está buscando las recetas que siempre fallaron y echarle la culpa a los demás.  En un momento le echa la culpa a Macri.  Y esto hay que aclararlo, yo fui un gran crítico y sigo siendo crítico de lo que fue el gobierno de Macri, pero la realidad es que la política monetaria actúa con un rezago de dieciocho meses.  Si está por cumplir veintisiete meses este gobierno, la culpa es de este gobierno, ya no es de otro.  Y se tiene que hacer cargo.  Y no puede ser que siendo la inflación algo que penaliza tan fuertemente al crecimiento, que penaliza tan fuertemente a los más vulnerables porque pega veinticinco veces más fuerte sobre los que menos tienen... ¿Cómo recién ahora se acuerda de ir a dar una pelea contra los precios?  Más allá de lo desafortunada de la frase que utilizó en el momento que lo hizo. ",
+            "cosine_dist": 0.36824617004941884,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 913.464,
+            "end_time": 933.337,
+            "text": "Y de las recetas repetidas, porque sabemos lo que va a anunciar el viernes, ya anticiparon, vamos a volver a hablar de retenciones, volvemos a hablar de ampliar precios cuidados, volvemos a hablar de fideicomisos.  No inventan nada nuevo.  y con estas recetas ya nos fue mal, nos está yendo mal.  El tema es cuando esto se transforma en algo estructural. ",
+            "cosine_dist": 0.9233823857898078,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 933.677,
+            "end_time": 998.587,
+            "text": "y después cuesta cada vez más salir, ¿no?  Bueno, pero es que es correcto lo que decís, Eleonora.  A ver, esta receta nosotros la conocemos.  La aplicamos en Argentina, no funcionó nunca.  La aplicó el mundo desde el dos mil ochocientos antes de Cristo, no funcionó nunca.  Además implica no entender la naturaleza monetaria de la inflación.  Cuando vos ponés una retención, un control, nunca funciona.  Pero suponiendo que eso pudiera funcionar, Eso hace al nivel de precios, no a la tasa de variación de precios que es la inflación.  Entonces ya tenemos problemas que ni siquiera respetan las definiciones básicas.  Entonces es como, no sé, un día de estos van a querer suspender la ley de gravedad por decreto, Pero espero que se tiren ellos y no que nos tiren a nosotros porque nos va a ir muy mal.  Y eso es lo que hacen todo el tiempo.  Todo el tiempo nos están sometiendo a esto y somos cada vez más pobres.  Y no vamos a salir de esta decadencia si no dejamos de abrazar estas ideas que no solo fueron derrotadas en el plano de la teoría económica, sino que también fueron derrotadas por la evidencia empírica. ",
+            "cosine_dist": 0.40920997330143905,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1000.188,
+            "end_time": 1008.432,
+            "text": "Ahora, ¿son ideas o está como tapando baches, digamos, para que no se caiga todo?  ¿Hay ideas atrás o es un vamos viendo? ",
+            "cosine_dist": 0.8334341359961238,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1008.513,
+            "end_time": 1068.497,
+            "text": "Sí, la idea es cuál es que nos sigan ellos expropiando.  Porque todas estas cosas de echarle la culpa a otro es bien de la casta política, es buscar el culpable en otro lugar, cuando en realidad los verdaderos culpables de esto son los políticos.  Son ellos, digamos, que impulsan una política fiscal demencial.  con déficits fiscales demenciales, que eso tiene varias consecuencias.  Por ejemplo, cuando nos endeudamos, hoy somos el máximo defaulteador serial de la era moderna.  Lo financiamos con emisión monetaria, tenemos una inflación desastrosa, le quitamos tres de cero a la moneda, le podríamos quitar dos más.  Pronto le quitaremos también otro más.  O sea, con lo cual, un desastre inflacionario.  O lo hacen subiendo impuestos.  Tenemos la presión fiscal en blanco, remarco, en blanco, más alta del mundo.  Entonces, ¿qué parte no se dan cuenta que este modelo fracasó?  ¿Sabes lo que pasa, María Laura?  Que no quieren aceptarlo.  Porque los principales beneficiarios de este modelo nefasto, ¿sabes quiénes son?  Los políticos.  Entonces, el problema es que la solución está en manos del propio problema. ",
+            "cosine_dist": 0.4058440189684497,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1070.226,
+            "end_time": 1078.309,
+            "text": "Bueno, ¿entendés que tenés que hacer un programa, Paulino, después de semejante diagnóstico y de un país muy complejo? ",
+            "cosine_dist": 0.8604899674488329,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1078.75,
+            "end_time": 1094.996,
+            "text": "Sí, definitivamente.  Está muy linda la tarde de miércoles, quiero decirles.  Más allá de toda la tensión y la olla a presión que se vivencia en la calle, vamos a ir al encuentro ya con nuestros móviles, Consejo del Salario, lo que está pasando frente al Ministerio de Desarrollo Social, lo que está ocurriendo a lo largo y ancho del país con múltiples protestas que además están inundando ",
+            "cosine_dist": 0.7800935651874153,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1095436,
+            "end_time": 1095997,
+            "text": "la calle, ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1096.717,
+            "end_time": 1105.561,
+            "text": "etcétera, como Rosario, Córdoba.  Por lo tanto, es un día con mucha intensidad, pero para vivirlo muy bien.  ¿Usted lo terminó bien al cumpleaños?  Perdóneme. ",
+            "cosine_dist": 0.8269975172163793,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1105.862,
+            "end_time": 1110.944,
+            "text": "Sí, lo terminé bien.  Tengo un poco de sueño.  Cargo con un poco de sueño que lo vengo manejando, ¿no? ",
+            "cosine_dist": 0.9428906812222192,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1111.284,
+            "end_time": 1112.925,
+            "text": "No se dio cuenta nadie.  Hoy vas a hacer la... ",
+            "cosine_dist": 1.110197732310205,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1113.346,
+            "end_time": 1114.066,
+            "text": "No, lo manejas muy bien. ",
+            "cosine_dist": 0.9892295763015067,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1114.106,
+            "end_time": 1115.507,
+            "text": "Escúchame, ¿vas a hacer la santiagueña? ",
+            "cosine_dist": 0.9648976892327952,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1116.147,
+            "end_time": 1136.407,
+            "text": "¿Qué es eso?  La siesta.  No, no, no, porque si no, prefiero desmayarme a la noche.  Ay, qué lindo que pregunte.  ¿Cómo la pasaste, Leo?  Bien, muy bien.  ¿Vos bien?  Sí, bien, bien.  Y viste cómo es comer, beber, familia.  Comer, beber, acostarnos tarde.  Sí, sí, sí.  Bueno.  Hablemos un poquito de eso.  ¿Quieren contar algo?  ¿Alguna intimidad? ",
+            "cosine_dist": 0.9309266934773522,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1136.427,
+            "end_time": 1138.67,
+            "text": "¿Una cosa?  No, no.  No. ",
+            "cosine_dist": 0.8640290131418471,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1138.93,
+            "end_time": 1146.379,
+            "text": "La próxima hacemos fiesta con María Laura.  Exacto.  ¿Querés?  Pero día de semana no, en lo posible.  Claro, cuando no, lo hacemos un viernes, un sábado. ",
+            "cosine_dist": 0.9448441745115717,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1146.559,
+            "end_time": 1148.201,
+            "text": "Bueno, si quieren yo les hago el asado. ",
+            "cosine_dist": 0.7832778781589279,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1148.542,
+            "end_time": 1149.763,
+            "text": "Dale.  Ahí sí. ",
+            "cosine_dist": 0.9574703247219828,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1150.083,
+            "end_time": 1152.739,
+            "text": "Con lo cara que está la carne.  No, no hay problema. ",
+            "cosine_dist": 0.9677685080461066,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1152.779,
+            "end_time": 1164.629,
+            "text": "El pasado dijo que la iba a comprar la carne.  Yo dije que hacía el asado.  Muy bien.  Lo paga mi ley entonces.  Pensamiento lateral se llama.  Estuvo muy bien.  Igual tengo una buena noticia. ",
+            "cosine_dist": 0.7809809160552073,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1164.729,
+            "end_time": 1167.251,
+            "text": "Pará, nosotros lo compramos, quedate tranquilo. ",
+            "cosine_dist": 1.0101448850038195,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1167.312,
+            "end_time": 1184.516,
+            "text": "Tengo una buena noticia.  Porque usted, señora, lo plantea en términos muy tétricos y feos, pero siempre hay posibilidades de negocio.  ¿Yo qué?  Y después de lo que dije, usted me presentó casi como un monstruo.  Le quiero decir algo.  Vos estás mostrando números tremendos.  Podemos hacer negocios, podemos vender antidepresivos. ",
+            "cosine_dist": 0.5085372427835193,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1185.196,
+            "end_time": 1190.922,
+            "text": "Qué horror.  No, yo estoy diciendo que la realidad es muy dura.  Ah, era humor. ",
+            "cosine_dist": 0.8776836723979264,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1191.222,
+            "end_time": 1198.81,
+            "text": "Bueno, no.  Yo entiendo que ahora, desde que estoy en política, tengo que hacer todo literalmente.  Pero a veces, de vez en cuando, me da la parte humorística. ",
+            "cosine_dist": 0.6663381223332777,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1198.83,
+            "end_time": 1212.282,
+            "text": "No, creo que es muy fuerte.  Nosotros te pedimos y te llamamos para que nos des los números, porque sos economista.  Y después quedamos... Destruido, ¿no?  Pero es verdad que hay que saber la verdad. ",
+            "cosine_dist": 0.872379290570392,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1212.302,
+            "end_time": 1213.002,
+            "text": "Exactamente. ",
+            "cosine_dist": 0.8729611876265166,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1213.062,
+            "end_time": 1215.123,
+            "text": "Hay que conocer la verdad, ¿o no, Paulino? ",
+            "cosine_dist": 1.0130348576694608,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1215.203,
+            "end_time": 1216.244,
+            "text": "Siempre, en todos los casos. ",
+            "cosine_dist": 0.8597436747319986,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1216.424,
+            "end_time": 1217.345,
+            "text": "Siempre, siempre. ",
+            "cosine_dist": 0.8792644038747843,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1218505,
+            "end_time": 1218705,
+            "text": "Bueno... ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1218.865,
+            "end_time": 1220.986,
+            "text": "Disfrute de la tarde de miércoles. ",
+            "cosine_dist": 0.9988802100405344,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1221.047,
+            "end_time": 1235.989,
+            "text": "Sí, me llevo a Javier, ¿eh?  Bueno, muy bien.  No se los dejo.  Gracias, Javier.  Hasta la próxima, estimado Milenio.  Besos.  Beso grande.  Besos.  Hasta mañana. ",
+            "cosine_dist": 0.9468927952306855,
+            "is_target_speaker": false
+        }
+    ]
+}
