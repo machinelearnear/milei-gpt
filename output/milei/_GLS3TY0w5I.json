@@ -1,0 +1,1999 @@
+{
+    "Index": 115,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "_GLS3TY0w5I",
+    "url": "https://www.youtube.com/watch?v=_GLS3TY0w5I",
+    "title": "MILEI DESBURRÓ A PERIODISTA INSOPORTABLE",
+    "duration": 3414.0,
+    "view_count": 2633716,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 0",
+            "start_time": 0.06,
+            "end_time": 2.752,
+            "text": "En diciembre el dólar va a estar en torno a setecientos y pico. ",
+            "cosine_dist": 0.9877734632092967,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2.772,
+            "end_time": 4.573,
+            "text": "¿Qué?  Es que no me importa.  Con lo cual el nivel es... ",
+            "cosine_dist": 0.6176133199351023,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 4.693,
+            "end_time": 12.901,
+            "text": "Ojalá, pero sí, ¿cómo es ese proceso?  Porque nos cuesta, imaginamos, a los trabajadores que nuestro sueldo... Pero mirá, hagamos un ejercicio.  Hoy el salario formal es de dos setenta. ",
+            "cosine_dist": 0.9861588007975703,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 12.961,
+            "end_time": 14.783,
+            "text": "Permitime, permitime terminar esto. ",
+            "cosine_dist": 0.6221932258250784,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 14.843,
+            "end_time": 27.448,
+            "text": "Pero hagamos un juego.  Si yo hoy dolarizo... Pero hagamos un juego, ¿no?  No, es un juego.  Si yo dolarizo, por ejemplo, ¿qué va a venir?  ¿Mi jefe me va a decir desde el mes que viene ganás mil dólares?  ¿Cómo es eso en la práctica? ",
+            "cosine_dist": 1.0380792799095466,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 27.508,
+            "end_time": 28.168,
+            "text": "Sí, ganás en dólares. ",
+            "cosine_dist": 0.845779913529637,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 29.528,
+            "end_time": 31.389,
+            "text": "¿Cómo salta?  de cuatro noventa a mil, por?  ejemplo? ",
+            "cosine_dist": 1.0215337773816615,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 31.629,
+            "end_time": 32.709,
+            "text": "Por otra cosa, si me votan. ",
+            "cosine_dist": 0.6802042372593569,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 32.729,
+            "end_time": 37.21,
+            "text": "¿Pero necesitas, por ejemplo, modificar la constitución?  ¿Vos planteás libre portación de armas? ",
+            "cosine_dist": 0.9793203752025201,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 37.61,
+            "end_time": 40.891,
+            "text": "Cuando vos aplicás el recetario, digo, es claro lo que tenés que hacer. ",
+            "cosine_dist": 0.44570654398932796,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 41.031,
+            "end_time": 43.071,
+            "text": "El tema es si la teoría termina funcionando. ",
+            "cosine_dist": 1.0523660536835477,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 43.491,
+            "end_time": 46.012,
+            "text": "La teoría sí funciona.  Perdón. ",
+            "cosine_dist": 0.6062048363469597,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 47.315,
+            "end_time": 49.096,
+            "text": "¿Cómo estás, Javier?  Bienvenido.  ¿Qué tal, Antonio? ",
+            "cosine_dist": 0.854929336484227,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 49.116,
+            "end_time": 50.157,
+            "text": "Un gusto enorme estar acá. ",
+            "cosine_dist": 0.7539588249957174,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 50.197,
+            "end_time": 55.861,
+            "text": "Bueno, muchas gracias por la visita.  Estás a trece días de la elección.  ¿Cómo te ves? ",
+            "cosine_dist": 1.0839605174619626,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 56.822,
+            "end_time": 93.751,
+            "text": "Estamos muy tranquilos, estamos haciendo un trabajo fuerte... ...y estamos confiados en que los argentinos de bien quieren una Argentina distinta.  Porque una Argentina distinta es imposible con los mismos de siempre... Y aún más todavía, porque son con las mismas propuestas de siempre, con las mismas propuestas que vienen fracasando hace cien años, y nosotros estamos proponiendo un cambio de ciento ochenta grados, impulsando las ideas de Alberti, que son las que hicieron que Argentina, de ser un país de bárbaro en treinta y cinco años, se convirtiera en una potencia mundial. ",
+            "cosine_dist": 0.3446718707811057,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 94.431,
+            "end_time": 97.172,
+            "text": "Desde lo económico, vos seguís planteando la dolarización como salida. ",
+            "cosine_dist": 0.9909790390679993,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 97.612,
+            "end_time": 137.693,
+            "text": "Sí, absolutamente.  No hay otra forma para arreglar el problema inflacionario argentino.  Básicamente, yo lo voy a poner en estos términos.  Hay distintos planos de la discusión.  Uno es moral.  ¿Robar está bien?  Claramente no.  Bueno, digamos, la emisión monetaria para financiar el déficit es equivalente a una falsificación.  Es una estafa.  Por lo tanto, moralmente, deberíamos plantear la eliminación del Banco Central.  Pero ahora vamos a una cuestión técnica.  Yo te traigo ahora... una botella con el mejor vino de todos los tiempos.  Esta es una sociedad de abstemios.  ¿Cuánto vale? ",
+            "cosine_dist": 0.38628933098092455,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 138393,
+            "end_time": 138654,
+            "text": "Cero. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 138.934,
+            "end_time": 208.014,
+            "text": "Cero, exactamente.  Quiere decir que, como los argentinos no quieren los pesos, el valor real de los pesos es cero.  Por lo tanto, cualquier cantidad de dinero que vos tires en la economía argentina está condenado a una hiperinflación.  Nosotros creemos que la única forma de salir de esto es quitarle la navaja al mono asesino que es el Banco Central.  Porque te hablan de independencia.  En la carta orgánica del Banco Central siempre dice que es independiente y sin embargo nunca lo cumplen.  Durante la convertibilidad vos tuviste un banco central que era independiente, que donde la regla monetaria era una regla monetaria dura, era clara, todo el mundo la entendía, era popular porque ganaba elecciones y tenía toda la estructura contractual de la economía ligada a la regla.  Y sin embargo, cuando los políticos ladrones necesitaron... Emitir, porque ya no podían financiarse con deuda, rompieron el contrato y quisieron, nos dijeron que iba a ser diferente.  Y no es diferente, porque primero cuatro años el quiserismo, diez por ciento de inflación promedio, después veinte, después treinta, con Macri cuarenta, hoy viaja al ciento cincuenta, lo tomas en alimentos al doscientos por ciento y tenés una represión de precios entre setenta y cien puntos.  Vamos a suponer que sos presidente. ",
+            "cosine_dist": 0.3107851022219974,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 208.034,
+            "end_time": 212.077,
+            "text": "Sí.  Llegás el diez de diciembre.  ¿Qué haces el diez de diciembre? ",
+            "cosine_dist": 1.0465556677511447,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 212.277,
+            "end_time": 246.784,
+            "text": "Arrancamos con la reforma del Estado.  La reforma del Estado tiene varias dimensiones.  Nosotros vamos a eliminar todos los ministerios salvo siete y vamos a agregar uno.  Nuestros ministerios van a ser el Ministerio de Economía, el Ministerio de Infraestructura, el Ministerio de Capital Humano, Relaciones Exteriores, Seguridad, Justicia, Defensa y Ministerio del Interior.  Esos van a ser los ocho ministerios.  En ese contexto, nosotros lo que planteamos es una reforma del Estado.  La reforma del Estado implica una fuerte reducción del gasto público en partidas donde directamente roba la política. ",
+            "cosine_dist": 0.36994122421507447,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 247.124,
+            "end_time": 275.554,
+            "text": "Pará, dejame porque tengo el gráfico de torta.  Ahí lo pasé, Jimena.  El gráfico de torta del presupuesto.  No sé si lo podemos poner al aire, que lo vea Javier ahí atrás.  ¿Lo tenemos ahí?  Ahí está.  Que es la torta del presupuesto por rubro.  Para entender un poco, a ver, ¿dónde se recorta?  Porque la verdad es que yo veo pasar gobierno si nadie recorta nada, si no aumenta los gastos.  Entonces, realmente, ¿qué posibilidades hay de recortar? ",
+            "cosine_dist": 0.9308906342689418,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 276.815,
+            "end_time": 288.346,
+            "text": "A ver, yo te hago una reflexión.  ¿Sabés cuál es el gran problema de Argentina?  Que la solución está en manos del problema.  Es decir, no quieren dejar de gastar.  Es decir, no... ",
+            "cosine_dist": 0.38787493696241326,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 288.737,
+            "end_time": 293.399,
+            "text": "No, acá pone, pero en el tótem no creo que lo vea porque hay un cámara, así que fíjate lo podemos poner aquí atrás. ",
+            "cosine_dist": 0.9961432144358713,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 293.419,
+            "end_time": 296.9,
+            "text": "Claro, lo violeta es el gasto previsional, después tenés un gran subsidio. ",
+            "cosine_dist": 0.950654690291452,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 296.92,
+            "end_time": 299.761,
+            "text": "Bueno, ves, seguridad social tenés cuarenta y pico por ciento. ",
+            "cosine_dist": 0.9272012753892327,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 300.401,
+            "end_time": 301.141,
+            "text": "¿Se puede recortar? ",
+            "cosine_dist": 0.9033919859541031,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 301.942,
+            "end_time": 353.229,
+            "text": "Ahí no, pero ahora voy a explicar cuáles son las partidas que sí se pueden tocar.  Una partida que vos podés tocar de cuajo y que la política no la quiere tocar, que son cerca de tres puntos del PBI, por ejemplo, es la obra pública.  Vos podés eliminar la obra pública e ir a un sistema de iniciativa privada a la chilena.  Nosotros además le estamos incorporando unas mejoras que hicieron los peruanos, que son way out y sistemas de incentivos a la Suiza para hacerlo además más eficiente y más rápido, que es el mecanismo que utilizó Chile para... Cuando necesito estabilizar, digamos, cuando llegan los Chicago Boys, o sea, tenían que hacer un ajuste fiscal, entonces, ¿cómo hacían para ajustar?  Entonces, diseñaron este mecanismo para que siga existiendo la sobra de infraestructura, pero que en lugar de ser ejecutada por el sector público, sea ejecutada por el sector privado. ",
+            "cosine_dist": 0.27594131493431584,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 353.249,
+            "end_time": 354.83,
+            "text": "O sea, la finanza del sector privado. ",
+            "cosine_dist": 0.9192149629409914,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 355090,
+            "end_time": 355650,
+            "text": "Exactamente. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 355.73,
+            "end_time": 358.091,
+            "text": "Que recupera, ¿cómo?  un peaje en una ruta. ",
+            "cosine_dist": 0.9008094313041128,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 358.151,
+            "end_time": 403.626,
+            "text": "Claro, es un BOT, construir, operar y transferir.  Entonces, ¿la paga quién?  El que la usa.  Ese es el primer punto.  Es más, hay mecanismos por los cuales el Estado te permite financiarte más barato.  Sí, que eso, digamos, es bastante razonable que suceda.  ¿Por qué?  Porque como cuando vos transferís esa obra va a quedar en Estado, una de las cosas que puede aportar el Estado es un paraguas financiero para bajarte el costo financiero.  y la contracara de esa es, transitoriamente, vos tenés en los pasivos del Estado un CUT que se va a ejecutar bajo determinadas características, pero que es un monto muy chiquitito respecto a lo que es el tamaño de la inversión, muy chiquito. ",
+            "cosine_dist": 0.2508942077798437,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 403.646,
+            "end_time": 405.367,
+            "text": "Con eso arrastras puntos. ",
+            "cosine_dist": 1.0420241631813196,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 405.768,
+            "end_time": 413.616,
+            "text": "Ahí ahorras tres puntos del PBI.  Para que tengamos una idea, el déficit fiscal en Nación hoy es cerca de cinco puntos del PBI.  Con lo cual, ya ahí tenés tres puntos. ",
+            "cosine_dist": 0.4402911859296855,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 413.876,
+            "end_time": 420.726,
+            "text": "Vos, para, vos ahorrás los tres puntos, pero la obra pública... En términos prácticos se sigue haciendo, pero lo hace el privado. ",
+            "cosine_dist": 0.9142298833628779,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 420.927,
+            "end_time": 506.157,
+            "text": "Exactamente, por eso hay un Ministerio de Infraestructura que canaliza esas obras.  Porque cuando vos haces el planteo de la iniciativa privada, esa iniciativa privada, no sé, yo quiero hacer un camino de acá a ahí.  Pero ese camino es del Estado Nacional, la tierra.  Entonces tiene que hacer una evaluación si ese proyecto tiene sentido.  Entonces, si le da el OK, entonces vos avanzás con los estudios.  Una vez que se completa toda la fase de estudios, se llama una licitación pública, donde el que hizo los estudios puede perder.  O sea, tiene un pequeño handicap, digamos, por ser el que lo presentó.  O sea, ahí tenés para eliminar tres puntos del PBI.  Otra cosa que en general no se ve en el presupuesto, porque es algo que aparece ex post, y por eso lo podés usar una sola vez.  O sea, es once for all, es una vez para siempre.  que son las transferencias discrecionales.  ¿Por qué las transferencias discrecionales son cinco puntos del PBI?  Claro, no te van a aparecer cuando tenés el presupuesto.  Porque ¿cómo aparece?  Suponete que vos tenés una determinada estimación de recaudación.  Esa estimación de recaudación está ligada a una estimación de desempeño del PBI y a una estimación de inflación.  ¿Qué pasa?  Como siempre se termina subestimando la tasa de inflación, a vos te aparecen nominalmente muchos más ingresos.  Todos esos ingresos adicionales, en general, ¿cómo se gastan?  Se gastan de manera discrecional, donde básicamente... ",
+            "cosine_dist": 0.25076839551978747,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 506.177,
+            "end_time": 508.439,
+            "text": "Es clientelismo, básicamente.  Bien, exacto. ",
+            "cosine_dist": 0.9082169838438665,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 508.459,
+            "end_time": 550.954,
+            "text": "Es una de las... partes más sucias de la política que es se transfiere discrecionalmente a qué provincias a las que son más opaca fiscalmente.  dios son cinco punto el pbi.  cuántas veces lo puedes usar una.  pero fíjate qué quiere decir que si vos pisarás el gasto público y esos incrementos de recaudación no los utilizarás para gastar.  te dejas en equilibrio las cuentas públicas y con lo que te ahorraste de la obra pública estás en superávit de tres.  Además, vos tenés un problema con lo que tiene que ver con los subsidios económicos.  Sí, con esa porción que pasa en un posible gobierno tuyo.  Bien, lo que vos tenés que hacer es una recalibración de la ecuación económica financiera del contrato. ",
+            "cosine_dist": 0.2659432657588757,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 551.975,
+            "end_time": 555.257,
+            "text": "Está bien, habla en lenguaje bien callado. ",
+            "cosine_dist": 0.9051242814378935,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 555.737,
+            "end_time": 574.316,
+            "text": "Sí, técnicamente se llama así, ahora yo lo traduzco, voy a hacer el me.  Básicamente esto quiere decir que los ingresos que vos generás, sean suficientes para pagar todos tus costos.  Correcto.  Incluido la retribución del capital.  Hasta ahí vamos.  Está bien.  Bien. ",
+            "cosine_dist": 0.3339987941632594,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 575.537,
+            "end_time": 576.497,
+            "text": "Ahí estás en equilibrio. ",
+            "cosine_dist": 1.011787188846069,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 576.897,
+            "end_time": 589.161,
+            "text": "Claro.  Ahora vos tenés varias formas de hacerlo.  Vos podés hacer todo ese cargo sobre el precio o vos lo podés lograr de distintas maneras.  Reprogramando las inversiones, modificando la política. ",
+            "cosine_dist": 0.26549961830144486,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 589.181,
+            "end_time": 591.802,
+            "text": "Diez años más de concesión, veinte años más de concesión.  Sí. ",
+            "cosine_dist": 0.956114222769486,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 592.362,
+            "end_time": 603.772,
+            "text": "Otras cosas que vos podés hacer que son financieras, por ejemplo, modificar el nivel de apalancamiento.  ¿Cuánto se puede endeudar una empresa?  ¿Cuántos dividendos puedes pagar?  Eso te cambia el mix de financiamiento y te baja el costo del financiamiento. ",
+            "cosine_dist": 0.321263052452897,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 603.792,
+            "end_time": 606.414,
+            "text": "Pero en concreto, por ejemplo, con potenciar trabajo. ",
+            "cosine_dist": 0.9269547353801368,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 606.454,
+            "end_time": 609.037,
+            "text": "¿Qué pasa?  Dame un trabajo, porque este es un tema que son cinco puntos del PBI. ",
+            "cosine_dist": 0.5757960356594696,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 609.397,
+            "end_time": 615.08,
+            "text": "Pero para eso son subsidios, lo que vos estás hablando acá, subsidios, pero básicamente de servicios públicos lo que estás planteando. ",
+            "cosine_dist": 0.9378515075172728,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 615.1,
+            "end_time": 644.594,
+            "text": "Exactamente, sí, pero son cinco puntos de PIB.  Entonces, veamos que son partidas muy importantes.  Entonces, esto lo que a vos te permite es recomponer el equilibrio de las empresas, minimizando el impacto en precios.  Entonces, por ejemplo, otra cosa que se puede hacer, que en términos de flujo de fondos para la empresa es un montón, es eliminar el impuesto a las ganancias reinvertidas.  Cuando vos reinvertís esa plata, a vos no te cobran impuestos en las ganancias.  Con la clave de que si vos la vendés, en la venta no te cobren. ",
+            "cosine_dist": 0.31980246643389254,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 644.794,
+            "end_time": 654.218,
+            "text": "Todo esto traducido para la persona que está del otro lado es, vos eliminás subsidios por parte del Estado como gasto público, lo que no implica que te aumente la tarifa en forma... ",
+            "cosine_dist": 0.9121016865852865,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 654.598,
+            "end_time": 665.703,
+            "text": "Exactamente.  Yo lo que estoy explicando es la ingeniería financiera para recomponer la ecuación económica financiera de las empresas, pero con el mínimo impacto sobre el precio de la gente. ",
+            "cosine_dist": 0.41040292148775004,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 666.463,
+            "end_time": 667.864,
+            "text": "Eso es servicios públicos. ",
+            "cosine_dist": 1.0447205995527096,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 667.904,
+            "end_time": 678.093,
+            "text": "Claro, pero Aranguren como lo hizo, lo mandó todo a precios, hizo un desastre.  Entonces sí, equilibró, pero ¿cómo?  A costa de reventarnos con la recesión.  Está clarísimo. ",
+            "cosine_dist": 0.3688138014199501,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 678.113,
+            "end_time": 685.819,
+            "text": "Si vos a una empresa le das distintas ventajas competitivas en su operación, con lo cual vos, Estado, quitás el subsidio y la empresa no tiene por qué mandar todo a tarifa. ",
+            "cosine_dist": 0.9772152553322877,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 686.139,
+            "end_time": 694.083,
+            "text": "Exacto, porque te estoy bajando los costos.  Es toda una ingeniería financiera para bajarte los costos.  Entonces, ¿cuánto necesito subir los precios?  Mucho menos. ",
+            "cosine_dist": 0.372409099813346,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 694.124,
+            "end_time": 696.945,
+            "text": "¿Y vos esto lo hablás con las empresas o es algo que vos vas a plantear? ",
+            "cosine_dist": 1.0562829863350176,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 697.005,
+            "end_time": 717.637,
+            "text": "No, no, yo esto lo tengo discutido con las empresas.  Digo, aparte, vamos, vengo de una empresa que tenía el negocio regulado.  O sea, digo, estas cosas yo las hice en cincuenta países del mundo.  Es decir, yo me dedicaba, vivía de esto.  Entonces, si vos te fijás... Acabo de mostrar cómo se pueden bajar trece puntos del PBI sin costo social. ",
+            "cosine_dist": 0.3640802150672853,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 718458,
+            "end_time": 718698,
+            "text": "Bien. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 719.459,
+            "end_time": 743.816,
+            "text": "Esto no es menor.  Después quedan dos puntos del PBI que se pueden tocar, son más difíciles, algunos demandan más tiempo y otros son más difíciles.  Ejemplo, terminar con el déficit de las empresas públicas.  O sea, yo soy partidario de privatizar o entregarlas a los empleados.  Cada caso tiene su particularidad y eso es un punto del PBI, pero eso demanda tiempo.  Ejemplo, no sé, Aerolíneas. ",
+            "cosine_dist": 0.2857633569454727,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 743.836,
+            "end_time": 745.177,
+            "text": "Pero eso no es el día de diciembre. ",
+            "cosine_dist": 1.0246180869174037,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 745.417,
+            "end_time": 768.19,
+            "text": "Claro, eso no lo podés hacer instantáneo.  Entonces, por ejemplo, vos, no sé, Aerolíneas.  Yo soy partidario de dársela a los empleados.  Ahora, y le das un año de Working Capital para que puedan acomodar la cuenta y poder echar a todos los parásitos que hacen... que no funciona la empresa y que ensucia a los trabajadores de bien.  Y no solo eso, sino que lo otro, que es otro punto más del PBI... ",
+            "cosine_dist": 0.26595771850417005,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 768.23,
+            "end_time": 769.651,
+            "text": "Que eso lo venían los propios trabajadores. ",
+            "cosine_dist": 0.9221059134259826,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 769.852,
+            "end_time": 783.401,
+            "text": "Exactamente, exactamente.  Y lo otro que es un punto más del PBI es el tema de las jubilaciones de privilegio.  ¿Es un punto del PBI?  Es un punto del PBI, es equivalente al déficit de las empresas del Estado. ",
+            "cosine_dist": 0.4355761671503987,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 783.421,
+            "end_time": 786.103,
+            "text": "¿Sabes que todos los que nos dijeron que se habían eliminado hace tiempo, y yo esto es mentira... ",
+            "cosine_dist": 0.9971485450634442,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 786.693,
+            "end_time": 789.014,
+            "text": "Y hay regímenes de privilegio y son un punto del PBI. ",
+            "cosine_dist": 0.714446831601258,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 789.194,
+            "end_time": 792.675,
+            "text": "No, pero una cosa son los regímenes especiales que además tienen aportes especiales. ",
+            "cosine_dist": 1.030587330113326,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 793.135,
+            "end_time": 794.876,
+            "text": "Sí, pero también está la jubilación de privilegio. ",
+            "cosine_dist": 0.6488794420843024,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 794.896,
+            "end_time": 797.116,
+            "text": "Bueno, sigue habiendo jubilación de privilegio. ",
+            "cosine_dist": 0.924529925433717,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 797.237,
+            "end_time": 809.881,
+            "text": "Y como la de Cristina, por.  ejemplo.  Entonces, vos tenés ahí en total quince puntos del PBI.  Eso no solo que te permite equilibrar las cuentas públicas, sino que además te da margen para bajar impuestos. ",
+            "cosine_dist": 0.3540623451069699,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 810.321,
+            "end_time": 813.502,
+            "text": "Y eso sería casi inmediato, más allá de lo de... ",
+            "cosine_dist": 0.958795053012186,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 814.082,
+            "end_time": 824.045,
+            "text": "No, hay algunos que son más rápidos, hay cosas que vos las podés hacer más rápidas.  Por ejemplo, lo que sí vos podés hacer, y te tarda un año, es limpiar todo el efecto de las transferencias discrecionales. ",
+            "cosine_dist": 0.3270503340428952,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 824165,
+            "end_time": 824565,
+            "text": "Está bien. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 825.085,
+            "end_time": 832.568,
+            "text": "Otra cosa que la recalibración de la ecuación económica financiera del contrato te lleva un año, porque es hacer las RTI de vuelta. ",
+            "cosine_dist": 0.3365231007306344,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 832.588,
+            "end_time": 837.449,
+            "text": "Pero vos, eso, un día de diciembre empezás, arrancas el día de diciembre, el otro año terminaste. ",
+            "cosine_dist": 0.9114454232343785,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 837.99,
+            "end_time": 839.37,
+            "text": "Exactamente, a fin de año terminaste. ",
+            "cosine_dist": 0.530577668689195,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 839.39,
+            "end_time": 845.232,
+            "text": "Ahora, ¿todo esto lo tenés que hacer antes de dolarizar, o vos en paralelo, digamos ya un once, doce de diciembre, podés dolarizar? ",
+            "cosine_dist": 1.0160237877709597,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 845.752,
+            "end_time": 867.141,
+            "text": "A ver, el tema de la dolarización lleva tiempo, o sea, se lanza en paralelo.  Nosotros el proyecto ya lo tenemos.  Nosotros estamos pensando un proyecto, que esto es un diseño maravilloso que hizo Emilio Campo, que es una mixtura entre el caso de Ecuador con el caso de... El Salvador. ",
+            "cosine_dist": 0.3183472321247278,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 868.022,
+            "end_time": 870.903,
+            "text": "El Salvador no está dolarizado. ",
+            "cosine_dist": 0.8465725458228586,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 871.083,
+            "end_time": 946.067,
+            "text": "Te cuento cómo es el caso.  En el caso de Ecuador, se le dijo, bueno, de acá tres meses se dolarizan.  Vos tenés que cambiar todos tus sucres por dólares.  A tres meses.  Cuando lo quisieron hacer, ¿qué pasó?  No pudieron.  ¿Cuál es el problema?  El problema es que vos necesitás el cambio chico.  Hay una cuestión operativa.  Fíjate esto, el billete más grande de Argentina, que es el de dos mil pesos, son cuatro dólares.  Son menos de cuatro dólares.  O sea, tenés un problema enorme.  Es decir, operativamente, nosotros estamos acostumbrados a andar con billetes de cien.  O sea, entonces... Entonces dieron una prórroga de tres meses más y recién lo pudieron hacer a los nueve meses.  En el caso de El Salvador, le dieron la opción a la gente de cambiarlo cuando se le dé la gana.  La gente cambiaba los colonos por los dólares cuando se le daba la gana.  Todo el proceso duró veinticuatro meses.  ¿Qué es lo interesante?  Que esto es una idea maravillosa de las tantas de Emilio.  Que cuando vos convertiste dos tercios de la base... tenés un plebiscito.  Terminás de convertir y queda la economía dolarizada.  ¿Qué quiere decir esto?  Que por lo menos nos va a tardar nueve meses en hacer eso.  Ese es el tema. ",
+            "cosine_dist": 0.27028314471276216,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 946.087,
+            "end_time": 952.739,
+            "text": "Está bien, pero pará.  Pero vos el día de diciembre, no importa.  ¿Empieza el proceso? ",
+            "cosine_dist": 0.9459192817336055,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 952.799,
+            "end_time": 955.861,
+            "text": "Empieza todo el proceso, claro.  Lo primero es mandar las leyes. ",
+            "cosine_dist": 0.5705612943153902,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 956.622,
+            "end_time": 959.845,
+            "text": "¿Su moneda de curso legal, el dólar, empieza a ser en enero? ",
+            "cosine_dist": 0.9066828442057938,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 960.165,
+            "end_time": 964.688,
+            "text": "No, el dólar empieza a ser la moneda cuando podés dolarizar. ",
+            "cosine_dist": 0.4151203496930961,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 964.708,
+            "end_time": 965.729,
+            "text": "Cuando yo tenga los dos tercios. ",
+            "cosine_dist": 1.1219427999593399,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 965.769,
+            "end_time": 973.916,
+            "text": "Si una moneda, vos lo sabés mejor que yo, tiene fecha de vencimiento, ¿no?  Sabemos que en nueve meses se dolariza la economía.  Nadie va a querer tener pesos.  ¿Qué hacés en ese periodo? ",
+            "cosine_dist": 0.939983606811413,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 974.056,
+            "end_time": 1020.03,
+            "text": "No, es al revés.  Es al revés.  Porque ese argumento lo hicieron algunos economistas diciendo que eso precipitaba una hiperinflación.  Y en realidad es al revés.  Yo te hago una pregunta.  El peso, ¿qué es para el Banco Central?  Es una deuda.  El peso es pasivo del Banco Central, junto a las LELICs, que esta es otra parte muy importante del proceso.  Cuando vos vas a rescatar una deuda, ¿la deuda vale más o vale menos?  La deuda vale más.  Por lo tanto... el peso y esas relics van a valer más.  ¿Por qué?  Porque básicamente vos estás diciendo que vas a pagar esa deuda.  Claro, entonces, lejos de generarte la hiper, en realidad lo que hace es que te estabiliza la economía. ",
+            "cosine_dist": 0.30723325958759773,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1020.05,
+            "end_time": 1032.413,
+            "text": "Yo te digo lo que le pasa a la gente en la calle.  Un pequeño arrista que compra cien dólares por mes y sabe que en nueve meses va a salarizar, ¿va a querer tener pesos en la mano o va a querer ya irse en enero o en febrero?  mientras ese proceso va a volver? ",
+            "cosine_dist": 0.9548959116256466,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1032.433,
+            "end_time": 1038.333,
+            "text": "No importa.  Nosotros, como lo estamos pensando como el formato como El Salvador, pero con un... ",
+            "cosine_dist": 0.3848568747017701,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1038.393,
+            "end_time": 1041.635,
+            "text": "Claro, pero la gente va a acelerar la dolarización. ",
+            "cosine_dist": 1.0078336356060245,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1041.734,
+            "end_time": 1058.621,
+            "text": "Bueno, pero digo, ¿la puedes hacer al tipo de cambio de mercado?  ¿Cuál es ese problema?  ¿No es un problema?  Ese no es un problema, o sea, vos... Lo otro que también es muy importante, la dolarización se hace al tipo de cambio de mercado.  Hoy sería a quinientos cincuenta pesos, quinientos sesenta pesos, o sea, no a cualquier delirio de lo que... ",
+            "cosine_dist": 0.34493114897905786,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1058.641,
+            "end_time": 1062.864,
+            "text": "Y el Banco Central, ¿qué pasa el once o seis de diciembre?  ¿Lo cerrás? ",
+            "cosine_dist": 0.9963806002838973,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1062.884,
+            "end_time": 1089.174,
+            "text": "El Banco Central, no, no, no es que lo cerrás, o sea, primero tenés que liquidar la base y en realidad antes vas a tener que liquidar el problema de los pasivos remunerados, ya sea las LELICs.  Eso para nosotros, eso nosotros tenemos otra ingeniería financiera.  Son dos partes.  Vos tenés que rescatar la base monetaria y tenés que rescatar las LELICs.  Lo voy a redondear.  Diez mil millones de dólares de base monetaria, treinta mil millones de dólares de LELICs.  Delirio. ",
+            "cosine_dist": 0.2641286617764712,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1089.234,
+            "end_time": 1091.376,
+            "text": "Es un delirio la cifra.  Sí. ",
+            "cosine_dist": 0.9615950505289784,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1092.452,
+            "end_time": 1125.543,
+            "text": "Cuando vos tomás las reservas, no las netas, que también este es otro error de los economistas.  El FMI computa las reservas internacionales netas porque lo hace para chequear la consistencia macroeconómica del programa en términos de política fiscal y de política monetaria.  Cuando vos vas a liquidar el Banco Central tenés que ver cuánto tenés físico para rescatar los pesos.  Vos, cuando mirás adentro del Banco Central, tenés la posición de oro, la posición de DEX, la posición del BIS y la posición de SEDESA.  Con eso tenés cerca de diez mil millones de dólares. ",
+            "cosine_dist": 0.2453091949463585,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1126.063,
+            "end_time": 1127.224,
+            "text": "Bien, ahí tenés la base. ",
+            "cosine_dist": 0.9713417854863725,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1127.664,
+            "end_time": 1143.763,
+            "text": "Bien, rescataste la base.  Quiere decir que me queda por rescatar las LELICs, que son treinta mil millones de dólares.  En el activo del Banco Central vos tenés títulos públicos por el equivalente a noventa mil millones de dólares.  Que hoy a mercado, ¿cuánto cuestan los títulos argentinos?  Un tercio. ",
+            "cosine_dist": 0.3151187807968351,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1143.984,
+            "end_time": 1145.124,
+            "text": "O sea, los treinta mil millones. ",
+            "cosine_dist": 0.9916111115107981,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1145.464,
+            "end_time": 1152.908,
+            "text": "Listo.  Gracias.  Acabamos de dolarizar.  Ese es el mecanismo más fácil. ",
+            "cosine_dist": 0.45009164081523456,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1153.268,
+            "end_time": 1155.129,
+            "text": "Le avisan a Marta, por favor, ¿no?  A partir de ahora. ",
+            "cosine_dist": 0.9611978389951973,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1156.215,
+            "end_time": 1219.735,
+            "text": "A ver, lo que quiero decir, este es el mecanismo más fácil, donde además es un negocio fenomenal.  Porque ¿cuál es el riesgo más grande que tiene Argentina?  El riesgo moneda.  Por lo tanto, una vez que vos dolarizas, terminaste con el riesgo moneda.  Además... Por el rebote que te genera la estabilización, el riesgo de contraparte, o sea, el riesgo de crédito también decae.  Y el riesgo de moneda, que desaparece directamente, bajar el riesgo de contraparte, el riesgo de tasa se hace muy chico.  ¿Qué quiere decir esto?  Que se te desploma el riesgo país.  La tasa de interés cae mucho.  ¿Qué quiere decir esto?  Que los títulos públicos van a maler un montón.  Es decir, el que entre en esa operación va a ganarla el campeonato mundial.  Por eso también, que esa es la forma más rápida y esos dólares lo tenemos para hacer, porque eso es un negocio tan claro el negocio.  Lo que nosotros queremos... Perdón, pasa el chino con el agua, para vos.  Lo que queremos hacer es el tema que... Gracias.  Avanzar en la de Emilio Campos para que parte de esa ganancia de capital quede adentro del Estado y eso te permita además reducir la deuda. ",
+            "cosine_dist": 0.2750379257761658,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1220.115,
+            "end_time": 1222.676,
+            "text": "Ahora vamos a la calle. ",
+            "cosine_dist": 0.8387802707257297,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1222997,
+            "end_time": 1223537,
+            "text": "Vamos a la calle. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1224.326,
+            "end_time": 1229.83,
+            "text": "Vos empezás el día de diciembre, haces todos los proyectos de ley para reforma del Estado, para bajar la cantidad... ",
+            "cosine_dist": 0.9504494179432821,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1229850,
+            "end_time": 1230330,
+            "text": "Ya los tenemos. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1230.65,
+            "end_time": 1239.997,
+            "text": "Sí, los presentás, vamos a ver cómo va a ser el Congreso, para reducir... ¿Vas a reducir cuánto?  ¿Catorce puntos?  Inicialmente, trece, catorce puntos. ",
+            "cosine_dist": 0.9544888588408512,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1240.017,
+            "end_time": 1245.801,
+            "text": "Nosotros estamos apuntando a bajar quince, no lo lográs el primer año, o sea, es a lo largo de un par de años. ",
+            "cosine_dist": 0.3882126986822707,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1245.841,
+            "end_time": 1257.267,
+            "text": "Y empezás todo el proceso... Del Banco Central y de la dolarización.  Mientras tanto, en la calle, la gente sigue cobrando en pesos.  ¿Qué pasa con el CEPO?  ¿Qué pasa con el mercado cambiario? ",
+            "cosine_dist": 0.9075423962683359,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1257.507,
+            "end_time": 1261.888,
+            "text": "El día que limpiaste las LELICs, podés abrirlo sin ningún problema. ",
+            "cosine_dist": 0.44927445657590814,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1261.908,
+            "end_time": 1268.07,
+            "text": "O sea que inicialmente el CEPO sigue.  El primer tiempo de tu gobierno el CEPO sigue. ",
+            "cosine_dist": 0.9538554054210772,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1268.37,
+            "end_time": 1270.09,
+            "text": "Sí, es hasta el que vos levantás las LELICs. ",
+            "cosine_dist": 0.6204108876332164,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1270.23,
+            "end_time": 1272.971,
+            "text": "Que eso más o menos para el que está mirando cuánto puede llevar. ",
+            "cosine_dist": 1.1382254190746774,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1272.991,
+            "end_time": 1279.319,
+            "text": "Depende de cómo estructures la operación, puede demandar un mes, dos meses.  Está bien.  Depende de cómo logres estructurar la operación. ",
+            "cosine_dist": 0.5287972003236057,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1279.339,
+            "end_time": 1287.226,
+            "text": "O sea, alguien que te vote a vos se tiene que imaginar en febrero o marzo, por ejemplo, que se levanta el CEPO y en septiembre de dos mil veinticuatro, si sale bien el plan, más o menos va a analizar. ",
+            "cosine_dist": 0.9705983492063626,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1287.846,
+            "end_time": 1294.032,
+            "text": "Y es precio de mercado, porque viste que se hablaba de dos mil pesos, tres mil pesos, siete mil pesos, porque le dividían la base monetaria y la cantidad de... ",
+            "cosine_dist": 0.9994676051896502,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1294.472,
+            "end_time": 1305.704,
+            "text": "Sí, pero tomaban definiciones de reservas discutibles, le sacaban cosas que no le tenían que sacar.  Y tomaban cantidad de dinero que... ",
+            "cosine_dist": 0.4054062219430574,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1306.124,
+            "end_time": 1307.826,
+            "text": "Tu dolarización es precio de mercado hoy. ",
+            "cosine_dist": 1.0212539419935267,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1307.966,
+            "end_time": 1312.089,
+            "text": "Precio de mercado.  Siempre es a mercado.  Siempre es a mercado porque si no, no tiene sentido. ",
+            "cosine_dist": 0.3825769263468324,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1312.109,
+            "end_time": 1315.271,
+            "text": "Y siempre el dólar va a estar en torno a setecientos y pico. ",
+            "cosine_dist": 0.9997748531073859,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1315.291,
+            "end_time": 1320.936,
+            "text": "¿Qué es que no me importa?  Siempre lo hago a mercado.  Porque eso es precio, lo demás no es precio.  ¿Cuál es el punto? ",
+            "cosine_dist": 0.3740813785777296,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1321.416,
+            "end_time": 1327.1,
+            "text": "¿Cómo haces para que no se te vaya a precios todo eso?  Porque viste, en la Argentina todos suben, aprovechan todo para subir. ",
+            "cosine_dist": 0.9403252413133825,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1327.781,
+            "end_time": 1331.344,
+            "text": "A ver, primero, precios medidos en qué moneda. ",
+            "cosine_dist": 0.5859535784134005,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1332.421,
+            "end_time": 1335.903,
+            "text": "No, hasta en dólares, tenemos inflación en dólares.  Bien, bueno, acá hay... ",
+            "cosine_dist": 0.8891463878272144,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1335.943,
+            "end_time": 1354.176,
+            "text": "Por eso te digo, acá los comerciantes... Acá hay dos dimensiones.  La inflación es la pérdida del poder adquisitivo del dinero.  ¿Esto qué quiere decir?  Que si vos eliminás el peso, no tenés más inflación.  El punto es, y esto es muy atinente lo que estás preguntando... ",
+            "cosine_dist": 0.3925168606402578,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1354.236,
+            "end_time": 1356.338,
+            "text": "Es inflación en dólares en Argentina. ",
+            "cosine_dist": 0.8158379228629331,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1356.358,
+            "end_time": 1415.936,
+            "text": "Es si va a haber inflación en dólares.  La respuesta es... Transitoriamente, sí.  ¿Por qué?  Porque vos vas a tener que tener una recomposición de precios relativos fruto de veintipico de años de distorsiones.  Lo voy a poner en estos términos.  Cuando vos estabilizaste con la convertibilidad, ¿qué era lo interesante de la convertibilidad?  Que solamente se emitía dinero contra demanda de dinero.  ¿Qué quiere decir?  Que oferta y demanda de dinero siempre eran iguales.  Quiere decir que el poder adquisitivo del dinero no podía caer.  Sin embargo, vos tuviste inflación desde abril del noventa y uno hasta enero del noventa y tres.  O sea, durante veinte meses vos tuviste inflación.  Momento a partir del cual vos pasás a ser el país con menos inflación del mundo.  ¿Por qué?  Porque vos venías de dos hiperinflaciones.  Venías de la hiperinflación de Alfonsín y la hiperinflación de Menem con el plan de Bungibor.  Sí.  O sea, y eso... Ahora, la pregunta es, el precio de los alimentos, ¿en qué está determinado? ",
+            "cosine_dist": 0.26146356056636166,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1416577,
+            "end_time": 1417097,
+            "text": "En dólares. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1417.157,
+            "end_time": 1427.477,
+            "text": "En dólares.  En toda esta recomposición de precios, el precio que más va a subir de la economía, ¿cuál crees que es?  El salario.  Sí.  Con lo cual el nivel es... ",
+            "cosine_dist": 0.38708107792749435,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1427.557,
+            "end_time": 1432.379,
+            "text": "Ojalá, pero sí, ¿cómo es ese proceso?  Porque nos cuesta, imaginamos a los trabajadores que nuestro sueldo... ",
+            "cosine_dist": 1.0002517985043806,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1432.8,
+            "end_time": 1462.045,
+            "text": "Porque en términos de teoría monetaria se llama el efecto Hume-Cantillon.  Y es cuando vos ingresás el dinero, cuáles son los precios que van subiendo.  Ejemplo, supongamos que yo tengo una situación donde, no sé, se me cayó la demanda de dinero.  Entonces, cuando se me cae la demanda de dinero, primero me sube el tipo de cambio, o sea, me sube el dólar.  Después del dólar, ¿qué me sube?  Me suben los precios de los transables, después me suben los mayoristas, después los minoristas y a la cola, ¿quién viene?  El trabajador. ",
+            "cosine_dist": 0.30076663752966537,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1462.065,
+            "end_time": 1463.466,
+            "text": "Sí, siempre último. ",
+            "cosine_dist": 1.130019698743386,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1463.486,
+            "end_time": 1492.542,
+            "text": "Claro, y bueno, por eso tenés la licuación de salario real que tenés.  Desde la mitad del gobierno de Macri para acá, se perdió un tercio del salario real.  Y esa dinámica, ¿cómo se sostiene?  Se sostiene con inflación acelerando.  Si vos decís, no, no tengo un problema en el mercado de trabajo porque tengo siete por ciento de desempleo.  Mentira.  O sea, a ver, el decir más alto de la distribución en Argentina gana menos de mil dólares.  O sea, un chico en McDonald's en Estados Unidos gana tres mil.  Dale, tenemos un problema. ",
+            "cosine_dist": 0.29598084941711345,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1493.082,
+            "end_time": 1495.524,
+            "text": "Pero mira, hagamos ejercicio. ",
+            "cosine_dist": 0.8179747978971914,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1495.544,
+            "end_time": 1504.937,
+            "text": "Hoy el salario formal es de dos setenta.  Permitime terminar esto.  ¿Esto qué quiere decir?  Que en esta dinámica donde yo voy acelerando la inflación, Los salarios corren de atrás. ",
+            "cosine_dist": 0.2960394930098246,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1505.697,
+            "end_time": 1507.46,
+            "text": "Hoy, claramente, hace siete años. ",
+            "cosine_dist": 0.8888956192808187,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1507.5,
+            "end_time": 1517.913,
+            "text": "El día que yo paro, todos estos que venían corriendo de atrás, ¿qué hacen?  Empiezan a empatar a los que estaban adelante.  Es la propia dinámica del sistema. ",
+            "cosine_dist": 0.3471039225307403,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1517.933,
+            "end_time": 1520.235,
+            "text": "Pero hagamos un juego.  Si yo hoy dolariza... ",
+            "cosine_dist": 1.0445172965539893,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1520.255,
+            "end_time": 1523.396,
+            "text": "Si lográs que te aumenten los salarios... Más allá del... ",
+            "cosine_dist": 0.9401568138639627,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1523.616,
+            "end_time": 1530.3,
+            "text": "Pero toda la recomposición de precios que vos vas a tener, el precio que más se va a recomponer en dólares, es el salario. ",
+            "cosine_dist": 0.3584004121490507,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1530.86,
+            "end_time": 1551.291,
+            "text": "Pero hagamos un juego, ¿no?  No, es un juego.  Si yo hoy dolarizo, por ejemplo, un sueldo formal sería más o menos de cuatrocientos noventa dólares.  Hoy, ¿no?  Dolarizamos, yo paso a cobrar cuatrocientos noventa.  qué hago o qué que va a venir mi jefe y me va a decir desde el mes que viene ganas mil dólares como como es si ganas en dólares. ",
+            "cosine_dist": 1.0385115501956763,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1551.371,
+            "end_time": 1566.997,
+            "text": "hoy tenés doscientos setenta mil pesos un salario promedio pasado a dólares cuatrocientos noventa.  así sería dolarizado al valor de mercado a mercado porque mi salario en dólares va a aumentar para que yo gane como salta de cuatro noventa mil por. ",
+            "cosine_dist": 0.9161959352935984,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1567017,
+            "end_time": 1567317,
+            "text": "ejemplo. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1568.997,
+            "end_time": 1601.845,
+            "text": "vos ahora vas a tener precios que siguen subiendo.  Y te van a seguir subiendo en dólares, que son los que vienen de atrás de los transables.  En ese contexto, esa gente va a subir esos precios.  ¿Y qué pasa?  El salario le va a resultar relativamente más barato.  Entonces, ¿qué es lo que va a pasar?  Van a salir a contratar gente.  porque ahora los salarios en dólares son tan bajos respecto a los precios, ¿qué es lo que va a pasar?  Se van a expandir productivamente... ",
+            "cosine_dist": 0.2629011751704753,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1601.865,
+            "end_time": 1609.851,
+            "text": "Sos un optimista, creo que.  Pero sos un optimista cuando vos pensás que las empresas van a pagar más salario.  Yo ahí es donde tengo mis dudas, pero... ",
+            "cosine_dist": 0.9529705820036971,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1610.611,
+            "end_time": 1659.088,
+            "text": "A ver, lo voy a poner por la negativa.  Suponete que no pasara.  Listo, se terminó la inflación.  No, no, eso está claro.  A ver, primer punto, se te terminó la inflación, con lo cual, a ver, ahora la pregunta es, la inflación, siendo un impuesto tan regresivo, ¿a quién es a los que le pega más?  A los que menos ganan.  A los que menos tienen, por lo tanto, digo, con solo eso es una mejora.  Cuando vos tenés la recomposición de precios relativos, la empresa, cuando, digamos, se ve más rentable, se va a querer expandir.  Cuando se va a expandir, ¿qué va a pasar?  ¿Se va a llevar los trabajadores?  Ese proceso va a ser un proceso de, a partir del segundo año, Pero vos fíjate, esto pasó en veinte meses en Argentina cuando hiciste la convertibilidad.  Los salarios en dólares volaron.  Bueno, está bien, digamos, la inflación vos dejás de emitir hoy, no para hoy, para dentro de dieciocho a veinticuatro meses. ",
+            "cosine_dist": 0.32521927374338844,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1659.108,
+            "end_time": 1664.028,
+            "text": "Sí, es verdad que frenar la inflación es muy expansivo, digamos. ",
+            "cosine_dist": 0.9858789109237616,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1664.048,
+            "end_time": 1671.07,
+            "text": "Dejas de robar plata del bolsillo a... Bien, esa es la respuesta.  Dejaste de robarle veinticinco mil millones de dólares al sector privado. ",
+            "cosine_dist": 0.42432930752991616,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1671.15,
+            "end_time": 1672.31,
+            "text": "¿Ese es el costo de la inflación anual? ",
+            "cosine_dist": 1.053716749737446,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1673.172,
+            "end_time": 1742.362,
+            "text": "Eso es lo que les cuesta a los argentinos.  de bien tener el Banco Central que imprime papelitos para el Estado.  En los últimos veinte años el Estado le robó a los argentinos doscientos ochenta mil millones de dólares con esto.  Pero conforme la inflación es más alta, el robo es más grande.  Este gobierno le está por robar cerca de noventa mil millones de dólares a los argentinos.  Entonces son casi veinticinco mil millones de dólares por año que los políticos... no de buena manera, le van a devolver a los argentinos por año.  Mirá si no es una inyección de plata enorme.  Todo ese dinero ingresado al sector privado genera una recomposición de precios que cuando vos tenés tu precio, donde vos hoy estás ganando más de lo que venías ganando, digo, ¿qué haces?  Te expandís.  Cuando te expandís, te llevas trabajadores.  En esa dinámica, los salarios suben.  Entonces, ¿qué es lo que es interesante de esto?  Que los salarios en dólares van a volar.  Y cuando los salarios en dólares vuelen, dado el precio de los alimentos, ¿qué te va a pasar?  Los indigentes se te van a caer fuertemente y como los pobres es una combinación lineal de los indigentes, vas a tener una brutal caída en la pobreza. ",
+            "cosine_dist": 0.3156316749655107,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1742.382,
+            "end_time": 1754.229,
+            "text": "¿Y cómo vas a lograr, porque esto es muy de Argentina, cómo vas a lograr que los precios en dólares no se disparen?  Porque también acá tenés la clásica viveza, tenés demanda, subís los precios, no importa que estén dolarizados, subís igual. ",
+            "cosine_dist": 0.975299893832412,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1755.149,
+            "end_time": 1755.769,
+            "text": "Vamos por partes. ",
+            "cosine_dist": 0.6673980407799964,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1755.949,
+            "end_time": 1759.23,
+            "text": "Supongo que vos no vas a ejercer control de precios, entonces... Y de casualidad. ",
+            "cosine_dist": 0.8422613078390578,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1759.91,
+            "end_time": 1815.562,
+            "text": "Además no los vas a necesitar tampoco.  No funcionaron nunca, no van a funcionar jamás.  Y jamás lo haría porque va en contra de mis principios liberales.  Porque es un ataque a la propiedad privada el control de precios.  Sacando esa cuestión, mira, porque ahora entonces no estamos discutiendo tasa de variación de precios, sino que ahora estamos discutiendo nivel de precios.  Vamos por parte.  Porque nosotros estamos planteando una reforma fiscal de bajar el gasto público para bajar impuestos, de regular.  Estamos proponiendo una modernización del sistema laboral siendo un sistema de seguro de desempleo.  Y eso te va a hacer que seas competitivo fiscalmente, que seas competitivo laboralmente.  Y dado que ahora vos sos competitivo fiscalmente y laboralmente, ¿qué haces?  Abrís la economía de manera irrestricto.  De manera irrestricto.  ¿Qué quiere decir esto?  Que vos vas a una situación de libre comercio.  ¿Querés cobrar más?  Quebrarás. ",
+            "cosine_dist": 0.2586113040022756,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1815582,
+            "end_time": 1815762,
+            "text": "Está bien. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1815.782,
+            "end_time": 1829.171,
+            "text": "Claro, o sea, quiero comprarme un auto, no llegan las fábricas argentinas con los autos, importo.  Claro, pero en el medio vas a tener que ser competitivo fiscalmente, porque un auto en el mundo tiene diez por ciento de impuesto, acá tiene sesenta. ",
+            "cosine_dist": 0.505106785631589,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1830.563,
+            "end_time": 1840.876,
+            "text": "Y ese esquema de libre comercio, con lo cual, ese esquema se va a producir aproximadamente al año o a los veinte meses, cuando se abra todo el cepo, cuando tengas... ",
+            "cosine_dist": 0.9795316113001289,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1840.896,
+            "end_time": 1861.543,
+            "text": "Cuando vos tengas... vos abrís la economía cuando vos tenés... Competitividad fiscal y competitividad laboral.  Eso es lo que te permite... Pero esto no es menor, porque esa secuencia no es menor.  Vos no podés abrir la economía de cualquier manera, porque si lo hacés como se hizo durante la dictadura... ",
+            "cosine_dist": 0.29244333905387376,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1861.763,
+            "end_time": 1862.564,
+            "text": "Sí, no podés competir. ",
+            "cosine_dist": 0.975592994458919,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1864.032,
+            "end_time": 1871.199,
+            "text": "Los mandas a la quiebra y generas un industricidio.  Entonces, no solo que estás reventando las empresas, sino que a la postre dejaste sin laburo a la gente y los salarios reales... ",
+            "cosine_dist": 0.35120129600212546,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1871.239,
+            "end_time": 1874.763,
+            "text": "Primero le sacas la mochila de impuestos para que su precio sea competitivo. ",
+            "cosine_dist": 1.0321689579777633,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1875.023,
+            "end_time": 1875.804,
+            "text": "Y el tema laboral. ",
+            "cosine_dist": 0.903612548898153,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1875.904,
+            "end_time": 1877.225,
+            "text": "Lo has doso. ",
+            "cosine_dist": 0.8771866171565379,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1877.826,
+            "end_time": 1953.832,
+            "text": "Y ahí abrís.  Unilateralmente.  A la chilena.  Ahora competí.  Es decir, que eso tiene que ver con el plano real.  El plano monetario es otra cosa y vos vas a poder liberar toda la economía el día que resolves el problema de la ley.  Yo voy a poner un orden de magnitudes para que se tenga claro cuál es el problema del que hablamos.  Vamos a las grandes crisis de Argentina.  Rodrigazo, catorce puntos del PBI en el setenta y cinco.  En el ochenta y uno, tablita cambiaria, once.  Hiperinflación de Alfonsín en el ochenta y nueve, ocho.  Y la voladura de la convertibilidad, siete.  Hoy Argentina, entre lo que es la posición del Estado Nacional y el Banco Central, tiene doce puntos el PBI camino a trece.  De eso, supongo, vamos a rendir en trece, cinco puntos están en el Estado, ocho, Están en el Banco Central.  Es decir, ojo con esto de creer que solamente arreglando el problema flujo se termina el problema.  No.  Arreglando el problema flujo, llámese el problema fiscal, no se arregla el problema.  Porque el tamaño del problema es tox.  lo que está pasando en el balance del Banco Central, es mucho más grande.  Entonces, ojo que te digan que te van a liberar el CEPO y no te arreglan el problema de las LELIC, el cambio de portafolio te genera la hiper. ",
+            "cosine_dist": 0.2962625980171065,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1953.872,
+            "end_time": 1959.177,
+            "text": "Pero vos ya planteaste que todo eso se produce una vez que tengas, entre otras cosas, resuelto el problema de las LELIC. ",
+            "cosine_dist": 0.939422499397169,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1959617,
+            "end_time": 1960018,
+            "text": "Exacto. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1960.098,
+            "end_time": 1966.623,
+            "text": "Por eso estamos calculando, según lo que vos planteás, que va a ser cerca de un año. ",
+            "cosine_dist": 0.7970114142883207,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1966.663,
+            "end_time": 1981.833,
+            "text": "El problema de las LELIC se puede resolver en el lapso de treinta a noventa días.  Perfecto.  Lo que te demanda más tiempo es el problema de resolver la cuestión no operativa de que los dólares empiecen a circular. ",
+            "cosine_dist": 0.30901447410603133,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1981.853,
+            "end_time": 1984.634,
+            "text": "O sea, que lo que plantea Patricia Bullrich es salir del cepo. ",
+            "cosine_dist": 0.9738618229358359,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1984.654,
+            "end_time": 1991.236,
+            "text": "Es un disparate.  Lo único que te va a hacer es generar una hiperinflación.  Abrís el primer día, el cambio de portafolio te genera la hiper. ",
+            "cosine_dist": 0.3550568493399904,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1993.052,
+            "end_time": 1999.417,
+            "text": "Bien.  No, yo le quería consultar sobre el tema electoral.  ¿Tiene fiscales en todas las mesas? ",
+            "cosine_dist": 1.1130814937789022,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1999.677,
+            "end_time": 2007.882,
+            "text": "Nosotros ya tenemos ochenta mil fiscales en este momento.  Formados.  Es decir, nosotros vamos a defender los votos en serio. ",
+            "cosine_dist": 0.38060989272288537,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2007.902,
+            "end_time": 2028.803,
+            "text": "Yo quiero volver sobre algo que planteaste.  Obviamente toda la modificación del régimen fiscal es un tema que... tiene que ir por el Congreso, no sé bien el tema del régimen laboral.  Vos planteás seguro de desempleo.  En su momento, vos lo que habías contado es que hasta los propios sindicatos pueden ser las propias aseguradoras.  Exactamente.  ¿Eso lo tenés hablado con sindicatos? ",
+            "cosine_dist": 0.979982855822084,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2029.043,
+            "end_time": 2068.594,
+            "text": "Sí, nosotros tenemos conversaciones preliminares.  Vamos a ponerlo en otros términos, porque esto es para chequear la compatibilidad de incentivos.  Argentina... Saquemos el tema del empleo público, que hay ahí desempleo encubierto, hay desempleo maquillado que tiene que ver con el monotributo social.  Hay un montón de cosas que vos la computás como empleo, pero que después, o sea, en realidad si vos lo limpias no es así.  Vamos a lo duro.  Lo duro es el empleo formal en el sector privado.  Son seis millones de puestos de trabajo que está clavado desde el año dos mil once. ",
+            "cosine_dist": 0.2663257192651134,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2070.306,
+            "end_time": 2072.768,
+            "text": "Si no está claro que los convenios laborales no sirven hoy como están. ",
+            "cosine_dist": 0.9434592108505162,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2073.109,
+            "end_time": 2121.176,
+            "text": "Bien, hay un problema.  Y fuera del mercado tenés ocho millones de personas, en el informal.  Esto quiere decir que el segmento informal es más grande que el formal.  Con lo cual, el que está, el insider del negocio sabe que tiene un problema, el sindicalista sabe que tiene un problema.  Primer punto.  Segundo punto.  En esta dinámica donde no se generan puestos de trabajo y una economía que no crece hace diez años, once años, ¿cuál es el problema?  Tampoco se generan puestos de trabajo.  Eso hace que además, como la población sube, los salarios reales caen.  Por lo tanto, tiene un problema de presión de las bases y la izquierda le está poniendo en jaque el negocio.  ¿Está claro que los sindicalistas hoy, tal como están las cosas, tienen un problema grande?  Sí.  Bien.  ¿Por qué?  Porque tienen el negocio en jaque.  Es decir, yo no estoy diciendo que son ángeles, estoy diciendo que son empresarios, no estoy diciendo que son sindicalistas. ",
+            "cosine_dist": 0.2811332197166121,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2121.716,
+            "end_time": 2126.817,
+            "text": "No, además tienen el negocio en jaque por otros sindicalistas mucho más fuertes que después van a terminar siendo empresarios también. ",
+            "cosine_dist": 0.9644500499159132,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2126.957,
+            "end_time": 2135.079,
+            "text": "Bien, exacto.  ¿Qué quiere decir esto?  Que el modelo de negocio está en jaque.  Ese modelo de negocio está en jaque.  Además, conocen que hay un modelo de negocio que funciona, que es el de la UOCRA. ",
+            "cosine_dist": 0.4716083117743711,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2135.419,
+            "end_time": 2136.419,
+            "text": "Claro, el seguro de desempleo. ",
+            "cosine_dist": 1.004844598978276,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2136.599,
+            "end_time": 2166.843,
+            "text": "El seguro de desempleo, claro.  Y lo que nosotros proponemos es un seguro de desempleo con mucha más profundidad financiera.  Que te lo arman las compañías de seguros.  Entonces vos vas a pasar de un mercado de seis millones a catorce millones.  Es decir, el mercado de trabajo en lugar de ser de seis millones va a ser de catorce millones.  Es decir, te creció el mercado un ciento treinta y tres por ciento.  Punto uno.  Negocio para los sindicalistas.  Antes no había nada.  Ahora hay ocho millones de primas.  ¿Qué te dice la compañía de seguros? ",
+            "cosine_dist": 0.28581818752774435,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2166.863,
+            "end_time": 2169.204,
+            "text": "Hola, acá estoy. ",
+            "cosine_dist": 0.8192576398543896,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2169.404,
+            "end_time": 2227.062,
+            "text": "Y ¿qué crees que va a pasar?  Se van a asociar.  O sea, los sindicalistas le van a llevar a las compañías de seguros, ¿qué?  Trabajadores para arreglar este problema.  Por lo tanto, ¿y qué es lo más importante?  Que vos limpias la señal de precio de la economía.  Entonces ahora podés empezar a generar puestos de trabajo.  Esto es muy importante porque si vos en esta situación en la cual vos bajás la carga fiscal, eliminás la inflación... vos vas a tener un proceso virtuoso de inversión, porque además estás bajando la tasa de interés.  ¿Esto qué quiere decir?  Que vos vas a, primero que vas a invertir mucho, vas a crecer mucho, pero como estás cambiando las condiciones del mercado laboral, que los estás haciendo flexibles, y los salarios en Argentina están hiperdeprimidos, ese proceso, ¿qué va a ser?  Intensivo en trabajo.  Esto no es menor, porque esto son reformas de primera generación, pero esto tiene un impacto muy fuerte, ¿en dónde?  Fíjate, mayor crecimiento, mayor productividad, mayor empleo, mayor formalización.  ¿Qué problema te está arreglando todo esto? ",
+            "cosine_dist": 0.2893921980073454,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2227.222,
+            "end_time": 2229.465,
+            "text": "En teoría, la pobreza y la educación deberían. ",
+            "cosine_dist": 1.073531025871817,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2229.485,
+            "end_time": 2268.552,
+            "text": "Y te está reformando, te permite reformar el sistema previsional sin tener... ...que perder derechos... ...es decir, te permite... ...o sea, porque vos que vas a estar... ...aumentando la cantidad de aportantes... ...en términos de trabajadores pasivos... ...te permite tener mayores salarios... ...una economía en crecimiento... ...además te va... ...cuando vos veas mayores salarios reales... ...la PEA te va a aumentar... ...por lo tanto vos vas a tener... ...tú un conjunto de elementos... ...que te van a generar un montón de fondos... ...que te va a permitir hacer... ...la reforma del sistema previsional... ...sin dañar derechos... ...bingo, no me van a decir... ...que no es una obra de arte lo que acabo de hacer... ",
+            "cosine_dist": 0.30825945708283087,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2269492,
+            "end_time": 2269772,
+            "text": "Pero para... ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2269.792,
+            "end_time": 2270.813,
+            "text": "Mi ley presidente. ",
+            "cosine_dist": 0.8257873563344892,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2271.834,
+            "end_time": 2296.222,
+            "text": "Tus dos... Es decir, vos tenés todo el programa muy claro, pero está todo recontratado una cosa con otra.  De no producirse una, no se produce la otra.  Por ejemplo, si vos... La modificación del sistema fiscal va a depender a los acuerdos que hagas con el Congreso.  Si no se produce la reforma laboral que estás planteando, tampoco se va a producir después la apertura de los mercados con libre competencia. ",
+            "cosine_dist": 0.9531964210277972,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2296.422,
+            "end_time": 2298.223,
+            "text": "Ahora, la pregunta es al revés. ",
+            "cosine_dist": 0.6592821602613745,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2299.343,
+            "end_time": 2303.645,
+            "text": "¿Qué tanta certeza de poder cumplir con todas las reformas para llegar al punto final? ",
+            "cosine_dist": 0.9891734822658781,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2303.825,
+            "end_time": 2316.424,
+            "text": "Vamos por parte.  El primer punto que es, a diferencia de otros, y esto es histórico en Argentina, yo llego con mandato.  Es decir, yo no es que no te estoy diciendo qué es lo que voy a hacer. ",
+            "cosine_dist": 0.3015273104388061,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2316.965,
+            "end_time": 2318.506,
+            "text": "Te puede gustar o no.  Seguro. ",
+            "cosine_dist": 0.9570105058396138,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2318.887,
+            "end_time": 2329.437,
+            "text": "Es decir, o sea, pero yo tengo una agenda muy clara.  Es una agenda para bajar la inflación, para hacer crecer la economía y para exterminar la inseguridad. ",
+            "cosine_dist": 0.37997556240723906,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2329.457,
+            "end_time": 2331.499,
+            "text": "Esa es la otra parte que te iba a preguntar. ",
+            "cosine_dist": 0.9827136593412286,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2331.539,
+            "end_time": 2343.78,
+            "text": "Bueno, por eso.  La agenda está bien clara.  O sea, no hay... Entonces, es más, ni siquiera... Tengo ni la pretensión ni la jactancia de creer que me votan por otra cosa si me votan. ",
+            "cosine_dist": 0.4222330277129004,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2343.8,
+            "end_time": 2346.042,
+            "text": "¿Pero necesitas, por ejemplo, modificar la Constitución? ",
+            "cosine_dist": 1.053200191272293,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2346.062,
+            "end_time": 2351.605,
+            "text": "Necesitas el Congreso.  O sea, vos podés tener la agenda, podés ser presidente, pero tal vez no tener los votos necesarios. ",
+            "cosine_dist": 0.8929283552723025,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2352.025,
+            "end_time": 2459.59,
+            "text": "Lo primero que digo es, llegás con mandato.  Por lo tanto, va a tener un primer problema el Congreso de bloquear algo que la gente eligió.  Primer punto.  Segundo punto, le van a tener que explicar a la gente por qué no quieren las reformas que harían grande a la Argentina de.  nuevo.  Si aún así hay un nivel de intención de tanta violencia y de tanto bloqueo, bueno, les voy a llevar para que se haga un referéndum.  ¿Por qué hago un referéndum?  Porque lo tienen que aprobar.  Y si no lo aprueban, porque como es vinculante, entonces, ¿qué es lo que pasa?  Lo van a tener que aprobar el Congreso.  Entonces, si no me dejan hacer un referéndum, le van a tener que explicar a la gente por qué no quieren que la gente elija.  Y aún así, supongamos que saliera el referéndum y además me saliera mal.  O sea, a pesar de la confianza que me van a dar en la segunda vuelta para ser presidente, en ese sentido, ¿qué es lo que digo?  Ok, si me hacen eso, pero me van para atrás con las reformas estructurales, bueno, sobre reacción al ajuste fiscal, que le duele más a la política.  Es decir, exacerbo el ajuste fiscal.  A ver, hay algo que se llama principio de clasificación efectiva de los instrumentos de mercado.  Es un concepto que desarrolló Robert Mandel en el año sesenta y ocho.  Es decir, para terminar con el problema de la inflación es la política monetaria.  Para terminar con el problema del déficit fiscal es la política fiscal.  Si a mí no me dejan terminar con el problema monetario de esta estafa que se llama Banco Central de la República Argentina, que existe desde mil novecientos treinta y cinco, no es que existió siempre.  Argentina era una potencia mundial y no tenía Banco Central.  Y no solo eso, sino que además... Se creó por cuarenta años, lo tendrían que haber cerrado en el setenta y cinco y no lo hicieron. ",
+            "cosine_dist": 0.25184438652755814,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2460.01,
+            "end_time": 2461.15,
+            "text": "Igual que importa la ganancia. ",
+            "cosine_dist": 1.0289750017739254,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2461.31,
+            "end_time": 2476.294,
+            "text": "Bueno, por eso, está bien.  Pero esto quiere decir que los políticos, cuando encuentran un mecanismo para robarte, no te lo quieren devolver.  Nosotros justamente lo que estamos haciendo es exponer a los políticos frente a la sociedad, como los ladrones que son, entonces que expliquen por qué le quieren seguir robando a la sociedad. ",
+            "cosine_dist": 0.2931830123590973,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2478.035,
+            "end_time": 2478.995,
+            "text": "Háblame de la seguridad. ",
+            "cosine_dist": 0.9496896205478259,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2480375,
+            "end_time": 2480815,
+            "text": "Bien. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2480.835,
+            "end_time": 2482.156,
+            "text": "¿Quién va a ser tu ministro de seguridad? ",
+            "cosine_dist": 1.0660022407238454,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2483.297,
+            "end_time": 2643.451,
+            "text": "A ver, esto es importante.  Esta es la primera vez que vos vas a tener en un gobierno donde el vicepresidente, en este caso la vicepresidente, no es una figura decorativa.  Es decir, los temas de seguridad y de defensa nacional van a estar en manos de Victoria, de Victoria Villaruel.  Básicamente, lo que nosotros estamos proponiendo es una nueva doctrina de seguridad, que es el que las hace las paga.  Para que el que las hace las paga, eso requiere un conjunto de reformas.  Por un lado vos tenés que modificar la ley de seguridad interior, donde es fundamental, fundamental, el apoyo a las fuerzas.  Porque, digamos, decir a las fuerzas que vaya y haga y cumpla determinada tarea, ponga el cuerpo... y después vos te quedás del lado de los delincuentes, es un problema grave.  O sea, esto es un tema no menor a los efectos de combatir, digamos, los delitos.  Otra cosa tiene que ver con el tema de la defensa nacional.  Porque a veces, muy ligeramente, dicen, no, vamos a mandar al ejército.  No pueden mandar al ejército.  Hay algo que se llama Convención de Ginebra.  La Convención de Ginebra dice que los uniformados no le pueden tirar a los civiles.  Aún cuando no fueran civiles, pero están disfrazados de civiles.  Lo cual es una problemática no menor.  Por eso cada vez que se mandaba al ejército, por ejemplo en Colombia o en México, falló.  ¿Por qué no le van a tirar?  Porque, ¿sabes qué pasa?  Muchas veces aparece algún problema.  Entonces la gente se desespera y pide alguna solución.  Y de repente pide el ejército.  Vos le das el ejército.  Suponete que te resuelve el problema.  De acá a diez años viene un gobierno de izquierda, revisa todo, van todos presos por delitos de lesa humanidad.  Con lo cual, eso no es una solución.  ¿Por qué?  ¿Por qué no la van a querer hacer?  Porque saben que se están comprando la cárcel de largo plazo.  No solo tenés que hacer eso, tenés que reformar la ley de inteligencia.  Es decir, de modo tal que cuando vos tenés un problema tengas los mecanismos para ir a buscar a los culpables y meterlos presos.  Eso significa que también tenés que tener una reforma de qué?  Del sistema carcelario y del sistema penal y del sistema penal procesal.  Es decir, la cárcel para encerrarlos y el sistema penal para que los condene en tiempo y forma y el procesal para que justamente no se te convierta en una puerta giratoria.  O sea, vos no podés.  Pensar en soluciones, voy a bajar la inseguridad, sino no.  Requiere todo un conjunto de reformas.  Sí, sobre todas las cosas requiere convicción política. ",
+            "cosine_dist": 0.24038950765448075,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2643.471,
+            "end_time": 2649.514,
+            "text": "Las importantes requieren tiempo y negociación política.  El problema es qué haces desde lo urgente también mientras tanto. ",
+            "cosine_dist": 0.970201407681448,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2650.674,
+            "end_time": 2657.057,
+            "text": "Le das el apoyo a las fuerzas y que, digamos, acorde a la ley, acorde a las reglas que existan, puedan actuar y respaldarlos. ",
+            "cosine_dist": 0.2800700570478758,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2657.097,
+            "end_time": 2659.158,
+            "text": "¿Vos planteas libre portación de armas? ",
+            "cosine_dist": 1.031610773098762,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2660.074,
+            "end_time": 2668.943,
+            "text": "Eso es una discusión más larga, es una discusión teórica.  Dentro de todo eso, si vos querés, eso es una etapa final.  Pero vos tenés que reformar... ",
+            "cosine_dist": 0.3007840522965497,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2668.963,
+            "end_time": 2676.35,
+            "text": "Esencialmente van las tres reformas fundamentales de los procedimientos penales.  Y el sistema carcelario es una cuestión de inversión también ahí. ",
+            "cosine_dist": 0.9052379246832672,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2676.37,
+            "end_time": 2678.432,
+            "text": "Bueno, eso también lo tenemos analizado. ",
+            "cosine_dist": 0.5334361006784727,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2678.772,
+            "end_time": 2679.773,
+            "text": "¿Eso lo vas a hacer privado? ",
+            "cosine_dist": 0.9795379599390035,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2680153,
+            "end_time": 2680214,
+            "text": "Sí. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2681.297,
+            "end_time": 2683.758,
+            "text": "O sea, invierte el sector privado en las cárceles. ",
+            "cosine_dist": 0.9953570676802547,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2684.018,
+            "end_time": 2687.579,
+            "text": "Exacto.  Y busca la forma de financiarse y la forma de generar recursos. ",
+            "cosine_dist": 0.3415636880490156,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2687.619,
+            "end_time": 2689.219,
+            "text": "El Estado le paga por cada preso. ",
+            "cosine_dist": 0.8625270738794105,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2689.359,
+            "end_time": 2691.42,
+            "text": "Le paga, sí, una determinada parte. ",
+            "cosine_dist": 0.458753655639886,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2691.44,
+            "end_time": 2692.44,
+            "text": "Hay muchos países en el mundo. ",
+            "cosine_dist": 0.9842290745009328,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2692.96,
+            "end_time": 2843.598,
+            "text": "Exactamente.  Pero eso hace que el sistema sea mucho más eficiente y que en términos humanitarios sea un lugar para que la gente corrija sus acciones para que las revea y no un mecanismo de tortura.  Digo, porque esto también hay que entenderlo.  ¿Lo puedo contar con una anécdota?  Porque me parece que se entiende más fácil.  Yo tuve la suerte en uno de mis viajes de ir a San Francisco.  Y enfrente de la bahía está Alcatraz.  Alcatraz, que era una cárcel de máxima seguridad, hoy es una atracción turística.  En esa atracción turística uno va haciendo todo el recorrido y dice, bueno, estaban los presos más peligrosos, Y tenían toda una serie de servicios.  en cuanto a comida, digamos, cómo se testeaba la comida.  De hecho, eso se sigue haciendo hoy.  O sea, vos cuando le das un plato de comida en estas cárceles privadas, le regulan hasta la temperatura a la que está la comida.  Esto no es un chiste.  El arroz tiene que estar a determinados grados.  O sea, es así.  Y si no lo cumplís, hay sanción.  Digo, para que más o menos se vea.  Entonces, y tiene condiciones en las cuales vos dormís, podés estudiar, podés hacer un montón de actividades.  Eso en Alcatraz ya estaba diseñado.  ¿Y qué es lo que hace el recorrido?  Vos vas por las distintas partes, el audio te cuenta aquí.  Y el final, ¿dónde es?  En la parte de recreo.  Hay una cancha de básquet, hay lugar donde hacen fierros, o sea, digamos... Y eso da la bahía de San Francisco.  Y dice, este era el lugar más triste de toda la cárcel.  Porque ellos estaban encerrados y veían que el costo de la libertad era ver cómo progresaba la ciudad.  Encima de San Francisco, una ciudad hermosa.  Y estos estaban encerrados.  ¿Qué quiere decir esto?  Que la pena es perder la libertad.  Es decir, lo más sagrado del ser humano dada la vida... Es la libertad.  Entonces, hay que entender ese concepto.  Para que, además, la cárcel sea un lugar donde esa persona recapacita sobre el daño que le ha causado la sociedad y que en el fondo se lo causa a sí mismo también.  Y que sea un lugar que sirva para, digamos, que la gente se reeduque y se pueda después, una vez cumplida la pena, reinsertarse. ",
+            "cosine_dist": 0.22572854408527165,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2843.618,
+            "end_time": 2847.281,
+            "text": "Esa es la lógica que nunca, jamás funcionó en la Argentina.  Bueno, bueno. ",
+            "cosine_dist": 0.8853598329146855,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2847.978,
+            "end_time": 2850.22,
+            "text": "Sin duda.  Nosotros proponemos una Argentina distinta. ",
+            "cosine_dist": 0.5414477953256807,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2850.24,
+            "end_time": 2850.84,
+            "text": "Primero no hay lugar. ",
+            "cosine_dist": 1.0809156443775405,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2851.44,
+            "end_time": 2854.302,
+            "text": "Sí, no, lo que pasa es que ahí es donde lo tenés que privatizar. ",
+            "cosine_dist": 0.8782719319368651,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2854.322,
+            "end_time": 2856.344,
+            "text": "Sí, pero si se lo das al sector privado... ",
+            "cosine_dist": 1.0985084842340544,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2856.364,
+            "end_time": 2867.671,
+            "text": "Sí, sí, haces eso.  ¿Cómo te imaginas la PASO?  Dame proyecciones tuyas de resultados.  ¿Qué imaginas que va a pasar?  Porque en un momento dijiste voy a ser presidente una vez que gane el ballotage.  Contame cómo imaginas todo el proceso. ",
+            "cosine_dist": 0.9240545144834531,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2867.691,
+            "end_time": 2872.798,
+            "text": "Porque nosotros consideramos que vamos a ser la fuerza más votada Individualmente. ",
+            "cosine_dist": 0.43165469896340214,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2873.178,
+            "end_time": 2880.724,
+            "text": "Individualmente.  O sea, vos considerás que en el La Paz vas a sacar más votos que Massa, que casi no divide tampoco, con Grabois casi no divide. ",
+            "cosine_dist": 0.9516587141977798,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2881.224,
+            "end_time": 2885.568,
+            "text": "Está bien, pero más que Larreta seguro, más que Bullrich seguro. ",
+            "cosine_dist": 0.4294963311411114,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2886.729,
+            "end_time": 2887.349,
+            "text": "Eso La Paz. ",
+            "cosine_dist": 0.9982048036780997,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2887.99,
+            "end_time": 2903.293,
+            "text": "Y eso nos posiciona de una manera muy fuerte para entrar... a la elección general como segunda fuerza.  Nosotros hoy estaríamos peleando el ingreso al balotage.  Y si entramos al balotage, no me importa a quién me pongan enfrente, le ganamos a todos. ",
+            "cosine_dist": 0.28494640447343766,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2904.274,
+            "end_time": 2907.638,
+            "text": "¿Es Patricia Bullrich una persona que sumarías a tu espacio si vos fueras presidente? ",
+            "cosine_dist": 0.9491593535467321,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2908.559,
+            "end_time": 2912.423,
+            "text": "Yo voy a sumar a todos aquellos que estén dispuestos a trabajar por una Argentina libre. ",
+            "cosine_dist": 0.403395026948162,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2915.677,
+            "end_time": 2920.401,
+            "text": "Está bien, a ver, capaz que Larreta también está dispuesto, pero no te gusta, por eso te pregunto. ",
+            "cosine_dist": 0.9296015023986269,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2920.581,
+            "end_time": 2927.646,
+            "text": "Larreta no quiere una Argentina libre, Larreta es un colectivista exacerbado, es un kirchnerista de buenos modales. ",
+            "cosine_dist": 0.3851711635083769,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2928.086,
+            "end_time": 2928.707,
+            "text": "Bullrich sí. ",
+            "cosine_dist": 0.9340082835800129,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2929.468,
+            "end_time": 2931.049,
+            "text": "En algunas cosas sí, en otras no. ",
+            "cosine_dist": 0.5418237186889692,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2931.109,
+            "end_time": 2937.574,
+            "text": "O sea que no te preocupan los resultados provinciales, en Neuquén igual le fue... ",
+            "cosine_dist": 1.0644154084811883,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2937.594,
+            "end_time": 2981.65,
+            "text": "No, pero a ver, el tema es este, que no es extrapolable.  lo que pasa en una provincia de la nación, mirá, Ejemplo práctico, antes de ganar la elección Macri perdió, no sé, provincia de corrido.  Porque acá hay algo muy interesante, que esto me lo contó una persona que sabe de esto y que entiende de esto.  El voto es un proceso muy complejo donde el que va a votar te transfiere a vos confianza para hacer algo.  Ese vínculo es un vínculo muy delicado y que demanda mucho tiempo esa construcción.  De ahí, de ahí, a que vos le transfieras, por ejemplo, a ella, ese camino es un camino muy largo. ",
+            "cosine_dist": 0.25507894748149684,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2981.67,
+            "end_time": 2997.376,
+            "text": "Yo igual ahí tengo una... A mí me parece que la historia de la Argentina del voto es otra.  Yo no sé si yo votándote a vos tengo la confianza para hacer algo.  Hay mucho porcentaje del voto.  es votándote a vos, le saco la confianza a otro para que no haga... O sea, hay mucho voto en contra de y nunca a favor de que este es el gran problema que tenemos. ",
+            "cosine_dist": 0.9737009224187186,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2997.396,
+            "end_time": 3122.486,
+            "text": "Bueno, yo creo que... Esta es la primera vez que tenés la posibilidad de votar a uno que es distinto.  Porque si yo tomo los que están, Morales, treinta y cuatro años.  En el Estado.  Larreta, treinta.  Vidal, cinco.  Kulrich, cuarenta.  Carrió desde antes de la democracia.  Por decir juntos por el cambio.  Del otro lado es el tren fantasma, así que no hace falta ni siquiera que... Digo, te vengo a explicar quién es Drácula, es un chiste.  O sea, entonces... No, porque a veces, viste, dicen, no, no los critica los K. Digo que son el tren fantasma, son Drácula, son todos los monstruos juntos.  ¿Qué vas a hacer con los planes sociales?  A ver, esto... Nosotros no pensamos eliminarlos.  Nosotros lo que estamos hablando es de crear un nuevo ministerio que es el de capital humano.  El de capital humano tiene cuatro secretarías, vendría a ser.  Hay una secretaría que es niñez y familia.  Hay otra que es salud.  Otra que es educación.  Y otra es trabajo.  Cuando vos mirás la evidencia empírica del crecimiento económico, Cerca de setenta puntos o más son explicados por el capital humano.  Capital humano no se forma de un día para el otro.  Digo, el que te dice que se forma de un día para el otro te miente.  Entonces, la primer valla en contención, ¿dónde es?  Que encuentra el ser humano, ¿dónde es?  La familia.  Por lo tanto, el rol de la familia es fundamental para que los chicos se alimenten y formen el cerebro.  Fundamental.  Tres primeros años.  Además, vos le tenés que dar contención al sistema de salud, porque si la gente no está sana no puede trabajar.  Y una vez que se formaron físicamente, que además están bien físicamente, ahí van a poder entrar a la escuela y rendir.  Y ahí vos, nosotros también tenemos reformas para potenciar la productividad.  Y eso es lo que te va a permitir ingresar en el mercado de trabajo. ",
+            "cosine_dist": 0.23309032452594847,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 3122746,
+            "end_time": 3123346,
+            "text": "Dieciocho años. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3124.377,
+            "end_time": 3155.528,
+            "text": "Te diría que es un proceso largo, pero el concepto es este.  Nosotros no te vamos a dar el pescado, nosotros te vamos a enseñar a pescar.  Si vos esto lo haces en un conjunto de reformas que genera mucho crecimiento económico y que es muy intensivo en trabajo, eso va a permitir que estas personas logren conseguir espacios en el mercado de trabajo y los programas sociales los van a ir dejando solos, que son las reformas de segunda generación.  Es decir... Pero eso demanda tiempo. ",
+            "cosine_dist": 0.29919420762157045,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 3156.088,
+            "end_time": 3157.35,
+            "text": "¿No toca planes sociales? ",
+            "cosine_dist": 1.017833054203542,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3157.41,
+            "end_time": 3178.875,
+            "text": "De corto plazo no.  Los planes sociales los va a dejar la gente como consecuencia de los efectos de las reformas de primera generación sumado a todo un trabajo enorme donde, fíjate, esto es un ministerio muy doloroso porque vos vas a estar... vas a estar sembrando, sembrando, sembrando, y los frutos van a venir después. ",
+            "cosine_dist": 0.40408838843933714,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 3179.015,
+            "end_time": 3181.437,
+            "text": "Pero que los proyectos de un país no son cinco años, mi acuerdo. ",
+            "cosine_dist": 0.9568180377616817,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3181.457,
+            "end_time": 3348.197,
+            "text": "Bueno, Antonio, yo soy el único que habla de acá a treinta y cinco años.  Es lógico.  Bueno, pero decime quién está hablando a treinta y cinco años, el único que habla de treinta y cinco años soy yo.  O sea, y explico cómo se da la convergencia en treinta y cinco años, cómo en treinta y cinco años nosotros podemos ser como un país desarrollado.  Mirá, ¿cuál es uno de los países que a mí más me gusta?  Porque yo te digo, a mí me gusta volver a la Argentina de Alberti.  Cuando en mil ocho sesenta se anexa a Buenos Aires y se pone en marcha el proyecto de Alberti, de ser un país de bárbaros, en treinta y cinco años nos convertimos en una potencia mundial.  En un mundo que era mucho más lento.  Vos me decís, no, bueno, eso pasó en el siglo diecinueve.  Ok, te compro la idea.  Esto lo hizo Irlanda.  Lo hizo Irlanda.  Irlanda era el país más pobre de Europa.  Es más, cuando vos tomás la restabilización y que se acomoda y todo, y que pone el momento en que llega a veinte mil dólares per cápita, de ese momento a hoy, en treinta años, ¿sabés cuánto multiplicó el PBI per cápita?  por seis tiene un pbi per cápita de ciento.  veinte mil dólares.  es más grande que eeuu el pbi per cápita.  es decir se puede hacer.  sí lo que hay que entender es que hoy la solución está en manos del problema.  es decir ya hay un libro que es maravilloso que se llama the next convergence de que es de michael spence.  ningún especialista en crecimiento te lo va a recomendar porque que hace te da el recetario.  es decir yo como tengo estas cosas tan atípicas Yo soy especialista en crecimiento y además te digo que ese libro está buenísimo porque está el recetario.  Cuando vos aplicás el recetario, digo, o sea, es claro lo que tenés que hacer.  El tema es si la teoría termina funcionando.  La teoría sí funciona.  Yo te compro ese argumento, por ejemplo, parado en mil setecientos setenta y seis.  Adam Smith, en su libro más conocido, ...en ese momento, su segundo libro... ...porque él se hizo conocido en ese momento... ...por la teoría de los sentimientos morales... ...perdón... ...cuando escribe la investigación sobre la naturaleza... ...y la causa de la riqueza de las naciones... ...para los amigos riqueza de las naciones... ...él lo que plantea es un modelo de crecimiento... ...si vos lo mirás parado en ese año... ...decís este, digamos... ...compartir porque está buenísima... ...bueno... En realidad, ahora, a la luz de la historia, Adam Smith acertó y todos los pesimistas, desde Malthus y todos sus herederos, fracasaron todos.  O sea, hoy con doscientos cincuenta años de evidencia de crecimiento económico, el problema no es... Crecer.  Es decir, ya sabés lo que hay que hacer. ",
+            "cosine_dist": 0.2556131162901374,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 3348.217,
+            "end_time": 3349.297,
+            "text": "Ya se sabe cómo crecer. ",
+            "cosine_dist": 0.899991727608928,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3349.577,
+            "end_time": 3379.435,
+            "text": "Exacto.  Ahora el punto es la instrumentación.  ¿Qué pasa?  Aplicar las ideas de la libertad va en contra de los intereses de los políticos.  Fíjate esto, va a venir un político y te va a decir que te pide el voto para que él, desde su fatal arregancia, arreglar los problemas de tu vida.  Yo es al revés, te digo... Dame el voto, así yo te devuelvo el poder de ser el propio arquitecto de tu vida.  Y vos disfrutás los beneficios y te haces cargo de los costos. ",
+            "cosine_dist": 0.310790285263702,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 3381.175,
+            "end_time": 3383.896,
+            "text": "Muchas gracias por el tiempo que te hemos exprimido. ",
+            "cosine_dist": 1.0477625824115635,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3384.356,
+            "end_time": 3386.837,
+            "text": "No, por favor, yo puedo estar horas así. ",
+            "cosine_dist": 0.6706510406558635,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 3386.877,
+            "end_time": 3387.657,
+            "text": "Muchísimas gracias. ",
+            "cosine_dist": 1.1192947540416054,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3387.737,
+            "end_time": 3413.08,
+            "text": "Gracias, Antonio.  A la mierda los malditos empresarios, a la mierda Sodomitas el capital.  Basta de basura keynesiana, ha llegado el momento liberal.  Tenemos un líder y él es un gran referente. ",
+            "cosine_dist": 0.9209261439441527,
+            "is_target_speaker": false
+        }
+    ]
+}
