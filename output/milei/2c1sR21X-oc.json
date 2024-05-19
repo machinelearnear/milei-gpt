@@ -1,0 +1,671 @@
+{
+    "Index": 488,
+    "channel_id": "UC0fYblcXqZP0NBlPIJzpoDg",
+    "channel": "Manuel Adorni",
+    "uploader_url": "https://www.youtube.com/@madorni",
+    "id": "2c1sR21X-oc",
+    "url": "https://www.youtube.com/watch?v=2c1sR21X-oc",
+    "title": "Manuel Adorni se toma una pausa junto a Javier Milei (Parte I)",
+    "duration": 1710.0,
+    "view_count": 41827,
+    "candidate_name": "milei",
+    "quality": "low",
+    "segments": [
+        {
+            "speaker": "Speaker 1",
+            "start_time": 27.5,
+            "end_time": 66.631,
+            "text": "Bienvenidos a una nueva emisión de Dos en Pausa.  Hoy me doy el lujo de tomarme una pausa con un gran economista, un gran político y, por sobre todo, con un gran amigo.  Vamos ya a la entrevista con Javier Milei.  Él es economista.  Irrumpió fuerte en los medios de comunicación hace ya varios años, diseminando las ideas de la libertad y yendo en contra de lo que él denomina la casta política.  Hoy es diputado de la Nación Argentina y es precandidato a presidente de la Nación.  Hoy me tomo una pausa junto a Javier Milei.  Javi, gracias por venir. ",
+            "cosine_dist": 0.7739486144431129,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 67.131,
+            "end_time": 78.359,
+            "text": "Hola Manuel, ¿cómo estás?  La verdad que es un placer de mi parte estar en tu espacio.  Gracias por invitarme.  Para mí es una gran alegría y un honor poder estar compartiendo este momento contigo. ",
+            "cosine_dist": 0.48253019413004383,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 78.379,
+            "end_time": 82.081,
+            "text": "Bueno, muchísimas gracias.  Aparte sé que estás mucho más ocupado que cuando nos conocimos. ",
+            "cosine_dist": 0.9042564033146802,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 82.101,
+            "end_time": 84.223,
+            "text": "Estoy un poquito más demandado. ",
+            "cosine_dist": 0.8385830581562841,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 84.703,
+            "end_time": 109.702,
+            "text": "Estás un poco más demandado.  Bueno, de hecho, recién fuera del aire, recordábamos, nosotros nos conocimos en C-Cinco N, ¿no?  Exactamente.  Fijate.  Bueno, cuánta agua ha pasado bajo el puente, ¿no?  De C-VN hasta acá.  Sí, sí.  Impresionante.  ¿A veces te detenés a ver qué fue lo que pasó estos años con vos?  ¿Cómo fue que te cambió la vida?  Porque en definitiva te cambió la vida. ",
+            "cosine_dist": 0.8824974836219344,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 110.083,
+            "end_time": 130.366,
+            "text": "Sí, pero me cambió la vida.  Pero no, no me pongo a mirar para atrás.  Porque yo tengo conciencia de... de lo que pasó y de lo que está pasando.  Y no podés distraerte. ",
+            "cosine_dist": 0.4325362134849934,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 131.587,
+            "end_time": 149.873,
+            "text": "No, ni hablar.  Pero digo, me acuerdo que ese día que nos conocimos, después a la tarde o a la noche me llamaste o yo te llamé, no me acuerdo cómo fue, y empezamos a entablar una relación.  Digo, en ese momento no te imaginabas ni de casualidad ni la explosión que ibas a tener mediáticamente, mucho menos después de meterte en política. ",
+            "cosine_dist": 0.8789241408321431,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 150.965,
+            "end_time": 178.714,
+            "text": "Mirá, hay una nota que cuando empiezo con el tema de la campaña y todo, que me hace novales y me dice, o sea, ¿vos te imaginabas esto?  Y yo agarro y le hago la pregunta al revés.  Digo, ¿vos te lo imaginabas?  No, ni en pedo, bueno, yo tampoco.  Es más, es tan así, yo lo he contado alguna que otra vez, cuando se hizo la fiesta en New York City, de fin de año que ",
+            "cosine_dist": 0.4724029246778291,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 179295,
+            "end_time": 179535,
+            "text": "José ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 179.555,
+            "end_time": 206.696,
+            "text": "Luis se estaba lanzando, yo me recuerdo que vino el prócer del liberalismo, Alberto Venegas Lynch, hijo, y entonces me llevó a un costado y me dice, pero usted no se va, ¿no?  Usted se queda dando la batalla cultural.  Le digo, sí, profe, quédese tranquilo, a mí no me gusta la política.  Y después los hechos me terminaron empujando para acá.  Pero... ",
+            "cosine_dist": 0.470602898200836,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 207.396,
+            "end_time": 215.723,
+            "text": "Bueno, de ellos hasta no hace mucho tiempo vos no querías meterte.  O sea, eras la antipolítica, pero la antipolítica al extremo eras. ",
+            "cosine_dist": 0.9037835389538611,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 216.103,
+            "end_time": 287.539,
+            "text": "Exacto.  Tal cual.  Pero descubrí algunas cosas en el medio.  O sea, que las vas entendiendo en la dinámica.  Y una es, mirá... Cuando vos vas a la cancha a ver a Argentina, ponésle el estadio es hermoso, los colores son hermosos, los cantitos son hermosos, pero vos ponés la pelota en el medio de la cancha, no se mueve.  Es decir, el que hace los goles es Messi, no el que está gritando en la tribuna, por más que sea muy lindo.  Entonces, una de las cosas es, si vos no te metés para cambiar la realidad y disputar el poder en serio, los políticos se te ríen en la cara.  O vos le podés decir algo, no les importa nada, no les importa nada.  Para ellos es un trabajo y su trabajo consta en ganar elecciones para tener poder.  Ahí hay algunas cosas muy marcadas en los políticos, los rasgos, en general los mueve mucho el ego, el poder, el ego. ",
+            "cosine_dist": 0.44757954615862394,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 288558,
+            "end_time": 288898,
+            "text": "Sí, la guita. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 289.839,
+            "end_time": 381.497,
+            "text": "Bueno, la codicia y la lujuria.  Esos son los elementos que más se ven sobre los políticos.  Es decir, para conseguir cosas que sin el poder no tendrían.  Y ahí hay algo muy interesante.  Voy a estar sacando alguna sota que tengo.  Por ejemplo, la película Piratas del Caribe, la primera, digo que es la maldición del oro de Cortés, ¿no?  O sea, los tipos se habían robado el oro de Cortés y lo gastaron y tenían más necesidad de alcoholizarse, tenían más necesidad de sexo, necesitaban todo más y cuanto más se las consumían esas monedas y más de eso trataba la maldición, ¿no?  Y eso en la casta política se ve con total claridad.  Eso, ya estando desde adentro, yo me acuerdo que un día un periodista me dijo, y usted ahora está en política, ¿y usted qué cree?  Y le digo, me equivoqué.  Me dijo, ah, vio que no era tan malo.  No, no, me equivoqué porque me quedé corto.  Son mucho peor de lo que me imaginaba.  Entonces, entre lo que tiene que ver con... El tema de entender que solo lo vas a poder modificar si no te gusta esta realidad, metiéndote ahí, ensuciándote. ",
+            "cosine_dist": 0.3924251120173885,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 382.517,
+            "end_time": 389.522,
+            "text": "Sí, vos un día me lo resumiste bien en una charla que me dijiste, mirá, yo entendí que puedo estar muy en contra del Estado, pero el Estado está ahí. ",
+            "cosine_dist": 0.8946964138436861,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 390.162,
+            "end_time": 390.762,
+            "text": "Claro, exacto. ",
+            "cosine_dist": 0.8399331366867036,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 390.863,
+            "end_time": 394.445,
+            "text": "Y entonces, en tal caso, no podemos hacer que el Estado no estuviese ahí. ",
+            "cosine_dist": 0.863654186118811,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 395.526,
+            "end_time": 492.39,
+            "text": "Y hay que convivir con eso.  Sí, digo, si vos lo querés cambiar, se cambia desde adentro.  De la otra manera no funciona.  Y otra cosa que yo vi es que la batalla cultural estaba en peligro.  yo recuerdo el día que saca el tremendo número que sacó Alberto Fernández en las PASO.  yo no podía dormir.  estaba caminando por las paredes y a las tres de la mañana no podía dormir no estaba en política no quería saber nada.  y ahí aparece un chanta que se la da de economista Y dice, no, no, un canal que sí estaba operando todo el tiempo, o sea, operando en el sentido de que estaba al aire en vivo de verdad.  Y ese Chanta dice, no, no, hay que sacar a todos los liberales de la TV porque en realidad, digamos, contaminan todo.  Y ese impresentable después lo vi en muchos videos con Leandro Santoro, y sucede que después Leandro Santoro termina siendo el asesor del presidente y andaba dando vueltas por los canales pidiendo que se censuraran los liberales y muy especialmente en mi caso.  Entonces yo creí que ahí la batalla cultural estaba complicada y entonces dije bueno, nada, será el momento de ir y pelearles desde adentro y romper el statu quo desde ahí. ",
+            "cosine_dist": 0.40498063153707087,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 493.251,
+            "end_time": 501.894,
+            "text": "O sea que la decisión en definitiva la tomaste dos años antes de presentarte elecciones.  Pues estamos hablando de dos mil diecinueve, vos en definitiva... ",
+            "cosine_dist": 0.9151949843844682,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 501.914,
+            "end_time": 548.633,
+            "text": "Y no, ahí me empecé a dar cuenta que lo que hice fue estar alerta.  Y lo interesante cuando vos estás alerta es que empezás a atar cabos.  O sea, encontrás un patrón de comportamiento y entonces lo detectás y decís, ok... Estos tipos vienen por todo, literalmente.  Y bueno, y es así como me metí y nada.  Y después hay algunas cosas que son complicadas de la política.  Yo me acuerdo que cuando estaba arrancando tenía una persona que me cerraba.  Obviamente que tenemos volatilidad del equipo por un tema muy simple.  Y es que si vos querés tener un equipo permanente en algunas cosas, o sea, salvo los que vienen por el bronce. ",
+            "cosine_dist": 0.37452826520552307,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 549.133,
+            "end_time": 551.315,
+            "text": "Sí, sí, aparte de la propia dinámica política. ",
+            "cosine_dist": 0.8975806498543044,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 551.835,
+            "end_time": 603.569,
+            "text": "Entonces, claro, era una persona que trabajaba mucho en campaña negativa y me dice, me voy a tomar un mes para sacarte hasta el ADN.  Me dice, ¿vos tenés algún muerto en el placar?  No, no tengo ninguno.  Yo te los voy a buscar, me dice.  Un mes después vino y me dijo, te tengo dos noticias, una buena y una mala.  Yo como soy un perfeccionista le dije, dame primero la buena, así después ya empezamos y no perdemos tiempo para laburar en la mala.  Entonces la buena es, no me habían encontrado nada, dije, ah, qué bueno, no, eso es lo malo.  Porque si no te lo inventan.  Y yo me he dado cuenta que son capaces de inventar cualquier cosa, porque... Le han inventado cosas hasta a mi hermana.  Es más, algunas cosas hasta... ",
+            "cosine_dist": 0.48832538953313664,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 604.11,
+            "end_time": 608.013,
+            "text": "Sí, sí, pero hablaba hasta de relación incestuosa.  Han ido al límite. ",
+            "cosine_dist": 0.7911660705453394,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 608.274,
+            "end_time": 617.722,
+            "text": "Sí, no, no, por eso.  Violentaron todos los límites.  Pero bueno, así es como juega la caja amarilla. ",
+            "cosine_dist": 0.5668531916382503,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 618.663,
+            "end_time": 641.243,
+            "text": "Y ahora, en estos ya dos años metido en política... Yo creo que desde afuera, por supuesto, viéndote y analizándote digo, por un lado, filtraste un montón de gente porque tu persona de confianza es tu hermana o al menos es desde afuera lo que se ve es mi ley y su hermana.  como persona de confianza no hay un equipo de trabajo. ",
+            "cosine_dist": 0.8298573038451084,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 641.764,
+            "end_time": 661.529,
+            "text": "al menos que vos lo muestres a ver una de las cosas que pasan varias cuestiones.  con eso es cierto.  digo que la persona de máxima confianza es mi hermana.  claro es un dato.  pero eso es eso lo vas a ver en todo en todos.  Ahora... ",
+            "cosine_dist": 0.4517508010437036,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 663.61,
+            "end_time": 670.912,
+            "text": "No, pues digo, también la pones en riesgo, ¿no?  En algún punto.  Tuviste que tomar la decisión en algún momento de decir, bueno, estás expuesta por ser mi persona de confianza. ",
+            "cosine_dist": 0.9547904687401301,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 671.692,
+            "end_time": 785.114,
+            "text": "De hecho, bueno, cuando se suscitó toda la polémica, porque yo andaba con un chaleco antibalas... en uno de los recitales, entonces salió a la luz lo de los custodios, y en realidad eso está desde lo que fue el lanzamiento en Plaza Holanda, yo recuerdo habíamos llamado a todos los medios, no vino nadie a cubrirlo, y empezaron a filmar las personas que estaban ahí, y a partir de ahí nos metimos en el corazón de la discusión, política que yo creo que logramos correr el eje y creo que el debate, digamos, terminó siendo la discusión sobre la sede de la libertad, lo cual eso fue un buen elemento, pero en ese acto, digo, a mi hermana la agarraron abajo, o sea, y entonces le dije, vos vas a tener custodio.  y ella me dijo, ah, sí, entonces vos también.  Entonces, nada, y otra cosa, el responsable de la custodia me dice, mira, las personas normales cuando hacen un acto así entran por atrás.  Esto de entrar por el medio de la gente es muy arriesgado y si te pasa algo, el que tiene que cargar con eso es él.  Entonces... me dijo, preventivamente, te vas a tener que poner un chaleco, en especial por lo que pasó con Bolsonaro, que también es alguien que se mete entre medio de la gente, o sea, vete lo que son los actos, o sale a andar en moto con toda la gente, entonces eso... No es que nosotros tengamos algún temor particular de que nos hagan algo, pero digo, vos no podés dejar el riesgo abierto.  O sea, es una... Porque aparte, pensá, no sé, el otro día en Tucumán, había treinta mil personas. ",
+            "cosine_dist": 0.4165674665833412,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 785.415,
+            "end_time": 786.115,
+            "text": "Sí, sí, impresionante. ",
+            "cosine_dist": 1.0338060797736006,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 786.375,
+            "end_time": 790.417,
+            "text": "No sé, los que dijeron que peor no fue, no sé, veintidós mil. ",
+            "cosine_dist": 0.661058484816234,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 791.578,
+            "end_time": 795.12,
+            "text": "No, no, pero aparte de veintidós mil, puede ser que haya un loquito que... Por eso.  Está claro. ",
+            "cosine_dist": 0.8472753274292905,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 795.54,
+            "end_time": 809.924,
+            "text": "Entonces, eso... Eso, digamos, no lo... Si vos querés hacer cosas raras y, bueno, algún costo tenés que pagar en términos de, o sea, tenés que entrar con esto. ",
+            "cosine_dist": 0.4971129767161311,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 810.924,
+            "end_time": 826.794,
+            "text": "¿Y tu hermana era consciente de lo que se estaba metiendo?  Porque, digo, una cosa es decirte Javi te acompaña y otra cosa es Javi te acompaña y después sos diputado y después convocás a miles y miles de personas.  Digo, supongo que la debe haber sorprendido en algún punto lo que te fue pasando. ",
+            "cosine_dist": 0.8624532956974393,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 828.539,
+            "end_time": 869.92,
+            "text": "Yo creo que ella lo entendió mejor antes que yo.  Digo, ella lo... Hay que verla en acción.  A mí, por ejemplo, es muy impresionante verla cuando está... Bueno, primero los recitales que arman, yo los llamo los recitales, ¿no?  O sea, por el tema del armado del escenario, el tema de las luces, el tema de los videos, el tema de la seguridad, es como armar un recital.  ¿Y cómo ella está monitoreando todo?  Por ejemplo, en Mendoza fue muy importante porque... ",
+            "cosine_dist": 0.45260524699164284,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 871.402,
+            "end_time": 874.564,
+            "text": "Bueno, el Broadway, que lo vi yo en primera persona. ",
+            "cosine_dist": 0.9838882330723719,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 874.584,
+            "end_time": 876.225,
+            "text": "Bueno, imagínate algo veinte veces más grande. ",
+            "cosine_dist": 0.7321906086903003,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 876.466,
+            "end_time": 877.607,
+            "text": "Claro, sí, sí, seguro. ",
+            "cosine_dist": 1.061345863462969,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 878.988,
+            "end_time": 927.45,
+            "text": "Entonces... Es un laburo impresionante y a veces la captan con fotos.  Entonces, por ejemplo, a mí una foto que me parece impresionante es una de Mendoza, que ya no está en el... O sea, ella, digamos, está en el escenario mirando mi ingreso.  Y en el de Mendoza, en un momento, la ves que está afuera del escenario y está redireccionando todo el operativo de seguridad para que me saquen del medio porque, digamos... Hubo unos temas y hubo que, o sea, no que hubiera violencia, ¿no?  Pero digo, o sea, no se podía pasar.  Sí, sí, sí.  Entonces hubo que rearmar el operativo para sacarme del medio de la gente y que pueda subir al escenario.  Pero por eso es un laburo que, digo, no puede descansar en ningún momento. ",
+            "cosine_dist": 0.3883572212182439,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 927.47,
+            "end_time": 928.191,
+            "text": "Totalmente, totalmente. ",
+            "cosine_dist": 1.0922770644476314,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 928.211,
+            "end_time": 938.421,
+            "text": "O sea, y en cuanto... te perdiste el foco porque, no sé, te enganchaste con el público y es peligroso. ",
+            "cosine_dist": 0.49709571517327567,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 938.521,
+            "end_time": 946.565,
+            "text": "Ahora, por eso, por un lado, esto hizo que filtre gente y que en definitiva termine tu hermana como tu persona de confianza y después todo lo demás. ",
+            "cosine_dist": 0.9139549088215357,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 947.185,
+            "end_time": 948.025,
+            "text": "Sí, es una bendición. ",
+            "cosine_dist": 0.7414296891285849,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 948.445,
+            "end_time": 950.346,
+            "text": "Sí, sí, seguramente, seguro que sí. ",
+            "cosine_dist": 0.9475299265306588,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 950.446,
+            "end_time": 995.602,
+            "text": "Te lo voy a contar con un ejemplo concreto.  Yo siempre hablo de esto.  Cuando Moisés está caminando con el pueblo judío hacia la tierra prometida, tenía un general que se llama Coraj e inicia una rebelión para volver a Egipto.  Estaban caminando hacia la tierra prometida y hacen una rebelión para volver a ser esclavos, una cosa heavy.  Y cuando fue a atacarlo, a Coraj se lo comió la tierra.  Esas crisis que tuvimos, ¿sabes qué tuvieron de bueno?  A toda esa gente que estaba para romper el espacio y la careteaba, se los trajo a la tierra.  Míralos dónde están ahora. ",
+            "cosine_dist": 0.38522705007851754,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 996.579,
+            "end_time": 1027.994,
+            "text": "Totalmente, pero más allá de esa característica de haberte quedado con tu gente más querida, de mayor confianza, del otro lado.  también se fue generando una interna liberal, donde cada uno fue mostrando su faceta o su... Coraje.  Ahora digo... ¿Qué pasó ahí?  Porque hace, me voy dos o tres o cinco años para atrás, era todo un pelotón unido y después se fue como desmembrando, ¿no? ",
+            "cosine_dist": 0.8636328860358934,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1029.957,
+            "end_time": 1055.186,
+            "text": "Y lo que pasa es que algunos son liberales pero les gusta más el dinero que las ideas.  Entonces, puede haber... De hecho, hay liberales que trabajan para estructuras socialdemócratas ensuciando a liberales.  Y después se jactan de ser popes del liberalismo. ",
+            "cosine_dist": 0.46135335982899295,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1057.527,
+            "end_time": 1064.81,
+            "text": "O sea que, en definitiva, según lo que entiendo, en definitiva no hay una interna liberal, sino que se van cayendo las caretas de quienes no lo son. ",
+            "cosine_dist": 0.8654680022411128,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1065851,
+            "end_time": 1066411,
+            "text": "Exactamente. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1066.471,
+            "end_time": 1067.191,
+            "text": "Paso un poco por ahí. ",
+            "cosine_dist": 0.8999543364062681,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1067.772,
+            "end_time": 1085.656,
+            "text": "Exactamente.  Y eso, pero para mí eso es una buena experiencia, porque te sirve para ver quiénes son buenas personas y quiénes no.  Entonces, para mí eso es fabuloso.  O sea, ok, bueno, cuando te chocaron el auto, ok, está bien, pero... ",
+            "cosine_dist": 0.5678111898150919,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1085.756,
+            "end_time": 1086.837,
+            "text": "Sí, claro, claro. ",
+            "cosine_dist": 1.0040687629436522,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1087.418,
+            "end_time": 1110.215,
+            "text": "Pero cuando vos lo mirás en perspectiva, para mí me parece genial, digamos, implicó poder... sacar mucha gente que tenía como misión romper el espacio.  Y eso lamentablemente en política pasa mucho más de lo que uno se imagina, que te infiltran gente para romperte, para asociarte. ",
+            "cosine_dist": 0.4071648571616976,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1110.235,
+            "end_time": 1117.261,
+            "text": "Ahora, hay muchos que dicen que vivís perseguido detrás de la operación, detrás de que te hagan algo, detrás de que... ",
+            "cosine_dist": 0.8800277677428714,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1117.801,
+            "end_time": 1130.51,
+            "text": "Sí, eso por ejemplo lo dice uno de los que cobran para pegarme.  Ajá.  Entonces, ¿qué querés que ese tipo asuma, acepte que él cobra para ensuciarme? ",
+            "cosine_dist": 0.4823160781540713,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1130.71,
+            "end_time": 1134.633,
+            "text": "Sí, yo no te voy preguntando los nombres porque si no lo decís es porque no querés y obviamente está muy bien. ",
+            "cosine_dist": 0.9142113188597402,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1134653,
+            "end_time": 1135193,
+            "text": "No viene el caso. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1135.733,
+            "end_time": 1139.436,
+            "text": "No, no, por eso, por eso, por eso, pero si querés nombrarlos tampoco hay problema. ",
+            "cosine_dist": 0.8449128027793021,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1139.456,
+            "end_time": 1142.638,
+            "text": "No son tan importantes como para tal cosa. ",
+            "cosine_dist": 0.5904587943838197,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1143.177,
+            "end_time": 1154.101,
+            "text": "Ahora, pero lo cierto es que vivís más preocupado.  Recién me hablaste de la seguridad y supongo que vivís también preocupado.  Una vez creo que filtraste algo con una operación que te iban a hacer con drogas. ",
+            "cosine_dist": 0.8673228079907702,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1154.461,
+            "end_time": 1240.11,
+            "text": "Sí, de hecho hay... A ver, el tema es este.  Hay algunos políticos que se caracterizan por ser grandes traidores.  Grandes traidores.  Y traicionan a todo el mundo.  Y creen que todas las personas son comprables además.  Es decir, son compradores hostiles.  Pero como la caja surge de pagar impuestos, no es la de ellos.  Y creen que todas las personas tienen un precio.  Y entonces, claro, cuando se encuentran con uno que no tiene esas características, eso le genera un ruido enorme.  O sea, hay mucha gente que se desvive por tener un carguito, hay mucha gente para tener un contratito, o digamos, embocar o colocar a un familiar.  Bueno, digo, no es mi caso.  Es más, o sea, de hecho, las... Las tres características que suelen mostrar los políticos, yo digo, no tengo ese problema, afortunadamente.  Primero porque yo no necesito del poder para tener las cosas que yo quiero.  O sea, yo necesito del poder para ser feliz.  Yo no necesito esas cosas, no las necesito.  ¿Entendés?  Porque digo, yo las tengo igual.  Porque acá digo, ¿sabés lo que cuenta al final del día?  Si sos feliz o no. ",
+            "cosine_dist": 0.44285274320530066,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1240491,
+            "end_time": 1241011,
+            "text": "Totalmente. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1242.675,
+            "end_time": 1304.738,
+            "text": "Y si vos sos consecuente con eso.  Entonces, la verdad es que el poder no lo necesito porque digo, o sea, las cosas que me hacen feliz, digo, yo las puedo conseguir solo.  No necesito estar robándole recursos a alguien para eso.  Después, digo, por ejemplo, el tema... Y para mí entonces... Yo te pido el voto para devolverte el poder a vos, para devolverte la libertad, para sacársela a estos delincuentes y dártela a vos.  Y eso, en mi caso, se nota claramente.  Porque aparte, yo no tengo un vínculo así con el poder.  Para mí el poder lo tiene que tener el ser humano.  Alguien bajo una estructura que termina haciendo cosas verdaderamente agarrantes.  Después está el tema de la codicia.  Vos me conoces hace muchos años, yo soy un tipo muy austero.  Entonces yo no necesito mucha plata para... ",
+            "cosine_dist": 0.37728808419700444,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1304.778,
+            "end_time": 1309.541,
+            "text": "No, no, y aparte te va bien en tu actividad privada, digamos, ¿no?  O sea, lo que necesitas lo tenés. ",
+            "cosine_dist": 0.8123301306060757,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1309.861,
+            "end_time": 1312.862,
+            "text": "Exacto, pero si además vos sos un tipo muy austero... ",
+            "cosine_dist": 0.4646127390541134,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1314.823,
+            "end_time": 1316.984,
+            "text": "Sí, sí, menos, menos requerimiento tenés. ",
+            "cosine_dist": 0.890342061690111,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1317.004,
+            "end_time": 1360.723,
+            "text": "Claro, entonces digo, o sea, afortunadamente eso hace que uno no sea codicioso.  Y tampoco soy un tipo, digamos, o sea, digo, lujurioso, o sea, no tengo ese problema, o sea, digo, lo que tiene que fluir fluye, digo, naturalmente.  y además como tampoco tengo ningún tipo de restricción, digo, puedo... volverme más tranquilo, pero no necesito del poder del Estado ni de la caja para tener estas cosas.  Y la verdad es que a mí las cosas que me hacen feliz es, digamos, estar con mis hijitos de cuatro patas, o sea, con Conan, con Murray, con Milton, con Robert y con Lucas. ",
+            "cosine_dist": 0.4200702082872162,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1362.235,
+            "end_time": 1363.356,
+            "text": "Ah, cinco, pensé que tenías cuatro. ",
+            "cosine_dist": 0.9694217121302439,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1363.476,
+            "end_time": 1417.246,
+            "text": "No, tengo cinco.  Sí, hay un periodista que hizo una investigación sobre mí, o sea, dentro de los errores que cometió, dijo que tengo cuatro mastines napolitanos.  Ah, leí eso.  Sí, y tengo cinco mastines ingleses.  ¿Y cómo es?  Y estar con mi hermana, hacer un poco de economía, y una vez que me retire de la política, dedicarme ya más profundamente a estudiar la Torá.  porque la verdad que el crecimiento en el plano espiritual que he tenido en este último tiempo gracias a Axel mi rabino de cabecera que tanto lo quiero y que tanto me ayuda a crecer y evolucionar espiritualmente la verdad que necesito de estar robándole plata a la gente para tener esas cosas. ",
+            "cosine_dist": 0.4539069244679196,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1418.146,
+            "end_time": 1436.411,
+            "text": "con mi laburo voy y hago las cosas y No, no, de hecho yo te conocí viviendo precisamente, bueno, en ese momento trabajabas en la empresa de Urnekian y no sé si ya dabas conferencias, pero bueno, después empezaste a dar conferencias, siempre viviste como hoy, seguimiento de las conferencias. ",
+            "cosine_dist": 0.8961746734357157,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1436.471,
+            "end_time": 1442.015,
+            "text": "Exacto.  O sea, nada más que en ese momento tenía un trabajo formal.  Yo era el economista, jefe del grupo. ",
+            "cosine_dist": 0.5529859766760169,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1442.055,
+            "end_time": 1443.356,
+            "text": "Sí, más tradicional, digamos. ",
+            "cosine_dist": 0.7865821521986562,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1443.376,
+            "end_time": 1455.864,
+            "text": "Claro, era más convencional, exacto.  O sea, a mí me... Yo me acuerdo que me contrataron para evaluar Aeropuertos Argentina dos mil.  Y después vieron que sabía hacer otras cosas más que evaluar empresas. ",
+            "cosine_dist": 0.5236742134132368,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1455884,
+            "end_time": 1456224,
+            "text": "Claro, sí. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1457.005,
+            "end_time": 1499.941,
+            "text": "Y entonces empecé, por ejemplo, una de las cosas que hacía, que era un trabajo muy divertido y que... Probablemente, digo, en eso sí soy uno de los mejores del mundo, que es lo que tiene que ver con la evaluación de empresas reguladas y vincularlo con toda la teoría económica y con las finanzas.  Y entonces yo en cincuenta países del mundo desarrollé marcos regulatorios.  Y eso, por ejemplo, te permite que vos entres a una licitación, la ganes, Y vos podés salir con ese proyecto ya en la mano y lo podés vender... ",
+            "cosine_dist": 0.4369506467296784,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1499.961,
+            "end_time": 1500.701,
+            "text": "En otro país. ",
+            "cosine_dist": 0.9892627621549602,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1501.001,
+            "end_time": 1534.973,
+            "text": "En otro país que se financie en la tasa más baja y vos con el solo hecho de eso ganás plata.  O sea, es como una forma de vender más cara la expertise.  Y después, como en la Argentina, se vuelve muy demandante en términos de la economía y... Y entonces todas las distintas áreas fueron armando sus propios equipos, dejó de haber un equipo común, entonces se desarmó ese equipo y me quedé haciendo economía reportando directamente a Eduardo. ",
+            "cosine_dist": 0.44144660521546053,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1534.993,
+            "end_time": 1547.54,
+            "text": "Javi, se me terminó el tiempo y me falta lo más importante, que es hablar de lo que vos querés, que es el futuro.  Vos me dijiste, bueno, del pasado.  trato yo de no mirar para atrás y trato siempre de mirar para adelante.  ¿Te veo la semana que viene? ",
+            "cosine_dist": 0.8512389287556402,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1548.261,
+            "end_time": 1549.663,
+            "text": "Por supuesto.  Listo. ",
+            "cosine_dist": 0.763625962740636,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1549.704,
+            "end_time": 1551.587,
+            "text": "Te espero la semana que viene.  Gracias. ",
+            "cosine_dist": 0.9360929761047617,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1574.258,
+            "end_time": 1656.62,
+            "text": "y y y y Nunca supe buscar, pero pude encontrarte.  Siempre que me miras, vuelvo a tambalearme.  Quiero hacerte feliz, quiero estar a tu lado. ",
+            "cosine_dist": 0.9716934573753503,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1656.64,
+            "end_time": 1661.522,
+            "text": "Y si el cielo está gris, juntos lo atravesaremos. ",
+            "cosine_dist": 1.0069046669788124,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1666.221,
+            "end_time": 1670.843,
+            "text": "El sol refleja su luz de hacer paz. ",
+            "cosine_dist": 1.0344001777568894,
+            "is_target_speaker": false
+        }
+    ]
+}

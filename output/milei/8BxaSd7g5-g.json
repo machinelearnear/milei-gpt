@@ -1,0 +1,583 @@
+{
+    "Index": 419,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "8BxaSd7g5-g",
+    "url": "https://www.youtube.com/watch?v=8BxaSd7g5-g",
+    "title": "Javier Milei en A24 con Marcela Pagano 22/4/2021",
+    "duration": 1556.0,
+    "view_count": 69096,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 2",
+            "start_time": 0.22,
+            "end_time": 18.535,
+            "text": "Sí, hay que tener ganas.  Yo les quiero decir que ya está nuestro invitado estrella del día, que es Javier Milei, que está mirando y me está poniendo carita, se ríe.  Javier Milei, la primera pregunta, no sé si te la hicieron ya antes, pero vos ya te estás viendo, te estás riendo porque te estás viendo como papá en esta edad de los sesenta.  ¿Qué te parece a vos esto? ",
+            "cosine_dist": 0.9651291715094581,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 18.555,
+            "end_time": 20.736,
+            "text": "Bueno, por lo menos me faltan diez años para llegar a los sesenta. ",
+            "cosine_dist": 0.6595524117920284,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 20.756,
+            "end_time": 27.498,
+            "text": "Sí, pero por eso, pero estás tan entusiasmado en tu carrera política que capaz que en diez años, cuando ya llegues, serías papá grande. ",
+            "cosine_dist": 0.9738466847507042,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 27558,
+            "end_time": 27618,
+            "text": "Sí. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 29.392,
+            "end_time": 80.435,
+            "text": "No me veo todavía en esta foto.  Él se ve joven todavía.  Esto es perfecto, no se ve para paternidad.  El que sí pegó un salto hoy, atención con esto, es el dólar informal, el blue, el de las cuevas.  Porque acá sí vemos un salto de dos pesos en relación a la cotización que te mostrábamos ayer.  Ciento cuarenta y seis pesos hoy la cotización de este dólar informal que de a poquito empieza como a levantarse o a despertarse.  Cuando empieza a haber un poco más de circulación de dinero o de temor a lo que puede llegar a pasar con la política, con la economía, lo vemos enseguida en esta cotización, en la repercusión en el dólar informal.  Y ahora sí, con este número, por supuesto, le doy pie a nuestro economista del día, Javi Milei, que además de ser Javier Economista, está también haciendo una campaña para acceder al sillón de diputado, ¿no? ",
+            "cosine_dist": 0.9770581374374501,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 80.455,
+            "end_time": 84.737,
+            "text": "Sí, candidato a diputado nacional por la Ciudad Autónoma de Buenos Aires. ",
+            "cosine_dist": 0.5454334349480322,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 85.057,
+            "end_time": 99.852,
+            "text": "Javi, yo cuando te conocí hace unos años nunca pensé que vos ibas a aspirar a estar en un lugar o en un rol político, porque en general siempre fuiste muy crítico de cómo se gestiona.  Esta decisión que tomaste, ¿por qué la tomaste? ",
+            "cosine_dist": 0.9248733966160677,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 99.912,
+            "end_time": 140.746,
+            "text": "Eso es verdad lo que vos señalás.  Yo tampoco me hubiera imaginado en esta situación.  Pero el sistema, vos cuando mirás, si a vos no te gusta el sistema, o te quejas, o te vas, o te metés, ¿no?  Yo, digamos, sistemáticamente fui sobre el tema de la batalla cultural.  Tengo la sensación que en algunos aspectos está más complicada la accesibilidad para dar dicha batalla.  Por otra parte... Digo, llega un momento que vos no podés estar todo el día en la tribuna. ",
+            "cosine_dist": 0.3348154482457931,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 141.952,
+            "end_time": 154.856,
+            "text": "O sea, vos lo que querés es... Vos escribiste muchas tesis sobre cómo hay que gestionar la Argentina, una Argentina que es estructuralmente pobre.  ¿Cómo hacer para que esa pobreza se convierta en riqueza?  Y lo querés ejercer desde una banca. ",
+            "cosine_dist": 0.9407847848002685,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 154.916,
+            "end_time": 158.577,
+            "text": "Está bien, está buena la propuesta.  Sí, lo que me doy cuenta es que si no te metés dentro del sistema... ",
+            "cosine_dist": 0.6683702606228166,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 158.597,
+            "end_time": 159.698,
+            "text": "Es imposible cambiarlo. ",
+            "cosine_dist": 1.1113763445749574,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 159.838,
+            "end_time": 169.601,
+            "text": "Vos, claro, vos... Sí, es como... Vos vas a un partido de fútbol y sí, la tribuna, la hinchada, es todo muy lindo, pero el que mete los goles es Messi.  Ajá. ",
+            "cosine_dist": 0.5318392153226543,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 171.762,
+            "end_time": 183.985,
+            "text": "En un punto muchos decían, lo que pasa es que mi ley, y esto lo decían desde el gobierno, agita la antipolítica y eso no es bueno.  Y en realidad está bueno que lo expliques.  Vos crees en la política, pero en otro tipo de políticas. ",
+            "cosine_dist": 0.9068463014974604,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 184.025,
+            "end_time": 196.489,
+            "text": "Claro, yo creo en la política de otra manera.  Es decir, yo no estoy de acuerdo con la estafa que es el Estado y obviamente que lo que voy a buscar es tratar de romper el sistema desde adentro. ",
+            "cosine_dist": 0.3696799732074454,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 197.276,
+            "end_time": 218.905,
+            "text": "Ahora, ¿cómo piensa hoy un libertario, una persona que tiene otras ideas y concepción de la economía, cuando se encuentra con algo que fue realmente sorprendente para el mundo, como fue el COVID, ¿no?  Y que distintas economías, distintos colores políticos y gobiernos en el mundo no supieron qué hacer al.  respecto.  ¿Cuál es tu pensamiento sobre lo que está pasando? ",
+            "cosine_dist": 0.9396957332470924,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 218.945,
+            "end_time": 248.946,
+            "text": "Bueno, yo escribí un libro sobre eso.  Y los pronósticos que hice día dos se cumplieron todos.  Ahora, la situación es entender bien la característica del shock, la naturaleza del shock y responder en.  consecuencia.  Y me parece que ahí se dieron distintos tipos de problemas.  Hay un problema es que no se entendió la naturaleza del shock y se consideró que era un shock distinto al que fue. ",
+            "cosine_dist": 0.35213005557550037,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 249.548,
+            "end_time": 256.355,
+            "text": "A ver, explícame bien eso para que todos podamos entender.  ¿A qué te referís con shock?  Y cuando decís no lo entendieron, ¿quién no entendió? ",
+            "cosine_dist": 0.9748447500923176,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 256.375,
+            "end_time": 349.307,
+            "text": "La Organización Mundial de la Salud.  La Organización Mundial de la Salud amenaza al mundo con una nueva peste española.  La peste española, digamos, arrancó a finales de mil nueve dieciocho, terminó a inicios de mil novecientos veinte, infectó un tercio de la población del planeta Tierra y Eso tuvo una tasa de letalidad del dos por ciento, del seis por ciento, por lo tanto mató al dos por ciento de la población.  Es decir, si eso hubiera pasado el año pasado, deberíamos haber tenido por lo menos ciento sesenta millones de muertos por COVID.  Hubo un millón setecientos ochenta mil.  ¿Ok?  Es decir, le erraron cien a uno.  Entonces, y esa es la hipótesis baja, Cuando hay un trabajo de Barro Urzuegüen que dice, bueno, ¿cuál sería el impacto de replicar una nueva peste española?  Y te dice, perdés siete puntos de crecimiento.  El mundo perdió el año pasado siete puntos de crecimiento, venía creciendo al tres y medio, cayó tres y medio.  Prácticamente el desastre causado en el planeta Tierra el año pasado... donde dentro de las calamidades que ocurrieron es que la cantidad de pobres extremos en el planeta Tierra subieran en más de trescientos cincuenta millones de seres humanos, tiene que ver con lo que impulsó la Organización Mundial de la Salud con el error grosero que cometió.  Porque eso tiene consecuencias sobre la producción, sobre el empleo y además les pega con más fuerza a los sectores más vulnerables. ",
+            "cosine_dist": 0.29916195173647986,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 349.527,
+            "end_time": 372.01,
+            "text": "Eso.  Vamos a Argentina.  Vos estás haciendo tu recorrido y igual sos una persona, un economista de calle.  Entonces vos ves lo que sucede.  Empezamos el programa diciendo, pareciera ser que quieren instalar, o hay sectores que quieren instalar, el dilema de economía versus salud, o bolsillo versus salud.  Y en realidad siempre se paga un costo, con lo cual es una cosa y la otra. ",
+            "cosine_dist": 0.987189816562659,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 372.65,
+            "end_time": 373.49,
+            "text": "Claro, exacto. ",
+            "cosine_dist": 0.7285958389433512,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 374.051,
+            "end_time": 375.271,
+            "text": "¿Cómo lo ves en Argentina? ",
+            "cosine_dist": 0.9396211433923373,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 375.872,
+            "end_time": 377.592,
+            "text": "¿En qué situación estamos? ",
+            "cosine_dist": 1.0323688097008754,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 377.713,
+            "end_time": 379.013,
+            "text": "¿Fue paño para más restricciones? ",
+            "cosine_dist": 1.0218847504217383,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 379.353,
+            "end_time": 417.428,
+            "text": "Claro, por eso, no es independiente de lo que pasó el año pasado.  A ver... ¿Vos, el año pasado, te quisieron plantear el falso dilema salud y economía?  Y la realidad es que la economía, obviamente, como se la dejó de lado, la destrozamos, fuimos el país que más cayó del G-X, somos un país que cayó el triple que el resto.  digamos, tuvimos la tasa de desempleo tocando el veintinueve por ciento, hoy bien medida es dieciséis, no es once, no porque se mientan los números, sino por cómo, digamos, se mide el desempleo, que el desempleado es el que busca y no encuentra.  Sí, entonces el efecto de desaliento no te lo computa, porque no tiene forma de computarlo. ",
+            "cosine_dist": 0.31258390324573804,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 417.608,
+            "end_time": 421.031,
+            "text": "Eso significa que el que busca y busca y no encuentra, dice, bueno, yo no busco más. ",
+            "cosine_dist": 1.1004437532650515,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 421071,
+            "end_time": 421391,
+            "text": "Claro. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 421.431,
+            "end_time": 424.113,
+            "text": "Dice, no se computa y hay que computarlo. ",
+            "cosine_dist": 0.9531290831610637,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 424.173,
+            "end_time": 500.52,
+            "text": "Claro.  Está buena la apreciación.  Entonces, no, porque hay una diferencia entre el número que postulamos algunos economistas y el que postula el INDEC, y van a decir que miente el INDEC.  No, no miente el INDEC, me consta de la seriedad de Marco Labaña en su trabajo, pero tiene que hacer su trabajo y hay definiciones para eso.  Entonces... Y eso te generó un salto de la pobreza, un salto de la indigencia.  Y entonces vos decís, bueno, pero ¿cómo no fue en salud?  No, en salud también no fue muy mal.  Porque si hubiéramos hecho las cosas como un país mediocre, hubiéramos tenido diez mil muertos por COVID y tuvimos cuarenta mil.  O sea, tuvimos treinta mil más de los que hubiéramos tenido si hubiéramos hecho las cosas como un país mediocre.  La esperanza era que se pudiera el gobierno redimir este año haciendo las cosas bien con la vacunación.  Porque... Acá lo que es importante es entender cómo funciona la lógica de una epidemia.  Nosotros los economistas estamos acostumbrados a manejar sistemas de ecuaciones diferenciales y tendría que ser algo bastante fácil.  Hay dos elementos cruciales si vos tenés estado de bienestar que se dedica a la salud.  Por un lado está la responsabilidad individual.  Es decir, que vos te cuides por vos misma y que te hagas cargo de tus decisiones en algún sentido.  Entonces, algo más complicado cuando hay estado de bienestar, pero... Nadie se quiere estar enfermando.  Por supuesto. ",
+            "cosine_dist": 0.3087095033016859,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 500.54,
+            "end_time": 504.302,
+            "text": "Por eso siempre decimos primero la conciencia individual cada uno. ",
+            "cosine_dist": 0.9632414891747174,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 504.362,
+            "end_time": 520.251,
+            "text": "Y ahí entra lo que tiene que ver con el distanciamiento social, colegio, el uso de barbijo, los protocolos.  Pero por otro lado tenés la parte que, si tenés estado de bienestar, que se carga la salud, que se tiene que encargar el Estado, que es testeos masivos y vacunación masiva. ",
+            "cosine_dist": 0.30143535520303744,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 521.375,
+            "end_time": 523.177,
+            "text": "Bueno, eso es lo que veníamos reclamando. ",
+            "cosine_dist": 1.024525043124781,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 523.798,
+            "end_time": 529.803,
+            "text": "Bueno, eso no ocurrió el año pasado porque testeamos poco y ahora vacunamos poco y seguimos testeando poco. ",
+            "cosine_dist": 0.632975834836468,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 529.944,
+            "end_time": 541.675,
+            "text": "Pero, ¿a dónde nos paramos cuando nos dicen que en realidad somos un país pobre, endeudado, que no honró su deuda y le estamos pidiendo a otra nación o a un laboratorio que nos preste y que nos financie las vacunas? ",
+            "cosine_dist": 0.8650172512751801,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 541.695,
+            "end_time": 558.435,
+            "text": "Pero nos quisieron regalar cuatro millones ochocientas mil vacunas y las rechazamos.  Bueno, es el mismo problema que hubo el año pasado con los testeos.  A ver, la oligarquía política no quiere renunciar a sus privilegios de casta. ",
+            "cosine_dist": 0.4407850407123717,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 559.135,
+            "end_time": 621.977,
+            "text": "Javi, yo tengo unos números ahora para compartirte.  Quiero que los veas, es una noticia urgente esta.  Hablando de pobreza y de lo que es la Argentina, acaba de conocerse lo que es la canasta básica total en Argentina.  El número, por supuesto, de marzo, y nos habla de que una familia tipo compuesta por dos adultos y dos niños en edad escolar, necesitó en Argentina, sesenta mil ochocientos setenta y cuatro pesos para no ser considerado pobre.  Es decir, casi sesenta y un mil pesos necesita una familia para poder comer y vivir y no ser considerado pobre.  Javi, acá te doy el paso a vos y decime qué argentino tiene la posibilidad hoy, una persona que tiene el sueldo promedio en Argentina, que no toca los treinta mil pesos y es hostén de familia, por más de que tenga un empleo privado y registrado, es pobre en Argentina. ",
+            "cosine_dist": 0.9481722328650968,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 622.537,
+            "end_time": 676.164,
+            "text": "A ver, lo que tenemos que tener conciencia es que Argentina es víctima de un caso de decadencia escandaloso a lo largo de los últimos ciento veinte años.  Argentina ingresó al siglo XX siendo el país más rico del mundo.  Esto va a parecer un poquito largo, pero cuando veas toda la dinámica, digamos, es estremecedora.  Ahora, entramos a la pandemia, setenta.  O sea que en ciento veinte años perdimos, ponele, sesenta y nueve puestos.  ¿Sabes cómo estamos hoy?  Ciento veinte, perdimos cincuenta puestos en el último año.  Es decir, somos un país pobre.  Esto es peor todavía, porque si vos mirás el ranking del PBI per cápita del FMI, Argentina está de la mitad de la tabla para abajo en América Latina.  Pero si corregís por el tipo de cambio paralelo, Argentina es furgón de cola. ",
+            "cosine_dist": 0.3449146724528098,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 677.065,
+            "end_time": 709.894,
+            "text": "O sea, está cada vez peor.  Ahora, quiero hacer un punto acá e insistir en esto.  Vamos a hablarle a la persona que nos está viendo.  Digo, casi sesenta y un mil pesos para no ser pobre.  ¿Qué hacemos con la gente que hoy está peleando en esta situación en la que dice, para, no me restrinjas más, porque yo necesito salir a trabajar?  No me alcanza el dinero, estoy endeudado.  Javi, la gente se endeudó para enfrentar, por supuesto, deudas que por la primera ola no pudieron salir a trabajar.  El gobierno dice, ya sabemos esto, entonces no queremos restringir más, cuídense.  Pero aún así sigue creciendo, por supuesto, como lo mostramos. ",
+            "cosine_dist": 0.948251922208108,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 710.034,
+            "end_time": 747.702,
+            "text": "Digamos, a partir del desastre hecho el año pasado, ahora la situación es mucho peor.  Porque vos en el medio te quebraron muchas empresas, las empresas se comieron el capital de trabajo, muchas empresas para seguir sosteniendo a los empleados y no echarlos se comieron el capital financiero.  No tienen capacidad de respuesta hoy las empresas.  Por lo tanto, la situación es extremadamente delicada.  Y cerrarlas va a implicar una oleada de quiebras, desempleados, pobres, indigentes, aún todavía mayor.  Pero el punto es... ¿A dónde tengo que tocar?  Porque el año pasado me gasté cinco puntos del PBI en asistencia social y lo financié con emisión monetaria. ",
+            "cosine_dist": 0.3247819105967481,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 747.722,
+            "end_time": 756.546,
+            "text": "Lo mostrábamos al comienzo del programa, Javi.  El dinero que se empleó es el equivalente a ciento treinta y tres millones de pesos por día el año pasado. ",
+            "cosine_dist": 0.977468839511542,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 756.906,
+            "end_time": 799.687,
+            "text": "Entonces, ¿vos tenías para sacar esa plata de otro lado?  Sí.  ¿De dónde?  El estudio del BID demuestra que Argentina tiene... A ver, ¿la peor región del mundo.  cuál es?  América Latina con cuatro coma cuatro por ciento del PBI de ineficiencia técnica en el gasto público.  Argentina tiene siete dos, y de esos siete dos hay cinco puntos que son de choreo.  Es decir, la corporación política, la oligarquía política, el conjunto de delincuentes que está en la política y que yo quiero entrar para sacarlos a patadas en el traste, para que nos dejen de robar y además nos devuelvan la libertad, sí.  Deberían haber dejado de robar y la de ellos no se tocó.  Y prefieren mandar a la gente a morirse o a la pobreza o a la indigencia con tal de no tocar la de ellos. ",
+            "cosine_dist": 0.33434014443949767,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 799.727,
+            "end_time": 809.775,
+            "text": "Con tal de no tocar los sueldos también.  En un rato vamos a estar hablando de eso.  Javi, ¿tenés más o menos una noción de, en promedio, cuánto gasta hoy una familia para poder vivir? ",
+            "cosine_dist": 0.9706334479691724,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 809.795,
+            "end_time": 814.759,
+            "text": "Soy soltero, dale.  Sabés que es una pregunta incómoda.  Aparte... ",
+            "cosine_dist": 0.6664301006007258,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 816.64,
+            "end_time": 865.703,
+            "text": "No quiere hablar de esa parte de su sotería, pero yo sí quiero compartirte para que veas, porque lo que nos planteamos siempre es ver, ¿es solo Argentina o en otros países también cuesta tanto?  Si el salario mínimo vital y móvil no llega a los veintitrés mil pesos, ¿cómo hacemos para que esa persona que gana ese salario y eso estén de familia no caiga detrás de la línea de la pobreza?  si tiene dos chicos y tiene una persona también adulta que no tiene empleo?  Está condenado a la pobreza y con ese dinero, con ese dinero que tiene de salario mínimo vital y móvil, no le alcanza para comprar los alimentos.  Por eso ya me acompañan para hacer una reflexión de cómo es esto en el mundo y saber si solo pasa en Argentina, nuestros compañeros Adrián Sack, que está en Estados Unidos, y Renato Talavera, que está en Paraguay.  Queremos conocer otras realidades de cómo se vive en el mundo.  ¿Cómo le va?  Buenas tardes. ",
+            "cosine_dist": 0.9722486874756573,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 865.723,
+            "end_time": 866.383,
+            "text": "¿Qué tal?  ¿Cómo estás? ",
+            "cosine_dist": 0.9780525019908126,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 866.403,
+            "end_time": 875.875,
+            "text": "Muy buenas tardes.  ¿Cómo estás?  Bien.  Bueno, voy a empezar con Adri.  Adrián, no sé dónde estás, pero me parece que tenés góndolas atrás tuyo. ",
+            "cosine_dist": 0.966647345274529,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 878.234,
+            "end_time": 926.127,
+            "text": "Así es, estoy en un mercadito aquí en los Estados Unidos, en las afueras de Atlanta, la localidad de Roswell, y me puse la parte de frutería porque es quizá la más pintoresca, la que más nos hace acordar un poquito al mercado central, quizá por estas balanzas tan antiguas, que acá se usan más como para pesar en libras, ¿no?  Acá todos los precios que ves están en libras, entonces tenés que multiplicar por dos para aproximarte al kilo, etcétera.  Claro, claro.  Pero viene a tomar los precios de primera mano.  Aunque, de todas maneras, sí te puedo decir, según los estudios de los organismos oficiales, cuánto necesita una familia de cuatro personas para poder vivir un mes, para poder hacer los gastos justamente de acá, de supermercado. ",
+            "cosine_dist": 0.8623748344114421,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 926.307,
+            "end_time": 927.148,
+            "text": "¿Cuánto, Adri?  Es... ",
+            "cosine_dist": 1.0607388678449259,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 928.969,
+            "end_time": 932.694,
+            "text": "Ochocientos noventa y dos dólares necesitas acá. ",
+            "cosine_dist": 0.8324693241434038,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 932.714,
+            "end_time": 934.417,
+            "text": "¿Para eso qué sería?  ¿Solo alimentos? ",
+            "cosine_dist": 1.0007194842979497,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 936.704,
+            "end_time": 947.07,
+            "text": "No, también productos de limpieza y productos de primera necesidad que puedas... Siempre se eligen algunas cosas, ¿no?  ¿Qué sé yo?  Desde una birome, por decirlo. ",
+            "cosine_dist": 0.9022686266446053,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 947.471,
+            "end_time": 959.438,
+            "text": "Porque acá el costo de la canasta... Mira, el costo de la canasta alimentaria, Adri, acá, cuando lo medís a tipo cambio oficial, me da... Lo estoy haciendo en vivo, chicos, esto.  Me da doscientos sesenta y cinco dólares. ",
+            "cosine_dist": 1.008140409459633,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 961.919,
+            "end_time": 985.019,
+            "text": "Sí, bueno.  Alimentos, nada más, ¿eh?  Lo que pasa es que la dolarización también... Claro, claro, claro, acá tenés de todo, pero ¿qué pasa?  Un sueldo, más que un sueldo, lo que gana una persona por mes, si tenemos que hacer un promedio, otra vez volvemos a esto, un promedio medio sucio, porque realmente cambia mucho por estado, por profesión y todo, podemos decir que cada persona gana dos mil seiscientos dólares por mes. ",
+            "cosine_dist": 0.8913783494029321,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 985.659,
+            "end_time": 986.96,
+            "text": "Claro, menuda diferencia. ",
+            "cosine_dist": 0.9262724696116447,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 987.0,
+            "end_time": 1012.789,
+            "text": "Y si es una familia de cuatro, generalmente los dos tienen ingresos, entonces tenés que hablar de que la parte de alimentos y compras, Claro, las compras de alimentos y de supermercado en general son un quince a un veinte por ciento de tu sueldo.  ¿Te acordás que ayer decíamos que para alquilar, si superaba el treinta por ciento de tus ganancias mensuales, no era bueno alquilar sino comprar, meterse en una hipoteca? ",
+            "cosine_dist": 0.8494281785292073,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1012.809,
+            "end_time": 1036.943,
+            "text": "Repetime ese dato.  Ese dato es crucial, porque nos está mirando mucha gente que en este momento ya no tiene... La tarjeta de crédito se le derrite de cada vez que va al supermercado porque utilizan la tarjeta de crédito para pagar en cuotas la famosa compra mensual que ya no es tal.  ¿Cuánto dijiste que se lleva del ingreso promedio la compra allá en el supermercado para una familia? ",
+            "cosine_dist": 0.9542226500351202,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1038.973,
+            "end_time": 1064.604,
+            "text": "Para una familia de cuatro personas, entre el quince y el veinte por ciento de tus ganancias mensuales.  Sobre todo, considerando una familia tipo donde los dos ingresan dinero y que estás teniendo cerca de cinco mil seiscientos a seis mil dólares por mes.  Esto es incluso bajo, si querés, ¿no?  Si haces un ingreso familiar mensual.  Claro, está mensurado como lo más básico.  Pero si haces un promedio más tirado para abajo... ",
+            "cosine_dist": 0.8085953449617068,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1065.704,
+            "end_time": 1089.393,
+            "text": "Adri, dame un punto acá porque lo quiero sumar a Renato.  Elegimos Paraguay no por azar, sino porque Paraguay era una economía que tal vez en su momento se la miraba y decíamos Argentina tiene muchos más recursos que Paraguay.  Sí, sí, pero Paraguay tiene la inflación en un mes que no tuvimos nunca y ellos llegan en un año a lo que nosotros tenemos en un mes.  Contame, Renato, cómo es allá el poder adquisitivo promedio. ",
+            "cosine_dist": 0.9671043008449225,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1091.539,
+            "end_time": 1119.76,
+            "text": "¿Qué tal?  ¿Cómo estás, Marcela?  Primeramente, haciendo el cálculo de dos personas adultas y dos chicos, una familia promedio de cuatro, hablamos que necesitan trescientos veintiocho dólares en alimentos para estar por encima de la línea de la pobreza.  Un poco más de cuarenta y un mil pesos haciendo el cambio en nuestra moneda.  Así que trescientos veintiocho dólares es lo que necesita una familia de cuatro personas para poder alimentarse mensualmente. ",
+            "cosine_dist": 0.8386187973636596,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1123.356,
+            "end_time": 1140.185,
+            "text": "El cambio oficial, les comento, está todo hecho a tipo de cambio oficial para poder comparar.  Estamos hablando de que es un poco más que en Argentina.  Estaríamos hablando de prácticamente cien dólares más el costo de la canasta alimentaria, más que en Argentina.  Pero hablemos de los ingresos.  Vivir es caro, pero ¿cómo son los ingresos allá? ",
+            "cosine_dist": 0.98509566202201,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1142.461,
+            "end_time": 1180.782,
+            "text": "Bueno, un salario mínimo está un poco más de trescientos dólares, ¿verdad?  Prácticamente con una inflación que tenemos, una inflación intermensual que tenemos de cero punto tres, una inflación anual del cuatro por ciento, prácticamente uno dice es un país donde es un paraíso.  Pero hay otras realidades en nuestro país.  Por ejemplo, el costo de la vivienda, el costo del alquiler, está bastante caro, no hay una regulación, cada uno pone un precio.  En alimentos es bastante barato y concreto, pero a la hora de alquilar un departamento en Asunción, nosotros estamos prácticamente en la zona céntrica de Asunción, lo que sería Villamorra, es impagable. ",
+            "cosine_dist": 0.820311532845259,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1180.802,
+            "end_time": 1188.568,
+            "text": "A ver, esta zona donde vos estás ahí parado, que nos estás mostrando y nos estás invitando a conocer, es lo más caro.  Es el equivalente entonces a la ciudad autónoma de Buenos Aires. ",
+            "cosine_dist": 1.0042262886230524,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1190.379,
+            "end_time": 1222.319,
+            "text": "Este es el centro comercial de Asunción.  Tenemos prácticamente lo que sería ya el World Trade Center de fondo.  El centro comercial Asunción, el hub Asunción, se concentra en esta zona.  En un país prácticamente donde en niveles macros tenemos números bastante positivos, pero eso no se refleja realmente en... Y con la microeconomía, teniendo en cuenta que el ochenta por ciento de los empleos son generados por las pequeñas y medianas empresas que se vieron afectadas por la pandemia. ",
+            "cosine_dist": 0.8275426508640134,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1222.599,
+            "end_time": 1245.29,
+            "text": "Claro, bueno, un poco replica en ese sentido la situación argentina.  Gracias, Renato.  Bueno, Adrián, ayer hablábamos de lo que es el costo de la vivienda y que allá en todo caso la discusión pasa por cómo son los créditos, ¿no?  Sobre cómo hacer para alquilar.  Pero por lo pronto me quedo con este repaso que hacías vos.  ¿Es mínimo o es mínima la incidencia de la compra de la góndola en los ingresos de un estadounidense promedio. ",
+            "cosine_dist": 1.0270811298669436,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1247.848,
+            "end_time": 1311.146,
+            "text": "Sí, la incidencia no tiene nada que ver, digamos, con el volumen importante de un sueldo.  Digamos que las necesidades básicas están cubiertas con casi cualquier trabajo.  Vos viste que aquí, para hablar de salario, no se habla tanto de salario mínimo como se habla de, por ejemplo, cuánto es la hora de trabajo, de los trabajos peor remunerados.  Los trabajos peor remunerados tienen... una paga de siete dólares con cincuenta la hora, pero ahora están tratando justamente de fijar la nueva administración de Biden un salario de quince dólares la hora.  Eso los sectores más progresistas del Partido Demócrata justamente trataban de hacer eso, de establecerlo ahí.  Pero por eso... Por eso te digo, por eso estamos hablando de los trabajos de más baja calificación.  El promedio, digamos, la clase media de los Estados Unidos, que es más del setenta por ciento, cobra lo que te decía yo, más cercano entre los cinco mil y seis mil por hogar.  Claro, claro.  Por hogar, sí. ",
+            "cosine_dist": 0.8096256382760356,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1311.166,
+            "end_time": 1343.44,
+            "text": "Está bien, acá nos llegamos a los trescientos dólares.  Gracias, Adri, por este trabajo.  Gracias, Renato.  Siempre es bueno empezar a mirar un poco cuando hablamos de Argentina.  cómo salir de la situación en la que estamos.  Y para hablar de eso, siempre es bueno abrir la ventana del mundo y ver cómo funciona en otros lugares.  Bueno, Javier, volvamos un poco a lo que es, sin duda va a ser la noticia del día, ¿no?  O sea, se necesitan veinticinco mil seiscientos ochenta y cinco pesos para poder comer.  Y hoy el salario mínimo vital y móvil está por detrás del número que se necesita para poder comer, para que una familia pueda comer. ",
+            "cosine_dist": 0.9922994640408758,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1343.78,
+            "end_time": 1437.9,
+            "text": "¿Cómo salimos de ahí?  Ahí es muy interesante los casos comparados que vos presentás.  Una de las cosas que vos señalás correctamente, eso se estudia en microeconomía, vos conforme va aumentando tu ingreso, lo que dedicas a alimentos es cada vez menos, porque tus necesidades, una vez que las cubriste, conforme tu ingreso aumenta, aumenta menos que proporcionalmente tu gasto en alimentos.  Eso lo estás viendo en el caso de lo que cuentan en Estados Unidos.  Lo interesante de Paraguay, ¿por qué te resulta similar o asimilable?  Y porque hoy nuestro PBI per cápita, medido a dólar paralelo, estamos un poquito abajo, para que tengas una idea.  Y hay otra cosa muy interesante, fíjate esto, cuando hablabas de lo que es, por ejemplo, alquilar, En Estados Unidos, un país donde el stock de capital es grande, el capital es abundante, por ende, tasas de interés bajas, fácil comprar una casa a cincuenta años, setenta años, cien años.  Paraguay, ¿qué te dice?  No, no podemos comprar una casa, alquilar es tremendo, ¿por qué?  Porque tiene mucho menos capital.  ¿Y cuál es la contracara para tener capital, que es en el fondo lo que aumenta la productividad, aumenta los salarios reales y mejora la calidad de vida de las personas?  que es en el fondo la base subyacente del crecimiento, la inversión.  Y la inversión se logra ahorrando.  En tanto y en cuanto creamos que esto se resuelve gastando más, redistribuyendo el ingreso y todas esas cosas que hacemos acá, vamos a ser cada vez más pobres. ",
+            "cosine_dist": 0.33800243078757486,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1438.18,
+            "end_time": 1463.715,
+            "text": "Quiero invitarte a que veas esto, esto es muy para Javier Milei, porque creíamos que nunca lo íbamos a ver en Argentina, Javier, y vos lo venís planteando y lo planteaste recién hace instantes, el hecho de recortemos por el lado de la política, basta de cargar sobre la población impuestos, impuestos, y hacer con la inflación también algo imposible de vivir.  Pero por lo pronto, ¿en Argentina hay otra realidad, una realidad paralela?  ¿Es cierto que en Córdoba se están bajando impuestos los políticos? ",
+            "cosine_dist": 0.9558272301109276,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1464.401,
+            "end_time": 1469.803,
+            "text": "Se bajaron el sueldo los concejales, los funcionarios de la Municipalidad de Córdoba. ",
+            "cosine_dist": 0.7786246104898709,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1473.205,
+            "end_time": 1480.568,
+            "text": "Y seguimos en primera tarde con Javier Milei.  Y la gran pregunta es, ¿cuál va a ser tu primer proyecto si accedes finalmente a la banca de diputados? ",
+            "cosine_dist": 1.0164702778865227,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1480.768,
+            "end_time": 1523.221,
+            "text": "Bueno, el primer proyecto que voy a hacer es poder renunciar a la dieta.  Es decir, hoy no están dadas las condiciones técnicas por las cuales vos podés renunciar a tu dieta, y yo quiero renunciar a la dieta, porque originalmente el Congreso de la Nación... Quiero renunciar a la dieta, porque originalmente el Congreso de la Nación, digamos, se llama Honorable Congreso de la Nación Argentina porque iban a Donoren.  Por ejemplo, Alberti, que fue diputado por Tucumán, iba a Donoren.  O sea, y esto no es trivial, porque recién veíamos el caso de Córdoba, digamos, lo que hicieron.  ¿Vos sabés que si el año pasado... la política hubiera ajustado diez por ciento de sus ingresos, no hubiera habido que sacarle ciento cincuenta mil millones de pesos a los jubilados. ",
+            "cosine_dist": 0.28495475773970946,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1524.042,
+            "end_time": 1555.187,
+            "text": "Esto es importante.  Un mínimo gesto, un diez por ciento del sueldo de los políticos y los jubilados hoy tendrían una jubilación más digna.  Muchas gracias.  Mañana volvemos para más Primera Tarde.  Basta de basura keynesiana, ha llegado el momento liberal.  Tenemos un líder y él es un gran rebelde. ",
+            "cosine_dist": 0.938686478215202,
+            "is_target_speaker": false
+        }
+    ]
+}

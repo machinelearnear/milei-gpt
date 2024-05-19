@@ -1,0 +1,847 @@
+{
+    "Index": 418,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "kzlZSxWMEAE",
+    "url": "https://www.youtube.com/watch?v=kzlZSxWMEAE",
+    "title": "Javier Milei en Crónica TV 24/4/2021",
+    "duration": 1261.0,
+    "view_count": 15675,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1.66,
+            "end_time": 22.13,
+            "text": "Bueno, está Javier Milei, economista, lanzado a la política también, acá en los estudios de Crónica, un sábado, trece y cincuenta y cinco, casi diecinueve grados, con su look, con su peinado, con su traje a rayas.  Primero te quiero preguntar, ¿vos tenés un marketing que está establecido en lo que uno observa de vos o vos sos así? ",
+            "cosine_dist": 0.7862869862556061,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 22.63,
+            "end_time": 42.767,
+            "text": "No, a mí me gustan los trajes rayados.  Es más, o sea, cuando encuentro algún modelo de raya me lo hago en tres telas distintas.  Es en el azul oscuro, en el gris oscuro y en negro.  O sea, lo cual eso no está bueno en televisión porque lucen todos muy parecidos.  O sea, vos sí podés ver la diferencia, en la cámara no se ve, pero bueno. ",
+            "cosine_dist": 0.45942094785810506,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 42.787,
+            "end_time": 52.052,
+            "text": "No, no se ve, yo creo que se observa en la cámara.  Me dirán en el control, pero yo lo veo acá en el monitor, por lo pronto se ve perfectamente.  Pero digo, como es un look que veo que se replica, digo, por ahí está planteado... ",
+            "cosine_dist": 0.752623477331376,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 52.072,
+            "end_time": 54.353,
+            "text": "No, es que yo, digamos, o sea, me gustan los trajes rayados. ",
+            "cosine_dist": 0.706384964758574,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 54.893,
+            "end_time": 56.294,
+            "text": "Trajes rayados y corbata rayas. ",
+            "cosine_dist": 0.7106032977044383,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 56.774,
+            "end_time": 59.916,
+            "text": "A veces, la corbata, eso depende cuál me quedó más cerca. ",
+            "cosine_dist": 0.5634532726393784,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 59.936,
+            "end_time": 62.677,
+            "text": "¿Estás un poco rayado o no? ",
+            "cosine_dist": 0.8000555168171382,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 62.717,
+            "end_time": 74.418,
+            "text": "Bueno, a ver... En un mundo de desquiciados y locos, el cuerdo parece loco.  Digamos, es una cuestión de visión, nada más.  Es un problema de relativos. ",
+            "cosine_dist": 0.4148256432990254,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 74.939,
+            "end_time": 83.085,
+            "text": "Bien.  A ver, primero, con vos quiero hablar de política, más que de economía.  Ya, vos sos un hombre de la política.  Después, si querés, por supuesto, podemos hablar.  No, no, no.  Están meculadas. ",
+            "cosine_dist": 0.7852591819177694,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 83.165,
+            "end_time": 86.348,
+            "text": "No, no, yo vengo a hablar de lo que vos creés.  No, no, no.  Vos sos el dueño del programa. ",
+            "cosine_dist": 0.7969892781824981,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 86.388,
+            "end_time": 121.112,
+            "text": "No, pero, digo, me interesa ya, hoy sos un actor político.  Me gustaría empezar a ver tus interpretaciones acerca de la coyuntura que estamos viviendo.  Primero, a partir de la situación sanitaria que está viviendo el país, están tomando decisiones todos los días.  Una de ellas tiene que ver con esto que decía como primer título, el paso de la fecha respecto de las PASO y respecto de las legislativas definitivas.  Las pasaron un mes respectivamente cada una de ellas.  ¿Te parece que es correcto?  Si bien hubo un consenso para llevarlo adelante, ¿te parece que es correcto que se haya hecho esto en este contexto? ",
+            "cosine_dist": 0.8065695688236723,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 121.692,
+            "end_time": 156.376,
+            "text": "Yo creo que es una decisión... que eufemísticamente se pone detrás de la cuestión sanitaria, pero es de cuestión política.  En el oficialismo, porque cree que haciendo política fiscal keynesiana, o sea, aumentar el gasto público financiado con emisión monetaria y recrudecer los controles, que eso le va a permitir que la actividad mejore y eso le va a permitir tener una mejor performance electoral, sumado al hecho de que cada vez que en aquellos donde son vacunados, La imagen sobre el presidente mejora. ",
+            "cosine_dist": 0.2764127883090929,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 156.676,
+            "end_time": 162.359,
+            "text": "O sea, para vos es estrictamente una especulación política esto de pasar la elección.  No tiene nada que ver con los sanitarios. ",
+            "cosine_dist": 0.7388466030783103,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 163.62,
+            "end_time": 178.715,
+            "text": "Es un eufemismo.  Es decir, vos te crees que te van a admitir públicamente su miserabilidad.  Y la miserabilidad también está del otro lado.  La cual se le escapó de la boca a la señora Elisa Carrió.  Todos los que sabemos... ",
+            "cosine_dist": 0.35681888688790586,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 178.835,
+            "end_time": 183.317,
+            "text": "Cuando dijo que no ser tan estrictos, ¿no?  Como aflojar un poco la posición. ",
+            "cosine_dist": 0.9038419586754364,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 183.657,
+            "end_time": 198.471,
+            "text": "No, fue, digamos, en alguno de sus segmentos, vos podés leer, digamos, por qué ella fue la primera que pidió.  Porque cuando vos mirás... ¿Qué es lo que impulsó el triunfo del kirchnerismo?  Los jóvenes.  ¿Sí?  En esta vuelta. ",
+            "cosine_dist": 0.3685300099938048,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 198551,
+            "end_time": 198891,
+            "text": "Sí, claro. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 199.531,
+            "end_time": 202.613,
+            "text": "¿Y dónde se concentra el voto de Juntos por el Cambio? ",
+            "cosine_dist": 0.42299989408617067,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 203033,
+            "end_time": 203614,
+            "text": "La gente adulta. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 203.974,
+            "end_time": 218.261,
+            "text": "Exactamente.  Y justamente el problema es que en las PASO, en la fecha que estaba, digamos, haciendo frío, complica a los votantes, digamos, y con el virus, le diezma la cantidad de personas que van a las elecciones. ",
+            "cosine_dist": 0.36542598336232635,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 218.281,
+            "end_time": 220.923,
+            "text": "Todo es así, todo es tan miserable, esa lectura tan finita. ",
+            "cosine_dist": 0.8461770978651123,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 220.943,
+            "end_time": 222.584,
+            "text": "Sí, todo es absolutamente miserable. ",
+            "cosine_dist": 0.6345209525621479,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 223.922,
+            "end_time": 234.791,
+            "text": "¿Pero realmente crees que es así?  Que nadie piensa en que ayer tuvimos récord de muertes, por?  ejemplo, que por ahí si no se toman ciertas medidas podemos llegar a tener números aún peores. ",
+            "cosine_dist": 0.7764308285912853,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 234.811,
+            "end_time": 236.393,
+            "text": "No, no les importa. ",
+            "cosine_dist": 0.6604773291666631,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 236.473,
+            "end_time": 239.836,
+            "text": "¿Es todo, digamos, mover fichas para ver si llego bien a las elecciones? ",
+            "cosine_dist": 0.8334574322468985,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 239.856,
+            "end_time": 247.502,
+            "text": "A los políticos lo único que les importa es la rosca política.  Lo que más les importa a un político es la próxima elección. ",
+            "cosine_dist": 0.4158405874429868,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 247.562,
+            "end_time": 249.684,
+            "text": "¿Vos tenés un discurso antipolítica?  ¿Vos sos antipolítica? ",
+            "cosine_dist": 0.807364519668734,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 249.704,
+            "end_time": 251.346,
+            "text": "Yo soy antisistema. ",
+            "cosine_dist": 0.716805327278401,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 252.5,
+            "end_time": 255.122,
+            "text": "Sí, pero, a ver, ¿querés participar en las legislativas? ",
+            "cosine_dist": 0.8564624441956213,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 255.262,
+            "end_time": 256.923,
+            "text": "Para romper el status quo, claro. ",
+            "cosine_dist": 0.726365198021629,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 257.644,
+            "end_time": 263.027,
+            "text": "Pero eso es parte del sistema.  O sea, para romperlo vos tenés que entrar al sistema.  Desde el sistema lo romperías. ",
+            "cosine_dist": 0.6615222333281477,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 263.588,
+            "end_time": 360.698,
+            "text": "Pero, a ver, vos tenés tres formas de encarar este problema.  Uno es la batalla cultural.  Y disparar, digamos, como un... ¿Te acordás SWAT?  Que había uno que se subía a la azotea y tiraba desde ahí.  Franco Tirador.  Franco Tirador, bueno.  La verdad que mucho, mucho en una democracia fallida como el caso argentino no funciona.  No funciona.  La verdad que queda diezmado.  Hay avances sobre algunas cuestiones que no permiten que uno se exprese todo lo que le gustaría expresar.  Hay cientos de cuestiones que hacen que la batalla cultural en Argentina esté muy complicada.  Punto uno.  Y además también hay que, viste, o sea, vos podés tener la mejor hinchada del mundo, pero el que hace los goles es Messi, es Ronaldo, no es el tipo que está desde la tribuna gritando.  Primer punto.  Segundo punto.  La otra alternativa frente al caso que estamos con un sistema fallido es la vía revolucionaria.  Yo no adhiero a la vía revolucionaria, primero porque dentro de la lógica del liberalismo el primer punto sobre el que se construye es lo que se llama el principio de no agresión.  Es pacífico.  No es una opción.  Claro, porque siempre la violencia es defensiva en el liberalismo.  Y lo otro, entonces, no adhiero a eso.  y además el monopolio de la violencia la tiene el Estado, con lo cual no creo que sea muy rentable esa alternativa.  Entonces, desde mi punto de vista, puedo estar equivocado.  Es entrar al sistema y tratar de romper el sistema desde adentro. ",
+            "cosine_dist": 0.2976465352721417,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 360.858,
+            "end_time": 402.512,
+            "text": "Te hago una consulta.  ¿Se viene la fase uno?  ¿Vos creés que con esta lógica que vos planteás de que cada ficha que uno mueve o que la política mueve es para tener algún fin a favor?  Que por ahora, si lo mirás de esa manera, el presidente no deja de caer escalones en lo que tiene que ver con su imagen positiva.  O sea, no sus decisiones no serían directamente proporcional con tener más adhesión política.  Por ahora, por lo pronto, viene a contramano de eso.  ¿Hay plafón político para que el presidente, con los datos que sí le dan, porque los datos hay que decir, hay semáforos internacionales que te dicen que si hay más de doscientos contagios en localidades de cada cien mil habitantes, hay que cerrar y demás.  ¿Estamos en posibilidad y estamos frente a una fase?  uno de.  nuevo? ",
+            "cosine_dist": 0.7690613101926158,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 403.412,
+            "end_time": 444.586,
+            "text": "Yo creo que hay varios problemas.  Hay un problema que tiene que ver con la cantidad de errores cometidos el año pasado.  Es decir, vos el año pasado te encontrás que el gobierno priorizó la salud sobre la economía.  La economía argentina fue la que más cayó del G-X.  Argentina cayó del triple que el resto del mundo.  Argentina de estar setenta en el ranking de PIB per cápita cayó al ciento veinte.  O sea, es un escándalo, pero digamos, como nunca visto.  Argentina la tasa de desempleo tocó el veintinueve por ciento en el pico.  Tenemos cuarenta y dos por ciento de pobres y diez coma cinco por ciento de indigentes, o sea, y números creciendo. ",
+            "cosine_dist": 0.3237080119243665,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 444.606,
+            "end_time": 449.269,
+            "text": "¿Por qué decís veintinueve por ciento de desocupación?  Porque... Cortito, resumímelo para no aburrir a la gente, pero ¿por qué? ",
+            "cosine_dist": 0.7610876850025922,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 449.329,
+            "end_time": 455.113,
+            "text": "No, porque ¿cómo se mide la tasa de desempleo?  La tasa de desempleo es aquel que busca empleo pero no lo encuentra. ",
+            "cosine_dist": 0.49818505420417547,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 455433,
+            "end_time": 455794,
+            "text": "Sí, claro. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 456.534,
+            "end_time": 475.063,
+            "text": "Entonces, suponete un bar, suponete una esquina, una cuadra llena de bares, y vos ves que todos los bares se empiezan a quebrar y todos quedan desempleados.  El próximo bar que quiebra, ese hombre que se queda sin laburo, ¿qué dice?  ¿Sale a buscar?  No, porque sabe que no va a encontrar.  Eso se llama efecto de saliendo. ",
+            "cosine_dist": 0.342706286329602,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 475.544,
+            "end_time": 481.365,
+            "text": "Vos contás a los que no buscan laburo, supuestamente, pero porque no tienen, según tu interpretación, no tienen dónde encontrar laburo. ",
+            "cosine_dist": 0.8419156356680352,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 481.525,
+            "end_time": 504.615,
+            "text": "Claro, porque no es que la población económicamente activa se te cayó y que ahora la gente no quiere laburar.  No, no sale a buscar porque sabe que no va a encontrar.  O sea, y esto es muy importante aclararlo, porque el INDEC hace bien su trabajo.  O sea, y digamos que a mí me consta la honestidad intelectual y profesional de Marco Labania.  ¿Ok?  Pero digo, este es un problema que el INDEC no lo puede medir. ",
+            "cosine_dist": 0.35501144927089734,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 504.775,
+            "end_time": 505.416,
+            "text": "La metodología. ",
+            "cosine_dist": 1.0244189968865625,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 505.936,
+            "end_time": 590.337,
+            "text": "Claro.  Yo le quiero preguntar.  O sea, entonces, vamos por partes.  Entonces, eso tiene efectos colaterales sobre el... Hacia adelante.  Las empresas el año pasado se quemaron el capital de trabajo y quemaron parte del capital financiero sosteniendo a los empleados.  Cuando la economía empieza a recuperar, empiezan a reoxigenarse, si vos los volvés a cerrar, la quiebra... El año pasado perdiste cien mil empresas.  Bueno, digamos, o sea... Esto puede explotar mucho peor porque ni siquiera tienen ese VAC que tenían el año pasado.  No tienen working capital y no tienen capital financiero porque se lo quemaron.  Y además tenés la saturación sobre la gente.  ¿Y esto por qué es grave?  Porque ¿cómo se combate una pandemia?  Una pandemia tiene dos carriles.  Una que es el de las personas, ¿sí?  La responsabilidad individual.  ¿Qué tiene que ver con...?  Uso de barbijo, distancia social, la higiene, los protocolos.  Y después hay otra parte que si vos tenés estado de bienestar que se ocupa de la salud, es vacunación y testeos masivos.  Argentina el año pasado no testeaba masivamente.  Y ahora no solo que no testean masivamente, sino que tampoco vacunan masivamente.  Entonces, como vos no haces eso, la contracara que es, tenés que cerrar más.  ¿Y por qué no testean ni vacunan?  ¿Sabés por?  qué?  Porque no quieren dejar de robar. ",
+            "cosine_dist": 0.35571029147575506,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 591.278,
+            "end_time": 613.299,
+            "text": "¿Qué te pasa cuando, por ejemplo, ayer la titular del PAMI... Subió fotos de una heladera llena de vacunas y denuncia que gran parte del padrón que estaba convocado estaba muerto, no estaba convocado, ya estaba vacunado.  Cuando hay estas anomalías en el proceso vacunatorio, en distintas jurisdicciones, en el caso que te estoy contando es en la ciudad de Buenos Aires. ",
+            "cosine_dist": 0.778687772791139,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 613.359,
+            "end_time": 624.803,
+            "text": "No me sorprende nada porque todo lo que haga el Estado lo hace mal.  Por definición.  Todo lo que hace el Estado, por definición, lo hace mal.  No lo puede hacer bien.  Pero es muy... ",
+            "cosine_dist": 0.3851588972981197,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 625.504,
+            "end_time": 629.751,
+            "text": "A ver, tu mensaje es muy duro para la gente. ",
+            "cosine_dist": 0.784625075601132,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 629.971,
+            "end_time": 642.293,
+            "text": "Augusto, vamos a ponerle honestos términos.  De vuelta, yo te lo puedo fundamentar.  Hay un libro, está escrito de divulgación, que se llama Libre para elegir, de Milton Friedman y... ",
+            "cosine_dist": 0.44698254860062714,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 643.574,
+            "end_time": 650.015,
+            "text": "¿Sabes por qué te digo esto?  Porque es de una banca.  Vamos a suponer que vos entrás.  De una banca no vas a poder modificar lo que estás diciendo. ",
+            "cosine_dist": 0.7829366704107569,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 651.516,
+            "end_time": 680.766,
+            "text": "Bueno, pero sí podés hacer otras cosas.  Pero, a ver, vamos por esto.  Podés alertar sobre esto desde otro lugar.  A ver... Vos tenés cuatro formas de gastar.  Vos podés gastar la tuya o la de otros, la podés gastar en vos o en otros.  ¿Cuál es la mejor forma de gastar?  La tuya en vos mismo.  ¿Por qué?  Porque vos sabés lo que te costó ganarla y vos sabés lo que querés.  Ahora, vos, por ejemplo, podés gastar la tuya en otros.  ¿Qué haces?  Minimizás el costo.  Es cuando haces un regalo, tratás de quedar bien con lo menos posible. ",
+            "cosine_dist": 0.33791077765982336,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 681.286,
+            "end_time": 682.667,
+            "text": "No es mi caso. ",
+            "cosine_dist": 0.8223512604325737,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 683.158,
+            "end_time": 685.622,
+            "text": "No es mi caso. ",
+            "cosine_dist": 0.8387418066232586,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 685.822,
+            "end_time": 691.81,
+            "text": "Yo un regalo la pongo.  Dentro de mis posibilidades, pero la pongo. ",
+            "cosine_dist": 0.6697770963048666,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 691.85,
+            "end_time": 725.68,
+            "text": "Bueno, pero sos la excepción dentro de la regla.  O sea, esto es una cuestión de valores estadísticos.  Cuando una persona gasta la de otros en uno, digamos, en general, lo que uno ve es el despilfarro.  ¿Cuál es la peor forma de gastar entonces?  Gastar la de otros en otros.  Y eso es lo que hace el Estado.  Por definición lo hace mal.  O sea, y siempre sale mal.  Y cualquier asignación que vos priorizas la solución.  colectivista funciona siempre mucho peor que la solución desde los agentes individuales.  Porque, digamos, qué mejor que cada uno sea a cargo... ",
+            "cosine_dist": 0.3652345989528806,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 725.821,
+            "end_time": 741.206,
+            "text": "Dejame hacer una más y ya quiero que... Me están todos levantando la mano, quiero que todos puedan preguntar.  Yo te quiero hacer una pregunta porque en la construcción política, si no haces alianzas, te guste o no te guste, no llegas a ningún lado.  Entonces yo te quiero preguntar, ¿con los radicales vos harías alianza política? ",
+            "cosine_dist": 0.7788397518270856,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 741366,
+            "end_time": 741686,
+            "text": "Jamás. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 742027,
+            "end_time": 742307,
+            "text": "Jamás. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 742.647,
+            "end_time": 743.807,
+            "text": "La internacional socialista. ",
+            "cosine_dist": 0.6366163927217279,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 744.467,
+            "end_time": 745.288,
+            "text": "¿Con los kirchneristas?  Jamás. ",
+            "cosine_dist": 0.9242188227841406,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 745988,
+            "end_time": 746348,
+            "text": "¿Cuáles? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 747.389,
+            "end_time": 747.989,
+            "text": "Los kirchneristas. ",
+            "cosine_dist": 0.938751920281996,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 748.149,
+            "end_time": 751.21,
+            "text": "No, hay dos grupos.  Hay uno que son los radicalizados y los otros. ",
+            "cosine_dist": 0.5547022020533403,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 751.23,
+            "end_time": 753.872,
+            "text": "A ver, ¿quiénes serían los radicalizados? ",
+            "cosine_dist": 0.874949953964909,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 754492,
+            "end_time": 754952,
+            "text": "Los más... ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 756.233,
+            "end_time": 758.214,
+            "text": "La cámpora pura, querés nombrarlo de esa manera. ",
+            "cosine_dist": 0.8400101617836311,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 758.234,
+            "end_time": 759.854,
+            "text": "Los más radicalizados, esos no. ",
+            "cosine_dist": 0.5383393722390627,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 760.094,
+            "end_time": 764.657,
+            "text": "Esos no, o sea, un sector de kirchnerismo sí.  Claro.  Ok, ¿con el macrismo? ",
+            "cosine_dist": 0.7597869933034368,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 766.357,
+            "end_time": 767.438,
+            "text": "Depende de quién es. ",
+            "cosine_dist": 0.9487808346870716,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 767.898,
+            "end_time": 769.839,
+            "text": "¿El macrismo más peronista?  Sí. ",
+            "cosine_dist": 0.8686378096516896,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 770859,
+            "end_time": 771259,
+            "text": "Con ese sí. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 771.899,
+            "end_time": 774.3,
+            "text": "¿Un Pichetto, un Monzó? ",
+            "cosine_dist": 0.8757847764553949,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 774.4,
+            "end_time": 788.166,
+            "text": "Yo no me pondría nombres, pero digamos, o sea, yo estoy dispuesto a dialogar con el ala razonable de Juntos por el Cambio y el ala más que razonable del peronismo. ",
+            "cosine_dist": 0.34233904513739344,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 788.686,
+            "end_time": 790.667,
+            "text": "Ok, que ahí entraría parte del kirchnerismo. ",
+            "cosine_dist": 0.8040721782461431,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 791.898,
+            "end_time": 795.759,
+            "text": "Sí, están bordes, pero... No, porque aparte hay algunos cuadros... ",
+            "cosine_dist": 0.48121385211796297,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 795.779,
+            "end_time": 796.419,
+            "text": "No, pero esto es una novedad. ",
+            "cosine_dist": 0.9760412237600877,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 796.599,
+            "end_time": 816.763,
+            "text": "No, bueno, pero hay algunos cuadros que fueron del kiserismo que son personas verdaderamente muy valiosas.  Ejemplo, Rafael Bielsa, con quien además soy amigo.  ¿Por qué me importa que además pienso distinto?  Si es un tipo que intelectualmente es brillante.  ¿Me comprendés? ",
+            "cosine_dist": 0.3543680371044817,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 817.043,
+            "end_time": 824.265,
+            "text": "Es decir, mis líneas de diálogo Están abiertas, más allá de tus diferencias. ",
+            "cosine_dist": 0.6204191156614417,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 824.605,
+            "end_time": 841.122,
+            "text": "Sí, pero en el respeto intelectual de personas que verdaderamente vale la pena y que tienen buenas intenciones.  Y después hay límites ideológicos que no puedo romper porque ya la diferencia es tan grande que no tengo chances de acordar. ",
+            "cosine_dist": 0.4259814956966286,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 841.602,
+            "end_time": 842.983,
+            "text": "Perfecto.  Cortito, chicos.  A ver. ",
+            "cosine_dist": 0.8926327652414592,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 843.263,
+            "end_time": 848.527,
+            "text": "Le quiero preguntar a mi ley.  Hemos visto qué pasa con los estados en descomposición o fallidos. ",
+            "cosine_dist": 0.846269914899663,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 848.647,
+            "end_time": 852.509,
+            "text": "¿Puede ser un poquito más alto?  Más alto porque me cuesta escucharlo.  A ver.  Perdón. ",
+            "cosine_dist": 0.733395900191715,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 853.57,
+            "end_time": 882.572,
+            "text": "Dale.  Le quería preguntar a mi ley respecto a los estados en descomposición o estados fallidos o aquellos estados que se... básicamente se achican, realmente no han dado buenos resultados y de hecho las empresas y las corporaciones están creciendo y también crece la desigualdad a escala mundial.  El último año en pandemia hubo cada vez nuevos pobres y ricos cada vez más ricos.  ¿Qué opinión le merece esto? ",
+            "cosine_dist": 0.7692817732530306,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 884.472,
+            "end_time": 943.628,
+            "text": "A ver, desde mi punto de vista, me parece que primero es... ¿Cuál es el indicador con el que se mide eso?  Porque puede ser que el indicador carezca de sentido.  Ejemplo, se suele utilizar mucho un indicador que se llama raulciano, que es tomar el desil más alto contra el desil más bajo, cosas así.  Bueno, digo, o sea, lo primero que hay que saber es que ese indicador funciona mal.  Porque si vos tuvieras una redistribución igualadora, no sé, desde los que están segundo en el ranking de los mejores al que está segundo en el ranking de los peores, el indicador no lo toma.  Con lo cual, digamos, el problema es el indicador.  De hecho, una de las críticas más feroces que le hice al mentiroso de Piketty es que calculó un rauciano Rengo.  porque solamente tomó lo que se llaman los de arriba y no lo puso en relativo a los de abajo.  Y cuando vos tomás los últimos doscientos años, los que más mejoraron son los de abajo.  Pero como no le daba, ¿me comprendés? ",
+            "cosine_dist": 0.3965754124513534,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 943.648,
+            "end_time": 944.509,
+            "text": "Claro.  O sea... ",
+            "cosine_dist": 0.9838648280237315,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 945.93,
+            "end_time": 947.531,
+            "text": "Cambió la escala, corrió la escala. ",
+            "cosine_dist": 0.8250466324545553,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 947.551,
+            "end_time": 1005.792,
+            "text": "Sí, no, te hizo data mining, o sea, te truchó los datos.  No es que los mintió, sino que los acomodó para sostener el argumento si no se le cae.  Entonces, lo primero que dio es... Ahora, el punto es... La pregunta es si la desigualdad es buena o mala.  No digo porque el eje central está ahí.  Ahora, la pregunta es si yo, digamos, o sea, estoy en un sistema... libre, y yo hice mi fortuna sirviendo al prójimo con bienes de mejor calidad a un mejor precio.  Donde no solo que le di a la sociedad ese mejor bien, de mejor calidad y a un precio más barato, sino que además di un montón de fuentes de trabajo y todo.  O sea, lejos de ser cuestionable ese hombre que se hizo millonario, debería ser un héroe, debería ser considerado un benefactor social.  Es un héroe, ¿sí?  ¿Por qué?  Porque dio un montón de trabajo, porque ayudó a un montón de gente, porque proveyó un montón de bienes de mejor calidad a un mejor precio.  Ahora, eso es cierto, sí, sólo sí, el sistema está limpio. ",
+            "cosine_dist": 0.35891773449455533,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1006.132,
+            "end_time": 1007.513,
+            "text": "Que no es el caso de Argentina. ",
+            "cosine_dist": 1.099729917982714,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1007.613,
+            "end_time": 1008.833,
+            "text": "No, no, del mundo tampoco, ¿no? ",
+            "cosine_dist": 0.900929571574733,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1009.334,
+            "end_time": 1096.201,
+            "text": "Porque la probabilidad de ser multimillonario es en China y en los Estados Unidos.  No, pero vamos por partes.  Entonces, ahora... Si aquellos que llegaron a amasar esa fortuna no lo lograron por las vías de mercado, ¿cómo lo lograron?  Ah, entonces ahí nos encontramos no con empresarios, sino con empresarios.  Es decir, tipos que se apalancaron en el aparato represivo del Estado para joderle la vida a otro.  Entonces, ese no es un empresario, ese es un empresario y en realidad... Los empresarios existen básicamente porque hay un Estado, porque ningún empresario, ninguna persona puede comprar favores que ningún político ladrón tiene para vender.  Es decir, que cuando vos vas a las cosas que funcionan mal en el sistema, no es el sistema de libre empresa.  Es decir, aparece la porquería llamada Estado, que logra hacer todas estas cosas por tener el monopolio de la violencia.  Entonces, lo primero, y esto es muy importante, porque cuando vos ves un, y esto no es trivial, cuando vos ves un resultado que no te gusta, hay que hacer dos tipos de análisis.  Una es tratar de entenderlo, ¿sí?  O sea, lo primero es que hay que tratar de entenderlo.  Hay mucha gente que ni siquiera lo entiende.  El segundo punto es, ok, ahora sé que está mal, pero tengo que saber por qué está mal.  Y lo que vas a descubrir?  que cada vez que te aparecen esos resultados que no te gustan, ¿sabés quién está siempre atrás? ",
+            "cosine_dist": 0.40783000720893525,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1096541,
+            "end_time": 1097121,
+            "text": "El Estado. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1097.882,
+            "end_time": 1100.544,
+            "text": "Es decir, el problema es el Estado, el enemigo es el Estado. ",
+            "cosine_dist": 0.5479938263325316,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1100884,
+            "end_time": 1101404,
+            "text": "Es muy fuerte. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1101.945,
+            "end_time": 1102.705,
+            "text": "¿Por qué es muy fuerte? ",
+            "cosine_dist": 0.8514143402874439,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1102.765,
+            "end_time": 1105.647,
+            "text": "No, es muy fuerte, me parece muy fuerte plantear como enemigo al Estado. ",
+            "cosine_dist": 0.8926702781463116,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1106.188,
+            "end_time": 1107.329,
+            "text": "¿Cómo se financia el Estado? ",
+            "cosine_dist": 0.7555432167691505,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1107.989,
+            "end_time": 1109.71,
+            "text": "O con emisión o con deuda. ",
+            "cosine_dist": 1.0097531395948705,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1110.031,
+            "end_time": 1111.572,
+            "text": "¿Con emisión de qué? ",
+            "cosine_dist": 0.6992362406363501,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1112463,
+            "end_time": 1112884,
+            "text": "De moneda. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1113.965,
+            "end_time": 1118.971,
+            "text": "Impuesto inflacionario.  Un impuesto que le pega entre veinticinco y treinta veces más fuerte a los más pobres. ",
+            "cosine_dist": 0.4226203330137017,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1119.011,
+            "end_time": 1122.696,
+            "text": "Pero es como si financia de esa manera.  Y con recaudación. ",
+            "cosine_dist": 0.9735620960673752,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1123.056,
+            "end_time": 1188.887,
+            "text": "Augusto, vamos por partes, porque esto es importante.  Me parece súper valiosa esta discusión.  Entonces, si lo financio con emisión monetaria que genera... Y recaudación, ¿no?  Le pega entre veinticinco y treinta veces más fuerte a los más pobres.  Con lo cual, es un impuesto inmundo.  Vamos con la deuda.  La deuda que son impuestos futuros.  Es decir, son impuestos que vos les vas a estar cobrando a tus hijos, a tus nietos, gente que no nació todavía, gente que ni siquiera vota.  O sea, es Es profundamente aberrante ese impuesto, porque la deuda es una inmoralidad, porque golpea sobre pibes que ni siquiera votaron o gente que todavía no nació.  Imaginate lo inmoral que es.  Y lo otro es el impuesto.  Digo, a ver, ¿por qué te crees que se llaman impuestos?  Porque pagás o te rompen la cabeza de un garrotazo.  Es decir, es una rémora de la esclavitud el concepto de impuesto.  O sea, y me causa mucha gracia cuando te llaman contribuyente.  Llamar al pagador de impuesto contribuyente como que el violador llame a la víctima novia. ",
+            "cosine_dist": 0.39472828617175904,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1188.907,
+            "end_time": 1197.596,
+            "text": "Tengo que ir cerrando, Javier, pero es muy interesante escuchar tus conceptos porque tenés definiciones... que yo no comparto en lo personal, pero que son muy fuertes. ",
+            "cosine_dist": 0.855437444119627,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1199.097,
+            "end_time": 1225.716,
+            "text": "Bueno, es que el sistema de educación pública, el sistema de educación organizado desde el sector público, todas estas voces donde ponen el eje en el individuo, en la libertad, fueron calladas y lavando cerebros para que justamente este mensaje no le llegue a la gente.  Porque este mensaje va en contra de la corporación política, que es la que se enriquece a costa de hambriar al pueblo. ",
+            "cosine_dist": 0.40586748196606337,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1226.236,
+            "end_time": 1227.718,
+            "text": "Bueno, gracias Javier por haber venido. ",
+            "cosine_dist": 0.9920267245191136,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1227.998,
+            "end_time": 1228.719,
+            "text": "Un placer, Augusto. ",
+            "cosine_dist": 0.6891565365699519,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1228.739,
+            "end_time": 1260.067,
+            "text": "Gracias, te agradezco mucho.  Bueno, nada, definiciones muy fuertes, pero me gusta siempre tener un rato a Javier porque es un punto de vista para también evaluar.  Basta de basura keynesiana, ha llegado el momento liberal.  Tenemos un líder y él es un gran rebelde. ",
+            "cosine_dist": 0.8812898097581092,
+            "is_target_speaker": false
+        }
+    ]
+}

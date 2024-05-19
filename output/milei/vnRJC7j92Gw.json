@@ -1,0 +1,543 @@
+{
+    "Index": 300,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "vnRJC7j92Gw",
+    "url": "https://www.youtube.com/watch?v=vnRJC7j92Gw",
+    "title": "\"MACRI ES UN LIBERAL CLÁSICO\" - Javier Milei en La Nación + 21/11/2021",
+    "duration": 1595.0,
+    "view_count": 44165,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 0",
+            "start_time": 0.14,
+            "end_time": 1.09,
+            "text": "A lo Larreta, decís. ",
+            "cosine_dist": 0.8373676320385243,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1.13,
+            "end_time": 14.937,
+            "text": "Con esa paloma socialdemócrata con fuerte vocación de intervenir, no.  El día que vos vas a hacer lo que tenés que hacer, ¿qué pasa?  Si las encuestas le dan que pierde un puntito de imagen positiva, le agarra un ataque de nervios y te echa.  Macri tiene una vocación liberal, es más, tirando un liberal clásico. ",
+            "cosine_dist": 0.3517318955460409,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 14.977,
+            "end_time": 30.143,
+            "text": "Bueno, ya está José del Río, lo estás viendo para empezar su programa, enseguida lo saludamos.  Está con Javier Milei, al que me dieron para... eventualmente ser candidato a presidente, pero primero creo que tendrá que cumplir algunos años como diputado, después lo hablarán ellos, no sé. ",
+            "cosine_dist": 0.7879913286813418,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 30.883,
+            "end_time": 76.058,
+            "text": "La agenda arranca cargada con esta ventaja que venía sacando José Antonio Kast, que es, como vos sabés, un hijo de un exoficial nazi, que es antiabortista, que es ultraliberal, que es como el emblema de la derecha más fuerte y que compite en este caso con el segundo puesto de... Gabriel Boric, protagonista de la revolución que se produjo en su momento en Chile, no en la libertaria sino la estudiantil.  ¿Te acordás que fue un reclamo que cambió?  Y está marcando ahí una luz de alarma porque lo vimos con Bolsonaro en Brasil, lo estamos viendo con Chile, donde siempre si uno preguntaba por Chile te decían un país previsible, un país estable, un país que no tiene extremos.  y de golpe están lidiando dos extremos.  Ese es uno de los temas de la semana. ",
+            "cosine_dist": 0.7912656647159924,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 77.374,
+            "end_time": 116.827,
+            "text": "A ver, yo no conozco tanto la realidad de Chile como para plantear la idea de que Katz es antisistema o no.  Algunos dicen que sí es antisistema.  Hay una diferencia muy interesante, seguramente vos la charlarás con Javier Milei, entre... La derecha que está dentro del sistema, y cuando digo dentro del sistema no digo la casta, porque a mi entender no es contra Javier Milei, es como fácil la cosa, casta, casta, no, no.  La derecha que está fuera del sistema y es antidemocrática y va contra las instituciones y no le importa nada, eso es una preocupación.  Lo que vamos a estar muy atentos es a ver y escuchar lo que dice Javier Milei en este contexto.  Hay una encuesta, ¿no? ",
+            "cosine_dist": 0.775526798809279,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 117.307,
+            "end_time": 120.49,
+            "text": "Hay una encuesta, vamos a arrancar con él, Luis, como siempre un placer verte. ",
+            "cosine_dist": 0.9459449454225514,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 121.13,
+            "end_time": 122.952,
+            "text": "Un abrazo grande y los sigo mirando y escuchando. ",
+            "cosine_dist": 0.8752480395183124,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 123.272,
+            "end_time": 125.414,
+            "text": "Javier Milei, bienvenido.  ¿Cómo estás?  ¿Qué tal, José? ",
+            "cosine_dist": 0.810498003723744,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 125.434,
+            "end_time": 126.154,
+            "text": "Un gusto estar aquí. ",
+            "cosine_dist": 0.8139543255844199,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 126.414,
+            "end_time": 136.602,
+            "text": "Bueno, presidenciable.  De golpe te miden para presidenciable cuando para muchos eras el científico loco.  hace un par de meses que hablaba de política.  ¿Es una de tus aspiraciones? ",
+            "cosine_dist": 0.8101316789265122,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 137.223,
+            "end_time": 148.903,
+            "text": "Mira, vamos a ponerlo al revés.  Vos me conocés desde hace un tiempo.  La pregunta es... Parado en el dos mil diecinueve, ¿vos te imaginabas este reportaje así? ",
+            "cosine_dist": 0.4035116839496452,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 149464,
+            "end_time": 149644,
+            "text": "No. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 150.385,
+            "end_time": 162.047,
+            "text": "Ok.  Pensar en el dos mil veintitrés, con las características que hoy presenta la economía argentina, me parece... muy arriesgado, un ejercicio muy osado, por decirlo de alguna manera. ",
+            "cosine_dist": 0.35162655175201285,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 162.067,
+            "end_time": 166.348,
+            "text": "Pero te voy a mostrar los datos, ya que los tenemos, viste que acá hay una producción que trabaja y mucho... ",
+            "cosine_dist": 0.794470577284981,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 166.708,
+            "end_time": 170.109,
+            "text": "No, está bien, yo no voy a renegar de eso, lo que digo es... ",
+            "cosine_dist": 0.5501982412601534,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 170.329,
+            "end_time": 171.329,
+            "text": "Sí, sí, pará la pelota. ",
+            "cosine_dist": 0.8819691976487631,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 172.129,
+            "end_time": 182.122,
+            "text": "A ver, parado soy, mirar el dos mil veintitrés me parece muy arriesgado, muy... no sé... No muy serio de mi parte. ",
+            "cosine_dist": 0.3825177015743455,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 182.262,
+            "end_time": 221.347,
+            "text": "Sí, sobre todo en un país que hay congelamiento de precios por un fin de semana.  Pero mirá la encuesta.  Dice, ¿cuán probable es que votes al espacio de liberales en general en las elecciones presidenciales de este año?  Esta es una encuesta de la consultora CB.  Dice, seguramente lo votaría un cinco coma nueve, no me interesa votarlo, sesenta y uno por ciento, y podría votarlo dieciséis coma dos.  Y hay un espacio más, una placa más con lo que sigue, que te dice, si tuviera que elegir entre estos precandidatos liberales para elecciones a presidente de veinte veintitrés a quien elegiría y en el primero en esta liga con trece coma siete aparece vos pero decís ojo muchachos esto es futurología ",
+            "cosine_dist": 0.8039124642821489,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 221.748,
+            "end_time": 344.657,
+            "text": "claro.  me parece que es muy prematuro en un país que muestra las características que tiene hoy Argentina.  Argentina, sinceramente, no sólo los desequilibrios que acarrea estructuralmente, que ha hecho de ser el país más rico del mundo a inicio del siglo XX, hoy sea ciento veinte, sino lo que tiene que ver con la coyuntura presente.  Si vos te fijás, El desequilibrio fiscal para este año está en zona de riesgo, ¿no?  Porque el PBI está en zona de riesgo, ¿no?  Porque el PBI está en zona de riesgo, ¿no?  Porque el PBI está en zona de riesgo, ¿no?  Porque el PBI está en zona de riesgo, ¿no?  Porque el PBI está en zona de riesgo, ¿no?  La tablita cambió en el ochenta y dos con once.  La hiperinflación de Alfonsín en el ochenta y nueve con ocho.  La convertibilidad voló por los aires con siete.  Es decir, once el año pasado fue un disparate.  Y si a este año le sumás ocho más, ya tenemos un problema enorme.  ¿Dónde está escondido eso?  Eso está escondido dentro del balance del Banco Central.  Entonces, vos hoy tenés un desequilibrio monetario de más de diez veces a uno, que tiene que ver con la potencialidad de expandir la oferta, ya sea por lo que tiene que ver con las LELICs y los pases que tenés, y por el déficit que tenés que financiar, que eso te podría hacer multiplicar la cantidad de dinero por tres coma cinco veces.  Y el sobrante dinero propio de vos tener restricciones en el mercado de cambios, porque vos tendrías menos pesos que los que hay, pero como no te dejan comprar dólares, entonces hay una masa de pesos no deseados, pero están ahí artificialmente, y eso también es entre tres y cuatro veces.  Entonces yo multiplico tres por tres coma cinco, me da diez coma cinco.  Quiere decir que yo tengo escondido debajo de la alfombra ...novecientos cincuenta por ciento de inflación... ...a eso le tenés que sumar... ...que la brecha cambiaría... ...vos tenés más de cien por ciento de brecha... si mirás contra el contado Coliqui, pero ¿cuál es el punto?  El punto es que vos tenés una montaña de regulaciones que hace que el Everest parezca enano. ",
+            "cosine_dist": 0.28872062376435925,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 345.377,
+            "end_time": 378.059,
+            "text": "Sí, ahí hay una habilidad que tiene el gobierno kirchnerista y lo había tenido en oportunidades anteriores, que cuando vos llevas esto a una pelea del Banco Central, para la mayoría de la gente le suena lejano, no me refiero a vos, Milei, sino a cómo se maneja.  En la época por ahí de Macri, en la última etapa, era más... Más claro el tema de las metas de inflación, que no se cumplieron.  Era más claro también el tema de los objetivos que tenía el banco.  Pero ahora, como es una pelea más técnica cuando estás dentro de las huestes del central, por ahí no es tan cercana.  ¿Cómo crees que esa crisis se palpa en el común de la gente? ",
+            "cosine_dist": 0.8119194641026036,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 378.079,
+            "end_time": 397.82,
+            "text": "A ver, hoy, si todo le sale bien al gobierno, el PIB per cápita va a estar por debajo del del dos mil once.  El salario real es el del dos mil cuatro.  Cuando vos tomás el PBI per cápita está en niveles del setenta y cuatro.  Cuando tomás el nivel de productividad está en los niveles del año cincuenta. ",
+            "cosine_dist": 0.36484581378129977,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 398.081,
+            "end_time": 402.584,
+            "text": "O sea, el conjunto de riqueza que genera el habitante promedio de la Argentina en un periodo de un año.  Está para atrás. ",
+            "cosine_dist": 0.6874236369138944,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 403.325,
+            "end_time": 434.451,
+            "text": "Entonces, y la contracara de esto es que tenés Cuarenta por ciento de pobres medido por línea de ingreso, pero si corregís por aquellos que no tienen acceso al agua potable, que no tienen acceso a la luz y el gas, ese número trepa el cincuenta y cinco por ciento.  Además tenés once por ciento indigentes, o sea, hay cinco millones de argentinos que no le alcanzan para comer.  Entonces, vos si te fijás, tenés una coyuntura mucho peor que la que tenías previo al rodrigazo.  pero estás arrancando con diez veces más de pobres. ",
+            "cosine_dist": 0.29425334567797334,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 435.031,
+            "end_time": 444.338,
+            "text": "Sí, una foto muy compleja.  Javier, quiero compartirte al presidente de la Nación, Alberto Fernández, que te usó, entre comillas, en un discurso de la siguiente manera. ",
+            "cosine_dist": 0.8146374943276553,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 444.358,
+            "end_time": 445.518,
+            "text": "Él gestó la encuesta. ",
+            "cosine_dist": 0.843238193896731,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 445.678,
+            "end_time": 468.688,
+            "text": "Él gestó la encuesta.  No sé, no lo sé, veamos.  Si mi ley no quiere hablar, que se quede encerrado con aquellos... compañeros que tienen, que reniegan de la diversidad y niegan el terrorismo de Estado.  Nada que hablar tenemos con ellos, que se queden allí.  Si Milley no quiere hablar, que se quede solo, dijo el presidente. ",
+            "cosine_dist": 0.7954195374348262,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 469.608,
+            "end_time": 596.643,
+            "text": "Muy desafortunada la frase del presidente, porque la realidad es que comete tres errores groseros.  El primero es... Cuando habla de que apoyo el terrorismo de Estado, para apoyar el terrorismo de Estado debería haber estado, tendremos que contarle al presidente, quizás no lo sepa, dudo que no lo sepa, que yo filosóficamente soy anarcocapitalista.  Es decir, yo veo al Estado como el máximo enemigo, como la peor cosa que existe en el planeta, es el Estado.  Por lo tanto, sin Estado no habría terrorismo de Estado.  Primer punto que habría que contarle al presidente, con lo cual es una contradicción.  El segundo punto que tampoco es menor cuando dice que Estoy en contra de la diversidad.  Eso también es un error enorme.  Dos de las instituciones más importantes del capitalismo tienen que ver con la división del trabajo y la cooperación social.  La división del trabajo parte de asumir el hecho de que afortunadamente todos somos distintos y eso hace que tengamos distintas... especializaciones, y eso permite aumentar la productividad vía el comercio.  Y es más, de hecho el comercio genera paz.  El propio Bastiat decía que donde hay comercio no entran las balas.  Entonces eso también está mal.  Y después, a ver, el que dijo primero que no se quería sentar con él era yo.  Porque yo le dije que yo no me siento ni con tiranos ni con inmorales.  Y cualquier presupuesto que tenga déficit fiscal es inmoral.  Porque lo tenés que financiar.  Si lo financiás con deuda, se lo cargas a las generaciones futuras.  O sea, a la fiesta tuya se la pasás a tu nieto.  Digo, nada, locura, ¿no?  Si lo financiás con emisión monetaria, terminás generando inflación, terminás castigando a los más vulnerables.  Y si lo financiás con nuevos impuestos, castigás al sector privado que produce y de vuelta, porque lo estás robando.  Por lo tanto... Yo no le voy a aprobar ningún presupuesto que tenga déficit fiscal.  Y además, no solo eso.  Si lo va a ajustar, lo tiene que ajustar en la política, no sobre el sector privado. ",
+            "cosine_dist": 0.3062518766851906,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 597.023,
+            "end_time": 600.565,
+            "text": "Javier, le voy a saludar a Pablo Fernández Blanco.  Pablo, buenas noches.  ¿Cómo estás? ",
+            "cosine_dist": 0.9053133014335377,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 601.025,
+            "end_time": 611.189,
+            "text": "¿Cómo estás, José?  Muy bien.  Javier, de todas maneras, vos ingresaste al Congreso.  Imagínate que te llama Cristina Kirchner.  ¿Irías al Senado a tomarte un café con ella, a charlar de economía y política o no? ",
+            "cosine_dist": 0.835672463085089,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 612.105,
+            "end_time": 625.414,
+            "text": "Me parece que en este contexto que ahora soy político, ahora mi actividad no es la de economista profesional.  Me parece que no es el momento adecuado. ",
+            "cosine_dist": 0.47907438830300364,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 625.554,
+            "end_time": 626.434,
+            "text": "No es el momento adecuado. ",
+            "cosine_dist": 0.9593297537001344,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 626.454,
+            "end_time": 628.516,
+            "text": "Pero no irías a verla, Cristina. ",
+            "cosine_dist": 0.9345039174230241,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 629.611,
+            "end_time": 731.023,
+            "text": "No, no, yo digamos, o sea, hoy me parece que mi rol es trabajar en la construcción de una forma distinta de encarar la política que tiene que ver con esto.  de lo que yo digo es separar colectivistas,  ¿sí?,  de los que abrazan la libertad.  Y dentro de los colectivistas están los radicales, que es la internacional socialista, está la coalición cívica, están las palomas de Juntos por el Cambio, está el kirchnerismo y están, digamos, los distintos... aspectos de la izquierda, como quieras llamarla, y del otro lado están los liberales clásicos, los minarquistas, los libertarios, los paleolibertarios, que son los conservadores, podría decirse que está también el peronismo republicano, el peronismo federal, el menemismo, y obviamente los halcones.  ¿Por qué?  para mí esto es muy importante?  ¿Sabés por qué es muy importante?  Básicamente porque tener un ordenamiento ideológico.  Esto de armar alianzas para ganar una elección no funcionó con la alianza, no funcionó con la experiencia de Cambiemos, y uno en algún momento dijo, bueno, entonces ¿acaso lo puede gobernar el peronismo?  ¿Qué nos está demostrando este gobierno?  Que ni el peronismo puede manejar algo tan heterogéneo, aun cuando ellos son súper verticalistas.  Entonces, desde mi punto de vista, Lo que uno necesita es un reordenamiento de la política en términos ideológicos para que cuando vos llegás, llegás con mandato, porque si no, ¿cuál es el problema?  Supongamos, vamos a hacer este caso, supongamos que yo construyo un frente, digo, para darle luz al juego del dos mil veintitrés, supongamos eso.  Entonces hago un frente muy amplio y entonces, o sea... ",
+            "cosine_dist": 0.34423094243267927,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 731.283,
+            "end_time": 732.404,
+            "text": "A lo Larreta decís. ",
+            "cosine_dist": 0.8781794409058978,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 732.564,
+            "end_time": 739.645,
+            "text": "Entonces llegás y, sí, pero por favor, con esa paloma socialdemócrata con fuerte vocación, ¿De intervenir?  No. ",
+            "cosine_dist": 0.4378763048787707,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 739985,
+            "end_time": 740466,
+            "text": "No convivís. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 740.766,
+            "end_time": 830.837,
+            "text": "No.  Y él conmigo tampoco, porque sabe que yo no transo.  Así que como él sabe que yo no transo, él no puede contar conmigo porque yo no estoy para eso.  Y además, pero fíjate, ahí tenés un problema.  ¿Por qué?  Porque también tenemos discrepancias ideológicas.  Y el día que vos vas a hacer lo que tenés que hacer, ¿qué pasa?  Si las encuestas le dan que pierde un puntito de imagen positiva, le agarra un ataque de nervios y te echa.  O sea, y abandona todo.  Con lo cual, digo, no, ahí no.  Pero por eso lo pongo del lado de los colectivistas, no lo pongo de los que abrazamos las ideas de la libertad.  Y en ese contexto... ¿Qué pasa si vos armás una...?  El problema es que cuando vos querés ir para algún lado, los distintos componentes de ese armado político te tiran para cualquier lado.  Entonces, por ejemplo, yo lo escucho a Macri.  Macri tiene una vocación liberal.  No del corte que tengo yo, hay distintas familias liberales.  Él es más tirando un liberal clásico.  Pero cuando él llegó... Esta es una hipótesis mía, me encantaría preguntársela.  Yo cuando lo vi a él lo vi en formato de economista.  Entonces la pregunta es, ¿vos podés hacer algo cuando querés hacer una reforma pro mercado con los radicales que son de izquierda?  Con la coalición cívica, que es alguien que, por ejemplo, te mandaron la ley de alquileres, te mandaron la ley de góndola, te metieron la renta financiera.  ¿Cómo podés gobernar con esos? ",
+            "cosine_dist": 0.296402679976164,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 832.029,
+            "end_time": 860.823,
+            "text": "Javier, hablando de gobernar, él fue de Yokei, por ahí lo conoces de Mar del Plata, después ocupó cargos del ANSES, vicepresidencia, y quiso quedarse con la máquina de hacer billetes, pero ahora lanzó su propio partido, me refiero a Madu Vudú, quiero que lo veas y me des tu opinión.  Que nadie se equivoque, soberanas, soberanos, no viene a romper nada, viene a ayudar a sanar la patria con el gobierno de Alberto Fernández. ",
+            "cosine_dist": 0.7464163093389666,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 861.653,
+            "end_time": 870.78,
+            "text": "con el liderazgo de Cristina Fernández de Kirchner, con la tradición del peronismo, para tener una patria libre, justa y soberana. ",
+            "cosine_dist": 0.9421392746180197,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 871.841,
+            "end_time": 907.088,
+            "text": "En el Fondo Monetario Internacional y en la relación de la Argentina con el Fondo Monetario Internacional podemos contar parte de esa historia.  Porque este problema claramente no lo inventó el presidente Alberto Fernández.  Este problema en esta etapa... lo vino a encadenar a la Argentina Mauricio Macri y su gobierno.  Las caras que pone.  Soberanex, ¿qué opina Javier de este espacio nuevo? ",
+            "cosine_dist": 0.8896463801475576,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 907.909,
+            "end_time": 978.216,
+            "text": "A ver, yo creo que está bueno que cada uno quiera armar su propio espacio.  Lo decís por experiencia propia.  Aparte es una experiencia, hay que remar, fuera de los portaaviones, y no es fácil.  No sé, lo que me causa gracia es lo que dice el FMI, porque él es economista, él sabe cómo funciona esto.  Argentina fue al FMI porque no podía refinanciar su deuda.  O sea, se le cerraron los mercados de capitales, ciertamente por los errores cometidos por el gobierno argentino a partir del veintiocho de diciembre del dos mil diecisiete, cuando Marcos Peña, Duhovne y Caputo avanzan sobre la independencia del Banco Central.  Eso, evidentemente, no fue gratis y terminó precipitando una crisis por los desequilibrios que tenía el Banco Central como consecuencia de la salida del cepo donde Prat-Gay no quiere reconocer el sobrante monetario.  Esa es la situación.  Ahora, el fondo básicamente lo que vino a hacer es dar asistencia para rolear la deuda. ",
+            "cosine_dist": 0.29779261281634073,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 980.097,
+            "end_time": 982.76,
+            "text": "Para postergar los pagos, para tener la posibilidad de ir para adelante. ",
+            "cosine_dist": 0.7273169858023134,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 982.82,
+            "end_time": 1011.123,
+            "text": "Exactamente, te trabajó como un puente hasta que Argentina pusiera las cuentas en orden y de esa manera sí pudiera volver a los mercados de capitales.  Ahora, esa deuda que estaba roleando, sí es cierto que Macri tomó deuda, pero hay que recordarles que el kirchnerismo dejó doscientos cincuenta mil millones de dólares de deuda.  Parece que eso se olvidan, y se olvidan de toda la deuda que dejaron colgada en el CIAD, y se olvidan, digamos, de todo el desastre que hicieron con el dólar futuro. ",
+            "cosine_dist": 0.3119634903932291,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1011.143,
+            "end_time": 1020.093,
+            "text": "Y que el caso de Vudú, concretamente, con su experiencia, entre comillas, y su prontuario, esté con un espacio, ¿qué te habla de la Argentina? ",
+            "cosine_dist": 0.8019942803381762,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1021.218,
+            "end_time": 1088.455,
+            "text": "que es una Argentina que tiene impunidad.  Bueno, pero por eso es que está quebrada la República.  Uno de mis ejes fueron, cuando yo hice el planteo en el debate, fue mostrar que la República estaba quebrada.  O sea, vos, ¿cómo es la construcción de la República?  Vos tenés el Ejecutivo, que vendría a ser la asimilación con el monarca, pero ¿cuál es el problema del monarca?  ¿Que puede derivar en qué?  En tirano.  Después, vos tenés el Parlamento.  El Parlamento trata de asimilar con la aristocracia.  Tío, acá la aristocracia seguro que no, porque no es el gobierno de los mejores, seguro.  Pero ¿en qué puede derivar?  En oligarquía.  Y para que eso no pase, tendría que funcionar bien la justicia.  Como la justicia no funciona... El Ejecutivo se convirtió en un tirano porque efectivamente Alberto Fernández se maneja como un tirano y como un inmoral.  y por otra parte el Congreso claramente se convirtió en una oligarquía.  Por lo tanto... Si acá hay impunidad.  Entonces, si vos perteneces a la casta, sé lo que se te da la gana. ",
+            "cosine_dist": 0.31838340498712003,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1088.655,
+            "end_time": 1096.319,
+            "text": "Javier, ¿cuánta ansiedad te genera, ahora que sos diputado electo, cuánta ansiedad te genera entrar al Congreso de la República Argentina? ",
+            "cosine_dist": 0.8399257696538021,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1096.679,
+            "end_time": 1098.98,
+            "text": "Nada.  No soy un tipo que vive con ansiedad. ",
+            "cosine_dist": 0.6231410468409196,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1099.5,
+            "end_time": 1110.065,
+            "text": "Cuando llegues a ese día D, vos hiciste tu campaña, cantaste recitales, culturalmente te planteaste como disruptivo.  Cuando llegues al Congreso... ",
+            "cosine_dist": 0.7267385470613985,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1110.085,
+            "end_time": 1111.286,
+            "text": "¿A vos no te parece que lo soy? ",
+            "cosine_dist": 0.6459139643996525,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1111.766,
+            "end_time": 1119.816,
+            "text": "Por eso, por eso.  Cuando llegues al Congreso, ¿qué se van a encontrar tus nuevos compañeros de la casta política, como le decís vos? ",
+            "cosine_dist": 0.7793576628477507,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1119.856,
+            "end_time": 1132.311,
+            "text": "Bueno, básicamente lo que nosotros estamos proponiendo desde la libertad de avance.  es un planteo de la política, pero desde una perspectiva moral.  Desde la perspectiva moral hay cosas que nosotros no vamos a hacer. ",
+            "cosine_dist": 0.39762715174495,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1132771,
+            "end_time": 1133231,
+            "text": "¿Por ejemplo? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1133.511,
+            "end_time": 1149.594,
+            "text": "Por ejemplo, jamás vamos a ir contra la vida.  Jamás vamos a ir contra la libertad.  Jamás vamos a ir contra la propiedad.  Jamás vamos a subir impuestos.  Jamás vamos a crear nuevos impuestos.  ¿Vos sabés que si hacés esa raya, quedaron todos... ",
+            "cosine_dist": 0.4004858418499988,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1149.634,
+            "end_time": 1151.674,
+            "text": "¿Cuántos proyectos te quedan afuera de...? ",
+            "cosine_dist": 0.8987135037569468,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1151.714,
+            "end_time": 1185.315,
+            "text": "Y bueno, pero, claro, esto es lo interesante.  Por ejemplo, vos fíjate que yo te hice un análisis del presupuesto.  ¿No?  ¿Y desde dónde lo encaré?  Desde lo moral.  Te digo, si tiene déficit fiscal es inmoral, ¿no?  Porque si lo tomo, si financio con deuda, castigo a generaciones futuras, si lo hago con emisión monetaria, castigo a los más vulnerables, al margen de los efectos negativos al... ...distorsionar el sistema de precios... ...y castigo también, digamos, a los pagadores de impuestos... ...si les subo los impuestos, o sea, porque los estoy confiscando. ",
+            "cosine_dist": 0.34719982421383455,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1185.596,
+            "end_time": 1222.819,
+            "text": "Javier, este fin de semana tuvimos fuegos artificiales... ...en este caso el Secretario de Comercio Interior... ...el sucesor de Guillermo Moreno y de Pablo Español... ...anunció un acuerdo de precios para el fin de semana... ...estamos hablando de cuarenta y ocho horas... ...que si vos comprabas carne, pero cuando rascabas... ...la bajada de esa noticia, que es algo que tenemos que hacer siempre... El acuerdo era con el veinte por ciento de las cadenas de comercialización, con los supermercados, cuando ocho de cada diez productos vinculados con la industria de la carne se venden en otro rubro, con lo cual Te diría que bordeaba un poco el fuego artificial esa noticia.  ¿Este tipo de anuncios qué te generan? ",
+            "cosine_dist": 0.7572979628842266,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1222.839,
+            "end_time": 1316.38,
+            "text": "A mí me parece primero una medida ridícula, porque un acuerdo por esas características.  Ahora, lo que a mí me sorprende, y eso cuando hacen este tipo de cosas, cuando yo digo Alberto es el rey de la casta, ¿por qué?  Porque él sabe que los controles de precios no funcionan.  Él cuando estaba... fuera del gobierno, criticando a Cristina Fernández de Kirchner, le decía no mande a los chicos de la Cámpora a los supermercados, ni a Moreno, sino que mande a los chicos de la Cámpora a que le pregunten a Marco del Pon cuánto está emitiendo, porque ahí está el origen de la inflación.  Entonces, cuando él estaba fuera del poder, la culpa sí estaba sobre el Estado.  Ahora que él está dentro del Estado y es parte del gobierno, entonces ahora no.  es decir la culpa de los empresarios de todo el mundo menos del bueno.  eso es una una aberración.  segundo digo los controles precios nunca funcionan en la historia.  hay un libro se llama cuatro mil años de control de precios y salarios como no como a tres mil años claro y arranca siendo un relevamiento de dos mil ochocientos antes de cristo en la quinta dinastía los sumerios nunca funcionaron.  se es un lugar donde nunca funcionaron.  en argentina desde que te de banco central se fue fue el único periodo que no hubo inflación durante la convertibilidad justo cuando lo presionan libres.  Y no solo eso, ¿por qué no funcionan?  Primero porque el sistema de precios es un mecanismo de transmisión de información.  Si vos, para un mismo bien, vas a estar, lo ponemos en otro término, mirá, vos tenés que pasar por el semáforo.  y están prendidos a la vez la roja y la luz verde, ¿qué haces? ",
+            "cosine_dist": 0.3092224119570257,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1317.839,
+            "end_time": 1319.08,
+            "text": "La luz roja y la luz verde. ",
+            "cosine_dist": 1.0593296919651285,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1319.381,
+            "end_time": 1384.698,
+            "text": "Y bueno, eso es lo que pasa.  Que genera una descoordinación.  Puede ser que el que venga atrás te choque o el que viene del costado te choque.  O sea, es una descoordinación.  O sea, chocá la economía.  Parte de este problema es que en realidad, suponete que yo te vendo mis anteojos y vos me das determinada cantidad de dinero.  Ese registro histórico se llama precio y que es lo que se transmite como información, genera coordinación y ajuste.  Ahora, esto parte de la base de que yo soy el dueño de esto y que vos sos el dueño del dinero que me estás dando.  Es decir, parte del derecho de propiedad.  Cuando vos te metés con los precios, lo que estás afectando es el derecho de propiedad.  Concretamente sería el que está vendiendo.  O sea, mi caso, que te estoy vendiendo los anteojos.  Entonces viene el señor Felet y me dice, no, me parece muy caro.  ¿Por qué te parece muy caro?  Si es un acuerdo que yo estoy haciendo con José libremente.  Al meterse el Estado en el medio, ¿qué hace?  Rompe la señal.  Entonces el sistema funciona peor y estamos cada vez peor. ",
+            "cosine_dist": 0.31224780578224975,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1385.199,
+            "end_time": 1400.093,
+            "text": "Javier, Pablo Fernández Blanco, tengo dos preguntas para hacerte.  Pablo, ¿cómo va?  Fuiste uno de los protagonistas del fin de semana con una de las noticias que hablaba de Cristina Fernández.  El título, decinos el título de tu nota. ",
+            "cosine_dist": 0.8180021520794808,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1400.273,
+            "end_time": 1406.055,
+            "text": "Sí, que en realidad Cristina Kirchner se pone al frente de un giro impensado por temor al abismo, algo así, era el título de la nota. ",
+            "cosine_dist": 0.7895144183456864,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1406.275,
+            "end_time": 1411.697,
+            "text": "Esa que fue una de las notas más leídas del fin de semana, en tres líneas, ¿qué es lo que desarrollaba? ",
+            "cosine_dist": 0.8214449977586566,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1412.057,
+            "end_time": 1487.035,
+            "text": "Básicamente que Cristina Kirchner dio el aval para hacer un giro hacia la ortodoxia, seguramente mi ley no va a estar de acuerdo porque nunca va a ser tan ortodoxa como lo que plantearía Javier, pero sí dentro del manual kirchnerista.  es un golpe de timón radical.  Primero que nada, dio el visto bueno para empezar a gastar menos reservas en sostener un tipo de cambio ficticio.  En segundo término, dio el visto bueno para que a partir de abril del año próximo... haya aumentos de tarifas, van a ser aumentos de tarifas importantes porque el año siguiente va a ser año electoral, dos mil veintitrés, y la idea es que no haya tanto aumento.  Y el tercero, que no es tan ortodoxo, es que dio el visto bueno para que se aumenten los impuestos.  y tuvimos dos ejemplos esta semana.  Uno muy conocido, el impuesto llamado tasa, mal llamado tasa en mi opinión, a los productos envasados y también a ciertas operaciones con Bitcoin, porque vos sabés muy bien que el déficit fiscal se puede resolver o achicando el gasto o también aumentando los ingresos.  Todo esto que es nuevo... Antes Cristina no había dado el ok y ahora sí.  Quizás tiene algo que ver con este espíritu pre-Rodrigazo que estaba, el fantasma pre-Rodrigazo que estaba volando sobre la Argentina.  Bueno, Cristina Kirchner dio el visto bueno para todas estas cosas y es una rareza. ",
+            "cosine_dist": 0.6716929162821326,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1487.095,
+            "end_time": 1491.558,
+            "text": "Javier, la última tiene que ver con una Cristina ortodoxa e inmoral. ",
+            "cosine_dist": 0.762690863468841,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1493.119,
+            "end_time": 1570.641,
+            "text": "De vuelta, impuestos, meterle la mano en el bolsillo al que labura.  subir los precios de los servicios, es decir, castigar.  de vuelta al sector privado.  ¿Por qué no recalibran toda la ecuación económica financiera de los contratos y le quitan impuestos?  ¿Sabías que la mitad del precio que vos pagás de las tarifas es impuestos?  Es decir, que el esfuerzo lo hagan los políticos.  Y no solo eso, sino que además, tener un acuerdo con el fondo no te va a asegurar nada.  En diciembre del dos mil, De la Rúa anunciaba con bombos y platillos el blindaje.  Y terminamos con la peor crisis de la historia argentina.  Así es que, en realidad, de vuelta.  Pero fíjate, el ajuste siempre es sobre quién.  Sobre el sector privado.  Nunca.  sobre la política.  Y eso es lo que yo me comprometí con los argentinos, con los porteños que decidieron acompañarnos en la libertad de avanza, es que jamás vamos a ir contra los argentinos de bien.  Nosotros queremos que el ajuste lo pague la política, no los argentinos de bien que se ganan el pan con el sudor de su frente. ",
+            "cosine_dist": 0.30380404367931657,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1570.761,
+            "end_time": 1593.958,
+            "text": "Javier, muchas gracias.  Gracias a vos.  A la mierda los malditos empresarios, a la mierda Sodomitas el capital.  Basta de basura que Inesiana, ha llegado el momento liberal.  Tenemos un líder y él es un gran rebelde. ",
+            "cosine_dist": 0.931979895991751,
+            "is_target_speaker": false
+        }
+    ]
+}

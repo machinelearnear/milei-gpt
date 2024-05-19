@@ -1,0 +1,759 @@
+{
+    "Index": 398,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "um9V-IqjzCI",
+    "url": "https://www.youtube.com/watch?v=um9V-IqjzCI",
+    "title": "\"KICILLOF ES UN ENFERMO\" - Javier Milei en Economía y Real Estate 21/6/2021",
+    "duration": 1944.0,
+    "view_count": 45851,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 2",
+            "start_time": 0.06,
+            "end_time": 1.27,
+            "text": "Javier Milei, ¿cómo estás? ",
+            "cosine_dist": 0.9503805835743391,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1.53,
+            "end_time": 6.532,
+            "text": "¿Qué tal, Lara?  Un gusto enorme verte nuevamente.  Contenido, preparándote. ",
+            "cosine_dist": 0.7701258282913006,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 6.552,
+            "end_time": 10.794,
+            "text": "Pues ya sé a quiénes le vas a sacar.  No hay tarjetas amarillas hoy, son todas rojas. ",
+            "cosine_dist": 1.0057224798628053,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 11.075,
+            "end_time": 17.938,
+            "text": "Pero parece que hubiera una conspiración que todos quieren tarjetas rojas. ",
+            "cosine_dist": 0.43387723579089266,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 17.978,
+            "end_time": 29.289,
+            "text": "Vos decís que la economía, digamos, la economía argentina, la política argentina, piensa en ese momento de economía y riqueza.  Sí, yo creo que directamente están, digamos, provocándome.  Para estar en el podio. ",
+            "cosine_dist": 0.8468236675865162,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 29.449,
+            "end_time": 32.152,
+            "text": "Exactamente.  Daniel Zampone.  ¿Cómo va? ",
+            "cosine_dist": 0.8037805369739759,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 32.927,
+            "end_time": 35.189,
+            "text": "Todo muy bien, por suerte. ",
+            "cosine_dist": 0.8998147271617384,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 35.269,
+            "end_time": 87.927,
+            "text": "bien, la semana bien.  Hoy vamos a continuar lo que veníamos hablando del tema ley de alquileres, que habíamos hablado con Javier, con Eduardo.  Hoy lo que vamos a incorporar en el programa, Nara, le contamos un poquito a la gente.  Nosotros nos está faltando un poquito el tiempo, entonces a veces no podemos invitar a toda la gente que queremos.  Yo dentro de mi oficina tengo un observatorio inmobiliario que es local y de manera internacional.  Ese observatorio inmobiliario se nutre también de colegas que me pasan información o vamos intercambiando información.  Hoy, por ejemplo, tenemos dos excelentes colegas y amigos, los hermanos Hernán y Leandro Pietronave.  que me mandaron unas plaquitas de ley de alquileres para que la gente la entienda un poquito más fácil.  En el segundo bloque le vamos a estar mostrando las placas a la gente y explicándole un poquito qué pasó con esta famosa ley de alquileres. ",
+            "cosine_dist": 0.7693557626869192,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 88.067,
+            "end_time": 88.868,
+            "text": "¿Cuáles son los cambios, no? ",
+            "cosine_dist": 1.0365055987264105,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 89.208,
+            "end_time": 115.909,
+            "text": "¿Cuáles son algunos de los cambios que trajo esta ley?  Ya desde la vez pasada, ¿qué pasó desde los números?  Ya lo fuimos contando, por desgracia no fue muy bueno, pero lo vamos a desarrollar en el segundo bloque.  Y permitime, en algo.  tenías razón, vos la vez pasada en los videos previos que hacés antes que grabemos, me hiciste una corrección muy bien, que yo te decía que nos veían en todo el país y vos me dijiste que no solo en el país, sino fuera del país. ",
+            "cosine_dist": 0.8176800084132051,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 115.929,
+            "end_time": 118.651,
+            "text": "Así es.  Hoy todo es global. ",
+            "cosine_dist": 0.9188229016581436,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 119.096,
+            "end_time": 156.305,
+            "text": "Sí, sí, sí.  La verdad que me estoy sorprendiendo para bien.  Tenemos muchos saludos de gente del interior y tenemos saludos de gente de Uruguay que nos mandaba sus preguntas de Montevideo, Uruguay.  Así que tenías razón lo que nos decías y permitíme, Nara, yo siempre lo que voy eligiendo son de tanto preguntas como saludos, de referentes de distintas zonas, porque la verdad que no podemos nombrar a todos.  Uno vamos a empezar con un especial, un fan de Javi, Darío Cafarena.  Javi, si querés mandarle un saludo a Darío.  Uno de los tantos.  Uno de los tantos, mira el programa y es fanático de Javier. ",
+            "cosine_dist": 0.8119686464847052,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 156.765,
+            "end_time": 158.926,
+            "text": "El fandom de Javier Milei es muy intenso. ",
+            "cosine_dist": 0.9355104952385715,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 158.946,
+            "end_time": 159.947,
+            "text": "Abrazo grande, Darío. ",
+            "cosine_dist": 0.8253855159640567,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 161.508,
+            "end_time": 174.902,
+            "text": "Bien, después tenemos Dave Booster de San Juan, que también nos saluda, nos están mirando de San Juan.  Y Marta Mondino, mira el programa, pero es fanática de Eduardo.  Fan de nuestro querido amigo Eduardo. ",
+            "cosine_dist": 0.8338572753077598,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 174.922,
+            "end_time": 178.946,
+            "text": "El hombre conciliador.  El hombre que todo lo quiere resolver con la conciliación. ",
+            "cosine_dist": 0.9995891869643865,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 179.326,
+            "end_time": 191.732,
+            "text": "Marta, la verdad, bueno, no me sorprende porque yo a Edu lo conozco hace varios años, tuvo unas palabras muy lindas en el mail, primero hacia el programa y después hacia Eduardo que lo sigue hace mucho.  y bueno, está buenísimo que pasen esas cosas. ",
+            "cosine_dist": 0.7688645407603961,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 192.113,
+            "end_time": 196.375,
+            "text": "Bien, y tenemos mensajes copeleros de tus hermanos. ",
+            "cosine_dist": 0.8767355639367631,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 196.835,
+            "end_time": 212.098,
+            "text": "Sí, sí, tuvimos el placer con Javi de estudiar en el Cardenal Copelo de Villa de Voto.  Hay una red solidaria, de gente solidaria, que está dando una mano en estas épocas de crisis, de frío.  Bueno, si tenemos la plaquita, ¿querés leerla vos, Nara? ",
+            "cosine_dist": 0.8431982605457724,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 212.398,
+            "end_time": 242.141,
+            "text": "Yo te abrigo, se llama la campaña, estamos ayudando a personas en situación de calle, familias vulnerables, hogares, merenderos.  Se recibe ropa de abrigo, calzado, frazadas, pañales y alimentos no perecederos.  Puedes acercar tus donaciones a Nueva York, tres cinco cinco uno, o José Pedro Varela, cuatro cinco cero nueve, o también en el timbre cero siete, ambas en Ciudad Autónoma de Buenos Aires.  Contacta por Facebook o Instagram, Red Solidaria del Copelo, de la cual sos parte. ",
+            "cosine_dist": 0.9403133632524548,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 242.585,
+            "end_time": 250.769,
+            "text": "Soy parte, es un grupo de gente, la verdad que muy buena energía, buena onda, ayuda y bueno, todo el que quiera colaborar va a ser muy bienvenido. ",
+            "cosine_dist": 0.7820724184375367,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 250.969,
+            "end_time": 280.644,
+            "text": "Y con la economía como estamos, lamentablemente vemos mucha gente en situación de calle y mucha gente complicada para, digamos, subsistir, para sobrevivir.  Así que estas acciones son muy valiosas.  Llegó el momento de él, llegó el momento de su editorial.  Vamos a hablar de economía.  Se conoció el número de inflación.  Yo estaba contenta porque habían bajado las paltas, Javi, pero me parece que no... Porque están de estación.  El otro día conseguí seis por cien pesos en Cabildo, no sé cómo me emocioné, pero háblame de inflación, Javi. ",
+            "cosine_dist": 0.9395411500854698,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 280.664,
+            "end_time": 282.285,
+            "text": "Hubieras comprado dos, entonces.  ¿Eh? ",
+            "cosine_dist": 0.8204665843216399,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 282.305,
+            "end_time": 284.046,
+            "text": "Hubieras comprado dos.  ¿Os decís? ",
+            "cosine_dist": 0.8483609415631919,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 284.907,
+            "end_time": 314.25,
+            "text": "A ver, acá lo importante es que el dato de inflación del mes de mayo fue del tres coma tres por ciento.  Básicamente, lo que está sucediendo es... Si uno mira lo que ha pasado a lo largo de los últimos doce, trece meses en la economía argentina, el año pasado, allá por abril, digamos, se había logrado, digamos, registrar una tasa de inflación del uno coma cinco por ciento, el gobierno estaba muy feliz porque había logrado... ",
+            "cosine_dist": 0.38320725876194084,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 314.27,
+            "end_time": 315.07,
+            "text": "Abril veinte, veinte. ",
+            "cosine_dist": 1.066738635953944,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 315.39,
+            "end_time": 431.903,
+            "text": "Exactamente.  Pero estábamos todos encerrados, nadie salía a comer una manzana.  Bien, exacto.  O sea, gran parte del índice estaba encuarentenado, o sea, solamente consumíamos alimentos que además dado que hay un cepo cambiario, dado que entonces el tipo de cambio no es el que debería ser a mercado, consecuentemente, digamos, ahí hay inflación reprimida, también están pisadas las tarifas, también había precios controlados, consecuentemente, digamos, el número de la inflación era artificialmente bajo.  De hecho, solamente estaba funcionando el índice, con lo cual la inflación del año pasado no es, digamos, como uno la miraba, digamos, en torno al treinta por ciento, sino que era un número bastante más grande.  Después, conforme se fue abriendo la economía, el índice de precios empezó a subir y hoy llegó a tocar en marzo de este año el cuatro coma ocho por ciento.  Y ahí se encendieron las alarmas para el gobierno y dijo, bueno, entonces vamos a hacer algo.  Como de costumbre siempre lo hace de la manera incorrecta, que es en lugar de tratar de corregir los desequilibrios macroeconómicos para evitar que se emita dinero, empezó a recrudecer controles con tarifas, a buscar precios máximos, toda esta parafernalia que siempre fracasa.  Pero en el corto plazo lo que hace es desviar los efectos.  Entonces parece que transitoriamente hay como un éxito.  Entonces, claro, cuando vos mirás y decís, al mes siguiente la inflación fue de cuatro a cuatro, ahora es tres a tres, entonces se ponen contentos y dicen, vamos bien.  En realidad lo que están haciendo es reprimir los efectos y eso es lo que genera tarde o temprano, digamos, que la explosión sea más grande.  De hecho, el otro día cuando nos íbamos de acá con Dani, con Daniel, íbamos en el auto y justamente yo le contaba lo que fue el plan de inflación cero de Helvard. ",
+            "cosine_dist": 0.3126695128310918,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 431.923,
+            "end_time": 438.328,
+            "text": "Eso lo vamos a empezar a grabar, te aviso.  Va a ir una cámara en el auto grabando la charla, porque yo me estoy perdiendo material.  Yo soy productora también acá, chico. ",
+            "cosine_dist": 1.0025930450828628,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 438.348,
+            "end_time": 523.633,
+            "text": "Me estoy perdiendo material muy jugoso continuamente.  Claro, entonces yo le contaba cómo había sido la experiencia del Rodrigazo, lo que era, digamos, todo el mundo recuerda como el malo de la película, Celestino Rodrigo, cuando en realidad, digamos, Celestino Rodrigo es el que vino, es un héroe en rigor, porque es el que sinceró los desequilibrios monstruosos que había generado Gelbar con el control de precios y le daba rosca al gasto público, lo financiaba con emisión monetaria.  intervenían en el mercado de cambios, perdían reservas, el día que se quedaron sin reservas, esto voló por los aires, se llamó rodrigazo, pero lo único que hizo Celestino Rodrigo fue sincerar el desastre que había causado Helva.  Y hoy hay toda una inconsistencia macroeconómica, ¿por qué?  Porque si yo miro la inflación en lo que va en los últimos doce meses, Argentina en los últimos doce meses generó cuarenta y ocho por ciento de inflación.  Y, por ejemplo, el tipo de cambio subió el treinta y nueve por ciento.  Es más, si yo miro los datos, por ejemplo, el tipo de cambio viene en los últimos meses al uno y pico por ciento variando.  Entonces, digamos, vos empezás a generar desequilibrios que tarde o temprano terminan mal.  No solo eso, si vos mirás lo que tiene que ver con la inflación mayorista, que es en realidad los precios que reciben los que después te van a estar vendiendo a vos.  Es inflación en los últimos doce meses del setenta y tres por ciento.  Por lo tanto, digamos, Argentina está generando una situación macroeconómica extremadamente complicada. ",
+            "cosine_dist": 0.2890041436271896,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 523.653,
+            "end_time": 526.114,
+            "text": "¿Hay un plan? ",
+            "cosine_dist": 0.9594014159832586,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 526.134,
+            "end_time": 535.699,
+            "text": "Mirá, yo creo que lo que están haciendo es tratar de ver cómo llegar a las elecciones sin hacer las cosas que hay que hacer. ",
+            "cosine_dist": 0.3243228800910706,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 535.719,
+            "end_time": 536.34,
+            "text": "¿El plan es ese? ",
+            "cosine_dist": 0.9762069430194457,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 536.74,
+            "end_time": 761.486,
+            "text": "El plan es, o sea, lo atamos con alambre y tratemos de llegar, como sea, a las elecciones.  Es más, el plan primavera, de Alfonsín en la primavera del ochenta y ocho, que después termina la hiperinflación, era más sofisticado que esto.  O sea, esto es todavía muchísimo más berreta.  Para que tengan un orden de magnitudes.  O sea, ¿cuál es el objetivo?  El objetivo es llegar a las elecciones.  Lo que sucede es que los desequilibrios que tiene la economía argentina son monstruosos.  Vos recién ahora decías, a la luz del comentario que hizo Daniel del tema de la red solidaria del Copelo, de gente con hambre, gente en situación de calle, situación de pobreza, situación de indigencia.  Argentina tiene indicadores sociales que son peores, pero muchísimos peores que los que tenía en el dos mil uno.  La pregunta es, si el dos mil uno terminó en la hecatombe que terminó, ¿por qué hoy no pasa eso?  Digo que esa es la pregunta del millón.  Y es fácil de responder.  ¿Por qué?  Porque los actores revoltosos... están cooptados por el gobierno y están metidos adentro de alguna caja del gobierno y entonces no les importa que la gente esté en la miseria absoluta con tal de que ellos sigan, digamos, aferrados a algún cargo, algún curro y algo por el estilo.  Y lo mismo pasa, digamos, también, por ejemplo, hay otros actores que como están cerca a las elecciones y necesitan defender su territorio, No les queda otra, digamos, que arrodillarse frente al gobierno para, digamos, ver si consigue algunos fondos, para ver si consigue algo y poder hacer una mejor elección y defender el territorio.  Entonces, ¿qué pasa?  Hoy toda la oligarquía política está, digamos, coordinada, ¿sí?  ¿Para qué?  Para tratar de contener esto, para que no les estalle en la cara en las elecciones.  Pero estas experiencias, la verdad, que nunca terminan bien.  O sea, nunca terminaron bien en la historia de Argentina, digamos, porque debería ser ahora distinto.  Y la realidad es que además esto se da en un contexto donde cada vez está siendo más marcado el avance sobre el derecho de propiedad.  O sea, cuando vos estás controlando el precio de eso, digamos, es un avance sobre el derecho de propiedad.  La ley de góndolas es un avance sobre el derecho de propiedad.  Y esto se está generalizando.  Es decir, lo que pasó en Avellaneda es un escándalo.  Y eso, digamos, en el propio municipio determinaron un avance sobre el derecho de propiedad.  O sea, yo, digamos, si me compro una propiedad, dispongo de la propiedad como se me dé la gana.  Es decir, mientras que yo no esté dañando a otras personas con mi accionar, es decir, recuerden, el liberalismo es el respeto irrestricto del proyecto de vida del prójimo.  O sea, mientras que yo es mi propiedad, yo no moleste a nadie, o sea, no estoy afectando tu propiedad, no estoy afectando tu vida, no estoy afectando tu libertad, digamos, no tenés por qué molestarme, yo hago lo que quiero.  Si yo me quiero comprar una casa y la quiero tener ahí solo para mirarla desde afuera... Es problema mío.  si está ocupada, no está ocupada.  Lo mismo para un terreno o lo que fuera.  Entonces, ¿quién es el gobierno para determinar cómo yo tengo que disponer o no de mi derecho de propiedad?  Fíjense que en algún sentido también es como el problema de la ley de góndolas.  Ley de góndolas que la mandó la señora Carrió.  digamos, bajo la supervisión del señor Prat-Gay.  O sea que, de un lado y del otro, los dos son socialistas, los dos no les interesa la propiedad privada y lo único que les interesa son los curros de la política y la expropiación.  O sea, porque en el fondo hay que tener en cuenta que los únicos que generan riqueza es el sector privado.  Los medios políticos siempre son los mismos, que es el robo, porque el Estado no genera nada.  Entonces, en ese sentido, lo que uno ve es un avance sobre el derecho de propiedad y eso, a la postre, lo único que trae es miseria. ",
+            "cosine_dist": 0.27961273403236975,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 762.048,
+            "end_time": 764.289,
+            "text": "Y enfrentamiento, me atrevo a decir. ",
+            "cosine_dist": 0.9734020859696777,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 764.35,
+            "end_time": 768.152,
+            "text": "Obviamente, porque justamente lo que se hace es... ",
+            "cosine_dist": 0.4854146170617063,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 768.332,
+            "end_time": 780.6,
+            "text": "Crispación en la sociedad, enojo.  Lo hemos visto con las tomas del año pasado.  Gente diciendo, están avanzando sobre mis tierras.  Gente laburante, poderosos que llegan en helicópteros. ",
+            "cosine_dist": 0.93388883785881,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 780.82,
+            "end_time": 785.763,
+            "text": "Tenemos una linda tarjeta roja para un argentino. ",
+            "cosine_dist": 0.4362603604571268,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 786.544,
+            "end_time": 787.525,
+            "text": "Guárdatela. ",
+            "cosine_dist": 0.8832097724656427,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 788.146,
+            "end_time": 790.668,
+            "text": "Digo dónde está para ya darles una orientación. ",
+            "cosine_dist": 0.6088252065259107,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 790.688,
+            "end_time": 792.09,
+            "text": "Ubícalo geográficamente en el globo. ",
+            "cosine_dist": 1.0187238009457147,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 792.75,
+            "end_time": 796.494,
+            "text": "Es un hincha de San Lorenzo que está viviendo en Italia. ",
+            "cosine_dist": 0.49435465664882994,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 797.355,
+            "end_time": 798.756,
+            "text": "¿Nos vistó los últimos años? ",
+            "cosine_dist": 0.9836905217123544,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 799.237,
+            "end_time": 808.788,
+            "text": "No, no, no.  Justamente dijo que no nos va a visitar.  Solo pasó por el cielo argentino y mandó un saludo. ",
+            "cosine_dist": 0.490662525235097,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 808.828,
+            "end_time": 813.79,
+            "text": "Hay una peli de él, no sé si la viste. ",
+            "cosine_dist": 0.8991233685538339,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 814.17,
+            "end_time": 815.711,
+            "text": "Ah, sí, tiene una peli. ",
+            "cosine_dist": 0.6683610665317483,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 815.731,
+            "end_time": 826.276,
+            "text": "Varias pelis hay.  Bueno, vamos dando como pistas para que jueguen en casa.  Es lúdico también.  Economía y Real Estate pueden ir adivinando para dónde van las tarjetas rojas del señor Javier Milei. ",
+            "cosine_dist": 1.0042782476245236,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 826.316,
+            "end_time": 828.217,
+            "text": "Después hay para una señora. ",
+            "cosine_dist": 0.6189682361211875,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 828.797,
+            "end_time": 833.023,
+            "text": "Por una señora.  Ya le has dado.  Sí.  La atendés siempre. ",
+            "cosine_dist": 0.8946288600156155,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 833043,
+            "end_time": 833544,
+            "text": "¿Ya le di? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 833.984,
+            "end_time": 834.585,
+            "text": "Sí. ",
+            "cosine_dist": 1.0660684297485568,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 834.865,
+            "end_time": 838.03,
+            "text": "Yo tengo registro de todas tus tarjetas rojas.  ¿En serio?  ¿Ya le di a la señora? ",
+            "cosine_dist": 0.7369992884665268,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 838.17,
+            "end_time": 839.031,
+            "text": "Sí, ya le di a la señora. ",
+            "cosine_dist": 0.8634819923047311,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 839.111,
+            "end_time": 841.394,
+            "text": "No es una señora, es la señora. ",
+            "cosine_dist": 0.6899585556010899,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 841.454,
+            "end_time": 843.076,
+            "text": "También.  Están todos jugando al juego de la campaña. ",
+            "cosine_dist": 0.9819114078626283,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 843.096,
+            "end_time": 846.301,
+            "text": "Y también así a ese enano de jardín que la acompaña. ",
+            "cosine_dist": 0.5579291009629008,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 847.629,
+            "end_time": 864.093,
+            "text": "Le mandamos un saludo igual a todos los que tienen altura, ¿no?  Sí, con todo el amor y con todo el respeto.  Bueno, el diagnóstico entonces de la economía, complejo, complicado.  Esperemos que haya un plan o que en algún momento haya un plan y que el plan no sea llegar a las elecciones. ",
+            "cosine_dist": 0.9414072081784064,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 864.533,
+            "end_time": 916.517,
+            "text": "Me da mucho miedo que el plan sea llegar a las elecciones.  Mira, Argentina, hay una frase de Adolfo Sturzenegger, el papá de Federico Sturzenegger, quien... fuera presidente del Banco Central de la República Argentina en la primera etapa del gobierno de Macri, que después el gobierno que tanto dice que defendió las instituciones se lo llevó puesto, lo echó.  Bueno, lo invitaron a renunciar.  Al margen de esa cuestión, usaba una frase para describir a la argentina que era espectacular.  Decía, Argentina es capitalismo sin mercado y un socialismo sin plan.  O sea... Imaginate que el socialismo funciona mal con plan, imaginate sin plan.  O sea, somos lo peor de lo peor.  Por eso, como señalaba en algún momento un colega mío, dice, si seguimos así, me temo que mis hijos envidiarán el bienestar de Somalía. ",
+            "cosine_dist": 0.3321027551552328,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 918.312,
+            "end_time": 937.266,
+            "text": "Ayer escuché a un economista decir básicamente que en la Argentina no había nunca planes, lo que se hacía todo el tiempo eran autopsias, autopsias de la gestión anterior, ¿viste?  Saber en qué se falló, qué se hizo mal, pero que no había planes.  Ojalá empiece a haber planes, de la fuerza que sea, pero que empiece a haber planes y que el plan no sea llegar a las elecciones. ",
+            "cosine_dist": 0.920954689512717,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 937.286,
+            "end_time": 939.908,
+            "text": "Diego, ¿querés el plan de los comunistas?  o sea es Venezuela? ",
+            "cosine_dist": 0.5550688499290488,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 941.516,
+            "end_time": 945.537,
+            "text": "Un plan con bienestar, un plan con bienestar para todos. ",
+            "cosine_dist": 0.8331721130720607,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 945.577,
+            "end_time": 965.581,
+            "text": "La única forma de alcanzar el bienestar es volviendo a abrazar las ideas de la libertad.  Argentina cuando abrazó las ideas de la libertad en mil ocho sesenta era un país de bárbaro y en treinta y cinco años se convirtió en la primer potencia mundial.  Lo único que hay que hacer es volver a los valores de Alberti.  Con eso en treinta y cinco, a más tardar cincuenta años, somos una potencia mundial. ",
+            "cosine_dist": 0.3301546845330816,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 965.621,
+            "end_time": 995.261,
+            "text": "Yo creo que llego a verlo, no sé ustedes si llegan.  Permitime nada antes que nos vayamos al corte.  Hay algo, un disparador que estaban tocando recién, que es las tomas de Avellaneda.  Después en algún momento vamos a tener que tocar el tema en otro programa, obviamente.  Hay un proyecto de ley de una parte del centro de la Ciudad Autónoma de Buenos Aires, las oficinas transformarlas en viviendas.  Eso en algún momento, en algún programa, lo vamos a tener que desmenuzar los pros y los contras de ese proyecto. ",
+            "cosine_dist": 0.7747920758278061,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 995.441,
+            "end_time": 996.142,
+            "text": "Excelente. ",
+            "cosine_dist": 0.9102297146192628,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 996.162,
+            "end_time": 1122.803,
+            "text": "Yo quiero complementar algo muy importante que acaba de decirse acá y que tanto Nara como Daniel lo han dicho, es que cuando vos en la economía metés al Estado a intervenir, siempre el resultado es opuesto.  al que vos querías generar.  Es decir, los planes contra el hambre que generan, más hambre.  Los planes contra la pobreza que generan, más pobre.  Los planes contra el desempleo que generan, más desempleo.  Es decir, cada vez que un legislador, fatalmente arrogante, desde la poltrona se mete en un mercado, porque en realidad no es que el mercado funcione mal, el mercado no puede funcionar mal por definición, porque es un acuerdo entre partes.  Y si no hay coacción, que de hecho el único que ejerce coacción es el Estado, no debería funcionar mal.  Porque son acuerdos voluntarios, son acuerdos de parte.  Entonces, cuando el señor Lipovetsky, el autor intelectual de esta ley nefasta, se le anticipó que esto iba a funcionar mal.  Y él en su arrogancia, digamos, contestaba cualquier cosa.  Ahora anda ofendido porque uno le deja de manifiesto que él es culpable de los penares que están teniendo los inquilinos.  ¿Por qué?  Porque en realidad, como habíamos anticipado cuando esta ley venía, es... Va a terminar habiendo una retracción de la oferta, van a ser los precios más caros.  No solo eso, sino que además los aquellos que no puedan ajustar el precio van a deteriorar la calidad del inmueble.  Porque esa es una forma de defenderse frente al avance.  contra la propiedad privada.  Y cuando vos vas contra la propiedad privada, vas a terminar perjudicando a las dos partes.  Pero ¿sabés a quién terminás perjudicando más?  Al que querías beneficiar, que era el inquilino.  ¿Por qué?  Porque el propietario agarra, va, se va, o la vende y la propiedad se destina a otra cosa.  ¿Y quién se queda sin posibilidad de tener un lugar donde vivir?  El pobre inquilino.  Creo que las intenciones eran buenas, pero no se tuvo en cuenta... ",
+            "cosine_dist": 0.27285455918007473,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1122.863,
+            "end_time": 1124.164,
+            "text": "Bueno, pero ¿sabes lo que decía Friedman? ",
+            "cosine_dist": 0.8934782020425662,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1124.204,
+            "end_time": 1163.014,
+            "text": "Sí, pero Friedman decía, las políticas no se evalúan por sus intenciones, se evalúan por sus resultados.  Y me entendés, o sea, vos tenés evidencia empírica a nivel, no solo local, sino a nivel internacional de que estas cosas no funcionan.  Y el imbécil de Lipovetsky... Sí, sí, sí, a ver, lo digo yo de frente a la cámara, no tengo problema, el señor Lipovetsky es un incapaz, es un imbécil, es un arrogante, sí que cuando se le explicó que esto iba a funcionar mal... legislador de Juntos por el Cambio, ¿qué hizo?  Igual avanzó sobre el derecho de propiedad y cómo terminó perjudicando a los que supuestamente se querían beneficiar. ",
+            "cosine_dist": 0.2830023068770149,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1163.154,
+            "end_time": 1169.516,
+            "text": "Yo igual insisto con que quizás tuvo buenas intenciones, no sé quién lo asesoró, hubiera estado bueno quizás.  ¿Qué pasó con el asesoramiento? ",
+            "cosine_dist": 1.0242847960474102,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1169.636,
+            "end_time": 1193.095,
+            "text": "Mirá, lo que dice Javier es, nosotros desde el observatorio inmobiliario nuestro lo veíamos, los mercados que funcionan es donde el Estado no se mete.  Entonces, cuando vos ves el mercado inmobiliario, que en otros lugares funciona, lo que vas evaluando justamente es ese denominador común.  Y si haces un poquito de historia y vas para atrás, nosotros con Javi cuando venimos y vamos de la grabación, vamos charlando de todos estos temas... ",
+            "cosine_dist": 0.7779155254604573,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1193.115,
+            "end_time": 1206.298,
+            "text": "Vos seguís contando, si seguimos contando nos van a meter en una camarita.  Igual va a estar bueno que vean la camarita, las cosas que hagamos. ",
+            "cosine_dist": 0.5954957849506194,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1206.838,
+            "end_time": 1234.14,
+            "text": "Y vos ves, porque todo tiene una lógica, cuando chocás y cuando no chocás.  Este choque, porque vos hablabas de las intenciones, cuando yo te digo, nada, dobla, dobla que vas a chocar, dobla que vas a chocar, dobla que vas a chocar y chocás, Bueno, hacía una autocrítica y después que chocaste, también, bueno, ponele que vos me decís, mirá, me choqué de buena fe.  Bueno, ¿qué hiciste después?  Bueno, ya vamos a cumplir un año.  Y es como decía Javier, un alma más perjudicada. ",
+            "cosine_dist": 0.7591758681276746,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1234.16,
+            "end_time": 1247.481,
+            "text": "es un inquilino.  Claro, pero fíjate esto.  Con este desastre que causó el señor Daniel Lipovetsky, debería hacer una autocrítica.  No, sale a criticar los que lo critican.  Cuando, digamos, le está arruinando la vida a los inquilinos. ",
+            "cosine_dist": 0.3832154796563172,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1247.701,
+            "end_time": 1254.549,
+            "text": "Igual está invitado, está invitado a hacer aquí su descargo, obviamente, y a defender su idea, si aún él cree que su idea era buena. ",
+            "cosine_dist": 0.9771972345270986,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1256.151,
+            "end_time": 1281.408,
+            "text": "A ver, lo irrefutable es el tema, cuando vos lo ves desde los números, porque eso te marca la realidad.  Porque vos podés opinar, no podés opinar, pero cuando vos ves que tenés... Vos sos inquilina.  Tenés menos productos y tenías diez casas para ver.  Y ahora tenés ocho.  Y si valía diez pesos y ahora vale dieciséis, no te lo tiene que decir Javier, Eduardo o yo.  Vos, en la realidad, decís, flaco, me perjudicaron. ",
+            "cosine_dist": 0.7977366739507704,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1282.389,
+            "end_time": 1283.87,
+            "text": "Ya tuviste que renovar tu alquiler... ",
+            "cosine_dist": 0.6370591957711476,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1285.179,
+            "end_time": 1310.374,
+            "text": "Sí.  Después te cuento.  Después te cuento cómo lo resolví.  Nada vive en un mundo paralelo.  Y seguimos debatiendo porque tenemos más placas.  Estamos desglosando algunos puntos de la comparación entre el régimen anterior a la ley de alquileres y la comparación con la ley.  ¿Qué pasaba con el plazo?  El anterior eran dos años y ahora son tres años como.  mínimo. ",
+            "cosine_dist": 0.9311752098354462,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1311.033,
+            "end_time": 1331.623,
+            "text": "Bien, eso es un... A ver, vos como inquilina lo podés terminar antes y avisás con tres meses de anticipación, pero Javier como propietario no.  A ver, ¿se podía hacer antes?  Sí, y volvemos a lo mismo.  Si ustedes pactaban tres años de alquiler, se podía hacer.  Pero nadie quería, los dueños no querían.  Pero tenías de todo, Nara, a ver. ",
+            "cosine_dist": 0.7936117598488465,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1332.023,
+            "end_time": 1354.371,
+            "text": "Ahora, pero la pregunta es, ¿por qué si los dueños no querían?  Sí.  Si... Lo mejor de todo hubiera sido que las transacciones sean libres entre las partes.  El problema es que se meta el Estado a regular cómo tiene que ser.  Es decir, esto es así de simple.  Vos querés comprar esta taza, yo la quiero vender. ",
+            "cosine_dist": 0.3701213620402459,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1356.053,
+            "end_time": 1358.676,
+            "text": "Las nuestras, en cualquier momento las empezamos a vender. ",
+            "cosine_dist": 1.0278911033349347,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1361.457,
+            "end_time": 1428.608,
+            "text": "Vos me ofrecés un precio, yo te digo, bueno, no, yo quiero un poco más, pero nos ponemos de acuerdo.  Bien.  Entonces yo te vendo esta tasa.  Vos estás contenta con lo que pagaste, yo estoy contento por haberla vendido.  La pregunta es, si nosotros nos pudimos poner de acuerdo, donde yo te transfiero esta propiedad a cambio de, digamos, dinero tuyo, bien habido.  La pregunta es, ¿por qué se tiene que meter un tercero a regular la forma en la cual nosotros compramos y vendemos nuestras tasas o lo que fuera?  Es decir, cómo alguien que no es parte de esa transacción va a estar regulando nuestra transacción y eso va a dar un buen resultado.  Es un disparate creer que eso va a pasar.  ¿Me comprendés?  Entonces, por eso, digamos, cada vez que el Estado se mete, cada vez que el Estado regula, hace daño.  No puede funcionar bien jamás porque está violentando la libertad de los individuos.  Es decir, si el Estado se mete y hace algo acá, o vos no podés comprar la tasa, o yo, digamos, por algún motivo no la puedo vender, o lo que fuera, digamos, y se pierden transacciones.  ¿Y eso qué hace?  Que se pierda bienestar. ",
+            "cosine_dist": 0.2851418283553607,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1429.128,
+            "end_time": 1438.915,
+            "text": "tenemos voces súper calificadas y tenemos a una inquilina, a una inquilina errante que se las arregla sola hace quince años en la ciudad alquilando.  Así que creo que soy una voz autorizada. ",
+            "cosine_dist": 0.9546359739056715,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1438.935,
+            "end_time": 1458.728,
+            "text": "No, es interesante que si vos manifestaste que vos fuiste en un mundo paralelo, quiere decir, digamos, que pudo tener una ganancia de bienestar por esquivar, digamos, las atrocidades causadas por el señor Daniel Lipovetsky.  El, digamos, el enemigo de los inquilinos.  Se disfrazó de amigo de los inquilinos y los aniquiló. ",
+            "cosine_dist": 0.35267719287061405,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1459.168,
+            "end_time": 1482.998,
+            "text": "Llegó el momento, querido Carlos, en donde cambia el clima, cambia el clima musical de este programa, porque llega el momento de las tarjetas rojas siempre.  Yo cuando le sugerí este espacio le dije, tarjetas amarillas, siempre le digo, una amarillita, una amarillita, nunca me quiero poner, son siempre rojas.  Y arrancamos con las tarjetas rojas en el Minuto Milei, que son un montón de minutos.  Te escuchamos, Javier. ",
+            "cosine_dist": 0.9121122545360402,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1483.778,
+            "end_time": 1705.967,
+            "text": "Bueno, esta primera tarjeta roja, es para Poteito, yo le digo Poteito, o sea, y la realidad es que está más sucio que una papa aún cuando se vista de blanco, que es Jorge Bergoglio, más conocido mundialmente como el Papa Francisco.  Hoy, digamos, nuevamente llegó a cabo un nuevo paso en su cruzada mundial en contra de la propiedad privada y básicamente lo que habría que explicarle a este hombre... es que ir contra la propiedad privada es ir contra un derecho humano.  De hecho, nuestra primer propiedad es nuestro cuerpo.  Así que cuando él empieza a hablar de que la propiedad privada es relativa, habría que preguntarle bien a qué hace referencia.  Segundo, el sistema que no respetaba la propiedad privada, se llamó comunismo y fue un fracaso en lo económico, en lo social, en lo cultural.  y además asesinaron a ciento cincuenta millones de seres humanos.  no sólo eso sino que además donde hay socialismo donde no se respeta la propiedad privada todo funciona peor.  Y lo otro que habría que explicarle, digamos, que la moral y la ética del capitalismo está profundamente relacionado con los valores cristianos.  O sea, es más, por ejemplo, lo que él propone en el fondo es el robo.  Y le recuerdo al señor Bergoglio que en los diez mandamientos hay uno que dice que no robarás.  Y otra cosa que es muy interesante... Para aquellos que profesan la religión católica, la envidia es algo que está mal, es un pecado capital.  Y todas estas políticas populistas es la pontificación de la envidia y premiar al envidioso.  Con lo cual, que revise un poco lo que está diciendo porque se va de patada con las sagradas escrituras.  La segunda tarjeta roja es para el rey de los inútiles, el rey de los incompetentes, que es el señor Axel Kicillof.  Es interesante porque él y los infectólogos que lo acompañaban eran los verdaderos talibanes de las cuarentenas.  Eran los talibanes de tener encerrado a todo el mundo.  Algo que a Kicillof le gusta, porque en su espíritu comunista a él le gusta.  De hecho, tuvo una frase muy desafortunada.  donde él se puso en el lugar de que tenía que elegir entre sacrificar la vida de la gente o sacrificar los puestos de trabajo.  Es él para determinar qué hay que sacrificar o no.  Se dan cuenta que es un enfermo, un señor que tiene problemas.  O sea, él cree que puede sacrificar tu vida o tu trabajo.  O sea, grave.  Y ahora, cuando el año pasado nos encerraban a todos con trescientos casos por día y hoy con quinientos muertos por día, abren.  ¿Sabes por qué abren?  No es que les importa la salud de la gente.  No les importa porque si no, no hubieran dejado de hacer la conducta negligente en términos de testeos y vacunas que tenemos.  En realidad, ¿qué es lo que pasa?  Se empezó a abortar la recuperación económica.  Y en ese contexto, año electoral, saben que si la economía no tracciona, no van a poder ganar.  Entonces, ahí ahora decidieron abrir.  Pero no porque están pensando en la gente, sino están viendo cómo hacen para ganar una elección.  Y a la luz de todo esto, ¿quién apareció en escena? ",
+            "cosine_dist": 0.27305994624960006,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1707.288,
+            "end_time": 1709.249,
+            "text": "Ella.  Que ya la atendiste. ",
+            "cosine_dist": 0.9596336922041795,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1710.006,
+            "end_time": 1822.083,
+            "text": "La señora Cristina Fernández de Kirchner.  Hay que dejarla descansar también.  Señaló que la libertad es el sacrificio por la libertad de los otros.  Ay, señora, señora, quiero contarle que en libertad nadie se sacrifica, se toman decisiones voluntariamente.  Es más, cuando hay caridad no se hace a punta de pistola, se hace por voluntad, sino no es caridad, sino es robo.  En ese contexto, además si uno para la libertad, la libertad es sacrificarse para la libertad del otro, entonces vos te sacrificás y entonces no tienes libertad.  Si eso vos lo aplicás de manera generalizada, nadie tendría libertad, solo tendría libertad.  ¿quién?  El que detenta el poder.  Señora, ¿qué quiere?  ¿Que todos seamos esclavos y usted sea la única dueña de la libertad?  Pero dijo también que íbamos a volver a ser felices.  Bueno, a ver, ¿sabés qué?  Yo te voy a decir algo.  Lo voy a poner en el extremo.  ¿Sabés qué?  Si yo te digo, vas a estar en un lugar donde te doy casa, te doy comida, te doy recreación, te permito estudiar, te doy todo eso.  ¿Te gusta ese lugar?  Mirá, porque la cárcel tiene todas esas condiciones.  ¿Te das cuenta?  O sea, prefiero una libertad riesgosa a una esclavitud segura.  Porque además los que progresan, progresan con la libertad, no con la esclavitud.  Nunca la libertad le hace daño a la gente.  Todo lo que trae la libertad es prosperidad y bienestar.  Por lo tanto, lo que ha hecho tanto el señor Poteito, o sea, el vergoglio, El señor Axel Kicillof y la señora Cristina Fernández de Kirchner merecen amplias tarjetas rojas porque todo lo que han dicho y hacen va en contra del bienestar de los argentinos. ",
+            "cosine_dist": 0.2660343646486676,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1822.984,
+            "end_time": 1835.193,
+            "text": "Las tarjetas rojas en el Minuto Milei, aquí en Economía y Real Estate.  Y vamos cerrando este nuevo capítulo de este programa que hemos hecho con tanto amor.  Edu, te despedimos.  Gracias por estar ahí. ",
+            "cosine_dist": 0.9938035797140411,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1836.455,
+            "end_time": 1839.057,
+            "text": "Hasta la semana próxima, entonces. ",
+            "cosine_dist": 0.9500884773500687,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1839.81,
+            "end_time": 1843.292,
+            "text": "Daniel Zampone, seguiremos hablando de la ley de alquileres. ",
+            "cosine_dist": 0.9200145180408461,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1843.312,
+            "end_time": 1868.886,
+            "text": "Sí, y vamos a sumar dos temas más.  Uno, el tema de inflación, porque ahora se cumple un año del índice que va a sacar el Banco Central para regular los alquileres.  Lo vamos a pegar al tema de la inflación que viene hasta.  ahora.  Y este tema del proyecto de hacer viviendas en la Ciudad Autónoma de Buenos Aires.  Hay un cuadrado, un rectángulo que marcaron.  Hay un proyecto que lo podemos desmenuzar y lo podemos atar a lo que decía Javier de las tomas de Avellaneda. ",
+            "cosine_dist": 0.808564911835927,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1869.326,
+            "end_time": 1873.171,
+            "text": "Te tengo una buena noticia respecto a las tarjetas rojas de la semana que viene. ",
+            "cosine_dist": 0.5501126652311366,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1873.191,
+            "end_time": 1875.574,
+            "text": "Pensé que eran las paltas, que me ibas a traer paltas baratas. ",
+            "cosine_dist": 1.0103852094702637,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1875.734,
+            "end_time": 1884.495,
+            "text": "No, si vos las conseguiste, deberías haber comprado más.  La semana que viene no voy a dar tarjetas rojas.  Ah, ¿no?  Bueno, después nos vamos a traer.  ¿Y por qué me voy de viaje? ",
+            "cosine_dist": 0.5182076956316216,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1884.515,
+            "end_time": 1943.034,
+            "text": "Claro, porque no vas a estar.  Les recordamos a todos que nos ven siete y media de la mañana los días lunes, cuatro y media también el día lunes, porque viste gente que le da modo a re-levantarse tan tempranito.  Y los miércoles a las doce del mediodía.  nos encuentran en Instagram como economía.  Real Estate en Facebook, Economía y Real Estate.  Vieron nuestro mail todo el tiempo.  Envíennos sus consultas.  Las voces expertas las vamos a contestar porque yo sumo como experta en ser inquilina.  tantos años de inquilinato.  Gracias por estar del otro lado.  Nos encontramos la semana que viene en un nuevo capítulo pensado para ustedes de Economía y Real Estate.  Chao.  A la mierda los malditos empresarios, a la mierda Sodomitas el capital.  Basta de basura que Inesiana, ha llegado el momento liberal.  Tenemos un líder y él es un gran rebelde. ",
+            "cosine_dist": 0.9691162970650457,
+            "is_target_speaker": false
+        }
+    ]
+}

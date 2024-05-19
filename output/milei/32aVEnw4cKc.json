@@ -1,0 +1,663 @@
+{
+    "Index": 671,
+    "channel_id": "UCjhy7RmjZ9fcC-HgbVa4ZaA",
+    "channel": "Duende",
+    "uploader_url": "https://www.youtube.com/@DuendeGaming",
+    "id": "32aVEnw4cKc",
+    "url": "https://www.youtube.com/watch?v=32aVEnw4cKc",
+    "title": "MILEI LE HABLA A LOS EMPRESARIOS Y A LOS ECONOMISTAS",
+    "duration": 3364.0,
+    "view_count": 19031,
+    "candidate_name": "milei",
+    "quality": "low",
+    "segments": [
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2.06,
+            "end_time": 7.298,
+            "text": "Es una linda clase de mi ley, parece.  Viene a desmentir todo. ",
+            "cosine_dist": 0.9161461257580737,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 9.299,
+            "end_time": 88.18,
+            "text": "Quiere decir que para definir atraso, estoy comparando contra algo.  Eso quiere decir que yo tengo que conocer el vector de precios de equilibrio en la economía.  Eso significa... que dado que es una economía abierta, necesito conocer las preferencias de todos los agentes de la economía, sobre todo los bienes de la economía, las dotaciones y la tecnología, pero no solo para la economía argentina, sino para el mundo también.  Ah, bueno.  Si el poder cae, que en este momento se estaría retorciendo en su tumba.  No podría creer el nivel de fatal arrogancia que tenemos en creer que podemos hacer esa cuenta.  Es decir, a veces los modelos matemáticos son buenos para entender cómo funcionan las cosas, pero de ahí a creérsela, que venga y alguien me traiga ese vector de precios.  Digamos, a ver si estamos hablando con alguien serio o estamos hablando con un chanta.  Digamos, tendría bien que lean un poco a Hayek. ",
+            "cosine_dist": 0.3077861535626446,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 88.2,
+            "end_time": 94.302,
+            "text": "Es para comprarme dos libros de Hayek, ¿eh? ",
+            "cosine_dist": 0.7958115790950584,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 94.322,
+            "end_time": 131.16,
+            "text": "Más allá de eso, más allá de eso.  De hecho, una de las cosas que decía Hayek, decía que una de las misiones fundamentales que tenían los economistas era contarle a la gente todas las cosas que no sabemos.  Es decir, acá estamos pretendiendo crear cosas que no tenemos ni la más pálida idea.  Porque si yo le pido a cada uno de ustedes que definan sus preferencias, les puedo asegurar que, Dios, los veo complicados, digamos, definiendo los axiomas y esas cosas.  En ese sentido, ahora, Dios, me voy a meter con la metodología. ",
+            "cosine_dist": 0.3671252903412716,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 132.24,
+            "end_time": 134.141,
+            "text": "No estaría estando hablando de Salma Hayek. ",
+            "cosine_dist": 0.8937125726391868,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 134.181,
+            "end_time": 168.931,
+            "text": "No, entonces, digamos, el tipo de cambio real... Digamos, es en el fondo, digamos, el tipo de cambio por el nivel de precio internacional sobre el precio local.  Con lo cual, ustedes van mirando la DEVA, la inflación internacional y la local y con eso ven si el tipo de cambio se aprecia o no.  Hay... Una de las cosas que hacen es tomar un tipo de... Supongamos que lo quieren hacer más seriamente, entonces toman toda la serie desde... Nació Argentina, si ustedes quieren... Y hacen ese promedio. ",
+            "cosine_dist": 0.33317296542187935,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 169.411,
+            "end_time": 170.592,
+            "text": "Del video, ¿no? ",
+            "cosine_dist": 1.0740135515126845,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 170.772,
+            "end_time": 239.338,
+            "text": "Y el primer punto es definir el intervalo de la serie.  Una es, bueno, decir, ¿de dónde arranco?  Ok.  Ahora, el problema es que cuando ustedes están trabajando con un promedio, la realidad es que si esa serie tiene mucha volatilidad, el promedio no sirve de nada.  Y si hay algo que caracteriza a Argentina es que justamente tiene mucha volatilidad.  Y no es lo mismo el tipo de cambio real en los momentos de las crisis, donde la moneda se deprecia muy fuertemente, o en los momentos donde hay confianza, donde se aprecia muy fuertemente.  Y Argentina tiene todas esas características de volatilidad.  Por lo tanto, tomar una medida promedio con ese nivel de volatilidad en la variable, no sé, digamos, implica un calificativo... Poco elegante.  Ahora, en otros casos además cortan la serie.  Entonces la pregunta es, ¿por qué la cortás a partir de este año y no a partir del otro? ",
+            "cosine_dist": 0.3000336542355063,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 240.038,
+            "end_time": 241.159,
+            "text": "Lo mismo le preguntan a Netflix. ",
+            "cosine_dist": 0.9991510584577228,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 241.359,
+            "end_time": 269.894,
+            "text": "O algunos lo hacen de otra manera, directamente consideran que en algún momento el tipo de cambio real estaba en equilibrio.  Y supongamos que vino el uno, le dijo, es este, y entonces... Lo tomaron.  Son como una suerte de los Moisés de la economía.  Si le dio la info, le dijo, es este.  Entonces, supongamos que le pasó alguna vez. ",
+            "cosine_dist": 0.3847040629987838,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 270975,
+            "end_time": 271435,
+            "text": "Digamos, ¿no? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 272.956,
+            "end_time": 273.577,
+            "text": "Y después soy yo. ",
+            "cosine_dist": 0.8622542518626386,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 275.678,
+            "end_time": 279.401,
+            "text": "Después soy yo, creo que está hablando porque le dice el loco. ",
+            "cosine_dist": 0.9107326719343419,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 279.421,
+            "end_time": 625.013,
+            "text": "Supongamos que efectivamente le da ese número y saben ese número por algún misterio divino.  ¿Ustedes se dan cuenta que si toman ese tipo de cambio de referencia de ese momento, implica que ustedes hacia adelante están extrapolando las mismas condiciones de oferta y de demanda de cada uno de los bienes de la economía?  Y yo les hago una pregunta.  Si yo les diera el mejor teléfono celular de hace diez años, ¿qué harían hoy con ese celular?  No lo usan ni siquiera para desecho.  Se imaginan los primeros, que eran como unos ladrillos, ¿se acuerdan?  O sea, se dan cuenta que esa extrapolación no tiene ningún sentido.  Es decir, cambió la población, cambiaron las preferencias, cambiaron los bienes, cambió la tecnología, con lo cual es una extrapolación absolutamente idiota.  Con lo cual... Y además, ustedes... De vuelta... Y si lo quisieran hacer bien, necesitarían saber las preferencias, la tecnología, las dotaciones de los argentinos y del mundo, pero no solo ahora en términos estáticos, sino que además lo deberían conocer intertemporalmente.  Es decir, de acá hasta el fin de la historia de la humanidad.  ¿No les parece que es un poquito arrogante creer que pueden hacer esa cuenta?  y definir alegremente, hay atraso.  Digo, solo para considerar lo que dice ese numerito cuando miran el numerito.  Ahora, eso quiere decir que como economistas no podemos decir nada.  No, no, no quiere que no podemos decir nada.  Podrían haber formas o mecanismos indirectos para creer que hay algún problema o hay algún desequilibrio.  Es decir, entonces, uno lo que tendría que hacer es, bueno, ¿qué entiende la profesión por este tipo de cuestiones?  Y bajo qué circunstancias?  uno podría creer que se podría estar dando un desequilibrio que va a derivar en que nos peguemos un tortazo.  Para ponerlo de manera elegante.  Entonces, yo lo que voy a hacer es repasar dos modelos estándar y ver cuáles podrían ser esos indicadores que muestren que hay un problema en el mercado de cambios o que hay un desequilibrio, que hay una situación que podría conducir a un estallido.  El modelo más convencional, más estándar, Uno podría trabajar con lo que es el modelo Mandel-Fleming y lo podría corregir para ponerle una curva de oferta para que no dé ese modelo tan tonto de solo ajuste de cantidades.  Yo les traje las distintas variantes.  Por ejemplo, vamos a tomar el caso de tipo de cambio fijo.  Yo tengo tipo de cambio fijo en el Mandel-Fleming si aplico política monetaria expansiva.  Y eso lo que va a hacer es, en rigor, si el modelo de ajuste de cantidades, el desequilibrio en la tasa, lo que me va a hacer es que se me vayan los capitales, la contracarta es que pierdo reservas.  Por lo tanto, digamos, el desequilibrio... Una de las cosas que uno debería estar apreciando, entonces, si tiene algún problema de desequilibrio macro, es estar perdiendo reservas internacionales.  Si yo no me equivoco, el señor que está sentado ahí lleva comprado más de dieciséis mil millones.  Parece que por ahí no va.  Entonces, bueno, ahora vamos a suponer el caso de que ahora hacemos política monetaria activa, pero hay curva de oferta, digamos, vertical.  Entonces, no solo que baja la tasa de interés y eso me genera salida de capitales, sino que además me hace subir los precios.  y en esa suba de los precios además se me aprecia el tipo de cambio, se me deteriora la balanza comercial, con lo cual no solo que tengo pérdida de reservas, sino que además tengo deterioro de la balanza comercial y de la cuenta corriente y con los precios en tendencia alcista.  no está pasando porque estamos acumulando reservas y los precios vienen en sendero decreciente.  O sea, la tasa de inflación se viene cayendo y ninguna de estas cosas se manifiestan en pérdidas de reservas.  No solo eso, sino, Dios, vean la deshonestidad intelectual de los que quieren que... Vaya mal porque le pifiaron.  Pero bueno, acá parece que no es fácil reconocer que se equivocaron y es más fácil criticar hasta que se parezca a la cosa que predijeron.  Les pongo como ejemplo esos que hablaban, por ejemplo, de que la tasa de interés real tenía que ser positiva y la cantidad de cosas que le han dicho a Toto y a Santiago por eso.  Y que si le hubiéramos hecho caso, hoy la relación de pasivos remunerados sobre base monetaria estaría en ocho o nueve veces.  y hoy estaríamos hablando del carry trade, de la hiper y de todos los problemas y cómo tendríamos que estar arreglando esto, digamos, expropiando. ",
+            "cosine_dist": 0.26711033877320467,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 627273,
+            "end_time": 627633,
+            "text": "Así es. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 628.734,
+            "end_time": 662.141,
+            "text": "Vayan y busquen los reportes de esos que hablaban de las tasas de interés real positivas.  Entonces, ese escenario tampoco está ocurriendo.  Y lo que decía el dato de inflación de ayer.  Miren, nosotros... A diferencia de otros... Miren, lo voy a comparar con el plan de estabilización de la convertibilidad, que fue el más exitoso de la historia.  Para ver el tamaño, Dios, del problema. ",
+            "cosine_dist": 0.38653230551407103,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 662.161,
+            "end_time": 714.831,
+            "text": "Esperen que tenemos data.  Vamos mezclando data.  Tampoco es que estoy grabando un video.  No sé si esto subimos o no lo subimos.  Lucha contra el narcotráfico.  Lanzamiento del grupo de elite antinarco especializado en investigaciones para actuar en Rosario.  Creamos el Grupo Especial Antinarco de Rosario, con el objetivo de erradicar el crimen organizado relacionado con el narcotráfico.  Este grupo de élite está compuesto por dos representantes de cada una de las cinco fuerzas y trabajará a diario para garantizar el orden, la paz.  En Rosario, promoviendo el intercambio de información y capacidades entre agencias para agilizar investigaciones complejas.  Y además, enfocarnos en la formación continua de sus miembros.  Un paso más en nuestro compromiso de vivir mejor y más seguros. ",
+            "cosine_dist": 0.833200269521218,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 715.251,
+            "end_time": 825.999,
+            "text": "La convertibilidad llega después de dos hiperinflaciones.  No hace falta que les aclare que, digamos, tener dos hiperinflaciones allana bastante la cuestión monetaria porque destruye los activos monetarios.  Por lo tanto, digamos, la posibilidad de que caiga la demanda de dinero ya, digamos, o sea, de esos niveles se hace casi imposible.  Y lo cual no es menor a los efectos de estabilizar una economía.  Pero no solo eso.  Hubo una expropiación, hubo un plan Bónex.  Eso no es un tipo... Además, se ancló por la fuerza, fijando el tipo de cambio.  Y no solo eso, sino que además hubo una suerte de acuerdo de precios.  Entonces, nosotros enfrentábamos una crisis que tenía el desequilibrio monetario de la previa del Rodrigazo, un balance quebrado como el del Banco Central de Alfa... Y todo lo hicimos a mercado.  Acá no hubo expropiación.  Todo a mercado.  Yo no tengo la culpa que no entiendan cómo funciona el problema del ancla nominal, el cual lo explicaré después.  Entonces... Y la realidad es que nosotros estamos haciendo todo este proceso de estabilización, de desinflación, con corrección de precios relativos.  Entonces, ¿por qué hablo de deshonestidad intelectual?  Porque es cierto, digamos, la tasa de inflación ayer la conocimos, fue ocho, ocho.  Pero nosotros estamos recomponiendo precios relativos.  No es que, digamos, o sea, no los estamos haciendo.  Y cuando entonces ustedes miran la CORE, la CORE fue al seis, tres.  Cuando ustedes miran lo que está pasando con alimentos y bebidas, casi todos los indicadores están abajo del tres por ciento.  De hecho, digamos, la más común es, digamos, de hecho la de Fiel, digamos, dio uno siete. ",
+            "cosine_dist": 0.2805392155088674,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 826.019,
+            "end_time": 827.86,
+            "text": "Este es de hoy. ",
+            "cosine_dist": 1.030145947711676,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 827.88,
+            "end_time": 947.601,
+            "text": "Es decir, está ocurriendo.  Lo que pasa es que los que le pifiaron es más fácil decir que no hay plan de estabilización.  La pregunta es, si no hay plan de estabilización, ¿qué creen?  ¿Que baja de casualidad la inflación?  Digo... Es verdaderamente insultante, digamos, para alguien que piense dos minutos las cosas que están diciendo.  Como verán, hoy vine un poquito más sangriento que lo de costumbre.  Igual tengo más.  Aviso.  Después, otro mecanismo es utilizar la política fiscal activa.  Es decir, entonces, en ese contexto yo estaría generando déficit fiscal, estaría haciendo subir la tasa de interés, y eso haría que entren capitales, ¿sí?  Y eso me aumentaría las reservas.  Pero la realidad, digamos, que a nosotros la tasa de interés no la estamos subiendo.  Nosotros, de hecho, la tasa efectiva cuando llegamos era de doscientos cincuenta por ciento.  Hoy la tasa es del cuarenta.  Por lo tanto, tampoco está funcionando de ese lado.  Y si yo pongo el efecto de suba de precios que me causaría este movimiento fiscal, una de las cosas que yo tendría es que se me tendría que estar deteriorando fuertemente la balanza comercial, la cuenta corriente, y eso tendría que estar compensado, digamos, con lo que tiene que ver... con la cuenta capital, y por lo tanto las reservas casi no se estarían moviendo, pero la contraparte de esto es que tendría un deterioro de las cuentas públicas y una suba del riesgo país.  Y, les guste o no, esos que decían que era imposible ajustar más que un punto del déficit en un año, nosotros hicimos un ajuste en el En el tesoro de siete puntos del PBI.  Obvio, sí. ",
+            "cosine_dist": 0.27735306130789683,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 948.281,
+            "end_time": 1023.669,
+            "text": "Y va a seguir ajuntando como una bestia, porque no sé si están viendo, pero ayer allanaron, estos días estuvieron allanando a los del Polo Obrero y les encontraron guita, todo un descontrol bárbaro.  Así que, ¿sabés cómo van a empezar a cortar?  No solo eso, sino que comedores que tenían, más de la mitad de los comedores, o más o menos la mitad de los comedores, son comedores que son truchos, o sea, que están puestos en un lugar que en realidad no hay ningún comedor, son direcciones falsas, nunca funcionó, hay un lugar pero nunca funcionó un comedor, entonces todo eso sabe cómo van a cortar y cortar y cortar, van a cortar guita como loco.  Y se la van a dar directamente a la gente, amigo.  ¿Vos estás matado o qué?  A ver... ¿Quién sos?  Vos andá y cobra tranquilo.  No necesitas que Grabois te dé plata ni el Beliboni.  Hay un video de Beliboni diciendo que lo que hicieron ayer es anticonstitucional.  Rompe las leyes de tratados internacionales.  ¿Cómo nos van a hacer un allanamiento durante la noche?  Esto es completamente una locura.  Rompe todos los tratados internacionales. ",
+            "cosine_dist": 0.8252259529069532,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1024.761,
+            "end_time": 1030.204,
+            "text": "En medio de la crisis que agarramos, obvio, y sobre reaccionamos un poquito, sí, obvio. ",
+            "cosine_dist": 0.4248437438016818,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1030.244,
+            "end_time": 1050.421,
+            "text": "Sí, sí, te aviso, te aviso cuando te vamos a llenar, dale.  Te aviso unos días antes y guardás todo, poné la guita en otro lado.  Yo te aviso, te aviso cuando te lleno, te aviso.  Ah, y no te caigo de noche tampoco, te caigo de día cuando estés... Flaco, no estás pidiendo un... una caja de boxer en Mercado Libre, boludo. ",
+            "cosine_dist": 0.9208073849851023,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1050.501,
+            "end_time": 1141.502,
+            "text": "Eso hizo que alcanzáramos el equilibrio fiscal... en el primer mes de gestión.  Con lo cual, imagínense, digamos, o sea, ahora podemos empezar a relajar y devolver.  ¿Por qué?  Porque ya, digamos, sobre reaccionamos el equilibrio fiscal.  Pero habían dicho que hacer un ajuste de un punto era imposible.  Y nosotros ajustamos siete.  Y en el Banco Central, que nadie contestaba, digamos, sobre cómo se corregía, ya bajamos de los diez puntos del déficit, bajamos siete.  Y con la nueva baja de tasa vamos a ocho de reducción.  Por lo tanto, como verán, estamos haciendo un ajuste de quince puntos del PBI.  ¿Imposible?  Nada.  Lo estamos haciendo nosotros.  Por lo tanto, todas esas formas de endeudamiento, ahora no nos endeudamos.  ¿Por qué?  Porque tenemos equilibrio fiscal.  Tenemos equilibrio en la cuenta financiera.  Eso significa que la deuda no sube.  Si la deuda no sube, eso significa entonces que la relación deuda-producto no es creciente.  Consecuentemente, somos solventes.  Y eso, digamos, el mercado se dio cuenta.  El riesgo país de dos mil novecientos cayó a mil doscientos.  Los bonos que costaban dieciocho dólares cuando ganamos, ahora cuestan sesenta.  ¡Bravo!  ¡A mí un por tres! ",
+            "cosine_dist": 0.2953661917849051,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1141.542,
+            "end_time": 1148.984,
+            "text": "Más que el Bitcoin subieron los bonos. ",
+            "cosine_dist": 0.8901560369952661,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1150.924,
+            "end_time": 1236.17,
+            "text": "Ni que hablar que, digamos, si ustedes tienen un esquema de algún tipo de cambio fijo y quisieran hacer política monetaria activa y se le empiezan a subir los precios y se deterioran las condiciones externas, una de las consecuencias es que pongan controles de capitales.  Entonces tendrían que ver una brecha creciente.  O la brecha... ¿Dónde estabas?  Porque no te vemos.  ¿No?  Porque, digamos, la brecha cuando corrigen por impuesto país es cero.  Por lo tanto, tampoco se ve desde ese lado, digamos, el problema.  Obviamente que si ustedes, digamos, tuvieran tipo de cambio flexible, obviamente que Eso se corrigiría rápidamente sobre el tipo de cambio.  Si podrían poner un reparo en el caso de la política fiscal, porque básicamente ustedes estarían teniendo presión sobre los precios, se les deterioraría la balanza comercial y el día que se quedan sin financiamiento, ahí aparecería el problema.  Pero de vuelta siempre está, digamos, pivoteando lo que pasa con el riesgo país y si consiguen o no el financiamiento para hacerlo.  Pero ese podría ser un caso que, digamos, pero tampoco, no hay déficit fiscal, el riesgo país está cayendo, y no estamos perdiendo reservas, y estamos necesitando el financiamiento de nadie. ",
+            "cosine_dist": 0.2646125591181653,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1238.071,
+            "end_time": 1239.592,
+            "text": "Eso es verdad, diría Alberto, ¿o no? ",
+            "cosine_dist": 0.9514355642700968,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1240.212,
+            "end_time": 1493.444,
+            "text": "Entiendo, digamos, uno me podría decir, bueno, este modelo no es un modelo de lo más elegante, entonces voy a usar otro modelo, un poquito más divertido.  Lo más divertido que el modelo que es más divertido los va a dejar más en ridículo a los ridículos.  Esa es la parte más divertida de esto.  Porque es tan obvio lo que voy a contar, que la verdad que la próxima vez que les venga un economista y le diga que hay atraso cambiado, se le va a tener que caer la cara de vergüenza.  O por lo menos, si no escuchó esta charla, ustedes se le van a matar de la risa en la cara y sabe que le está robando la plata.  Una forma, digamos, de ver... El problema de si el tipo de cambio está trazado o no, es hacer un modelo con transables y no transables.  Entonces, el tipo de cambio real, si ustedes quieren, viene dado por el precio de los transables sobre el precio de los no transables.  Entonces, por ejemplo, si ustedes hacen política fiscal activa y como consumen... lo que van a hacer es que el precio de los bienes no transables, entonces el precio de los no transables va a estar subiendo y ustedes ahí lo que van a estar generando es una apreciación cambiaria.  Ese vendría a ser el caso.  La realidad es que entonces la apreciación cambiaria tendría como consecuencia el déficit fiscal.  Nosotros acabamos de escribir un ajuste que va a estar en torno a los quince puntos del PBI.  Por lo tanto, no hay más Estado en la economía, hay mucho menos.  Por lo tanto, en principio el modelo diría, che, no es por acá.  Pero ahora lo voy a hacer todavía más gracioso, más ridículo.  Voy a llevar bien al ridículo para que se den una idea de las ridiculeces que dicen... Otra familia de economistas, porque si no, no puedo llamar herederos de Adam y Mith, seguro que no.  Ahora voy a ser más fácil.  Supongamos que por algún motivo viene un torpedo y revienta la mitad del sector no transable de la economía.  Shock de oferta negativo sobre la oferta de los no transables de la economía.  La respuesta natural, ¿cuál sería?  el precio de los no transables, suban o no.  Según los cuadrados estos fanáticos de la devaluación, les diría que esto se corrige con una devaluación.  Esto es una estupidez del tamaño de una casa.  Acabo de reventar la productividad del sector no transable.  Si yo agarro y devalúo para corregir eso... Lo que no va a pasar nunca es que tenga la asignación de recursos que me están marcando los precios.  Los precios me están diciendo que los no transables se están subiendo y tengo que mandar recursos a ese sector.  Pero son tan fatalmente arrogantes que quieren tocar el tipo de cambio cuando no se dan cuenta que el problema no está en el tipo de cambio.  El problema no está en el tipo de cambio, está en el que sufrí un shock de productividad.  Se llama veinte años de populismo.  Y si ustedes quieren tomar lo mejor, se llama cien años de populismo.  Y querer corregirlo devaluando, lo único que hace es aumentar la cantidad de pobres indigentes y no resuelve el problema.  Porque con esa devaluación lo que yo estoy haciendo es abortar el proceso en el cual yo reasigno los recursos.  Es decir, cuando yo limpio todo el sistema, sí va a estar cara Argentina en dólares, pero no se corrige devaluando, se corrige vía reformas estructurales.  En el sector no transable, digamos, vendría a ser la regla.  Por lo tanto, es absolutamente ridículo. ",
+            "cosine_dist": 0.3108877062260178,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1493.464,
+            "end_time": 1496.986,
+            "text": "Le pone la presión a los... no se va a hacer cargo. ",
+            "cosine_dist": 0.9514683083356544,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1497.667,
+            "end_time": 1615.127,
+            "text": "Vamos a cada uno de los... A los diputados y a los senadores.  Entonces, un indicador de que yo tengo un problema que desde la política económica estoy generando atraso cambiario, tendría que estar viendo déficit fiscal y creciente.  Acá vamos a decir que metimos una junta de quince puntos del PBI.  Listo.  No hay lugar a discusión ahí.  La otra es, estoy llevando, digamos, una política monetaria activa.  Entonces, llevo una política monetaria activa, y estoy generando estos desequilibrios.  La realidad es que la cantidad de dinero, en términos reales, se está desplomando.  Si ustedes toman los sindicatos, esto lo vamos a discutir un poquito más adelante, sobre cómo es la salida de todo esto.  Por lo tanto, si yo veo cómo están cayendo los activos monetarios de la economía en términos reales, está claro que no estamos haciendo política monetaria expansiva.  Y de hecho, estamos haciendo un laburo enorme para frenar todos los grifos de emisión.  Digamos, hemos frenado el grifo fiscal.  De hecho, la política fiscal hoy es un mecanismo de contracción de dinero.  Parece una joda, pero esto es Argentina ahora bajo el gobierno de la libertad de avanza.  Pero no solo eso.  Si yo hago política monetaria activa y tengo CEPO, entonces tendría que tener brecha.  Yo les recuerdo, digo, que cuando nosotros llegamos, o sea, la brecha era del doscientos por ciento.  Digo, había una relación tres a uno.  Es decir, y hay caraduras liberticidas que durante toda su vida vivieron hablando de que había que ponerle arena en las ruedas.  Lo perdimos, muchachos. ",
+            "cosine_dist": 0.2996436913832601,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1615.647,
+            "end_time": 1618.85,
+            "text": "Lo pidió y se fue.  Por las dudas le pongo ahí. ",
+            "cosine_dist": 0.8352372740636318,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1618.91,
+            "end_time": 1681.554,
+            "text": "Y ahora vienen a hablar de el cipo, el cipo, el cipo, el cipo.  ¿Cómo?  Digo, o aquellos que uno le hace el planteo, Y dicen, no, pero es cepo, pero es cepo.  Y son los mismos que decían que una brecha del sesenta por ciento estaba bien y se podía convivir con eso.  Y hay cada cara dura dando vuelta que... Yo digo, no se deben leer las cosas que escribieron antes.  Hay algo muy divertido que anda dando vuelta en Twitter, que es cuando les hacen accountability y empiezan a mandar los informes que escribieron en diciembre, enero.  Es un plato.  Y es lo mismo que hablan del tipo de cambio atrasado, son los que dijeron que estábamos locos porque lo llevamos a un equivalente que... de ochocientos y la corrección por impuesto país y estaba cerca de Bill y que dijeron que era un disparate hacer eso, son los mismos que decían que estaba, había que ponerlo en seiscientos y tenían una hipótesis de inflación más alta que la que tenemos en la vida real.  y ahora hablan de atraso cambiario.  No, cierra el modelo.  No sé, o hacen matemática borrosa. ",
+            "cosine_dist": 0.31719554536802863,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1683.435,
+            "end_time": 1686.116,
+            "text": "¿Cómo se hace eso? ",
+            "cosine_dist": 0.9166819497934995,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1686.136,
+            "end_time": 1777.738,
+            "text": "El otro caso... Es el tema de las reservas internacionales, de vuelta.  Si tuviéramos un problema de atraso, tendríamos una sistemática caída de las reservas.  Y no paramos de comprar.  Y después el tema de los precios.  Donde claramente se ve el sendero decreciente de la inflación.  Esto es interesante porque... Nosotros cuando llegamos, la primera semana de diciembre los precios corrían al uno diario, que era el equivalente al tres mil setecientos por ciento anual.  En la segunda semana se aceleró a un poco más y eso anualizado daba siete mil quinientos.  Y si ustedes se fijan, puede ser que Mayorista sea publicado después que el IPC, pero en realidad es un indicador que se les adelanta al IPC.  Y dio cincuenta y cuatro por ciento, eso anualizado da diecisiete mil.  Y eso hubiera sido posible si hubiera habido que convalidación monetaria.  Pero la convalidación monetaria no se dio porque decidimos frenar la emisión, porque decidimos pararnos arriba del gasto público y meter el ajuste fiscal no más grande en la historia argentina, sino en la historia de la humanidad.  Es decir, cosas que lo reconocen en todo el mundo, menos acá.  Porque la calidad del ajuste no es óptima. ",
+            "cosine_dist": 0.27963906086084733,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1778.919,
+            "end_time": 1781.522,
+            "text": "Estoy alienta. ",
+            "cosine_dist": 0.9362465949865599,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1781.562,
+            "end_time": 1827.392,
+            "text": "Le voy a decir algo.  No, porque tiene mucho de licuadora y poco de... Y tiene un poco de tijerita.  Yo les digo, digamos, o sea, primero, digamos, hemos recortado la obra pública, la hicimos cero, recortamos las transferencias discrecionales, no paramos de cortar choreos, digamos, llevamos la estructura del Estado a la mitad.  No, pero es tijerita.  ¿Qué tijerita?  Estamos, digamos, recomponiendo tarifas.  Pero es tijerita.  Los que decían que encima no se podía ajustar más que un punto.  Y después les digo algo.  Cuando la licuadora se convierte en permanente, es motosierra también.  Es decir... A Toto lo voy a llamar chanchito de yeso.  Para sacarle un mango hay que romperlo todo, lo cual lo avalo. ",
+            "cosine_dist": 0.3099522363578665,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1827.772,
+            "end_time": 1830.574,
+            "text": "Pará, pará, pará.  Pará porque dice mucho hoy a. veces. ",
+            "cosine_dist": 0.8832992476982664,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1831.395,
+            "end_time": 1835.519,
+            "text": "Cuando la licuadora se convierte en permanente, es motosierra también. ",
+            "cosine_dist": 0.47550537886344535,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1836.099,
+            "end_time": 1851.839,
+            "text": "Cuando la licuadora... La licuadora era la que pagaba a la gente, ¿no?  Fue el término que se usó para hablar de cómo se le... Cómo pagaba a la gente... Cómo se convertía la gente en casta, digamos.  Hay que tener cuidado con el cuadro. ",
+            "cosine_dist": 0.8099720170613923,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1852.479,
+            "end_time": 1921.474,
+            "text": "A Toto lo voy a llamar chanchito de yeso.  Para sacarle un mango hay que romperlo todo.  Lo cual lo avalo.  Y es un irrompible.  Y les voy a decir algo más.  Si alguien lo quiere romper antes me va a tener que romper a mí.  Porque yo no voy a entregar el resultado fiscal.  Ah, bueno, salió a bancar.  ¿Bancó al Toto?  Entonces, de vuelta, gasto público decreciente, riesgo país decreciente, las tasas de interés en caída.  Por lo tanto, no le cierra el modelo.  O sea, no hay elemento de teoría económica que fundamente... El disparate del atraso cambiario.  El problema de Argentina no es un problema de atraso cambiario.  O sea, de vuelta, y esto es porque no saben.  La mayoría son tan chantas que no saben qué es el problema del ancla nominal.  Es así de brutal. ",
+            "cosine_dist": 0.3697093323981918,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1922.094,
+            "end_time": 1922.815,
+            "text": "Y me consta. ",
+            "cosine_dist": 0.7487600337567653,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1924.076,
+            "end_time": 2025.538,
+            "text": "Entonces, yo voy a explicar qué es el problema del ancla nominal.  Cuando ustedes quieren saber la demanda de dinero... El dinero existe porque básicamente hay dos problemas respecto a la economía de truco.  Una es la doble coincidencia.  Lo que yo quiero vender tiene que coincidir con que otro me lo quiera comprar y sea el mismo bien para que podamos hacer una transacción recíproca.  Es difícil.  En una sociedad chiquita puede ser, en una sociedad grande se hace difícil.  Y después está el problema de la indivisibilidad.  Entonces, los seres humanos no se pusieron a llorar cuando pasó eso.  Agarró y lo arreglaron.  En ese contexto apareció el dinero.  Ahora, el dinero, no importa, digamos, bajo qué forma, cuando el hombre era nómade era el ganado, cuando, digamos, se asentó y se hizo sedentario, como lo que más comía era pan, entonces el trigo se volvió moneda.  ¿Por qué?  Porque es un bien de intercambio indirecto.  Es decir, no es que lo demandaban porque querían el trigo, lo demandaban porque se debía para hacer otras transacciones.  Si ustedes entienden esto, entonces la demanda de dinero, en realidad, es una forma de financiar el sendero intertemporal de consumo.  Nadie está pensando en llevarse, digamos, el dinero al traje de madera.  Digo, del otro lado no compra nada.  Compra acá, entonces, ¿para qué me lo voy a llevar del otro lado?  Es un error de cálculo.  O sea, de hecho, la herencia es un error de cálculo. ",
+            "cosine_dist": 0.2670076906816099,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2025.698,
+            "end_time": 2026.879,
+            "text": "El traje de madera es un buen concepto. ",
+            "cosine_dist": 1.0018334735797505,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2026.979,
+            "end_time": 2038.917,
+            "text": "Pero, dicho eso, ahora, profe, ¿Cómo le va?  No te envidio.  El profe Esper que acaba de llegar del Congreso. ",
+            "cosine_dist": 0.6007857327191335,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2038.937,
+            "end_time": 2040.598,
+            "text": "Se reconciliaron. ",
+            "cosine_dist": 1.1032408340085746,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2041.098,
+            "end_time": 2192.594,
+            "text": "La tabla funciona.  En ese contexto, entonces la demanda de dinero es una forma de financiar el sendero intertemporal de consumo.  Pero el consumo depende de qué?  De los parámetros profundos, diría Robert Lucas Jr.  En paz descanse.  Es decir, en el fondo... de las preferencias, de las dotaciones y de la tecnología.  Y como esos parámetros están dados en condiciones normales de presión y temperatura, digamos, la demanda de dinero es una cuestión granítica.  Y eso tiene que ser igual a los saldos reales.  Es decir, la cantidad de dinero dividido el nivel de precios.  Entonces, ¿qué es el ancla nominal?  Que yo fijo la cantidad de dinero, ¿para qué?  Para que quede determinado el nivel de precios.  De ahí la naturaleza monetaria de la inflación, que si yo emito... los precios suben.  Y es eso el problema del ancla nominal, que la demanda de dinero está determinada por los individuos.  Y al estar determinada por los individuos, no la puede, digamos, o sea, el Banco Central.  lo único que puede hacer es daño, no puede, digamos, hacer bien.  ¿Por qué?  Porque básicamente, digamos, eso es un parámetro que está ahí.  Y si ustedes empiezan a joder con la tasa de inflación y generar inflación y todo eso, digo, la demanda de dinero se empieza a mover, obvio, claro.  pero básicamente ustedes fijan la cantidad de dinero para que para que les quede determinado el nivel de precio.  entonces cuando ustedes anclaron la cantidad de dinero van a anclar el nivel de precio a ver si se enteran nosotros con el resultado fiscal si lo que estamos haciendo es anclar qué cosa la cantidad de dinero.  ¿Y por qué todavía no abrimos el CEPO?  Porque tenemos mecanismos de emisión endógena, como ya sea los pases, como sea también los puts.  El día que terminemos con los pases remunerados, con la sucesiva baja de tasa, lo estamos eliminando.  Una vez que también terminemos con el problema de los puts, una de las cosas que va a pasar es que la cantidad de dinero va a quedar fija y ahí se van a encontrar con el ancla nominal.  Es decir, no es siempre el tipo de cambio.  No se puede ser tan cuadrado que creer que hay una sola forma de anclar la economía.  Es claro que si yo fijo el tipo de cambio, dado los precios internacionales, me quedan determinados los precios locales y dada la demanda de dinero, endógenamente se determina la cantidad de dinero.  Pero no es la única forma de anclar.  ¿Cómo digo que voy a estar anclando el tipo de cambios si me dejaron doce mil millones de dólares de reservas negativas? ",
+            "cosine_dist": 0.32315472568109105,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2193.274,
+            "end_time": 2194.836,
+            "text": "Reservas negativas, qué buenas reservas. ",
+            "cosine_dist": 1.033675456285091,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2194.896,
+            "end_time": 2199.36,
+            "text": "Todo esto lo que hace es desmitificar que hay atraso cambiado. ",
+            "cosine_dist": 0.5193967719931369,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2199.48,
+            "end_time": 2202.842,
+            "text": "Le debíamos plata a las reservas propias. ",
+            "cosine_dist": 0.9108524524338332,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2202.862,
+            "end_time": 2246.314,
+            "text": "Es decir, lo que tengo son otros problemas.  Tengo un problema de infraestructura.  Por ejemplo, tengo un problema de infraestructura soft.  Es decir, tengo un problema de base contractual.  Tengo un problema de infraestructura hard, o sea, tengo un problema de cierros.  Y estamos trabajando con el DNU, con la ley de bases, estamos trabajando en lo que tiene que ver con la infraestructura soft.  Estamos buscando mecanismos de iniciativa privada para corregir la infraestructura hard.  Obviamente que tenemos cuestiones en la cuestión comercial. ",
+            "cosine_dist": 0.39719552863619856,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2248.175,
+            "end_time": 2302.953,
+            "text": "Lo divertido es que esa gente que dejó el país así, con literalmente ni un solo mango, se quejan de todo y cuando los escuchás hablar en el Senado o cuando los escuchás hablar en una entrevista, ellos cagan con el culo altísimo.  No, no, ¿cómo puede ser que hicieron esto?  ¿Qué están haciendo?  Es todo un desastre.  Está todo mal, pero ellos hicieron, parece que hicieron absolutamente todo bien.  Es increíble, hablan desde un nivel de altura, una arrogancia tremenda, boludo.  Tremenda.  Gente, a los de Kik, estamos en playback.  Yo les recomiendo que vayan siguiendo playback porque estoy haciendo mucho stream en playback.  Y a veces no estoy streamando en Kik, estoy solamente en playback.  Y el chat está buenísimo.  Les va a encantar.  Así que vénganse para el playback que estamos ahí.  Estamos en vivo.  Estamos en vivo. ",
+            "cosine_dist": 0.842629122015905,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2302.993,
+            "end_time": 2343.205,
+            "text": "De a poco vamos liberando las restricciones.  De a poco vamos abriendo.  Si no es que no lo estamos haciendo.  Una de las cosas que más nos ponderó el FMI es cómo todos los días levantamos restricciones.  Lo va a hacer Concha.  En el mercado de cambio.  Todos los días levantamos.  Ahora digo, no la vamos a hacer todas juntas.  Y ahora digo, voy a explicar también por.  qué.  Pero, digamos, hoy tenemos mucha menos restricción.  ¿Saben?  Cuando nosotros llegamos de las importaciones, se pagaba solamente el quince por ciento.  Hoy se paga el setenta.  Pequeña diferencia, no se la dicen, ¿no?  El cepo, el cepo, el cepo, el cepo. ",
+            "cosine_dist": 0.3138010867198292,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2343.305,
+            "end_time": 2349.607,
+            "text": "Pero el cepo lo pusiste igual, Milenio.  Tampoco tenés que hacer cargo del cepo. ",
+            "cosine_dist": 1.0023843224065765,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2349.667,
+            "end_time": 2459.379,
+            "text": "Nosotros, terminando con el problema, te los pases.  Cosa que está encaminada.  arreglando el problema de los puts, algo que el FMI le permitió un mecanismo de financiamiento indirecto al gobierno anterior y que hizo la vista gorda y miró para otro lado y nos dejaron el pufo a nosotros, que es un mecanismo, digamos, es un put americano.  O sea, cuando se le da la gana a los bancos me lo pueden ejecutar.  Con lo cual, digamos, se me transforma en emisión monetaria.  Con lo cual, necesito corregir eso también.  Y no solo eso, digamos, tenemos el problema de la deuda de... Donde el otro día ya quitamos, logramos limpiar mil setecientos millones de dólares más.  Es decir, lo que estamos haciendo, si ustedes fueran un administrador financiero, lo que estamos haciendo es calzar el flujo de fondos de divisas.  ¿Por qué?  Porque me generaron un problema de stocks en el gobierno anterior, que si ese problema de stock yo libero instantáneo y se me transforma en flujo, me hace saltar transitoriamente el tipo de cambio.  Pero si me hace saltar transitoriamente el tipo de cambio y se me cae la demanda de dinero, me puedo ir a una hiper.  ¿Cuán cerca estamos de abrir?  La verdad es que estamos muy cerca de abrir.  ¿Por qué?  Básicamente, ¿por qué?  Por un lado, cuando miramos la base monetaria históricamente, lo que va del siglo XXI, tendría que estar en torno al nueve por ciento del PBI.  La base pura es dos coma cinco, con lo cual hay un montón.  Cuando tomamos los remunerados nos vamos a ocho o cinco, o sea, con lo cual estamos en zona de poder abrir. ",
+            "cosine_dist": 0.31488656983645114,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2460.336,
+            "end_time": 2461.936,
+            "text": "Entonces, ",
+            "cosine_dist": 0.7823246418709155,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2461.956,
+            "end_time": 2482.281,
+            "text": "si nosotros resolvemos el problema de los pasivos remunerados, cosa que estamos haciendo bajando la tasa de interés, si nosotros resolvemos el problema de los puts, algo en lo que estamos trabajando activamente, el señor Río se está pelando bastante con ese tema, y por otra ",
+            "cosine_dist": 0.36670580035898703,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2482361,
+            "end_time": 2482701,
+            "text": "parte, ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2484.021,
+            "end_time": 2558.841,
+            "text": "estamos arreglando el problema de los dividendos, Si ustedes se fijan, estamos calzando los flujos de fondos de divisas y cuando terminamos de hacer eso, vamos a abrir el cepo.  Es decir, está, digamos, en nuestros planes abrirlo lo más rápido posible.  Pero ¿saben por qué tardamos?  porque lo hacemos a mercado, porque se determina por la voluntad de los individuos.  O sea, no lo hacemos de prepo, no lo hacemos por la fuerza.  Es decir, eso es una característica distintiva de este gobierno, que respeta a rajatabla los derechos de propiedad.  Pero no solamente eso, no es el único problema que tenemos.  También tenemos otro problema que es el tema de los impuestos.  Entonces ustedes tienen impuestos nacionales, impuestos provinciales y impuestos municipales.  Nosotros en el Pacto de Mayo lo que estamos proponiendo es que el sector público vaya a veinticinco puntos del PBI.  Y nosotros tenemos la intención de bajar los impuestos.  Y le voy a mostrar dónde se demuestra que nosotros queremos bajar los impuestos. ",
+            "cosine_dist": 0.3115574592888942,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2560.427,
+            "end_time": 2562.288,
+            "text": "Y acá, cuando empieza a ser eso, la gente lo va mal. ",
+            "cosine_dist": 0.8986612831969537,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2562.308,
+            "end_time": 2579.375,
+            "text": "Primero, si lo miro a la Rothbard o a la Friedman, cuando miro el tamaño del sector público, esa es la verdadera carga fiscal.  Y con todo lo que hicimos de bajarlo, digamos, evidentemente, devolverle quince puntos al sector privado, si en la transición cambiamos algún tipo de impuesto, es un tema de segundo orden. ",
+            "cosine_dist": 0.28795522661460227,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2580.015,
+            "end_time": 2588.139,
+            "text": "Los invito a que se vengan a Playback y vean el tiempo real, el delay que hay entre Playback y Kik.  Van a ver. ",
+            "cosine_dist": 0.8213703036779618,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2589.09,
+            "end_time": 2688.198,
+            "text": "En el neto bajaron un montón.  Pero dicho esto, vamos por los impuestos explícitos.  ¿Cómo sería la dinámica?  La dinámica sería primero eliminar el impuesto país, después las retenciones y después el impuesto a los débitos y créditos bancarios, por.  ejemplo.  ¿Dónde ustedes pueden ver dónde está nuestra voluntad de querer bajar los impuestos?  que no es las retenciones, la dinámica sería primero eliminar el impuesto país, después las retenciones y después el impuesto a los débitos y créditos bancarios, por.  ejemplo.  ¿Dónde ustedes pueden ver dónde está nuestra voluntad de querer bajar los impuestos?  Que nunca los quisimos coparticipar.  porque si los coparticipamos no los bajamos nunca más.  Entonces la mejor muestra de que los queremos bajar es que no los coparticipamos.  ¡Apoya, loco!  ¡Va a bajar los impuestos!  No somos nosotros solos.  Nosotros tenemos la voluntad de bajar los impuestos.  En la medida que la economía empiece a rebotar y empiece a crecer, los vamos a ir bajando.  No tengan dudas.  Pero no somos solos nosotros.  Estamos en un país federal.  Y eso también lo tienen que incorporar.  Es decir, no me pueden pedir a mí que yo haga lo que tiene que hacer un municipio.  Ni menos tampoco una provincia.  Entonces, a veces... Digo, piden cosas que no están dentro de la función. ",
+            "cosine_dist": 0.33458868612291737,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2688.738,
+            "end_time": 2728.31,
+            "text": "Bueno, acá en Avellaneda pararon toda la obra y pusieron, está parada porque el gobierno nacional paró las obras.  ¿Por qué no hacen algo con la que recaudan?  ¿Por qué no continúan un poquito con la que recaudan ustedes?  Pero si recauda, el municipio recauda y la provincia recauda.  ¿Por qué no hacen obra ustedes, si tienen ganas de hacer obra, háganla?  Ah, cuando la hacen acción, van los muchachos, los municipales, y dicen, ay, Avellaneda, estamos haciendo nosotros, no, Quilmes, claro, esta obra es de Quilmes.  Cuando cortaron, ya no hacen una obra más.  Increíble. ",
+            "cosine_dist": 0.9137409624371207,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2732.432,
+            "end_time": 2734.334,
+            "text": "Entonces... ",
+            "cosine_dist": 0.8126309647336215,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2734.374,
+            "end_time": 2736.875,
+            "text": "Entonces, decidilo.  Decidilo. ",
+            "cosine_dist": 1.0343690458589567,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2737.055,
+            "end_time": 2812.983,
+            "text": "La realidad es que una vez que nosotros hagamos todo esto, si ustedes se fijan... Lo que va a ocurrir es que si terminamos de limpiar el tema de los pasivos remunerados, si terminamos con los puts y además terminamos de limpiar los dividendos, lo que va a pasar... es que a partir de ahí nosotros frenamos todos los grifos de emisión monetaria.  Es decir, no se emite por fisco, porque tenemos superávit fiscal, no se emite por sector financiero, porque no tenemos estos mecanismos de emisión endógena, y no se va a emitir por sector externo, es decir, vamos a ir a un tipo de cambio flexible.  Esto no es menor, porque el ancla en pesos, ¿cuál va a ser?  va a ser justamente la cantidad de dinero, la cual no se va a mover.  Es más, nosotros vamos a mandar una ley de emisión cero, para que cuando se emita dinero, vaya preso el presidente del Banco Central, el directorio del Banco Central, el ministro de Economía, el presidente de la Nación, el presidente de la Nación, ",
+            "cosine_dist": 0.30900983037999374,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2813.563,
+            "end_time": 2814.444,
+            "text": "y todos los diputados ",
+            "cosine_dist": 1.0244241058106085,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2814.464,
+            "end_time": 2816.184,
+            "text": "y senadores que aprueben una porquería de esas ",
+            "cosine_dist": 0.5713549687200105,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2816.225,
+            "end_time": 2817.265,
+            "text": "características.  Tremendo. ",
+            "cosine_dist": 0.8676455981630148,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2819.426,
+            "end_time": 2836.572,
+            "text": "Es un edito.  Y al mismo tiempo vamos a lanzar una competencia de moneda.  Entonces, cuando la economía se empiece a expandir, ahora van a llorar más los del atraso cambiario.  Ahora se van a poner a llorar, van a tener que sentir vergüenza. ",
+            "cosine_dist": 0.37206822116893223,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2836.592,
+            "end_time": 2839.815,
+            "text": "No tiene nadie vergüenza. ",
+            "cosine_dist": 0.9842627816116571,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2839.855,
+            "end_time": 2909.43,
+            "text": "Lo otro que vamos a hacer es que vamos a alargar la competencia de monedas.  Por lo tanto, en la medida que la economía se expanda, es decir, y el sendero de consumo se haga más grande, digamos, en monto de consumo, asumiendo el mismo tiempo, porque ya dijimos, no sabemos el tiempo, por eso dijimos que la evidencia es un problema de cálculo.  Entonces, eso lo que va a hacer es incrementar la demanda de dinero.  Pero nosotros no estamos poniendo pesos en la economía.  Entonces, ¿cuál es la consecuencia?  Que la economía se va a empezar a monetizar endógenamente por los propios individuos poniendo, si ustedes quieren, más dólares adentro de la economía o la moneda que a ustedes se les dé la gana.  Por lo tanto, digamos, vamos a ir a un régimen donde... El peso va a quedar fijo y ustedes van a elegir la moneda que ustedes quieran.  Todas las monedas van a competir contra el peso.  ¿Le gusta el tipo de cambio de la canasta de moneda?  Bueno, en lugar que lo determine un burócrata, los ponderados, los va a determinar ustedes mismos con sus decisiones.  Es decir, se acabó el problema de la apreciación cambiaria. ",
+            "cosine_dist": 0.32097065872787134,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2910.891,
+            "end_time": 2912.332,
+            "text": "Van a poder hacer lo que se les encanta. ",
+            "cosine_dist": 0.9171221107455472,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2912.352,
+            "end_time": 2922.101,
+            "text": "Eso sí, el peso va a estar como una roca porque no se mueve.  Pero ustedes van a poder elegir en qué moneda van a hacer las transacciones. ",
+            "cosine_dist": 0.3913057924907516,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2922.121,
+            "end_time": 3168.243,
+            "text": "Mi gran pregunta es, voy con una línea de pensamiento.  Campaña.  Durante la campaña se hablaba de dolarización y de competencia de monedas.  Siempre se terminaba hablando de competencia de monedas.  Perfecto.  En este caso, la competencia de monedas Está interesante porque a vos no te obligan a estar en dólar y que el dólar haga Biden.  o viene Trump o viene Obama y hacen poronga el dólar y a vos te cagan tus ahorros que tenías en dólares porque por una política monetaria externa a la Argentina te terminan rompiendo el orto.  Entonces vos podés ahorrar literalmente en lo que se te canta el orto.  Me parece bien.  Ahorran lo que se te canta al orto.  Sos libre, ahorran lo que se te canta al culo.  Competencia de moneda es que el peso está vigente y el peso también va a tener una política monetaria más sólida que otras monedas.  Que es lo que está tratando de hacer ahora Javier, ¿no?  No emitir, emitir sólo lo que tiene que emitir, pero no emitir de más para financiar cosas que no hay y de esa manera licuar, porque ya la licuadora estaba prendida.  La licuadora estaba prendida.  Si hay algo más licuadora que es la inflación, no sé si hay algo más licuadora.  Que literalmente eso lo pagan todos los argentinos.  La inflación te termina comiendo billetera a todos los argentinos, del más rico al más pobre.  Todos terminan con menos a final de cuentas.  Bueno, perdón.  Seguimos.  Esto es en campaña, ¿sí?  En campaña también se habló de hacer poronga el peso.  ¿Por qué?  Porque justamente el político argentino promedio.  Después viene Massa, o viene cualquier otro, o viene Saracho, y decide darle nuevamente a la maquinita como loco a pedir billetes en China, a pedir billetes en Francia, a pedir billetes en todos lados, que los traigan, porque las impresoras acá no dan abasto a las imprentas, entonces necesito que hagan más billetes.  O Axel Kicillof, sí.  Entonces, mi gran pregunta es, si hoy en día no está pudiendo aprobar casi que ninguna ley, está gobernando con decretos, con DNU's, al menos estos primeros cinco o seis meses, está gobernando de esa manera.  Ya mandó una vez la ley bases y rebotó.  Ahora está avanzando, pero están senadores y puede rebotar nuevamente.  No tengo ni idea si tienen los números, no tienen, si están pactando, si están tratando de hablar y conseguir los votos.  Bueno, eso ya lo veremos.  Veremos si se la aprueban o no se la aprueban.  En el caso de que no se la aprobaran, si vos estabilizás el peso y hablás de esta competencia de monedas y dejás el peso vigente, ¿No sufrís el riesgo de que te pase de que no te aprueben la ley anti-emisión y después venga Kicillof o venga cualquiera, si es que ganan, y hagan lo que se le canta al orto y vuelve a pasar lo mismo de siempre?  Entonces, esa es la, me parece la clave.  ¿Cuál es la decisión que quieren tomar?  Porque si dolariza, dolariza y a la mierda.  Y quedás garchado con Estados Unidos, quedás completamente enganchado.  Tener una soberanía monetaria tiene sentido.  Ahora, cuando es mal utilizada, la verdad que es una verga.  Porque ya sabemos lo que pasa cuando es mal utilizada.  Por ejemplo, Venezuela, Argentina y muchos otros países que abusan de eso.  emiten de más, no emiten contra algo, no tienen un ancla que pueden emitir contra algo y se terminan garchando.  Entonces ahí está el tema, me parece, que es realmente competencia de monedas, pero con la ley, si no la aprueba la ley esa, ¿qué onda?  Depende de que ganen las legislativas.  para poder empezar a sacar sus leyes y poder hacer que esto sea más serio en.  general.  Es realmente una encrucijada el tema de la moneda y qué decisión tiene que tomar, me parece.  Es bastante complicado y complejo. ",
+            "cosine_dist": 0.832899199822092,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3171.249,
+            "end_time": 3223.699,
+            "text": "Y que en la medida que la... Bueno, en lugar que lo determine un burócrata, los ponderados, los va a determinar ustedes mismos con sus decisiones.  Es decir, se acabó el problema de la apreciación cambiaria.  Eso sí, el peso va a estar como una roca, porque no se mueve.  Pero ustedes van a poder elegir en qué moneda van a ser las transacciones.  Y que en la medida que la economía se expanda, la cantidad de pesos relativamente va a ser más chica.  Y cuando ustedes se den cuenta, va a ser tan chica la cantidad de pesos, digamos que puedo dolarizar la economía o cualquier esquema monetario de eso y eliminar el Banco Central, y se terminó la posibilidad de que cualquier político ladrón de este país los vuelva a robar con el impuesto de los aislantes. ",
+            "cosine_dist": 0.3041851090531734,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3224.394,
+            "end_time": 3229.657,
+            "text": "Y cuando ustedes se den cuenta, va a ser tan chica la cantidad de pesos... ",
+            "cosine_dist": 0.8148340455858245,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3237.233,
+            "end_time": 3292.043,
+            "text": "Digamos que puedo dolarizar la economía o cualquier esquema monetario de eso y eliminar el banco central.  Y se terminó la posibilidad de que cualquier político ladrón de este país los vuelva a robar.  La economía se expanda, la cantidad de pesos relativamente va a ser más chica.  Y cuando ustedes se den cuenta, ustedes van a poder elegir en qué moneda van a ser las transacciones.  Y que en la medida que la economía se expanda, la cantidad de pesos relativamente va a ser más chica.  Y cuando ustedes se den cuenta, va a ser tan chica la cantidad de pesos... digamos que puedo dolarizar la economía o cualquier esquema monetario de eso y eliminar el Banco Central.  Y se terminó la posibilidad de que cualquier político ladrón de este país los vuelva a robar con el impuesto de OSAE. ",
+            "cosine_dist": 0.3155839428406956,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3292.083,
+            "end_time": 3299.446,
+            "text": "El tipo lo quiere hacer por ahora.  Por ahora va a estar, pero el tipo lo quiere hacer absolutamente por. ",
+            "cosine_dist": 1.0309457929779746,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3299.466,
+            "end_time": 3329.497,
+            "text": "ahora.  Por lo tanto, no es que no hay un programa económico.  Si son miopes, no es mi culpa.  Si son ignorantes, no es mi culpa.  Porque de vuelta... Esos que dicen, no, tiene que tener una matriz productiva, proyectada.  No soy León Díez, no soy comunista, soy liberal.  Creo que los artífices del futuro son ustedes.  Por lo tanto, no le pidan peras al olmo.  No voy a ser un intervencionista, voy a ser un liberal libertario y creo que ustedes son los creadores de riqueza.  Muchísimas gracias. ",
+            "cosine_dist": 0.4230825533717776,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3329.817,
+            "end_time": 3346.686,
+            "text": "Muchas gracias, muchachos.  Muchas gracias, muchachos.  Fin punto, dicen por ahí.  Fin punto, loco.  Mame en cucas nada más.  El respeto hacia la nada misma no existe. ",
+            "cosine_dist": 0.9530546881866615,
+            "is_target_speaker": false
+        }
+    ]
+}

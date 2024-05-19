@@ -1,0 +1,775 @@
+{
+    "Index": 554,
+    "channel_id": "UCeSvGgpiCLSGpfcmA_KuXPA",
+    "channel": "jmortiz77",
+    "uploader_url": "https://www.youtube.com/@jmortiz7738",
+    "id": "NL9RNuIKyOc",
+    "url": "https://www.youtube.com/watch?v=NL9RNuIKyOc",
+    "title": "Javier Milei en \"Animales sueltos\", de Alejandro Fantino - 14/03/18",
+    "duration": 1240.0,
+    "view_count": 146184,
+    "candidate_name": "milei",
+    "quality": "low",
+    "segments": [
+        {
+            "speaker": "Speaker 1",
+            "start_time": 4.059,
+            "end_time": 10.433,
+            "text": "A vos te voy a dar un abrazo, porque yo te admiro.  Pero acá adelante, acá, animal. ",
+            "cosine_dist": 0.8236713755232181,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 10.993,
+            "end_time": 11.614,
+            "text": "¡Oh, animal! ",
+            "cosine_dist": 1.0628862870488092,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 14.176,
+            "end_time": 71.938,
+            "text": "¡Javi, querido!  ¿Cómo andás, Javi?  Qué lindo verte, hermano.  Tomá asiento, por favor.  Vamos a charlar un rato.  Te aman.  Los millennials te aman.  Te lo tengo que decir acá.  Tengo mi hijo, Nahuel, te ama.  Te ama, te ama.  ¿No tenés eso ahí?  No, mirá.  Perdón, ¿lo puedo tomar en la uno?  ¿Lo tomo acá en la uno?  Javier Milei, hasta la libertad siempre.  Bueno, empecemos a definir un poco y después vamos a hablar de economía.  Quiero hablar de economía.  Te felicito, empecé a leer tu libro.  Aquí está el tour de la libertad.  Este libro lo está presentando Javier por todos lados, desenmascarando la mentira keynesiana, la teoría general de la ocupación, el interés y el dinero.  Bueno... Pero vamos a hablar en un ratito de eso.  Quiero hablar de economía.  Quiero, primero, charlar sin que te alteres.  Y que vos sos un... No hay persona que no me hable de lo que sabés de economía.  Que sos un gran... ",
+            "cosine_dist": 0.851019010427713,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 72678,
+            "end_time": 73238,
+            "text": "Muchos amigos. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 73.498,
+            "end_time": 85.322,
+            "text": "No, no, no.  Gente de todos los palos y gente muy respetada.  Pero, ¿qué es ser libertario?  Explicame rápidamente en dos palabras.  ¿Por qué te definís como libertario? ",
+            "cosine_dist": 0.8724868888518387,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 85.342,
+            "end_time": 90.024,
+            "text": "A ver, te lo defino por defecto.  A ver.  ¿Qué sería alguien de derecha? ",
+            "cosine_dist": 0.5073486223685624,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 90.844,
+            "end_time": 91.805,
+            "text": "¿Quién sería alguien de derecha? ",
+            "cosine_dist": 0.9611802452372539,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 91.865,
+            "end_time": 100.971,
+            "text": "Claro, alguien que no le molesta con quien vos comercializás, es un liberal en lo económico, pero le molesta con quien te metés en la cama.  Es un conservador en lo cultural. ",
+            "cosine_dist": 0.40498450116730134,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 101.511,
+            "end_time": 103.773,
+            "text": "Repetime eso. ",
+            "cosine_dist": 0.956915769392419,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 104.053,
+            "end_time": 113.342,
+            "text": "Un tipo de derecha es alguien que es un liberal en lo económico, No le importa con quién vas a comercializar, pero sí le molesta con quién te metés en la cama.  Es un conservador en lo cultural. ",
+            "cosine_dist": 0.3238805925306588,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 113.583,
+            "end_time": 116.987,
+            "text": "Ok, que no le moleste.  Exacto.  Dale, perfecto. ",
+            "cosine_dist": 0.8843289747224989,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 117.107,
+            "end_time": 138.588,
+            "text": "Por otro lado, ¿qué tenés?  Alguien de izquierda, ¿qué es?  Alguien que es un liberal en lo cultural.  No le importa con quién o quiénes te metés en la cama.  pero es un intervencionista en lo económico, o sea, no te deja comercializar con quien vos quieras.  Que es un libertario, es alguien que cree en el respeto irrestricto del proyecto de vida del prójimo, con lo cual vos sos lo suficientemente grande como para meterte en la cama con quien quieras, con todos los que quieras, con todo lo que quieras. ",
+            "cosine_dist": 0.32498673853150095,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 138.648,
+            "end_time": 139.608,
+            "text": "Así piensa un libertario. ",
+            "cosine_dist": 1.0508001842884045,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 139.829,
+            "end_time": 144.512,
+            "text": "Exacto.  Y, obviamente, podés hacer comercialización con quien quieras. ",
+            "cosine_dist": 0.40731938107033283,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 144.532,
+            "end_time": 145.373,
+            "text": "Vos sos libertario. ",
+            "cosine_dist": 0.9346945888310433,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 145753,
+            "end_time": 146314,
+            "text": "Exactamente. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 146.354,
+            "end_time": 208.267,
+            "text": "Bueno, pero a ver, Javi, te pregunto esto porque, como sabía que íbamos a charlar... me puse a tratar de entender un uno por ciento del pensamiento económico de Keynes, de Hayek, de Friedman y distintas corrientes desde la escuela austríaca hasta el keynesianismo.  Por lo que entendí, lo poco que entendí, es que si al capitalismo.  lo dejo ser y no lo regulo, me arrasa, me pasa por encima.  Si yo dejo que la mano invisible termine acomodando todo, la famosa mano invisible de Adam Smith, que el capitalismo se acomode solo por la oferta y demanda, el capitalismo es un monstruo devorador, es un Godzilla y me pasa por encima.  Por eso tuvo que aparecer Keynes y tuvo que decir, señores, si no interviene el Estado, estos muchachos se llevan puesto el planeta, cosa que están haciendo.  Sin que te alteres, derrúmbame esa posibilidad. ",
+            "cosine_dist": 0.8471262375797,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 208.367,
+            "end_time": 238.171,
+            "text": "Bueno, en primer lugar es falso.  Es decir, muchos le atribuyen a John M. Keynes, y yo sé que se llama Maynard, pero la M hago referencia a otra cosa, si es más escatológico.  básicamente dicen que vino y salvó el capitalismo, lo cual es falso.  La crisis, la gran depresión fue entre el veintinueve y el treinta y tres.  El libro se publicó en mil novecientos treinta y seis, con lo cual digo, dudo que haya viajado en el tiempo el libro y haya inspirado a la gente. ",
+            "cosine_dist": 0.3708750552810207,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 238.551,
+            "end_time": 239.491,
+            "text": "Pero perdón. ",
+            "cosine_dist": 0.8448716410611801,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 239.531,
+            "end_time": 241.172,
+            "text": "Primer gran mentira respecto a Keynes. ",
+            "cosine_dist": 0.8304079728189376,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 241.512,
+            "end_time": 252.577,
+            "text": "Roosevelt no aplica la teoría de Keynes en el levantamiento de la economía norteamericana, estaba en el fondo del mar.  El New Deal no lo aplica a partir de lo que había escrito Keynes. ",
+            "cosine_dist": 0.8725512134938374,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 252.597,
+            "end_time": 255.218,
+            "text": "Pero no estaba publicada la teoría general. ",
+            "cosine_dist": 0.6128532956987629,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 256.027,
+            "end_time": 258.468,
+            "text": "Pero sí el método que luego iba a ser hecho libro. ",
+            "cosine_dist": 0.8645506804070917,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 258.507,
+            "end_time": 372.512,
+            "text": "Pero, a ver, digamos, no estaba la teoría general.  Lo que sí había era algún conjunto de ideas alocadas de Keynes.  A ver, lo primero que hay que entender es que Keynes no era economista.  No sabía de economía.  Y además había tomado un solo curso de economía con Marshall.  Y como consecuencia de ello... incorpora muchos defectos de la teoría del equilibrio parcial en el equilibrio general y esos son errores aberrantes.  Entonces, el primer punto es que Keynes la verdad que en economía estaba bastante flojito.  Y además lo otro es lo siguiente, vos sabés que en ese momento el saber se escribía en alemán, que es toda la escuela austríaca, o en francés.  Y esto es muy interesante porque hay un autor que los austríacos amamos, que se llama Ludwig von Mises, que es el que destruye al socialismo.  Hay un libro que se llama El socialismo.  Yo te regalé Camino de Servidumbre, que vendría a ser como la continuidad que hace Hayek, un discípulo de Mises.  Y destruye la hipótesis del socialismo.  Y, digamos, Keynes era un socialista porque, de hecho, estaba con los Fabianos, estaba con, digamos, el círculo Plumbo Berry.  O sea, con lo cual, él era una persona de izquierda y estaba al tanto de la paliza que Mises le había pegado.  Entonces, él recibe... la propuesta de traducir un libro de Mises que se llama La teoría del dinero y el crédito, que es un libro formidable donde Mises desarrolla la teoría del boom-bam-boost, que es el que termina prediciendo la gran depresión, hace una contribución teórica muy importante que destruye un problema que se llamaba la dicotomía inválida, que es un problema de índole monetario, Y en ese contexto le traen a Keynes para que traduzca el libro. ",
+            "cosine_dist": 0.25836231159110634,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 372.532,
+            "end_time": 378.915,
+            "text": "¿No está diciendo que choreó parte de la teoría general de la ocupación del dinero?  No, no, no.  ¿La idea la choreó de otro lado? ",
+            "cosine_dist": 0.9577403620492948,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 378.975,
+            "end_time": 406.42,
+            "text": "No, ahora voy a decir otras cosas de este libro nefasto.  A ver, el tema es el siguiente.  Cuando le traen el libro de Mises... dice que ese libro no tenía ninguna contribución valiosa y que no se entendía nada.  Y claramente no se entendía nada, porque él no leía alemán.  ¿Me comprendés?  O sea, rebotó un libro... sin ni siquiera manejar el idioma en el que estaba escrito. ",
+            "cosine_dist": 0.28821856202124363,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 406.5,
+            "end_time": 430.873,
+            "text": "Bueno, pero para volver un poquito a la Argentina, para entrar en general a entender un poco esto, se supone, porque hoy hablaba con un economista que está en las antípodas de tu pensamiento y me decía, no le digas a Javier que soy yo.  Dice, pero te lo tengo que decir, al menos pregúntaselo.  La realidad es que le da la sensación que finalmente la historia le dio la razón a Keynes.  Es falso.  Que entre Keynes y Hayek ganó Keynes. ",
+            "cosine_dist": 0.8870527802746796,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 430.914,
+            "end_time": 433.644,
+            "text": "Es falso.  Es falso. ",
+            "cosine_dist": 0.7815496046360464,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 434.244,
+            "end_time": 446.186,
+            "text": "A ver.  O sea, que los estados que no intervienen y que dejan totalmente liberada la economía al mercado, finalmente explota.  El ejemplo de Argentina en el año dos mil uno. ",
+            "cosine_dist": 0.8616372813204731,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 446366,
+            "end_time": 446807,
+            "text": "Es falso. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 446.907,
+            "end_time": 454.148,
+            "text": "El Lehman Brothers.  Es falso.  O sea, terminan explotando esa burbuja.  Bueno, la propia burbuja de la caída de la gran depresión del veintinueve.  Es falso. ",
+            "cosine_dist": 0.8840073667064517,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 454.188,
+            "end_time": 464.613,
+            "text": "Es falso.  Digamos, vamos a este punto.  Aquellos países que son libres respecto a los más reprimidos, son nueve veces más ricos. ",
+            "cosine_dist": 0.43064884679131143,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 464.873,
+            "end_time": 471.558,
+            "text": "Frenay, ahí me das datos y contra eso no puedo ir.  Para, Javi.  Aquellos países que son más libres, que dejan libertad... ",
+            "cosine_dist": 0.8205096502741588,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 471.578,
+            "end_time": 473.399,
+            "text": "Que tienen mayor libertad económica. ",
+            "cosine_dist": 0.6148957042367312,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 473.82,
+            "end_time": 478.343,
+            "text": "Aquellos países que el Estado se mete menos, son nueve veces más ricos... ",
+            "cosine_dist": 0.752080624966023,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 478.363,
+            "end_time": 479.804,
+            "text": "Que los más intervencionistas. ",
+            "cosine_dist": 0.6512499800536087,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 480.744,
+            "end_time": 482.825,
+            "text": "Dame ejemplo, Venezuela es intervencionista. ",
+            "cosine_dist": 1.0614676538994081,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 483.085,
+            "end_time": 492.607,
+            "text": "Claro, y del otro lado tenés a Hong Kong, tenés a Suiza, tenés a Irlanda, bueno, muy cerca acá tenés a Chile que crece a lo loco. ",
+            "cosine_dist": 0.43464912957204216,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 492.627,
+            "end_time": 493.988,
+            "text": "¿Alemania es intervencionista? ",
+            "cosine_dist": 1.0420196396630026,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 494.368,
+            "end_time": 508.792,
+            "text": "Hay intervenciones, los europeos les gusta la intervención.  Entonces, no solo eso, fíjate esto, el segmento más vulnerable de los países libres es once veces más rico que el de los países reprimidos. ",
+            "cosine_dist": 0.34185345109781917,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 509.722,
+            "end_time": 511.723,
+            "text": "El segmento más vulnerable.  Claro. ",
+            "cosine_dist": 0.8472034567278031,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 512.624,
+            "end_time": 526.033,
+            "text": "Es más, ese segmento más vulnerable de los países libres tiene un ingreso mayor al setenta y cinco por ciento de la población que vive en los países reprimidos. ",
+            "cosine_dist": 0.39600562643636517,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 526.053,
+            "end_time": 531.856,
+            "text": "Ahora, Javi, yo te entiendo todo, pero para que esta charla sea... Es muy interesante.  Pero podés dar otro dato. ",
+            "cosine_dist": 0.820583063452235,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 531.876,
+            "end_time": 536.379,
+            "text": "O sea, veinticinco veces menos de pobres.  Pero Javi, querido, escúchame. ",
+            "cosine_dist": 0.7299911853135919,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 536.979,
+            "end_time": 557.029,
+            "text": "Es Argentina.  Es Argentina.  Argentina.  Si vos no intervenís, si vos no sacás planes sociales, si vos no ayudás al que menos tiene, si vos no subsidiás hasta que esto se estabilice, si vos no tocás un poco la economía, Explota esto, Javi. ",
+            "cosine_dist": 0.8242135914257299,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 557.209,
+            "end_time": 572.796,
+            "text": "Bueno, a ver, ahí hay varias cosas.  Porque digo, el primer punto es, mirá, Argentina, ¿sí?  Previo a toda esta estupidez de la justicia social, la redistribución del ingreso, era el quinto país más rico del mundo. ",
+            "cosine_dist": 0.34205820446706714,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 572.896,
+            "end_time": 580.8,
+            "text": "Pero ¿cómo estupidez es eso?  Te juro, Javi, vos sabés que te respeto y te admiro.  Y te quiero, pero me suena fuerte que digas estupidez de la justicia social. ",
+            "cosine_dist": 0.8827704174645209,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 580.82,
+            "end_time": 584.102,
+            "text": "Bueno, vamos a decir esto.  ¿Vos creés en la igualdad ante la ley? ",
+            "cosine_dist": 0.45037917747968004,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 585.285,
+            "end_time": 589.357,
+            "text": "Si creo ante la igualdad ante la ley, creo pero no se cumple. ",
+            "cosine_dist": 0.8950691721196186,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 589.738,
+            "end_time": 592.787,
+            "text": "No, no, vamos a la pregunta.  ¿Vos creés ante la igualdad ante la ley? ",
+            "cosine_dist": 0.5704932549187928,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 596191,
+            "end_time": 596711,
+            "text": "Sí, creo. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 597.132,
+            "end_time": 629.601,
+            "text": "Ok, la redistribución del ingreso es tratar de manera desigual a la gente frente a la ley.  Y en realidad en el capitalismo aquel que más gana dinero es porque logró servir al prójimo con bienes de mejor calidad a un mejor precio.  Es un héroe, es un benefactor social.  Y estos delirantes lo quieren castigar.  Y cuando vos castigás el proceso de acumulación, entonces se invierte menos, hay menos capital per cápita, hay menos productividad, hay menos salario.  ¿Sabés a quién terminan perjudicando?  Al que menos tiene. ",
+            "cosine_dist": 0.38389082392198903,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 629.661,
+            "end_time": 674.957,
+            "text": "Javi, querido, vos sos un intelectual, un pibe que estudió, seguramente te preparaste afuera, estudiaste afuera, viviste en otros países.  tuviste la posibilidad de estudiar, te alimentaste bien, te tengo aquí enfrente, sos un tipo preparado.  ¿Qué pasa con aquel que nació al lado del Paraná, que desde los siete años se alimenta a Moncholo Frito y que no puede ni siquiera cubrir las necesidades básicas para que su cerebro pueda calcular o pensar?  Porque vos quedaste del lado, yo también Javi, vos y yo estamos tocando con la varita, quedamos del Sí, yo vengo de una familia laburante y mi vieja era colectivero.  Bueno, Javi, querido, pero pudiste comer, Javi. ",
+            "cosine_dist": 0.7713480022805561,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 674.997,
+            "end_time": 677.218,
+            "text": "¿Pero vos creés que la caridad tiene que ser a punta de pistola? ",
+            "cosine_dist": 0.5296524579683666,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 678300,
+            "end_time": 678740,
+            "text": "No entiendo. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 679.22,
+            "end_time": 680.981,
+            "text": "A ver, ¿para vos robar está bien o está mal? ",
+            "cosine_dist": 0.6918412085527901,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 681281,
+            "end_time": 681741,
+            "text": "Está mal. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 682.101,
+            "end_time": 696.244,
+            "text": "Ok, digamos, la redistribución del ingreso implica robar.  Es decir, va a venir a... Suponete esto, mirá, porque lo hacés vía los impuestos y los impuestos son un robo, ¿sí?  A ver, suponete algo.  Viene alguien, viene tu vecino y te dice, Ale, dame la mitad de tus ingresos. ",
+            "cosine_dist": 0.39163354202850786,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 697.184,
+            "end_time": 698.405,
+            "text": "¿Vos qué le decís?  Ni en pedo. ",
+            "cosine_dist": 0.9339030053270077,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 698.545,
+            "end_time": 710.05,
+            "text": "Ok, bien, fantástico.  Ahora viene al otro día con un papel que tiene una firma y dice, acá dice que me tenés que dar... la mitad de tus ingresos, vos le vas a decir, ¿y quién lo firmó?  Ah, lo firmé yo.  ¿Qué vas a decir de vuelta? ",
+            "cosine_dist": 0.3759803895546677,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 710610,
+            "end_time": 711111,
+            "text": "Ni en pedo. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 711.291,
+            "end_time": 715.534,
+            "text": "Ok, al otro día viene con un matón.  ¿Qué haces? ",
+            "cosine_dist": 0.49697579554112137,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 716.414,
+            "end_time": 717.895,
+            "text": "Sí, se lo doy a dar, me está robando. ",
+            "cosine_dist": 0.9653683636125618,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 717.915,
+            "end_time": 764.699,
+            "text": "Bien, ok, te das cuenta que te está robando.  Bueno, fíjate esto.  Entonces, la redistribución del ingreso es un acto violento.  Entonces, aparte, fíjate esto.  Con lo cual, vos no le podés estar imponiendo... sus preferencias al resto de esa manera.  Esto.  una vez en un tuit, el señor Prat-Gay me dijo, es la diferencia entre tener sensibilidad social y no tenerla.  ¿Vos la tenés, Javier?  Yo le dije, sí, claro, pero vos no hagas caridad con mi bolsillo, porque con el culo ajeno somos todos putos, claro.  Ahora, yo la pregunta es la siguiente, ¿sabés lo que le postulé al señor Prat-Gay?  Si él es tan caritativo, que done todos sus ingresos, que done toda su riqueza, vamos a ver a dónde llega.  Ese es por.  un.  lado.  Pero me quedó también la otra de las... ",
+            "cosine_dist": 0.3319041753441193,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 765.159,
+            "end_time": 766.92,
+            "text": "Tenés unas placas, yo te voy a llevar adelante. ",
+            "cosine_dist": 0.9655849404070969,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 766.94,
+            "end_time": 795.375,
+            "text": "No, no, y después hay otras cosas.  Porque en realidad, vos fíjate esto.  En el año setenta nosotros teníamos un PIB per cápita más alto que el de Japón.  Teníamos seis por ciento de pobres.  Duplicamos el tamaño del Estado y lo llevamos a treinta.  Vamos, la evidencia está de mi lado.  Es decir, si el Estado fuera bueno, llevemos esa idea al cien por ciento.  Se llamó comunismo, fue un fracaso en lo económico, en lo social, en lo cultural y se cargó con ciento cincuenta millones de seres humanos. ",
+            "cosine_dist": 0.37740291093987666,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 795.395,
+            "end_time": 798.877,
+            "text": "Decime esta otra cosa.  ¿El dinero es neutral? ",
+            "cosine_dist": 0.8718485991503936,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 799.898,
+            "end_time": 800.538,
+            "text": "Para mí, no. ",
+            "cosine_dist": 0.872187541025755,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 802259,
+            "end_time": 802800,
+            "text": "Para vos, no. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 803.419,
+            "end_time": 804.9,
+            "text": "Claro, exacto, porque yo soy austríaco. ",
+            "cosine_dist": 0.6996910822815445,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 804.92,
+            "end_time": 806.041,
+            "text": "Porque vos sos austríaco. ",
+            "cosine_dist": 1.0465278650503127,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 806.221,
+            "end_time": 835.4,
+            "text": "Exactamente.  Porque el dinero, vamos a esto.  Primero, supongamos que cayera desde un helicóptero a todos por igual, pero nuestras preferencias no son todas iguales y no vamos a gastar todos de la misma manera.  Con lo cual, eso ya afecta a las decisiones de ahorro e inversión, con lo cual generás un despiole terrible dentro de la economía.  Pero no solo eso.  En realidad, además, el dinero entra desde una ventana muy dirigida, con lo cual modificás el ahorro, la inversión. ",
+            "cosine_dist": 0.31197473237413476,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 835.42,
+            "end_time": 905.716,
+            "text": "Quiero que me hables del argentino.  Te voy a dar información que me llega oficial, porque tenemos off todo el tiempo con gente ligada al gobierno.  ¿Sabés lo que esta gente está pensando, Javier?  Sé que te vas a poner loco con lo que te dice, pero no te alteres.  Yo te lo cuento, programás un análisis, se lo cuentes a la audiencia, que es mucha, te está siguiendo hasta ahora de la noche.  Este gobierno está empezando a pensar que un poquito, un poquito, no veinticinco, un poquito de inflación van a tener que aceptar para que haya un poco de crecimiento económico.  O sea, la mirada Sturzenegger, esta mirada de cerrar definitivamente, de poner la guita, las tazas allá, que les ha frenado económicamente.  Esa manera de frenar la inflación con las LEVACs altas, evidentemente no funcionó y que ahora están pensando, bueno, muchachos, que suba un poco la inflación, convivamos, no vamos a terminar en quince, vamos a terminar en veintiuno, veintidós, pero que hace un poquito de crecimiento económico, porque si no, de actividad económica, porque si no, nos vamos al tacho.  ¿Vos creés que es una locura?  ¿Es una especie de suicidio aceptar un poquito más de inflación de lo que tenés previsto? ",
+            "cosine_dist": 0.8597613124074177,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 905.736,
+            "end_time": 921.652,
+            "text": "Es una burrada.  Alfonsín decía un poquito de inflación está bien y se terminó yendo con cinco mil por ciento.  La evidencia empírica muestra que aquellos países que tienen tasas de inflación por encima del veinte por ciento pierden un punto y medio de crecimiento. ",
+            "cosine_dist": 0.2970089010670697,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 921.832,
+            "end_time": 927.377,
+            "text": "¿Vos le dirías al gobierno no hagan esta locura de convivir con un poco más de inflación?  Exacto. ",
+            "cosine_dist": 0.7539995266132111,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 927.437,
+            "end_time": 982.594,
+            "text": "Mirá esto.  Argentina antes de mil novecientos y treinta y cinco no tenía banco central.  No tenía.  La inflación era tres por ciento.  Después tuvimos el banco central mixto.  La tasa de inflación saltó al seis.  En mil nueve cuarenta y seis lo nacionalizamos y tuvimos el Banco Central Nacional y Popular.  Y con locuras como estas quisimos empapelar el camino al cielo.  Hasta el año noventa y uno que llegó la convertibilidad.  La inflación promedio anual fue del doscientos cincuenta por ciento.  Eso, ¿sabés qué nos implicó?  Nos implicó no tener un PIB per cápita como el de Estados Unidos.  Mirá qué lindo, digamos, la emisión de papelitos.  O sea, el Banco Central no puede hacer bien.  De hecho, yo soy partidario de eliminar al Banco Central.  Porque vos fíjate, cuando vino la convertibilidad, la inflación promedio fue del nueve, pero se concentró en el primer año y medio.  A partir del año noventa y tres éramos el país con menos inflación del mundo.  Dame un segundo, por favor. ",
+            "cosine_dist": 0.31434684019326975,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 982.614,
+            "end_time": 984.115,
+            "text": "Y vamos con las plagas, creo que con vos. ",
+            "cosine_dist": 0.906259243723616,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 984.135,
+            "end_time": 1034.848,
+            "text": "Y después vino el quiserismo.  Los primeros cuatro años, diez por ciento de inflación.  Los segundos, veinte.  Los terceros, treinta por ciento.  Y te digo algo para redondear una idea que quedó atrás.  La gran depresión, la crisis de Lehman, la convertibilidad acá, ¿sabes qué?  Había Banco Central.  Si vos hubieras tenido un sistema de banca libre como el que propongo yo, que yo una vez me dijeron, ¿usted aceptaría algún cargo?  Sí.  ¿Cuál?  Presidente del Banco Central.  Pero con una condición.  ¿Cuál?  Si, solo si, soy el último.  Haría una reforma financiera, me voy a un sistema de banca libre, separo la banca de inversión del almacén de valor, establezco un régimen de competencia de monedas y después lo llamo a Bombita Rodríguez para que le ponga una bomba y desaparezca.  No va a haber más inflación. ",
+            "cosine_dist": 0.2805925799522062,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1035.188,
+            "end_time": 1052.1,
+            "text": "¿Me acompañas a la pantalla?  Mientras te voy preguntando algo que tiene que ver justamente con tomar deuda.  Te pregunto esto mientras nos acercamos las placas, que me interesa cuando tipos como vos le explican la economía a la gente.  ¿A vos te preocupa que estemos tomando deuda como tomamos? ",
+            "cosine_dist": 0.8315546690583808,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1052.4,
+            "end_time": 1053.06,
+            "text": "Sí, claramente. ",
+            "cosine_dist": 0.858270364582192,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1053.16,
+            "end_time": 1053.761,
+            "text": "¿Por qué, Javier? ",
+            "cosine_dist": 0.9221458778900423,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1053.961,
+            "end_time": 1068.868,
+            "text": "Porque Argentina está en lo que se denomina en un sendero no sostenible.  Argentina, para poder repagar la deuda que tiene hoy, de cincuenta y dos por ciento del PBI, necesitaría tener un superávit primario de dos puntos del PBI.  Tenemos un déficit de cuatro.  ¿Sabés cómo se llama eso?  Piña. ",
+            "cosine_dist": 0.33430652880439726,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1070.109,
+            "end_time": 1076.295,
+            "text": "Eso se llama piña.  Me gusta que apliques PBI.  Eso lo inventó Keynes.  Antes de él no existía el PBI. ",
+            "cosine_dist": 0.7665751894122755,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1076.515,
+            "end_time": 1103.563,
+            "text": "Y claro, porque se hacía buena economía y no esa berretada.  Porque la berretada que dice el gobierno es una estupidez del tamaño de una casa.  Porque dicen que si vos aumentás el consumo, eso aumenta el producto y el empleo y eso vuelve a aumentar el consumo.  ¿Y sabes qué?  En los manuales, aún de los keynesianos modelos forteos, o sea, de los más brutos, hay algo que se llama multiplicador de presupuesto equilibrado y te dice que eso no se cumple nunca.  Javi.  Aún en el contexto de ellos. ",
+            "cosine_dist": 0.31186053129947067,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1103.723,
+            "end_time": 1108.726,
+            "text": "La oportunidad perdida se titula la primera placa que el profesor Milei nos trae.  ¿Qué es esto, Javier? ",
+            "cosine_dist": 0.922749266479187,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1108.846,
+            "end_time": 1118.451,
+            "text": "Esto está en uno de los libros que yo escribí que se llama El retorno al sendero de la decadencia argentina.  Básicamente lo que vos tenés acá es el PBI per cápita, ¿sí? ",
+            "cosine_dist": 0.41182542036851055,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1118831,
+            "end_time": 1119292,
+            "text": "Esta línea. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1119.992,
+            "end_time": 1161.723,
+            "text": "que alcanzamos en el año mil nueve noventa y ocho, durante la convertibilidad, ¿sí?  Y expresado a dólares del dos mil cazores.  Está todo en moneda en dólares del dos mil trece, porque el libro es un libro que publiqué hace unos años.  Entonces, eso para los que dicen, ¿dónde estabas con el kirchnerismo?  Diciendo este tipo de cosas.  Fíjate que... tendríamos que haber tenido para el dos mil catorce un PBI de catorce mil setecientos cuarenta y seis dólares per cápita.  El kirchnerismo en ese momento tenía un PBI de trece mil doscientos veinticuatro.  Qué década ganada.  Qué década ganada.  Es más, si hubiéramos mantenido la tendencia, sí, tendríamos que haber tenido veintiún mil seiscientos cincuenta y uno. ",
+            "cosine_dist": 0.3123429546825197,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1161.743,
+            "end_time": 1166.326,
+            "text": "O sea que lo hicieron muy mal los kirchneristas económicamente hablando.  Kicillof no entendía mucho de esto. ",
+            "cosine_dist": 0.9673472360264693,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1166.646,
+            "end_time": 1204.288,
+            "text": "Bueno, es un keynesiano.  A ver, pero ¿saben lo que pasa?  Yo te voy a explicar.  El libro de Keynes es un panfleto dedicado a políticos chorros, mesiánicos y corruptos.  Donde vos ves un político chorro... Hay un keynesiano atrás.  ¿Sabés por?  qué?  Porque previo al keynesianismo la virtud era ahorrar, porque eso se convierte en inversión y porque eso se convierte en crecimiento.  ¿Sabés lo que estableció Keynes?  Que el derroche era bueno.  Entonces, ¿vos conocés algún político que lo vayan a premiar por ahorrar guita o lo van a premiar por cortar cintas? ",
+            "cosine_dist": 0.38603404902834226,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1205.029,
+            "end_time": 1220.173,
+            "text": "¿Para qué sigo con vos?  Tengo una placa más de Javier.  Es un placer tener a Javier Milei.  Para mí es un intelectual.  Vos podés tomarlo o dejarlo, pero es una de las personas que más sabe de economía en la región, diría.  Es un maestro realmente de la economía, Javier.  Javi, ¿lo repetimos en los próximos días? ",
+            "cosine_dist": 0.9685918663625882,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1220.353,
+            "end_time": 1221.033,
+            "text": "Cuando quieras. ",
+            "cosine_dist": 0.9266075098695278,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1221.073,
+            "end_time": 1226.935,
+            "text": "Lo admiro y lo quiero.  Este es su libro, Desenmascarando la Mentira Keynesiana.  Javier Milei. ",
+            "cosine_dist": 0.9190963339126269,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1227.795,
+            "end_time": 1229.457,
+            "text": "Gracias, hermano, por venir.  Gracias a vos, Ale. ",
+            "cosine_dist": 0.7925498402930897,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1229.497,
+            "end_time": 1238.435,
+            "text": "Bienvenido a mi casa y tu casa.  Salvelo siempre.  Gracias.  Nos vemos mañana jueves.  Gracias por todo.  Mañana a las dos lo esperan a M-Nueve Diez en Radio La Red.  Que hablan un poquito de boca. ",
+            "cosine_dist": 0.8535222849148588,
+            "is_target_speaker": false
+        }
+    ]
+}

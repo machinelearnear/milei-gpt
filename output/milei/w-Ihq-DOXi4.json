@@ -1,0 +1,735 @@
+{
+    "Index": 344,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "w-Ihq-DOXi4",
+    "url": "https://www.youtube.com/watch?v=w-Ihq-DOXi4",
+    "title": "\"ME PONGO DE PIE POR PALERMO\" - Javier Milei con Iñaki Gutiérrez en Canal Metro 18/9/2021",
+    "duration": 1576.0,
+    "view_count": 201185,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 1",
+            "start_time": 0.06,
+            "end_time": 4.532,
+            "text": "Hola, Palermo por favor.  Dijiste Martín, Palermo. ",
+            "cosine_dist": 0.6141876522597123,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 4.552,
+            "end_time": 9.815,
+            "text": "Sí, Martín Palermo.  Obviamente hoy con invitados de lujo.  Javier Milei, ¿cómo le va Javier? ",
+            "cosine_dist": 0.7929090833785147,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 10.016,
+            "end_time": 11.236,
+            "text": "¿Qué tal Marcelo, cómo estás? ",
+            "cosine_dist": 0.8107577157979834,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 11.296,
+            "end_time": 15.879,
+            "text": "Bien, muy bien.  Y obviamente Iñaki Gutiérrez, ¿cómo le va Iñaki?  ¿Todo bien? ",
+            "cosine_dist": 0.8994907388913673,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 16140,
+            "end_time": 16720,
+            "text": "Bien, todo bien. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 16.74,
+            "end_time": 18.201,
+            "text": "¿Cómo andan Iñaki? ",
+            "cosine_dist": 0.8729089928730827,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 18.221,
+            "end_time": 21.063,
+            "text": "¿Cómo le va?  Bien, ¿todo bien?  Qué gusto verlo.  Bien, bien, bien, muy bien. ",
+            "cosine_dist": 0.9383657688685572,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 21.283,
+            "end_time": 38.236,
+            "text": "Bueno, un placer tenerlos juntos, porque... este año electoral, tenemos que hablar un montón de temas, de política, de la situación económica argentina, así que vamos por partes, como decía Jack, ¿no?  Y una para cada uno.  ¿Cómo ves el tema económico en el país? ",
+            "cosine_dist": 0.8400588501320093,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 39.037,
+            "end_time": 122.117,
+            "text": "A ver, desde mi punto de vista, Argentina, si bien ya es un país que explotó, O sea, porque técnicamente Argentina explotó.  A ver, el PBI per cápita de Argentina, si todo le sale bien al gobierno, está a diecisiete por ciento abajo del que teníamos en el dos mil once.  No solo eso, en los últimos diez años Argentina destruyó doscientos veinticinco mil puestos de trabajo netos.  Por lo tanto, al destruirse el puesto de trabajo y en una población que crece, el salario real tiende a caer.  De hecho, el salario real de hoy en Argentina es el mismo que el del dos mil cuatro.  Por eso tenemos cincuenta por ciento de pobres, más de diez por ciento de indigentes.  Y a eso si le sumás que tenemos un desequilibrio fiscal colosal propio de las grandes crisis de Argentina, un desequilibrio monetario de diez a uno.  Un sector externo absolutamente desequilibrado, porque con un cepo gigante, el paralelo está tremendamente alejado del oficial.  Bueno, esto está claro, esto así no puede aguantar, esto inexorablemente va a reventar.  La pregunta es cuándo.  Bueno, si lo supiera no se los voy a contar, porque lo estaría usando yo para ganar plata.  Pero, digamos, la realidad es que Argentina ya está dinamitada, lo único que falta es la explosión final. ",
+            "cosine_dist": 0.39142269708542177,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 122.837,
+            "end_time": 130.241,
+            "text": "Tremendo.  Bueno, vos como personaje nuevo de la política joven, ¿cómo ves la situación económica?  También que te gustan mucho los números, ¿no? ",
+            "cosine_dist": 0.8278896891158556,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 130.282,
+            "end_time": 181.256,
+            "text": "Sí, yo justo estoy estudiando la economía, obviamente no tengo ni un uno por ciento del conocimiento que tiene Javi, pero algo voy empezando a entender y me parece también hay que hacer hincapié un poco en cómo empezaste vos la conversación, que es esta cuestión del año electoral.  Argentina suele aflojar los años pares y apretar un poco los años impares, cuando hay elecciones y me parece que el gobierno justo no ha podido hacer eso el año pasado, al revés, ha pisado tarifas, ha comprometido el trabajo genuino, el poco trabajo genuino que había y en contraposición no ha hecho nada para de alguna manera mitigar el impacto de sus propias medidas y de la crisis obviamente generada por la pandemia, con lo cual me resulta interesante ver cómo va a finalizar este año cuando se despisen las tarifas, cuando se empiece a liberar un poco todo y empecemos a ver precios reales que me parece, creo yo, van a ser... ",
+            "cosine_dist": 0.9652322215886783,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 182.337,
+            "end_time": 257.291,
+            "text": "Sí, no tienen la intención de hacerlo.  Creen que lo pueden arreglar con mayor represión.  Ahora, digamos, la represión de precios no es gratis, ¿no?  Porque el mejor ejemplo es el tipo de cambio.  El gobierno no quiere ceder en lo que es la política fiscal expansiva, no lo puede financiar con deuda, no lo puede financiar con más impuestos, por ende tiene que financiarlo con emisión monetaria.  Eso genera presiones en el mercado de cambios, te aumenta la brecha, o sea que te aumenta el exceso de demanda que tenés en el mercado de cambios.  Y la contracara es que ese exceso de demanda implica un exceso de oferta en el resto de la economía.  Entonces implica altas tasas de interés, cae la actividad, cae el empleo, cae el salario real.  Entonces, ¿qué es lo que pasa?  Entrás en un círculo vicioso donde cada vez tenés más presiones para que el sistema estalle.  Entonces, si vos liberás, vas a generar un tremendo estallido.  Y si no liberás, también va a estallar porque no va a aguantar socialmente y a la postre vas a tener que liberar.  Y entonces, digamos, el estallido va a ser todavía muchísimo más grande.  Pero como creen que pueden manejarlo, entonces ¿qué hacen?  Meten más controles.  Y en un momento, digamos, eso genera una situación de inviabilidad que el tamaño de la explosión después termina siendo muchísimo más grande. ",
+            "cosine_dist": 0.4320886406350325,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 257.69,
+            "end_time": 258.791,
+            "text": "Sí, es tremendo.  Vos... ",
+            "cosine_dist": 1.0062993088340686,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 260.733,
+            "end_time": 277.025,
+            "text": "Yo justo quería de alguna manera traer un tema, es esta cuestión de, leía en el diario, cómo toman el peso argentino cuando uno sale de la Argentina, si uno va por ejemplo a Uruguay o a Brasil, es muchísimo más el desfasaje, digamos, a uno le conviene pasar de pesos argentinos a cualquier tipo de moneda acá que en cualquier lugar del mundo. ",
+            "cosine_dist": 1.0202236892045145,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 277.385,
+            "end_time": 278.166,
+            "text": "Sí, exactamente. ",
+            "cosine_dist": 0.7891406639655597,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 278.266,
+            "end_time": 280.688,
+            "text": "Te los tiran en la cara los pesos. ",
+            "cosine_dist": 1.0895394829801759,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 281.288,
+            "end_time": 284.191,
+            "text": "En Uruguay casi no te los aceptan los billetes. ",
+            "cosine_dist": 0.9670121219957896,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 284.211,
+            "end_time": 286.752,
+            "text": "¿Y quién te aceptaría si es una estafa? ",
+            "cosine_dist": 0.669314894963529,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 287.053,
+            "end_time": 305.083,
+            "text": "No, tal cual.  Sí, es lamentable, ¿no?  Un poco, pero bueno, es una realidad.  ¿Sabés qué?  Fue hace años, ¿sabés qué?  Fue hace años que viajando... Vos llegabas al aeropuerto y había una casa de cambio que te aceptaba billetes.  Y de un día, entonces te hablo, no sé si fue después de Carlos Saúl, no sé cuándo fue, ya no te aceptaban más el billete argentino. ",
+            "cosine_dist": 0.8927473456695679,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 305283,
+            "end_time": 305864,
+            "text": "En el dos mil dos. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 306.544,
+            "end_time": 307.244,
+            "text": "Exactamente. ",
+            "cosine_dist": 0.983934217234023,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 307.985,
+            "end_time": 322.836,
+            "text": "O sea, la última parte del dos mil uno o del dos mil dos, ya, digamos, o sea, cuando vos tenías acá el corralito, en Uruguay ya cotizaba a uno cuarenta.  O sea, no te lo aceptaban y ya después directamente no te los aceptaban. ",
+            "cosine_dist": 0.5116044662095193,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 324.157,
+            "end_time": 335.723,
+            "text": "Y va a ser complicado un poco lo que vos decías.  Y vos como joven, ¿por qué te metiste en la política?  Porque Javier nos contó cómo arrancó por otro lado y ahora está en la política. ",
+            "cosine_dist": 0.8583744247292715,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 336.723,
+            "end_time": 403.697,
+            "text": "Así como Javier se metió, si vos ves los números de los seguidores de Javier, de la gente que lo va a ver, es gente muy joven porque es gente que primero y principal ha perdido la esperanza.  y hoy Javier en muchas personas y me incluyo es una esperanza de una persona que realmente se ve afligida por la situación.  como él dice hay también un montón de personas digregadas en diferentes espacios políticos que con la cual él se siente de alguna manera en sintonía en darse cuenta que se está peleando contra un mismo monstruo que ya no tiene ni nombre ni partido.  es toda una gran masa de de personas y de políticos que apuestan a un sistema en el cual el Estado sea prácticamente papá, mamá, hermano, tío y primo.  O sea, vos tenés todo tipo de problemas y el Estado tiene que ayudarte a resolverlos todos, acompañarte desde que nacés hasta que te morís.  Y la gran realidad es que A mí me parece que ese no es el camino, no porque la gente no merezca ningún tipo de ayuda, sino porque el Estado todo lo que toca hoy lo dinamita. ",
+            "cosine_dist": 0.9003727985414209,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 403.717,
+            "end_time": 461.377,
+            "text": "O sea, todo lo que toca el Estado lo pudre, el Estado siempre es el problema, no es la solución.  Y ahí Iñaki estaba diciendo algo que es muy interesante, ¿no?  Esa reflexión, digamos, de la cuna a la tumba, ¿no?  De hecho hay un capítulo de Milton Friedman que se llama De la cuna a la tumba, que justamente va contra esta idea del Estado presente.  Y es interesante porque, ¿sabes qué?  La gente le pide al Estado, le pide cosas, le pide cosas.  Entonces yo te podría decir, Marcelo, mirá, yo te puedo proponer esta situación.  Te aseguro casa.  Te aseguro comida, te aseguro que puedas estudiar, te aseguro actividades recreativas.  Y hay gente que quizás dice, ¿cuál sería el costo?  Ah, el costo es que perderías tu libertad porque en la cárcel tenés todo eso.  ¿Alguna vez te pusiste a pensar eso? ",
+            "cosine_dist": 0.4312052574085643,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 462.197,
+            "end_time": 462.817,
+            "text": "No, pero sí. ",
+            "cosine_dist": 0.9275957948943397,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 463.277,
+            "end_time": 464.558,
+            "text": "Pero en la cárcel tenés todo eso. ",
+            "cosine_dist": 0.6753227796283758,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 464.578,
+            "end_time": 465.198,
+            "text": "Sí, es verdad. ",
+            "cosine_dist": 0.9506075180750629,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 466.259,
+            "end_time": 534.281,
+            "text": "Mirá, y esa reflexión yo cuando la empecé a tomar conciencia, un día yo tuve la suerte de viajar a San Francisco... Y fui a Alcatraz.  Y ¿sabes qué?  Cuando vos haces el recorrido, te dicen, ¿sabes qué era lo más duro para los que estaban presos en Alcatraz?  Porque, digamos, tenían para hacer deportes, había buena comida, digamos, tenía todas estas condiciones.  Y dice que lo que más los golpeaba era el hecho de ver cómo evolucionaba el mundo afuera.  que esa parte los aniquilaba.  Bueno, entonces, no por nada Moreno decía, prefiero una libertad riesgosa que una esclavitud segura.  O sea, bueno, hay gente que a veces parece que hace, digamos, una cosa así como... ...apología de la pobreza y de la esclavitud, más que nada.  Y ahí es como vos lo ves, porque de hecho donde se aplicaron esas ideas... ...generaron Misé en todos lados. ",
+            "cosine_dist": 0.39984872218096923,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 534.881,
+            "end_time": 561.94,
+            "text": "Es complicado, porque hablábamos en otra entrevista hace tiempo... ...cómo también crece la pobreza en la Argentina.  ¿Cómo se puede revertir todo esto?  ¿Cómo nos podemos imaginar... No, Javier, y vos sos joven, tenés un futuro tremendo.  Revertir esta situación, ¿no?  Cada vez más pobres.  Hablabas del dos mil uno.  En el dos mil uno, en la fecha, son todos los mismos los que están.  ¿Cómo se va a poder revertir? ",
+            "cosine_dist": 0.8594343796367865,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 562.18,
+            "end_time": 563.0,
+            "text": "Sí, sí. ",
+            "cosine_dist": 0.8415269089695558,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 563.02,
+            "end_time": 566.101,
+            "text": "Un tipo de cincuenta y ocho años.  ¿Puede tener esperanza todavía en la Argentina? ",
+            "cosine_dist": 1.0112549321596496,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 566.321,
+            "end_time": 645.878,
+            "text": "Sí, sí.  Sí, se puede revertir.  Básicamente... De hecho, Argentina, cuando arrancó en, digamos, en mil ocho sesenta, poner en marcha el proyecto de Alberti, ese era un país de bárbaros, en treinta y cinco años se convirtió en el país más rico del mundo.  La experiencia más reciente de haber hecho ese mismo proceso fue Irlanda, y también logró en treinta y cinco años.  No solo eso, este quiere decir que sí se puede salir, se puede salir si vos abrazás la ciudad de la libertad, Se puede lograr en treinta y cinco años.  y lo más interesante es que cerca del cincuenta, sesenta por ciento de la convergencia se alcanza en diez años.  Quiere decir que los resultados se empiezan a ver de manera bastante rápida, a diferencia de lo que cree la gente, pero para eso tiene que existir la convicción de abrazar de las ideas de la libertad y hay una luz de esperanza.  O sea, nosotros tenemos acá, digamos, luz de esperanza, porque Mendenes es un joven, y en lugar de abrazar las ideas socialistas como le quiere lavar el cerebro el sistema educativo argentino, no importa si sea de gestión estatal o de gestión privada, él decidió abrazar las ideas de la libertad.  O sea, la esperanza está acá. ",
+            "cosine_dist": 0.4217989150177883,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 646.94,
+            "end_time": 654.365,
+            "text": "está bien porque vos sentís también que hay un montón una camada de muchísimos jóvenes que lo apoyan a Javier.  o sea como ",
+            "cosine_dist": 0.8652245821724421,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 655245,
+            "end_time": 655745,
+            "text": "vos ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 655.765,
+            "end_time": 656.686,
+            "text": "el otro ",
+            "cosine_dist": 0.8097996007608494,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 656.706,
+            "end_time": 690.898,
+            "text": "día veía la intención de voto de la franja de dieciséis a veintiséis que justamente la que viene debajo de la franja cámpora que es el bueno si vos hacés el cálculo a los que eran jóvenes cuando cuando empezó el modelo kirchnerista son los que hoy tienen treinta años.  Y la expectativa es muchísima, y muchísimo más que la expectativa es el sentido de pertenencia para con la República Argentina.  Me parece que es de lo único que no puede carecer el proyecto que se está llevando a cabo, que es de la idea de pertenencia y la idea de querer quedarse.  Y también hay una cuestión en torno... ",
+            "cosine_dist": 0.9640394734052649,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 690.918,
+            "end_time": 706.024,
+            "text": "Bueno, eso es muy importante lo que estás diciendo.  Porque vos podés estar abrazando las ideas correctas, pero si no tenés la idea de pertenencia, te vas.  Y esto se sigue hundiendo.  Lo que acaba de decir Iñaki en este momento es muy sabio. ",
+            "cosine_dist": 0.48544887161926076,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 707.005,
+            "end_time": 763.371,
+            "text": "Que no es tampoco algo malo, si uno no lo tuviera... Pero, viste, nosotros, a mí me late la celeste blanca adentro.  Yo, pues, tener, o sea, todo el cariño del mundo para con Uruguay, para con Brasil, y ojalá les vaya bien y les vaya perfecto, pero la gran realidad es que yo, la primera preocupación que tengo es, viste, no cruzar el conurbano y que el número de pobreza sea mayor al setenta por ciento, que es lo que pasa hoy.  día.  Y por último, lo que me parece lo más importante de todos, esta cuestión que a veces se le pregunta a Javier, pero ¿cómo se hace con los que cobran planes sociales?  ¿Cómo se hace con los que cortan rutas?  El proyecto que se está llevando a cabo involucra a todas esas personas, involucra un ministerio general en el cual cada persona va a encontrar su lugar.  No hay un resabio de gente que va a quedar completamente como una resaca o resentida porque no forman parte del proyecto.  El proyecto es... casi una joda, nacional y popular pero es nacional y popular. ",
+            "cosine_dist": 0.9382058039511797,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 763.411,
+            "end_time": 773.694,
+            "text": "me están dando esperanza.  me están dando esperanza yo me acuerdo que porque hoy sabemos que diez años no es nada. ",
+            "cosine_dist": 0.7554344701332681,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 774.275,
+            "end_time": 899.27,
+            "text": "si es interesante, había en un momento yo leí un artículo de Sebastián Galeani previo a que fuera ministro en el gobierno de Macri Y una de las cosas que... Va, viceministro.  Una de las cosas que decía en ese artículo era, bueno, si uno quiere ser populista tendría que seguir a Milton Friedman.  O sea, en realidad las ideas de la libertad son las que más beneficio trae para la gente.  El problema es que en este sistema de adoctrinamiento y de lavado de cerebro que se ha llevado en Argentina, acá el que ha triunfado fue Gramsci, que era lo que decía, vos tenías que meter el socialismo.  En la educación, en los medios de comunicación y en los artistas.  Y de esa manera vos avanzabas sobre toda la cultura y entonces avanzabas el socialismo.  Acaparabas.  Claro.  Entonces, ¿qué es lo que pasa?  En ese contexto, yo creo que hay que... Tomarlo muy seriamente a Gramsci, porque las ideas socialistas, siendo tan espantosas, se lograron imponer.  Entonces, nosotros que tenemos unas ideas que han sido absolutamente superadoras a los resultados del socialismo, ¿por qué no podemos impulsar nuestra agenda?  Porque tenemos que aprender de ellos.  Ellos lo supieron hacer.  Por eso es tan importante la batalla cultural.  Y la batalla cultural no tiene que estar escindida de la batalla política.  Es decir, mirá, puede ser muy lindo cuando juega la selección argentina, todo lo que vos quieras, pero los goles los hace Messi.  Entonces, digamos, no es solo la tribuna, también tenés que meterte y hacer los goles.  Porque si vos te quedás tirando piedra desde la tribuna o insultando desde la tribuna, no movés el amperímetro, porque los que deciden son los que están adentro de... del rectángulo. ",
+            "cosine_dist": 0.3740666589727092,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 899.811,
+            "end_time": 913.601,
+            "text": "está bueno lo que decís porque haberte metido en la política que te apoyen ahora la gente nueva como Iñaki estaba pensando en darte las medidas las máximas y las mínimas las máximas y las mínimas. ",
+            "cosine_dist": 0.6523258221363454,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 913.801,
+            "end_time": 921.867,
+            "text": "es ciento veinte por noventa o noventa por cuarenta y cinco.  me diste el arco en la entrevista siete treinta y dos por dos cuarenta y cuatro. ",
+            "cosine_dist": 0.5973491237598285,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 922.647,
+            "end_time": 927.731,
+            "text": "¿Y cuál es el que tiene el campo de juego más grande?  San Lorenzo. ",
+            "cosine_dist": 0.8436779107083616,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 928.171,
+            "end_time": 963.004,
+            "text": "Sí, es el más largo de todos.  Es más, en una época, antes de que estuviera la cancha de San Lorenzo, está el nuevo gasómetro, la cancha más larga que tenía el fútbol argentino era la cancha de ferro.  Y en una época donde en Argentinos Junior sus wines eran Castro y Hereros, jugaban de local en la cancha de ferro porque justamente teniendo ese par de wines, o sea, si fuera le agregaban cincuenta metros más a la cancha. ",
+            "cosine_dist": 0.3911383390774599,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 964.452,
+            "end_time": 965.473,
+            "text": "Es verdad, es verdad. ",
+            "cosine_dist": 1.0247295009928923,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 965.993,
+            "end_time": 968.055,
+            "text": "Te gusta mucho el fútbol.  Te estoy sorprendiendo. ",
+            "cosine_dist": 0.8363701942773526,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 969.596,
+            "end_time": 970.537,
+            "text": "Sabés de fútbol, lo charlamos. ",
+            "cosine_dist": 1.0358478718235287,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 970.557,
+            "end_time": 972.579,
+            "text": "Música y fútbol, además, de economía. ",
+            "cosine_dist": 1.010303896075345,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 972.599,
+            "end_time": 982.887,
+            "text": "¿De qué jugabas de fútbol cuando jugabas?  Era arquero.  Era arquero, es verdad.  Como Waldo también.  Como Waldo.  Por eso dije, si vos eras arquero.  ¿Vos, Iñaki, jugabas? ",
+            "cosine_dist": 0.8222265512669864,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 983.527,
+            "end_time": 995.011,
+            "text": "Bueno, yo gracioso, yo no jugué nunca de manera... Yo fui... Yo soy o nueve delantero pescador o arquero también, pero por la altura, ¿viste?  Me clavaba en algo y me dice, sos alto, anda el arco. ",
+            "cosine_dist": 0.8964005677742418,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 995.031,
+            "end_time": 996.732,
+            "text": "Bueno, como Palermo, ¿no? ",
+            "cosine_dist": 0.8988669540375274,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 997.052,
+            "end_time": 1000.073,
+            "text": "Palermo, por favor.  Dijiste Martín, Palermo. ",
+            "cosine_dist": 0.5973115622432434,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1000.153,
+            "end_time": 1001.193,
+            "text": "Sí, Martín Palermo, bueno. ",
+            "cosine_dist": 0.8468827768281896,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1001.353,
+            "end_time": 1037.298,
+            "text": "¿Vos sabías que yo era hincha de boca?  Y era hincha de Boca.  Y yo tenía palco en la cancha de Boca.  Y cuando se retiró Martín, no pude superar la tristeza y no fui más a la cancha.  Después dejé de ser de Boca cuando Angelisi lo trajo a Riquelme en la última etapa.  Y después cuando lo trajo a Gago, me hice antiboca.  Como ahora no está más en boca, dejé de ser antiboca, por.  lo.  menos.  Están ahí luchando, digamos, o sea, Ramiro Marra, digamos, está luchando, digamos, para volver a llevarme a la cancha de boca. ",
+            "cosine_dist": 0.42737548915570733,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1038.078,
+            "end_time": 1040.9,
+            "text": "Y si no tenés otro equipo favorito, pasaste a River, ¿no? ",
+            "cosine_dist": 0.8696895113367751,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1041.08,
+            "end_time": 1042.06,
+            "text": "No, no. ",
+            "cosine_dist": 0.8749488571294962,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1042.582,
+            "end_time": 1043.342,
+            "text": "Tampoco. ",
+            "cosine_dist": 0.9618651266948289,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1043.382,
+            "end_time": 1044.423,
+            "text": "Como en pie, me paso de acá. ",
+            "cosine_dist": 0.99185775296895,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1044.762,
+            "end_time": 1047.445,
+            "text": "Bueno, la verdad que tuvimos una gran época, ¿no?  Con Gallardo. ",
+            "cosine_dist": 0.9013709920898416,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1051.701,
+            "end_time": 1054.648,
+            "text": "No, no, no.  De hecho, vos sabés que yo tengo una estrella en el Museo de Boca. ",
+            "cosine_dist": 0.5678091232848861,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1055510,
+            "end_time": 1055671,
+            "text": "Mirá. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1056.311,
+            "end_time": 1058.733,
+            "text": "O sea, por eso digo... ",
+            "cosine_dist": 0.6531869703306477,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1058.753,
+            "end_time": 1061.774,
+            "text": "La estrella fue porque invertiste en el museo. ",
+            "cosine_dist": 0.8774789211135341,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1062.295,
+            "end_time": 1069.539,
+            "text": "Sí, hice aporte.  Entonces, para tener una estrella, con un determinado aporte tenía su estrella y yo tengo una estrella ahí. ",
+            "cosine_dist": 0.5314198178503992,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1069.94,
+            "end_time": 1071.28,
+            "text": "¿Y vos tenés en San Lorenzo? ",
+            "cosine_dist": 1.0160705116010116,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1071.521,
+            "end_time": 1073.242,
+            "text": "Nosotros tenemos un metro cuadrado. ",
+            "cosine_dist": 1.0315984548813946,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1075.083,
+            "end_time": 1077.084,
+            "text": "¿Confiaste que se va a hacer el Estadio San Lorenzo? ",
+            "cosine_dist": 0.9252678418650556,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1077.164,
+            "end_time": 1099.336,
+            "text": "No, yo quise formar parte de un proyecto que entiendo es... Es un reclamo histórico que tiene mi club.  Yo no soy muy afín, vos lo sabés, a la gestión actual del club, pero es como que porque ahora está Alberto Fernández en el gobierno, vos quieras que el campo no le liquide o que la soja baje. ",
+            "cosine_dist": 0.845180366695616,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1102.974,
+            "end_time": 1120.338,
+            "text": "me quedé mucho con el tema de pertenencia y de pensar también en el futuro porque esto que estás empezando Javier más allá que ahora se va a venir noviembre las nuevas elecciones ya finales.  tenés un trabajo por delante enorme, ¿no?  Y bueno, vos también, Inaqui, pero contame, Javi. ",
+            "cosine_dist": 0.8591457838950686,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1122.019,
+            "end_time": 1130.802,
+            "text": "La única metodología que conozco es trabajar.  O sea, yo no descubrí otra.  Así es que por el momento lo único que creo es trabajar. ",
+            "cosine_dist": 0.5837304079515573,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1132.343,
+            "end_time": 1164.385,
+            "text": "Bueno, la importancia del trabajo... Javi recién decía algo que a mí me interesa mucho resaltar.  Esto no es un proyecto a veinte, veintiuno, veinte, veintitrés.  Son treinta y cinco años... y este proyecto va a tener un recambio va a tener nuevos nombres va a tener diferentes protagonistas pero el trabajo que se hizo y que se viene haciendo hasta ahora y que se tiene que hacer en el corto plazo por lo menos es continuar con la batalla cultural que ha permitido que se abra el espacio y el campo para que entren a mansalva una cantidad de pendejos que hoy sustentan el movimiento ",
+            "cosine_dist": 0.8935588380742252,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1165.285,
+            "end_time": 1216.741,
+            "text": "tal cual, o sea yo ahí comparto esa visión de largo plazo.  le quita además personalismo O sea, con lo cual, digamos, puede ser que en algún determinado momento alguna figura pueda captar determinada tensión, pero si, digamos, vos tenés un proyecto de largo plazo, es decir, una visión, una visión de cómo debe ser.  ese país que vos soñás.  Entonces, un país donde haya bienestar, prosperidad, felicidad, que podamos vivir en paz, en concordia entre cada uno de nosotros.  Bueno, eso es posible.  Eso solamente es factible alcanzarlo con el modelo de la libertad.  Y nosotros fuimos pioneros en eso.  Es la constitución de Alberti en mil ocho cincuenta y tres.  Alberti y Gorostiaga. ",
+            "cosine_dist": 0.3925902207743741,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1217.941,
+            "end_time": 1227.284,
+            "text": "Es una realidad, hoy mirá, vos sabés que estoy en Uruguay, vivo en Argentina, Uruguay no fue de los que nos escapamos en esta época, sino de hace años. ",
+            "cosine_dist": 0.8861127402266674,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1227.304,
+            "end_time": 1231.825,
+            "text": "La viste antes, la vio venir, la vio venir. ",
+            "cosine_dist": 0.8085885870125487,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1233.205,
+            "end_time": 1254.513,
+            "text": "No fue el caso, la verdad que no pensé que iba a pasar, pero justamente veo la clase media, y la clase media baja, está muy pero muy golpeada, como falta de esperanza, y yo creo que un poco lo que lo que están llevando adelante ustedes, con los jóvenes, la cantidad de jóvenes, tiene que ver con eso, ¿no?  El proyecto a largo plazo y la creencia que se puede. ",
+            "cosine_dist": 0.848960814489427,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1255.594,
+            "end_time": 1326.091,
+            "text": "Sí, bueno, yo de hecho estoy convencido, no por nada, cada una de mis presentaciones, cuando yo expongo en los actos y todo, yo justamente... me encontré con una frase, digamos, en una entrevista y la replico, que es, mirá, yo acá no me metí para estar guiando corderos, o sea, no es el proyecto de yo soy el líder, seguime.  No, no, no.  Yo me metí acá para despertar leones.  Es decir, y que cada uno, digamos, tome un rol protagónico para ser responsable de su propio proyecto de vida.  Es decir, que cada uno se haga cargo.  Es decir, no estar jodiendo al prójimo y estar parasitando al prójimo como un lema de vida.  O sea que básicamente vos seas el artífice de tu felicidad.  y que obviamente tenés todos los incentivos para que ese proyecto funcione y lo vas a buscar incansablemente.  O sea, y por eso querés que te jodan lo menos posible.  Y que te jodan lo menos posible significa correr el estado del medio. ",
+            "cosine_dist": 0.3500979218577628,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1327.521,
+            "end_time": 1328.923,
+            "text": "Bueno, un poco por eso, ¿no? ",
+            "cosine_dist": 0.9090228847052586,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1329.343,
+            "end_time": 1373.187,
+            "text": "Sí, esto también de no es.  Tomá, lo boté a Javier.  Tomá, hace algo.  Es el acompañamiento del proyecto, el estar, el militar, el proyecto, creer en el proyecto.  Llegás hoy a tu casa, hablás con tu viejo, le comentás por qué crees que el camino es este.  Al principio de toda esta movida, a veces hablaba con amigos míos que no estaban muy convencidos de Javier, de los halcones, de todo lo que no era, lo que parecía ser que tenía posibilidades de subsistir en... viste en todo este año electoral.  Y para mí siempre fue la misma respuesta.  Te vienen cagando desde que empezaste a votar.  Por lo menos que te cague uno nuevo.  Dale la oportunidad a un tipo que... ",
+            "cosine_dist": 0.9199207836333962,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1373.247,
+            "end_time": 1395.942,
+            "text": "Claro, yo lo llamo... El argumento para votarme a mí es un argumento de dominancia estocástica.  Es decir, ¿cuánto es la probabilidad de que yo te cague?  Cuando vos no sabés nada, ¿cómo es?  ¿Cincuenta y cincuenta?  O sea, no sabés nada.  Bueno, cincuenta y cincuenta.  Ahora el resto, ¿sabés qué?  ¡Cien!  Con lo cual, digo, tengo un argumento de dominancia estocástica que, por lo menos, soy mejor que los otros en términos de dominancia estocástica. ",
+            "cosine_dist": 0.45130843605436277,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1396.622,
+            "end_time": 1417.136,
+            "text": "Totalmente de acuerdo.  Es una realidad, es un poco el mensaje cuando vamos a votar.  O sea, ¿cuántos años, y no sé vos que has votado, ahora estás metido en la política, vos sin idea que has votado poco todavía, pero bueno, uno siempre vota por uno, o sea, ¿quién no?  O sea, en contra del otro, ¿no?  Por el menos malo.  por el menos malo, sí. ",
+            "cosine_dist": 0.7741388896396802,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1417.476,
+            "end_time": 1419.217,
+            "text": "Bueno, ahora tenés una opción de verdad. ",
+            "cosine_dist": 0.8005392538364176,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1419.917,
+            "end_time": 1428.803,
+            "text": "Es verdad, y bueno, esperemos un país mejor, tenemos fe en el futuro.  Un último mensaje, chicos, Javi y Iñaki. ",
+            "cosine_dist": 0.7938595338043404,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1429.123,
+            "end_time": 1472.504,
+            "text": "Yo creo que es posible soñar con una Argentina mejor, con una Argentina que definitivamente decide abrazar las ideas de la libertad y que la aparición de personas como Iñaki digamos, jóvenes, brillantes y que defienden los valores de la libertad, sin lugar a dudas, dice que hay esperanza, porque Argentina tiene futuro si ese futuro es liberal.  Y los jóvenes se están despertando, se están convirtiendo en leones de la libertad Y eso abre una ventana para que haya no solo un país mejor, sino para que volvamos a ser una potencia mundial. ",
+            "cosine_dist": 0.3954872514965918,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1472.524,
+            "end_time": 1512.763,
+            "text": "Y yo en lo personal, resaltar que para mí es un orgullo formar parte de toda esta nueva corriente que encara la ciudad de la libertad con orgullo.  Estoy feliz de que él haya tomado la decisión de ser quien hoy encarne y lidere este proyecto y que me parece que ahora el momento toca bancar, toca esperar y toca analizar la situación como está.  y tampoco esperar, porque es un poco el problema que creo yo tenemos siempre de... esperar el resultado inmediato, de la inmediatez.  Así que esto es un proyecto a largo plazo, esto es un proyecto que va a costar ponerlo a flote, pero que tarde o temprano va a triunfar. ",
+            "cosine_dist": 0.9133041778671311,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1512.963,
+            "end_time": 1521.446,
+            "text": "Bueno, buenísimo.  Bueno, muchas gracias por estar nuevamente acá en el Living Digital.  Somos abonados tuyos, Javier. ",
+            "cosine_dist": 0.8312115996500758,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1522.366,
+            "end_time": 1524.147,
+            "text": "Bueno, pero Dios, lograste que vuelva. ",
+            "cosine_dist": 0.6733455495438488,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1524.167,
+            "end_time": 1526.667,
+            "text": "No, ni hablar, y te voy a tener más. ",
+            "cosine_dist": 0.8457931158974079,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1526.727,
+            "end_time": 1531.689,
+            "text": "Es más, y te hago marketing en directo, digamos, con buenos invitados. ",
+            "cosine_dist": 0.573668875469324,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1533.104,
+            "end_time": 1575.477,
+            "text": "Totalmente.  Le mandamos un beso a Carolina y a todos los amigos que nos acompañan.  Bueno, nos vamos.  Nos vamos en gritar.  Nos vemos la semana que viene.  Bueno, pasaron dos personajes impresionantes.  Javier Miner y Iñaki Gutiérrez.  Así que felices y contentos.  Nos vemos la próxima.  Chau, chau, chau, chau.  Como decía un ex amigo mío.  Chau.  Basta de basura keynesiana, ha llegado el momento liberal.  Tenemos un líder y él es un gran rebelde. ",
+            "cosine_dist": 0.7635194059529427,
+            "is_target_speaker": false
+        }
+    ]
+}

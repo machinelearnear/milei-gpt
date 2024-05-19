@@ -1,0 +1,583 @@
+{
+    "Index": 322,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "N3d9X703mdg",
+    "url": "https://www.youtube.com/watch?v=N3d9X703mdg",
+    "title": "MILEI LE RESPONDIÓ A LA MALEDUCADA DE BREGMAN - Javier Milei con Luis Novaresio 14/10/2021",
+    "duration": 1793.0,
+    "view_count": 196142,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 0",
+            "start_time": 0.06,
+            "end_time": 2.63,
+            "text": "Digamos, si la cruzaron, la volvería a intentar saludar. ",
+            "cosine_dist": 0.6846729338504098,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2.65,
+            "end_time": 7.371,
+            "text": "Ya está sentado en nuestros estudios Javier Milei, candidato a diputado ya.  Hola Javier, gracias por venir. ",
+            "cosine_dist": 0.929919545008094,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 7.391,
+            "end_time": 8.791,
+            "text": "¿Qué tal Luis?  ¿Cómo estás?  ¿Todo bien? ",
+            "cosine_dist": 0.968225922059367,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 9.051,
+            "end_time": 13.613,
+            "text": "Todo muy bien.  ¿Crees en la lectura de Borra Café, Tarot, esa cosa o poco? ",
+            "cosine_dist": 0.8789545391245874,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 14.373,
+            "end_time": 37.452,
+            "text": "No, digamos, no he explorado.  Quizás habría que explorarlo, qué sé yo.  Mira, te puedo contar un chiste que es buenísimo.  Vos sabés que... A mí me gusta mucho mirar la RAI.  Y en un momento, ¿sabés qué?  Se pusieron a hacer predicciones sobre la economía, pusieron a un economista y a una persona que... Un astrólogo.  Sí, un astrólogo.  Sí, es muy divertido. ",
+            "cosine_dist": 0.46443411207099283,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 37.712,
+            "end_time": 41.455,
+            "text": "Y claro, yo creo que para pronosticar la Argentina más vale el astrólogo. ",
+            "cosine_dist": 0.8558024544144346,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 41.475,
+            "end_time": 48.982,
+            "text": "¿Vos sabés por qué Dios inventó a los economistas?  Ni idea.  Para que los del pronóstico meteorológico no se sintieran más con los errores pronósticos. ",
+            "cosine_dist": 0.4442411903940955,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 49.022,
+            "end_time": 55.184,
+            "text": "Ahora nos vamos a sentar a charlar con Javier Milei.  Como siempre, mucho para contarte.  Muy amable.  Vamos a sentar a charlar con Javier Milei. ",
+            "cosine_dist": 0.8838132712435803,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 55.444,
+            "end_time": 58.285,
+            "text": "Señor, ¿cómo estamos?  ¿Qué tal, Luis? ",
+            "cosine_dist": 1.0323457970681589,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 59.466,
+            "end_time": 61.666,
+            "text": "¿Cómo estás?  Arrancaste anoche con debate heavy. ",
+            "cosine_dist": 0.9657584958765603,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 62.227,
+            "end_time": 65.248,
+            "text": "Sí, estuvo divertido. ",
+            "cosine_dist": 0.8518307299917635,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 65.268,
+            "end_time": 72.57,
+            "text": "Tuvo su... Sus vidas y vueltas.  ¿Me dejás que te aproveche como economista para que después hablemos de otra cosa? ",
+            "cosine_dist": 0.8692245817427108,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 72.59,
+            "end_time": 74.651,
+            "text": "Nunca dejé de ser economista. ",
+            "cosine_dist": 0.8453075265836745,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 74.671,
+            "end_time": 84.247,
+            "text": "Pero viste que ahora estás como campaña y se te preguntan todos los temas.  Congelan los precios, plan platita, inflación que de vuelta... ¿A dónde estamos parados? ",
+            "cosine_dist": 0.8624025368552414,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 85.048,
+            "end_time": 206.421,
+            "text": "A punto de explotar.  A ver, vamos por partes.  Controles de precios.  Evidencia empírica, hay más de cuatro mil años... ...que nunca funcionaron... ...porque esta vez va a ser diferente... ...nunca es diferente... ...siempre termina siendo igual... ...¿vos sabes cuándo hicieron  esto?...  ...en el plan Gelbar... ...controles de precios... ...se llamaba inflación cero... ...fuerte represión del sistema de precios... ...y ¿qué  hacían?...  ...emitían dinero... ...eso generó un desequilibrio... ...en el sector externo...  ...¿sí?...  ...vino el señor Celestino Rodrigo... ...sincero todo...  ...¿sí?...  ...se conoció como el Rodrigazo... ...de hecho Argentina tiene... ...peores condiciones... ...previas al Rodrigazo... ...te paso todos los datos... ...primer punto... ...Argentina tiene un déficit fiscal... ...propio de las grandes crisis... ...el año pasado terminamos... ...entre Nación, Provincias, Municipios... ...y Banco Central... ...once puntos del PBI... ...fíjate esto, el Rodrigazo estalló con catorce... ...la tablita cambiaría con once... ...con lo cual ya estamos ahí... ...la hiperinflación de Alfonsín con ocho... La convertibilidad con siete, once el año pasado.  Este año, si el déficit fiscal va a cuatro puntos y medio, ¿qué es lo que está en el presupuesto?  El consolidado con Nación, Provincia, Municipios y Banco Central va a estar en torno de ocho, nivel propio de crisis.  Punto uno.  Punto dos.  Tenés un desequilibrio monetario monstruoso.  Vos tenés una base monetaria, que es el dinero que emite el Banco Central, Y tenés una base monetaria y media en Lelix y pases.  Es decir, dinero que, digamos, en realidad son pasivos monetarios que se pueden convertir en dinero muy rápidamente.  Y además, tenés que financiar el déficit.  De hecho, mirá lo que son las cosas.  En este momento, digamos, viene emitiendo doscientos cincuenta mil millones de pesos por mes el gobierno.  Pero en diciembre va a emitir cuatrocientos cincuenta mil millones de pesos.  O sea, un punto dos billones de acá a fin de año. ",
+            "cosine_dist": 0.26389478094342644,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 207.082,
+            "end_time": 213.226,
+            "text": "Cuando vos decís a punto de explotar, estás diciendo qué.  O sea, ¿qué te imaginas?  ¿Un rodrigazo?  ¿Un qué? ",
+            "cosine_dist": 0.8671492035558175,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 214.247,
+            "end_time": 265.195,
+            "text": "Va a ser peor que el rodrigazo.  Porque entonces, si yo tengo que puedo llegar a multiplicar la cantidad de dinero por tres coma cinco veces, si el sobrante de dinero, porque ¿qué pasa?  ¿Por qué crees que hay control de capitales?  Porque no queremos tener los pesos y nos obligan a tener los pesos.  Eso hace que cuando la cantidad de dinero, digamos, o sea, transaccional, tendría que estar en tres, cuatro puntos del PBI, está entre diez y doce.  O sea, eso es una diferencia tres veces.  Tres por tres coma cinco te da diez coma cinco.  ¿Sabes qué quiere decir eso?  Que la inflación abajo de la alfombra es de novecientos cincuenta por ciento.  Después tenés el mercado de cambios.  Tenés una montaña de regulaciones que hace que El monte Everest parezca el monte Pygmeo.  Y en ese contexto tenés una brecha de cerca del cien por ciento.  No es que en la Argentina faltan dólares, como dicen los ignorantes.  En realidad, sobran un montón de pesos. ",
+            "cosine_dist": 0.24522032984085795,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 265.215,
+            "end_time": 267.678,
+            "text": "Guardados, atesorados en cada uno de nosotros. ",
+            "cosine_dist": 0.8636488930254388,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 268.217,
+            "end_time": 364.899,
+            "text": "Entonces, ¿cuál es el gran problema?  Que con este desequilibrio monetario vos no podés convivir.  ¿Qué es lo que hace este gobierno?  Este gobierno financia el déficit fiscal con emisión monetaria.  Entonces te tira más pesos.  ¿Y cuál es el problema?  Que resuelve el problema de que se te van al dólar con más controles.  Entonces, ¿qué hace?  Te agranda la brecha.  Es una forma de medir el exceso de demanda.  Porque a ese precio hay más gente que quiere comprar que la que quiere vender.  Y eso tiene una consecuencia en la economía, el exceso de oferta.  ¿Qué quiere decir esto?  Que en el mercado de bonos el precio de los bonos es muy bajo, la tasa de interés muy alta.  De hecho, el riesgo país en la punta corta es dos mil.  O sea, no solo eso, eso impacta negativamente sobre la inversión de la economía y hace que se te fuge el ahorro.  Por lo tanto, digamos, eso te va a terminar tarde o temprano pegando en actividad.  Eso te va a generar que no crezca la demanda de empleo y la gente sigue... ...reproduciéndose... ...por lo tanto... ...se te genera desempleo... ...caída del salario real... ...el salario real está en los niveles... ...del dos mil cuatro... ...entonces... ...y si vos seguís haciendo esto... ...o no te bancás la atención social... ...y tarde o temprano devaluás... ...o abrís... ...y explota... ...o sea que... ...si no haces nada... ...explota... ...si vos querés hacer lo que quiere hacer el gobierno... ...que es... ...ponerse... ...más activo con la política fiscal... ...y financiarlo con emisión monetaria... Es decir, es todavía muchísimo peor.  Y si haces lo que tenés que hacer, que es poner las cuentas fiscales en orden, ¿sabés cuál es el problema?  Que como este gobierno no es creíble porque carece de reputación, va a ser profundamente recesivo el ajuste. ",
+            "cosine_dist": 0.2488929802066635,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 364.939,
+            "end_time": 371.423,
+            "text": "¿Cómo salís?  Porque Alberto Fernández puede hacer algún ajuste, algún cambio, ¿está en condiciones políticas de hacerlo? ",
+            "cosine_dist": 0.8815479189907534,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 371.969,
+            "end_time": 374.273,
+            "text": "No, es que se debería olvidar de ser político. ",
+            "cosine_dist": 0.5346868566537597,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 375.034,
+            "end_time": 376.055,
+            "text": "¿Alberto Fernández, el presidente? ",
+            "cosine_dist": 0.9779338376567337,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 376.456,
+            "end_time": 443.879,
+            "text": "Exactamente.  Mira, la historia le plantea el desafío de ser un estadista.  ¿Sí?  Por primera vez que un poli... No en la historia argentina, porque esto ya Pellegrini lo hizo.  Pellegrini se encuentra frente a una crisis, quedaban dos años de gobierno, ¿sí?  Y, digamos, o sea, ¿y qué es lo que hace?  Ponen las cuentas en orden.  ¿Saben la cantidad de cosas que le dijeron?  De hecho, cuando dejó el poder, él salió, él vivía a pocas cuadras del Congreso, se calzó el frac, la galera, el bastón, y salió, y lo que le dijeron en esas cuadras fue de todo.  Pero después, ¿cómo lo recordó la historia?  Como el piloto de tormenta.  Alberto Fernández, después de todas las atrocidades que hizo, tiene una cita con la historia de poder ser un estadista.  Que pague todos los costos que ponga la cara, digamos, total, digamos, él ya es un cadáver político.  Que haga un servicio a la patria.  Pero, ¿sabes qué?  Me parece que son tan miserables que van a apostar a que... poder aguantar como sea, generar toda la demagogia posible financiada con emisión monetaria, y bueno, y si estalla el día después de la elección, no importa, porque acá lo importante es que la casta retenga los lugares en el poder. ",
+            "cosine_dist": 0.24859744085871904,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 444.52,
+            "end_time": 456.045,
+            "text": "Quiero abrir a la mesa, ya hasta el turno del partido.  formás parte de la clase política, te guste, no te guste, vos despreciás, pero sos clase política, sos candidato y vas a entrar con total comodidad. ",
+            "cosine_dist": 0.8593135174381152,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 456.065,
+            "end_time": 522.101,
+            "text": "No, no soy clase política, o sea, de hecho, digamos, Yo hago una diferencia.  Una cosa es hacer política, otra cosa es la casta.  La casta es una cosa mucho más compleja.  Y esto, digamos, donde yo más lo descubrí, ¿sabés qué?  Fue caminando la calle y con mucha interacción con la gente.  Porque una de las cosas que descubrí, que si vos cuando estás caminando la calle y con las demandas que recibís, si vos no estás bien plantado en términos de fundamentos teóricos, de evidencia empírica y cómo esto se arregla, puede llegar a ser un desastre.  Entonces puede haber gente que tiene buena voluntad, pero es ignorante y puede hacer desastres.  La casta es otra cosa.  ¿Qué es la casta?  La casta es gente que está formada, que sabe cómo esto funciona y a pesar de eso, lo hace.  y produce daño sobre la población, ¿por qué?  Porque se beneficia con esto.  Y es más, hay algunos que además son mucho más perversos, porque lo hicieron, fracasó siempre, y lo siguen intentando.  No porque crean que esta vez va a ser diferente y va a funcionar, sino ¿por qué?  Porque se benefician con eso.  Eso es la casta. ",
+            "cosine_dist": 0.2551128297870803,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 522.121,
+            "end_time": 531.829,
+            "text": "Te doy un ejemplo, muy concreto, muy pequeño, para ir de lo particular a lo general.  Una inducción de lo particular a lo general.  Tenés la ley de alquileres hoy.  ¿Qué votás?  La derogación. ",
+            "cosine_dist": 0.8391657839671942,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 532.089,
+            "end_time": 533.009,
+            "text": "Derogación total. ",
+            "cosine_dist": 0.6820326225039519,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 533.349,
+            "end_time": 534.77,
+            "text": "¿Y que cada uno negocie como quiera? ",
+            "cosine_dist": 0.8154421257151712,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 535.65,
+            "end_time": 558.813,
+            "text": "¿Y cuál es el problema de negociar?  Si en el fondo es un contrato entre partes, ¿por qué se tiene que meter el Estado?  Si nosotros queremos hacer un contrato, ¿el Estado sabe mejor que nosotros lo que podemos hacer?  Y bueno, entonces, ¿por qué se mete?  A ver, cuando pasó esto... Sí, yo le avisé al señor Lepovetsky que esto iba a terminar mal.  ¿Qué terminó pasando?  Terminó mal.  Terminó mal.  No mal, muy mal.  Porque ¿qué es lo que pasó? ",
+            "cosine_dist": 0.29365079154391416,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 558.833,
+            "end_time": 564.276,
+            "text": "Vos tenés una propiedad, yo tengo la necesidad de alquilar.  Alquilamos por dos meses, fijamos el precio entre nosotros y actualizamos como queremos. ",
+            "cosine_dist": 0.8863114372950716,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 564.356,
+            "end_time": 575.141,
+            "text": "Nosotros hacemos un acuerdo entre nosotros.  Y, digamos, cuando vos, en el fondo, cuando vos firmás un contrato, es como que estás creando tu propia legislación.  Eso dice.  O sea, a medida, digamos... ",
+            "cosine_dist": 0.3894328827088869,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 575.161,
+            "end_time": 578.023,
+            "text": "Los contratos son las normas para las partes, dice el viejo código. ",
+            "cosine_dist": 0.9327672799070627,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 578.303,
+            "end_time": 631.773,
+            "text": "Exactamente.  Entonces, ¿cuál es el problema?  Si vos sabes cuál es tu situación, yo sé cuál es mi situación, ¿por qué alguien desde la poltrona, que no tiene la más mínima idea de nada, va a determinar cómo tenemos que pactar nosotros?  Es una locura.  Entonces, ¿cuál es el punto?  ¿Qué es lo que le dije a Leipovski que iba a pasar?  que iban a terminar retrayéndose la cantidad de viviendas.  Pasó.  Pasó.  Con lo cual, además, los precios se fueron a las nubes.  Pasó.  Pasó porque el precio relativo subió fuertemente.  Y no solo eso, sino que además hay otro efecto que no se mide, pero que también está presente, que es el deterioro de la calidad de las viviendas que quedan.  Entonces, pasó todo.  Ahora, estas cosas, la teoría económica la tiene resuelta hace setenta años.  ¿Me comprendés?  Entonces, cada vez que se hizo, en todos los lugares del mundo falló.  ¿Por qué creen que va a funcionar bien acá? ",
+            "cosine_dist": 0.3051423871800527,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 631.833,
+            "end_time": 652.421,
+            "text": "Para ir al tema del alquiler, yo comparto con vos que la ley es horrible, se veía venir y generó todo esto que estás diciendo.  También es cierto que hay una masa de necesitados de alquilar y una cantidad de vivienda mucho más baja.  Por lo cual, el que tiene la propiedad puede ejercer la posibilidad de poner el precio que quiera en abuso de la persona que necesita alquilar.  No, es falso.  ¿Por qué? ",
+            "cosine_dist": 0.7709421516116198,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 653.024,
+            "end_time": 657.128,
+            "text": "Porque yo voy y no lo tomo.  ¿Cuál es el problema?  No lo tomo. ",
+            "cosine_dist": 0.6429523567059352,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 657368,
+            "end_time": 657889,
+            "text": "¿Y dónde voy? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 658.329,
+            "end_time": 658.99,
+            "text": "Me iré a otro lado. ",
+            "cosine_dist": 0.8152542744972026,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 659350,
+            "end_time": 659711,
+            "text": "¿A dónde? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 659.991,
+            "end_time": 669.34,
+            "text": "Bueno, me iré a otro lado.  Digamos, o sea, pero vos, o sea, vos, porque si no, digamos, lo que estás diciendo es, entonces yo justifico avanzar sobre la propiedad de los dueños de las propiedades. ",
+            "cosine_dist": 0.35483214625769033,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 669.38,
+            "end_time": 675.306,
+            "text": "No, eso me parece que no.  Pero digo, que haya un plazo mínimo, te da la posibilidad de una parte más débil, que sea el inquilino, que banque. ",
+            "cosine_dist": 0.8830560457316948,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 675.346,
+            "end_time": 725.096,
+            "text": "No, pero... Es que no hay partes débiles en el mercado, porque los intercambios son voluntarios.  Es decir, el problema es que, digamos, porque si no, vos afectás el derecho de propiedad.  Cuando afectás el derecho de propiedad, ¿sabes que va a ser el dueño de la propiedad?  Se va a retirar.  O sea, vas a terminar generando daños.  Es el mismo problema que los controles de precios.  Cuando vos controlas los precios, es un avance sobre el derecho de propiedad.  Es como la ley de alquileres.  Es un avance sobre el derecho de propiedad.  Disculpame, la ley de góndolas.  Es un avance del derecho de propiedad.  Y cuando vos vas contra el derecho de propiedad... ¿Sabes qué?  Porque esto es lo importante, que es lo que no saben no solo los políticos, muchos economistas no lo saben.  El mercado, ¿qué es el mercado?  Es un proceso de cooperación social donde se intercambian derechos de propiedad.  Es decir, si yo te vendo mis anteojos, yo te entrego los anteojos y vos a cambio, ¿qué me das? ",
+            "cosine_dist": 0.30612362386112124,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 725316,
+            "end_time": 725616,
+            "text": "Dinero. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 725.936,
+            "end_time": 900.722,
+            "text": "Dinero.  Bueno, esa relación entre ese dinero y mis anteojos, ¿sabes qué es?  Un precio.  Es un registro histórico y eso transmite señal.  Los agentes se coordinan respecto a eso.  Algunos serán compradores, otros serán vendedores.  Y si hay diferencias entre oferta y demanda, se ajustan los precios.  Si vos tenés un problema de que te faltan viviendas, la única forma que vas a corregir que eso pase es con la señal de precios, que es lo que va a inducir a que la oferta crezca.  Pero acá el problema es que no creen en el mercado, porque lo que no terminan de entender es que el mercado somos todos, interactuando y cooperando, salvo que sea a punta de pistola.  Pero eso ya no es mercado, eso es Estado.  Sí, Javier, tuviste un fuerte cruce con Miriam Bregman en el debate.  De hecho, ella no te saludó ni antes ni después.  Y se dio una situación con respecto a tu posición con el tema del aborto, que vos dejaste una frase que fue polémica, por eso te la quiero consultar.  La única forma en que avalo el derecho al aborto es con riesgo de vida de la madre porque hay un conflicto de propiedad.  ¿Qué quisiste decir con el conflicto de propiedad?  A ver, vamos por partes.  Que yo tenga discrepancias ideológicas con alguien me parece que no amerita ser maleducado.  Yo intenté saludarla al inicio e intenté saludarla al final.  ¿Te diste cuenta en el momento que no te había saludado?  No, sí, sí, me di cuenta, pero nada, me... Entendía que en la primera parte podía estar enojada o algo por el estilo.  Y que, bueno, después del debate, quizás se le pasaba.  Y luego, si la cruzara, la volvería a intentar saludar.  Porque que yo tenga discrepancias ideológicas con alguien... Bueno, de hecho, tengo una excelente relación con el señor y no pensamos precisamente igual.  Ese es el primer punto.  Con lo cual... No importa, si me la volviera a cruzar.  voy a volver a intentar saludarla, no tengo problema, es un problema de otra índole.  Respecto a mi posición del aborto, yo las fundamento desde tres lugares.  Desde un lugar ideológico, desde el liberalismo, lo hago desde un lugar biológico y lo hago desde un lugar matemático.  Desde el lugar del liberalismo es el respeto irrestricto del proyecto de vida del prójimo, basado, esto es muy importante, en el principio de no agresión y en defensa del derecho a la vida, la libertad y la propiedad.  Como en el plano de la biología se determina que la vida comienza con la concepción, Y en la visión matemática vos tenés dos saltos discretos a lo largo de la vida.  La vida es un continuo, pero tiene dos saltos discretos.  ¿Uno cuál es?  La concepción.  Y la otra es la muerte. ",
+            "cosine_dist": 0.3029014475929127,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 900.782,
+            "end_time": 907.53,
+            "text": "No, no, no es así, pero bueno, te sigo.  ¿Cuándo te morís?  ¿Cuándo se muere una persona? ",
+            "cosine_dist": 0.948150661100855,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 908.171,
+            "end_time": 909.292,
+            "text": "¿Cuándo dejaste de respirar? ",
+            "cosine_dist": 0.8774994882331778,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 909.532,
+            "end_time": 917.518,
+            "text": "No.  Bueno.  La ley argentina dice que te morís con electroencefalograma chato, aún con actividad vital.  No, bueno.  Por lo cual, si la vida termina con electroencefalograma... ",
+            "cosine_dist": 0.7757371197575702,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 917.538,
+            "end_time": 921.521,
+            "text": "A ver, te hago una pregunta.  Esa definición, ¿es biológica o de un abogado? ",
+            "cosine_dist": 0.4526916100363748,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 922021,
+            "end_time": 922581,
+            "text": "No es biológica. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 923042,
+            "end_time": 923322,
+            "text": "No, ¿cómo que...? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 923.342,
+            "end_time": 933.189,
+            "text": "Porque la actividad cerebral... No, es biológica.  No, bueno, vos, digamos, o sea... La actividad cerebral que no admite... No, no, la muerte cerebral no permite más la vida de una persona en tanto persona. ",
+            "cosine_dist": 0.8533991484867467,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 933.549,
+            "end_time": 935.711,
+            "text": "No, bueno, está bien, digamos, o sea, vos crees que... ",
+            "cosine_dist": 0.594669335220718,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 935.991,
+            "end_time": 937.052,
+            "text": "¿Qué?  ¿Vos donás órganos? ",
+            "cosine_dist": 0.9646171874535199,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 937.132,
+            "end_time": 944.938,
+            "text": "¿Qué?  Si, digamos, o sea, yo no estoy de acuerdo con la donación, digamos, de órganos si es obligada por el Estado.  Si es voluntaria, sí. ",
+            "cosine_dist": 0.3395172941547626,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 945.258,
+            "end_time": 956.042,
+            "text": "Pero si donas órganos, hay actividad vital, hay actividad celular.  Y a nadie se le ocurre que quien le ablaciona las córneas está matando a una persona.  ¿Por qué?  Porque la muerte se produce no con el último acto celular. ",
+            "cosine_dist": 0.7683867434260139,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 956.442,
+            "end_time": 967.266,
+            "text": "Bueno, digamos, para mí el salto discreto es cuando, digamos, es el último acto celular.  Porque vos no me estás haciendo una definición biológica.  Vos me estás haciendo una definición, estás alegando a la ley. ",
+            "cosine_dist": 0.46581974376301305,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 968.126,
+            "end_time": 976.791,
+            "text": "Pero la ley se basa en una discusión, yo no quiero traer el aborto, pero es una discusión que ya por suerte, para mi mismo deber, ha sido saltada por la ley y nadie obliga a nadie a abortar. ",
+            "cosine_dist": 0.8806021976643336,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 976.811,
+            "end_time": 982.695,
+            "text": "Bueno, a ver, desde mi punto de vista, el salto discreto es cuando no hay más actividad de ningún tipo. ",
+            "cosine_dist": 0.5589306845043105,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 982.795,
+            "end_time": 984.316,
+            "text": "Y la ley te lo respeta. ",
+            "cosine_dist": 0.8652066557232918,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 984.696,
+            "end_time": 1134.381,
+            "text": "Bueno, entonces, en ese concepto, para mí, la interrupción, en cualquier momento intermedio, es un asesinato agravado por el vínculo en el caso del aborto.  Y ahí, digamos, yo tengo dos definiciones que las puedo hacer con dos ejemplos.  La primera es la idea del avión.  Yo soy dueño del avión, voy desde Buenos Aires a París y te invito, Nacho, a venir conmigo.  Yo soy dueño del avión, ¿eh?  Yo soy dueño, dueño del avión.  Estoy en el medio del Atlántico, pasando, y ahora no quiero que vengas conmigo a Europa.  Entonces te digo, bájate del avión.  ¿Cómo vas a terminar?  Muerto.  O sea, por lo tanto, digamos, dadas las características bajo las cuales se generan hoy, al menos hoy, con este nivel de tecnología... ¿Sí?  Digamos, o sea, esa interrupción es una asesinatura.  Ahora bien, es interesante el caso.  cuando me dice, ¿vos cuándo admitís el aborto?  Entonces yo digo, cuando hay peligro de vida de la madre.  Porque hay un conflicto de propiedad.  Es decir, para mí, digamos, la persona que está en el vientre es otro ser.  De hecho, tiene una carga genética distinta desde el propio momento de la concepción.  Es otro ser.  Es un individuo en evolución.  OK.  Entonces, suponete lo siguiente ahora.  Porque vos, ponele que entra alguien a tu casa a robar.  Y vos no estás contento con eso.  Ahora, ¿qué es lo primero que vas a tratar de hacer?  Con esa persona.  Que se vaya.  Pero no es tu primer solución ir y pegarle un tiro en la cabeza.  Lo que vos vas a hacer es, ¿qué cosa?  Tratar de que se vaya.  Y solamente, digamos, recurrirías a la fuerza solo si tu vida estuviera en peligro.  Entonces, ahí sí hay un conflicto de propiedad.  Entonces, ante el conflicto de propiedad, digamos, o sea, vos, ¿qué vas a hacer?  Vas a defender tu propiedad, tu vida.  Entonces, cuando hay riesgo de vida para la madre, entonces, en ese caso, sí es admisible el advogado.  ¿En caso de violación no lo defendés?  La pregunta es, ¿por qué un delito se puede compensar con otro delito?  Es decir, si, no sé, si Luis me robara a mí, ¿yo tengo derecho a robarte a vos?  El caso de violación es una situación muy trágica, muy distinta.  Yo no dije... ",
+            "cosine_dist": 0.2598199273057902,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1134.401,
+            "end_time": 1139.043,
+            "text": "Me parece anacrónica la discusión.  Disculpenme con todo cariño y respeto. ",
+            "cosine_dist": 0.9313195745397349,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1139.063,
+            "end_time": 1140.803,
+            "text": "No hay discusión, le estoy preguntando. ",
+            "cosine_dist": 0.9708294623371128,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1140.863,
+            "end_time": 1153.907,
+            "text": "Pero está sancionado por ley.  A Javier.  nadie le obliga a una mujer que esté con Javier a abortar.  Me parece... Estamos a lo largo de preguntar si el matrimonio igualitario es.  Estamos a lo largo de preguntar si el voto calificado es.  Me parece, ¿no? ",
+            "cosine_dist": 0.8759511067742773,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1154.047,
+            "end_time": 1157.348,
+            "text": "Yo no tengo problema.  Me pregunta yo con texto. ",
+            "cosine_dist": 0.690550244002875,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1157388,
+            "end_time": 1157588,
+            "text": "Obvio. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1157.668,
+            "end_time": 1550.216,
+            "text": "Sí, Rosario... En caso de que llegues al Congreso, que vas a llegar, ¿vas a acompañar el acuerdo con el FMI?  ¿Y se puede pagar a diez años la deuda?  Mirá, el problema central de Argentina, ¿sabés cuál es, Rosario?  No es la deuda en sí mismo.  El problema de Argentina es el déficit fiscal.  Es decir, lo que te genera,  ¿sí?,  El endeudamiento es el déficit fiscal.  Entonces, en realidad, vayas o no vayas al fondo.  Si vos no arreglás el problema... que es el déficit fiscal, vos no vas a tener solución.  Lo primero que vos tenés que hacer entonces es cómo hacemos para arreglar el problema del déficit fiscal.  Una de las cosas que yo elaboré para... Pero con el fondo, con el fondo se tiene que negociar, si tenés que pagar.  No, está bien, es que el Fondo Monetario Internacional, el fondo, digamos, o sea, si vos lo defaulteás al fondo, el problema va a ser mucho más grande que el que tenemos ahora.  Pero vos fíjate que cuando yo describí los tres escenarios... Hay un escenario malo que es el ajuste, porque si ese ajuste no tiene, en un gobierno que no es creíble porque no tiene reputación, ese aumento del ahorro no tiene contrapartida de inversión y es recesivo.  Pero también te dije, si no lo haces, si no haces nada, es muy malo, es mucho peor el resultado, y si haces tirar plata desde un helicóptero, es como tirar nafta al fuego.  Entonces el problema es cómo arreglamos la cuestión del desequilibrio fiscal.  Una de las cosas que yo señalé ayer, y es con la que lo hice cuando hablé del modelo de la casta.  ¿Cuál es el problema?  Ayer vos tenías tres candidatos que en el fondo adhieren a la misma base del modelo, al mismo modelo conceptualmente, que es que donde hay una necesidad... Nace un derecho.  Y eso, digamos, está claro en Vidal, cuando dijo que ella admiraba a Eva Perón.  Está claro, digamos, en Santoro, porque justamente está representando al frente de todos que justamente esa visión la tiene exacerbada.  Y hay que hablar de izquierda, digamos, que son los inspiradores de la idea.  ¿Cuál es el problema con esa idea?  Que cuando vos creas un derecho, alguien lo tiene que pagar.  Entonces, ¿qué es lo que pasa?  Si en cada necesidad nace un derecho, ¿cuál es el problema?  Como las necesidades son infinitas y los recursos son finitos, Argentina vive persistentemente con déficit fiscal.  Argentina, mirá, de los últimos ciento veinte años, durante ciento diez tuvo déficit fiscal.  Desde mil novecientos hasta hoy hubo diecisiete crisis.  De las diecisiete crisis, quince tienen origen fiscal.  No solo eso, desde el año cincuenta, digo, porque hay algunos que tienen algún purismo con las cuentas, entonces, medido desde el año cincuenta hasta acá, ¿sí?  Argentina, como consecuencia de estas crisis... Vivió el cincuenta por ciento del tiempo en recesión.  Es decir, el problema está ahí, porque ¿qué es lo que pasa?  Cuando vos generás el déficit fiscal o lo financiás con impuestos, ¿qué es lo que pasa cuando lo financiás con impuestos?  Ahora, cuando estés en el Congreso va a llegar el acuerdo con el Fondo Monetario.  ¿Apoyás al gobierno?  ¿Me podés permitir que termine con esto?  Porque esto, digamos, te va a dar las bases de la respuesta.  El primer punto es, vos subís los impuestos.  Si vos subís los impuestos, ¿qué terminás haciendo?  Terminás matando el crecimiento.  Argentina, de hecho, digamos, arrancó el siglo XX, teniendo un PBI per cápita, como el de Australia.  Y hoy, al tipo de cambio oficial, tenemos el veinticinco por ciento.  Perdimos el setenta y cinco por ciento.  Y al paralelo, perdimos el ochenta y siete coma cinco por ciento.  O sea, una situación miserable.  De hecho, pensé que en Australia los pobres tienen una cuatro por cuatro.  Pero no solo eso, sino... ¿La otra alternativa cuál es?  Endeudarte.  Es profundamente inmoral, porque es cobrarle impuestos a gente que no votó, a gente que no nació.  O la otra es con emisión monetaria, impuesto inflacionario, y es reventarle la cabeza a los más pobres, porque en el fondo le pega entre veinticinco y treinta veces más fuerte.  Entonces, vos lo que tenés que hacer, primero tiene que cambiar la base del modelo.  Es decir, ese modelo no funciona más porque ese modelo nos lleva, digamos, a Cuba directamente.  Entonces, ¿cuál es el punto?  El punto es que vos tenés que poner las cuentas fiscales en orden.  Después, si te lo financia, digamos, te lo puede financiar el fondo o te lo puede financiar cualquiera.  Ahora, ir a un default, ¿qué hace?  Que convivas con altas tasas de interés, con bajos niveles de capitalización, con salarios reales más bajos.  Por lo tanto, digamos, ahorrar la deuda no es un tema menor.  Argentina es un defaulteador serial.  Digamos, Argentina ya lo superó en la era moderna a Ecuador.  O sea, Argentina está primero en el ranking.  Entonces, el punto es, ¿cómo vamos a hacer el ajuste?  Si el ajuste lo tenés que hacer por las buenas o por las malas.  Es mejor hacerlo por las buenas que por las malas.  Porque eso lo que va a hacer es que sea menos doloroso.  Ahora, el punto clave acá, ¿cuál es?  ¿Cómo vas a hacer el ajuste?  Entonces, para mí, el ajuste tiene que ser ajustando a la política.  Tiene que ajustarse las partidas de donde roba la política.  Ejemplo, tenés que eliminar la obra pública, ir al sistema de iniciativa privada chilena.  Tenés que eliminar las transferencias discrecionales, nación, provincia, provincia, municipio, porque ahí roban de lo lindo.  Claro, la usan para hacer política.  Y además, podrías reencuadrar el tema tarifario, pero de vuelta, tocando la ecuación económica financiera del contrato.  Por ejemplo, Aranguren lo hizo.  digamos, lo hizo mal, ¿por qué?  Porque subía las tarifas, pero no tocaba el resto del contrato, las empresas seguían siendo deficitarias, no te invertían, vos.  lo que tenés que modificar es todo el contrato, y no todo tiene que caer sobre los precios.  El tema entonces es, vos, si vos haces el ajuste que corresponde, porque si no la piña nos la vamos a pegar igual, Digamos, el tema Fondo Monetario Internacional es intrascendente, porque hasta te podrías financiar en el mercado.  El problema es que, ¿quieren hacer el ajuste?  Y si van a hacer el ajuste, ¿a dónde lo van a hacer?  Porque si hacen el gran acuerdo nacional, ¿sí?  ¿Qué se va a juntar?  ¿La RETA con el kiserismo?  ¿Sabe cómo termina eso, no?  Ajuste de vuelta sobre nuestro bolsillo, porque la RETA, digamos, es el campeón de subir los impuestos y no de bajar el gasto. ",
+            "cosine_dist": 0.27954163590030656,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1550.316,
+            "end_time": 1551.878,
+            "text": "Última breve de Martín, por favor. ",
+            "cosine_dist": 0.977157988962516,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1551.918,
+            "end_time": 1662.403,
+            "text": "Ayer se conoció el crimen de Lucas Cancín, un chico en Quilmes cuando iba al colegio.  Y sobre esa noticia, José Luis Esper, candidato de un espacio similar al tuyo en la provincia de Buenos Aires, tuiteó bala, creo yo en referencia a la pena de muerte.  ¿Vos estás de acuerdo con la pena de muerte para algunos delitos?  No, yo no estoy de acuerdo bajo ningún punto de vista con la pena de muerte.  Mi posición respecto a esto en economía se estudia en un campo que se llama Law and Economics.  Es un campo que nació a partir de mil novecientos y ocho con un artículo de Gary Becker que se llama Crimen y Castigo, cuando él estaba dando clases en la Universidad de Columbia, en Nueva York.  Y básicamente en Nueva York se venía aplicando lo que acá llamamos la doctrina Zaffaroni, por decirlo de alguna manera.  Entonces decía, mirá, acá le estás bajando tanto el costo a la delincuencia que la vas a hacer volar por los aires.  Y efectivamente en los ochentas, digamos, Nueva York era la ciudad más peligrosa del mundo.  ¿Cómo lo resolvió Giuliani?  Entendiendo la lógica del crimen como una decisión económica.  Es decir, cuando vos le aumentás el beneficio esperado a una actividad, esa actividad crece.  Ahora, eso entonces tiene toda una lógica de cómo vos lo vas a combatir.  Pero recordá que así como a Nacho yo le definí el liberalismo como el respeto irrestricto del proyecto de vida del prójimo, basado en el principio de no agresión y el primer derecho que rescato en la tradición de John Locke, ¿cuál es?  La vida.  Bajo ningún punto de vista.  estoy a favor de la pena de muerte.  Es decir, ¿cómo voy a ir, digamos, o sea, no sé, ponerle la pena que quieras, hacer que sea de cumplimiento, lo que fuera, pero no con la vida. ",
+            "cosine_dist": 0.2679277546427058,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1663.164,
+            "end_time": 1667.126,
+            "text": "¿Vas a ser bloque propio o vas a ser aliado, vas a tener un interbloque con alguien? ",
+            "cosine_dist": 0.9401863274329407,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1668.404,
+            "end_time": 1766.867,
+            "text": "Mirá, yo no, digamos, o sea, hay personas con las cuales tengo afinidad natural.  Es decir, yo puedo tener mis diferencias, por ejemplo, con José Luis.  Sí, ¿y cuál es el problema?  O sea, los liberales, o sea, tenemos distintas posiciones.  O sea, no todas las posiciones son homogéneas.  De hecho, José Luis es un liberal clásico.  Yo soy un minarquista de los hechos y un anarcocapitalista filosóficamente.  Ahora, respecto al resto, estoy mucho más cerca de lo que es para mí el modelo colectivista.  Por lo tanto, en ese sentido, yo no tengo problemas.  Igual recordá esto, mi concepto es un concepto de índole moral.  Es decir, hay cosas que no voy a hacer, por ejemplo, subir los impuestos, no voy a crear nuevos impuestos, jamás voy a ir contra la vida, la libertad y la propiedad.  Y todos los proyectos Digamos, yo participaré, enviaré o lo que fuera, pero siempre desde una perspectiva moral.  Fíjate que mi principal crítica al Banco Central no está en lo técnico, está en lo moral.  ¿Por qué?  Porque la inflación, en el fondo, es un robo, es una estafa.  Y eso, desde lo moral, está mal, porque vos estás a favor del robo o no.  No.  No estás a favor de la corrupción.  Sin embargo, los políticos nos roban, vía el Banco Central, cinco puntos del PBI.  Un impuesto tremendamente regresivo castiga a los más vulnerables y además perjudica el crecimiento económico.  O sea, a los que menos tienen le hace la doble Nelson porque los deja sin laburo, les deteriora el salario real y encima además después los castiga por la otra vía. ",
+            "cosine_dist": 0.26300469930158477,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1767.167,
+            "end_time": 1768.288,
+            "text": "Nos vemos antes de la elección. ",
+            "cosine_dist": 0.9112552199968817,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1768.829,
+            "end_time": 1772.406,
+            "text": "Será un placer como siempre.  Gracias a todos. ",
+            "cosine_dist": 0.8125126893436105,
+            "is_target_speaker": false
+        }
+    ]
+}

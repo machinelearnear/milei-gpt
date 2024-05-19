@@ -1,0 +1,487 @@
+{
+    "Index": 652,
+    "channel_id": "UC6NVDkuzY2exMOVFw4i9oHw",
+    "channel": "América TV",
+    "uploader_url": "https://www.youtube.com/@americaenvivo",
+    "id": "AQwceHrHwiM",
+    "url": "https://www.youtube.com/watch?v=AQwceHrHwiM",
+    "title": "Javier Milei: \"Vamos rumbo a un default\"",
+    "duration": 1293.0,
+    "view_count": 77089,
+    "candidate_name": "milei",
+    "quality": "low",
+    "segments": [
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1.34,
+            "end_time": 6.265,
+            "text": "Primero algo, felicitaciones por un nuevo Martín Fierro que más que se lo merece usted. ",
+            "cosine_dist": 0.44102748782478607,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 6.485,
+            "end_time": 13.869,
+            "text": "Muchas gracias, la verdad que el premio es de una arbitrariedad infinita, pero cuando te beneficia la arbitrariedad yo suelo disfrutarlo, como corresponde. ",
+            "cosine_dist": 0.947909125414336,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 13.889,
+            "end_time": 14.989,
+            "text": "Yo creo que se disfruta. ",
+            "cosine_dist": 0.7857144434395331,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 15.729,
+            "end_time": 23.373,
+            "text": "¿No es cierto que sí?  Bueno, hablemos un poco de economía.  Viene un extraterrestre y me dice, ¿cómo está hoy la economía argentina?  ¿Qué te dice? ",
+            "cosine_dist": 0.9422241929169078,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 24.433,
+            "end_time": 100.142,
+            "text": "Te diría que está al borde de la peor crisis de su historia.  Argentina camina hacia un default abierto, es decir, ya comenzó el default de la deuda doméstica y básicamente va a un default abierto.  porque, para que te des una idea, supongamos que le creemos al ministro Lacunsa que dice que Argentina tiene una relación deuda-producto del setenta por ciento.  No es cierto, porque eso implica no reconocer la deuda con ANSES, implica no reconocer la deuda con el Banco Central, y eso tiene consecuencias macroeconómicas complicadas.  Por un lado, jubilaciones más bajas, por otro, una tasa de inflación más alta.  Pero supongamos que es setenta, ahora dice que un emergente digamos, soporta cómodamente el setenta por ciento.  Todos los trabajos de Debian Tolerance muestran que para un emergente el límite es cincuenta y cinco por ciento.  Consecuentemente, eso también es falso lo que dijo respecto a que es cómoda.  Pero como si todo esto fuera poco, asumiendo que Argentina pudiera crecer sistemáticamente de acá a la eternidad al tres por ciento, suponiendo que Argentina se pudiera financiar en dólares al ocho por ciento en ",
+            "cosine_dist": 0.3163200163055906,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 100202,
+            "end_time": 100543,
+            "text": "dólares, ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 101.488,
+            "end_time": 114.578,
+            "text": "Ninguno de los dos supuestos son ciertos porque en los últimos años, desde el dos mil once hasta acá, no solo que no crecemos, sino que el PBI per cápita cayó más de doce por ciento.  La tasa de interés, el riesgo país argentino es dos mil quinientos puntos básicos. ",
+            "cosine_dist": 0.3294174788134221,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 114.598,
+            "end_time": 116.159,
+            "text": "Son veinticinco puntos más de... ",
+            "cosine_dist": 0.9281861996016364,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 116.239,
+            "end_time": 173.86,
+            "text": "Exacto, arriba del de Estados Unidos.  Pero el bono corto rinde ciento setenta por ciento en dólares, el veinte veinte.  Con lo cual, está claro que son supuestos altamente heroicos.  Bueno, para alcanzar la solvencia, es decir, para ser dignos de crédito, Necesitamos un superávit primario de por lo menos tres puntos y medio del PBI o cuatro y medio.  Y el estructural de Argentina es uno y medio negativo, es decir que necesitamos hacer un ajuste de seis puntos del PBI.  Y nadie está hablando de hacer un ajuste de seis puntos del PBI.  Es más, si vos querés crecer, vos no podés subir más la presión tributaria.  ¿Por qué?  Porque Argentina tiene la presión tributaria en blanco, punto importante, en blanco, no la promedio, en blanco, que es la más alta del mundo.  Porque tenemos ciento sesenta y tres impuestos, lo cual es una maraña imposible, y además sesenta y nueve mil regulaciones, que son todos kiosquitos.  Por lo tanto, Si no ponemos los números fiscales en orden, Argentina se va a... ",
+            "cosine_dist": 0.32334462602604297,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 173.92,
+            "end_time": 188.609,
+            "text": "¿Cominás de qué tipo?  O sea, ¿una crisis de qué?  Nosotros pasamos... ¿Cominás de qué tipo?  O sea, ¿una crisis de qué?  Nosotros pasamos Corralito, Corralón, Plan Bonex, lo que se te ocurra. ",
+            "cosine_dist": 0.9708876065801164,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 189.13,
+            "end_time": 230.979,
+            "text": "Bien, ese es un buen punto, porque sería una combinación entre la del ochenta y nueve, la hiper de Alfonsín... y la del dos mil uno, dos mil dos.  ¿Por qué digo que es la peor de la historia?  Porque este año la pobreza va a terminar en torno al cuarenta por ciento.  Cuando vos declares el default abierto, ¿qué va a pasar?  La tasa de interés va a ser todavía más alta de lo que es ahora.  Porque vos ves el riesgo de país en dos mil quinientos, pero cuando el default es abierto, el riesgo de país llega a niveles de cinco mil, ocho mil, niveles estratosféricos.  Eso genera una descoordinación entre ahorro e inversión que hace que se te destruya la actividad y el nivel de empleo y los salarios reales. ",
+            "cosine_dist": 0.26835186074600526,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 231.499,
+            "end_time": 232.48,
+            "text": "¿Hay riesgo de IPER? ",
+            "cosine_dist": 0.92975856053748,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 232.9,
+            "end_time": 251.261,
+            "text": "Sí, además.  Además, entonces, eso del default abierto te va a llevar la pobreza al cincuenta por ciento.  Y si te estalla una hiperinflación, vas a ver la pobreza en el setenta y cinco por ciento.  Algo nunca visto en la historia argentina.  Un nivel de candombe social que no se lo puede imaginar nadie. ",
+            "cosine_dist": 0.3376879602348072,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 251.601,
+            "end_time": 260.829,
+            "text": "Separo las dos cosas que dijiste.  La hiperinflación, pobreza... Y el default abierto.  ¿Para vos no hay duda de que no se puede renegociar la deuda y que vamos a caer en incumplimiento? ",
+            "cosine_dist": 0.9265376547014494,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 261.351,
+            "end_time": 333.224,
+            "text": "Pero, Luis, la deuda es un contrato que consta de tres partes.  Pago de capital, pago de intereses y tiempo.  Claro, claro.  Bueno, si vos vulnerás el plazo, eso es default.  Aparte, no es tan fácil que vas a renegociar.  ¿Bajo qué situación vas a renegociar si no sabés cuál es el número del resultado primario?  Es decir, la capacidad de pago de un país viene dado por el valor presente de los superávit primario futuro.  Argentina tiene superávit primario negativo.  Es decir, ni siquiera está para empezar a hablar.  Es decir, para empezar a hablar habría que hacer un ajuste de cinco o seis puntos.  ¿Dónde está la idea?  ¿Cuál es la idea que tiene Alberto Fernández?  Es un disparate lo que tiene en la cabeza, que es lo que le dicen sus economistas, salvo Nielsen.  quede afuera de este conjunto de orcos.  Porque, ¿qué es lo que dice?  No, nosotros vamos a aumentar el gasto público, lo vamos a financiar con emisión monetaria y eso va a hacer crecer tanto el PBI que el resultado fiscal va a mejorar.  Eso implica que no lograron pasar un libro de macroeconomía mía básica del capítulo tres. ",
+            "cosine_dist": 0.32390423657214473,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 333.624,
+            "end_time": 348.789,
+            "text": "Ahora digo, lo que vos explicaste tradujo en la nota que vi este fin de semana en página del presidente electo, que dijo, cuando arranquemos la economía, esto es poniéndole plata en el bolsillo de la gente, único modo de ponerle plata es emitir, porque digamos, no creo que haya otra posibilidad, va a arrancar.  Vos decís, esto es catastrófico. ",
+            "cosine_dist": 0.9190360282133445,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 349.049,
+            "end_time": 399.595,
+            "text": "Eso es un disparate.  Vamos a ponerlo en estos términos.  En primer lugar, si esto se resuelve poniéndole plata a la gente en el bolsillo, emitiendo... Alberto, tengo la solución.  ¿Sabés cómo se llama el plan?  Fotocopiadoras para todos.  Le regalo una fotocopiadora a cada familia y que impriman todos los billetes que quieran.  ¿Te das cuenta que es un disparate?  Punto uno.  Punto dos.  Si eso fuera así, ¿por qué no lo hicieron otros países del mundo?  ¿O acaso, digamos, nadie se dio cuenta, todos son tan tontos que solo imprimiendo billetes... ¿Vos podés sacar la economía adelante?  Justo billetes que no los quiere nadie.  Y te voy a decir algo que es peor todavía, Luis.  Esa estupidez en Argentina, de los últimos ciento dieciocho años, la aprobamos durante ciento ocho. ",
+            "cosine_dist": 0.3478113572569299,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 400416,
+            "end_time": 400816,
+            "text": "¿Emitir? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 401.436,
+            "end_time": 458.283,
+            "text": "Sí, hacer déficit fiscal.  Lo financiamos de tres maneras.  Con emisión monetaria, le quitamos tres y cero a la moneda, ya podríamos quitarle dos más.  Destrozamos cinco signos monetarios, tuvimos dos hiperinflaciones sin guerra.  Tomamos deuda y somos el máximo defaulteador serial del mundo en la era moderna.  Y además subimos los impuestos y tenemos la presión fiscal en blanco más alta del mundo.  Es decir, probamos todo.  Lo único que no probamos fue poner al sector público en caja, bajando el gasto público.  Es decir, la perversión acá es que cuando te quieren hacer política fiscal expansiva siempre hablan de... aumentar el gasto, pero nunca es bajar los impuestos.  Y cuando hay que hacer el ajuste, nunca es bajar el gasto, siempre es subir los impuestos.  Es decir, siempre se perjudica al sector privado, justamente se perjudica al que genera riqueza.  Consecuentemente, de ser el país más rico del mundo, es un milagro que todavía seamos setenta. ",
+            "cosine_dist": 0.3641688344103644,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 459.517,
+            "end_time": 469.781,
+            "text": "Ahora, la pregunta mía es, suponte que emiten y que va a haber como un anabólico ficticio, según lo que me está diciendo, porque va a parecer que arranca la cosa, ¿o no? ",
+            "cosine_dist": 0.9542190074701481,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 470.441,
+            "end_time": 522.606,
+            "text": "No, pero, mirá, a ver, por ejemplo, te cuento algunas estupideces que dicen que son monumentales.  Dicen, no, bueno, vos emitís.  Entonces, bueno, una parte se va al contado con liqui, ¿sí?  Ah, o al paralelo.  Y te hago una pregunta, ¿pero esos pesos quedan en la calle?  Entonces, cuando vos aumentás la oferta de dinero ante una demanda de dinero dada, lo que vos vas a tener es que el poder adquisitivo del peso cae.  Es decir, que todos los bienes expresados en unidades monetarias suben.  Es decir, va a subir el dólar primero porque es un activo financiero, los alimentos lo acompañan, después lo sigue el IPM, o sea, los precios mayoristas, después el IPC y por último los salarios.  Por eso siempre te aumenta la pobreza en esos eventos, te aumenta la pobreza y la indigencia.  Pero eso no es todo, Luis.  Además se está derrumbando la demanda de dinero, la demanda de dinero se está haciendo crema. ",
+            "cosine_dist": 0.3064307869071973,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 523.606,
+            "end_time": 539.733,
+            "text": "Te detengo un segundo, porque ¿qué dicen ellos?  Yo voy a emitir dinero y no va a aumentar ni el dólar, ni los precios, ni el valor relativo, porque voy a hacer un acuerdo.  El once de diciembre yo me voy a sentar con los empresarios, con los sindicalistas, con los consumidores y con quien sea y hacemos un acuerdo. ",
+            "cosine_dist": 0.8346910622455684,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 540.873,
+            "end_time": 597.324,
+            "text": "Yo les recomendaría que se dediquen al humor, les iría mucho mejor.  Mirá, hay un libro que se llama Cuatro mil años de controles de precios y salarios.  El subtítulo es Cómo no combatir la inflación.  ¿Y sabés qué?  Desde el año dos mil ochocientos antes de Cristo, en la quinta dinastía de los sumerios, ya eso falló.  Y falló siempre.  Es decir, la inflación es siempre y en todo lugar un fenómeno monetario.  Y esto se puede producir o porque aumentás la cantidad de dinero, o porque cae la demanda de dinero, o porque ocurren las dos cosas simultáneamente.  Argentina está padeciendo un problema de caída de la demanda feroz.  ¿Por qué?  Porque a partir de lo que fue la aberración del veintiocho de diciembre del dos mil diecisiete, ahí se te derrumbó la demanda de dinero.  Entonces, fíjate, desde ese momento, el día anterior Sturzenegger había comprado dólares a diecisiete mangos.  Hoy, digamos, lo tenés en, ¿cuánto?  En sesenta y dos, sesenta y tres. ",
+            "cosine_dist": 0.3502726911718669,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 597.384,
+            "end_time": 598.665,
+            "text": "El oficial sesenta y dos, cincuenta. ",
+            "cosine_dist": 0.8938091117144917,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 598.685,
+            "end_time": 612.33,
+            "text": "Sí, claro.  Pero todo encarcelado.  O sea, eso no es un precio de equilibrio.  El contado colique está en setenta y cinco.  Entonces, digo, a ver, y en realidad esas son operaciones calzadas por comisiones, con lo cual en cuanto se te mueve el oficial, de esos también se te van arriba. ",
+            "cosine_dist": 0.3806177015533694,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 612.35,
+            "end_time": 626.835,
+            "text": "Pero, Javier, ¿qué te dicen ellos?  Nosotros hacemos esto porque lo otro no funcionó.  Macri hizo, secó la plaza de dinero, no emitió, bajó el déficit fiscal, ya sé que me decís que no, y no funcionó. ",
+            "cosine_dist": 0.8574865642799137,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 626.995,
+            "end_time": 692.695,
+            "text": "Pero es falso eso.  El problema es que eso es falso, Luis.  A ver, el problema es el siguiente.  La política monetaria actúa con un rezago de dieciocho meses.  Entonces yo te describo lo que pasó, por ejemplo, durante el dos mil dieciocho.  El tipo de cambio salta a ciento veinte por ciento.  Los precios mayoristas que venían al doce treparon al setenta y cinco.  Los minoristas que venían al dieciocho treparon al cuarenta y siete.  Quiere decir que aun cuando vos no hubieras emitido un solo peso, a vos todavía te quedaba por limpiar cincuenta puntos de inflación.  Es decir, vos frenabas La emisión monetaria, y en el lapso de dieciocho meses te tenías que purgar cincuenta puntos de inflación.  seguro, punto uno.  Ahora, pero no es cierto que no se emitió.  Porque vos no emitías dinero presente, pero sí emitías dinero futuro.  ¿Qué son las LELIC?  Es decir, entonces, si vos tenés que... A ver, vos tenés que pricear tu servicio de periodista. ",
+            "cosine_dist": 0.36747117656223505,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 692.995,
+            "end_time": 694.835,
+            "text": "¿Qué viene de pricear un servicio? ",
+            "cosine_dist": 0.8842548908125241,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 695.075,
+            "end_time": 700.337,
+            "text": "Decidir cuánto vas a cobrar el mes que viene.  O sea, te dicen, bueno, mira, necesito que me hagas este trabajo. ",
+            "cosine_dist": 0.44812540222517805,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 700.797,
+            "end_time": 701.398,
+            "text": "¿Cuánto me sale? ",
+            "cosine_dist": 1.0009482436628077,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 701.578,
+            "end_time": 741.712,
+            "text": "Claro, entonces vos vas a poner un precio.  Bueno, formás expectativa, ¿no?  Mirando el pasado, mirando el futuro, ¿no?  Entonces, cuando vos mirás cómo crecían las LELIC.  vos decís, pará, pará, esto en algún momento se va a convertir en emisión monetaria.  Y de hecho, fíjate qué está pasando con las LELIC, se están convirtiendo en emisión monetaria.  Es decir, con lo cual, cuando vos mirabas todo cómo venían evolucionando los pasivos monetarios, o sea, la base monetaria más las LELIC, venía creciendo arriba del cuatro mensual, estabas arriba del cincuenta anual.  Es decir, vos no ibas a poder bajar la inflación de ninguna manera, porque cualquier persona con dos neuronas se da cuenta que eso se vuelve emisión de dinero. ",
+            "cosine_dist": 0.34100988990826575,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 742.632,
+            "end_time": 753.018,
+            "text": "Comparado con lo que hizo Macri, que es objetivo, ya sabemos lo que hizo Macri, con lo que se dice que va a hacer Alberto Fernández, ¿es igual, es mejor o es peor? ",
+            "cosine_dist": 0.8474920039769622,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 753.699,
+            "end_time": 755.26,
+            "text": "No, es muchísimo peor todavía. ",
+            "cosine_dist": 0.6171606592319351,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 755380,
+            "end_time": 755900,
+            "text": "¿Lo de Alberto? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 756.34,
+            "end_time": 805.052,
+            "text": "Claro, porque el eje central de la economía argentina es el problema del tamaño del Estado.  El eje central del problema de la Argentina es el déficit fiscal, es que continuamente queremos gastar más de lo que tenemos.  Y ahí viene el problema.  Porque cuando dicen la deuda, digo, ¿cómo se genera la deuda?  La deuda se genera porque gastás más de lo que te ingresa.  Ahora, como no vamos a tener acceso a la deuda porque vamos a estar en default, le vamos a dar a la maquinita.  Y esta es la parte más complicada todavía.  ¿Por qué es más complicada?  Porque suponete que, digamos, se empiezan a desarmar las LELICs.  Y se dan cuenta que eso empieza a generar un problema.  Entonces lo resuelven con un plan Bónex.  Para evitar la hiperinflación, para evitar que crezca mucho... ",
+            "cosine_dist": 0.31527586781065886,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 805.072,
+            "end_time": 807.234,
+            "text": "Para el que no sabe qué fue el plan Bones, ¿qué es el plan Bones? ",
+            "cosine_dist": 0.8813552080161997,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 807.254,
+            "end_time": 809.656,
+            "text": "Bueno, a ver, vos tenés plata... ",
+            "cosine_dist": 0.573050821279989,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 810237,
+            "end_time": 810717,
+            "text": "En los bancos. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 811.418,
+            "end_time": 823.549,
+            "text": "Los bancos le colocan plata al Banco Central, que es la plata que tiene de los depositantes.  Entonces, ¿qué es lo que pasa?  Ponían en Lelix, y con eso le pagaban a los depositantes. ",
+            "cosine_dist": 0.33098607924585266,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 823.649,
+            "end_time": 827.072,
+            "text": "O sea, yo llevo cien mil pesos, los pongo en el banco. ",
+            "cosine_dist": 0.8389367302577737,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 827.432,
+            "end_time": 829.653,
+            "text": "Claro, y el banco se daba vuelta y los ponía en LELIC. ",
+            "cosine_dist": 0.5736881937203974,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 829.934,
+            "end_time": 831.395,
+            "text": "Una parte, porque la otra parte... ",
+            "cosine_dist": 0.8664450328412576,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 831.855,
+            "end_time": 844.063,
+            "text": "Entonces, con eso te pagaba tasa de interés.  Entonces, si el Banco Central va a desesterilizar LELIC, digamos, entonces vos no le podés pagar tasa al depositante, el depositante va a comprar dólares... ",
+            "cosine_dist": 0.3649797252482766,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 844.483,
+            "end_time": 846.085,
+            "text": "Se va a retirar el dinero y se quiere llegar al... ",
+            "cosine_dist": 1.0040256516239934,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 846.165,
+            "end_time": 932.076,
+            "text": "Exacto, y entonces va a empezar la corrida.  y ahí, digamos, tenés la huida del dinero y ahí tenés la generación de inflación.  Ok, si vos querés evitar eso, una cosa que podés hacer es un plan Bónex.  Si vos haces un plan Bónex, quiere decir que el Banco Central no le va a pagar a los bancos, sino que le va a dar un título público.  Cuando se quiera dar vuelta y pagarle al depositante, le va a tener que pagar con un título público.  El plan Bónex, ese es el plan Bónex.  O sea, no te van a devolver los depósitos, te van a dar un título público que además de un Estado que defaultea.  ¿Ok?  Tremendo problema.  Pero eso no es todo.  Porque cuando vos haces eso, lo que estás haciendo es desintermediar ahorro-inversión.  Es como, digamos, una proxy del corralito.  Corralito, corralona, el que atrás.  Vos sabés que la actividad económica... En el dos mil dos fue uno de los peores años de la historia argentina.  El PBI cayó casi once por ciento.  Pero en el segundo semestre del dos mil dos cayó dieciséis.  Es cuando vos viste los niveles de pobreza arriba del cincuenta por ciento.  Una cosa estratosférica.  Es decir, ¿por qué?  Porque el sistema financiero coordina ahorro-inversión.  Entonces, si vos lo rompes, Lo que vas a tener es una fenomenal caída de la actividad y vas a tener un despiole social enorme.  ¿Y qué es lo que va a pasar?  En ese contexto, ¿vas a tener incentivos todavía a qué?  A subir más el gasto público en una situación donde se te está destruyendo la recaudación. ",
+            "cosine_dist": 0.3308621586983542,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 932.576,
+            "end_time": 950.227,
+            "text": "¿Cuál es la salida?  Yo no encuentro salida a esto.  ¿Cómo me planteás?  Porque aparte lo vivimos esto que vos estás contando.  Pero los que tenemos unos cuantos años... ¿Cómo salgo de esta crisis?  donde tenés?  Cuarenta por ciento de pobreza, cincuenta y cinco por ciento de inflación.  Todos los índices de la producción, todos para abajo.  Menos el de la industria financiera.  ¿Qué hago? ",
+            "cosine_dist": 0.8893377167565202,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 950.987,
+            "end_time": 974.89,
+            "text": "Ojo, igual corregilo por inflación.  No.  Digo, porque viste cuando le miran los retornos pero no le limpian la inflación.  O sea, ¿qué pasa si yo gano en este contexto treinta y cinco por ciento?  Con cincuenta por ciento de inflación.  Y perdí.  Cuidado con eso.  Pero al margen de esta situación, o sea, vos la única forma que tenés para salir de esto es con crecimiento económico. ",
+            "cosine_dist": 0.4043988185801204,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 975.27,
+            "end_time": 976.951,
+            "text": "Sí.  En eso están todos de acuerdo. ",
+            "cosine_dist": 1.0997618515786303,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 977.531,
+            "end_time": 1124.689,
+            "text": "Bien, sí.  Bueno, pero el problema es cómo vos creces.  ¿Qué es lo que muestra la evidencia empírica?  Vos creces por acumular capital físico, por acumular capital humano, por acumular capital social y tener buenas instituciones.  Eso sería básicamente el core.  Vamos a los dos primeros.  Por ejemplo, lo que tiene que ver con la educación.  Argentina ya tiene el cincuenta y cuatro por ciento de los chicos menores de catorce años en la pobreza.  Con lo cual, tenés el futuro hipotecado.  O lo tenés bastante complicado, por decirlo de alguna manera.  Lo otro es el capital físico.  Vos, para acumular capital físico, necesitás invertir.  ¿Y con qué financiás la inversión?  Con ahorro.  Entonces, cuando te dicen, nosotros lo que vamos a hacer es estimular el consumo, porque la estimulación del consumo, eso es lo que va a generar, es un aumento del PBI, es aumento del PBI, va a generar un aumento de la inversión.  Es una estupidez.  Es una estupidez.  Es decir, es una falacia.  Es una falacia derivada del uso del multiplicador keynesiano que está mal, que implica violar la restricción de presupuesto.  Vamos a ponerlo en estos términos.  Suponete que yo tengo una economía.  Porque viste que dice, no, bueno, lo que pasa es que el consumo representa el ochenta por ciento de la economía.  ¿Sí?  Si el consumo representara el ochenta por ciento de la economía y la inversión el veinte, o sea, y si era ochenta-veinte, vos podrías encontrar una relación, si el consumo es tan estable como fracción del ingreso, que dice que cinco veces la inversión te da igual al PBI.  Entonces tengo veinte inversión, multiplico por cinco, me da cien.  Bueno, pero eso es una foto.  Si viene alguien y te dice, no, bueno, ahora yo voy a agarrar con el gasto público, lo voy a financiar con emisión monetaria y de veinte lo voy a llevar a cuarenta, entonces voy a tener un PBI de doscientos y un consumo de ciento sesenta.  Es una estupidez de un tamaño de una casa.  Si eso fuera posible estaríamos en el paraíso, Luis.  Estaríamos en el paraíso.  ¿Por qué no lo hizo nadie antes?  Porque termina mal, porque implica violar la restricción de presupuesto.  Porque cuando vos quieras llevar la inversión de veinte a cuarenta, y los financies con emisión monetaria, lo que vas a generar es un desparramo inflacionario enorme, que vas a generar una redistribución del ingreso desde los más vulnerables hacia los que más tienen, para que la inversión vaya a cuarenta y el consumo va a terminar cayendo a sesenta.  ¿Por qué?  Porque el PBI crece por acumulación de factores. ",
+            "cosine_dist": 0.34770847608046784,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1125.029,
+            "end_time": 1133.191,
+            "text": "Dejá preguntarte por algo que nosotros lamentablemente nos acostumbramos, que es un nuevo escándalo, que es el corralito, o mejor dicho, el cepo.  No corralito, el cepo. ",
+            "cosine_dist": 0.9644214498620689,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1133.211,
+            "end_time": 1134.652,
+            "text": "Me encanta que digas que es un escándalo. ",
+            "cosine_dist": 0.6263639140349055,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1135.032,
+            "end_time": 1138.026,
+            "text": "Es un escándalo.  Nosotros naturalizamos un escándalo. ",
+            "cosine_dist": 0.946849604907499,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1140.547,
+            "end_time": 1146.648,
+            "text": "Es violentar los derechos de propiedad, es violentar las libertades individuales. ",
+            "cosine_dist": 0.5199194347255629,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1146.668,
+            "end_time": 1150.989,
+            "text": "Digo, doscientos dólares de cepo es increíble. ",
+            "cosine_dist": 0.8884285270543599,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1151.209,
+            "end_time": 1210.221,
+            "text": "El número que pongan, porque en el fondo es una perversión.  Mirá, te lo hago con un ejemplo.  Suponete que vos tuvieras diez mil pesos.  Y que la inflación va a ser cincuenta por ciento.  Si vos te quedás un año con esos diez mil pesos, al final del año perdiste un tercio.  Entonces decís, bueno, me compro dólares blancos.  Si te compras dólares blancos y el tipo de cambio salta a cincuenta por ciento, porque es lo que está perdiendo.  valor la moneda, pasás a tener quince mil.  Pero viene el fisco y te cobra, impuesta la ganancia, te roba mil setecientos cincuenta.  Con lo cual, ya ahí te robó cuando en realidad vos seguís teniendo lo mismo.  Ahora fíjate esto, si vos compras dólares y los metés en el colchón, tenés quince mil, ¿cuál es el incentivo?  El incentivo es ir a los dólares y meterlo en el... Claro, justamente.  ¿Por qué?  Porque en realidad lo que están tratando de hacer con el CEPO es que vos no puedas eludir el impuesto inflacionario.  Y el impuesto inflacionario es un robo. ",
+            "cosine_dist": 0.3582595120219809,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1210.541,
+            "end_time": 1216.124,
+            "text": "Ahora, dicho esto, en este marco y con la perspectiva de las medidas, el CEPO llegó para quedarse por años y años. ",
+            "cosine_dist": 0.8696337627120471,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1216.744,
+            "end_time": 1251.581,
+            "text": "Bueno, yo no lo avalo.  Yo lo que digo es, a ver, vos tenés, suponete que tenés un paciente con fiebre.  Está reventando de fiebre.  Entonces, claramente le pones el termómetro, da un número enorme y que no te gusta.  O sea, y tenés unos pocos mangos.  Sabés que el origen es una infección, te dijo el médico.  Vos podés comprar... el medicamento y bancarte un rato largo hasta que baje la fiebre, o alternativamente te vas y te compras una bolsa de cubitos y la pones en el termómetro y baja rapidísimo.  ¿Vos cómo creés que vas a estar? ",
+            "cosine_dist": 0.35275881512715146,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1252.141,
+            "end_time": 1253.282,
+            "text": "Mal, igual de mal. ",
+            "cosine_dist": 1.071344396078971,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1253.342,
+            "end_time": 1292.718,
+            "text": "No, vas a estar peor, Luis, porque ahora ni siquiera tenés plata y cada vez la enfermedad avanza peor.  Es decir, entonces, ¿qué es el cepo y todas esas cosas?  Es corregir los efectos, si no las causas.  Las causas, todo lo que está podrido abajo.  Entonces, si vos no corregís, digamos, el tamaño del Estado, no haces una reforma del Estado, bajando el gasto público y permitiendo una baja de impuestos que permita que las empresas, que son las que generan valor, empiecen a crear trabajo genuino y empiecen a generar mejores salarios.  por mayor productividad, vamos a estar cada vez peor. ",
+            "cosine_dist": 0.4138752134898368,
+            "is_target_speaker": true
+        }
+    ]
+}

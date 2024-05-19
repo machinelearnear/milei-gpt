@@ -1,0 +1,695 @@
+{
+    "Index": 389,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "JjIw9wmaCOQ",
+    "url": "https://www.youtube.com/watch?v=JjIw9wmaCOQ",
+    "title": "\"ANTES DE SUBIR UN IMPUESTO ME CORTO UN BRAZO\" - Javier Milei en IP 21/7/2021",
+    "duration": 1180.0,
+    "view_count": 50270,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 1",
+            "start_time": 0.06,
+            "end_time": 6.031,
+            "text": "Vamos, un corte enseguida.  Volvemos porque tenemos un invitado.  Está por ahí, ¿no?  De lujo, podemos decirlo. ",
+            "cosine_dist": 0.9555357175119908,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 6.051,
+            "end_time": 7.331,
+            "text": "Sí, está acá. ",
+            "cosine_dist": 1.0132346340304563,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 7.351,
+            "end_time": 25.319,
+            "text": "Ahí se está sacando fotos.  Se está sacando fotos.  Está posando.  Se está acomodando el cabello.  Le vamos a preguntar de la campaña de los pelos.  Porque tiene que ver, ¿eh?  Ahí es una marca registrada el pelo de nuestro invitado.  Bueno, vamos, un corte.  Enseguida volvemos.  Ya estamos aquí con nuestro invitado del día de hoy. ",
+            "cosine_dist": 0.9220127706844798,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 25.379,
+            "end_time": 26.98,
+            "text": "Están pasando, desfilando. ",
+            "cosine_dist": 0.9751601899377951,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 27.04,
+            "end_time": 44.616,
+            "text": "Invitamos a distintos candidatos de la ciudad, de la provincia, de las provincias en términos generales.  Ustedes ya lo están viendo, lo conocen bien.  Característico, su cabello también.  Hoy se estuvo hablando de cuestiones capilares alrededor de la política.  Es Javier Milei.  ¿Cómo estás, Javier? ",
+            "cosine_dist": 0.8564489391821851,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 44.977,
+            "end_time": 51.868,
+            "text": "¿Qué tal?  Buenas noches.  Me llamaron para hablar de música y de los Rolling Stones.  Digo que es mi banda favorita. ",
+            "cosine_dist": 0.5579109780192126,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 51.888,
+            "end_time": 52.769,
+            "text": "Ah, ¿los Rolling? ",
+            "cosine_dist": 0.958122024430985,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 52.869,
+            "end_time": 54.449,
+            "text": "Los he visto catorce veces. ",
+            "cosine_dist": 0.6305156820197548,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 55130,
+            "end_time": 55610,
+            "text": "¿En dónde? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 56.07,
+            "end_time": 72.615,
+            "text": "En Argentina, de las quince veces que... Ah, claro, porque... No, de catorce veces que tocaron, trece.  O sea, todas menos una, porque en una estaba... Bueno, Brown Sugar es el que está sonando ahora, no el que sonó primero.  Es con el tema que yo me convertí a los Stones. ",
+            "cosine_dist": 0.41291777398542084,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 73.075,
+            "end_time": 74.736,
+            "text": "Ah, mirá vos, ¿qué edad tenías? ",
+            "cosine_dist": 0.8711833885495632,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 75.931,
+            "end_time": 106.281,
+            "text": "Los empecé a escuchar a los quince años.  Y me hice Stone escuchando... Hay una recopilación de los Stone que además tiene video, que se llama Rewind.  Y está la versión de Brown Sugar de mil nueve setenta y siete que está en el disco Loop You Live.  Disco dos, lado dos.  O sea, porque tengo la discografía completa en vinilo porque soy un señor grande.  y tuve una banda que hacíamos música de Stones y abríamos el recital con Brown Sugar. ",
+            "cosine_dist": 0.4107273312375408,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 106.862,
+            "end_time": 118.346,
+            "text": "mira vos, muy interesante.  y en la Argentina había una característica que es que los Stones la tribu esa se vestía con las zapatillas, las toppers flequillos, vos tenías ese luquete. ",
+            "cosine_dist": 0.8816804813359854,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 119.107,
+            "end_time": 135.655,
+            "text": "bueno vos sabés que está la tribu Rolinga está la tribu Stones y yo acumulaba con las dos porque como cantaba en una banda de rock que se llamaba Everest y hacíamos música de los Stones Justamente yo me llevaba bien con las dos partes, cosa que aún sigue siendo así. ",
+            "cosine_dist": 0.421597830247074,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 136.016,
+            "end_time": 136.796,
+            "text": "¿Y vos cantabas? ",
+            "cosine_dist": 0.8927409107511173,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 138.237,
+            "end_time": 148.118,
+            "text": "Ponele.  Ahora está sonando Miss You, o sea, te extraño, del disco Some Girls de mil nueve setenta y ocho.  Así puede estar.  Esta es versión estudio también. ",
+            "cosine_dist": 0.43499292785943,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 148.178,
+            "end_time": 149.78,
+            "text": "¿Y tocabas la guitarra o algo? ",
+            "cosine_dist": 0.8704959222816525,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 149.86,
+            "end_time": 152.963,
+            "text": "No, solo cantaba.  Supongamos que cantaba. ",
+            "cosine_dist": 0.5953098852952527,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 153.384,
+            "end_time": 157.668,
+            "text": "¿Y esos archivos están desclasificados de alguna forma?  No, yo no tengo problema. ",
+            "cosine_dist": 0.8239296100709516,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 157.688,
+            "end_time": 164.876,
+            "text": "O sea, hay algunas fotos dando vuelta de esa época, pero pasaron treinta y dos años en el medio. ",
+            "cosine_dist": 0.4772122620337811,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 165.136,
+            "end_time": 167.138,
+            "text": "Y en ese momento, ¿tu ideología cuál era? ",
+            "cosine_dist": 0.9387136598706305,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 168.099,
+            "end_time": 187.018,
+            "text": "Mirá... En realidad todavía no había identificado mi ideología.  Y es más, te diría que mi formación universitaria de grado, o sea, mi licenciatura en economía, me alejó de mi ideología.  Porque en general... ",
+            "cosine_dist": 0.35605363373940735,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 187.038,
+            "end_time": 188.078,
+            "text": "¿Tú estudiaste en la UBA? ",
+            "cosine_dist": 1.0872889044739371,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 188.298,
+            "end_time": 276.918,
+            "text": "No, yo estudié en la Universidad de Belgrano, pero el programa... Sí, digamos, eso te lo fija la Coneau, te marca los límites y vos no podés salir mucho de ese marco.  Entonces, o sea, fui formado con una posición más cerca de los poskeynesianos, también llamados keynesianos tardíos, y mucho estructuralismo.  O sea, que es, digamos, la típica formación también del graduado de la Universidad de Buenos Aires.  O sea, después, o sea... De hecho, mi primer maestría la hice en keynesianismo y ahí estudié todas las vertientes del keynesianismo.  Y después, la continua frustración de errar permanentemente, cuando hice mi segunda maestría, la hice en ditela, una maestría más con el formato mainstream.  Y la verdad es que tampoco me sentía muy... ¿Cómo decirlo?  Porque cuando viene la crisis subprime, se estaban repitiendo los mismos errores de recomendaciones de política económica que previos a la crisis.  Y se estaban repitiendo los mismos errores de diagnóstico y de recomendaciones previos a la Gran Depresión.  Eso me hizo volver sobre Keynes, me hizo volver sobre Friedman, y la verdad es que veía el debate y me parecía tan alocado, tan fuera de foco en lo que pensaba la Academia, que dije, bueno, nada, a partir de ahora me especializo en crecimiento y me dediqué a hacer crecimiento económico. ",
+            "cosine_dist": 0.3841427141787852,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 277.398,
+            "end_time": 279.74,
+            "text": "Veámoslo en términos políticos, eso para simplificar un poco. ",
+            "cosine_dist": 0.9055022112324687,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 279.76,
+            "end_time": 281.822,
+            "text": "Es que estaba por darte justamente eso. ",
+            "cosine_dist": 0.7295103282791906,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 281.842,
+            "end_time": 297.675,
+            "text": "El espectro te iba a decir, por ejemplo, es muy difícil explicarle ahora al que está mirando la televisión quién fue Keynes o quién fue Friedman, digamos.  Simplificando un poco el debate, acá hay un debate constante que es la izquierda, la derecha y el centro.  Vos, entre esos tres segmentos, ¿con cuál te identificás? ",
+            "cosine_dist": 0.881429163825199,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 298.336,
+            "end_time": 343.43,
+            "text": "Con ninguno.  ¿Cómo sería?  Porque en realidad habría que mirarlo con lo que es el diagrama de Nolan.  Entonces vos tenés a la izquierda de un lado, a la derecha del otro, tenés las posiciones más totalitarias abajo y arriba tenés a los liberales, las distintas vertientes y en el extremo tenés los liberales libertarios anarcocapitalistas.  De hecho, yo filosóficamente, aclaro la diferencia, filosóficamente soy anarcocapitalista.  En la vida real, como tengo los pies sobre la tierra, soy minarquista.  Que vendría a ser que la función del Estado es seguridad y justicia.  Y lo otro es todo discutible. ",
+            "cosine_dist": 0.36293307446306977,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 343.871,
+            "end_time": 345.152,
+            "text": "Salud, educación, nada. ",
+            "cosine_dist": 1.04923466952431,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 345.852,
+            "end_time": 412.621,
+            "text": "Bueno, a ver, Argentina llegó a tener el mejor sistema de salud a fines del siglo XIX sin que estuviera el Estado metido en el medio.  Vos sabés que es muy importante esto.  El sistema de salud argentino se construyó, por.  ejemplo, una parte tiene que ver con las colectividades, ¿no?  O sea, por ejemplo, entonces ahí tenés el hospital italiano, el hospital francés, el hospital español, así.  Y por otro lado, que esto también es muy importante, la agrupación por trabajadores.  Por eso la primer gran obra social de Argentina, ¿cuál fue?  La fraternidad.  Porque ¿cuál era el segmento más fuerte de la economía?  El ferrocarril.  Entonces, y así como se fue construyendo, y digamos, es más... Algunas partes directamente fueron desarrolladas así exclusivamente por el sector privado, por ejemplo, en el campo.  ¿Por qué?  Porque se le enfermaba un trabajador, tenía un problema enorme.  Entonces se crearon su propio hospital para que la gente que se le enfermaba trabajando tuviera alguna asistencia.  Y así se construyó el sistema de salud argentino.  Y era el mejor sistema del mundo. ",
+            "cosine_dist": 0.37789192076091627,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 413.501,
+            "end_time": 417.144,
+            "text": "Vos no te ubicás dentro de un espectro conservador desde lo económico, desde lo político. ",
+            "cosine_dist": 0.807508275130192,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 418.642,
+            "end_time": 438.808,
+            "text": "En lo económico seguro que no.  En lo otro, digamos, hay definiciones.  Puedo estar más cerca de los paleolibertarios, porque hay definiciones que te ubican, que no son mías, pero las hacen otros que quizás me colocarían como un conservador cuando no lo soy. ",
+            "cosine_dist": 0.38735633671396263,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 438.828,
+            "end_time": 442.569,
+            "text": "Estas son todas definiciones dentro del espectro de la derecha, de alguna manera. ",
+            "cosine_dist": 0.7371539394468669,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 443.63,
+            "end_time": 448.873,
+            "text": "Y bueno, si es del otro lado están todes, sí, llámalo la derecha si querés. ",
+            "cosine_dist": 0.5439219168465048,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 448.893,
+            "end_time": 451.354,
+            "text": "¿Y Macri de qué lado está ahí?  ¿O Cambiemos de qué lado está? ",
+            "cosine_dist": 0.8919849712199936,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 451.674,
+            "end_time": 454.435,
+            "text": "Cambiemos está del lado de la centro izquierda, claramente. ",
+            "cosine_dist": 0.5903080798808862,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 454.795,
+            "end_time": 455.476,
+            "text": "¿De la centro izquierda? ",
+            "cosine_dist": 0.9624715291169266,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 455.776,
+            "end_time": 463.076,
+            "text": "Sí, claro.  No hay diferencia entre Larreta, Vidal, Máximo Kirchner.  No hay diferencia.  Alberto Fernández, o sea... ",
+            "cosine_dist": 0.4628128604570213,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 463.236,
+            "end_time": 464.437,
+            "text": "¿Qué son?  ¿Son todos qué? ",
+            "cosine_dist": 0.9616643556404563,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 464.997,
+            "end_time": 488.773,
+            "text": "No, son... A ver, tampoco se puede ser injusto.  O sea, es un espectro donde hay posiciones más cerca de la izquierda y hay posiciones más cerca de la derecha.  Perdón, del centro.  Pero, también digo, vale decir más cerca de la derecha, pero son todas expresiones de izquierda.  O sea, más suaves, menos suaves, pero, digamos, o sea... Es ese espectro. ",
+            "cosine_dist": 0.40908648543746984,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 489.234,
+            "end_time": 491.694,
+            "text": "Está bien, Javier, pero entonces, volviendo al... ",
+            "cosine_dist": 0.9270521580675197,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 491.714,
+            "end_time": 503.559,
+            "text": "Pero a ver, digamos, o sea, ¿querés algo más claro, digamos, que el TikTok en el que aparece Vidal diciéndole a la gente que se quede para sacarle el dinero a uno para dárselo a otro?  Digo, la idea de la justicia social. ",
+            "cosine_dist": 0.4274217456502455,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 503899,
+            "end_time": 504119,
+            "text": "Claro. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 504.599,
+            "end_time": 517.991,
+            "text": "O sea, eso, digamos, o sea, si vos, o sea, le hubiera dicho... Que esta es la parte que a veces yo digo, pará, Ok, porque si eso lo hubiera dicho Máximo Kessler, le hubieran tirado con todo.  Ahora lo hizo Vidal, nadie le dice nada. ",
+            "cosine_dist": 0.4430360507135884,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 518.051,
+            "end_time": 521.836,
+            "text": "Pero Cambiemos no hizo campaña con eso, hizo campaña con la meritocracia más que con la justicia social. ",
+            "cosine_dist": 0.8063233575711423,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 522.916,
+            "end_time": 581.44,
+            "text": "No fue lo que hizo después como gobierno.  De hecho, es más, fue recontra antiliberal porque subió los impuestos, no los bajó cuando había prometido bajarlos.  No solo eso, sino que además, por ejemplo, fue contra las libertades individuales, puso el cepo.  O sea, fue profundamente antiliberal en el tema de generar mucho endeudamiento porque no hay nada más antiliberal que el endeudamiento.  ¿Por qué?  Porque vos cuando generas gasto público lo vas a financiar de tres maneras.  Una es con impuestos, hoy, digamos que reventás a los de hoy.  Otra es con emisión monetaria, generando inflación y castigando a los sectores más vulnerables de la población.  Y la otra, que es ya el colmo de la inmoralidad, es con deuda.  ¿Por qué es el colmo de la inmoralidad?  Porque vos le estás trasladando la cuenta a generaciones futuras que quizás ni siquiera votaron.  Quizás ni siquiera nacieron. ",
+            "cosine_dist": 0.4222061095877485,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 581.62,
+            "end_time": 593.664,
+            "text": "Javier, acá estuvo la semana pasada, ¿no?  Martín Tetás, candidato de Vidal, y dijo lo contrario.  Dijo que en realidad lo de la deuda es un mito, que la plata del FMI no se fugó, no está, que no se incrementó. ",
+            "cosine_dist": 0.8150173153586644,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 594.225,
+            "end_time": 653.574,
+            "text": "Bueno, a ver.  Parte del endeudamiento tuvo que ver con el rollover.  Pero no es cierto que no se generó deuda porque no había superávit fiscal.  O sea, la acumulación de deuda es la contracara del déficit fiscal.  O sea, ¿hubo superávit fiscal?  No.  Con lo cual, esa parte es discutible.  Lo que vos podés discutir es el nivel de deuda que se tomó.  Y no es cierto... que parte de la deuda no se haya fugado.  Es cierto que lo que prestó el fondo mucho tenía que ver con rollover de la deuda.  Es decir, para que vos pudieras pagar la deuda, para que Argentina no cayera en default, cosa que sí hizo porque esa metáfora del reperfilamiento, eso es una mentira.  O sea, ¿qué es un contrato de deuda?  Tiempo, plazo, tasa de interés, capital.  Y si vos le decís a quien le tenías que pagar hoy que le vas a pagar dentro de seis meses, eso es default. ",
+            "cosine_dist": 0.368970362833283,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 654.502,
+            "end_time": 655.803,
+            "text": "Pero una parte se fugó. ",
+            "cosine_dist": 0.9598413911265957,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 656.324,
+            "end_time": 674.76,
+            "text": "Pero sí, una parte se fugó.  ¿Sabés cuál es la parte que se fugó?  La parte que el Fondo Monetario le presta a la Argentina para limpiar el balance del Banco Central, que eran quince mil millones de dólares.  Cuando Sturzenegger intenta hacer esa operación, lo echan. ",
+            "cosine_dist": 0.4346847689904204,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 675.64,
+            "end_time": 689.343,
+            "text": "Está bien.  Javier, decías, yo soy filosóficamente anarcocapitalista, o sea, vos lo que impulsás es que el Estado se retire por completo.  Decís en la corta, mientras tanto, que se dedique a dos cuestiones que es seguridad y justicia. ",
+            "cosine_dist": 0.9030669422017067,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 689.363,
+            "end_time": 724.134,
+            "text": "A ver, el punto es el siguiente.  Esto es lo mismo que lo plantea Friedman.  Friedman te dice, mira, hay tres tipos de liberales.  Están los liberales clásicos, están... Los minarquistas, y si usted se fija bien, están los anarquistas.  O sea, Benjamin, hijo de Milton, es anarquista.  Ahora, la realidad es que con este nivel de Estado, o sea, discutir si sos un liberal clásico, un liberal minarquista y un liberal anarcocapitalista, digamos, con tal de marcar la dirección correcta, es una discusión.  Discusión absolutamente abstracta. ",
+            "cosine_dist": 0.4199709063688115,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 724.154,
+            "end_time": 737.459,
+            "text": "Está bien, pero desde esa visión, te pregunto, yo me voy de aquí, del canal.  La calle, la avenida, la luz, ¿quién se ocupa de mantener eso, digamos?  ¿O es algo tercerizado en los privados?  ¿Cómo? ",
+            "cosine_dist": 0.8453757036706503,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 738.279,
+            "end_time": 743.601,
+            "text": "¿Te lo puedo hacer así?  Por ejemplo, vos en un country, ¿las hace el Estado?  las calles? ",
+            "cosine_dist": 0.5196829255841802,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 744.241,
+            "end_time": 746.362,
+            "text": "No, internamente no, las calles del cambio no. ",
+            "cosine_dist": 0.9356954740895126,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 746.382,
+            "end_time": 771.099,
+            "text": "Y bueno, entonces, ¿por qué no creer que los individuos pueden tener la capacidad de hacer los sellos?  Es más, cuando vos tomás las rutas en Chile, que esto es algo que yo voy a impulsar, si tengo, digamos, la compañía de la gente para ingresar a la Cámara de Diputados, como diputado de la Ciudad Autónoma de Buenos Aires... es ir a un sistema de obra pública a la chilena, o sea, lo que se llama de iniciativa privada.  Las rutas en Chile las hace el sector privado. ",
+            "cosine_dist": 0.3557911398805714,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 771.579,
+            "end_time": 773.821,
+            "text": "O sea, el asfalto de acá, de la calle Gorriti... ",
+            "cosine_dist": 0.8708152473023292,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 773.841,
+            "end_time": 777.544,
+            "text": "A mí lo podría hacer el sector privado.  Mirá, en general... ",
+            "cosine_dist": 0.6226121475838915,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 777.724,
+            "end_time": 785.351,
+            "text": "Pero ahí no estaríamos hablando de una situación de lucro, digamos, que el lucro te impediría tener posibilidades que el Estado tiene, digamos. ",
+            "cosine_dist": 0.6920055558679755,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 786.091,
+            "end_time": 824.569,
+            "text": "Pero ¿por qué crees que, digamos, o sea, el Estado, digamos, es gratis?  Si no es gratis, si alguien lo tiene que pagar... Así que alguien lo tiene que hacer y no existe eso de que vos no... Si vos lo que estás diciendo es que en el medio no hay lucro, eso quiere decir que vos estás diciendo que estás haciendo algo que la gente no quiere.  Entonces le estás sacando impuestos compulsivamente, porque nadie paga los impuestos voluntariamente, por eso se llaman impuestos, ¿sí?  que ahora lo quieren edulcorar diciéndote contribuyente.  Llamar contribuyente al pagador de impuestos es lo mismo que el violador llame novia a su víctima. ",
+            "cosine_dist": 0.3979263836927205,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 824.709,
+            "end_time": 825.59,
+            "text": "Bueno. ",
+            "cosine_dist": 0.9153515047131364,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 825.65,
+            "end_time": 852.954,
+            "text": "Sí, claro.  Tengo ejemplos mejores y un poquitito más fuertes también.  Lo que quiero decir es que... Si no hay lucro, quiere decir que entonces la sociedad no lo valora lo suficiente.  Por lo tanto, no solo que está el acto violento de quitar los impuestos, no solo que está la violencia que genera la reasignación de recursos, sino que además tenés una pérdida de bienestar, porque quiere decir que con recursos escasos, vos, la sociedad, estaría dispuesta a ponerlo en otro lugar y no en ese lugar. ",
+            "cosine_dist": 0.4457434396984248,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 852.994,
+            "end_time": 866.683,
+            "text": "Pero Javier, en una realidad social como la de Argentina y Latinoamérica, tan desigual, ¿no?  Digo, un continente en donde el problema no es tanta la pobreza, sino la desigualdad que No, para mí el problema más importante es la pobreza. ",
+            "cosine_dist": 0.7807781410371373,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 866.703,
+            "end_time": 872.005,
+            "text": "Está bien.  Digo, Argentina tiene el cincuenta por ciento de pobres, tiene el once por ciento de indigentes.  Está bien.  Para mí eso es el problema más grave. ",
+            "cosine_dist": 0.6976108678486357,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 872.305,
+            "end_time": 882.51,
+            "text": "Ahí tenés razón.  Digo, pero que quede todo tercerizado en privado, digo, ¿no reforzaría, no aumentaría la brecha, digo, la desigualdad y la pobreza? ",
+            "cosine_dist": 0.8004312270602445,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 883.05,
+            "end_time": 976.636,
+            "text": "El problema es cómo vos definís la desigualdad.  O sea, hay una cuestión de propia discusión de indicadores, si son los indicadores válidos o no, y hay otra discusión es, yo tengo una pregunta, si una persona se gana honestamente su trabajo, ¿cuál es el problema?  Bueno, entonces, digamos, ahora sí, un tipo, digamos... Es más, aquel que es exitoso en el capitalismo solo lo puede hacer sirviendo al prójimo con bienes de mejor calidad o mejor precio.  Es decir, es un benefactor social porque te genera productos de mejor calidad, beneficia a toda la población con esos bienes de mejor calidad o mejor precio, genera fuentes de trabajo, o sea, genera procesos de acumulación que derivan en acumulación de capital y eso genera mayor productividad y mayor salario.  O sea... Si vos no crees esto, que tranquilamente lo podés creer.  Entonces, ¿cómo puede ser que se genere, digamos, alguien que gana plata si no es bajo esta lógica?  Entonces quiere decir que está el Estado.  Entonces ya no es un empresario, es un empresario.  Es un tipo que vive de la dádiva del Estado.  Entonces, si vive de la dádiva del Estado, merece quebrar.  Si es un empresucio, merece quebrar.  Sí.  ¿Ok?  Entonces, bajo un sistema... Entonces, si vos promovés... El capitalismo de libre empresa, los empresarios se convierten en benefactores sociales.  Si no, tenés empresarios.  Y ningún empresario puede comprar favores que el Estado no tiene para vender. ",
+            "cosine_dist": 0.4003619410857262,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 977.803,
+            "end_time": 987.17,
+            "text": "Javier, decías al principio de la nota todo lo que te diferencia de los otros espacios políticos.  Lo que hablabas de que Vidal o... ",
+            "cosine_dist": 0.9139261046723777,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1001.329,
+            "end_time": 1008.655,
+            "text": "jamás voy a ir contra la propiedad privada.  Con solo eso quedó toda la casta política del otro lado, toda la oligarquía política quedó del otro lado. ",
+            "cosine_dist": 0.49633566972944343,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1008.715,
+            "end_time": 1017.923,
+            "text": "Esa es la pregunta que te iba a hacer.  Si en diputados hay que generar consensos y vos vas a quedar solo del otro lado, ¿cuál sería tu aporte? ",
+            "cosine_dist": 0.9742287861765752,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1019.036,
+            "end_time": 1043.773,
+            "text": "Sería manifestarle a la sociedad quiénes son los que van por el oro, o sea, los chorros, y quiénes son los que vamos por el bronce.  De hecho, uno de los proyectos que yo voy a impulsar, por ejemplo, es poder renunciar a la dieta.  Vos no podés renunciar hoy a la dieta.  Es más, otro de los proyectos que voy a enviar es... el régimen de iniciativa privada a la chilena.  ¿Para qué?  Para que la obra pública no sea un choreo como es en la Argentina. ",
+            "cosine_dist": 0.36917167675783036,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1044.154,
+            "end_time": 1046.215,
+            "text": "¿Y vos vas a renunciar a la dieta?  ¡Obvio! ",
+            "cosine_dist": 1.0356712726595299,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1047.036,
+            "end_time": 1056.043,
+            "text": "Yo voy a seguir viviendo de dar conferencias.  Yo no le voy a costar un centavo al pagador de impuestos argentino.  Va contra mi filosofía. ",
+            "cosine_dist": 0.5153417933155272,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1056.243,
+            "end_time": 1063.429,
+            "text": "¿Pero tiene sentido dar esa pelea en el Congreso?  Digamos, vos lo que estás pidiendo es básicamente abolirlo de alguna forma. ",
+            "cosine_dist": 0.8567343681681945,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1065.106,
+            "end_time": 1074.981,
+            "text": "No, porque el Congreso puede ser, por ejemplo, en Suiza, digamos, los diputados son ad honorem.  ¿Sabés por qué se llama Honorable Congreso de la Nación Argentina?  Porque era ad honorem. ",
+            "cosine_dist": 0.46616339049470357,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1075582,
+            "end_time": 1075702,
+            "text": "Bien. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1077.692,
+            "end_time": 1093.752,
+            "text": "Porque algún diputado que le gusta cobrar la dietita, por si le va mal con la venta de libros, se quiso comparar con Alberti.  Y Alberti iba gratis.  O sea, era Don Oren.  Por eso se llamaba Honorable Congreso de la Nación Argentina. ",
+            "cosine_dist": 0.36402790568239185,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1093.772,
+            "end_time": 1095.674,
+            "text": "Javier Milei, muchísimas gracias. ",
+            "cosine_dist": 0.8804890973497459,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1096.455,
+            "end_time": 1097.515,
+            "text": "Muchísimas gracias a ustedes. ",
+            "cosine_dist": 0.7153091606799171,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1097.535,
+            "end_time": 1101.777,
+            "text": "Quedamos con ganas de seguir peloteando, la verdad que sí.  La seguimos la próxima. ",
+            "cosine_dist": 0.9969105403888986,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1101.837,
+            "end_time": 1103.297,
+            "text": "Tenemos otras oportunidades. ",
+            "cosine_dist": 0.8411452803618009,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1103.317,
+            "end_time": 1105.898,
+            "text": "Podemos seguir hablando de los Rollins también. ",
+            "cosine_dist": 1.0264415280400119,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1105.918,
+            "end_time": 1109.939,
+            "text": "Sí, también.  Podemos hacer de los Rollins Tops.  O sea, como verán de los Rollins Tops.  O sea, muy bastante. ",
+            "cosine_dist": 0.6988212423785367,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1109.959,
+            "end_time": 1114.14,
+            "text": "Muy bien, muy bien.  Y de tu etapa como arquero de Chacarita ahí en la reserva. ",
+            "cosine_dist": 0.9573766041999853,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1114.44,
+            "end_time": 1146.502,
+            "text": "¿Querés que les cuente cortito cómo... Ultra.  Ultra cortito.  Yo estaba en el plantel profesional de Chacarita.  Estaba empezando la universidad.  Sí.  estaba la hiperinflación de Alfonsín, y fui al supermercado con mi mamá y veía que la gente, estaban remarcando los precios y la gente se abalanzaba sobre las mercaderías.  Dije, o soy un imbécil o lo que estoy estudiando está mal.  La solución de dignidad dijo que deje de jugar al fútbol, me dediqué a estudiar y escribí mi primer paper a los veinte años que se llama la hiperinflación y la distorsión en los mercados. ",
+            "cosine_dist": 0.37763705861782515,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1147.042,
+            "end_time": 1157.37,
+            "text": "¿Eras bueno como arquero?  Bueno, te defendía.  Gracias, Javier.  Javier Milei, muchísimas gracias.  Vamos a un corte breve. ",
+            "cosine_dist": 0.894375361825961,
+            "is_target_speaker": false
+        }
+    ]
+}

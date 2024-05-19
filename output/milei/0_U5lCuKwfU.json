@@ -1,0 +1,687 @@
+{
+    "Index": 555,
+    "channel_id": "UCqz5tDLcGBJ5obqpSLSkiaQ",
+    "channel": "MILEI PRESIDENTE",
+    "uploader_url": "https://www.youtube.com/@MILEIPRESIDENTE",
+    "id": "0_U5lCuKwfU",
+    "url": "https://www.youtube.com/watch?v=0_U5lCuKwfU",
+    "title": "Debate entre Javier Milei y un economista estatista chileno- 18/12/19",
+    "duration": 2360.0,
+    "view_count": 521040,
+    "candidate_name": "milei",
+    "quality": "low",
+    "segments": [
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1.1,
+            "end_time": 2.424,
+            "text": "Mi ley. ",
+            "cosine_dist": 0.6812847091617795,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2.444,
+            "end_time": 16.447,
+            "text": "presidente, qué grande.  Estoy acompañado por Vanessa Kaiser, que es directora del Centro de Estudios Libertarios CL Chile.  El Partido Libertarios es un partido en formación.  Muy buenos días, Vanessa.  ¿Cómo estás tú?  Buenos días, Gonzalo. ",
+            "cosine_dist": 0.7479091328630341,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 16467,
+            "end_time": 16787,
+            "text": "Muy bien, gracias. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 16.807,
+            "end_time": 41.597,
+            "text": "Estamos también acompañados por el economista Alejandro Mico, economista y ex subsecretario de Hacienda del segundo gobierno de la presidenta Michelle Bachelet.  Alejandro Mico tiene una larga trayectoria, economista, es académico, es investigador, como dije ya fue subsecretario de Hacienda, además trabajó en el BID en Washington, fue economista senior del Banco Central.  Muy buenos días Alejandro, ¿cómo estás tú?  Muchas gracias por venir. ",
+            "cosine_dist": 0.7975621797083091,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 41.737,
+            "end_time": 42.738,
+            "text": "Muchas gracias por la invitación. ",
+            "cosine_dist": 0.8395056444269976,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 43.178,
+            "end_time": 88.113,
+            "text": "Y también estamos con Javier Milei, economista argentino, muy conocido en Chile, de una vasta trayectoria y tiene dos maestrías.  Es escritor, es docente, es conferencista, su filosofía política es libertaria.  Fíjese que tiene una característica personal que le pregunté antes, se la podía mencionar del programa, pero la quiero mencionar porque hay gente que hace estereotipos.  Javier Milei, su padre era conductor de autobús.  Y Javier Milei, dada la hiperinflación de la época que le tocó vivir, decidió empezar a estudiar economía a los once años.  Así que, bueno, es una persona con mucha experiencia en los medios.  Y bueno, vamos a ir directo al grano, pero una vez que saludemos a quienes hacen posible este programa.  Muy buenos días, Javier.  ¿Cómo estás tú?  ¿Qué sientes llegar a Beirut? ",
+            "cosine_dist": 0.8029432581877463,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 89.114,
+            "end_time": 91.155,
+            "text": "¿Qué tal Gonzalo?  Un placer estar aquí. ",
+            "cosine_dist": 0.6802429022231538,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 91.195,
+            "end_time": 94.939,
+            "text": "Pero supe que fuiste al centro, que te diste una vuelta, que viste... ",
+            "cosine_dist": 0.977323078695148,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 95.219,
+            "end_time": 100.143,
+            "text": "Pero aparte no es mi primera vez en Chile, yo vine varias veces por trabajo, así es que... ",
+            "cosine_dist": 0.6737723765192092,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 100.263,
+            "end_time": 101.484,
+            "text": "¿Y viniste antes del veinte octubre? ",
+            "cosine_dist": 0.9950933105209563,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 102.365,
+            "end_time": 103.526,
+            "text": "Sí, sí, exactamente. ",
+            "cosine_dist": 0.6933333099401917,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 103.927,
+            "end_time": 135.407,
+            "text": "Ok, ahí vamos a conversar un poquito más.  Bueno, Javier Milei... Tú has sido invitado a Chile por el Partido Libertario en Formación.  Vas a presentar en diversos medios de comunicación.  Agradezco que hayas sido directo al grano, el primer medio que hayan escogido para partir tu viaje a Chile.  Así que muy honrado de tenerte en directo al grano.  Vas a reunirte con jóvenes y personajes de nuestra fuera pública interesados en defender el modelo económico.  De eso vamos a hablar.  Primero te quería preguntar, ¿qué es para ti ser libertario? ",
+            "cosine_dist": 0.8016521378601007,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 136.168,
+            "end_time": 296.605,
+            "text": "Bueno, nosotros... Definimos el liberalismo, digamos, como el respeto irrestricto del proyecto de vida del prójimo.  Y eso es un elemento muy interesante porque siempre va sobre la base moral de cuando vos haces una política.  Por ejemplo, nosotros en Argentina, con mi socio Diego Giacomini, nuestro enfoque siempre sobre lo que tiene que ver la política económica, tiene que ver con una base y una fundamentación moral.  Porque en realidad, en el fondo, cuando vos tenés malos principios desde lo moral, eso conduce a malas instituciones y eso después deriva en decadencia económica.  A ver, te lo hago con un ejemplo.  En Argentina... se volvió a imponer un cepo.  O sea, el cepo es restricciones a la compra y venta de divisas.  En realidad, la medida es inmoral en varios sentidos.  En el primer sentido es, si vos te ganaste tu dinero honestamente, ¿por qué no lo podés gastar en lo que se te da la gana?  Es decir, ¿quién es el burocrata para determinar si vos podés comprar o no podés comprar determinada mercancía?  Ya sea el dólar o la que se te ocurra.  Primero hay una cuestión de índole moral, de desarsenamiento de tu libertad, de no dejarte comprar lo que vos querés comprar.  Segundo punto, además es una herramienta funcional a los políticos ladrones que tiene Argentina.  A ver, la historia de Argentina es una historia donde el Banco Central fue un mecanismo de falsificación y estafa.  Digo, cualquiera estaría en contra de la falsificación y cualquiera estaría, digamos, en contra de lo que es la estafa.  Y en el fondo, la inflación no es ni más ni menos que una estafa.  Argentina, por ejemplo, desde que tiene Banco Central en mil nueve treinta y cinco, le quitó trece ceros a la moneda, va camino a quince, existe un riesgo de hiperinflación.  Y una de las cosas que hizo el argentino para cubrirse de esa estafa, digamos, que los políticos le roban a los argentinos, es justamente cubrirse en dólares.  Entonces, ¿qué es lo que hacen?  Lo que hacen con el cepo es no permitirte comprar dólares, te permiten... digamos, entonces acumularte en peso, por decirlo de alguna manera, que es sobre lo que te cobran impuestos inflacionarios.  Es decir, es un mecanismo por el cual te roban.  Entonces, la pregunta es, ¿vos te parece bien, digamos, que se impongan instituciones para robarte? ",
+            "cosine_dist": 0.3339189540355977,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 298.008,
+            "end_time": 303.67,
+            "text": "Preguntamos a Alejandro Mico.  Alejandro Mico, contéstame.  Tú se preguntas en vez de que la conteste yo.  Lo mío es evidente, ¿cuál va a ser la mía? ",
+            "cosine_dist": 0.856397443592614,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 303.69,
+            "end_time": 395.829,
+            "text": "No, obviamente, la respuesta puede ser una, si uno está en contra de que alguien, una institución que te robe.  Ahora, el tema de fondo es, yo entiendo, el ser humano tiene dos componentes.  Tiene un componente de buscar la libertad, pero también vive en comunidad.  Y al vivir en comunidad, que me gusta mucho tu idea de que parte de los valores, cada uno puede tener sus valores, me parece perfecto, pero hay valores también que uno quiere buscar.  Uno es... Como persona natural hay una componente que uno quiere buscar su bienestar individual, pero también uno es un ser sociable que vive en comunidad, por lo tanto al vivir en comunidad se requieren reglas.  Al vivir en reglas se requiere que haya alguien que financie esas reglas, que haga lo que se llama en economía, hablando de ser economista, que financie los bienes públicos, por ejemplo seguridad, por ejemplo educación, arte.  Son bienes públicos que por sí solo uno en forma individual uno invierte menos de lo que uno debiese invertir, de hecho buscando el mismo beneficio personal.  Por lo tanto, lo que uno busca ahí es una, me parece que es lo que todos vamos a estar de acuerdo en esta mesa, es que uno tiene que haber un equilibrio entre lo que hace que el hombre se pueda desarrollar en su... En su ámbito individual, pero también en el ámbito colectivo.  Y en lo colectivo se requieren organizaciones, se requieren instituciones.  Obviamente esas instituciones tenemos que velar para que sean las mejores posibles, que no haya robos.  Yo puedo entender que a uno le da mucha rabia cuando alguien te pide plata para hacer A y terminas dándote cuenta que lo usa en B. Eso es el tema de fondo.  Yo no comparto lo que está diciendo Alejandro. ",
+            "cosine_dist": 0.7389143866311716,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 397.383,
+            "end_time": 614.487,
+            "text": "O sea, digo, a ver, digamos, la primera cuestión, digamos, es... Ok, digamos, yo entiendo, digamos que... El ser humano es un ser gregario, vive en comunidad, y eso, digamos, forma parte natural de las instituciones del capitalismo.  Es decir, una de las instituciones del capitalismo es la división del trabajo y otra es la cooperación social.  Y justamente, digamos, el hecho de que somos todos distintos, y gracias a Dios que somos distintos, y que existe la división del trabajo, y que genera la potencialidad de generar todavía más productividad, se genera la cooperación social.  Por lo tanto, digamos, o sea... el ideario libertario no está reñido ni de patadas contra la vida de la comunidad, porque justamente eso es lo que permite la división del trabajo.  Y es más, si cuanto más grandes sean las comunidades, mejor, porque permite más división del trabajo.  Eso ya estaba en Adam Smith.  La división del trabajo está limitada por el tamaño del mercado.  Ese es el primer punto.  El segundo punto es lo que son los bienes públicos.  O sea, a ver, digamos, los bienes públicos, para mí es una cuestión de discusión, porque, a ver... Se supone que un bien público tiene que tener dos características para ser encuadrado de bien público.  Uno es el principio de rivalidad.  Es decir, a ver, si yo agarro una torta y me la como, vos no te la vas a poder comer.  Ese es un bien rival.  O sea, lo consumo yo o lo consumís vos.  Y el otro es la exclusión.  Y a veces, si vos podés excluir o no al otro del consumo.  Entonces, por ejemplo... Es interesante porque la teoría económica siempre aportaba como ejemplo de bienes públicos los faros.  Porque en realidad no había rivalidad, porque si yo estaba consumiendo la luz que genera el faro, no había un problema para que el otro tuviera la luz.  Y además el dueño del faro, por decirlo de alguna manera, si le daba luz a uno no podía excluir al otro.  Por lo tanto, si vos agarrás esa definición, entonces claramente, digo, los faros eran bienes públicos, son bienes públicos, o sea, cumple perfecto con la definición.  El premio Nobel de Economía, Ronald Coase, tomó el laburo de chequear de quiénes eran los faros en el siglo XIX.  Eran todos privados.  Entonces, digamos, el tema de los bienes públicos, o sea, Es una cuestión a discutir y a ver si es bien público o tiene alguna otra característica que hace que trabaje o no como bien público.  El ejemplo emblemático no lo cumple.  Después, digamos, Alejandro menciona el tema de las artes.  Digo, a ver, para definirlo con bien público, ¿quién es el dueño del dedo que dice que los que estás viendo está mal?  Digo, porque, a ver, a mí de repente me puede gustar Dalí y, no sé, puedo decir que Picasso es horrible.  Entonces, digamos, va a haber alguien que coactivamente va a estar sacando recursos para financiar lo que él considera que es arte.  Con lo cual, me parece extremadamente violento.  Aparte, digamos, ¿quién soy yo para determinar desde la poltrona, utilizando un mecanismo coactivo de financiación, para estar financiando lo que yo considero que es arte, cuando el mercado no lo validó.  Es decir, a ver, si el mercado lo hubiera validado, definitivamente existiría, y si no, no existe.  Entonces, en el fondo, estoy decidiendo subsidiar a alguien con la plata de otro que claramente no quería usar esa plata en eso, porque si no, no existiría.  Ese es uno de los puntos.  El otro tema es... tema de la educación. ",
+            "cosine_dist": 0.39188734404385683,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 615.508,
+            "end_time": 649.754,
+            "text": "Pero Javier, tengo una pregunta ahí porque quiero preguntarle a Alejandro Mico.  Alejandro, aquí hay una guerra ideológica.  No, es una guerra ideológica.  No, no, no, en Chile.  En torno a la desigualdad hay una concepción ideológica.  Chile no ha progresado, que no fueron treinta pesos, fueron treinta años, donde Chile evidentemente progresó, las cifras fueron todas buenas, tú participaste en los gobiernos, pero seguimos poniendo como en contra del modelo de sociedad que tenemos, la desigualdad, la distribución del ingreso, la acumulación de capital, como los grandes problemas de nuestro modelo económico.  ¿Tú estás en esa línea? ",
+            "cosine_dist": 0.8187960877893121,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 650.558,
+            "end_time": 671.833,
+            "text": "No, deja, para, sí, quizás no sé si a los, estaba enchando en cosas muy, muy detalles, muy de filosofía y de economía básica.  Un ejemplo simplemente, yo no sé si las Fuerzas Armadas en alguna parte son privadas y me van a poner la seguridad pública cuando hay en las comunas porque el Estado dejó de funcionar bien y se quiere.  Ahí viene, pero vamos más allá de eso porque creo, pero bueno. ",
+            "cosine_dist": 0.8098519925893954,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 672.173,
+            "end_time": 675.614,
+            "text": "Bueno, digo, pero no todos los libertarios son anarquistas, digamos, estamos los minarquistas. ",
+            "cosine_dist": 0.5683712135121192,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 675.634,
+            "end_time": 685.918,
+            "text": "No, no, estoy diciendo que eso es un bien público que se provee por, en esencia, el ejemplo, los estados nacen para que haya orden, y los órdenes se financian con... ",
+            "cosine_dist": 0.793592975769485,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 685.938,
+            "end_time": 688.999,
+            "text": "Pero está bien, estoy de acuerdo con eso, pero más allá de eso... Dejémonos responder. ",
+            "cosine_dist": 0.7572404272991353,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 689.019,
+            "end_time": 690.159,
+            "text": "y ahí yo le hago una pregunta. ",
+            "cosine_dist": 1.0288769045295851,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 690.419,
+            "end_time": 699.947,
+            "text": "No, no, pero a ver, el minarquismo es una posición que considera que el Estado, sí, se utiliza para los temas de seguridad y justicia.  O sea, digo, por lo tanto, o sea... ",
+            "cosine_dist": 0.4325001290455861,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 700.007,
+            "end_time": 777.521,
+            "text": "Pero ese sería el contraejemplo de Alejandro, el ejemplo que viste tú, en el fondo iba por ese lado.  Ahora, mi pregunta es otra.  Mi pregunta a propósito de una conversación que tuve con Rodrigo Valdez el año pasado, creo que fue, sobre el tema de... que ahora, a propósito de la crisis moral que está viviendo un modelo que en palabras de Sebastián Edwards se hubiera agotado, tendríamos que fortalecer el Estado.  Y resulta que cuando uno ve, no sé cómo lo ves tú esto, yo lo conversé con él en ese minuto, que ocho de cada diez programas, digamos, de política pública en Chile no pasan de curso cuando uno ve que parte importante de los recursos que se recaudaron con la reforma tributaria que se hizo bajo el gobierno de Bachelet, en la que tú participaste activamente, se destinó a un crecimiento de una burocracia que no está plenamente justificada para la gente.  Entonces, cuando tú decías, claro, a uno le da rabia que le quiten recursos para, en vez de la provisión, por ejemplo, de... que fuesen súper eficientes, estuviesen en la primera línea de cómo manejar conflictos y contener conflictos, nosotros no tenemos eso.  Hoy día lo que tenemos, de alguna manera, es una extracción de recursos que van a un Estado extremadamente capturado, ineficiente.  Entonces la pregunta es, ¿de dónde viene la solución? ",
+            "cosine_dist": 0.9032269821366614,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 777.541,
+            "end_time": 787.168,
+            "text": "Sí, hay dos cosas.  Primero, contestarte a ti.  Yo creo que el país avanzó mucho.  Creo que el país, sin duda, la gente que salió de la pobreza, ",
+            "cosine_dist": 0.8239680675598692,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 788949,
+            "end_time": 789189,
+            "text": "Está ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 789.369,
+            "end_time": 848.586,
+            "text": "mucho mejor de la que no está ahora y por lo tanto creo que se avanzó como país y lo que se está buscando ahora es atacar otro problema que la sociedad sigue manteniendo, que se avanzó menos, que es pobreza, salud, educación, carretera.  que fue el tema de la desigualdad.  y eso es un tema que hoy día está como explotando y creo que es un tema que tenemos que abordar de alguna forma.  y en eso creo que no cae otra cosa que escuchar la cantidad de gente que hay en una posición que no solamente es igualdad, es injusticia, acceso a la justicia formal.  Entonces hay una serie de temas que tenemos que hacernos cargo.  Los treinta años pasados fueron perdidos para nada, creo que fue una situación donde mucha gente... Yo me hice economista, de hecho, por un tema bastante particular.  Yo soy de Concepción, una ciudad que fue muy afectada por la crisis del ochenta y dos, una cosa media arcaica, y que había mucha gente pobre pidiendo dinero.  y eso se logró evitar en fuerte medida.  Es que hay que avanzar más, hay que avanzar más. ",
+            "cosine_dist": 0.7529133678107922,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 848.626,
+            "end_time": 850.708,
+            "text": "Tú querías hacer una pregunta, Vanessa. ",
+            "cosine_dist": 0.8701527954524696,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 850.982,
+            "end_time": 873.412,
+            "text": "Sí, a mí me llama mucho la atención esta situación de que hay una gran denuncia en contra del Estado, en contra de los políticos.  El Estado es patriarcal, el Estado es violador, los políticos se funan en todas partes, no importa de qué sector vengan.  Y sin embargo, cuando se habla de cambiar el modelo, se habla de fortalecer el Estado y el poder político.  Entonces, ¿cómo ven ustedes esta situación? ",
+            "cosine_dist": 0.9396103688339791,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 873.632,
+            "end_time": 886.048,
+            "text": "¿Quién es el violador?  Alejandro Mico, Javier Milei aquí?  Porque en el fondo, claro, el violador eres tú, dice el Estado, el Estado patriarcal, ¿no es cierto?  Se habla absolutamente que el Estado abusivo, el Estado violador, pero le pedimos al mismo tiempo más Estado, ¿no se entiende? ",
+            "cosine_dist": 0.896003511982474,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 887.469,
+            "end_time": 932.688,
+            "text": "A ver, yo creo que hay dos temas.  A ver, una consigna es una consigna.  Creo que hay una bronca muy generalizada contra las injusticias.  Las injusticias se producen tanto en el Estado como en el sector privado.  En el Estado, donde me ha tocado más participar, uno quisiera tener que todo el mundo estuviese más la camiseta puesta.  Algunos lo tienen, otros no tanto.  El tema de que se gasten bien los recursos, que tengamos la eficacia mayor en el Estado.  ¿Qué duda cabe?  Lo principal es que ahí exista completa probidad en el Estado.  Si eso no se cumple, uno podría decir, con lo que está de moda, ahí está el violador, no sé, ahí está quizás el ladrón, el que no cumple bien su pega, como también la colusión es una forma de robar, como también el tema de las coimas para el sector. ",
+            "cosine_dist": 0.739874854121934,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 932.728,
+            "end_time": 941.432,
+            "text": "Pero lo curioso es que ustedes están a favor de más Estado, que es el violador y es el abusador.  Y están en contra de menos privado.  Entonces, me gustaría que esa parte... ",
+            "cosine_dist": 0.7827503073981917,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 941.452,
+            "end_time": 947.215,
+            "text": "No sé si tú estás aquí como dirigiendo o tomando posición. ",
+            "cosine_dist": 0.7573929074564546,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 947.275,
+            "end_time": 967.385,
+            "text": "No, yo meto, meto.  Es como raro.  Cuando te digo a ti, te digo tu sector.  No, es que tú no habías participado en este programa.  Yo soy conductor y panelista a. la.  vez.  Entonces, lo que te quiero preguntar es, en definitiva, el sector en el que tú participas, defiende más Estado, y justamente hay una crítica que el Estado es el abusador, que el Estado es el violador, pero sin embargo defiende más Estado.  Javier Milei, ¿pasa lo mismo en Argentina? ",
+            "cosine_dist": 0.775896060532831,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 968.265,
+            "end_time": 1088.304,
+            "text": "A ver, yo vamos a ordenar los tantos.  La causa del feminismo, la causa del feminismo como causa, los primeros en levantar esa causa fueron los liberales.  Es decir, porque si hay algo que caracteriza al liberalismo, y probablemente... el logro más importante del liberalismo es la igualdad ante la ley.  Con lo cual, esa es una causa naturalmente liberal.  Ahora, una cosa es el feminismo y otra cosa es el hembrismo.  El problema con el hembrismo es que termina cayendo en un problema que se llama... discriminación afirmativa o affirmative action, o sea, la discriminación positiva.  Y que, asociado a ello, vos creés que tenés derechos.  Y como esos derechos alguien lo tiene que pagar, termina siendo profundamente desigual porque en otro es donde vos vas a estar cargando la cuenta.  Entonces, una de las cosas que uno ve es que vos estás señalando correctamente, Gonzalo, que aparecen contradicciones.  Por ejemplo, el Estado es el opresor, pero queremos más Estado.  Eso es una contradicción en sus términos.  O sea, ya arranca desde el vamos.  Ahora digo, contradicciones de estas características está llena.  Es decir, ¿pero por?  qué?  Porque justamente el pensamiento, digamos... Cuando vos entras en la línea del hembrismo, claramente entras en una línea de pensamiento marxista.  Y tiene todas las contradicciones propias de esa deformación del pensamiento.  Entonces vos te terminás teniendo un montón de problemas asociados a una mala concepción de la cuestión.  O sea, de esto hay infinidad de situaciones, de cosas que se discuten y que terminás teniendo una contradicción. ",
+            "cosine_dist": 0.3267952748438461,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1088.345,
+            "end_time": 1089.405,
+            "text": "¿Qué pasa en un ministerio? ",
+            "cosine_dist": 0.809576328157393,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1089.585,
+            "end_time": 1232.686,
+            "text": "¿Es lo mismo que la desigualdad?  ¿Forma parte de este problema?  el chico está con barba y le dice a una abogada le dice yo me autopercibo como mujer vos que haces bueno te acepto que te autopercibas como mujer fantástico.  y ahora a pesar de que estoy con barba pero me autopercibo mujer independientemente de que me vista de hombre me autopercibo mujer.  Le dice, ok, pero ahora además me voy a autopercibir de siete, ocho años.  ¿Qué te parece?  No, bueno, si vos te querés autopercibir así, digamos, me parece bien.  Bueno, ahora quiero tener un noviecito de siete años.  Entonces ahí te das cuenta que las cosas no funcionan.  Vos te podés autopercibir mujer y me parece bárbaro.  Vos autopercibite como quieras.  Ahora, por ejemplo, en Argentina un señor de sesenta y dos años autopercibía mujer.  Entonces, como se autopercibía mujer, le permitieron cambiar el documento, entonces se jubiló antes.  ¿Por qué?  Porque ahora era mujer.  Ahora entonces, digamos, él se autopercibe, entonces usa el Estado para sacarme recursos a mí.  Entonces, vos hacé de tu vida lo que se te dé la gana.  A mí me importa un raba, no sé lo que quiera.  Pero mientras que yo no tenga que pagar la decisión tuya.  Es decir, porque si no es muy fácil.  Entonces, vos percibiste como quiera, pero la cuenta la tiene que pagar otro... y ahí empieza a reñirse en el plano moral.  Es decir, yo no tengo problema, sé lo que quieras, pero no te metas con mi bolsillo.  Entonces, si vos vas a usar el Estado para eso, y bueno, ahora entramos en otro problema.  O sea, me parece que la cosa pasa por ahí.  Puedo citar varios ejemplos de estas características, donde en el fondo eso, yo quiero esto, ok, pero paga la cuenta vos. ",
+            "cosine_dist": 0.35495209026684926,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1233.524,
+            "end_time": 1235.725,
+            "text": "Javier, a mí me gustaría volver al tema del Estado. ",
+            "cosine_dist": 0.9194496943619372,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1235.745,
+            "end_time": 1253.656,
+            "text": "A ver, en Argentina se te muere gente, tenés salud pública, gente muriéndose de cosas del siglo XIX, pero le pagamos las prótesis mamarias a los hombres que quieren volverse mujeres. ",
+            "cosine_dist": 0.36654573398441903,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1254.471,
+            "end_time": 1280.103,
+            "text": "Claro, podemos entrar en ese tipo de esquizofrenia como de alguna manera hubiera parecido, Alejandro, que lo conversábamos un poco, esta reforma tributaria que se llevó a cabo y que algunos calculan que un cuarenta por ciento, otros un poco menos, de lo recaudado de más se hubiese ido a engrosar las filas del Estado con trabajos, digamos, contrataciones que no están bien justificadas.  ¿Cómo se percibe esta situación en la que, ",
+            "cosine_dist": 0.8833182342387603,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1280603,
+            "end_time": 1280903,
+            "text": "digamos, ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1280.943,
+            "end_time": 1288.904,
+            "text": "cuando nosotros ponemos la fe en que una reforma tributaria puede mejorar ciertas condiciones, como esa misma desigualdad de la que tú hablabas, ",
+            "cosine_dist": 0.9147715522945716,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1288.924,
+            "end_time": 1289.825,
+            "text": "y luego, ",
+            "cosine_dist": 0.859910951628896,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1289.985,
+            "end_time": 1300.327,
+            "text": "en realidad, la parte importante de esa reforma sirve para propósitos que son estrictamente de intereses políticos del poder, poder, poder?  Hay como una frustración también de la gente en eso, ¿no? ",
+            "cosine_dist": 0.9314597192608092,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1300.647,
+            "end_time": 1388.387,
+            "text": "Yo no pondría tanto... apellido a las cosas porque la verdad es que no sabemos.  hay cosas concretas.  se hizo una reforma para financiar el tema educacional.  se aumentó la cobertura en educación básica sobre todo en jardines.  El tema de la gratuidad en ciencias universitarias, se aumentó el tema en salud fuertemente, se hicieron más hospitales como nunca no se habían hecho, entonces hay una serie de otras cosas.  Yo no quiero dejar aquí la idea así, de que sí hay que hacer una modernización del Estado, que es otro tema.  Yo aquí en ese tema no me confundo, creo que el Estado chileno... Cumplió un tremendo rol en los últimos treinta años que permitió que este país se desarrollara, que tuviéramos reglas claras, que tuviéramos seguridad, que tuviésemos un aumento de la educación primaria, secundaria, terciaria como nunca antes la habíamos tenido y que ahora en un momento dado hoy día hay que hacerle mejoras, tenemos que modernizarlo.  se han encontrado algunos focos de corrupción que hay que atacar completamente, yo no puedo estar más de acuerdo con eso, que no podemos, hay un dicho que dice, si uno cree... Si uno es social cristiano, si es social demócrata, no puede permitir que el Estado no sea eficiente, eficaz y no sea aprobo.  Yo no me quiero comparar, y discúlpenme a mí los argentinos, con unas situaciones que en Argentina se ha visto a muchos escándalos de corrupciones mayores.  Obviamente que si uno tiene un Estado que no te da... ",
+            "cosine_dist": 0.7523261099745653,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1388.427,
+            "end_time": 1391.19,
+            "text": "A mí no me molesta, es parte del resultado de largo plazo. ",
+            "cosine_dist": 0.8187308934864063,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1393.012,
+            "end_time": 1424.107,
+            "text": "Pero mi punto es que lo que uno tiene que buscar lo primero es ir mejorando el Estado.  y para eso hay que hacer modernizaciones.  y las modernizaciones del Estado, los cambios del Estado siempre son complejos.  empresas y el Estado en sí es una empresa en términos que maneja muchos recursos, mucha gente para hacer los cambios.  es extremadamente difícil y me tocó varios ejemplos aduana, la modernización de aduana o la mejora en la superintendencia de asilos. ",
+            "cosine_dist": 0.7659457949971267,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1424.247,
+            "end_time": 1504.231,
+            "text": "No, pero me parece que está bueno lo que está planteando Alejandro y me parece que está bueno dar la otra visión.  es decir, Alejandro digo Sin lugar a dudas, Argentina es el país con la ineficiencia técnica del gasto público más alta del mundo, es el peor de la región y además con los políticos más chorros del universo.  Eso no hay duda, se afanan cinco puntos del PBI, son una basura.  Con lo cual, estoy de acuerdo.  Ahora, ¿qué es lo que me muestra mi experiencia a mí de ver noventa años de socialismo?  O sea, porque arranco con poquito y de ser el país más rico del mundo somos setenta y camino a estallar y estar mucho peor.  Primer argumento.  No existe la idea de la eficiencia en el gasto público.  No existe.  Friedman decía, mira, hay cuatro formas de gastar.  Podés gastar tu dinero o el de otros, y lo podés gastar en vos o en otros.  ¿Cuál es la mejor forma?  Gastar la tuya o en vos mismo.  ¿Por qué?  Porque sabés lo que te costó ganarla y sabés muy bien en qué la querés gastar.  Primer punto.  Con lo cual, no hay mejor forma que gastar tu dinero en vos mismo.  Digo, maximización del beneficio.  Ahora, vos podés gastar tu dinero en otros.  Ejemplo, cuando haces un regalo.  Vos haces un regalo, tratás de quedar bien gastando lo menos posible.  Minimizás el costo.  La otra alternativa es gastar... ",
+            "cosine_dist": 0.3677356656249333,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1504.251,
+            "end_time": 1506.796,
+            "text": "No te voy a invitar a mi cumpleaños.  No te voy a invitar a mi cumpleaños. ",
+            "cosine_dist": 0.9785695685240521,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1508.238,
+            "end_time": 1550.208,
+            "text": "Digamos, o sea... Entonces, digamos, la otra alternativa es... Básicamente gastarla de otros en vos mismo.  Yo siempre recuerdo el caso de que yo viajaba mucho por trabajo, viajaba muchísimo.  Entonces un día me encuentro con otra persona que estaba en el aeropuerto y entonces claro, cuando llaman, él se va y se va de primera.  Entonces me hace todo un discurso de por qué él viajaba siempre en primera y que esto y que lo otro.  Tenía toda una argumentación de por qué él viajaba en primera.  Claro, el problema es que yo viajaba tanto que voy y me lo encuentro en plenas vacaciones con la familia.  Iba en el gallinero.  Es decir, ¿por qué? ",
+            "cosine_dist": 0.4212201799584776,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1550.268,
+            "end_time": 1553.59,
+            "text": "Porque la otra gastaba, gastaba con la del jefe. ",
+            "cosine_dist": 0.6760402089439224,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1554.07,
+            "end_time": 1608.285,
+            "text": "Ahí cuando tuvo que gastar con la propia, iban todos al gallinero.  Es decir, ¿por qué entonces vos ahí maximizás el gasto?  O sea, cuando vas a comer, no mirás el lado derecho del menú, mirás el lado izquierdo, total la cuenta la paga otro.  Entonces, de eso deriva, ¿cuál es la peor forma de gastar?  es gastar el dinero de otros en otros.  O sea, ¿qué es lo más irresponsable que hay?  Es decir, el Estado toma decisiones por plata que es de otros, sobre cosas que van a otros.  O sea, es el peor de los mundos.  O sea, no sabe, digamos... Y eso es muy importante.  Porque en un momento, digamos, o sea... Alejandro traza la equivalencia entre el Estado y una empresa.  No, esa equivalencia no existe.  Porque cuando la empresa se equivoca, la pierde el empresario.  Cuando el político se equivoca, las cuentas las pagamos nosotros.  Entonces, digamos, no es lo mismo. ",
+            "cosine_dist": 0.40745614147663867,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1608.925,
+            "end_time": 1611.806,
+            "text": "Javier, ¿te puedo agregar dos puntos a lo que estás diciendo? ",
+            "cosine_dist": 1.0174609143344808,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1611.946,
+            "end_time": 1673.796,
+            "text": "No, quiero decir otra cosa.  No, porque hay varias cosas acá.  Como buen argentino.  Ok, está bien, acepto todos mis defectos.  Pero me parece que hay un montón de cosas que no se pueden dejar sueltas.  Y el otro tema son los impuestos.  Lo que hay que entender, como elemento esencial, que los impuestos son un robo.  Vos no los pagás voluntariamente, porque si lo pagara voluntariamente, no habría ningún problema.  Ahora, el tema es que si vos no los pagás, vas presa.  Decís, bueno, no tenés opción.  No, no lo pago, no, esto no me gusta.  No, si no lo pagás vas preso.  Es decir, esto está impuesto.  O sea, el término impuesto.  Es más, digamos, todavía, y es más, me irrita aún muchísimo más cuando hablan de contribuyente.  Digo, eso ya me parece un escándalo.  Porque es lo mismo que, digamos, o sea, el violador llame a la víctima novia.  O sea, sería lo equivalente.  Entonces, lo que hay que entender es que los impuestos son un robo.  Y, obviamente, después hay otras cosas.  Pero, Alejandro, ¿son en robo los impuestos? ",
+            "cosine_dist": 0.46898425427546164,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1674.157,
+            "end_time": 1676.817,
+            "text": "¿Más Estado o menos Estado?  Jamás, jamás.  A ver, pero si yo creo... ",
+            "cosine_dist": 0.7916194515174483,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1677.378,
+            "end_time": 1683.8,
+            "text": "La gente los paga voluntariamente.  No, por algo... Y los pagan por la fuerza.  Ah, y bueno, te los pagan por la fuerza.  Por el impuesto, pero hay una... ",
+            "cosine_dist": 0.6795922772698729,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1683.82,
+            "end_time": 1690.405,
+            "text": "cuando uno va... Cuando uno va al impuesto interno de Estados Unidos, lo que uno ve en la entrada es... ",
+            "cosine_dist": 0.7741326336507757,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1690.465,
+            "end_time": 1710.803,
+            "text": "Pero qué me importa, también en una época existía esclavitud y hoy no existe.  Es decir, en el fondo los impuestos son una rémora de la esclavitud.  Estamos a favor de la esclavitud.  Y bueno, en realidad la esclavitud es un impuesto del cien por ciento.  ¿Cómo que no?  No es un impuesto del cien por ciento, todo lo que crea te lo sacan. ",
+            "cosine_dist": 0.6000210062525237,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1710.843,
+            "end_time": 1715.826,
+            "text": "Era privado, pero bueno, el punto es, sale ahí en la entrada, uno va y entra. ",
+            "cosine_dist": 0.8382808046463948,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1715.886,
+            "end_time": 1722.83,
+            "text": "Bueno, está bien, el sector privado corrigió, pero el Estado quiere tener el monopolio y la esclavitud. ",
+            "cosine_dist": 0.6600171243956783,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1723.231,
+            "end_time": 1749.205,
+            "text": "Uno de los temas que creo que es lo más importante en el país es tratar de poder tener conversaciones, porque lo que está viendo hoy día el país es que existe poca tolerancia, y la poca tolerancia nos lleva a cosas irracionales.  Mi punto aquí es, el Estado tiene un rol que cumplir, todas las sociedades modernas lo cumplen, porque el Estado es, y los impuestos, como lo dice inclusive Estados Unidos, es un país inmigral, y lo que sale es decir, ¿me dejas hablar? ",
+            "cosine_dist": 0.6856996158225934,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1749.245,
+            "end_time": 1758.19,
+            "text": "Pero es que me estás diciendo que lo justifico que existe porque existe en otro lado.  Entonces, digamos, puedo justificar la esclavitud en el siglo XVIII porque había en otro lado. ",
+            "cosine_dist": 0.635955875433039,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1762.374,
+            "end_time": 1825.049,
+            "text": "Para vivir en sociedad uno requiere tener ciertas cosas que son de ordenamiento, de instituciones, el tema de la seguridad que está tan de moda hoy.  día, la seguridad pasa por un pago de la sociedad que se pone de acuerdo en los principios mínimos, en las instituciones mínimas.  La forma que se va a organizar y tiene que tener un poder que la haga cumplir.  El Estado es el único que puede aplicar la fuerza, según mi perspectiva, y para eso hay que financiar.  Ahora, más Estado, menos Estado, obviamente es desde qué punto estamos partiendo.  Hoy día lo que yo creo es que la sociedad... No solamente como ser humano busca el beneficio individual, también hay un tema del bien colectivo, el tema de la solidaridad, recordemos que hubieron revoluciones en base a que se buscaba una situación más solidaria, y para eso creo que el Estado... Bien administrado, eficaz, sin corrupción, tiene un rol a seguir.  ¿Que lo tiene que hacer todo?  Obviamente que no.  Yo no soy para nada una persona estatista.  Me da risa porque yo soy, dentro del gobierno, yo era quizás el menos estatista que había. ",
+            "cosine_dist": 0.7755112942317636,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1825.109,
+            "end_time": 1825.71,
+            "text": "¿Cómo eran los otros? ",
+            "cosine_dist": 0.9673513086331097,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1826.31,
+            "end_time": 1865.93,
+            "text": "Entonces mi punto es que hay roles que tiene que hacer, hay bienes que el sector privado no los puede proveer en forma eficiente.  Eso es economía, los temas básicos, cuando tengo problemas de competencia imperfecta, cuando tengo imperfecciones de mercado, cuando hay bienes públicos como la seguridad.  Hay un rol particular importante para el Estado.  Y eso es una decisión, desde mi punto de vista, una decisión que tiene que tomar la ciudadanía y que hay que informarla.  Los beneficios y los contras.  Yo estoy de acuerdo en que, obviamente, el burócrata, yo siendo un burócrata, no era un santo.  El empresario, siendo un empresario, tampoco es un santo. ",
+            "cosine_dist": 0.7524408689664608,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1865.99,
+            "end_time": 1954.703,
+            "text": "Entonces hay que tener checa en balas y eso es muy importante.  Nosotros tenemos que de los veintidós programas evaluados por Lady Press, diez salieron totalmente fuera de las calificaciones, otros diez son mediocres.  y luego nos quedamos con dos programas buenos.  Uno es el alumbrado público, o sea, una cosa que realmente nos cuesta mucho hacer.  Sin embargo, a pesar de que tenemos un cuarenta y seis por ciento de los programas evaluados que no pasan de curso, al mismo tiempo los bonos de cumplimiento Que se autofijan nuestros burócratas, que no se rigen.  Ellos no están bajo el código del trabajo.  Ellos son personas que si hacen mal la pega no pagan ni un costo más encima.  Entonces el noventa y nueve por ciento se fija que gana los bonos a pesar.  O sea, según ese índice, según el índice de bonos que se atribuyen a sí mismos los burócratas, nosotros tenemos uno de los estados más eficientes del mundo.  Y sin embargo, el ranking de competitividad del World Economic Forum, ¿no es  cierto?,  nos da la posición de treinta y tres, pero cuando en el tópico del desempeño del sector de Chile, desciende a cincuenta y cuatro.  O sea, respecto del general de Chile, nuestro Estado es extremadamente ineficiente y sin embargo se llevan todos los premios para casa. ",
+            "cosine_dist": 0.8970238791301414,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1955.123,
+            "end_time": 1983.741,
+            "text": "vamos a terminar de discutir y esperar la respuesta de Alejandro Mico, la vuelta salvará a quien hace imposible nuestro programa, les recuerdo que estamos con Javier Milei con Alejandro Mico, con Vanessa Kaiser directora del Centro de Estudios Libertarios Partido en Formación y te quiero hacer una pregunta a ti Javier Milei Camila Vallejo, una no sé si tú lo ubicas, diputada comunista chilena ha dicho que mencionó que lo importante es atacar la desigualdad y no que la gente salga de la pobreza porque el problema está en la extrema riqueza y no en la extrema pobreza. ",
+            "cosine_dist": 0.8364037447395165,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1984.361,
+            "end_time": 2184.415,
+            "text": "Bueno, digamos, lo primero que hay que entender es que si los comunistas y los socialistas supieran de economía no serían ni comunistas ni socialistas.  Básicamente trabajan con una mala teoría del valor, que es la teoría del valor-trabajo, digamos que fue abatida brutalmente por autores como Hevons, por el caso de Menger o por el caso de Valradio, el preferido de esos para mí es Menger.  Pero es un problema de preferencia.  Y esto vincula con algunos de los temas que... ¿Qué es lo que pasa?  A ver, vos podés tener el cien por ciento de una torta que no tiene nada.  Vos me vas a decir que entonces tenés el cien por ciento de la torta que no tiene nada, ah, fabuloso, o sea, te morís de hambre.  En cambio, seguramente va a ser algo muchísimo mejor que tengas, no sé, el cinco por ciento de una torta de algo, o el diez por ciento de algo.  Entonces, lo que no se dan cuenta es que ese tipo de pensamiento lleva a la destrucción de la torta.  Es decir, primero que no existe el concepto de la torta.  Eso es una mala concepción derivada de una mala teoría económica.  En realidad el mercado es un proceso de distribución dinámico.  Entonces cuando vos te pones a tocar y a redistribuir el ingreso, lo que haces es afectar a los incentivos y en términos dinámicos.  después la torta además termina siendo más chica.  En el caso de los socialistas lo que terminan haciendo es destruirlo todo.  Pero te lo voy a poner en una figura, digamos... que muestra la inmundicia que es el socialismo, que es Procusto.  Es decir, el caso de Procusto.  Procusto era un tipo obsesionado por la igualdad, porque todos seamos iguales.  Sería un desastre algo que seríamos todos iguales porque no habría división del trabajo, no habría sentido la cooperación social.  Sería una inmundicia al mundo, sería una guerra.  Pero al margen de esa situación, fíjate el caso de Procusto.  Procusto, ¿qué hacía?  Invitaba a su gente a la casa.  les daba de comer, y les daba alcohol, ¿para qué?  Para que quedaran borrachos y quedaban tontos.  Entonces, ¿qué hacía?  Los invitaba a dormir.  Entonces tenía una cama, Procusto.  Procusto es el socialismo.  ¿Qué hacía?  Lo ponía en la cama.  Si era demasiado alto, le cortaba las piernas y le cortaba la cabeza.  Si era demasiado ancho, le cortaba los brazos.  Y si era demasiado corto para la cama, lo estiraba.  Con lo cual era un torturador, era un asesino.  Era un señor sangre.  Eso es el socialismo.  ¿Por qué?  Porque no hay nada más... que exigir la igualdad de los que somos desiguales.  Entonces, la única forma en la cual vos podés hacer eso es mediante la violencia.  Y yo no creo que una sociedad violenta sea mejor que una sociedad que respete restrictamente el proyecto de vida del prójimo.  Ahí, de hecho, fíjate esto.  Cuando Alejandro habla de la solidaridad, ¿acaso la solidaridad tiene que ser hecha a punta de pistola?  Porque cuando la hace el Estado, es a punta de pistola.  Es decir, la redistribución del ingreso, la justicia social, es un robo y un trato desigual frente a la ley.  Yo quisiera saber si Alejandro está a favor del robo y del trato desigual frente a la ley.  A mí me parece una inmoralidad.  Ahora, si a vos te parece bien robarle a la gente para dársela al que el burócrata quiere... Tenemos una diferencia de valores morales. ",
+            "cosine_dist": 0.3554313653157398,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2184.495,
+            "end_time": 2185.516,
+            "text": "Alejandro, tu turno. ",
+            "cosine_dist": 0.8713742681409848,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2185.556,
+            "end_time": 2190.68,
+            "text": "Yo creo que llegar a los extremos, no quiero hablar de caricatura, obviamente... ",
+            "cosine_dist": 0.8350885429654559,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2191.481,
+            "end_time": 2195.485,
+            "text": "Pero ¿por qué extremos si es lo que sucede?  ¿O qué es la redistribución del ingreso? ",
+            "cosine_dist": 0.6258991593941019,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2195.505,
+            "end_time": 2197.607,
+            "text": "Yo nunca he visto a un socialista que le corte la cabeza... ",
+            "cosine_dist": 0.813000452241508,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2198.007,
+            "end_time": 2210.616,
+            "text": "Ah, ¿no?  ¿Cómo que no?  Mirá cómo vive la gente en Cuba.  Digamos, se la cortaron de otra manera.  Los condenaron a la pobreza.  Mirá lo que eran los edificios.  Sí, pero está en lo que se llama la lógica de camino de servidumbre. ",
+            "cosine_dist": 0.6130812011545543,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2210.776,
+            "end_time": 2219.301,
+            "text": "El libertario, en esencia, también escucha los argumentos.  Yo entendía eso.  La racionalidad está como en la esencia básica de esto.  Entonces, si yo quiero escuchar... ",
+            "cosine_dist": 0.7928947561658473,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2219.401,
+            "end_time": 2237.417,
+            "text": "Pero, digamos, ¿por qué definís tu posición como la racional?  No, yo no estoy... No, pero vos pones, antes de poner la racionalidad... ¿Acaso mi posición es irracional?  Si yo la estoy justificando, si yo te lo estoy avalando desde la teoría económica, desde la lógica y de la evidencia empírica.  Yo no te dije, tratando de hablar. ",
+            "cosine_dist": 0.543608924752031,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2237.437,
+            "end_time": 2258.789,
+            "text": "Yo, a ver, el tema de... Me fue la onda después de esta... Mi punto, a ver, yo, a ver... Yo no creo que sea bueno llevar a las cosas como de caricatura, como decir que el capitalista lo único que quiere en su vida es ganar un peso más y que está dispuesto a no respetar los derechos humanos de otra persona para sacar un peso más para su bienestar. ",
+            "cosine_dist": 0.7306777030880341,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2258.909,
+            "end_time": 2270.672,
+            "text": "Eso no va contra la definición del liberalismo.  Vos no podés ser exitoso avanzando sobre el otro.  Porque es el respeto irrestricto del proyecto de vida del prójimo.  El capitalista no hace eso, eso no es una caricatura falsa. ",
+            "cosine_dist": 0.5345014600747762,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2270.772,
+            "end_time": 2273.794,
+            "text": "Bueno, pero eso es una caricatura falsa. ",
+            "cosine_dist": 0.6699681512310347,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2274.114,
+            "end_time": 2277.115,
+            "text": "En cambio, digamos, la simplificación mía se parece.  Yo ",
+            "cosine_dist": 0.5482373205774922,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2277215,
+            "end_time": 2277475,
+            "text": "lo ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2277.815,
+            "end_time": 2317.425,
+            "text": "que quiero decir sí es que es importante, primero más allá, porque nos vamos a dar, es clave que en este país tengamos la capacidad de escucharnos, es clave que en este país tengamos la capacidad de darnos argumentos, es clave que en este país entendamos que la gente puede pensar de muchas formas y para... Para ser un país, para vivir en comunidad, necesitamos ciertos grados de ceder posturas de un lado, ceder posturas de otro lado para seguir avanzando.  Creo que es importante también hoy día en este país escuchar lo que parece ser la inmensa mayoría que está pidiendo algunos cambios, que yo no esté de acuerdo con todos ellos, pero es importante.  Yo creo que está bien. ",
+            "cosine_dist": 0.7552957230939105,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2317.505,
+            "end_time": 2319.347,
+            "text": "Yo soy democrático. ",
+            "cosine_dist": 0.7366783532244598,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2319.507,
+            "end_time": 2329.134,
+            "text": "Pero sabes que Mussolini y Hitler también tenían plazas vivándolos.  Argentina tenía Galtieri vivándolos también.  Y eso no quiere decir que tuvieran razón. ",
+            "cosine_dist": 0.5315187765759745,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2329.234,
+            "end_time": 2335.98,
+            "text": "Yo le ofrezco a la agricultura que sigan con este debate en el próximo programa, pero lo que es este, directo al grano, tiene que terminar ahora. ",
+            "cosine_dist": 0.8566017404336317,
+            "is_target_speaker": false
+        }
+    ]
+}

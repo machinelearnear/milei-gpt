@@ -1,0 +1,1847 @@
+{
+    "Index": 431,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "it2_0B8XWn8",
+    "url": "https://www.youtube.com/watch?v=it2_0B8XWn8",
+    "title": "Milei en La Nación + 3/3/21 - + Data",
+    "duration": 2736.0,
+    "view_count": 1368,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 1",
+            "start_time": 0.7,
+            "end_time": 4.706,
+            "text": "Ya está sentado Javier Milei en estos estudios.  Gracias, Javier.  Ahora en un ratito vamos a hablar. ",
+            "cosine_dist": 0.9764670647084848,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 4.726,
+            "end_time": 6.868,
+            "text": "Hoy es un día intenso con los invitados. ",
+            "cosine_dist": 0.9546325748417004,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 7.248,
+            "end_time": 10.911,
+            "text": "¿Estás tranquilo?  Sí, claro. ",
+            "cosine_dist": 0.8822401143147238,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 10.951,
+            "end_time": 13.913,
+            "text": "No creo, no creo.  Ahora vamos a ir con vos. ",
+            "cosine_dist": 0.9175250158633744,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 14.713,
+            "end_time": 15.774,
+            "text": "Se sale de la vaina. ",
+            "cosine_dist": 0.9953190994777715,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 16.134,
+            "end_time": 20.157,
+            "text": "Hay palabras que a Mireia es como pincharlo.  Inflación multicausal. ",
+            "cosine_dist": 0.8525033591982634,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 20.217,
+            "end_time": 22.819,
+            "text": "Si me pides del tamaño de una casa. ",
+            "cosine_dist": 0.7394806543507401,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 24.16,
+            "end_time": 27.941,
+            "text": "Tranqui.  Ahora vamos a hablar con vos.  Ahora vamos con vos. ",
+            "cosine_dist": 0.9683968091736525,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 28.001,
+            "end_time": 32.482,
+            "text": "Mariana Arias tiene información sobre Biden.  ¿Qué está pasando en Estados Unidos con las vacunas? ",
+            "cosine_dist": 0.8220598652908865,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 32.583,
+            "end_time": 41.446,
+            "text": "Bueno, Joe Biden está entrando en una luna de miel con Estados Unidos porque está anunciando que adelantará dos meses, algo que prometió para julio. ",
+            "cosine_dist": 0.7987061898399365,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 41.506,
+            "end_time": 46.968,
+            "text": "En mayo quiere que trescientos millones de adultos mayores estén vacunados en todo Estados. ",
+            "cosine_dist": 0.8789163310404718,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 47068,
+            "end_time": 47388,
+            "text": "Unidos. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 47508,
+            "end_time": 47928,
+            "text": "Para eso... ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 48528,
+            "end_time": 49029,
+            "text": "fomenta ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 49.169,
+            "end_time": 51.81,
+            "text": "un acuerdo con la farmacéutica Merck y Johnson ",
+            "cosine_dist": 0.8478758018840673,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 51.81,
+            "end_time": 52.731,
+            "text": "& Johnson, introduce ",
+            "cosine_dist": 0.9428062229463106,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 52.751,
+            "end_time": 53.952,
+            "text": "una vacuna nueva, una vacuna ",
+            "cosine_dist": 0.8158734952211301,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 53.992,
+            "end_time": 56.594,
+            "text": "que va con una zona dosis y que solo necesita ",
+            "cosine_dist": 0.8982004203315045,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 57.054,
+            "end_time": 59.416,
+            "text": "refrigeradores comunes, o sea que es mucho más ",
+            "cosine_dist": 0.913483092634972,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 59516,
+            "end_time": 59856,
+            "text": "fácil ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 60.276,
+            "end_time": 60.877,
+            "text": "avanzar en la ",
+            "cosine_dist": 0.9864170660487785,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 60.937,
+            "end_time": 61.537,
+            "text": "vacunación, ",
+            "cosine_dist": 0.8852637942075416,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 61.557,
+            "end_time": 63.859,
+            "text": "y invierte en ese... ",
+            "cosine_dist": 0.9406645559085238,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 64.078,
+            "end_time": 69.163,
+            "text": "La famosa articulación público-privado.  ¿Qué dice Miley de eso? ",
+            "cosine_dist": 0.8019998469497781,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 69.383,
+            "end_time": 70.784,
+            "text": "Se agarra la cabeza, Miley. ",
+            "cosine_dist": 1.0330018055938968,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 70.804,
+            "end_time": 84.195,
+            "text": "Bueno, invierte el gobierno de Estados Unidos doscientos sesenta y ocho millones de dólares.  ¿Sabés a cuántos vacunaron ya en todo Estados?  Unidos?  Setenta y ocho coma seis millones de vacunas aplicadas hay ya en Estados. ",
+            "cosine_dist": 0.8794580072893321,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 84.255,
+            "end_time": 87.338,
+            "text": "Unidos.  O sea, un millón novecientas cuarenta mil por día. ",
+            "cosine_dist": 0.791858998325121,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 87.858,
+            "end_time": 90.779,
+            "text": "Lo que llevamos nosotros en casi tres meses. ",
+            "cosine_dist": 0.9228266966054591,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 90.799,
+            "end_time": 99.123,
+            "text": "Y veintitrés coma siete dosis cada cien personas.  Ese es el porcentaje de vacunación que está avanzado en Estados Unidos. ",
+            "cosine_dist": 0.872042833199967,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 99.143,
+            "end_time": 105.046,
+            "text": "Y con este anuncio Joe Biden asegura que en mayo todos los adultos mayores van a estar vacunados. ",
+            "cosine_dist": 0.860171307832359,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 105.546,
+            "end_time": 106.686,
+            "text": "Muy bien, bueno. ",
+            "cosine_dist": 0.9027948237893635,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 106.726,
+            "end_time": 107.507,
+            "text": "Qué bárbaro. ",
+            "cosine_dist": 1.0272689846244911,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 107.727,
+            "end_time": 109.127,
+            "text": "¿Qué tal, Milei? ",
+            "cosine_dist": 1.0786516385201155,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 109.147,
+            "end_time": 110.588,
+            "text": "¿Qué tal, Pancho?  ¿Cómo estás? ",
+            "cosine_dist": 0.7040340111345779,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 110.628,
+            "end_time": 111.909,
+            "text": "Te pusiste un poquito inquieto. ",
+            "cosine_dist": 1.0213265656803125,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 112.169,
+            "end_time": 114.89,
+            "text": "Sí, sí, ya se ve.  Ya empezó a subir la temperatura. ",
+            "cosine_dist": 0.8919110492580915,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 115.992,
+            "end_time": 120.215,
+            "text": "No, bueno, lo que pasa es que hay que soportar cada nivel de mentira con algunos... ",
+            "cosine_dist": 0.5320302254817897,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 120.795,
+            "end_time": 126.778,
+            "text": "Pero viste que el presidente habló de inflación multicausal en el discurso. ",
+            "cosine_dist": 0.8335337552728384,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 126.898,
+            "end_time": 128.94,
+            "text": "Bueno, es una pena.  eso porque... ",
+            "cosine_dist": 0.609583606969223,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 129.759,
+            "end_time": 137.804,
+            "text": "Es una expresión que viene diciendo Guzmán.  Los empresarios se levantaron a aplaudir a Guzmán cuando dijo esto, que es multicausal. ",
+            "cosine_dist": 0.8226764634922765,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 138.125,
+            "end_time": 145.2,
+            "text": "Bueno, entonces esos empresarios son parte del problema.  A ver, yo te lo hago con un ejemplo, digamos, bien fácil. ",
+            "cosine_dist": 0.49651958191590584,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 145.22,
+            "end_time": 148.502,
+            "text": "Bueno, son empresarios que se benefician cuando cierran las importaciones, ¿no?  Por. ",
+            "cosine_dist": 0.8888635960880147,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 148542,
+            "end_time": 148902,
+            "text": "ejemplo. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 149.623,
+            "end_time": 150.563,
+            "text": "No, no todos, no todos. ",
+            "cosine_dist": 0.8622669269856696,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 150.643,
+            "end_time": 227.512,
+            "text": "Quizás algunos sean empresarios y otros hasta empresucios, ¿no?  Pero, a ver, yo te lo voy a explicar con un caso muy simple para que se vea que la inflación no es multicausal.  Suponente que estamos en una economía que hace transacciones en moneda de oro.  Y yo, digamos, encuentro a un físico y encuentro a un químico que logran convertir el plástico en oro.  Entonces empezamos a comprar mucho plástico.  ¿Qué va a pasar con el plástico?  ¿Va a subir de precio el plástico?  Y eso, ¿qué hacemos?  Lo transformamos, lo falsificamos y lo convertimos en oro.  Mientras que la falsificación queda dentro de mi casa, no pasa nada.  Ahora, ¿qué pasa cuando yo tiro ese oro falsificado a la calle?  ¿El precio del oro qué va a pasar?  Va a bajar.  Quiere decir que todos los precios expresados en unidades de oro suben.  Eso se llama inflación.  Es decir, ¿quién es el que puede hacer este ejercicio recurrentemente?  El Banco Central emitiendo dinero.  Entonces, cuando el Banco Central incrementa la oferta de dinero por encima de la demanda de dinero, el poder adquisitivo del dinero cae y todos los precios expresados en unidades monetarias suben.  Ese es, por un lado, ese es el argumento monetario.  Eso tiene evidencia empírica.  Mira, hay un libro que se llama... Cuatro mil años de controles de precios y salarios.  ¿Cómo no combatir la inflación? ",
+            "cosine_dist": 0.305026836502311,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 228.392,
+            "end_time": 229.633,
+            "text": "¿No hubo ninguno que haya resultado? ",
+            "cosine_dist": 0.9721585140359058,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 230.013,
+            "end_time": 231.434,
+            "text": "Se ve que nadie lo lesionó el gobierno. ",
+            "cosine_dist": 1.0278273909535491,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 231.574,
+            "end_time": 307.683,
+            "text": "Ninguno, ninguno.  Y si vos querés un caso donde no aplicó, es Argentina.  Argentina desde la segunda mitad del siglo XX en adelante siempre tuvo controles de precios, salvo, ¿sabés en qué periodo?  En la convertibilidad.  Justo cuando no había controles de precios no hubo inflación.  Es más, abona la idea esta de la inflación del costo.  Eso también es una estupidez.  Y lo voy a explicar porque digo, esto ya... Hay una frase de Mises que dice, si ellos siguen repitiendo las mismas mentiras, nosotros vamos a seguir repitiendo las mismas verdades.  O sea, por eso tengo que repetir los ejemplos, a ver si, por ejemplo, entiende esta gente.  A ver, suponete lo siguiente.  Yo llego a una comunidad y descubro que no hay vino.  Entonces digo, bueno, entonces me consigo la uva, la botella, la etiqueta, el corcho, ¿sí?  ¿Por qué?  Y además, como voy a tener monopolio, porque estoy yo solo, le cargo un bruto margen.  Entonces ahora llego con la botella, cual Dulcamara en el Dixi de amor, y ofrezco la botella.  Es una sociedad de abstenios.  ¿Me querés decir qué hago con la botella?  Acaba de subir el precio la vaselina.  No, no, es una cuestión de costos. ",
+            "cosine_dist": 0.3139495146639638,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 307.723,
+            "end_time": 318.75,
+            "text": "Estamos de acuerdo que es cierto que la inflación tiene que ver con la emisión monetaria, pero también es cierto que en contextos inflacionarios hay muchos empresarios que se suben a la especulación y aumentan los precios por las dudas. ",
+            "cosine_dist": 0.8436885261770098,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 319.17,
+            "end_time": 320.071,
+            "text": "Bueno, pero a ver... ",
+            "cosine_dist": 0.9009064074528802,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 320.431,
+            "end_time": 322.092,
+            "text": "Eso es cierto también. ",
+            "cosine_dist": 0.834439994309491,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 322.232,
+            "end_time": 326.654,
+            "text": "A ver, te hago una pregunta.  Los mismos empresarios que tenías en la década del noventa y que tenían esa misma conducta... ",
+            "cosine_dist": 0.5281257769852746,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 326.694,
+            "end_time": 335.7,
+            "text": "No, no aumentaban.  Pero en un contexto inflacionario, yo conozco, por ejemplo, empresarios que remarcan los precios todos los viernes... haya habido inflación o no. ",
+            "cosine_dist": 0.7918321382336455,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 335.72,
+            "end_time": 363.748,
+            "text": "Pero, ¿cuál es el problema?  De última, si se equivoca, el mercado lo castiga con la no compra.  Mira qué fácil que es.  Mira qué fácil que es.  Y si por alguna cuestión, suponete lo siguiente, vamos a desterrar otro de las mentiras que dicen este conjunto de farsantes, que además el gobierno tiene una concentración importante de esa gente.  A ver, vamos en este sentido.  Cuando te dicen que la devaluación genera inflación, eso es falso.  Eso es falso. ",
+            "cosine_dist": 0.3410916009313605,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 364.569,
+            "end_time": 366.01,
+            "text": "Eso lo dice Todesca, por.  ejemplo. ",
+            "cosine_dist": 0.8662657285805722,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 366.43,
+            "end_time": 387.804,
+            "text": "Bueno, Todesca es parte del problema, no parte de la solución.  Es una gran usina generadora de ideas pésimas que hunden a la economía.  Es parte de las ideas que hundieron a este país.  Cuando vos, suponete que cambian los precios internacionales y entonces el bien X ahora es más caro.  Ahora suponete que yo tengo unos consumidores cabrones. ",
+            "cosine_dist": 0.2909910054006922,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 387.945,
+            "end_time": 388.865,
+            "text": "La nafta, por ejemplo. ",
+            "cosine_dist": 0.8810647335875922,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 389.105,
+            "end_time": 440.217,
+            "text": "Que quieren seguir consumiendo lo mismo.  Por lo tanto, vas a tener que pagar más por eso.  Si vos te estás pagando más por ese bien X, por el bien Y, ¿cuánto vas a poder pagar?  Inexorablemente vas a poder pagar menos.  Por lo tanto, va a bajar el precio de Y. La única forma que eso no pasa es cuando existe algo que se llama convalidación monetaria.  Y es que vos emitas dinero, entonces no baja el precio de Y y entonces sí solo sube el precio de X. Pero para que eso pase... Tenés que emitir dinero.  Entonces, esta gente adhiere a los postulados de la teoría no monetaria de la inflación y ni siquiera se dan cuenta que los modelos de inflación estructural tienen en el fondo un modelo de dinero pasivo que significa la convalidación monetaria.  Si vos no tenés convalidación monetaria, no vas a tener inflación. ",
+            "cosine_dist": 0.3014558498653921,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 440.277,
+            "end_time": 452.062,
+            "text": "Quiere decir, Javier, que el gobierno con esta estrategia de anclar el tipo de cambio de acá a las elecciones, no va a poder... ¿Aplacar un poco la inflación, como están diciendo, que de a poquito va a ir cayendo? ",
+            "cosine_dist": 0.8267148532896348,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 452.442,
+            "end_time": 457.607,
+            "text": "A ver, los controles de precios no funcionan.  Es decir, y por más que, digamos, sea... ",
+            "cosine_dist": 0.4260930051745865,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 458.488,
+            "end_time": 460.59,
+            "text": "El ancla del tipo de cambio, por ejemplo, que no suba el dólar. ",
+            "cosine_dist": 0.7934808490877603,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 461.171,
+            "end_time": 529.602,
+            "text": "Y por más que Alberto Fernández... Mira, Alberto, así, ya te hablo en confianza.  Te sugiero que leas la experiencia de Dioclesiano.  ¿Saben lo que hizo Dioclesiano?  Mira, Roma tenía este problema, porque esto viene, mira, te lo agrego además con el tema de la mesa de los argentinos.  Vamos a cuidar la mesa de los argentinos.  ¿Sabes quiénes cuidaron la mesa, digamos, de los romanos?  Justamente los romanos, sí, quisieron declararlo en la nona.  ¿La nona?  qué era?  Darle el pan gratis a la gente.  O sea, entonces todos pan gratis, estaban todos felices, ¿no?  Pan gratis.  ¿Qué empezó a pasar?  Empezó a llegar cada vez más gente a Roma, más gente a Roma.  Roma tenía una población, para los estándares de la época, que era un disparate de grande.  ¿Eso qué implicó?  Un déficit fiscal enorme.  Frente al déficit fiscal, ¿cómo lo financiaban?  Primero subieron los impuestos, después se los subieron a los territorios que tenían dominados.  ¿Qué pasó?  Estaban todos estrangulados, no daban más con los impuestos.  Entonces, ¿qué empezaron a hacer?  Empezaron a hacer algo parecido a la emisión de dinero, que es degradar el peso... de las monedas.  O sea, ¿qué hacían?  Lo metían en una bolsa, lo golpeaban, perdían peso y hacían nuevas monedas que supuestamente... ",
+            "cosine_dist": 0.28549744446505876,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 529.622,
+            "end_time": 530.323,
+            "text": "Con menos material. ",
+            "cosine_dist": 0.9879753592666224,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 530.583,
+            "end_time": 554.225,
+            "text": "Claro, exactamente.  Entonces, ¿qué pasaba?  Había inflación.  O sea, había inflación.  Entonces, al haber inflación, ¿qué hizo Dioclesiano?  Puso un control de precios.  Y tenía un general, el Paula Español, que aquel que no lo cumplía le cortaba la cabeza.  ¿Y qué pasaba?  Cada vez había más escasez.  ¿Eso sabes en qué derivó?  En la caída del imperio romano.  Es así. ",
+            "cosine_dist": 0.31509265958316957,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 554.746,
+            "end_time": 558.55,
+            "text": "Pero el imperio argentino no va a caer. ",
+            "cosine_dist": 0.7745287908891617,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 559.251,
+            "end_time": 560.472,
+            "text": "No, no lo sé. ",
+            "cosine_dist": 0.771296611419018,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 560.553,
+            "end_time": 562.795,
+            "text": "O sea, vos estás viendo una crisis... ",
+            "cosine_dist": 0.8433758451526012,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 563996,
+            "end_time": 564356,
+            "text": "Bueno, esto... ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 564.376,
+            "end_time": 565.177,
+            "text": "¿Percibible? ",
+            "cosine_dist": 1.0102200053396173,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 565.437,
+            "end_time": 602.83,
+            "text": "Sí, sí, definitivamente.  ¿Cuándo?  Bueno, a ver, el tiempo es de Dios.  Si yo tuviera eso, tendría la bola de cristal y sería multimillonario.  No es mi caso.  A ver, el punto es el siguiente.  Mirá, cuando vos tenías esto, Luis Rosales, cuando nosotros vamos de campaña, lo cuenta, cuenta el caso, por ejemplo, la dinastía en China.  Eran dinastías que duraban un montón de tiempo.  ¿Y qué hace acá?  era una dinastía?  La peste.  Bueno, digamos, quizás sea el momento que caiga la dinastía de los políticos profesionales que viven explotando... ",
+            "cosine_dist": 0.2909237251268163,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 602.87,
+            "end_time": 612.852,
+            "text": "Pero qué opción tiene este gobierno, digamos, porque tampoco le podemos pedir que sean lo que no son, digamos.  O sea, dentro de su ideología, ¿qué herramientas tienen para bajar la inflación? ",
+            "cosine_dist": 0.7637229777044081,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 613.412,
+            "end_time": 621.991,
+            "text": "No, es que, de vuelta, la única forma que se baja la inflación es dejando de emitir.  Es decir, salvo que me digas que tenés una... ",
+            "cosine_dist": 0.3910905052945085,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 622.011,
+            "end_time": 625.033,
+            "text": "Cambiemos dejó de emitir y no bajó. ",
+            "cosine_dist": 0.8654954167255267,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 625.153,
+            "end_time": 627.194,
+            "text": "No es que dejó de emitir, emitió también Cambiemos. ",
+            "cosine_dist": 0.5912985184623796,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 627.574,
+            "end_time": 628.815,
+            "text": "Frenó el ritmo de emisión, pero también... ",
+            "cosine_dist": 1.0039956651113278,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 628.835,
+            "end_time": 656.575,
+            "text": "Frenó el ritmo de emisión, esa es una cosa.  Y después vos tenés que... De hecho, fíjate que, si querés, agotó la descripción de lo que pasó durante la experiencia de Cambiemos.  O sea, en Cambiemos se sale exitosamente del cepo que había dejado el kiserismo,  ¿sí?,  Lo hace en un momento de estacionalidad alta la demanda de dinero, que es muy robusta desde mediados de diciembre hasta fin de febrero. ",
+            "cosine_dist": 0.30370210506807305,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 656.635,
+            "end_time": 657.695,
+            "text": "La gente queriendo quedarse con pesos. ",
+            "cosine_dist": 0.9112857180427064,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 657.715,
+            "end_time": 733.147,
+            "text": "Queriendo quedar con pesos.  Y en ese mismo contexto Sturzenegger saca una cantidad monstruosa de peso de la calle.  Y eso permite no solo abrir el cepo, sino que lo hace con el dólar cayendo y comprando reservas.  Y va a ser el primer caso.  Después recibe presiones Sturzenegger para bajar la tasa, baja la tasa, cuando se le desarma la posición del EVAX se le vuelve a caer la demanda de dinero, tiene un problema de aceleración inflacional y el primer año de Cambiemos termina con alta inflación.  El segundo año de Cambiemos, o sea, tiene una meta de inflación del techo.  era del dieciocho por ciento.  Ahora es interesante porque la inflación fue de veinticinco, o sea que la inflación de cuarenta a veinticinco bajó, pero hay una parte de la historia que no se cuenta, es que el Banco Central, en el Banco Nación lo echa Melconian, lo pone a González Fraga, González Fraga desesteriliza enormemente el EBACS desde... el Banco Nación, y eso incrementa fuertemente la cantidad de dinero.  Cuando vos computás el efecto que generó esa desesterilización monetaria, son entre siete y ocho puntos de inflación.  Es decir, que la meta de inflación que proponía Sturzenegger se hubiera cumplido.  Y después pasó otra cosa tremenda.  Fue lo que fue el veintiocho de diciembre del dos mil diecinueve. ",
+            "cosine_dist": 0.2948834947610076,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 733.167,
+            "end_time": 734.487,
+            "text": "La famosa conferencia de prensa. ",
+            "cosine_dist": 0.9029288185457813,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 734.547,
+            "end_time": 744.831,
+            "text": "Bueno, ahí se te derrumbó la demanda de dinero, el Banco Central en un año perdió cerca de veintidós mil millones de dólares, se derrumbó la demanda de dinero, se te aceleró la inflación y después todo lo que conocemos. ",
+            "cosine_dist": 0.33111440854401963,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 744.851,
+            "end_time": 751.614,
+            "text": "Bueno, ahora, ¿qué propones vos como solución para la inflación en este contexto y con este gobierno?  La única forma... ",
+            "cosine_dist": 0.7553186458693775,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 752.19,
+            "end_time": 771.837,
+            "text": "A ver, digo, si no quiere... A ver, de vuelta, suponete una persona tiene, digamos, cáncer.  Bueno, ¿puede ir a la curandera de la esquina?  Sí, digamos, o puede ir al oncólogo.  Bueno, ¿le puedes pedir al oncólogo?  Digo, a ver, bueno, ¿por qué no me da la receta de la bruja? ",
+            "cosine_dist": 0.491931994670043,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 772.778,
+            "end_time": 775.379,
+            "text": "No.  ¿Y con la receta de la bruja se puede llegar a octubre? ",
+            "cosine_dist": 0.9446260612600152,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 777.84,
+            "end_time": 778.52,
+            "text": "No es gratis. ",
+            "cosine_dist": 0.7435784062810544,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 779855,
+            "end_time": 780235,
+            "text": "Después. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 781.256,
+            "end_time": 800.211,
+            "text": "Y está aceptando... A ver, ¿por qué?  ¿Qué es lo que quieren hacer?  Control de precios, estímulo del gasto público financiado con una emisión monetaria y controles.  La historia argentina dice que eso siempre termina mal.  La más recién, digamos, una de las más parecidas a esa se llama Rodrigazo.  No terminó bien. ",
+            "cosine_dist": 0.2935758009106918,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 800.231,
+            "end_time": 801.012,
+            "text": "Hugo, ¿vos querés preguntar? ",
+            "cosine_dist": 1.04279362157322,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 801.032,
+            "end_time": 826.859,
+            "text": "Sí, le quiero preguntar cuál es el plan del gobierno, finalmente, si está obcecado en su cuestión ideológica, o hay un plan, digamos, destinado a sacarnos de este problema de los datos que vemos todos los tiempos.  Yo creo que hay dos dimensiones del plan.  Te diría, hay uno de largo plazo, El de largo plazo es la agenda del Foro de San Pablo.  Ya conocemos que es la agenda del Foro de San Pablo, es convertirnos en Venezuela. ",
+            "cosine_dist": 0.4705363018960993,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 827379,
+            "end_time": 827839,
+            "text": "Convertir. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 828.219,
+            "end_time": 846.444,
+            "text": "Sí, digamos, o sea, esto es ideológico, esto ya, digamos, excede... El socialismo es un... Yo creí inicialmente que era una enfermedad, digamos, en la cabeza, ¿sí?  Con un problema, digamos, de personas que viven de espalda a los datos, o sea... ",
+            "cosine_dist": 0.3659455038221714,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 848525,
+            "end_time": 848685,
+            "text": "Pero... ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 849.389,
+            "end_time": 852.47,
+            "text": "Después me di cuenta que no, es peor todavía, es una enfermedad del alma. ",
+            "cosine_dist": 0.4958022761158688,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 853.49,
+            "end_time": 855.47,
+            "text": "¿El socialismo es una enfermedad del alma?  Claro. ",
+            "cosine_dist": 0.8140081038517377,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 855.49,
+            "end_time": 904.883,
+            "text": "Qué título extraordinario.  Claro, claro, porque es un problema de... Socialismo del siglo XXI, dice vos.  Cualquier versión del socialismo, porque el socialismo está basado en la envidia, en el odio, en el resentimiento, en el trato desigual frente a la ley, en el robo y en el asesinato.  En la solidaridad, ¿no?  La solidaridad es maravillosa.  Siempre y cuando seas voluntaria.  Si vos le querés, no sé, donar plata a ese quien, porque es un buen chico... Sí, estamos pensando.  Y a mí no, mire.  Eso está perfecto.  Ahora, el problema es... A mí.  Ahora yo... Gracias, Mariana.  Ahora yo quiero hacer solidaridad con Mariana porque tiene un stock de capital humano formidable.  ¿No? ",
+            "cosine_dist": 0.3503661153635367,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 904903,
+            "end_time": 905343,
+            "text": "Guada también. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 905.363,
+            "end_time": 920.547,
+            "text": "Nadie lo duda.  Claro, claro, obviamente.  Dije casi una obviedad.  Entonces yo ahora quiero ser generoso.  Entonces yo saco una nueve milímetros, la pongo en la cabeza de Pancho y le digo... O en el escritorio.  Pancho, no, no, no, directamente las cosas se hacen así. ",
+            "cosine_dist": 0.45346407323396576,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 921.974,
+            "end_time": 924.477,
+            "text": "Estamos haciendo una vaquita para... ",
+            "cosine_dist": 0.8895481766286648,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 924.497,
+            "end_time": 956.456,
+            "text": "Quiero ser muy generoso con Mariana, entonces dame tu plata.  Así es, cualquiera es generoso, eso no es generosidad.  Eso se llama justicia social, que es un robo y es un trato desigual frente a la ley.  Porque yo la estoy premiando a ella, ¿sí?  Y te estoy castigando a vos.  Entonces, eso es profundamente injusto.  Porque si hay algo que es un logro del liberalismo, ¿cuál fue?  La igualdad ante la ley.  Entonces, los estoy tratando de modo desigual.  Además, te estoy robando a vos y estoy haciendo caridad con el bolsillo ajeno. ",
+            "cosine_dist": 0.4339098951643936,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 957.016,
+            "end_time": 958.096,
+            "text": "Un disparate. ",
+            "cosine_dist": 0.9007767189227807,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 958.656,
+            "end_time": 1030.15,
+            "text": "Con ese gasto público que tenemos, ¿es solidaridad o es necesario?  No, no.  Mirá, hay mucha mentira detrás del gasto público.  Es más, cuanto más progre el político, más chorro es.  Es de manual.  Y lo que hacen son personas profundamente perversas.  ¿Por qué son personas perversas?  Porque en realidad esconden sus privilegios de casta detrás de los vulnerables.  Por ejemplo, yo hago una pregunta.  Alguien entre todos nosotros, independientemente de que yo pueda odiar al Estado, más allá de esto, ¿Alguien está de acuerdo con que los recursos públicos, digamos, se roben o se gasten ineficientemente?  Bueno, hay un estudio del Banco Interamericano de Desarrollo que muestra que la ineficiencia técnica de América Latina, que es el peor... continente del mundo en ineficiencia técnica es... ...cuatro coma cuatro por ciento del PBI... ...Argentina tiene siete coma dos... ...y de esos siete coma dos... ...cinco puntos... ...son robo... ...entonces Guada me dice... ...ok, ¿qué harías?  ...che, lo primero que haría... ...es un hachazo al choreo de los políticos... ",
+            "cosine_dist": 0.4064774569430053,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1030.63,
+            "end_time": 1033.532,
+            "text": "Estamos todos de acuerdo en eso. ",
+            "cosine_dist": 1.0572902303024174,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1033.593,
+            "end_time": 1038.777,
+            "text": "Bueno, pero hay otros que te ponen la sensibilidad, son muy sensibleros, con la ajena siempre. ",
+            "cosine_dist": 0.5864646227450154,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1038.817,
+            "end_time": 1062.035,
+            "text": "Pero la intervención de Biden con el mercado de las vacunas puede haber sido, pero pará, ahora me lo contestás, una buena noticia para el abastecimiento en este momento.  Pero pará, ahora me lo contestás, porque está Alfredo Sainz.  Vamos a preguntarle, Alfredo viene con un tema que es muy recurrente últimamente, que es por qué se van las empresas de la Argentina.  Exacto, el éxodo de los empresarios.  Hay dos empresas más en esta situación.  Alfredo, ¿cómo te va? ",
+            "cosine_dist": 0.8150974781389254,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1062.696,
+            "end_time": 1064.137,
+            "text": "¿Cómo andás, Francisco Guadalupe? ",
+            "cosine_dist": 0.9978228111268728,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1064.297,
+            "end_time": 1071.722,
+            "text": "Que además les quiero decir a la mesa que Alfredo es un tipo que ha hecho todo tipo de trabajos.  El que se te ocurra, por ejemplo, fue florista. ",
+            "cosine_dist": 0.7604305317936884,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1072402,
+            "end_time": 1072822,
+            "text": "¿Vos sabías? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1072.922,
+            "end_time": 1073.903,
+            "text": "Ah, qué buen trabajo. ",
+            "cosine_dist": 1.0064907841622823,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1073.983,
+            "end_time": 1082.329,
+            "text": "Sí, y por ejemplo, a mí me gustaría preguntarle, vos como florista, ¿sabías el que venía con intenciones genuinas y el que no, Alfredo? ",
+            "cosine_dist": 0.8004077141077427,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1083.029,
+            "end_time": 1092.44,
+            "text": "Sí, sabías que había detrás de cada compra, lo veías un poquito a la entrada, si era algo culpable venía a remontar algo. ",
+            "cosine_dist": 0.6837923985161858,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1093.141,
+            "end_time": 1098.747,
+            "text": "Alfredo, ¿por qué hay dos empresas más que se están yendo de la Argentina? ",
+            "cosine_dist": 0.7982694446200738,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1099.428,
+            "end_time": 1133.792,
+            "text": "Sí, la lista de todo el último año habla más de veinte empresas, ahora la última noticia que se conoció es que Aguas Danone, que es la dueña de Villavicencio, de Villa del Sur, de SER, está buscando un comprador.  Le dio un mandato de venta al banco MBA Lázaro para que le encuentre un comprador.  Esta operación, si hay un final fenil, va a terminar vendiendo y yéndose de la Argentina.  Pero más allá del caso puntual... ",
+            "cosine_dist": 0.7056287619262381,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1133.812,
+            "end_time": 1137.234,
+            "text": "Pero no cerrando, aclaremos.  No cierran, sino que buscan comprador. ",
+            "cosine_dist": 0.8917885206587963,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1137.714,
+            "end_time": 1163.681,
+            "text": "Exacto, sí, en estos casos son salidas ordenadas, que la empresa dueña, por lo común una multinacional, lo que hace es otorgar un mandato de venta a un banco que te busca un comprador para hacer una salida ordenada que se quede eventualmente con las marcas, pero sí con las fábricas, con los empleados, para que siga operando.  No es tan fácil porque tampoco Argentina no es un lugar donde hoy se matan las empresas por invertir. ",
+            "cosine_dist": 0.7129327559184608,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1163.701,
+            "end_time": 1169.405,
+            "text": "No es que hay una fila para ver quién lo gaza.  Todo lo contrario.  ¿Y por qué pasa esto, Alfredo? ",
+            "cosine_dist": 0.7844524673815809,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1169.445,
+            "end_time": 1201.122,
+            "text": "No hay una única razón.  Yo creo que de fondo tenés como cuatro razones.  La primera es la falta de clima de negocios.  Lo que te dicen las empresas es que parte del gobierno, de la sociedad, no se alienta a la llegada de inversiones, sino que por el contrario, se le ponen más... Más trabas, más dificultades, más amenazas.  Si no haces esto, voy a controlar los precios, no vas a poder operar, no vas a poder crear divisas.  Esa es la primera generación. ",
+            "cosine_dist": 0.7150850452460809,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1201.142,
+            "end_time": 1202.103,
+            "text": "La más obvia, claro. ",
+            "cosine_dist": 1.0937197988007867,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1202.324,
+            "end_time": 1232.285,
+            "text": "Sí.  La segunda es que... para mí lo más importante es que no es negocio la Argentina, pero no de ahora, no del gobierno este, ya viene de Macri y ya viene también del segundo gobierno de Cristina.  Hace diez años que la economía argentina no crece, que está estancada y que vos tenés un país que no genera riqueza y no genera negocios.  No es negocio para los argentinos y muchos que se están yendo y tampoco es negocio para las empresas. ",
+            "cosine_dist": 0.7922849232460507,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1232.965,
+            "end_time": 1237.189,
+            "text": "Asiente con la mirada, Milei.  Hace así, no sé qué... Pero es que Alfredo tiene... ",
+            "cosine_dist": 0.7919865822431984,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1237.689,
+            "end_time": 1254.703,
+            "text": "Como de costumbre, Alfredo tiene razón.  Las veces que me ha tocado interactuar con él es muy certero.  Fíjate, el PBI en Argentina... quedó estancado a partir del dos mil once, oscilaba entre el mismo nivel, y hoy, digamos, el PBI está, fíjate, nueve por ciento abajo, pero... ",
+            "cosine_dist": 0.39218555926409215,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1254.843,
+            "end_time": 1256.803,
+            "text": "O sea, hace diez años que Argentina no crece. ",
+            "cosine_dist": 0.8383050043139845,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1256.943,
+            "end_time": 1275.134,
+            "text": "Sí, pero nueve por ciento abajo.  ahora después de esta crisis, pero además, en términos per cápita estamos dieciocho por ciento abajo.  Hoy Argentina tiene además un PBI per cápita en dólares al paralelo, que es al dólar que hay, de cinco mil dólares.  La situación de Argentina es catastrófica. ",
+            "cosine_dist": 0.3180054671604151,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1275.834,
+            "end_time": 1278.437,
+            "text": "Para que la gente tenga una idea... ",
+            "cosine_dist": 0.8791173512619073,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1278.638,
+            "end_time": 1339.21,
+            "text": "El promedio es de doce mil, con lo cual hoy Argentina en el ranking de PBI mundial ya está a ciento veinte.  O sea, pensá que en Argentina entramos al siglo veinte estando primero.  Listo.  Pero es muy importante el primer punto que levanta Alfredo.  Cuando dice el tema de los controles de precios, los controles de precios en realidad es un avance sobre el derecho de propiedad.  Porque en realidad un precio, suponete lo siguiente, yo te vendo mis anteojos.  Vos me das una cantidad de dinero, eso te marca un registro histórico, se llama precio, eso genera que los agentes se coordinen como compradores, vendedores, y si hay más demanda que oferta, el precio sube o viceversa.  Ahora, todo ese proceso de coordinación, ajuste, información, todo lo que vos quieras, es porque cuando yo te di esto, es mío, y lo que vos me diste es tuyo.  Es decir, el dinero era tuyo y los anteojos eran míos.  Entonces, ¿qué es lo que pasa?  Cuando vos empezás a tocar los precios, estás tocando el derecho de propiedad.  Y al tocar el derecho de propiedad, la señal de precios se distorsiona y la economía funciona peor. ",
+            "cosine_dist": 0.3194175673977928,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1339.85,
+            "end_time": 1344.313,
+            "text": "¿Eso, Alfredo, te lo dicen explícitamente cuando te hablan de los precios, como dice Javier? ",
+            "cosine_dist": 0.9174362817707652,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1345.354,
+            "end_time": 1380.688,
+            "text": "Y mira, te lo decía Javier, y yo creo que está más amplio, entre las razones te nombro una tercera, que es las trabas para operar.  Pero trabas desde algo operativo, digamos que no puedes importar hoy todos los problemas que tienen las empresas para cancelar la duda en dólares, o operativamente para importar un insumo, para fabricar acá.  Pero también, ahora conocí a Tordaz hace una semana, la Secretaría de Comercio, que te obliga a enviar todos los meses un análisis de tus costos para ver si, por qué no estás produciendo, si puedes aumentar. ",
+            "cosine_dist": 0.7670726033537834,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1380.708,
+            "end_time": 1382.57,
+            "text": "Para evitar el desabastecimiento, en. ",
+            "cosine_dist": 0.9480115035151455,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1382.59,
+            "end_time": 1397.461,
+            "text": "teoría.  Eso te dio, claro, para lo que decías bien, el abastecimiento es la excusa.  Una empresa, hablé con una empresa grande que le envió los datos de enero, le envió dieciocho mil páginas.  Tenés que tener alguien que juntando ese material, que lo corrija. ",
+            "cosine_dist": 0.7976742777293568,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1397.481,
+            "end_time": 1398.963,
+            "text": "Un empleo que se dedique a eso.  Exacto. ",
+            "cosine_dist": 0.9692653660234349,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1399.403,
+            "end_time": 1404.107,
+            "text": "Ni siquiera.  Es un gasto inútil y al final del día es como una trama más para operar. ",
+            "cosine_dist": 0.7927783918728083,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1404.947,
+            "end_time": 1410.852,
+            "text": "Y ahí esa empresa te dijo que tenía un empleado o más solamente abocado. ",
+            "cosine_dist": 0.9267791608502307,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1410.912,
+            "end_time": 1420.716,
+            "text": "No, más.  tiene un empleado coordinador, porque imagínate esto implica varias áreas, finanzas, impuestos, costos, proveedores... ",
+            "cosine_dist": 0.7404033083528996,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1420.736,
+            "end_time": 1422.497,
+            "text": "Qué manera de crear fuentes de trabajo, ¿no? ",
+            "cosine_dist": 0.9544024229317905,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1422.537,
+            "end_time": 1465.509,
+            "text": "No, bueno, está bien, pero digamos para concluir, porque cuando vos mirás los problemas de la imposibilidad del socialismo, Uno de los problemas es la capacidad fáctica de procesar toda esa información.  Pero suponete que la tecnología te lo resolviera, porque además no solo tenés que resolverla de los costos, digamos, si quisieran parar la inflación, tendrían que resolver la información de cada uno de nuestros cerebros sobre el pasado, el presente y el futuro de nuestras preferencias.  Es un disparate, pero... Y lo peor de todo es que mucha de esa información que se usa en todo esto tiene que ver con el know-how.  Puede venir Michael Jordan, nos enseña a cómo se hace la volcada y no nos va a salir. ",
+            "cosine_dist": 0.2792087610944759,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1465.549,
+            "end_time": 1466.89,
+            "text": "A mí me va a llevar un tiempo. ",
+            "cosine_dist": 0.9292160694796179,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1466.95,
+            "end_time": 1484.958,
+            "text": "A mí muchísimo más seguramente.  Pero no solo eso, el tema es que el mercado es un proceso de descubrimiento.  Entonces cuando le llega la información al ente centralizado, ya es vieja y no sirve nada, y cualquier decisión que tomes con eso está mal.  Es decir, por eso siempre funciona mal. ",
+            "cosine_dist": 0.40129844189481845,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1485.378,
+            "end_time": 1488.1,
+            "text": "Moyano, ¿te hablan de los gremios, Alfredo? ",
+            "cosine_dist": 0.879841389764866,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1488.14,
+            "end_time": 1521.456,
+            "text": "Sí, mira, tío, la situación de los gremios siempre estuvo fuerte en la Argentina, pero hoy, por lo que digo, yo no creo que sea la mayor traba, están un poquito más acostumbrados.  Incluso los gremios no los veo tan activos, creo que la crisis misma fue tan grande que los terminó disciplinando.  La otra causa que te nombra es la pandemia, pero en el sentido más que hubo a lo general que la pandemia llevó el flight to quality.  Las empresas grandes priorizan otros mercados. ",
+            "cosine_dist": 0.8088199624198616,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1521.476,
+            "end_time": 1522.797,
+            "text": "¿Cuántas empresas se fueron? ",
+            "cosine_dist": 0.9731850587657044,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1523.883,
+            "end_time": 1548.876,
+            "text": "Mirá, grandes.  tenés veinte compañías que ya se retiraron, pero tenés una lista grande, no sé, te digo, por ejemplo, un caso que ahora se está reactivando, Nike, ya anunció que se va a ir de la región, va a seguir presidente a través de un representante.  Esas salidas son más ordenadas también, lo que implica que Argentina se va devaluando, devaluando el interés de las compañías. ",
+            "cosine_dist": 0.7070177245360587,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1548.956,
+            "end_time": 1555.799,
+            "text": "¿Se quedan algo?  ¿Estamos en el promedio de la región?  Porque en otros países también se fueron empresas, pero seguramente no se fueron tantas. ",
+            "cosine_dist": 0.8290212235692384,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1556.239,
+            "end_time": 1567.523,
+            "text": "Exacto.  Cuando te dicen la pandemia, la crisis generalizada, existe eso, pero en la Argentina se siente mucho más.  Tenés compañías que, el caso emblemático es la Tamla. ",
+            "cosine_dist": 0.7008820311729954,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1568.444,
+            "end_time": 1571.625,
+            "text": "Cuando vos te dicen, Alfredo, te dicen veinte empresas, ¿es en el último año? ",
+            "cosine_dist": 0.8945614518116369,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1572.145,
+            "end_time": 1576.508,
+            "text": "En el último año, sí, sí.  En el último año.  Y lo que va de veinte, veintiuno, digamos. ",
+            "cosine_dist": 0.736894908565392,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1576548,
+            "end_time": 1577028,
+            "text": "Bueno, excelente. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1577.048,
+            "end_time": 1578.009,
+            "text": "Son empresas de primera línea. ",
+            "cosine_dist": 0.9240285409301664,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1578.229,
+            "end_time": 1580.391,
+            "text": "Alfredo, siempre recomiendo leer a Alfredo Sainz. ",
+            "cosine_dist": 0.8414907533442879,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1580.431,
+            "end_time": 1581.932,
+            "text": "Sí, aparte sabe de vinos también, ¿no? ",
+            "cosine_dist": 0.809117604845675,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1581.972,
+            "end_time": 1583.212,
+            "text": "De todo sabe. ",
+            "cosine_dist": 0.8490836025353897,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1583.573,
+            "end_time": 1584.413,
+            "text": "La próxima la invitamos. ",
+            "cosine_dist": 0.9565628346770136,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1584.453,
+            "end_time": 1587.135,
+            "text": "Otro día hablamos de los trabajos.  Fue sereno también, Alfredo. ",
+            "cosine_dist": 0.9252913360957329,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1588.096,
+            "end_time": 1589.757,
+            "text": "Eso le permite analizar mejor la economía. ",
+            "cosine_dist": 0.8930029945329008,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1589.957,
+            "end_time": 1592.098,
+            "text": "Te mando un abrazo, Alfredo.  Gracias.  Gracias. ",
+            "cosine_dist": 0.9143665155583723,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1592.158,
+            "end_time": 1593.319,
+            "text": "No, gracias a ustedes, chicos. ",
+            "cosine_dist": 0.8920849839663935,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1594.16,
+            "end_time": 1595.421,
+            "text": "Se van las empresas de la Argentina. ",
+            "cosine_dist": 0.864775330014494,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1596.181,
+            "end_time": 1615.497,
+            "text": "Bueno, pero fíjate, Alfredo dijo varias cosas muy interesantes.  Si a vos te van a estar tocando el derecho de propiedad, quiere decir que te van a hacer socios, vas a tener al estado de socio en las ganancias y en las pérdidas, reglate.  Pero no importa el margen de esa cuestión. ",
+            "cosine_dist": 0.3562065010437342,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1615.517,
+            "end_time": 1618.539,
+            "text": "Pero entonces vamos a estar atrayendo capitales especulativos. ",
+            "cosine_dist": 0.6983118702975418,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1619.597,
+            "end_time": 1666.421,
+            "text": "No, no vamos a traer nada porque a la postre estamos... Y claro, porque, a ver, un bono corto argentino rinde hoy dieciocho por ciento en dólares.  Listo, olvídate, no tenés nada.  Se acabó la historia.  Pero al margen de esa situación, fíjate algo que dice Alfredo, y estaba bien, dice, bueno, el mundo cayó, sí, es cierto, el mundo cayó.  El mundo cae, el dato para el veinte veinte será entre tres y cuatro.  Argentina es diez.  O sea, Argentina cayó el triple.  Argentina tiene más del cincuenta por ciento de pobres.  Argentina, que es el país de los alimentos, que produce alimentos para cuatrocientos millones de seres humanos y cobra impuestos por el equivalente de doscientos cuarenta millones de seres humanos, porque es el sesenta por ciento.  Hay cuatro millones y medio de argentinos que no les alcanza para morfar. ",
+            "cosine_dist": 0.3306856099259414,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1666.441,
+            "end_time": 1674.086,
+            "text": "¿Tiene la oportunidad el gobierno de revertirlo?  pudieras hablar con Alberto Fernández o con Cristina.  ¿Tiene la oportunidad? ",
+            "cosine_dist": 0.789913041358817,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1674.367,
+            "end_time": 1680.752,
+            "text": "Sí.  Bueno, no sé si Cristina me va a dejar hablar, porque yo utilizo de quien le gusta hablar mucho.  Y quizás se pone a hablar y está tres horas. ",
+            "cosine_dist": 0.43497544034253544,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1680.772,
+            "end_time": 1683.194,
+            "text": "Pero le gusta escuchar economistas a Cristina. ",
+            "cosine_dist": 0.8652189633856213,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1683.234,
+            "end_time": 1715.715,
+            "text": "Bueno, hay que ver quién le gusta escuchar.  Aquí sí lo... Bueno, bueno, digo que... O sea, de vuelta, el curandero.  Y encima de mala calidad.  Sí, se puede salir, se puede salir.  A ver, Argentina en mil ocho sesenta, cuando puso en marcha el proyecto de Alberti, que es la constitución del cincuenta y tres con mejoras, de ser un país de bárbaro en treinta y cinco años, se convirtió en el país más rico del mundo.  Argentina crecía más de lo que sería el equivalente de hoy de las tasas chinas. ",
+            "cosine_dist": 0.3263805615214602,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1716.715,
+            "end_time": 1724.719,
+            "text": "Bueno, pero había una Europa en guerra también, había un contexto que ayudaba. ",
+            "cosine_dist": 0.6185639675901795,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1724.94,
+            "end_time": 1740.088,
+            "text": "A ver, la guerra no le ayuda a nadie, porque de hecho cuando vino la primera guerra mundial a inicio del siglo XX, Argentina era un país de los más abiertos del mundo, lo sufrió.  Por lo tanto, no es que al margen de la llegada de los radicales al poder. ",
+            "cosine_dist": 0.2945504049445167,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1742.049,
+            "end_time": 1748.413,
+            "text": "Quiero analizar con vos un caso que me parece que es muy emblemático de estos días, que es el de Tito, un empresario. ",
+            "cosine_dist": 0.8279655659844221,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1748.633,
+            "end_time": 1751.975,
+            "text": "Tito Loazó, un emprendedor muy famoso en el... ",
+            "cosine_dist": 0.9113469543686453,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1754.016,
+            "end_time": 1754.916,
+            "text": "¿Cómo se dice? ",
+            "cosine_dist": 0.9731377023434298,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1755.016,
+            "end_time": 1812.677,
+            "text": "Emprendedorismo.  Yo también me pongo a decir cada palabra.  Como emprendedor es muy conocido en el mercado argentino y una de sus inversiones era un restaurante temático de cine en North Center, justamente, que es un lugar donde hay varios cines que obviamente vivieron la crisis cuando se cerraron los cines por la cuarentena.  Veinte empleados a los cuales él le siguió pagando, ahí vemos... El lugar le siguió pagando el sueldo, como dicta la ley, el DNU que se dictó en el principio de la cuarentena.  a esos veinte empleados ayudados por el ATP.  Ahora que vuelven los cines en Argentina, llamó a sus veinte empleados que les siguió pagando religiosamente el sueldo.  y de esos veinte, catorce que cobraban el sueldo todos los meses, le dijeron que ya estaban trabajando en otro lado, que no iban a volver a trabajar. ",
+            "cosine_dist": 0.8119583880242165,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1813.268,
+            "end_time": 1814.289,
+            "text": "Cobrando el sueldo. ",
+            "cosine_dist": 0.902610431440945,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1814.329,
+            "end_time": 1825.718,
+            "text": "Cobrando el sueldo sin trabajar durante todo el año.  O sea, que es una estafa.  Es una estafa no solo a él como empresario, sino también al Estado, porque el Estado pagó la mitad de esos sueldos. ",
+            "cosine_dist": 0.8426400016814064,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1825.738,
+            "end_time": 1856.602,
+            "text": "Ahí lo tenés, mirá, dice Tito Loazó.  Después de doce meses cerrados por la cuarentena, el gobierno decidió habilitar los cines.  Así que reabrimos el capitán.  Once meses pagando salarios de veinte personas.  Ahora los convoco a trabajar y catorce de las veinte estaban laburando en otro lado.  Pero todo es poco lo que me siento, dice Tito, que va a estar esta tarde con Eduardo Feynman.  A las seis de la tarde lo van a poder escuchar en vivo.  Pero quiero la mirada de un economista sobre este fenómeno tan particular que evidentemente no debe ser único. ",
+            "cosine_dist": 0.7510526702403397,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1856.622,
+            "end_time": 1858.043,
+            "text": "Debe haber pasado a muchos, claro. ",
+            "cosine_dist": 0.9972271395288376,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1858.063,
+            "end_time": 1868.651,
+            "text": "Pero de vuelta, todo en lo que mete el Estado la mano lo pudre.  Es decir, porque en el fondo esto ocurre porque... ",
+            "cosine_dist": 0.5153274361299094,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1869.688,
+            "end_time": 1870.589,
+            "text": "¿Por qué ocurre esto? ",
+            "cosine_dist": 0.9538786013009117,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1870.629,
+            "end_time": 1874.691,
+            "text": "Porque se metió el Estado.  Es decir, Tito... ",
+            "cosine_dist": 0.4636637022666412,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1874.711,
+            "end_time": 1876.291,
+            "text": "Tito tendría que haber cerrado, decís vos. ",
+            "cosine_dist": 0.9103523574179148,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1876.311,
+            "end_time": 1880.813,
+            "text": "Por ejemplo, sí, pero a Tito, por ejemplo, lo obligaron a no despedir gente. ",
+            "cosine_dist": 0.5300235873952419,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1880.854,
+            "end_time": 1881.994,
+            "text": "Claro, doble indemnización. ",
+            "cosine_dist": 0.8133900910984213,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1882.054,
+            "end_time": 1958.49,
+            "text": "Doble indemnización.  Y qué hace el Estado.  Mirá qué interesante.  El Estado determinó unilateralmente dejar sin ingresos a un montón de argentinos.  Sin embargo, la de ellos nos la tocaron, ¿no?  Digo, los privilegios de la política siempre.  Ahora, eso te genera una distorsión.  En condiciones normales, si Tito se queda sin, digamos, clientes, va a la quiebra y esas personas van a tener que buscar trabajo en otro lugar.  Y si el sistema laboral es flexible, lo encuentra rápido, si es rígido como el argentino, le va a costar mucho.  Ahora, fíjate esto.  ¿Qué es lo que pasa?  Como el Estado los obligaba a... a Tito a seguir sosteniendo el negocio y parte se lo financiaba.  y los empleados estaban en la casa que descubrieron que tenían una forma de generar mayores ingresos generando nuevos trabajos.  Al menos, por lo menos, estuvieron creativos y fueron a buscar otro trabajo y no salieron de caño.  Pero esto, ¿por qué es posible que pase?  Porque en el medio está el Estado.  Lo que hay que comprender es que cuando vos ves algo que en la economía no funciona, lo primero que tenés que ver es dónde está metido el Estado.  Porque ¿sabés lo que vas a descubrir?  Que cada vez que hay un problema y se mete el Estado, el problema se vuelve más grande. ",
+            "cosine_dist": 0.30196226653627634,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1958.51,
+            "end_time": 1960.471,
+            "text": "¿Pero no tendría que haber pagado la TPE entonces el Estado? ",
+            "cosine_dist": 0.8971392759986596,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1960.952,
+            "end_time": 1993.055,
+            "text": "No, el Estado no debería haber hecho la cuarentena cavernícola que hizo.  Ese es el problema.  Porque, aparte, ¿qué te dijo Alberto?  No, vamos a cuidar la salud, la economía no importa.  Ok, la economía la destrozó, ya vimos, la caída fue el triple del resto del mundo.  Ahora, esto es importante también, porque esto es un elemento por el cual yo considero que este gobierno de Alberto Fernández, el tirano o el títere también, digamos son las dos cosas a la vez, es un gobierno genocida, es un gobierno de asesinos. ",
+            "cosine_dist": 0.2843711360905796,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1993965,
+            "end_time": 1994245,
+            "text": "¿Por qué? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1994.825,
+            "end_time": 2021.857,
+            "text": "Porque, mira, suponete que hubiéramos hecho las cosas como un país mediocre.  En el año pasado, por coronavirus, murieron un millón setecientos ochenta mil personas de coronavirus.  Hay una población de siete mil ochocientos millones de seres humanos.  Eso es más o menos el dos en diez mil.  Cuando vos replicas eso en Argentina, o sea, que si hubiéramos sido un país mediocre, ¿sabés cuántos muertos tendría que haber tenido Argentina? ",
+            "cosine_dist": 0.36148500351287904,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2022637,
+            "end_time": 2023117,
+            "text": "¿Cuánto? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2023.737,
+            "end_time": 2036.362,
+            "text": "Diez mil.  Tuvo cuarenta mil el año pasado.  Esos treinta mil que tuvimos de más son absoluta responsabilidad del gobierno que no utilizó lo que se llama el verdadero método científico que es el testeo masivo para sacar la gente. ",
+            "cosine_dist": 0.29175122920699814,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2036.382,
+            "end_time": 2038.102,
+            "text": "Dame un segundo que tenemos un último momento. ",
+            "cosine_dist": 0.8076035970045866,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2038.122,
+            "end_time": 2049.446,
+            "text": "Tenemos un último momento.  Está el presidente desde Bariloche hablando porque firmando un acuerdo para la reactivación de radares en el INVAP.  Lo escuchamos. ",
+            "cosine_dist": 0.8272870298060023,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2050.945,
+            "end_time": 2084.4,
+            "text": "Qué maravilla que podamos hacerlo, qué maravilla que podemos hacerlo los argentinos.  Le comentaba a Arabella la maravilla que fue que nunca dejó de ser el INVAP una política de Estado y pasaron los presidentes y pasaron los gobernadores, pero el INVAP siguió subsistiendo claramente con diferentes velocidades.  Nosotros... que siempre hemos creído en la capacidad científica y tecnológica de la Argentina, que siempre apostamos a la producción y al desarrollo argentino, que estamos convencidos que el mundo ",
+            "cosine_dist": 0.9102502861222461,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2084440,
+            "end_time": 2085020,
+            "text": "del futuro ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2085.08,
+            "end_time": 2090.862,
+            "text": "es el mundo del conocimiento, del desarrollo de la ciencia y del desarrollo de la tecnología, nosotros ",
+            "cosine_dist": 0.984108594140436,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2091.562,
+            "end_time": 2092.222,
+            "text": "apostamos ",
+            "cosine_dist": 0.9815792087672129,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2093.322,
+            "end_time": 2188.675,
+            "text": "a que el INVAP sea inmenso, sea enorme, que sea capaz de desarrollar la ciencia y la tecnología que necesitamos, porque bien dijo Agustín Recián.  No se trata de comprar un radar, se trata después de lo que te cuesta sostenerlo, mantenerlo, porque el radar lo podés comprar, pero después mantenerlo en funcionamiento, hacerte dueño del software, hacerte dueño de toda la tecnología que necesitas para mantenerlo vital, para mantenerlo actualizado, todo eso viene aparte.  Y esto que estamos haciendo acá es que el radar se construya y que todo lo que el radar necesite en el futuro quede en nuestras manos.  Recién hablaba con el jefe de Estado Mayor Conjunto y me mostraba el desarrollo que estaban haciendo de radares terrestres aquí en el INVAP, trabajando ingenieros del ejército con ingenieros del INVAP.  Y el día que eso esté desplegado y desarrollado en todo el territorio de la Argentina, no vamos a tener que tocarle el timbre a nadie afuera para que venga a ayudarnos.  Sí, la nata fue internado anoche con algunas líneas de fiebre, lo hisoparon, el hisopado le dio negativo, tenía algunos problemas respiratorios. ",
+            "cosine_dist": 0.8264609635150428,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2188.695,
+            "end_time": 2209.23,
+            "text": "Lo que dicen es que tiene un cuadro agudo de trombosis venosa profunda en miembro inferior izquierdo y que está siendo anticoagulado con warfarina y heparina.  El hisopado, como les dije recién, dio negativo, así que está en este momento en la Fundación Favaloro internado. ",
+            "cosine_dist": 0.9070718469802321,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2209.911,
+            "end_time": 2213.914,
+            "text": "Supongo que estarán tratando de controlar este cuadro, ¿no? ",
+            "cosine_dist": 0.9215236927144653,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2214454,
+            "end_time": 2214654,
+            "text": "Bueno. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2215.035,
+            "end_time": 2222.981,
+            "text": "Bueno, por lo menos le dio negativo el hisopado.  Sí, eso es una buena noticia.  Esperemos que se recupere pronto.  ¿Qué estaba anotando Javier Mirei? ",
+            "cosine_dist": 0.8534951458034372,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2223.021,
+            "end_time": 2228.945,
+            "text": "Ahora nos cuenta.  Tenemos que ir a un corte, ¿no?  ¿Me avisás, Vanessa?  ¿Tenemos que ir a un corte o no? ",
+            "cosine_dist": 0.8834234283979019,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2228.965,
+            "end_time": 2229.766,
+            "text": "No sabemos. ",
+            "cosine_dist": 0.9518599501428499,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2229.806,
+            "end_time": 2328.851,
+            "text": "Bueno.  Vamos a un corte breve y nos cuenta Mireia por qué me pidió la birome.  Necesito anotar, se te escapan las ideas.  Vamos, dale.  Y Ley sigue escribiendo en su óscar, vamos a ver qué está escribiendo.  Ezequiel, actualizame cómo viene esta tensión reverdecida de Rodríguez Larreta y la ciudad, y la nación.  Sí, sí.  A ver, Pancho, en otro de los movimientos, contábamos hace un rato, el movimiento de Fernán Quirós, criticando la destrucción de las vacunas.  Hoy, el jefe de gobierno, que está aislado, tiene que permanecer en cuarentena durante diez días, dedicó un pequeño hilo de Twitter a criticar la propuesta de una bicameral para controlar a los jueces que luego el gobierno desandó, pero bajo el título de la justicia.  realizó una serie de tuits donde entre otras cosas plantea que justamente el proyecto del oficialismo... Ahí están los tuits, a ver.  Fíjense, la idea de crear una comisión legislativa ad hoc... Para controlar a los jueces es abiertamente inconstitucional y me opongo con firmeza, planteó el jefe de gobierno.  Y en otro de los tuits también plantea, si permitimos que se busque condicionar a la justicia, primero nos quedaremos sin república y luego sin democracia.  Bajo el título La Justicia, una cadena, un hilo, pequeño hilo de Twitter del jefe de gobierno Horacio Rodríguez Larreta, quien no había hablado hasta.  ahora.  del tema judicial, después del discurso... Es raro que se meta en algo que no le compete, ¿no? ",
+            "cosine_dist": 0.8923848318611893,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2328.911,
+            "end_time": 2333.213,
+            "text": "Y un día después de haber dicho que él era pro diálogo y que estaba a favor de la unidad... ",
+            "cosine_dist": 0.7950940786424717,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2333.233,
+            "end_time": 2385.493,
+            "text": "¿Y qué lectura hacemos, Ezequiel?  A ver, el lunes a la tarde un Zoom, porque la reta no puede justamente estar vinculada, un Zoom a la tarde con Patricia Bullrich.  Entre otras cosas, estuvieron charlando.  Patricia Bullrich le pide a Larreta que se endurezca.  Larreta le dice que no es su estilo, pero que con algunos temas sí se va a meter.  Y a partir de eso hoy surge la conferencia de prensa de Quiroz criticando al gobierno nacional y este hilo de Twitter de Larreta planteándose muy duro contra el gobierno nacional con respecto al tema judicial.  Ustedes saben que con el tema judicial hay un tema, les diría, que subyace a este hilo de Twitter.  La Corte tiene entre sus manos todavía una decisión sobre qué hacer con la coparticipación porteña y el recorte que tuvo que imponer este año la ciudad de sesenta y cinco mil millones de pesos.  Con lo cual, por supuesto, la crítica a la medida judicial también es una suerte de apoyo implícito a la Corte y un sector de la justicia con que Larreta no se quiere pelear y menos cuando está esta disputa de por medio. ",
+            "cosine_dist": 0.9383945233613286,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2385.593,
+            "end_time": 2388.274,
+            "text": "Ezequiel, vos le querías preguntar también a Javier. ",
+            "cosine_dist": 0.8511407345394149,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2388.954,
+            "end_time": 2414.962,
+            "text": "Javier, el XXVIIF se te vio muy contento dándole saludo efusivo a Patricia Bullrich.  Están en contacto, a mí me suena o me cuentan o hay una idea de que a Bullrich le hubiese gustado que vos en algún momento también te incorpores a un gran frente opositor donde podés estar vos y otros personajes.  ¿Querés saber qué charlaron con Bullrich en ese encuentro?  Y si no, ¿te gustaría pertenecer a un bloque más grande opositor y no solamente al espacio que hoy integrás con Espert y con Rosales? ",
+            "cosine_dist": 0.9593822867510527,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2415.422,
+            "end_time": 2425.977,
+            "text": "Bueno, voy a pertenecer a un gran bloque opositor que va a ser el espacio que va a lograr obtener en las próximas elecciones, Avanza Libertad, con quien estoy junto a José Luis Espert y Luis Rosales. ",
+            "cosine_dist": 0.4009794275316074,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2427.939,
+            "end_time": 2430.143,
+            "text": "¿Qué hablaste con Patricia y Bullrich cuando se cruzaron? ",
+            "cosine_dist": 0.9968429532946577,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2431.765,
+            "end_time": 2505.839,
+            "text": "Yo estaba saliendo de hacer un discurso, y aclaro, estrictamente técnico, porque la marcha no tenía banderías políticas.  Y aparte yo no iba como candidato a diputado nacional por Avanza Libertad, o sea, iba como Javier Milei, un técnico, y hablé desde ese lugar, y cuando yo iba camino... a la pirámide de mayo porque estaba el partido libertario partido del cual soy presidente honorífico de Cava me encuentro con Patricia Bullrich.  me pareció correcto saludarla porque además al momento de enfrentar a las cucarachas ahí no puede haber duda.  Es decir, los kirchneristas son el mal, son el peor gobierno de la historia, son quienes más han hecho daño a este país.  Por lo tanto, ahí vos podés estar en posiciones distintas y aún así coincidir con quien es el máximo enemigo.  Ahora, la realidad es que cuando hubo que enfrentar a los nazis, al nacionalsocialismo, socialistas de Hitler... Digo, Estados Unidos y Rusia fueron juntos contra los nazis. ",
+            "cosine_dist": 0.29136060321604396,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2506.099,
+            "end_time": 2507.76,
+            "text": "Pero no es nazi el gobierno, ¿no? ",
+            "cosine_dist": 0.9763665525160221,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2508.301,
+            "end_time": 2511.804,
+            "text": "Bueno, no sé.  Bueno, no sé.  Lo podemos discutir. ",
+            "cosine_dist": 0.646820912277831,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2513.525,
+            "end_time": 2515.687,
+            "text": "Pero entonces, ¿por qué no más por Cambiemos? ",
+            "cosine_dist": 0.9449427725007287,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2515.867,
+            "end_time": 2525.055,
+            "text": "No, porque... ¿No es restarle votos a Cambiemos?  Claro, esa es la pregunta.  ¿No es restarle votos a Cambiemos?  No, yo no le estoy restando votos a Cambiemos.  ¿A la oposición? ",
+            "cosine_dist": 0.7213320385120439,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2525436,
+            "end_time": 2525516,
+            "text": "No. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2526.076,
+            "end_time": 2535.698,
+            "text": "No, porque eso... A ese frente hacia el otro.  No, porque si yo estoy en contra del kirchnerismo, ¿cuál es el problema?  O vos tenés alguna duda.  Es más, en la ley de alquileres yo hubiera votado en contra, no a favor. ",
+            "cosine_dist": 0.5025835691007733,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2535.718,
+            "end_time": 2539.119,
+            "text": "Claro, pero dividís el voto anti-K.  Eso es lo que se te critica. ",
+            "cosine_dist": 0.8071817957656526,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2539.159,
+            "end_time": 2584.599,
+            "text": "Pero, a ver, ¿cuál es el problema?  Si el enemigo son los K, digamos, yo también soy enemigo de los K. El tema es que yo soy mucho más enemigo de los K que Juntos por el Cambio.  Porque Juntos por el Cambio mandó la ley de teletrabajo, mandó la ley de góndolas, la ley de alquileres, puso control de capitales.  O sea... digamos, o sea, en mis preferencias liberales no puedo estar con Juntos por el Cambio, pero sí puedo reconocer la importancia de otros dirigentes, porque yo creo que hay gente valiosa en distintos lugares.  Hay gente valiosa en el peronismo, porque para mí es valiosa la gente del menemismo, hay gente valiosa la de encuentros federales, digamos, los peronistas republicanos, y dentro de Juntos por el Cambio hay una parte del PRO que a mí me parece que es.  Llámese, por ejemplo, Waldo Wolf. ",
+            "cosine_dist": 0.33169507551174826,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2584.739,
+            "end_time": 2591.781,
+            "text": "¿Qué anotaste ahí?  Mientras hablaba Alberto Fernández, Javier Miray me pidió... ",
+            "cosine_dist": 0.7457701085540271,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2591.901,
+            "end_time": 2593.781,
+            "text": "No, y aparte redondeaste algo. ",
+            "cosine_dist": 0.8100402051501122,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2595.322,
+            "end_time": 2625.99,
+            "text": "El tema es el siguiente.  Alberto Fernández habla de criterio científico.  Con sus criterios científicos, mataron a treinta mil argentinos, que es el spread de muertos que tenemos por haber hecho todo mal, porque en lugar de testear, prefirieron seguir robando.  Y ahora, con las vacunas, tenían la posibilidad de redimirse y mostraron de vuelta su mejor cara.  ¿Por qué es la mejor cara que tienen?  Tienen caras peores todavía.  Que es, por ejemplo, algunos de los involucrados que meten presiones a determinadas personas para que, por ejemplo, me presionen a mí. ",
+            "cosine_dist": 0.324824726467862,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2626.65,
+            "end_time": 2631.594,
+            "text": "Sí, lo que hay que decir es que el último es involuntario, no es que el gobierno salió así. ",
+            "cosine_dist": 0.7445286278913066,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2632.075,
+            "end_time": 2636.739,
+            "text": "No, no, pero es interesante porque habla de criterio científico, no pudieron contar los muertos. ",
+            "cosine_dist": 0.5732234610184193,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2638.029,
+            "end_time": 2638.85,
+            "text": "Sí, es verdad. ",
+            "cosine_dist": 0.9483038901034077,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2638.89,
+            "end_time": 2641.653,
+            "text": "O sea, no pueden manejar un abaco y hablan de ser científicos. ",
+            "cosine_dist": 0.7720111880601097,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2641.933,
+            "end_time": 2648.32,
+            "text": "Pero después, supongamos... Sí, sí, estaba muy atrasada la carga de muertos, no se sabía ni siquiera cuántos muertos por la vía. ",
+            "cosine_dist": 0.8367384913991169,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2648.42,
+            "end_time": 2655.368,
+            "text": "Pero, a ver, vos, ahora, digamos, entonces, que deje de decir estas pavadas, o sea, parece que lo guionara el imbécil de Santoro, Leandro. ",
+            "cosine_dist": 0.4550943653781724,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2655848,
+            "end_time": 2655968,
+            "text": "Pero... ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2657.55,
+            "end_time": 2670.08,
+            "text": "Sí, claro, que es un chicanero profesional, pero es un mentiroso.  Pero no está, no está.  Bueno, está bien.  Él me critica también sin que yo esté, así que pide por mi censura también.  Y eso es muchísimo más grave, dado la cercanía que tiene con el títer. ",
+            "cosine_dist": 0.3736414255557341,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2670.1,
+            "end_time": 2671.161,
+            "text": "Dale, decí lo que escribiste. ",
+            "cosine_dist": 0.9603351157606174,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2671.221,
+            "end_time": 2702.061,
+            "text": "Y el otro es el tema, digo, Alberto habla de, no, bueno, comprarlo es fácil, después el mantenimiento.  Te hago una pregunta, Alberto, y si lo hace quien fuera, ¿también lo tenés que mantener?  también lo tenés que mantener.  O sea, ahí, digamos, el ahorro, digamos, no existe si fuera por eso.  Y que deje de pensar, digamos, en que él tiene que ser quien administra las divisas.  Que deje que lo haga el mercado, que el mercado siempre lo va a hacer mucho mejor que él.  O, digamos, otro de sus generales, de Deoclesiano a cargo, que es la señora Todesca.  que quiere decidir qué se importa, quién no, quién no. ",
+            "cosine_dist": 0.37144103572562537,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2702.081,
+            "end_time": 2703.321,
+            "text": "Javier, muchísimas gracias. ",
+            "cosine_dist": 0.9236965036824607,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2703.341,
+            "end_time": 2704.342,
+            "text": "Gracias a ustedes. ",
+            "cosine_dist": 0.8274621866543956,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2704.382,
+            "end_time": 2735.32,
+            "text": "Gracias a todos.  Sigan en La Nación Más.  Ya llega más info a la tarde con Paulino Rodríguez y nosotros nos reencontramos mañana a las tres.  Chau.  Chau.  Basta de basura keynesiana, ha llegado el momento liberal.  Tenemos un líder y él es un gran rebelde. ",
+            "cosine_dist": 0.8903011544308888,
+            "is_target_speaker": false
+        }
+    ]
+}

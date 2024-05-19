@@ -1,0 +1,759 @@
+{
+    "Index": 651,
+    "channel_id": "UCba3hpU7EFBSk817y9qZkiA",
+    "channel": "LA NACION",
+    "uploader_url": "https://www.youtube.com/@lanacion",
+    "id": "XREL3ALYukQ",
+    "url": "https://www.youtube.com/watch?v=XREL3ALYukQ",
+    "title": "Javier Milei: \"Martín Guzmán es ineficiente e inmoral\"",
+    "duration": 1711.0,
+    "view_count": 167245,
+    "candidate_name": "milei",
+    "quality": "low",
+    "segments": [
+        {
+            "speaker": "Speaker 0",
+            "start_time": 0.0,
+            "end_time": 10.358,
+            "text": "Saludo a Martín Milei, primero lo ponemos en pantalla, a Javier Milei, gracias Javier.  Martín Tetás, buenas noches.  Empecé a decirme, ¿qué es esto?  ¿Qué te parece? ",
+            "cosine_dist": 0.8721933353680547,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 11.179,
+            "end_time": 73.354,
+            "text": "Es un gol y te vas al primer tiempo, al entretiempo, con un gol adentro, mejor, está bien, en un partido... muy complicado para Argentina.  Pero recién empiezan ahora, primero, en segundo tiempo, tenés que arreglar con el FMI, que tenés una deuda muy grande también, y después tenés que resolver el problema estructural de fondo.  Es decir, aún suponiendo que vos resuelvas para atrás la cuestión de la deuda, a vos te queda un déficit estructural en el sector público hacia adelante tremendo.  Acá hay que decir una cosa muy importante.  Sí.  Así se cruzan, esto es habitual, así como se cruzan nubarrones en la pantalla, también es habitual que por ahí se le cruce algún nubarrón al gobierno en los próximos meses.  y entonces, ¿para qué sirve la deuda?  La deuda sirve para financiar procesos en los cuales por ahí no le va muy bien a la economía o para financiar procesos de inversión en capital.  Y te cierro con esto.  El problema es el déficit, no la deuda.  El problema es el déficit.  Nosotros no resolvemos problemas de fondo.  que es el déficit fiscal, que ahora es escandalosamente alto, este año va a ser ocho puntos el producto probablemente. ",
+            "cosine_dist": 0.809988058555448,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 73.394,
+            "end_time": 74.095,
+            "text": "Diez, dice Javier. ",
+            "cosine_dist": 0.9866849639152347,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 74.155,
+            "end_time": 86.523,
+            "text": "Y bueno, por ahí, ese es el debate, vamos a ver, ojalá termine teniendo razón.  Yo hice un poco menos, pero en cualquier caso es extraordinario.  Si no resolvemos el problema ese de fondo, el problema de la deuda es hijo del déficit, no hay deuda sin déficit. ",
+            "cosine_dist": 0.8325097632518639,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 86.563,
+            "end_time": 122.78,
+            "text": "Entiendo, hoy te leían en tu tweet, y vamos a hablar del dólar también, el impacto en el dólar, y el impacto... ...en la vida cotidiana... ...pero tengo varias preguntas para hacer... ...ahora voy con Javier... ...y una pregunta que quiero hacerte... ...es a los dos... ...esta deuda de quién es... ...es una deuda... ...de Macri Gatto... ...viste como dicen los guineristas... ...es una deuda de Cristina... Es una deuda incluso de Néstor Kirchner, de dos mil cinco a dos mil diez, la mayor parte, dicen algunos.  Ya voy con Javier, pero ¿de quién es la deuda, Martín? ",
+            "cosine_dist": 0.8177080981319218,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 122.8,
+            "end_time": 129.741,
+            "text": "Es de los que generaron el déficit fiscal.  Bueno, Argentina tiene una historia de setenta años de déficit fiscal crónico. ",
+            "cosine_dist": 0.9314381308956486,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 130.262,
+            "end_time": 131.524,
+            "text": "Con honrosas excepciones. ",
+            "cosine_dist": 1.0412507967070337,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 131.584,
+            "end_time": 145.339,
+            "text": "Sí, claro, te voy a llevar muy para atrás porque la historia de la deuda.  Después vos vas pagando deuda vieja con deuda nueva.  Entonces eso no limpia la deuda anterior, no limpia todos los déficits anteriores.  Todos los déficits que vos fuiste acumulando, yo ahora pago con una... ",
+            "cosine_dist": 0.8300652203123623,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 145.359,
+            "end_time": 146.66,
+            "text": "Pero a ver, vos escuchás a... ",
+            "cosine_dist": 0.9810226608859227,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 146.7,
+            "end_time": 156.646,
+            "text": "¿Quién va a ser...?  Pero te pongo un ejemplo, ¿quién va a ser el padre de esta deuda?  ¿Guzmán porque emitió el bono?  No, Guzmán está canjeando un bono que venía de atrás y así sucesivamente.  lo viene haciendo el gobierno. ",
+            "cosine_dist": 0.8410970048548879,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 156.666,
+            "end_time": 160.068,
+            "text": "Pero Macri no era el gran tomador de deuda y responsable, etc. ",
+            "cosine_dist": 0.8411400746880768,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 160.288,
+            "end_time": 176.177,
+            "text": "Macri tomó mucha deuda que tenía que ver con pagar su déficit fiscal heredado, que no supo resolver o que tardó mucho en resolver o que no pudo resolver, más toda la deuda heredada de atrás.  O sea, buena parte de la deuda que tomó Macri fue para pagar los vencimientos de la deuda que le dejó Cristina. ",
+            "cosine_dist": 0.7875972099453146,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 176.437,
+            "end_time": 196.455,
+            "text": "Ahora le seguimos.  Bueno, conversen entre ustedes también.  Javier, yo primero quería saber esa pregunta, después hablar del dólar, después si fue un gol de media cancha, después si esta deuda la generó Macri, Cristina, Néstor Kirchner, o Martín Tetá, Federico Andajasi, ¿quién la generó?  Te escucho, te vemos. ",
+            "cosine_dist": 0.8609733475024388,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 196.495,
+            "end_time": 263.728,
+            "text": "¿Qué tal Luis y todo tu equipo?  Bueno, en principio lo que decía Martín es correcto.  O sea, la deuda es hija del déficit fiscal.  O sea, Argentina de los últimos ciento diecinueve años tuvo déficit en ciento nueve.  Por lo tanto, digamos, Argentina es una máquina de generar deuda.  Ahora, por otra parte, festejar este acuerdo, en principio diría que tiene varios problemas.  En primer lugar, a ver, el gobierno arrancó ofreciendo treinta y nueve.  Los acreedores querían entre cincuenta y cinco y sesenta.  Firmamos en cincuenta y cuatro.  O sea, perdimos un montón de tiempo, una ineficiencia total para tener el mismo número que quieren los acreedores.  Ese es el primer punto.  Segundo, no es para festejar esto, porque salir del default... Diego, no es que, ah, qué bueno.  En realidad lo malo era que estábamos en default.  Ese es el otro punto.  Después, por otra parte, hay aspectos del discurso de Guzmán que son propios de un inmoral. ",
+            "cosine_dist": 0.33702767083905605,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 265.451,
+            "end_time": 266.312,
+            "text": "Y voy a explicar por. ",
+            "cosine_dist": 0.8769633022907954,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 266.372,
+            "end_time": 399.717,
+            "text": "qué.  Y bueno, porque el señor Guzmán es muy potente en la crítica sobre el gobierno Macri, al cual yo he criticado muy fuertemente por no hacer el ajuste fiscal.  Pero, por ejemplo, el ministro Guzmán miente descaradamente cuando dice que el kirchnerismo había dejado... al país en un sendero sustentable.  Vos para poder pagar la deuda necesitas tener superávit primario y el kirchnerismo dejó un déficit primario entre cuatro y cinco puntos del PBI.  O sea, con lo cual ahí ya arrancó mintiendo.  Es cierto que después vino el gobierno de Macri y como hizo un plan gradual y donde el ajuste tomaba a una velocidad de tortuga embarazada, eso implicó que la suma de los intereses se comiera en todas las mejoras fiscales que hizo.  O sea, con lo cual ahí hay otro punto.  También me parece absolutamente inmoral y de cara para adelante que diga que bueno, lo bueno de hacer este acuerdo de bajar los pagos de intereses y los pagos de capital... básicamente le permite ahora gastar más.  a ver nunca.  digamos van a bajar la presión sobre el sector privado porque haber argentina no crece desde el dos mil once.  digamos con esta presión fiscal es imposible crecer y además como muy bien decía martín argentina para poder pagar la deuda va a tener que tener un superávit primario de aproximadamente dos puntos del PBI.  La pregunta es, si llegamos a terminar, vamos a tomar el escenario bueno que dijo Martín, ocho puntos de déficit primario en términos del PBI.  ¿Quién está hablando de un ajuste de diez puntos del PBI?  Si el propio Guzmán recita una suerte de movimiento de crecimiento basado en impulsar el gasto público, lo mismo de lo que habla Todesca, de lo mismo que habla Culfas.  Es decir, básicamente lo que tenemos es un conjunto de piromaníacos, porque en el fondo, si es una buena noticia, va a hacer que baje la tasa de interés, va a permitir que haya... digamos, una inversión nocional más alta, una posibilidad de mayor consumo, y además van a estar estimulando el gasto público, pero en una economía que se contrajo fuertemente la oferta.  O sea, que van a meter una presión en los precios tremenda. ",
+            "cosine_dist": 0.3648585742403908,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 399.877,
+            "end_time": 440.846,
+            "text": "Está bien.  Ahora, yo si no sigo mal a Martín Tetás... no sé si lo repetís vos esto también, pero si no lo seguí mal.  y si no seguí mal los números de los economistas, Argentina cuando empezó a negociar, el presidente Guzmán, cuando empezaron a negociar, querían un acuerdo de quince mil dólares por encima, a favor de la Argentina, de lo que consiguieron.  O sea, perdieron, en el camino de la negociación perdieron quince mil dólares.  Pero dicen que al final de la película, corregime Martín, pero dicen que al final de la película se van a ahorrar treinta mil dólares cuando se termine de pagar esto, ¿es cierto?  A ver, vamos a poner esto. ",
+            "cosine_dist": 0.7813937388625068,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 441.146,
+            "end_time": 515.458,
+            "text": "A ver, Luis, el gobierno arrancó ofreciendo treinta y nueve y los acreedores querían entre cincuenta y cinco y sesenta.  Si la negociación terminó en cincuenta y cuatro, es decir, perdiste casi un año... Perdiste un montón de tiempo para tener un número que era el que querían los acreedores.  Aparte, lo que hay que explicar es que todos esos números son números en valor presente.  Entonces, digamos, sí es cierto, Argentina se va a ahorrar cuarenta y dos mil quinientos millones de dólares.  Sí, es cierto, pero también es cierto que cuando vos... generás ese tipo de situaciones.  Después es muy difícil que entre plata al país.  Además, ¿quién va a estar invirtiendo en un país donde continuamente avanzan sobre los derechos de propiedad?  Es decir, ¿cómo vas a querer invertir en Argentina si el Ministro de Economía te está diciendo que básicamente quiere sacarnos de estos aumentando el gasto público?  Cuando vos tenés que hacer un ajuste fiscal de por lo menos diez puntos del PBI.  O sea, no cierra.  No cierra.  Sí, es una buena noticia.  Sí, salimos del default.  ¿Cómo van a poner las cuentas en orden?  ¿Van a seguir sosteniendo esa estupidez de que el resultado fiscal aumenta aumentando el gasto público? ",
+            "cosine_dist": 0.3871005146971864,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 516.98,
+            "end_time": 537.88,
+            "text": "No, yo realmente coincido con la preocupación de Javier hacia adelante en casi todo lo que está planteando casi al pie de la letra.  No coincido en la evaluación del acuerdo, me parece que el mejor acuerdo es el que se consigue.  A veces uno en la teoría, sobre todo cuando lo vemos de afuera, dice no, podrían haber conseguido un acuerdo mejor.  Bueno, está bien, qué sé yo. ",
+            "cosine_dist": 0.8712962562900616,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 538.701,
+            "end_time": 551.325,
+            "text": "Para decir sobre eso que el presidente, hasta ahora el presidente, no sé si últimamente hizo otra declaración porque cada cinco minutos hace una nueva.  Hasta ahora el presidente ha sido prudente y desde el frente de todos.  Dijeron, muchachos, ganamos el campeonato del mundo. ",
+            "cosine_dist": 0.8085635692781844,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 551.345,
+            "end_time": 554.706,
+            "text": "Pero el peronismo festeja. ",
+            "cosine_dist": 0.9366982262116048,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 555.446,
+            "end_time": 567.381,
+            "text": "El peronismo festeja el default con Rodríguez Sá.  Te festeja el desendeudamiento con Kirchner.  Mientras que nos endeudamos con Venezuela.  Digo, a unas tasas enormes.  Y ahora festejan esto. ",
+            "cosine_dist": 0.8166638852899899,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 567.561,
+            "end_time": 599.188,
+            "text": "No da para festejar.  Te prende el fuego y después te festeja.  que reparte los matafuegos.  Esa es típica del populismo.  Pero la verdad es que es la primera que les entra.  Entonces, digamos, hay que reconocer que al gobierno no le salía una desde que arrancó.  Es una buena noticia.  Si uno dice, decime una buena, alguna que haya salido bien del gobierno desde el día de diciembre para acá.  La verdad es que no había ninguna.  Entonces ahora una, un tiro metió, digamos, ¿no?  Y entonces el festejo es más.  desahogo, me parece, el festejo.  Bueno, al final entró una. ",
+            "cosine_dist": 0.8165540314300943,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 599.248,
+            "end_time": 689.757,
+            "text": "A ver, pero yo quiero hacer un punto sobre lo que dice Martín.  A mí me parece correcto lo que dice Martín en términos de, ok, vos conseguiste este acuerdo.  Lo que digo es que para conseguir este acuerdo, vos lo podrías haber conseguido, más bien asumían, porque ya sabían que ganaban en agosto, Vos podrías haber hecho este número, digamos, en diciembre y arrancabas con el problema de la deuda arreglado.  Y sin embargo, digamos, se pasaron un montón de tiempo, digamos, pateando la pelota.  Y hay algunos que encima, digamos, o sea, yo a algunos economistas no los entiendo, dicen, no, bueno, pero en realidad como vino después el coronavirus, ahora entonces pudimos conseguir mejores condiciones.  Eso también es falso.  Porque yo les recuerdo que a inicios del año el riesgo país estaba en cuatro mil.  Y ahora el riesgo estaba en dos mil quinientos, con lo cual no es cierto, digamos, que como se deprimió todo, tuvimos mejores chances.  Entonces, la verdad es que terminó dándole lo que los acreedores quería, pero perdió un año de tiempo.  Es un ineficiente.  Y además, de vuelta, el discurso deja claro que... Es un inmoral porque, digamos, o sea, habla del ahorro, digamos, en la deuda, de deuda que se la patinaron a lo largo de los años, que también hay que aclarar, de otra de las mentiras del kirchnerismo.  El kirchnerismo hace la quita, una fuerte quita, cuando es la negociación de la deuda que negocia Nielsen y que básicamente le quita el sesenta y seis por ciento. ",
+            "cosine_dist": 0.3610773432800405,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 689.797,
+            "end_time": 691.959,
+            "text": "Dos mil cuatro, dos mil cinco, dos mil cinco. ",
+            "cosine_dist": 0.8854524620359818,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 693.411,
+            "end_time": 714.805,
+            "text": "Claro, y eso era sobre una deuda de ciento cuarenta mil millones de dólares.  La que entraba en la negociación la bajan a menos de ochenta mil millones de dólares.  Y cuando se fueron del poder había doscientos cincuenta mil millones de dólares de deuda y no estaban reconocidos los holdouts.  Cosa que, digamos, se terminó de arreglar cuando asumió, digamos, el gobierno de Macri con Prat-Gay.  Y eso, digamos, que yo le critiqué fuertemente a Prat-Gay.  Entonces... ",
+            "cosine_dist": 0.4307704853868507,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 715.085,
+            "end_time": 732.531,
+            "text": "Pero espera, a ver, Javier, parece que me perdí.  Me perdí porque soy yo.  Yo creo que la gente no se perdió.  A ver... ¿Cómo?  Bajan la deuda, nos endeudamos y festejamos.  Desendeudamiento porque nosotros pagamos, qué sé yo.  Es revolucionario.  Escuché decir la palabra revolucionario con el desendeudamiento. ",
+            "cosine_dist": 0.905754683668599,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 733.171,
+            "end_time": 736.515,
+            "text": "Eso es mentira.  Eso es mentira muy simple. ",
+            "cosine_dist": 0.9394924093307069,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 736.535,
+            "end_time": 740.678,
+            "text": "A ochenta mil y después pasaron a doscientos.  ¿Le dejaron doscientos mil millones a Macri? ",
+            "cosine_dist": 0.866475252371543,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 740.718,
+            "end_time": 741.88,
+            "text": "No, no, pero además le dejaron... ",
+            "cosine_dist": 0.9645200366211485,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 741.98,
+            "end_time": 762.284,
+            "text": "No, doscientos cincuenta mil millones.  Y no solo eso.  Claro, más los holdouts.  Y no solo eso, porque después el ministro dice, no, porque esto era sostenible.  Mentira, porque tenías déficit primario por cuatro o cinco puntos del PBI, con lo cual no tenías capacidad de pagos.  Además, había dejado un desastre en el barco central. ",
+            "cosine_dist": 0.44154738025386675,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 762.304,
+            "end_time": 764.625,
+            "text": "La deuda hay que analizarlo contra el déficit siempre. ",
+            "cosine_dist": 0.9646018958695999,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 764.645,
+            "end_time": 825.464,
+            "text": "La deuda es del que, vamos a decirlo en castellano, porque por ahí hay que simplificarlo este argumento.  Es muy importante.  La deuda la genera el que gasta más de lo que ingresa.  Es así de simple.  Si vos ganás en tu casa cincuenta mil pesos y gastás cuarenta, vos no vas a generar deuda.  Vos no vas a generar deuda.  Ahora, si vos gastás cincuenta y ganás treinta nada más... Después no importa que vos no hayas sido el que firmó el pagaré, que el pagaré se lo haya firmado otro, porque por ahí vos sos el que te financiaste con la tarjeta.  y después vino el otro que tiene que pagar la tarjeta.  Y vos decís, uy, mira, pero están pagando deuda, sí, pero... O sea que el problema de la deuda argentina y por lo tanto de los defaults y de la renegociación, todo el problema es el problema del déficit.  Y lo voy a decir en criollo.  Si Cristina Fernández hubiera devuelto como recibió el país con superávit primario y con superávit externo, con ambos superávit... ",
+            "cosine_dist": 0.7996407207903025,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 825.604,
+            "end_time": 828.467,
+            "text": "Que hubiese heredado de Néstor Kirchner, digamos. ",
+            "cosine_dist": 0.9192576761111085,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 828.647,
+            "end_time": 834.834,
+            "text": "Exacto.  Y Néstor Kirchner también recibió con superávit.  O sea que si el kirchnerismo hubiera entregado... ",
+            "cosine_dist": 0.8192581445735079,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 835.614,
+            "end_time": 837.836,
+            "text": "¿Cómo con superávit hiciera la crisis? ",
+            "cosine_dist": 0.9252562255850809,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 838.276,
+            "end_time": 840.197,
+            "text": "No, pero la crisis fue en el dos mil dos. ",
+            "cosine_dist": 0.9995225989285925,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 840.257,
+            "end_time": 845.28,
+            "text": "Ellos asumieron en mayo del dos mil tres.  Ah, vos decís que el trabajo sucio lo hizo Dualde.  Lo hizo Dualde. ",
+            "cosine_dist": 0.9880741937600693,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 845.88,
+            "end_time": 847.021,
+            "text": "Lo hizo Dualde. ",
+            "cosine_dist": 0.8220302320906341,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 847.061,
+            "end_time": 856.206,
+            "text": "Entonces cuando asume Néstor, ya la economía crecía cinco por ciento, ya había superávit fiscal, había superávit externo.  Lo mismo lo mantiene Néstor. ",
+            "cosine_dist": 0.7703392843723837,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 856.746,
+            "end_time": 913.402,
+            "text": "Martín, te... A mí me encanta escucharlos.  El superávit primario que heredó Néstor Kirchner era de seis puntos del PBI.  y la economía se estaba expandiendo al nueve por ciento, y se fueron con un déficit primario de cinco puntos.  O sea que ahí se pegaron un viaje fiscal de once puntos del PBI, más subir quince puntos la presión fiscal.  Nadie en la historia del universo se pegó en doce años un viaje fiscal de veintipico puntos del PBI.  Eso lo hizo el kirchnerismo.  Eso es lo que hace que este país sea inviable hoy.  Y entonces me viene el ministro a hablar, digamos, de que va a sacar la economía, digamos, haciendo crecer el gasto público.  Y vuelvo a remarcar esto.  Argentina de los últimos ciento diecinueve años tuvo déficit durante ciento nueve.  No solo que se endeudó y es el máximo defaulteador de la historia moderna, sino que además se financió con emisión monetaria y generó un desastre monetario. ",
+            "cosine_dist": 0.4464726576953806,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 914.582,
+            "end_time": 918.528,
+            "text": "Que ese todavía viene.  Ojo con el desastre monetario que viene.  ¿Cómo viene? ",
+            "cosine_dist": 1.0263396976720471,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 918.628,
+            "end_time": 921.272,
+            "text": "Ojo con el desastre monetario que... ",
+            "cosine_dist": 0.999876744651165,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 921.632,
+            "end_time": 922.834,
+            "text": "A ver, pero espera, espera. ",
+            "cosine_dist": 0.9146299525602481,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 922.854,
+            "end_time": 925.718,
+            "text": "Vos emitiste un billón con B larga. ",
+            "cosine_dist": 0.9949756783974297,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 925.859,
+            "end_time": 934.346,
+            "text": "Se cortó con Javier.  A ver, te voy a preguntar esto.  Entonces, ¿por qué...?  ¿Por qué bajó el dólar paralelo?  Si todo lo que decís vos tenés razón. ",
+            "cosine_dist": 0.7829448982810864,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 934.366,
+            "end_time": 981.903,
+            "text": "No, está bien, lógico, está bien, porque por supuesto era peor el escenario en el cual vos ibas a chocar directamente en un default.  Entonces la descompresión del default, por supuesto, le quita presión al dólar, le quita presión... Veremos, de todas maneras es una carrera de largo tranco, porque antes de que empezara la negociación de la deuda, el dólar paralelo salía a setenta pesos.  O sea que tampoco es que bajó, vos decís bajó.  Claro.  Es decir, esto es como si vos te descontrolás con la comida, te cargas cuarenta y cinco kilos y después me fetejás que bajaste dos kilos.  Yo te lo reconozco, está bueno, y eso tiene que ver esencialmente con que el mercado pensaba que en una de esas terminaba mal esto, que terminaba en default, y el resultado de no terminar en default es una buena noticia.  Ahora, cuando esta película empezó, salía a setenta mangos el dólar en Argentina. ",
+            "cosine_dist": 0.777993566539648,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 982.563,
+            "end_time": 984.825,
+            "text": "Y ahora, Javier, no sé... Sí, dale. ",
+            "cosine_dist": 0.789018065571733,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 986.149,
+            "end_time": 1039.832,
+            "text": "Sí, yo quiero contestar lo que vos preguntaste, Luis, por qué bajó el dólar.  Porque el dólar paralelo, ponerle el contado con liqui, surge de tomar el precio del bono en dólares en Nueva York,  ¿sí?,  Y el dólar, el precio del bono en pesos en Argentina.  O sea, tomás el bono en pesos en Argentina y lo dividís por lo que vale ese bono en dólares en Nueva York.  y eso te da el tipo de cambio implícito.  Ese es el contado con liqui.  Entonces, ¿qué pasa?  Cuando vos tenés una mejora en el precio de los títulos públicos, eso lo que hace es que se te achique el tipo de cambio.  O sea, por eso, digamos, viste que cayó el tipo de cambio que se compra en el mercado.  O sea, pero en el fondo, digamos, no es... Y de vuelta, y yo, digamos, ahí tengo una diferencia, digamos, de concepto con Martín, que para mí Argentina sí estaba en default, porque Argentina, digamos... ",
+            "cosine_dist": 0.3410238927367574,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1040.413,
+            "end_time": 1043.695,
+            "text": "¿Cuándo?  ¿En qué fe?  ¿Modificó los...?  En, en, en dos mil dieciocho ya. ",
+            "cosine_dist": 0.9387383133553587,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1045.194,
+            "end_time": 1114.077,
+            "text": "A ver, técnicamente eso estuvo bien.  lo que dijo Guzmán, esa parte estuvo bien.  Lo que pasa es que es asimétrico.  Digamos, mira bien los números de Macri, pero no los del kirchnerismo.  A ver, ¿el punto cuál es?  Por eso yo digo que es un inmoral, porque tiene una doble vara.  ¿Cuál es el punto?  Es cierto que técnicamente en el año, en abril del dos mil dieciocho, Argentina está técnicamente en default porque se queda sin financiamiento en los mercados voluntarios y va a pedirle la escupidera al Fondo Monetario Internacional.  Eso es cierto.  Cuando la CUNSA ya en el final del gobierno de Macri reperfila, eso es un default.  ¿Qué es un default?  Que vos no pagues en tiempo, en capital e intereses.  Entonces, si vos me estás diciendo que corriste el plazo, que estás ahorrando cuarenta y dos mil quinientos millones de dólares y que la tasa de interés del siete la bajaste al tres coma uno, bueno, eso se llama default.  Y de hecho Argentina estaba en default técnico porque ya tenía varias... series que estaban en default.  Lo que pasa es que no hubo default total porque ningún tenedor de bono fue a litigar en la justicia de New York porque si litigaba se aceleraban todas las series y se declaraba el default total. ",
+            "cosine_dist": 0.3693517873180956,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1114.117,
+            "end_time": 1125.106,
+            "text": "Yo lo quiero sumar a Federico porque quería hacer una pregunta, no sé si es Javier o Martín, pero ahí yo tengo otra cosa para decir.  Che, esta negociación sacó los holdouts, o sea, limpió el tema de holdouts.  ¿Y eso está bueno o no? ",
+            "cosine_dist": 0.8586330823931143,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1126.218,
+            "end_time": 1127.399,
+            "text": "Bueno, vamos a ver. ",
+            "cosine_dist": 0.8609562959851353,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1127.839,
+            "end_time": 1130.021,
+            "text": "¿Cómo vamos a ver? ",
+            "cosine_dist": 0.7945273303768422,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1130.081,
+            "end_time": 1143.173,
+            "text": "Esto es una cosa importante.  Ahora recién se abre un plazo hasta el día veinticuatro de agosto para que cada uno de los bonistas acceda al canje y acepte las propuestas del nuevo canje. ",
+            "cosine_dist": 0.764875523945945,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1143.193,
+            "end_time": 1146.575,
+            "text": "Pero dice que va a haber un plazo.  ¿Va a haber una aceptación del noventa y cinco por ciento? ",
+            "cosine_dist": 0.8862802915867509,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1146.595,
+            "end_time": 1179.783,
+            "text": "Sí, muy probablemente sí, pero hay algunos bonos, particularmente los bonos pari, los bonos discount, que son los bonos emitidos en el dos mil cinco, que tienen una cláusula de acción colectiva más alta, que requieren un piso más alto para estar seguros.  Entonces, digamos, todo parece indicar porque vos metiste a Boca-River y Independiente adentro.  Independiente está complicado.  A los más grandes los metiste adentro.  Entonces... Aparentemente, y eso es una tercera parte de los bonistas, que ya te dicen que sí, y la mayoría de los bonistas pequeños son seguidores en general de lo que hacen los más grandes.  Todo parecería indicar que sí, pero el partido todavía no se jugó. ",
+            "cosine_dist": 0.7916292172675314,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1180.303,
+            "end_time": 1183.347,
+            "text": "El partido termina el día de hoy.  ¿Por qué te reíste, Javier? ",
+            "cosine_dist": 0.9507371218854492,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1185.174,
+            "end_time": 1188.316,
+            "text": "No, porque dije, ¿y dónde está el gimnasio de Martín Tetás? ",
+            "cosine_dist": 0.5925710975713645,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1188.336,
+            "end_time": 1189.236,
+            "text": "Ah, no, no, no. ",
+            "cosine_dist": 1.0774908357471795,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1189.296,
+            "end_time": 1194.338,
+            "text": "Bueno, el quinto grande, lo que pasa es que había que meter tres.  Si hubiera sido cinco, metía... ",
+            "cosine_dist": 0.902204940763318,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1194.378,
+            "end_time": 1195.619,
+            "text": "No, no, no, no vayamos de tema. ",
+            "cosine_dist": 1.0160445667705735,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1195.779,
+            "end_time": 1198.68,
+            "text": "Además Guzmán es de gimnasia, así que ahí tenés otro punto. ",
+            "cosine_dist": 1.0159829640733218,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1198.7,
+            "end_time": 1215.648,
+            "text": "No, no, no, no vayamos de tema.  Otro más.  No, no, pero para, para, enfoquémonos porque estamos hablando de cosas... Digo, después, si quieren, lo charlamos fuera del programa.  Pero, a ver... ¿Es un dato positivo de que los fondos buitres no andan revoloteando por la deuda o no, Javier? ",
+            "cosine_dist": 0.8788070821266382,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1217.149,
+            "end_time": 1237.762,
+            "text": "Bueno, sí, eso es una buena noticia porque eso es lo que te permitió que pudiera hacer un montón de ofertas, Guzmán, y ofertar, y ofertar, hasta que terminó dándole a los acreedores lo que los acreedores querían, porque si hubieras tenido buitres del otro lado te hubieran litigado instantáneamente.  Eso es una buena noticia. ",
+            "cosine_dist": 0.3872939088150644,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1237.942,
+            "end_time": 1256.327,
+            "text": "Una pregunta para traducir todo esto a términos prácticos e imaginar el futuro.  Suponiendo que esto se arregle y salga todo bien de manera positiva, ¿cómo imaginan, ustedes le pregunto a los economistas, el panorama de cara al próximo hito electoral que es el año que viene?  ¿Cómo va a estar la economía y cómo imaginan la política de este país? ",
+            "cosine_dist": 0.7552656317673658,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1258.323,
+            "end_time": 1298.151,
+            "text": "A ver, yo te digo, lo que va a generar esta situación es que la tasa de interés baje.  Cuando vos te bajas la tasa de interés con una economía abierta, la discrepancia que vas a tener entre ahorro e inversión se achica y por lo tanto la actividad lo que vas a tener es que va a tener un rebote.  ¿Pero cuál es el problema?  El problema es que con el tratamiento que se hizo frente al coronavirus, la pésima cuarentena implementada, una cuarentena cavernícola implementada por el gobierno, destruyó la oferta.  Entonces, digamos, no va a tener más que un rebote del gato muerto, pero no va a tener más que eso.  Y cuando quieran estimular la demanda... ",
+            "cosine_dist": 0.34460272751694865,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1298.191,
+            "end_time": 1300.753,
+            "text": "¿Qué es el rebote del gato muerto?  Me perdí, perdón. ",
+            "cosine_dist": 0.9210358248866609,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1300.833,
+            "end_time": 1307.978,
+            "text": "Si vos tirás a un gato de un décimo piso... No queda ahí abajo.  Cuando llega al piso rebota hasta el primero, por lo menos después. ",
+            "cosine_dist": 0.8374657480984639,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1308.339,
+            "end_time": 1344.324,
+            "text": "Claro.  Entonces, digamos, a ver, el punto es el siguiente.  Entonces vos vas a tener esa... suerte de sensación de mejora, pero como el gobierno quiere estimular esto con obras públicas financiadas con emisión monetaria, quiere financiar el capital de trabajo de las empresas con emisión monetaria, quiere financiar el Procrear con emisión monetaria, todo con emisión monetaria, ya emitiste un punto, cinco billones de pesos, que en realidad no están en la calle.  porque lo tomaste, lo sacaste con las Lenix y con los PASE. ",
+            "cosine_dist": 0.35804983976671056,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1344.424,
+            "end_time": 1351.504,
+            "text": "Hoy las fuentes del gobierno decían, cerramos el tema de la deuda, Damos IFE, damos ATP. ",
+            "cosine_dist": 0.7902953280416982,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1352.384,
+            "end_time": 1366.108,
+            "text": "Pero ¿dónde sale la plata para los IFE?  Justamente los IFE y los ATP, esto cuando el gobierno dice es el mito del esfuerzo del Estado.  El Estado no hace ningún esfuerzo, el esfuerzo lo hace la máquina que imprime billetes del Banco Central. ",
+            "cosine_dist": 0.8070596675385795,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1366.128,
+            "end_time": 1368.248,
+            "text": "La máquina de imprimir billetes. ",
+            "cosine_dist": 0.8138588107873531,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1368.428,
+            "end_time": 1388.232,
+            "text": "Lo que vos estás haciendo es sosteniendo un nivel de gasto que está a doscientos cincuenta mil millones de pesos por arriba de tus ingresos.  Tradicionalmente se financió con deuda, terminó mal, ahora se reestructura.  Pero la otra alternativa es financiarlo con emisión.  También termina mal esa.  También termina mal si no la arreglás.  Hablamos de economía real. ",
+            "cosine_dist": 0.8813301419066744,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1388.292,
+            "end_time": 1390.993,
+            "text": "Hablamos de economía real.  ¿Cómo impacta el acuerdo? ",
+            "cosine_dist": 0.8635405701202713,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1393.574,
+            "end_time": 1458.114,
+            "text": "Dame una nota al pie de página, Luis, por favor, porque es importante.  Porque, ¿qué dice el gobierno?  Yo lo, digamos, te da el IFE, te da el ATP, lo que vos quieras.  ¿Con qué lo financia?  Con emisión monetaria.  ¿Vos qué creés que va a pasar si vas a financiar todo contra emisión monetaria, contra producción cero?  ¿Qué haces con los billetes?  No van a servir para nada.  Es como que yo te regale un millón de dólares y te pongo en un cohete y te mando a Marte.  ¿Qué hace con eso?  Nada, porque no puede comprar nada.  Entonces, uno no puede estar descontrolando la maquinita de imprimir billetes cuando vos tenés dos cosas.  Una, que la actividad se te va a derrumbar por el efecto... de la cuarentena cavernícola.  Y otra, la gente no quiere tener dinero, no quiere el peso, lo desprecia el peso.  A ver, en lo que va del año, Argentina tuvo un superávit comercial de ocho mil millones de dólares y perdió mil quinientos millones de dólares de reserva.  Quiere decir que los argentinos se fugaron nueve mil quinientos millones de dólares de reserva.  ¿Dónde están los kirchneristas y sus economistas?  que hablan de la fuga de Macri. ",
+            "cosine_dist": 0.3732181441417145,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1458.134,
+            "end_time": 1459.774,
+            "text": "¿Por qué no hablen de esa?  Te doy un dato. ",
+            "cosine_dist": 0.6307769708931463,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1460.315,
+            "end_time": 1464.637,
+            "text": "Pero, a ver, ¿por qué sí que se fugaron?  ¿Cuánto dijiste?  ¿Mil ochocientos?  ¿Mil millones de dólares? ",
+            "cosine_dist": 0.9542992103229142,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1465.017,
+            "end_time": 1466.378,
+            "text": "No, nueve mil quinientos. ",
+            "cosine_dist": 0.7538817258001174,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1467.018,
+            "end_time": 1468.238,
+            "text": "Pero, a ver, explícame. ",
+            "cosine_dist": 0.9334306792284957,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1469.299,
+            "end_time": 1476.362,
+            "text": "Es un poco menos porque en realidad tiene déficit también en la cuenta de servicios.  Entonces, en la cuenta corriente tiene un poco menos de ocho mil millones. ",
+            "cosine_dist": 0.8887911438245804,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1476.382,
+            "end_time": 1478.663,
+            "text": "Pero llévame despacito para que entienda.  Porque me vas a meter en una... ",
+            "cosine_dist": 0.8795000894419616,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1478.683,
+            "end_time": 1488.828,
+            "text": "No, pero tiene razón.  A la Argentina le entraron más dólares de los que le salieron y, sin embargo, cuando vos vas a la reserva hay menos dólares.  Entonces, evidentemente, en algún lugar están. ",
+            "cosine_dist": 0.8435276151117791,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1489.208,
+            "end_time": 1490.249,
+            "text": "Se fugaron. ",
+            "cosine_dist": 0.9066041286272093,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1490.829,
+            "end_time": 1497.373,
+            "text": "Se fugaron, también es una expresión que hay que ponerla en su justa medida.  Se fugaron quiere decir que los argentinos compran dólares.  Claro. ",
+            "cosine_dist": 0.7888620661551298,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1498.013,
+            "end_time": 1504.777,
+            "text": "Aún con el cepo.  Bueno, quiere decir que no quieren pesos.  Exacto, aún con el cepo.  Fíjate dos datos.  O sea, con un cepo brutal. ",
+            "cosine_dist": 0.6178832979688265,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1505.457,
+            "end_time": 1552.942,
+            "text": "Dos datos, Javier, si me permitís, dos datos.  El primero se acaba de conocer.  El primero se acaba de conocer esta tarde.  Con todo esto de la deuda pasó desapercibido.  La recaudación de impuestos se conoció de julio, creció el veintiséis por ciento, o sea, trece por ciento menos en términos reales que la inflación.  Pero el dato central es que la recaudación del impuesto país, el que se paga cuando compras dólares, el treinta por ciento por comprar dólares, creció cuarenta por ciento más que el mes pasado.  Cuarenta por ciento más de gente comprando dólares como puede.  Como puede, los doscientos dólares, un viaje con tarjeta, algo.  Entonces, te creció cuarenta por ciento la cantidad de gente que te está comprando dólares de un mes al otro.  Eso te explica por qué hay tanta presión en los dólares que se van, que decía Javier, y el resto de la gente que no te los puede comprar ahí, te los compra en el paralelo y te explica por qué el dólar paralelo se fue de setenta a ciento ",
+            "cosine_dist": 0.7695102938871811,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1553.102,
+            "end_time": 1556.324,
+            "text": "veinte ahora.  Estos últimos minutos que nos quedan, Javier, hablemos de economía real entonces. ",
+            "cosine_dist": 0.9007359243393753,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1558.886,
+            "end_time": 1649.36,
+            "text": "A ver, yo sigo sosteniendo que el panorama de Argentina sigue siendo un panorama negro.  Es decir, arreglar el tema de la deuda es solamente una condición necesaria para salir, pero nada tiene de suficiente.  Acá no hay ninguna intención de poner las cuentas fiscales en orden.  ¿Creen que esto se va a arreglar aumentando el gasto público financiado con emisión monetaria?  Vos vas a tirar una cantidad monstruosa de pesos a la calle y la gente está huyendo del peso.  Los datos que estuvimos describiendo recién con Martín están diciendo que el argentino desprecia el peso.  Entonces, si vos vas a tirar una montaña de pesos, la gente no quiere los pesos y además la producción cae, lo que vos tenés es que El peso se va a derretir como una barra de hielo en el medio del desierto del Saharana.  Eso significa que vas a más inflación.  Es más, yo te voy a pasar un dato importante.  Vos, por ejemplo, en el año tenés que va de inflación doce por ciento, ¿no?  Ahora, esa inflación vos la tenés porque tenés pisado el tipo de cambio oficial que es por donde vos cursas las operaciones de comercio exterior y eso impacta sobre alimentos, bebidas y bienes esenciales.  Tenés pisado los servicios públicos, con lo cual eso después se traduce en una pelota enorme con lo que tiene que ver con los subsidios económicos.  y también tenés pisados básicamente los que son los precios cuidados.  Y el resto de los precios no se manifiestan porque no hay actividad, porque vos estás encerrado en tu casa y que consumís. ",
+            "cosine_dist": 0.37955174371254796,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1649.56,
+            "end_time": 1655.404,
+            "text": "Consumís alimentos... Tengo un poquito de tiempo, pero vos lo que decís es que vuelve la actividad y vuelve la inflación. ",
+            "cosine_dist": 0.9310993651153747,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1656.986,
+            "end_time": 1692.647,
+            "text": "Y claro, porque cada vez que empieces a abrir sectores, los precios se van a actualizar.  Pero aún así, lo que quiero marcar es que si vos tuviste una brecha, ponele de noventa por ciento... ¿Sí?  Quiere decir que si vos... El dólar no te va a bajar, el dólar te va a subir.  Quiere decir que vos ahí, en ese noventa por ciento, como los alimentos tienen un tercio dentro del índice, quiere decir que hay treinta puntos de inflación reprimida.  Si vos contás esos treinta puntos adicionales, estás cerca de cuarenta y cinco por ciento de inflación verdadera en los primeros cinco meses. ",
+            "cosine_dist": 0.3833166248526425,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1694.68,
+            "end_time": 1703.592,
+            "text": "Entiendo.  Javier, yo te agradezco mucho este contacto, volvemos a hablar en cuanto esté la oportunidad.  Muchísimas gracias, muy agradecido. ",
+            "cosine_dist": 0.9248226169349169,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1705.274,
+            "end_time": 1709.82,
+            "text": "No, por favor, el placer es mío y un saludo enorme a todo tu maravilloso equipo y en especial a mi gran... ",
+            "cosine_dist": 0.4232332365671184,
+            "is_target_speaker": true
+        }
+    ]
+}

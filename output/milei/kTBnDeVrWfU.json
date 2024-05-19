@@ -1,0 +1,647 @@
+{
+    "Index": 392,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "kTBnDeVrWfU",
+    "url": "https://www.youtube.com/watch?v=kTBnDeVrWfU",
+    "title": "\"SI CAE EL RÉGIMEN DE CUBA VOY A IR A LA ISLA\" - Javier Milei en La Nación + 11/7/2021",
+    "duration": 1489.0,
+    "view_count": 46625,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 1",
+            "start_time": 0.06,
+            "end_time": 1.15,
+            "text": "Javier Milei, ¿cómo andás? ",
+            "cosine_dist": 0.9584578719074439,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1.17,
+            "end_time": 2.651,
+            "text": "¿Qué tal?  ¿Cómo estás, José Gusto? ",
+            "cosine_dist": 0.7623523111143942,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2.951,
+            "end_time": 5.253,
+            "text": "Acá estamos con Luis, compartiendo el último dato que tenés. ",
+            "cosine_dist": 0.8502607392261268,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 5.273,
+            "end_time": 6.134,
+            "text": "¿Qué tal, Luis?  ¿Cómo estás? ",
+            "cosine_dist": 0.9536187112863126,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 6.154,
+            "end_time": 7.315,
+            "text": "Hola, Javier.  Buenas noches. ",
+            "cosine_dist": 0.8710380121750929,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 7.855,
+            "end_time": 43.662,
+            "text": "¿Cómo estás?  Un placer.  El blue, que es el que puede comprar la gente, y si me lo permitiste, lo hago con un ejemplo muy divertido.  Lo contaba en sus clases Juan Carlos de Pablo.  Dice que va una persona a comprar un jarrón a un negocio.  Entonces le dice, ¿cuánto está este jarrón?  ¿Me entendés?  Y le dice, doscientos pesos.  Dice, pero enfrente está a cien.  Bueno, cómprelo enfrente, no hay más.  Bueno, acá cuando no haya más también va a estar a cien.  Es decir, precio es el que se puede comprar.  Y el que se puede comprar la gente de a pie es el Blue.  Y el Blue ya pasó la barrera en los ciento setenta.  Está en ciento setenta y dos. ",
+            "cosine_dist": 0.3910902069028379,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 43.922,
+            "end_time": 106.222,
+            "text": "Bueno, enseguida vamos a hablar contigo, Javier.  Le voy a saludar a Eduardo Sacheri, que está ahí conectado.  Eduardo, ¿cómo estás?  ¿Qué tal, José?  Buenas noches.  Un placer saludarte.  ¿Cómo te va?  Cada vez que te pones a jugar o que depositás en otros que juegan tu propia pasión, como es nosotros mirando a la selección, ponemos en juego cosas que no nacen en el juego y que son mucho más importantes.  Para eso jugamos.  La vida es compleja, la vida es ardua, la vida es confusa.  Los juegos no.  Los juegos es eso, es un rectángulo que tiene siete metros por dos y pateando la pelota vos tenés que meterla ahí.  Y ellos van a tratar de hacer lo mismo.  Y se te va la vida en eso.  Durante noventa minutos se te va la vida en eso.  Por suerte no se te va la vida.  Por suerte es apenas un ensayo, apenas una simplificación de la vida que te permite por un ratito entenderla.  Acá tenemos un ratito a Javier Milei que me va aportando por lo bajo cuestiones, no sabía que sabía de fútbol también. ",
+            "cosine_dist": 0.7103847026221537,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 106.563,
+            "end_time": 108.164,
+            "text": "Fui arquero profesional de Chacarita. ",
+            "cosine_dist": 0.8539911468236314,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 108.184,
+            "end_time": 112.526,
+            "text": "Fui arquero profesional, mirá un personaje también Eduardo para futuros libros. ",
+            "cosine_dist": 0.8555071913199478,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 112.546,
+            "end_time": 117.149,
+            "text": "Les paso las medidas del arco, siete treinta y dos por dos cuarenta y cuatro. ",
+            "cosine_dist": 0.5743554208617594,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 117.509,
+            "end_time": 128.322,
+            "text": "Mirá vos, hay dos mundos que se... Gracias, le agradezco la presentación.  Dos mundos que se van cruzando.  Yo redondé, como yo soy licenciado en Historia, me limité a redondear porque el número más, el número menos... ",
+            "cosine_dist": 0.8658270727729234,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 128.401,
+            "end_time": 130.104,
+            "text": "¿Sabés la diferencia de lo que es para el arquero? ",
+            "cosine_dist": 0.790077739230605,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 130.324,
+            "end_time": 176.875,
+            "text": "La diferencia para el arquero es mucho.  Eduardo, buenas noches.  Carlos Camburian, ¿cómo está?  Hola José, buenas noches.  Bueno, lamentablemente, aparte del fútbol, estamos camino a los cien mil muertos en la Argentina.  Sí, camino a los cien mil muertos y algunos asesinados.  Los primeros fueron muertos, los últimos... Son asesinados.  ¿Por qué?  Tenemos cinco millones de personas vacunadas en la Argentina completamente.  ¿Por qué dice asesinados?  Porque definitivamente podríamos tener vacunas en la Argentina que no tenemos, porque las vacunas que se robaron no las tienen las personas que fallecieron.  Es decir, a partir del primer vacunado ilegal, cada muerto tiene un responsable.  No son muertos por el virus, son muertos por una mala gestión.  Javier, la economía.  Se viene el plan primavera.  QUE LE DICEN. ",
+            "cosine_dist": 0.8040224384530534,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 176.895,
+            "end_time": 182.638,
+            "text": "¿QUÉ SIGNIFICA ESTE PLAN?  MIRA, LA REALIDAD ES QUE ARGENTINA ES UNA BOMBA A PUNTO DE EXPLOTAR. ",
+            "cosine_dist": 0.5819765444827071,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 183038,
+            "end_time": 183318,
+            "text": "¿POR QUÉ? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 184.299,
+            "end_time": 234.348,
+            "text": "PORQUE PRIMERO TIENE UN DESEQUILIBRIO MONETARIO MONSTRUOSO DE DIEZ A UNO.  TIENE UN DESEQUILIBRIO FISCAL PROPIO DE UNA CRISIS.  ¿Tiene un desequilibrio en el mercado de cambios enorme, que lo ves con una brecha de arriba del setenta y cinco por ciento?  ¿Tiene un desequilibrio enorme en materia de actividad argentina?  Si vos tomás el PBI per cápita, acorde a las proyecciones del gobierno estaríamos cerca de quince a veinte puntos porcentuales debajo del nivel del dos mil once.  TENES UN PROBLEMA QUE ARGENTINA HACE DIEZ AÑOS QUE NO CREA PUESTO DE TRABAJO.  DE HECHO, DESTRUYÓ DOS CIENTOS VEINTICINCO MIL NETOS, ¿SÍ?  EN UNA POBLACIÓN QUE CRECE.  EL SALARIO REAL ES EL MISMO QUE EL DEL DOS MIL CUATRO.  TENES CINCUENTA POR CIENTO DE POBRES Y MÁS DE DIEZ POR CIENTO DE INDIGENTES.  O SEA, ESTÁ TODO MAL. ",
+            "cosine_dist": 0.3196172328864245,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 234.448,
+            "end_time": 236.228,
+            "text": "¿PERO CUÁNTO HAY DE PANDEMIA Y CUÁNTO DE GESTIÓN? ",
+            "cosine_dist": 0.8007126656805039,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 237.008,
+            "end_time": 305.499,
+            "text": "DESDE MI PUNTO DE VISTA, Hay un trabajo de Barro, Urzúa y Güen del año pasado donde lo que hacían este grupo de economistas era calcular el contrafáctico si lo que había dicho la Organización Mundial de la Salud el año pasado teníamos el equivalente de la fiebre española.  En ese contexto, deberían haber muerto, además de los sesenta millones de seres humanos que mueren normalmente a lo largo de un año en el mundo, ciento sesenta millones más.  ¿Ok?  Bueno, no fue lo que pasó.  Le erraron cien a uno.  Pero al margen de eso, entonces, ¿qué es lo que hace el estudio?  Hace el contrafáctico y dice, si tuviéramos esa relación, ¿cuánto tendría que caer el PBI?  Tendría que perder siete puntos porcentuales la tasa de crecimiento PBI per cápita.  Venía al ritmo del más tres y medio, fue al menos tres y medio.  La gran mayoría... o la mayor parte de toda la caída, tiene que ver con las cuarentenas cavernícolas.  Y Argentina es el abanderado en eso.  Por eso es uno de los países que más cayó en el G-X. ",
+            "cosine_dist": 0.29463242188023997,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 305.519,
+            "end_time": 308.062,
+            "text": "La Argentina es el abanderado de las cuarentenas cavernícolas. ",
+            "cosine_dist": 0.8956684490222848,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 308.122,
+            "end_time": 336.049,
+            "text": "Exactamente.  No solo que fue uno de los que más cayó en el G-X, sino que además cayó el triple que el resto del mundo.  Y el año pasado, para medirlo con año cerrado y con la estacionalidad neutralizada, Argentina terminó entre los cinco países con mayor cantidad de muertos por millón de habitantes.  Por eso adhiero a lo que acaba de decir el doctor, que acá hay un genocidio.  El año pasado, si hubiéramos hecho las cosas como un país promedio... ",
+            "cosine_dist": 0.27768217283725494,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 336.629,
+            "end_time": 344.673,
+            "text": "Pero hablar de genocidio no es hablar de intención, digo, puede ser que haya mala gestión, pero una intención me parece un poco fuerte. ",
+            "cosine_dist": 0.8122180961953983,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 345.073,
+            "end_time": 453.103,
+            "text": "No, no, es que vamos a ponerlo en blanco y negro.  Punto uno, si hubiéramos hecho las cosas como un país promedio... Si replicamos el problema medio, hubiéramos tenido diez mil muertos el año pasado.  Tuvimos cuarenta mil.  Es decir, explícame por qué, digamos, se equivocaron tanto.  La realidad es que cuando vos estudias las epidemias o las pandemias, la lógica con la que se enfrenta es, por un lado, está lo que es la responsabilidad individual, con los protocolos, el uso de barbijo, el distanciamiento social, la higiene, todo lo que vos quieras.  PLANO INDIVIDUAL.  DESPUÉS ESTÁ, SI VOS TENÉS ESTADO DE BIENESTAR, QUE ADEMÁS SE OCUPA DE LA SALUD, ¿QUÉ TIENE QUE HACER EL ESTADO EN ESE CASO?  PARTICULAR DE ESTADO DE BIENESTAR?  BUENO, TENDRÍA QUE HABER HECHO TESTEOS MASIVOS, QUE NO LOS HIZO, Y UNA VEZ QUE ESTABA LA VACUNA, TENDRÍA QUE HABER VACUNADO MASIVAMENTE.  No hizo lo primero el año pasado, no lo hace este año y tampoco vacuna masivamente.  ¿Por qué?  Porque como no están dispuestos a dejar de robar, no están dispuestos a dejar de lado sus privilegios.  ¿Comprendes?  Entonces, el modelo como ajusta, con encierro y más muertos.  Es decir, este es un gobierno criminal.  De hecho, el modelo de cuarentena impulsado también entra en la categoría de delito de lesa humanidad, porque acorde al Estatuto de Roma de mil novecientos noventa y ocho, artículo siete, inciso K, parece apuesto a medida, si cuando vos avanzás de modo profundo, ya sea sobre la propiedad privada, eso a vos te conduce a dos problemas.  O te rendís al Estado y te convertís en un esclavo, perdés tu libertad, o enfrentás al Estado y te morís.  O sea, con lo cual es una muerte indirecta. ",
+            "cosine_dist": 0.2968121481626168,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 453.323,
+            "end_time": 481.838,
+            "text": "Mirá, Javier, hoy justo se dio una particularidad, algo también en Cuba, muy fuerte.  Estamos mostrando imágenes, mientras charlo contigo, de lo que pasó abajo de la dictadura.  Ahí está, esa era la consigna.  Multitudinaria e inédita esta protesta en las calles de Cuba.  Sorprendió al régimen que allí se vive, situación económica, situación sanitaria.  Y la frase que más sonaba era, viva la libertad. ",
+            "cosine_dist": 0.7225325052571439,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 483.883,
+            "end_time": 501.733,
+            "text": "Bueno, a mí me... Yo, digamos, vos sabés que yo doy muchas conferencias.  Yo tenía pactada dos conferencias en Miami cuando nos encontramos con la pandemia.  Y nosotros, digamos, vos sabés, o sea, mis charlas tienen todo un... ",
+            "cosine_dist": 0.3216457987066761,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 501.753,
+            "end_time": 503.494,
+            "text": "Cuando vos entras, la gente grita, ¡viva la libertad! ",
+            "cosine_dist": 0.8482774766068346,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 503.514,
+            "end_time": 544.078,
+            "text": "¡Viva la libertad!  O sea, es más, hasta yo me sentí muy sorprendido de encontrarme con personas... por la calle que me mencionaban a mí.  De hecho, digamos, mis videos en Estados Unidos, en la comunidad latina, han oscilado entre cinco y diez millones de reproducciones.  Es decir, y de hecho, digamos, si cae el régimen, así como lo he dicho en esos vivos, lo vuelvo a confirmar.  Yo voy a ser parte, digamos, voy a ir y voy a ingresar a la isla para presenciar cómo, digamos, un pueblo se libera de la opresión comunista. ",
+            "cosine_dist": 0.29601744669422536,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 544.378,
+            "end_time": 547.059,
+            "text": "¿Por qué crees que el gobierno apoya a Venezuela también? ",
+            "cosine_dist": 0.749528204623529,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 547.899,
+            "end_time": 564.522,
+            "text": "Porque el gobierno es un gobierno con vocación totalitaria.  Es un gobierno liberticida.  Es liberticida en todos los aspectos.  Las medidas que vos mencionabas hace un rato, previo al partido de fútbol, es propia de un gobierno liberticida. ",
+            "cosine_dist": 0.27607977438747955,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 564.542,
+            "end_time": 572.824,
+            "text": "Contale a la gente, porque muchos estaban viendo el partido, el récord de audiencia, esa final que vimos.  ¿Qué fue lo que pasó en ese entremedio? ",
+            "cosine_dist": 0.7082300294758088,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 573.584,
+            "end_time": 711.438,
+            "text": "Hago el pequeño diagnóstico.  de la visión equivocada que tiene el gobierno, pero para entender por qué hizo lo que hizo.  Básicamente el gobierno cree que el dólar es lo que determina los precios, es una inconsistencia, precios determinando precios no está mal.  Es una inconsistencia matemática, es muy técnico.  En realidad los precios suben porque pierde poder adquisitivo el peso y el dólar es uno más.  Pero no lo entiende así el gobierno, cree que la cuestión es el dólar.  Entonces, ¿cómo se determina el precio del dólar paralelo, que se llama el contado con liqui?  Es el precio de un bono en pesos en el mercado local contra ese mismo bono en Estados Unidos en dólares.  Entonces, tomás los dos precios y te da el tipo de cambio implícito.  Entonces, ¿qué es lo que hizo?  Para que no se le escape el contado con liqui, para que no se le escape el blue, bueno, ya lo había hecho.  a inicio del año, salía a vender bonos de los jubilados, esto es importante, controlaba el dólar usando la plata de los jubilados futuros, o sea, por ejemplo, nosotros.  Y de esa manera, ¿qué hacía?  Vendía bonos en el mercado de peso para hacerle bajar el precio en peso y así tenerte controlado el dólar.  Pero inexorablemente, ahora con el tema este del downgrade de la calificación que nos pasaron a Stan Alon, que vendría a ser que somos un paria financiero, es decir, que estamos más solos que Adán en el día de la madre, ¿qué es lo que sucede?  En ese contexto, digamos... los fondos se desprenden de los bonos, el precio de los bonos cae, la tasa de interés sube, o sea, el riesgo país te sube.  Entonces, ¿qué es lo que te genera?  Te genera un exceso de oferta en el mercado de bienes que te golpea sobre la actividad.  Eso va al mercado de trabajo, te genera exceso de oferta de trabajo, te hace bajar el salario real y te hace perder puestos de trabajo.  Y en el mercado de dinero te hace caer la demanda de dinero y te empieza a impulsar el dólar.  Entonces, ¿qué es lo que hace el gobierno?  Poco tiempo antes de que arranque la final, manda nuevas regulaciones por parte del Banco Central para que no suba el precio del bono en pesos y no caiga el precio del bono en dólares.  Es decir, restringe la operación.  Al margen de que eso profundiza más los desequilibrios, porque vas a profundizar más el desequilibrio en el mercado de bonos, que se va a traducir en más tasa de interés y todo este... ",
+            "cosine_dist": 0.3012496640313803,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 712.318,
+            "end_time": 713.638,
+            "text": "Que se hundique cada vez más grande. ",
+            "cosine_dist": 0.8693054308964325,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 713.838,
+            "end_time": 729.701,
+            "text": "Claro, pero con consecuencias negativas en el resto de la economía, en especial en actividad y empleo, al margen de que como le quieren dar rosca a la maquinita para aumentar el gasto público de cara a las elecciones, lo dijo Cafiero el otro día, ¿no?  En la segunda parte del año le vamos a dar bomba al gasto. ",
+            "cosine_dist": 0.33190613351333775,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 730.081,
+            "end_time": 734.562,
+            "text": "Ahí tu libro, fue anterior a esta gestión, era Maquinita, Inflación y Devalueta, ¿era? ",
+            "cosine_dist": 0.8249455241198891,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 734.822,
+            "end_time": 737.382,
+            "text": "Ese era del dos mil trece, dos mil catorce, sí. ",
+            "cosine_dist": 0.6458421743399143,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 737.402,
+            "end_time": 739.083,
+            "text": "¿Te habla de esta economía en blanco y negro? ",
+            "cosine_dist": 0.9298838927581785,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 739.123,
+            "end_time": 741.123,
+            "text": "Ah, no, ese es del dos mil dieciocho. ",
+            "cosine_dist": 0.7224636439179335,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 741.143,
+            "end_time": 742.724,
+            "text": "Dos mil dieciocho, época de Macri. ",
+            "cosine_dist": 0.8813547284731608,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 743.084,
+            "end_time": 806.557,
+            "text": "Sí, Maquinita, Inflación y Devalueta.  Sí, nosotros somos de lo peor, vivimos tropezando siempre con la misma piedra.  Pero lo más interesante es que la medida es inmoral, José.  La medida es inmoral porque es un robo.  Porque, a ver, si vos te ganás tu plata, honestamente, ¿quién es el Estado para decir en qué la podés gastar o no?  Vos la podés gastar en lo que se te dé la gana.  De hecho, en realidad, como el peso es una basura como moneda, tu reserva de valor es el dólar, es una forma de hacerte de consumo futuro.  Entonces, primero que no te dejan elegir cómo proteger... Tu dinero, o sea, el fruto de tu trabajo.  Segundo, lo hacen castigando sobre un bien que te castiga tu consumo futuro.  Pero no solo eso, no te permiten esquivar el impuesto inflacionario, que es un robo porque es un impuesto no legislado.  Porque ¿qué es lo que hace el CEPO?  Que vos no puedas comprar dólares.  Aumenta la demanda de dinero, aumenta la base imponible del impuesto inflacionario, por lo tanto te roban más con un impuesto no legislado. ",
+            "cosine_dist": 0.35055197801580684,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 807.017,
+            "end_time": 883.44,
+            "text": "Pablo, ayer, ¿cómo fue esta trastienda?  Te seguí ahí en el chat que tenemos privado de Economía, dentro de La Nación, y se veía que esto iba apareciendo, iba y volvía, y finalmente fue una medida que se tomó.  Sí, exactamente, José.  Te voy a contar una intimidad, espero que no esté viendo este programa Javier Blanco.  Yo creo que él estaba, obviamente, en su franco, es nuestro especialista en temas financieros, y estaba haciendo deporte y tuvo que dejar eso para ponerse a escribir justamente esta cuestión.  La trastienda.  Esta es la trastienda de la noticia, esto es algo que sabés vos y los integrantes del equipo de Economía de la Nación.  Así que imaginate, ayer fue sábado, todos teníamos la cabeza en absolutamente otra cosa, primero por el día libre y segundo por el partido de Argentina.  Y de todas maneras, déjenme decirles, Javier y José, que el gobierno está bastante acostumbrado, nos acostumbra a estas cosas.  Y una cuestión personal más, a mí me tocó, José, trabajar el treinta y uno de diciembre pasado cuando sacaron un segundo boletín oficial para dar marcha atrás con el aumento de prepagas de la mañana.  La teoría del si pasa, pasa.  Tal vez uno de los males que tiene también la economía en blanco y negro, porque vos decís, bueno, mejor anunciarlo con momos y platillos, que cada uno sea a cargo de las decisiones que toma y no esconderlas debajo de la alfombra. ",
+            "cosine_dist": 0.6938047423615876,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 883.98,
+            "end_time": 903.81,
+            "text": "Pero es un gobierno liberticida.  Entonces, si le sumás el mal diagnóstico que tiene la economía, las pésimas políticas que se le ocurren y el desprecio que tienen por la libertad de los individuos, es un combo perfecto.  Todo va siempre a conducir a lo mismo, a que nos metan la mano en el bolsillo. ",
+            "cosine_dist": 0.3043676418610657,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 905.031,
+            "end_time": 917.06,
+            "text": "Hablando concretamente de eso, vamos a preguntar sobre las últimas encuestas de Taquión, está aquí Sergio.  Sergio, contanos un poco esto, ¿qué estamos pensando los argentinos concretamente de lo que viene? ",
+            "cosine_dist": 0.751233887475971,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 918.516,
+            "end_time": 1011.501,
+            "text": "A ver, hay un elemento bastante claro que es que tenemos muchas dudas respecto a lo que pasó.  Claramente los dos modelos que priman en relación a la detentación de poder en Argentina tienen que ver con algo que no funcionó.  Y cuando vos mirás esto en relación a las elecciones que vienen y también te pone en escena el espíritu de cómo estamos hoy te muestra que primero, el treinta y cinco por ciento no se siente representado en absoluto por la gente que puede llevar adelante el poder en argentina y hay un veinticinco por ciento que sí pero pobremente.  eso ya te deja cinco de cada diez personas argentinas que están bastante incómodos con el sistema de representación.  lo interesante es que Acá tenemos un tema que es la gente está en contra de los políticos y no de la política.  porque cuando le preguntamos a las personas ¿vos creés que la democracia funciona?  Te van a decir que ocho de cada diez creen que es el mejor sistema.  Ahora creen que la gente, la gente opina que siete de cada diez creen que funciona mal en Argentina por medio de los políticos.  También tenés que tener en cuenta que siete de cada diez argentinos están preocupados por su futuro.  Y es un elemento que empieza a ser un combo bastante fuerte en relación a la mirada a futuro.  Y en eso sí me sumo con mucho respeto a la charla con Javier.  Creo que lo que tiene que ver es que la economía es una ciencia social por algo que se basa en la confianza, principalmente.  Obviamente Javier desde el lugar matemático me va a retar porque deben faltarme unas fórmulas. ",
+            "cosine_dist": 0.7946777436907797,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1011.642,
+            "end_time": 1034.715,
+            "text": "No, para nada, Sergio, querido.  El libro más importante desde mi punto de vista.  En la economía, después del libro de Adam Smith, Investigación sobre la Naturaleza y las Causas y las Riquezas de las Naciones, el más importante es el de Ludwig von Mises que se llama La Acción Humana.  Así es que es la absoluta y total... el reconocimiento de que es una ciencia social.  Es ",
+            "cosine_dist": 0.3517885948753403,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1034.776,
+            "end_time": 1058.417,
+            "text": "que en realidad ahí es, cuando vos estás mirando un país que cree que su sistema representativo está mal utilizado, que tiene un presidente con una imagen negativa muy alta, que tiene el poder licuado y que no sabe a dónde va a futuro lo que empieza a pasar, sumemos todo esto al efecto pandemia, que genera un miedo muy grande dentro de la sociedad, Podemos ver a los líderes con una imagen negativa en ",
+            "cosine_dist": 0.7804611016819277,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1058557,
+            "end_time": 1058957,
+            "text": "todos los ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1059.037,
+            "end_time": 1104.605,
+            "text": "planos, casi más alta que la positiva.  La verdad es que el único caso que mueve mes a mes es el de Horacio Reyes Larreta, que está un poco por encima, arriba de ese valor.  Lo que encontramos es que no hay una mirada futuro que dé tranquilidad.  Y si no hay tranquilidad, claramente lo que va a pasar es que No hay una escena donde la economía pueda desarrollarse con tranquilidad y hacia adelante lo que va a pasar es más intranquilidad.  Creo que lo único que puede tener el gobierno ahora como elemento, olvidémonos un poco de la Copa América porque también tuvimos este punto donde decíamos las vacunas van a ayudar al gobierno.  La verdad es que en la última investigación que hicimos es casi toda la población y también dentro de los votantes del frente de todos creen que es un deber, no es que es un plus valor la vacuna. ",
+            "cosine_dist": 0.7526080340084723,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1104.625,
+            "end_time": 1105.386,
+            "text": "Es una obligación. ",
+            "cosine_dist": 0.8800777431840601,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1105.746,
+            "end_time": 1147.898,
+            "text": "Es una obligación del Estado, no es que vacuna vale voto.  Lo que nos puede cambiar ahora, y que hablando justamente de la confianza, es que este verano, donde ayer tuvimos la suerte de ver que padres podrían abrazarse con sus hijos, ver familiares, que empiece a surgir un elemento de mayor positividad asociado a qué?  A la libertad, a ECA.  No me sumo al concepto ideológico de Javier, digo porque no soy quien para hacerlo, pero sí al tema de que si la gente puede empezar a sentirse mejor yendo a ver a sus abuelos, a sus padres, empieza a haber un resurgimiento y la inyección económica que puede llegar a haber puede tener una mejor escena la elección.  Hoy la verdad del frente de todos está en una complicación en su principal bastión que es la provincia de Buenos Aires. ",
+            "cosine_dist": 0.807996151752497,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1148.058,
+            "end_time": 1162.846,
+            "text": "La provincia que es la madre de todas las batallas.  Pablo, te sumo con una pregunta, en este caso al arquero que tenemos acá.  ¿Vos sabías que Javier Milei... ¿Dónde era que había jugado?  Sí, en Chacarita, José.  Javier, Chacarita, por otro lado, profesor universitario.  A mí me encanta el lado B de Milei. ",
+            "cosine_dist": 0.760879753320898,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1162.926,
+            "end_time": 1163.727,
+            "text": "Cantante de rock. ",
+            "cosine_dist": 0.8428918473305413,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1163.787,
+            "end_time": 1165.568,
+            "text": "Cantante de rock.  ¿De qué tipo de rock? ",
+            "cosine_dist": 0.8819406735505364,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1165.848,
+            "end_time": 1168.229,
+            "text": "de Rock and Rolling Stones, lo podríamos decir. ",
+            "cosine_dist": 0.729476074795733,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1168.249,
+            "end_time": 1168.93,
+            "text": "¿Querés cantarnos? ",
+            "cosine_dist": 0.9601754781767857,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1169.11,
+            "end_time": 1169.89,
+            "text": "No, por favor. ",
+            "cosine_dist": 0.9447303196799179,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1170.09,
+            "end_time": 1170.69,
+            "text": "¿No estás preparado? ",
+            "cosine_dist": 0.9989806112260408,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1170.911,
+            "end_time": 1178.114,
+            "text": "No, creo que hay un tiempo para cada cosa en la vida.  Eso pasó hace treinta y dos años y quedó ahí y nada más. ",
+            "cosine_dist": 0.4951754353409531,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1178.134,
+            "end_time": 1185.878,
+            "text": "Se ha prescribido, dirían Pablo y los abogados.  Mira, hubiese podido ser más estrella todavía, Miley, pero te voy a hacer una pregunta muy, muy tranquila. ",
+            "cosine_dist": 0.82786249298794,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1185.898,
+            "end_time": 1186.959,
+            "text": "Hubiera terminado estrellado. ",
+            "cosine_dist": 0.859721730671333,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1186.979,
+            "end_time": 1217.716,
+            "text": "Todo, todo lo que he cantado.  Todo lo que estamos acá, además.  Por lo que dijiste en la primera parte del programa, entiendo que no te llevás del todo bien o no te gusta demasiado el gobierno de Alberto Fernández y de Cristina Kirchner.  En este hipotético escenario de dos mil veintitrés, donde imaginate que vos vas a ir a elecciones y vas a estar fuera, me imagino, de Juntos por el Cambio.  Imaginate que se define en un balotage.  ¿Le dirías a tu gente que acompaña Juntos por el Cambio en un eventual balotage contra el candidato kirchnerista? ",
+            "cosine_dist": 0.7325510613056561,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1218.929,
+            "end_time": 1225.278,
+            "text": "Jamás le pediría a mis seguidores que voten socialistas, ya sea socialistas cool o socialistas hard. ",
+            "cosine_dist": 0.468605320132749,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1225.799,
+            "end_time": 1234.592,
+            "text": "¿Quién es socialista cool y quién es socialista hard?  Yo me había quedado, Pablo, con tu teoría de los halcones y palomas, pero esta es nueva, socialista hard, socialista cool. ",
+            "cosine_dist": 0.8004578318330128,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1235.092,
+            "end_time": 1239.474,
+            "text": "Bueno, a ver, el ala de las palomitas de Juntos por el Cambio. ",
+            "cosine_dist": 0.557457541163926,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1239.734,
+            "end_time": 1240.354,
+            "text": "Son palomitas. ",
+            "cosine_dist": 0.8845249402560769,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1240.734,
+            "end_time": 1249.937,
+            "text": "Sí, las palomitas, o sea, son todos socialistas.  ¿No lo viste el otro día?  Vidal, Larreta, Luz, son todos socialistas.  O sea, digo, o sea... ",
+            "cosine_dist": 0.4672209536046438,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1249.957,
+            "end_time": 1251.718,
+            "text": "¿Y el kirchnerismo qué es? ",
+            "cosine_dist": 0.7821391463771712,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1252.938,
+            "end_time": 1255.159,
+            "text": "Es muchísimo más de izquierda. ",
+            "cosine_dist": 0.7770735283246519,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1255219,
+            "end_time": 1255799,
+            "text": "¿Y Randazzo? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1257.059,
+            "end_time": 1258.38,
+            "text": "Randazzo es un peronista. ",
+            "cosine_dist": 0.6754461970739862,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1258920,
+            "end_time": 1259360,
+            "text": "¿Y Spert? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1260.38,
+            "end_time": 1261.881,
+            "text": "Spert es un liberal clásico. ",
+            "cosine_dist": 0.5954893904622963,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1263.666,
+            "end_time": 1272.531,
+            "text": "¿Y cómo juega esto en las elecciones?  ¿Qué quiere la gente?  Porque veíamos ahí un seis coma cuatro tuyo.  ¿A quién le duele más?  ¿Al kirchnerismo?  ¿Le duele más al macrismo? ",
+            "cosine_dist": 0.6942847173516449,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1272.772,
+            "end_time": 1312.814,
+            "text": "No, le duele a la gente todo lo mal que le está pasando y que ninguna de las dos fuerzas son soluciones.  Y es más, en el supuesto espectro opositor, que no lo es, porque en realidad si vos los ves, digamos, mapeas las frases, dicen las mismas cosas.  Es decir, no hay gran diferencia entre las cosas aberrantes que dice Máximo Kirchner respecto de las que dice María Eugenia Vidal, son las mismas.  Hay diferencias de modos, de estilos, o sea, son todos muy agradables.  la gente del PRO, los buscan además carilindos, para que midan mejor, pero el contenido es el mismo. ",
+            "cosine_dist": 0.29389451871364547,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1313.534,
+            "end_time": 1314.895,
+            "text": "¿Y el radicalismo cómo juega? ",
+            "cosine_dist": 0.8005267930970831,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1315.535,
+            "end_time": 1316.676,
+            "text": "¿La Internacional Socialista? ",
+            "cosine_dist": 0.5586665824168836,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1318.055,
+            "end_time": 1326.078,
+            "text": "Veamos lo que decía Lacalle Pou, el presidente uruguayo, respecto de lo que ocurre en el mundo y dónde queda parada la Argentina. ",
+            "cosine_dist": 0.7327206020959944,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1326.098,
+            "end_time": 1367.118,
+            "text": "Fíjate.  El mundo ya va muy rápido.  El mundo se está entrelazando comercialmente.  Y el COVID y el final del mismo va a ser que estas negociaciones se disparen.  El mundo avanza hacia allá, está claro.  Y del mundo no nos va a esperar.  Y por eso, amigos presidentes, con tranquilidad y con un concepto mercosuriano, les queremos decir, como ya fue informado ayer, que hacia allá va el Uruguay.  Ojalá que vayamos todos juntos. ",
+            "cosine_dist": 0.7552848073144864,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1368.438,
+            "end_time": 1373.959,
+            "text": "¿Qué lugar ocupa Uruguay y la calle POU? ",
+            "cosine_dist": 0.6982808143611654,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1373.979,
+            "end_time": 1464.372,
+            "text": "Mira, para mí es... Yo cuando lo he escuchado a la calle POU, a mí no me parece que sea ni siquiera liberal clásico.  O sea, lo veo casi, digamos, como un keynesiano de verdad, de Keynes, no de los keynesianos que vinieron después, que es otra cosa.  Es una familia bastante distinta.  Pero claro, comparado con la bestialidad y la brutalidad del debate en Argentina, donde se discute la ley de la gravedad, pero invitan al pueblo a tirarse del piso cincuenta, no ellos, claro, parece que fuera, me entendés, súper liberal, pero no, no lo es.  O sea, yo digo, cuando hablo de liberalismo, hablo de liberalismo en serio.  ¿Me comprendés?  O sea, que nuestro país esté entre los países con mayor libertad económica, que eso impulse un fuerte crecimiento económico y que en treinta y cinco años volvamos a ser una potencia mundial, donde el cincuenta por ciento de ese proceso ocurre durante los primeros diez años, con lo cual, digamos, además, si hacemos las reformas promercado, es decir, vamos a tener no sólo nosotros una vida mejor, sino que nuestros hijos y nuestros nietos, es decir, van a empezar a dejar de irse y se van a querer quedar a reconstruir la Argentina próspera.  Eso solamente si volvemos a abrazar las ideas del liberalismo.  Y eso no lo hace ni el gobierno, ni la falsa oposición, porque también son, las palomitas también son socialistas, pero tienen mejores modales nada más. ",
+            "cosine_dist": 0.28129241265368743,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1464.392,
+            "end_time": 1488.771,
+            "text": "Muy interesante, Javier, muchas gracias.  Gracias a vos.  A la mierda los malditos empresarios, a la mierda Sodomitas el capital.  Basta de basura que Inesiana, ha llegado el momento liberal.  Tenemos un líder y él es un gran rebelde. ",
+            "cosine_dist": 0.9390977839080888,
+            "is_target_speaker": false
+        }
+    ]
+}

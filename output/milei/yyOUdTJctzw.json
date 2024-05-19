@@ -1,0 +1,591 @@
+{
+    "Index": 625,
+    "channel_id": "UCncnuCzrFwWxO4Z-c1vQB2A",
+    "channel": "Canal C Argentina",
+    "uploader_url": "https://www.youtube.com/@CanalCCordobaTV",
+    "id": "yyOUdTJctzw",
+    "url": "https://www.youtube.com/watch?v=yyOUdTJctzw",
+    "title": "Javier Milei: \"La justicia social es una farsa\"",
+    "duration": 1658.0,
+    "view_count": 25929,
+    "candidate_name": "milei",
+    "quality": "low",
+    "segments": [
+        {
+            "speaker": "Speaker 1",
+            "start_time": 6.7,
+            "end_time": 16.78,
+            "text": "Estamos con Javier Vilei que ha venido para una actividad política a la ciudad de Córdoba y le agradecemos muchísimo la presencia en el estudio.  ¿Cómo estás Javier? ",
+            "cosine_dist": 0.8322384423973552,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 17.08,
+            "end_time": 18.301,
+            "text": "¿Bien?  Gracias a Dios, todo muy bien. ",
+            "cosine_dist": 0.8250914806594416,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 18.581,
+            "end_time": 21.644,
+            "text": "Bueno, ¿a qué venís a Córdoba?  ¿A un congreso? ",
+            "cosine_dist": 0.935528523175422,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 22.044,
+            "end_time": 41.478,
+            "text": "Exactamente, venimos a exponer un conjunto de representantes de lo que sería el espectro desde los liberales hasta la centro-derecha.  Va a estar Victoria Villaruel, va a estar, digamos, Gómez Centurión, Ricardo López Murphy, Agustín Echevarne y quien les habla. ",
+            "cosine_dist": 0.46618242039455726,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 41.879,
+            "end_time": 46.321,
+            "text": "¿Y vas a ir a...?  ¿Eso está durante todo el día y a la noche cierre? ",
+            "cosine_dist": 0.7712508454381136,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 46.361,
+            "end_time": 48.543,
+            "text": "No, eso es a partir de las veinte horas. ",
+            "cosine_dist": 0.6769653510030325,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 49.864,
+            "end_time": 66.914,
+            "text": "¿Sabés dónde es el estudio teatro?  ¿Sabés que ahí cantó Gardel en ese teatro?  Es un teatro especial, pero con un lugar bellísimo.  Bellísimo, te va a sorprender si uno lo conoce.  Y tiene toda una historia, ¿no?  Está ligada a la cultura córdoba. ",
+            "cosine_dist": 0.7415165202718325,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 66.954,
+            "end_time": 89.219,
+            "text": "Vos sabés que la voz de Gardel era tan maravillosa, esto la gente a veces no lo sabe, pero en la época de Gardel cuando se grababa ponían en el centro, no es como que es ahora que se graba de apartes, ponían una suerte de micrófono en el centro y todos cantaban y tocaban alrededor de eso, por lo tanto eso te muestra lo que era la voz de Gardel, era un prodigio. ",
+            "cosine_dist": 0.4103906322241776,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 89.419,
+            "end_time": 93.361,
+            "text": "Era un prodigio, sin duda.  Bueno, pero no vamos a hablar de música porque podríamos quedar... ",
+            "cosine_dist": 0.8965568093306271,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 93.381,
+            "end_time": 95.062,
+            "text": "Si querés hablamos de música. ",
+            "cosine_dist": 0.7707669085031627,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 95.182,
+            "end_time": 104.309,
+            "text": "Pero vamos a hablar de otra música.  Sin mariposas, sin nada.  ¿Qué te pareció lo de Cristina con la historia de la mariposa? ",
+            "cosine_dist": 0.8168006133789947,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 106.231,
+            "end_time": 117.62,
+            "text": "No, no la vi.  En general no pierdo tiempo en una persona delirante y totalmente ajena de la realidad como es la expresidente. ",
+            "cosine_dist": 0.4988044396483059,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 117.96,
+            "end_time": 132.392,
+            "text": "Pero, a ver Javier, después nos metemos con la economía.  Fue una móvil inteligente lo que hizo al ponerlo Alberto Fernández, porque ella seguramente si hubiera sido candidata a presidenta era muy probable, es contrafáctico lo que te digo, pero es probable que no hubiese ganado. ",
+            "cosine_dist": 0.7517191414512594,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 133.234,
+            "end_time": 216.33,
+            "text": "Desde mi punto de vista la elección se ganó gracias a la capacidad de Alberto Fernández, definitivamente.  Cuando Cristina Fernández de Kirchner fue a la provincia de Buenos Aires, porque ahí el eje central de la elección fue la diferencia que consigue Axel Kicillof y lo que pasa con las provincias de corte peronista.  Vos lo que ves es que María Eugenia Vidal consiguió los mismos votos que consiguió frente a Aníbal Fernández.  Y en rigor, lo que vos tenés es que en la elección previa anterior, que fue la de medio término, Cristina Fernández de Kirchner compitió contra dos cuatro de copa, como es el caso de Esteban Bullrich y la señora Gladys González.  Y sin embargo perdió.  Entonces ahí la realidad es que si no hubiera sido por... el trabajo de Alberto Fernández sumando a masa adentro de la coalición, hubiera perdido.  Si no era por el trabajo de Alberto Fernández alineando a los gobernadores, no se hubieran conseguido las diferencias que se consiguieron.  Por ende, el gran mérito de llegar a la presidencia es en el armado de Alberto Fernández.  Y eso me parece que casi es indiscutible. ",
+            "cosine_dist": 0.3086811956185943,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 216.87,
+            "end_time": 221.593,
+            "text": "¿Qué balance hace el discurso presidencial?  Primero y después del ministro de Economía. ",
+            "cosine_dist": 0.7838781514703148,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 223.354,
+            "end_time": 277.58,
+            "text": "Los dos me parecen aberrantes.  Desde el punto de vista moral y desde el punto de vista económico.  Desde el punto de vista moral, esa estupidez de decir que el colectivo está por encima de los individuos.  Entonces, ¿quién maneja las cosas, por decirlo de alguna manera?  Porque si es el colectivo no hay ningún individuo.  Por lo tanto, digamos, la negación del individuo, es decir, vos podés llegar a una solución para la sociedad en su conjunto a partir de los individuos, pero la reversa no es cierta.  Por lo tanto, cuando vos querés ir por la opción, digamos, desde el colectivismo, siempre terminan procesos totalitarios que además son un fracaso en lo económico, en lo social, en lo cultural, y cuando en esas soluciones se avanza aún más... son regímenes asesinos.  Es decir, entonces, ya de por sí... ",
+            "cosine_dist": 0.31308793112901234,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 277.6,
+            "end_time": 279.362,
+            "text": "¿Qué quiere decir con regímenes asesinos? ",
+            "cosine_dist": 0.9601267632867256,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 279.402,
+            "end_time": 311.491,
+            "text": "Bueno, digo, la máxima expresión colectivista es el comunismo.  El comunismo mató a los ciento cincuenta millones de seres humanos.  Es decir, parece que a algunos no les alcanza para aprender la lección todavía.  Si el día que se cayó el muro de Berlín aplastó a los zurdos de mierda, Y acá hay gente que lo quiere volver a construir el muro para saltar del lado del este, como el retrasado mental de Grabois.  Entonces, bueno, acá las cosas hay que decirlas como son. ",
+            "cosine_dist": 0.3233888730798834,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 313.453,
+            "end_time": 317.976,
+            "text": "¿Por qué decís que es aberrante también lo de Fernández?  Dejemos de lado lo económico. ",
+            "cosine_dist": 0.8520984003206076,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 318.617,
+            "end_time": 356.872,
+            "text": "No, no, no.  Esto lo dijo Fernández cuando quiere imponer la solidaridad a punta de pistola.  Es decir, digamos, si yo quiero hacer caridad con él, o sea, yo saco una nueve milímetros, te pongo la pistola en la cabeza y te digo, dame tu plata, es para dársela a él.  ¿A vos qué te parece?  Si es lo que hace el Estado, con la farsa esa llamada la justicia social, que es un robo porque te lo sacan por la fuerza y es un trato desigual frente a la ley.  porque implica que a unos se los vas a castigar en beneficio de otros.  Es una aberración, lo mires por donde lo mires. ",
+            "cosine_dist": 0.3355977943696641,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 356.912,
+            "end_time": 360.172,
+            "text": "¿Y en qué fracasó Macri?  para que la gente no lo haya votado? ",
+            "cosine_dist": 0.7591542252094262,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 361.272,
+            "end_time": 427.54,
+            "text": "Fracasó porque es un inepto, porque es un inútil.  Fracasó porque dejó su gobierno en manos de un socialista como Marcos Peña, que antes de bajar el gasto público prefiere cortarse un brazo.  Un inútil que no reconoció ni un solo error.  Un inútil que cuando se lo criticó, mandó a sus emisarios, por ejemplo, a perseguir a liberales.  Entonces, tildándonos de liberalotes, tildándonos de... plateístas, agoreros, trae tormenta, o sea, un montón de cosas que hicieron y nos persiguieron a los que señalábamos las inconsistencias del programa de Macri.  Y encima ahora hay que soportar a las focas amarillas idiotas diciendo que todas las aberraciones que están pasando son culpa de los liberales porque señalamos los errores que cometía Macri.  Una cosa de loco.  Es decir, si no hubiera cometido tantos errores, no lo hubiéramos criticado.  Es decir, pero gracias a todos los errores que cometió, supuestamente venía a limpiar a la Argentina del peronismo y de Cristina.  Volvió el peronismo y con Cristina. ",
+            "cosine_dist": 0.28837718986802796,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 429.062,
+            "end_time": 438.21,
+            "text": "A ver, futurología, ¿no?  O un ejercicio de ciencia ficción.  Si hubiera ganado Macri, ¿hubiéramos tenido los problemas que tiene Chile? ",
+            "cosine_dist": 0.7803497082066544,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 442.098,
+            "end_time": 457.921,
+            "text": "¿Qué imaginás vos?  Yo creo que si hubiera ganado Macri, no hubiera resistido más de seis meses en el poder y hubiéramos ido absolutamente a una solución a la venezolana.  Ya con una Cristina recargada y... ",
+            "cosine_dist": 0.39316874539135094,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 458.641,
+            "end_time": 459.422,
+            "text": "Con mucho más poder. ",
+            "cosine_dist": 0.9238286958586528,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 459.762,
+            "end_time": 462.022,
+            "text": "Yendo a una solución tipo venezolana. ",
+            "cosine_dist": 0.5322100206976175,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 462.542,
+            "end_time": 473.109,
+            "text": "¿Y el proyecto económico de este gobierno?  Yendo a otros temas, no solo a lo político, mencionaba la relación con el fondo, cómo hay que hacer con la deuda. ",
+            "cosine_dist": 0.7802736672581129,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 473.529,
+            "end_time": 589.348,
+            "text": "Mirá, desde mi punto de vista este gobierno va a ir por un programa de corte heterodoxo de los tantos que se han intentado en Argentina y siempre fallaron.  La pregunta es por qué crees que esta vez va a funcionar mejor.  La verdad es que no va a funcionar mejor.  Vos vas a tener una primera parte del año que va a parecer que vos tenés un alivio, ¿Por qué?  Porque básicamente vos lo que tenés es que en la última parte del año se aceleró la tasa de inflación esperando que en el nuevo gobierno aplique controles de precios y todo este tipo de... Políticas enmascaradas dentro de esa farsa llamada consenso social, acuerdo económico social.  Entonces, ¿qué es lo que pasa?  Como hay una aceleración, porque se adelanta en ese evento, vos lo que tenés es que cuando tengas el acuerdo económico social vas a tener la sensación de que la tasa de inflación se desacelera.  En ese contexto, como además... van a estar estimulando el gasto público financiado con emisión monetaria, vas a tener una expansión de la demanda agregada que vas a tener la sensación de que también la actividad deja de caer y empieza a tener cierta recuperación.  El tema es que cuando vos avances en ese proceso van a surgir varias cosas.  Primero es que te empezás a comer el colchón que generaron los empresarios, por lo tanto empiezan a producir menos.  Por otro lado, al estimular la demanda agregada, eso se transforma en un aumento de ingresos que deteriora las condiciones del sector externo.  Cuando entonces se te empieza a escapar la brecha, o sea, la diferencia entre el dólar oficial y el dólar de verdad, eso va a generar una caída en la demanda de dinero que eso va a precipitar una crisis.  Por lo tanto, esta sensación de alivio transitorio que vamos a tener durante la primera parte del año, va a hacer que el calvario en la segunda parte sea muchísimo peor. ",
+            "cosine_dist": 0.2991532627600908,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 590.069,
+            "end_time": 592.43,
+            "text": "Está bien.  Si mis compañeros quieren preguntar... ",
+            "cosine_dist": 0.857670044395195,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 593.05,
+            "end_time": 610.096,
+            "text": "¿Qué tal, Javier?  ¿Cómo te va?  Te pregunto, el modelo liberal más puro, ¿puede funcionar en Argentina atento a la cultura que tenemos?  Porque seguramente has escuchado esta frase, cada vez que hubo atisbos de liberalismo, aparecen los opositores y dicen, no, esto no funcionó y generó más pobres. ",
+            "cosine_dist": 0.9254228476226194,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 611.917,
+            "end_time": 724.751,
+            "text": "Bueno, es interesante el punto porque este modelo se aplicó en Argentina.  La constitución de Alberti de mil ocho cincuenta y tres y puesta en funcionamiento a partir de mil ocho sesenta hizo que de ser un país de bárbaros en treinta y cinco años, o sea, en mil ocho noventa y cinco, y eso está documentado en las bases de datos de Angus Madison, Argentina alcanzó el PIB per cápita más alto del mundo.  Por lo tanto, digamos, el modelo liberal, si vos querés un país donde se lo aplicó y fue modelo del mundo, es en Argentina.  Además es un modelo que es falso que genere pobres, porque aquellos países que son más libres, no solo es que son ocho veces más ricos que los reprimidos, sino que además el décil más bajo es once veces más rico que el equivalente en el país reprimido, pero además ese décil más bajo tiene el doble de ingresos que el ciudadano medio del país reprimido.  Es decir, que está por lo menos con el doble de ingreso que el ochenta por ciento de la población del país reprimido.  Y la contracara a eso es que el modelo liberal genera veinticinco veces menos de pobres en el formato estándar ...y cincuenta veces menos en el formato extremo, el de menos de un dólar diario.  Por lo tanto, lejos de no ser posible, es un modelo absolutamente viable... ...y que si vos verdaderamente estuvieras ocupado por sacar gente de la pobreza... ...por mejorar las condiciones de vida de la población... El modelo debería ser el liberal.  El problema es que ese modelo va en contra de esas ratas inmundas, asquerosas, repugnantes, llamadas políticos.  Y el problema está ahí. ",
+            "cosine_dist": 0.2985519515714028,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 725.916,
+            "end_time": 763.447,
+            "text": "Bien, Javier, ¿qué tal?  Buenos días.  Buen día.  Veía tu cuenta de Twitter y emitiste tu opinión sobre las políticas que dio Martín Guzmán en los otros días en la conferencia de prensa que dio.  Y bueno, dijiste que no iba a haber ajuste en el año dos mil veinte, pero que se iba a tener que pagar retenciones, impuestos a las ganancias y demás.  Digo, en el gobierno de Macri por un lado se pidió que la gente blanqueara capitales y ahora ellos van a tener que salir a pagar más.  Por un lado eso.  Y por el otro lado, ¿quién estuvo pagando en estos cuatro años?  Porque de algún lado el dinero tiene que salir.  En un gobierno sale de un lado, en otro gobierno sale del otro. ",
+            "cosine_dist": 0.8826300567567493,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 763.867,
+            "end_time": 771.733,
+            "text": "Bueno, es interesante el punto que levantás porque habla de la inmoralidad del ministro de Economía.  Es un mentiroso. ",
+            "cosine_dist": 0.45216760223203145,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 772894,
+            "end_time": 773174,
+            "text": "¿Por qué? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 774.035,
+            "end_time": 859.393,
+            "text": "Porque te dice que no va a haber ajuste en el dos mil veinte... pero va a subir bienes personales, va a subir retenciones, Va a subir impuestos a los bienes personales, va a subir ganancias, va a subir ingresos brutos en la provincia porque van a dejar de lado el pacto fiscal.  Es decir, que cuando te habla de que no va a haber ajustes, la de los políticos no se toca.  Es decir, la de ellos no se toca.  Pero al sector privado lo van a seguir destrozando.  Y además, también el gobierno anterior fue un gobierno absolutamente inmoral.  que no tuvo nada de liberal como suele decir mucha gente.  porque si hay algo que es inmoral y es en contra del liberalismo es la deuda.  porque la deuda en el fondo que es financiar la fiesta nuestra y que la paguen nuestros nietos nuestros bisnietos es decir que la termine pagando esa fiesta gente que no vota o que ni siquiera nació es absolutamente inmoral porque vos te estás gastando la plata que no tenés y que la van a generar tus generaciones futuras.  O sea, es como si él fuera al jardín de infantes, espera que salgan al recreo y le roba el dinero a los chicos que tenían para gastar en golosinas.  Es fuertemente inmoral, es un trato desigual frente a la ley y además donde estás perjudicando a gente que ni siquiera nació. ",
+            "cosine_dist": 0.3115430240636483,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 861.528,
+            "end_time": 875.301,
+            "text": "Hablando de ese tema, los que ni siquiera nacieron, tienen una alta posibilidad, un cuarenta por ciento de posibilidad de ser pobres.  Hoy se dice que uno de cada dos chicos vive con problemas económicos en su familia. ",
+            "cosine_dist": 0.7931620951651146,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 875.661,
+            "end_time": 1014.2,
+            "text": "¿Cómo se soluciona eso?  En el estudio de la UNCA es sesenta por ciento.  Bueno, pero tenemos... unos delincuentes e inmorales que hacen la defensa de las personas de la tercera edad diciendo que son el sector más vulnerable de la población, cuando en realidad es el doce por ciento.  Vale la pena de hablar de este crimen que cometen esos impresentables, como el señor Semino o la señora Clara Zaguero, o cualquiera de esos impresentables mentirosos que mienten sobre los datos de pobreza.  Porque en realidad... Lo que vos estás haciendo en esa defensa de la tercera edad, que es el segmento que... Porque si vos tenés cuarenta como ocho por ciento de la pobre, de acuerdo al informe de la UCA, sesenta por ciento en chicos y los jubilados son diez por ciento o doce, evidentemente es el sector... que mejor está relativamente.  Entonces, cuando vos haces políticas que estimulan el gasto previsional, como la estupidez que quiere hacer este gobierno de incrementar las jubilaciones, así jubileo, que implica aumentar el déficit fiscal entre dos y tres puntos del PBI.  que lo van a financiar con emisión monetaria, con lo cual van a generar inflación castigando a los más pobres, lo que hay que tener en cuenta es que si vos encontraras algún mecanismo alternativo de financiamiento, seguirías contaminando el crecimiento económico y mandando más pibes a la pobreza.  Es decir, esos impresentables en el fondo son grandes responsables de la pobreza de los chicos.  y que estemos hipotecando el futuro.  Porque pensá que setenta y cinco puntos porcentuales del crecimiento económico vienen explicados por el capital humano.  Y el capital humano tiene dos dimensiones.  Una es que estudien y otra es que morfen.  Y si no tienen para morfar, jamás van a poder estudiar como corresponde.  Entonces, a esos, digamos, que son los campeones de los jubilados, hay que enrostrarles que son unos mentirosos.  Porque eso está modificando políticas públicas que están perjudicando a las generaciones futuras y están hipotecando nuestro futuro. ",
+            "cosine_dist": 0.33900686376922073,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1014.923,
+            "end_time": 1017.725,
+            "text": "¿Cómo hacemos con la deuda?  Perdón. ",
+            "cosine_dist": 0.7897363474046735,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1017.985,
+            "end_time": 1019.166,
+            "text": "No, no, no, después. ",
+            "cosine_dist": 1.0621672741753119,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1019.186,
+            "end_time": 1019.947,
+            "text": "No, no, por favor. ",
+            "cosine_dist": 0.8354820865749724,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1020.327,
+            "end_time": 1039.942,
+            "text": "No, no, simplemente estaba hablando de la emisión.  También se rumorea que tal vez se congelen, por ejemplo, los créditos UBA, todas estas cuestiones de gente que hoy en día está pagando una cuota y tal vez se van a congelar esas deudas y eso sería la forma de ponerle dinero en el bolsillo a las personas.  ¿Crees que va a ir por ese lado o solo por la emisión? ",
+            "cosine_dist": 0.8885186916064879,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1040.522,
+            "end_time": 1138.929,
+            "text": "Mirá, no, no va a ir por un solo lado, va a ir por todos.  O sea, van a emitir para financiar el gasto público, van a emitir para desesterilizar el ICC para que baje artificialmente las tasas.  O sea, va a haber jubileo monetario porque esta gente cree que la inflación no tiene nada que ver con la emisión de dinero.  Es decir, yo de todo esto saco algunas conclusiones bastante positivas de cara al futuro.  Porque la piña que nos vamos a pegar es tan grande... que espero que después de eso no quede ningún estúpido de esos que dicen que la inflación es multicausal o no tiene nada que ver con la emisión de dinero.  Y por lo que decís respecto de los créditos, es interesante, está bueno que lo levantes para que veas cómo eso es un avance sobre los derechos de propiedad.  Porque lo hacen creyendo que con eso perjudican a los bancos.  Entonces decís, bueno, te voy a congelar los créditos UBA.  Ah, ok, te vamos a congelar los créditos UBA.  Entonces, o sea, los bancos van a recibir menos tasa de interés.  La pregunta es, ¿y con qué fundió eso el banco?  Con los depósitos de ustedes, o sea, con lo cual es probable que ustedes no puedan cobrar sus depósitos como corresponde.  Contigo, ¿no?  Como concepto.  Y además, ¿saben por qué se hace esto?  Porque esto, digamos, también hay que entender también por qué se hace.  Porque el Banco Nación está técnicamente quebrado por culpa del impresentable de González Fraga, puesto por el inútil de Marcos Peña para estimular los créditos UBA durante lo que fue la elección de mediano término, que fue cuando lo echaron a Melconian por hacer bien su trabajo. ",
+            "cosine_dist": 0.33157737041576363,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1140.64,
+            "end_time": 1141.64,
+            "text": "Yo digo... ",
+            "cosine_dist": 0.8917390852674386,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1141.88,
+            "end_time": 1143.641,
+            "text": "Y va a ir para todos, ¿eh? ",
+            "cosine_dist": 0.7930170102857838,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1143.681,
+            "end_time": 1147.402,
+            "text": "Sí, sí, sí.  Si veo por qué te peleas tanto en los medios de Buenos Aires. ",
+            "cosine_dist": 0.9008119435949501,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1147.502,
+            "end_time": 1151.524,
+            "text": "Sí, pero lo que pasa es que es difícil convivir con tanta estupidez. ",
+            "cosine_dist": 0.4866954352988052,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1152.924,
+            "end_time": 1159.426,
+            "text": "Está bien, pero se ha de confrontar.  Está bien, es un estilo, una forma de ser.  Pero no que parece que por ahí hay que... ",
+            "cosine_dist": 0.8867120634755629,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1159.466,
+            "end_time": 1174.582,
+            "text": "Pero escuchame una cosa.  ¿Qué pasa si yo me pongo a discutir con vos que dos más dos es siete?  Y entonces se agarra y te acurso.  No, porque vos creés que es cuatro porque sos neoliberal.  Que te digan neoliberal es de burro, ¿no? ",
+            "cosine_dist": 0.5315589185346189,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1174.742,
+            "end_time": 1182.268,
+            "text": "Que te digan neoliberal es un juguito.  Te han dicho misógino, de todo te han dicho.  Sí, seguro mujeres que tienen, digamos, son... ",
+            "cosine_dist": 0.724475779856454,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1188.024,
+            "end_time": 1189.385,
+            "text": "Digamos, lo que se llama misandria. ",
+            "cosine_dist": 0.6703381556235715,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1190.166,
+            "end_time": 1195.251,
+            "text": "Correcto.  Dejémosla ahí y sigamos hablando de economía.  O de política. ",
+            "cosine_dist": 0.8568369206186786,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1195.731,
+            "end_time": 1216.492,
+            "text": "No, porque yo te diga que dos más dos es cuatro y me acuses de violencia de género, es como que... Porque aparte es delito.  Es delito.  Cuando vos acusás a alguien, por eso, digamos... La causa que se me hizo en Salta fue desestimada, porque no hubo violencia, no hubo violencia de género y no hubo delito tampoco. ",
+            "cosine_dist": 0.4211950106712309,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1216.512,
+            "end_time": 1224.038,
+            "text": "A Javier lo acusaron por violencia de género, a quien no sabe, en una declaración pública, en una conferencia que hizo en la ciudad de Salta. ",
+            "cosine_dist": 0.7585650171872896,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1224.139,
+            "end_time": 1230.824,
+            "text": "Y fue desestimada.  Vos sabés que, por ejemplo, aquellos que mencionan ese caso yo los podría demandar por calumnias e injurias. ",
+            "cosine_dist": 0.46902598515160543,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1231.733,
+            "end_time": 1233.636,
+            "text": "Claro, sí, tenés todo el derecho del mundo. ",
+            "cosine_dist": 0.7350483480124215,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1233.996,
+            "end_time": 1251.195,
+            "text": "Claro, porque la causa fue desestimada porque, de vuelta, no hubo violencia, no hubo violencia de género y no hubo, digamos, ni siquiera delito.  Es decir, pero parece que acá en Argentina, si vos decís que dos más dos es cuatro, está mal.  Está bien.  Bueno, entonces, depende de quién lo diga, es el número.  Vamos. ",
+            "cosine_dist": 0.3869111915614456,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1251.535,
+            "end_time": 1259.159,
+            "text": "¿Y qué tendríamos que hacer con la renegociación con el fondo si es que hay que hacerla con el FMI? ",
+            "cosine_dist": 0.7940271271217252,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1259.179,
+            "end_time": 1312.544,
+            "text": "A ver, lo primero que hay que tener en cuenta es que nosotros le fuimos a pedir la plata al FMI.  Le fuimos a pedir la plata al FMI porque nadie nos quería prestar en el mercado voluntario de deuda.  El FMI nos prestó una tasa preferencial.  La pregunta es, si alguien te debe plata y no te la devuelve, ¿vos cómo te sentirías respecto a esa persona?  Claro.  Mal.  Obvio.  Bueno, te cuento que los socios del fondo son países diferentes.  Con lo cual, si vos le defaulteás a un acreedor privilegiado que además te presta una tasa preferencial por ser un acreedor privilegiado, vas a tener problemas.  Porque implica que te estás peleando con ciento noventa y siete países. ",
+            "cosine_dist": 0.3959754708902131,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1313.49,
+            "end_time": 1315.831,
+            "text": "Que son los que integran el Fondo Monetario Internacional. ",
+            "cosine_dist": 0.8517040201948031,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1315.951,
+            "end_time": 1319.534,
+            "text": "Más el impresentable Argentina, o sea, o sea, ciento noventa y ocho. ",
+            "cosine_dist": 0.5038950070952485,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1319.574,
+            "end_time": 1324.216,
+            "text": "Ciento noventa y ocho, efectivamente.  Si los chicos quieren hacer una nueva preguntita más. ",
+            "cosine_dist": 0.9190509831994702,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1324.236,
+            "end_time": 1338.385,
+            "text": "Sí, una muy breve, que yo pienso por ahí, y se plantea lo de, bueno, cómo hacemos una transición hacia un modelo liberal puro.  Vamos a suponer un ejemplo.  Una familia que cobra un plan social que viene a cubrir una ineficiencia, en todo caso, de todo el sistema económico. ",
+            "cosine_dist": 0.9647591977917882,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1339.145,
+            "end_time": 1341.886,
+            "text": "No, del sistema económico.  no, de la presencia del Estado. ",
+            "cosine_dist": 0.6810519337361708,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1342.106,
+            "end_time": 1353.372,
+            "text": "Exacto, de la presencia del Estado de acá.  Supongamos que, bueno, vamos a apelar a que consiga trabajo.  Bueno, se lo sacamos hoy.  ¿Cómo es ese proceso?  ¿Cuánto tarda esa transición?  Porque claramente no es de un día para el otro. ",
+            "cosine_dist": 0.9647412781004491,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1353.572,
+            "end_time": 1355.753,
+            "text": "A ver, nosotros con Giacomini... ",
+            "cosine_dist": 0.758819572469553,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1356.333,
+            "end_time": 1359.895,
+            "text": "Estuvo en ese lugar Giacomini hace un mes. ",
+            "cosine_dist": 0.7683799247417693,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1360.355,
+            "end_time": 1504.112,
+            "text": "Ah, mirá vos.  Todavía estaba caliente la silla.  Digo, otro que le pone onda a mi hermano.  A ver, el tema es el siguiente.  Nosotros lo que hicimos fue diseñar un programa económico sin costo social, donde el ajuste recaiga en las basuras inmundas de los políticos.  Nosotros proponemos hacer una reducción del gasto público de quince puntos del PBI, de Nación, Provincia y Municipio, donde el principal costo lo pague la política.  Mirá, te lo hago con un ejemplo para que entiendas cómo funcionan estas ratas asquerosas.  Porque usan a los pobres de escudo de sus propios beneficios de casta.  Hay un estudio del BID, el Banco Interamericano de Desarrollo, que te puedo asegurar que no tiene las preferencias Milei en materia de gasto público.  Y además es financiado por gobierno, con lo cual no puede decir las cosas con el estilo Milei tampoco.  La peor región del mundo en términos de ineficiencia técnica del gasto público, ¿sabes cuál es?  América Latina con cuatro coma cuatro por ciento del PBI.  ¿Sabes cuánto tiene Argentina?  ¿Cuánto?  Siete coma dos por ciento.  Por arriba.  No, no, por eso.  Nosotros somos los campeones.  Pero además, lo interesante es que inventaron un término, un eufemismo que se llama filtraciones.  ¿Ok?  O sea, yo lo llamaría choreo.  ¿Sabés cuánto tiene Argentina de choreo de los políticos?  ¿Cuánto?  Cinco puntos del PBI.  Mirá si habría para hacer ajuste sin que recaiga la gente.  Entonces lo primero que te van a decir, no, bueno, es que vos querés tocar a la gente.  No, yo no quiero tocar a la gente.  Yo quiero ir contra los políticos.  y no ir contra esas basuras que nos hunden.  Es decir, los grandes responsables de la decadencia argentina son los políticos.  Decime dónde tenés un político que sea pobre.  Digo, había uno que había dicho que tenía dos terrenitos y que con la política había ido para atrás.  Después nos enteramos que no, que toda su vida habían sido empresarios exitosos del real estate.  Que en realidad la habían gestado como abogados que nunca tuvieron un caso. ",
+            "cosine_dist": 0.34767342928360123,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1508.038,
+            "end_time": 1517.934,
+            "text": "la última si vos peleas hay más.  sí claro pero tengo un programa un límite.  después los corren vienen los que vienen después y los sacan de acá. ",
+            "cosine_dist": 0.7908910155026303,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1519.054,
+            "end_time": 1521.456,
+            "text": "Bueno, mientras que sean los que vienen atrás y no que sean los cucarachos. ",
+            "cosine_dist": 0.8447842990918182,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1521.596,
+            "end_time": 1541.47,
+            "text": "Sí, Javier.  Si viniera Alberto Fernández y te dijera, Javier, vas a ser mi ministro de Economía porque la actual no me gustó.  Tenés veinticuatro horas para diseñarme un plan.  ¿Qué resumen de prensa me harías vos a mí para exhibirlo al público? ",
+            "cosine_dist": 0.8227516232156635,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1541.49,
+            "end_time": 1640.319,
+            "text": "Bueno, en realidad, tanto mi colega Diego Giacomini como yo y otro colega con el cual trabajamos que se llama Mariano Fernández, nosotros lo que pediríamos primero es que nos den el Banco Central para cerrarlo.  Es decir, queremos erradicar de cuajo, de por vida, la inflación en Argentina.  Pero nosotros, de vuelta, en Libertad, Libertad, Libertad, explicamos, este programa es una reducción del gasto público de quince puntos del PBI, donde básicamente los primeros diez puntos se ahorran eliminando de cuajo la obra pública, yendo a un sistema de iniciativa privada de la chilena, eliminando de cuajo las transferencias discrecionales a provincias y de provincias de municipios, y eliminando de cuajo los subsidios económicos, pero rediseñando los contratos.  Y eso, una vez que la economía empieza a crecer, porque esto iría acompañado con una reducción de diez puntos de la presión fiscal en términos del PBI, digamos, re... digamos, direccionando fondos hacia la oferta de la economía, es decir, porque le dejaste de sacar plata a las empresas, sin castigar al trabajo.  Entonces, a medida que después la economía empieza a crecer, vos podés avanzar en la reforma previsional y en la reforma, digamos, del Estado para que las personas se vayan del Estado con un régimen de retiros voluntarios.  Entonces, vos ahí, digamos, no tendrías que tocar a nadie y podrías... empezar un proceso de crecimiento, con lo cual eso te arreglaría el lado real de la economía y el lado monetario, evidentemente, vuelvo a repetirlo, eliminaríamos el Banco Central. ",
+            "cosine_dist": 0.3746579738844882,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1641.359,
+            "end_time": 1652.866,
+            "text": "Bien, Miley, ha sido un gusto tenerte en el programa.  Gracias.  Acá hablamos todos, desde la democracia hablamos todos, fuera de la democracia no habla nadie.  Muchas gracias. ",
+            "cosine_dist": 0.7325863595641929,
+            "is_target_speaker": false
+        }
+    ]
+}

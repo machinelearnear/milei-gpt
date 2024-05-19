@@ -1,0 +1,911 @@
+{
+    "Index": 665,
+    "channel_id": "UCIFrRCEGQ891KXDbl8BJXAA",
+    "channel": "Asuntos Centrales",
+    "uploader_url": "https://www.youtube.com/@AsuntosCentrales",
+    "id": "rLU8yhlr5XY",
+    "url": "https://www.youtube.com/watch?v=rLU8yhlr5XY",
+    "title": "Entrevista a Javier Milei para ForbesLive Bolivia",
+    "duration": 3982.0,
+    "view_count": 5679,
+    "candidate_name": "milei",
+    "quality": "low",
+    "segments": [
+        {
+            "speaker": "Speaker 1",
+            "start_time": 37420,
+            "end_time": 37320,
+            "text": "Gracias. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 78.034,
+            "end_time": 157.787,
+            "text": "Muy buenas noches a todo Bolivia y por supuesto al mundo a través de esta transmisión de Force Life.  Hoy la verdad que tengo el privilegio y me emociona tener que presentar a lo que ya considero una celebridad dentro de América Latina, ni qué decir en Argentina, con todo lo que implica su pensamiento, su personalidad.  Estamos hablando del economista Javier Milei, que nos acompaña esta noche.  Tengo el privilegio de compartir durante lo que va a ser una hora de desarrollo de este programa, el ciclo que hemos comenzado hace dos meses, que hemos tenido a los economistas más influyentes de Bolivia y en las últimas dos semanas a economistas internacionales.  La verdad que es un placer saludar a Javier Milei, que ya estuvo en Bolivia con un éxito rotundo.  Esta noche creo que vamos a romper nuevamente también taquilla.  Así que los saludos, Javier Milei.  Buenas noches.  ¿Cómo le va a usted desde Buenos Aires?  Un gusto tenerlo aquí en este espacio.  Muchas gracias a usted.  En la previa estábamos conversando de ciertas facetas de su vida que ya pasaron, pero que son importantes.  El fútbol, por ejemplo, ya no quiere volver a abrir ese ciclo, ¿no?  Ya pasó hace tiempo. ",
+            "cosine_dist": 0.9409435171585635,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 159.207,
+            "end_time": 218.012,
+            "text": "Bueno, yo llegué a estar en el plantel profesional entre los diecisiete y los dieciocho años en el plantel profesional de Chagrita Juniors y justamente cuando llega la hiperinflación en el año mil novecientos ochenta y nueve fue un evento muy traumático para mí en términos visuales.  yo estaba en el primer año de la universidad y yo estudiaba que cuando los precios suben la cantidad demandada baja.  iba al supermercado y veía a las chicas remarcando los precios que se tiraba arriba de las mercaderías claro.  por eso digamos dije o lo que estoy estudiando está mal o soy un tonto.  Entonces la solución de dignidad implicó que dejé de jugar al fútbol, me dediqué a estudiar y a los veinte años publiqué mi primer artículo académico que se llamó la hiperinflación y la distorsión en los mercados. ",
+            "cosine_dist": 0.38660545370391686,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 218.032,
+            "end_time": 223.957,
+            "text": "¿A los veinte años de edad ya se había titulado o todavía le quedaba tiempo para titularse? ",
+            "cosine_dist": 0.9615698631993032,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 223.977,
+            "end_time": 279.725,
+            "text": "No, no, no, estaba estudiando, pero... me marcó tanto el episodio de la hiperinflación que me dio una obsesión por estudiar, y el artículo era un artículo interesante donde yo demostraba que la curva de oferta se invertía, entonces en la presencia de déficit fiscal financiado con emisión monetaria.  generaba continuas presiones de la demanda, Y haciendo que los precios subieran en un contexto donde además la economía se contaría.  Era un resultado bastante divertido y además eso no solo quedaba un equilibrio único, sino que además el equilibrio era estable.  Porque en ese contexto, si bien la curva de oferta se invertía, era más empinada que la curva de demanda que se va aplanando conforme van subiendo los precios. ",
+            "cosine_dist": 0.36197634849532234,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 280.575,
+            "end_time": 294.807,
+            "text": "Bueno, ese fue el ciclo cerrado del fútbol.  Me decía que usted hace tiempo no vea la selección argentina.  Bueno, vamos a darle un paso atrás a ese tema.  Y el rock, Javier, cantante de rock, también cerró el ciclo. ",
+            "cosine_dist": 0.988694755167876,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 296.309,
+            "end_time": 330.475,
+            "text": "Bueno, eso... A veces tengo algunos momentos en los cuales también canto, ¿no?  O sea, yo tuve una banda de rock que se llamaba Everest.  hacíamos música de los Rolling Stones y bueno, después pasó el tiempo y dejé de cantar, pero en mi última relación de pareja tuve la suerte de estar de novio con una cantante y un par de veces la he acompañado en el escenario. ",
+            "cosine_dist": 0.41172355220055157,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 331.176,
+            "end_time": 334.919,
+            "text": "Ah, qué bueno.  ¿Y es tan incompatible el fútbol, el rock con la economía? ",
+            "cosine_dist": 0.9445590261264372,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 338.297,
+            "end_time": 382.763,
+            "text": "El fútbol sí, el rock no tanto.  El fútbol sí porque demanda jugar profesionalmente, demanda por lo menos seis horas de entrenamiento por día.  Y entonces sí, eso está claramente en conflicto con estudiar.  Al menos, o sea, por más que uno se gradúa y en mi caso yo tengo dos maestrías, Yo sigo estudiando, entonces la verdad es que no es fácil de compatibilizar esa demanda física con el hábito de leer. ",
+            "cosine_dist": 0.3974231539619286,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 384.799,
+            "end_time": 410.747,
+            "text": "Seguro.  Bueno, Javier, este programa, este espacio tiene en la parte final preguntas de la audiencia.  Se las vamos a ir trasladando conforme vayan llegando.  La primera parte vamos a hablar de la economía, la nueva normalidad.  Quiero, antes de pasar a desarrollar este espacio, presentar un pequeñito resumen de su gran trayectoria profesional y personal.  Vamos a conocer esto y enseguida retornamos ya para el desarrollo del espacio. ",
+            "cosine_dist": 0.9530111502716083,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 412.671,
+            "end_time": 520.886,
+            "text": "Javier Gerardo Milei, economista, escritor, docente, conductor de radio y conferencista de filosofía política libertaria, asociado a la Escuela Austriaca de Pensamiento Económico, nació el veintidós de octubre de mil novecientos setenta en Buenos Aires, Argentina.  Es licenciado en economía por la Universidad de Belgrano y ha finalizado dos maestrías en el Instituto de Desarrollo Económico y Social y la Universidad Torcuato de Itela.  Fue economista jefe en Máxima Administradora de Fondos de Jubilaciones y Pensiones, economista jefe en el Estudio Broda y consultor gubernamental en el Centro Internacional para la Solución de Diferencias Relativa a Inversiones.  También fue economista senior en el Banco HSBC.  Es miembro del Grupo B-Veinte, Grupo de Política Económica de la Cámara de Comercio Internacional y Foro Económico Mundial.  Es autor de trabajos académicos, artículos periodísticos y libros, en algunos casos en coautoría con otros economistas.  Desde dos mil doce lidera la división de estudios económicos de la Fundación Acordar.  Durante más de veintiún años ha sido catedrático de macroeconomía, economía al crecimiento, microeconomía y matemáticas para economistas.  Desde dos mil trece ha estado leyendo y dando conferencias sobre economía austriaca.  Milei es anfitrión de su propio programa de radio semanal llamado Demoliendo Mitos.  En dos mil dieciocho debutó como actor en su propia obra de teatro, El Consultorio de Milei.  Se considera un anarquista estático y un anarcocapitalista dinámico.  Sobre la escuela austriaca afirmó que la claridad conceptual de los austriacos es superlativa y domina fuertemente el resto de las escuelas.  Es partidario de la eliminación del Banco Central de la República Argentina y su reemplazo por un sistema de bancas Simons, acompañado por una libre competencia de monedas que, según Milley, a la luz de la historia argentina, la moneda elegida por los argentinos sería el dólar. ",
+            "cosine_dist": 0.8945293039349421,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 526.278,
+            "end_time": 539.047,
+            "text": "Bueno, esa es una pequeña síntesis de la amplia trayectoria profesional de Javier Milei.  Es un privilegio una vez más entrevistarlo esta noche, Javier.  ¿Sigue haciendo radio con el programa Derrumbando Mitos o ya no? ",
+            "cosine_dist": 0.9826970254620863,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 540.628,
+            "end_time": 568.77,
+            "text": "Sí, sí.  De hecho, el programa se transmite los días jueves a partir de las veinte horas.  Y dado que lo hago desde mi casa, también lo transmito por Instagram.  Y la verdad es que tenemos un éxito arrollador, ya que en las redes hay algunos programas que han tenido un millón de reproducciones. ",
+            "cosine_dist": 0.3713078509251061,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 569.53,
+            "end_time": 571.832,
+            "text": "Mira usted, entonces lo podemos seguir los jueves. ",
+            "cosine_dist": 0.9566220946708164,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 573.172,
+            "end_time": 642.202,
+            "text": "Exactamente, yo lo hago de Instagram.  Es más, es muy interesante porque he tenido situaciones, por ejemplo... con el doctor Domingo Cavallo.  Tuvimos seis mil personas en línea con expert.  Hicimos un primer vivo y tuvimos quince mil personas en línea.  y ayer intentamos hacer un vivo y colapsó la red porque cerca de treinta mil personas intentaron entrar simultáneamente.  Por lo tanto, tuvimos que mutar la plataforma y todo.  O sea, verdaderamente esta conjunción de hacer el programa de radio con el Instagram me está dando unos resultados verdaderamente fenomenales y por lo general los programas en promedio tienen doscientas mil reproducciones y hay algunos unos cuantos que están arriba de los quinientos mil.  y bueno, después hay joyas que pasan el millón de reproducciones, la verdad que Estoy muy contento con cómo está funcionando el programa. ",
+            "cosine_dist": 0.352498759756132,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 642.222,
+            "end_time": 660.97,
+            "text": "Qué bueno, Javier.  Lo felicito realmente.  No es fácil llegar a esa audiencia.  Javier, me imagino que usted, como muchos de nosotros, nunca se imaginó estar confinado en este momento o por lo menos en una cuarentena flexible, pero no se imaginó que vivamos esta pandemia.  ¿Cómo la recibió? ",
+            "cosine_dist": 0.977082524579206,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 661.03,
+            "end_time": 697.497,
+            "text": "La verdad es que Hay dos etapas como uno recibe esto.  Una es cuando aparece la información del virus a la velocidad que el mismo se esparce, porque no lo ha dejado de hacer.  Y por otro lado, aparece después la reflexión cuantitativa sobre lo que está pasando.  Y ahí es cuando, para mí, más que en una pandemia, estamos en una fraudemia. ",
+            "cosine_dist": 0.37672751174812125,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 698.397,
+            "end_time": 699.678,
+            "text": "¿En una fraudemia? ",
+            "cosine_dist": 0.8899034070847629,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 700.358,
+            "end_time": 808.154,
+            "text": "Claro, porque... A ver, vamos a ponerlo en blanco y negro.  El virus existe, eso es cierto, eso es fáctico.  El problema es la amenaza de la Organización Mundial de la Salud diciendo que el virus iba a ser como la peste española.  Entonces, ¿qué es lo que sucede?  Cuando uno mira lo que fue la peste española que tuvo inicios en la primavera del norte en mil nueve dieciocho y terminó a inicios de mil nueve veinte, o sea que se dio en cuatro oleadas, fue el caso de un virus que infectó a un tercio de la población del planeta con una tasa de letalidad del seis por ciento, con lo cual murieron dos por ciento de los seres humanos que habitaban en esta tierra en aquel momento, que son tres millones de seres humanos.  Si uno esto lo pone con los números actuales en la población mundial, se encuentra que si verdaderamente estuviéramos frente a algo parecido a la peste española, tendríamos que ver dos mil seiscientos millones de seres humanos infectados, cuando hoy todavía no hemos llegado a los veinte millones, de hecho estamos en dieciocho millones de infectados, a pesar de los protocolos impulsados por la Organización Mundial de la Salud que tienden a sobreexagerar la cantidad de infectados, lo cual también aplica para los muertos, y si hubiéramos tenido algo parecido a la peste española, tendríamos que haber visto cerca de ciento sesenta millones de seres humanos muertos, cuando el número está en setecientos mil.  Entonces, la verdad es que... ",
+            "cosine_dist": 0.35968473877705587,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 808.494,
+            "end_time": 814.298,
+            "text": "¿Se ha exagerado mucho, Javier?  ¿Se ha exagerado mucho con el alcance de la pandemia? ",
+            "cosine_dist": 1.0040655897388873,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 815.679,
+            "end_time": 957.579,
+            "text": "Sí, claro, le han errado en más de doscientas veces.  Y eso no ha sido gratis para el planeta Tierra, porque... porque muchas economías, la gran mayoría de las economías del mundo, a partir de las recomendaciones de la Organización Mundial de la Salud, tomaron un modelo de cuarentena verdaderamente cavernícola.  Y mirá qué interesante que es la situación, porque hay un trabajo de Robert Barro, Ursúa y Weng, donde básicamente estiman qué pasaría con el PBI mundial, en caso de una nueva peste española.  Y en ese contexto ellos determinan que el PBI del mundo tendría que estar perdiendo siete puntos de crecimiento porcentual, que es más o menos lo que está perdiendo, pero el problema es que el error es más de doscientas veces.  Esto significa que el noventa y nueve coma cinco por ciento de la caída que ha tenido el PBI en el mundo obedece a los errores el Comité de Organización Mundial de la Salud.  Y esto también aclara lo que no ha sido gratis, porque en el primer día del año se perdieron cuatro coma cinco horas trabajadas en promedio.  Y eso significó la pérdida de ciento treinta millones de puestos de trabajo.  Eso también implicó que en el segundo trimestre del año se partieron el equivalente a trescientos cinco millones de puestos de trabajo.  Eso implicó que el salario real en el mundo cayera sesenta por ciento.  Eso hizo que la cantidad de pobres extremos en el mundo pasara de cinco por ciento a quince.  Es decir, que hundió en la pobreza extrema a setecientos ochenta millones de seres humanos.  Y además, incrementó a los seres humanos con riesgo de inseguridad alimentaria de ciento treinta millones a ciento sesenta y cinco millones, donde además asesinaron, por decirlo así, la Organización Mundial de la Salud con su modelo criminal de cuarentena asesinó a treinta millones de seres humanos de hambre. ",
+            "cosine_dist": 0.33493523973178563,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 958.522,
+            "end_time": 973.354,
+            "text": "Javier, esto que usted llama una fraudemia, ¿usted cree que está determinada por algún tipo de intención, de interés de alguien?  ¿Quién puede estar detrás de ese interés para que esto sea una fraudemia, según su definición? ",
+            "cosine_dist": 0.9884894309487995,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 974.995,
+            "end_time": 1309.713,
+            "text": "No, yo no creo que haya una suerte de comportamiento conspirativo al.  respecto.  Yo creo que tiene que ver con el problema que tienen los médicos para procesar determinadas cuestiones.  Yo suelo tener discusiones muy fuertes con los médicos y los infectólogos en Argentina, y eso parece ser que es algo bastante convencional en las personas que trabajan en la salud, porque básicamente muestran tres errores.  El primer error es no saben diferenciar de un problema de equilibrio parcial de uno de equilibrio general.  Supongamos que uno va al médico, el médico le dice, bueno, usted tiene que hacer un mes de reposo.  Bueno, eso, digamos, es bastante complicado porque el empleador, digamos, cuando usted lo tuviera con todas las regulaciones del mercado laboral, por ejemplo, de caso argentino, que son salvajes, resulta bastante difícil que el empleador pueda soportar tanto tiempo.  con una persona faltando pero supongamos que puede pasar, pero en la mayoría de los casos usted tiene personas que no pueden hacer eso porque trabajan de modo pilazo, trabajan en el mercado informal.  y entonces cuando usted se encuentra si lo plantea el médico le dice no, porque primero está la salud.  la verdad que ese argumento es un argumento bastante tonto porque usted le dice, mire, si yo le hago caso a usted me quedo sin generación de ingresos y me muero.  Ahora, en el equilibrio parcial usted le puede decir, bueno, entonces le pide plata a su familiar, le pide plata a sus amigos, le pide plata a su vecino.  O sea, entonces usted en algún sentido hasta puede resolver el problema del equilibrio parcial.  Ahora, cuando usted se encuentra con una situación donde eso afecta a toda la sociedad, como el modelo de cuarentena impulsado por la Organización Mundial de la Salud, bueno, eso es un problema enorme.  ¿Por qué?  Porque justamente... no tiene ahora nadie que lo salve, porque los otros están en el mismo problema que usted.  Es el primer problema.  El segundo problema es que yo me doy cuenta, es que claramente tienen un problema grosero de orden de magnitudes.  Es decir, haberle errado por doscientas veces y es un problema de orden de magnitudes.  De hecho, cuando se notificaron acerca de los errores que habían cometido, empezaron a cambiar los protocolos para inflar el número de muertos por coronavirus.  Usted, ante la duda, se encuentra que dicen que se murió del coronavirus.  Entonces, ¿cómo es posible inferir la mentira?  Ahí miremos cuántas personas murieron en el mismo periodo del año anterior.  Lo que va a descubrir es que los muertos son más o menos los mismos, o sea que no ha habido una gran modificación al.  respecto.  Es decir, estamos en niveles... alineados con lo que teníamos el año pasado y otros años.  Por lo tanto, en ese sentido, uno lo que ve es que claramente hay una intención de mentir sobre los números, pero yo no creo que lo hagan con mala intención, sino para tratar de ocultar el error que cometieron.  Pero es que el error es tan grande... Yo, por ejemplo, en Argentina hay unos farsantes con título de médico que ahora dicen que por cada persona... que está infectado, hay diez más.  ¿Y al título de qué?  Ah, no, bueno, porque Sara, Sara, Sara, Sara, son diez más.  No, no, digamos, o sea, alguien que le ha pifiado por más de doscientas veces al número, tendría que ser un poquito más estricto en cómo define, porque han perdido toda credibilidad.  Y otra cosa que a mí me sorprende es que tienen un manejo muy paupérrido de las matemáticas.  De hecho, digamos, hay toda una matemática de lo que es las epidemias.  De hecho, yo estoy publicando, en septiembre va a aparecer mi nuevo libro que se llama Pandemomics, que justamente lo que hago es el análisis económico de la pandemia, y a aquellos que les interese, el día catorce de agosto, a las veintidós horas de Argentina, lo voy a estar presentando en formato... por decirlo de alguna manera, con la presencia de destacadas personalidades, donde por ejemplo voy a estar invitando a un periodista italiano que se llama Leonardo Facco, que vive en Bérgamo, o sea la capital mundial del coronavirus, y va a contar el fraude que ha sido el cómputo de infectados por COVID en Italia, También voy a invitar a participar al doctor Ricardo Manuel Rojas, que tiene un libro que nos comenta sobre la supresión sistemática de los derechos de propiedad como delito de lesa humanidad.  Va a estar el politólogo Agustín Laje hablando del uso político de la pandemia.  Y también va a estar el famosísimo y prestigioso neurocientífico Facundo Manes hablando del uso del miedo y el terror en la sociedad. ",
+            "cosine_dist": 0.3058955228980159,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1311.594,
+            "end_time": 1317.197,
+            "text": "Es el catorce de agosto.  Catorce de agosto.  ¿Cómo se lo puede seguir, Javier?  Porque me parece muy interesante lo que está anunciando. ",
+            "cosine_dist": 1.0093997085648418,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1318.358,
+            "end_time": 1347.798,
+            "text": "Sí, va a ser el catorce de agosto, las veintidós horas de Argentina.  Y las entradas se pueden comprar por www.ticketek.com.  .com.ar.  O sea, aquellos que me sigan en Instagram, quieran ir a mi Instagram, ahí cliquean y pueden ir directo al evento.  O sea, el equivalente en dólares es, porque van a encontrar el precio en pesos, pero el equivalente en dólares son cinco dólares. ",
+            "cosine_dist": 0.36689122424773246,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1348.338,
+            "end_time": 1356.822,
+            "text": "Qué bueno, qué bueno.  Gran, gran noche.  Vamos a estar seguramente siguiéndolo en la presentación de este sublibro y se va luego a tener físicamente el libro más adelante. ",
+            "cosine_dist": 0.9994808930063361,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1357.952,
+            "end_time": 1414.042,
+            "text": "Sí, el libro va a estar físicamente en la última parte de agosto.  Va a estar llegando a las librerías durante el mes de septiembre.  Y la idea es hacer un lanzamiento internacional.  Porque no solo cubro, digamos, el caso de Argentina.  En realidad, presento un marco analítico que después permite la posibilidad de analizar distintos países.  Entonces, por ejemplo, comparo el caso de Estados Unidos con Francia como países desarrollados, pero con distintas políticas fiscales, comparo, por ejemplo, después dentro de los emergentes, a los que tienen tipo de cambio flexible, entonces comparo Chile contra el caso de Brasil, después comparo los tipos de cambio fijos extremos, como es, digamos, la donación, entonces comparo Ecuador contra Panamá, y después llego al caso, que yo titulo Sor Juan e Inés de la Cruz, yo la peor de todas, o sea, ",
+            "cosine_dist": 0.32606842695675,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1415.203,
+            "end_time": 1419.586,
+            "text": "Argentina.  Así la define, ha sido la peor de todas, Javier, Argentina. ",
+            "cosine_dist": 0.9500324898248595,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1420.867,
+            "end_time": 1457.087,
+            "text": "Sí, sí, Argentina, pensemos que ha tenido la cuarentena más larga y más profunda del mundo, es el modelo más cavernícola, pero bueno, yo creo que el gobierno utiliza esto para avanzar hacia una solución socialista.  porque la destrucción de capital que está tomando lugar en Argentina es impresionante.  Cuando uno toma lo que pasó en el primer semestre y lo anualiza, a Argentina el PBI le cayó aproximadamente el cincuenta y dos por ciento. ",
+            "cosine_dist": 0.34743101238500396,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1457.587,
+            "end_time": 1466.453,
+            "text": "Le iba precisamente a preguntar, ¿qué gobierno usted cree que ha hecho la mejor tarea, o mejor la tarea y peor la tarea, de todos los que ha analizado? ",
+            "cosine_dist": 0.9282574426274162,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1468.96,
+            "end_time": 1510.283,
+            "text": "En lo económico, quien mejor entendió el problema fue Estados.  Unidos.  Y Chile también entendió muy bien el problema.  Ahora, en lo que tiene que ver con el manejo de la epidemia, probablemente los mejores hayan sido Nueva Zelanda, Australia, Hong Kong, Singapur... Taiwán, el caso de Irlanda es un buen caso, tenemos Suiza, Alemania, y acá en el continente el caso, sin lugar a dudas, de Uruguay, ¿no? ",
+            "cosine_dist": 0.3927910836143198,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1510.879,
+            "end_time": 1524.983,
+            "text": "Sí, sí, exacto.  Javier, le iba a preguntar algo que parece muy obvio.  ¿La libertad ha sido debilitada por la pandemia?  ¿La libertad en?  general?  Por supuesto, con la cuarentena en.  general. ",
+            "cosine_dist": 0.9602888033236824,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1526.104,
+            "end_time": 1733.684,
+            "text": "Sí, esto es una pregunta muy interesante.  Es muy importante esa pregunta.  Porque uno lo que ve es que la primera reacción que tuvieron los estados eso se vio con mucha claridad en Europa, fue avanzar sobre los individuos, o sea, no solo los encerraron, sino que además pusieron en marcha políticas que conducen a una mayor presencia del Estado.  Por lo tanto, digamos, a un detrimento de las libertades individuales.  Ahora, ¿qué es lo interesante?  A la luz del éxito del modelo de Estados Unidos... donde una de las cosas que hizo fue bajar impuestos a las empresas.  Recordemos también que lo que tiene que ver con aquellos que se quedan sin empleo, hay un seguro de desempleo que actúa de manera instantánea, más los cheques que giró Trump.  Eso permitió que Estados Unidos financiara la caída del ingreso, pero sin caída del consumo, con endeudamiento externo.  en un contexto donde todo el mundo quería financiar a Estados Unidos.  ¿Por qué?  Porque el precio de los Treasury subió tanto que la tasa se hizo cero.  Y es más, y además la gente demandaba dinero emitido por Estados Unidos.  Por lo tanto, pudo hacer política monetaria y fiscal expansiva.  Y además, o sea, para amortizar la calidad sobre el sector productivo, bajo el precio.  Entonces, en ese contexto, Estados Unidos está teniendo una recuperación muy veloz.  En los últimos tres meses ha generado... disculpame, diez millones de puestos de trabajo porque salió el nuevo dato, y se estima que para fines de septiembre la economía americana vuelva a estar en los niveles previos.  Ahora, esa respuesta depende de la flexibilidad del mercado de trabajo, lo que haya sido imposible.  Los primeros que reaccionaron a esto en Europa fue Irlanda.  Recordemos que Irlanda ya tiene una historia de haber probado con la baja de impuestos, porque de ser uno de los países más miserables de Europa, cuando abrazó las reformas de mercado y bajó la presión impositiva en treinta y cinco años, no solo que se convirtió en un país desarrollado, tiene un PIB per cápita a diez por ciento más alto que el de Estados Unidos.  Entonces, Irlanda es el primer país de Europa que nota que la cosa pasa por bajar impuestos, no por subir el gasto público, y La primera reacción de los países europeos que forman parte de la OCDE fue criticar a Irlanda por competencia desleal.  O sea, que es un comportamiento bastante típico de la OCDE, digamos que los estados quieren imponerle su ineficiencia fiscal al resto, acusándolos de paraísos fiscales, de competencia desleal, que en realidad no es ni más ni menos que querer seguir sosteniendo el robo de los políticos ladrones del mundo, porque en todos los lugares del mundo son la misma basura.  Algunos lugares son peores, como es el caso de Argentina, que son los más ladrones del mundo, que son los peores del mundo, pero en general constituyen una casta podrida, putrefacta, asquerosa, repugnante en todos los lugares del mundo. ",
+            "cosine_dist": 0.3267949836197941,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1733.964,
+            "end_time": 1736.944,
+            "text": "¿No hay ninguno que se salve, Javier, de los políticos del mundo? ",
+            "cosine_dist": 1.0143583750187826,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1736.964,
+            "end_time": 1739.385,
+            "text": "Solo los outsiders. ",
+            "cosine_dist": 0.7512309547452335,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1740.529,
+            "end_time": 1746.634,
+            "text": "¿Cuáles son los outsiders notables?  Sí, un outsider típico es Trump.  Trump.  ¿Bolsonaro también? ",
+            "cosine_dist": 0.8746983773613488,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1749096,
+            "end_time": 1749517,
+            "text": "Menos. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1749.957,
+            "end_time": 1752.519,
+            "text": "Menos.  Básicamente Trump, entonces. ",
+            "cosine_dist": 1.0769078939310548,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1752.539,
+            "end_time": 1758.184,
+            "text": "Sí, porque es el absolutamente outsider.  O sea, tiene contaminación cero. ",
+            "cosine_dist": 0.4959619985410887,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1758.404,
+            "end_time": 1762.828,
+            "text": "¿En América Latina ve algún outsider últimamente? ",
+            "cosine_dist": 0.9922606852885684,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1766.351,
+            "end_time": 1818.698,
+            "text": "Bueno, en Argentina... hubo un intento de llegar a una solución liberal en las últimas elecciones, pero, digamos, dado lo polarizada que estaba la elección, el candidato José Luis Spert no tuvo... Si bien ganó los dos debates con claridad, no tuvo un buen respaldo en las urnas, pero bueno, eso es cuestión de tiempo.  Lo importante es que se logró poner las ideas en el debate y eso está sentando las bases para que en el año que viene en el año que viene en el año que viene en el año que viene en el año que viene en el año que viene en el año que ",
+            "cosine_dist": 0.37094761118559294,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1819.419,
+            "end_time": 1820.339,
+            "text": "viene en el año ",
+            "cosine_dist": 0.9536286516467473,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1820.379,
+            "end_time": 1821.88,
+            "text": "que viene en el año que viene ",
+            "cosine_dist": 0.9177631573433066,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1824.684,
+            "end_time": 1833.91,
+            "text": "Javier, la globalización como modelo, como concepto, ¿ha estado duramente herida con la pandemia o no? ",
+            "cosine_dist": 0.9855677809529694,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1835.551,
+            "end_time": 1898.549,
+            "text": "Sí, claro.  Obviamente que el modelo de cuarentena impactó en la actitud de los países en mantener abiertas las economías.  El problema es que hay que tener en cuenta que aquellas economías que son más abiertas son nueve veces más ricas, ¿no?  Y me quedó un tema pendiente de antes, porque no es que estoy esquivando la respuesta anterior.  Fijate que después de que Irlanda bajó los impuestos y no le hizo caso al resto de los países europeos, todos empezaron a bajar los impuestos.  El último que lo hizo fue Francia, que tiene esa tradición intervencionista.  Y el único que no bajó los impuestos y que está tratando de subirlo son los idiotas de Podemos en España, o sea, digamos los socialistas que gobiernan España que básicamente son la sucursal española del chavismo y que son los aliados políticos del kirchnerismo en Argentina. ",
+            "cosine_dist": 0.30630735632408923,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1900.23,
+            "end_time": 1911.873,
+            "text": "Javier el Estado parecería que haber reflotado en esta pandemia.  ¿cuál es el peso real que le conceda el Estado ahora?  ¿cuál será en el futuro post pandemia? ",
+            "cosine_dist": 1.0055519872229937,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1913.325,
+            "end_time": 2008.63,
+            "text": "Pero es que yo creo que después de lo que pasó en Europa se dieron cuenta que no va por ahí y ajustaron.  El problema es que... Es más, fíjate, el caso argentino para mí es un caso que en algún sentido me llena de optimismo.  Porque la llegada del gobierno de Alberto Fernández utilizó la pandemia para intentar avanzar brutalmente hacia una solución socialista Y el pueblo le respondió en una masiva manifestación el veinte de junio, reclamando por la libertad y por poder trabajar.  Y después hubo otra en el noviembre de julio, muchísimo más masiva, donde se adelantó el reclamo ante la ley.  Por lo tanto, Argentina, digamos, que está teniendo probablemente el avance socialista más importante en todo el planeta, la crisis monumental a la cual van a exponer a la población.  me da un gran optimismo de que las personas empiecen a entender que el Estado no es la solución, que el Estado es un problema y que básicamente, digamos, el cáncer de la sociedad es la izquierda y que una vez que podamos erradicar de nuestras mentes ese pensamiento mediocre, resentido, envidioso, lleno de odio, vamos a poder salir adelante. ",
+            "cosine_dist": 0.3112524686248075,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2010.852,
+            "end_time": 2025.039,
+            "text": "La empresa y el empleo.  en tiempo de COVID, usted nos ha señalado lo que ha implicado en términos de desempleo.  La empresa como tal, ¿habrá empresas que morirán, otras que nacerán, otras que sobrevivirán?  ¿Cómo se lo puede conseguir? ",
+            "cosine_dist": 0.9493897261931931,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2027.398,
+            "end_time": 2114.656,
+            "text": "Mirá, el tema es el siguiente.  Los distintos países aplicaron políticas distintas.  A ver, el caso más criminal es el de Argentina.  ¿Por qué?  Porque mientras que el gobierno terminaba una cuarentena donde dejaba sin ingresos a las empresas, las obligaba a seguir pagando impuestos porque el dinero de los políticos ladrones no se toca.  es decir, los privilegios de casta para ellos no se tocan, obligaron a mantener la nómina de empleados, obligaron a mantener los salarios, generando un desastre en el capital de trabajo de las empresas, generando una explosión de cheques rechazados que hoy está oculta con financiamiento del Banco Central, y al mismo tiempo también... Lo que nos encontramos es que ya las empresas no solo están quebrando de manera grosera, sino que además está generando pérdidas de empleo fenomenales.  Y además se están comiendo el capital.  Bueno, esto lo que va a hacer es que Argentina sufra una crisis muy profunda y que la recuperación va a ser muchísimo más lenta que la que va a tener el país promedio.  O sea, Argentina va a ser el que más caiga, obviamente junto a Venezuela, Y va a tener la recuperación más lenta de todos. ",
+            "cosine_dist": 0.312452131152294,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2114.676,
+            "end_time": 2122.644,
+            "text": "Se está hablando con insistencia de un nuevo mundo después de la pandemia.  Y yo le lanzo esa pregunta.  ¿Cuánto de nuevo mundo vamos a tener después de la pandemia? ",
+            "cosine_dist": 0.9774444513850041,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2124.526,
+            "end_time": 2264.143,
+            "text": "En general, digamos, suele haber estas intenciones de que hay un nuevo mundo.  Es cierto, algunos sectores que venían avanzando van a avanzar más rápido.  que son los que están vinculados a la tecnología, los que tenían que estar en retroceso, digamos, se va a precisar ese retroceso, pero yo no creo que haya así grandes cambios en el corto plazo, o sea, eso no sucede así, o sea, lo que vos ves es una aceleración de algunos procesos, por ejemplo, el teletrabajo, pero no es que no estaba, estaba, o sea, o lo que tiene que ver con las empresas que hacen entregas de productos y se dedican a logísticas y se coordina desde internet.  Bueno, ok, digamos, vas a tener una precipitación de esas cosas, o sea, a ver, el confinamiento ha llevado a que las personas, por ejemplo, se reunieran a través de Zoom y eso, digamos, ha generado otra forma de comunicación.  Bueno, no son cosas que no estaban, son cosas que venían avanzando y solamente se están precipitando esos tiempos.  Yo no lo veo así como una cosa muy disruptiva.  Lo que pasa es que entiendo que muchos estados quieren impulsar esta idea justamente para promover... la estupidez socialista, porque, bueno, el mejor ejemplo es el filósofo Cissé, ¿no?  Pero que cuando termina proponiendo, digo, sigue con la misma consigna estúpida del mayo del sesenta y ocho, de la imaginación del poder.  Imaginemos, imaginemos, sí, pero imaginemos qué imaginamos.  O sea, ¿me entendés?  O sea, ¿hace cuánto?  Cincuenta y dos años que están diciendo imaginemos.  O sea, y no se les cae una idea... y siempre vuelven a las estupideces convencionales de los marxistas, digamos, teoría que se derrumbó, porque no tiene buen sentido, porque parte de una teoría sin sentido, como la teoría del valor del trabajo. ",
+            "cosine_dist": 0.3273310992241899,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2264.923,
+            "end_time": 2273.626,
+            "text": "El tema de la salud después de esta pandemia, ¿no será que se jerarquiza este tema a partir de la experiencia de la pandemia? ",
+            "cosine_dist": 0.9745145980194001,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2275.266,
+            "end_time": 2498.322,
+            "text": "Mira, yo te lo puedo contar con el caso argentino.  En Argentina, cuando tuvo el mejor sistema de salud, el sistema de salud no fue impulsado por el Estado.  Fue impulsado por los individuos.  O sea, básicamente se conoce esa época como la época del mutualismo a fines del siglo XIX, cuando Argentina tenía además el PIB per cápita más alto del mundo.  Y vos lo que tenías era que, por ejemplo, se agrupaban por colectividades.  De ahí que vos tenés el hospital español, el hospital italiano, el hospital francés, el hospital alemán, ¿sí?  Y por otro lado se agrupaban por tipos de trabajo.  Por eso, digamos, la obra social más importante en ese momento era una obra social que se llamaba La Fraternidad, que tenía que ver con el sector de... de ferroviarios.  Sobre fines del siglo XIX, Argentina recibe una peste, que es el caso de la fiebre amarilla, y mientras que el gobierno de Buenos Aires promovía que la gente se fuera, porque tiró la toalla, el sector privado agarró el guante y salió de esa epidemia en base al sector privado.  De hecho, el setenta por ciento de las camas en Argentina las brinda el sector privado.  Es decir que la realidad es que con todos los recursos que nos saca el Estado en Argentina para supuestamente darnos salud, en realidad es una gran farsa, porque en realidad cuanto peor es el sistema de salud, más tiempo y más profundo es el confinamiento, lo cual muestra que Argentina evidentemente es una gran estafa y que en el pasado el sector privado resolvió ese problema, y es más, fíjate esto, porque el farsante que tiene Argentina como ministro de salud, cuando tuvo un problema de salud, y que creía que eso podía poner en riesgo su vida, fue y se operó en uno de los sanatorios más importantes de Argentina, pero un sanatorio privado.  O la misma vicepresidenta, que es una campeona del buenismo, digamos, se atiende en el sanatorio más caro de Argentina, que es la Clínica Austral.  Entonces, vamos.  Bueno, y como es, Ginés González García lo hizo en el Otamendi Viroli, o sea que es un emblema de la meritocracia.  Es más, el piquetero de Lía, que tanto odia a... como es, al capitalismo y a la meritocracia, contrajo coronavirus y fue y se hizo atender en el Otamendi.  O sea, por lo tanto, yo creo que lo bueno de todo esto es que deja en evidencia cómo los políticos nos engañan y nos estafan, y que nos venden una idea de un seguro que no existe, porque cuando se presenta el evento... no responden como tienen que responder, y cuando responden, responden con mecanismos sustitutos, llámese la cuarentena cavernícola, para escoger las ramas que han sido históricamente los bienes que ha ofrecido el Estado. ",
+            "cosine_dist": 0.31019907457078066,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2499.661,
+            "end_time": 2523.5,
+            "text": "Antes de entrar a las preguntas de la gente, que hay muchas, Javier, le quiero preguntar en este contexto de pandemia, nuevos poderes, ¿qué pasa con Estados Unidos, China?  Esto que parecía ser ya una disputa por la hegemonía, en todo caso de dos países con distintos modelos.  ¿Qué va a pasar pos-pandemia con esta configuración de poderes? ",
+            "cosine_dist": 0.9823235649902294,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2526.881,
+            "end_time": 2653.262,
+            "text": "La verdad que eso es un tema bastante delicado y que no creo que corresponda al ámbito que es mi especialidad.  Lo que yo puedo decir es que si China quiere seguir teniendo un proceso virtuoso de convergencia, tendrá que seguir avanzando en reformas de mercado.  Y si no lo hace, se estancará.  Y si quiere volver al comunismo, volverá a ser pobre y miserable como todos los lugares donde viven el comunismo, ¿no?  O sea, si no, miremos qué exitoso es el modelo cubano, qué exitoso es el modelo de Corea del Norte, qué exitoso es el modelo de Venezuela, ¿no?  Tenemos que tener un millón de dólares por cápita en petróleo cada... en el país.  Hoy tienen faltante de petróleo, tienen... las personas que no se han ido de Venezuela... han perdido diez kilos de peso en promedio, ha caído setenta por ciento del PBI en los últimos seis años, ¿sí?  El salario promedio es de cero centavos de dólar por día, siendo el seis por ciento de pobres y el ochenta por ciento de indigentes.  La gran amarilla del socialismo en el siglo veintiuno.  Es la máquina de generar pobres.  Entonces, la verdad es que aquellos que decidan ir por soluciones de mayores grados de colectivismo, lo único que van a hacer es empobrecerse.  Entonces yo creo que es una excelente oportunidad, dado que está planteado el debate, ir y dar debate contra los colectivistas para demostrarles que en realidad son una máquina de generar pobreza, ya que en todos los lugares, en todo el socialismo, en lo económico, en lo social, en lo cultural, Y además no tenemos que olvidarnos que ese sistema asesino mató a ciento cincuenta millones de seres humanos.  Por lo tanto, el capitalismo no solo es superior en lo productivo, sino que además es superior en lo moral.  Y como si fuera poco, también es superior en lo estético. ",
+            "cosine_dist": 0.32094623675219824,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2654.835,
+            "end_time": 2667.483,
+            "text": "Javier, América Latina y el estado de la libertad, ¿cómo la ve en?  general?  Supongo que hay distintas realidades dentro del propio América Latina, pero el estado de situación de la libertad en América Latina, ¿cuál es su lectura? ",
+            "cosine_dist": 0.9870503488649687,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2668.664,
+            "end_time": 2742.901,
+            "text": "Bueno, digamos, el continente no es justamente una joya en materia de libertades económicas, ¿no?  O sea, claramente los países de América Latina están en muy malos lugares de libertad económica.  El único que detentaba un muy buen lugar en libertad económica era Chile, que estaba muy cerca de convertirse en un país desarrollado, que había bajado la pobreza desde el ochenta por ciento al ocho por ciento.  Es el país con mayores niveles de alfabetización.  los mejores retornos en pruebas PISA, la mayor cantidad de personas que terminan el secundario, movilidad social ascendente, y bueno, y con todos esos logros, el segundo gobierno de Bachelet empezó a hacer reformas socialistas que estancaron la economía y eso permitió el regreso de Piñera a la presidencia, pero que se caracterizó por ser un cobarde y que no avanzó en la reversión de las propuestas y reformas impulsadas por Bachelet y que, bueno, después terminó con un alto grado de tensión social. ",
+            "cosine_dist": 0.3419236562684498,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2743.941,
+            "end_time": 2756.165,
+            "text": "Bueno, Javier, voy a ingresar en un par de minutos más a las preguntas de las personas.  Quiero preguntarle si tiene alguna referencia de lo que está pasando con la gestión de la pandemia y la economía en Bolivia y qué lectura tiene al.  respecto. ",
+            "cosine_dist": 0.970796835033655,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2757.745,
+            "end_time": 2776.792,
+            "text": "No, no, digamos, yo opino de la economía argentina.  O sea, claro, porque mira, si hay algo que me caracteriza en cada debate es que yo, digamos, siempre presento los datos.  Para que te des una idea, en Argentina yo conozco hasta quienes confeccionan los datos. ",
+            "cosine_dist": 0.49350650294264276,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2778.853,
+            "end_time": 2783.855,
+            "text": "Claro, claro que sí.  ¿Y qué piensas de tenerlo a Evo Morales en Argentina? ",
+            "cosine_dist": 0.9509024775146289,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2785.598,
+            "end_time": 2845.835,
+            "text": "Me parece que es vergonzoso y es parte de las atrocidades del gobierno argentino, pero bueno, no me sorprende, porque recientemente el presidente Alberto Fernández tuvo un conference call con Lula, y en ese conference call Alberto Fernández se lamentaba de que no estuviera Chávez, de que no estuviera Michelle Bachelet, que no estuviera Ricardo Lagos, de que no estuviera Evo Morales, que no estuviera Correa, que no estuviera Mujica, que no estuviera Lugo, que no estuviera Tabaré, y que solamente lo tenía Andrés Manuel López Obrador.  Y si vos te pones a pensar, han mencionado un conjunto de personas que han sido parte del Foro de San Pablo.  Y el Foro de San Pablo ya vimos los resultados que causa.  Es Venezuela. ",
+            "cosine_dist": 0.34418847042746126,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2847.156,
+            "end_time": 2853.538,
+            "text": "¿Es Fernández el referente actual de ese Foro de San Pablo y el propio López Obrador o no en este momento? ",
+            "cosine_dist": 0.9857689207884179,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2854.539,
+            "end_time": 2869.124,
+            "text": "Bueno, digamos, él mismo lo señaló.  O sea que evidentemente si él los extraña y que no están y lo lamenta es porque es parte de ese movimiento.  De hecho, muchos de los movimientos que son parte de la alianza que ganó están dentro de lo que fue el Foro de San Pablo. ",
+            "cosine_dist": 0.37449473044195447,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2870.094,
+            "end_time": 2880.177,
+            "text": "Javier, si usted tuviera que recomendar acciones que hay que tomar para recuperar la economía en un país tan golpeado por la pandemia en general, ¿cuáles serían, si las puede resumir? ",
+            "cosine_dist": 0.9792709246984986,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2881.558,
+            "end_time": 2899.064,
+            "text": "Yo lo que recomendaría es lo que siempre recomiendo, correr al estado del medio y avanzar hacia la libertad económica.  ¿Quieren una agenda?  Miren los componentes que determinan el índice de libertad económica, traten de avanzar en eso.  Se van, digamos, claramente se van a enriquecer. ",
+            "cosine_dist": 0.3800214307752183,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2900.367,
+            "end_time": 2912.417,
+            "text": "Muy bien.  Bueno, Javier, voy a comenzar con algunas preguntas que ya tenemos.  Katia Bacadías dice, en el caso de Bolivia, la histórica hiperinflación de los ochenta fue traumática.  ¿Una devaluación de la moneda no se pudiera desencadenar otra? ",
+            "cosine_dist": 0.9527412167284045,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2915.139,
+            "end_time": 3069.559,
+            "text": "A ver, lo que hay que comprender es lo siguiente.  La inflación es siempre y en todo lugar un fenómeno monetario.  Y eso significa que cuando la oferta crece por encima de la demanda de dinero... eso hace que el poder adquisitivo del dinero caiga y que todos los bienes expresados en unidades monetarias suban.  Eso, digamos, básicamente hace que todos los precios suban, el precio del dólar es un precio más.  Por lo tanto, digamos, no es que el dólar determina el nivel de precios, sino que en realidad el dólar sufre una suba en moneda local porque pierde valor la moneda.  Lo que pasa es que como es un activo financiero suele picar primero.  O sea, suele salir disparado primero.  Pero no es que el dólar cause inflación.  O sea, te lo puedo hacer con un ejemplo.  Suponete que vos tenés dos bienes y uno de esos bienes está denominado en monedas extranjeras y vos devaluás.  Entonces el precio, digamos, sube o la oferta se contrae.  Bueno, suponete que la demanda fuera inelástica de modo tal que se va todo a precios.  ¿Sí?  vos no aumentás la cantidad de dinero, el resto de los precios de la economía tienen que caer.  Por lo tanto, no hay inflación.  O sea, si vos no emitís dinero, no hay inflación.  O sea, salvo que caiga la demanda de dinero.  O sea, o que caiga la producción brutalmente.  Pero esos son shocks de once for all, no son shocks permanentes.  La única forma que vos tenés shocks permanentes es que estés subiendo continuamente la cantidad de dinero.  Y entonces... no necesariamente una suba del dólar tiene que implicar inflación.  Hay casos que implica inflación, hay casos que no.  ¿Cuándo no implica inflación?  Cuando el salto del dólar tiene que ver con un cambio en el contexto internacional.  Ejemplo, te sube la tasa de interés en Estados Unidos, como se te van capitales de tu país hacia Estados Unidos, esa devaluación no es una devaluación que genere inflación.  Ahora, si la devaluación está reflejando una caída en la demanda de dinero local, eso sí, digamos, va a saber después inflación.  Pero no es que el causa inflación la suba el dólar, sino que tiene que ver que la inflación es el poder, la pérdida del poder adquisitivo del dinero doméstico. ",
+            "cosine_dist": 0.35655916408956456,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3071.704,
+            "end_time": 3082.81,
+            "text": "Toribio Toro le pregunta dice bueno porque sigue hablando de comunismo si este prácticamente no existe?  dice Bolivia con baja infraestructura sin mar con baja competitividad como podría competir con Argentina y Brasil? ",
+            "cosine_dist": 0.9343551927476401,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3085.251,
+            "end_time": 3167.823,
+            "text": "primero está bueno el punto porque no es cierto que no existe el comunismo en Corea del Norte hay comunismo en Cuba.  hay comunismo por lo tanto Y ha habido comunismo.  Y donde se aplicó fue un desastre.  Si no comparemos la Alemania occidental con la Alemania comunista, comparemos Austria con Hungría, cosas que pasaron.  Tienen que estar presentes.  ¿Por qué tienen que estar presentes?  Porque el que hizo la pregunta es un libro de Hayek que se llama Camino de Servidumbre, donde Hayek comenta cómo los avances del Estado... generan resultados peores a los iniciales, que después demandan mayores intervenciones del Estado, y eso, digamos, en dinámica termina llevando a las sociedades a ese elemento de fama.  O sea, con lo cual, el comunismo, digamos, no solo que existe, porque existe en China, existe en... en Corea del Norte, existe en Cuba, es más, en Japón, en Corea del Norte, hay que tener más cuidado y hay que tener presente siempre la dinámica del cambio de esa actitud.  Esa es la primera parte.  Y repetirme la segunda parte de la pregunta. ",
+            "cosine_dist": 0.3686847660304855,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3179.172,
+            "end_time": 3186.854,
+            "text": "Sí, la segunda decía, Bolivia con baja infraestructura y sin mar, con baja competitividad, ¿cómo podrá competir con Argentina y Brasil? ",
+            "cosine_dist": 0.9190255041352073,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3188.474,
+            "end_time": 3308.874,
+            "text": "Bueno, a ver, ¿qué es competitividad?  La definición es que es competitividad.  Competitividad en el fondo significa que una empresa pueda ganar plata.  Entonces, para ganar plata a una empresa, cuanto más alta es la presión tributaria... y tiene que pasar a los cadenas manillables.  Entonces, en el fondo, la solución para ser más competitivo es correr al Estado del Medio.  Y después no es cierto que la infraestructura la tenga que hacer el sector público.  De hecho, yo, como propuestas de las que hago en Argentina para eliminar la obra pública, propongo utilizar el régimen de iniciativa privada a la chilena.  Y en Chile ha sido verdaderamente exitoso.  O sea, Por ejemplo, las carreteras están hechas por el sector privado.  Y así no podemos contar un montón de negocios que están manejados por el sector privado.  Por lo tanto, ¿por qué, digamos, o sea, la pregunta sería, ¿por qué, si el sector privado no lo quiere hacer, lo va a hacer de modo violento el Estado, cobrándonos impuestos, que es Es decir, ¿por qué creer que el Estado puede hacerlo mejor que nosotros?  Si no puede hacerlo.  Si el sector privado no decidió hacerlo, ¿a título de qué lo va a hacer, digamos, el sector público?  ¿Por qué?  Porque hay alguna cabeza iluminada que cree que sabe más que el resto lo que la población necesita.  Entonces, roba el dinero vía los impuestos y financia su modelo de competitividad, una locura, una locura, una pérdida de bienestar enorme, a eso sí, muy favorable para los políticos, porque se llenan de dinero con eso.  Entonces, la realidad, si uno cree que no lo puede hacer el sector privado, que está ",
+            "cosine_dist": 0.3618885565815966,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3308.894,
+            "end_time": 3310.095,
+            "text": "constituido por individuos ",
+            "cosine_dist": 0.8919328382543172,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3310.115,
+            "end_time": 3312.997,
+            "text": "que tienen el problema ellos mismos, ¿por ",
+            "cosine_dist": 0.6425955415046639,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 3313.037,
+            "end_time": 3314.838,
+            "text": "qué lo va a resolver otro individuo ",
+            "cosine_dist": 0.6964244976318873,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3314.878,
+            "end_time": 3335.708,
+            "text": "que la única diferencia es que tiene el bonete y se trabaja en el Estado y que no tiene la responsabilidad?  Eso es un disparate.  Si uno no va a resolver el individuo su propio problema, lo va a resolver otro que no es el que tiene el problema.  No tiene sentido.  El colectivismo falla porque es inconsistente, es incoherente. ",
+            "cosine_dist": 0.5156141394330014,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3336.088,
+            "end_time": 3339.61,
+            "text": "Eso, digamos, es lo que se llama la fatal arrogancia. ",
+            "cosine_dist": 0.7228328523287324,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3339.99,
+            "end_time": 3358.671,
+            "text": "¿Por qué voy a creer, digamos, que la persona que está en el sector público es un iluminado que sabe mejor que los propios individuos lo que los individuos necesitan?  Y a las pruebas.  me repito, cada vez que se utilizó ese modelo fatalmente arrogante, llamado comunismo, fue un caso. ",
+            "cosine_dist": 0.4463487763633791,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3360.572,
+            "end_time": 3367.154,
+            "text": "Javier, hay alguna iniciativa, le pregunta José Subieta, ¿hay alguna iniciativa a nivel latinoamericano para crear un movimiento libertario? ",
+            "cosine_dist": 1.0120981614322648,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3368.555,
+            "end_time": 3401.447,
+            "text": "Bueno, de hecho, mi tour de la libertad incluye muchos países, así que... Y estamos yendo por varios lugares, varios economistas.  O sea, en mi caso... también tenemos el abogado y filósofo chileno Axel Kaiser, tenemos el caso de Gloria Álvarez, tenemos el caso de Antonella Marti, tenemos varios exponentes que están haciendo esta lucha y que vamos paseando por todos los países de Latinoamérica llevando el mensaje de la libertad. ",
+            "cosine_dist": 0.30610071022467467,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3402.432,
+            "end_time": 3414.674,
+            "text": "Ahí en esa línea también Christian Haurig le dice, ¿cuál crees que es la mejor manera de hacer entender a las masas las virtudes del libertarianismo en países tan profundamente colectivistas como Argentina o Bolivia? ",
+            "cosine_dist": 0.9888024367185918,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3416.434,
+            "end_time": 3459.869,
+            "text": "La batalla cultural.  Enfrentarlos a las contradicciones.  Enfrentarlos a la propia ridiculez del argumento colectivista.  Yo hice un ejemplo recién que queda bien claro que, digamos, para que el Estado pueda resolverlo, digamos, implica asumir que es omnisciente, omnipresente y omnipotente, o sea, Dios.  Es decir, que de repente considera que el individuo es un estúpido cuando está en el sector privado, y sucede que cuando pasa al sector público y está en el Estado, o sea, se convierte en Dios, lo cual es ridículo.  O sea, puedo pasarme horas haciendo ejemplos de la ridiculez que implica cualquier solución colectiva. ",
+            "cosine_dist": 0.3564166207991871,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3461.504,
+            "end_time": 3466.968,
+            "text": "Le pregunta Daniel Santa Cruz, ¿sería beneficioso un hipotético cierre del Banco Central de Bolivia? ",
+            "cosine_dist": 0.9533816745410775,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3468.709,
+            "end_time": 3472.571,
+            "text": "No puedo contestar en el caso de Bolivia, pero en el caso de Argentina, sin lugar a dudas. ",
+            "cosine_dist": 0.4846960889360563,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3472.591,
+            "end_time": 3479.896,
+            "text": "Sí, en el caso de Argentina, sí.  ¿Y es tan distinta la situación boliviana en esta entidad? ",
+            "cosine_dist": 0.8968257561132726,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3480.857,
+            "end_time": 3515.038,
+            "text": "Bueno, Argentina tiene cerca de cincuenta por ciento de inflación y tiene un riesgo latente de hiperinflación y sería la tercera hiperinflación en la historia.  Además, el Banco Central en Argentina es un mecanismo por el cual los políticos roban a los ciudadanos de bien con impuesto inflacionario.  En Argentina se recaudan impuestos de bien con impuesto no legislado, que no solo es ilegal, no solo que es, digamos, inmoral, sino que además castiga con más fuerza a los segmentos más vulnerables de la población. ",
+            "cosine_dist": 0.3767714329333224,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3516.278,
+            "end_time": 3521.14,
+            "text": "Javier, le pregunta Eduardo Lema, ¿qué hay de los rumores de Milei a la presidencia? ",
+            "cosine_dist": 0.9391839208786136,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3524.974,
+            "end_time": 3548.592,
+            "text": "Yo creo que, por el momento, creo que estoy trabajando bastante bien en la batalla cultural.  Creo que aún no es el momento.  Aunque no descarto la posibilidad que si llego a salir airoso y triunfante en la batalla cultural, yo no voy a necesitar ir a buscar la política.  La política me va a venir a buscar a mí. ",
+            "cosine_dist": 0.37268388769523986,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3549.696,
+            "end_time": 3561.824,
+            "text": "Muy bien, Javier.  Mateo Galindo le pregunta, en base a los ejemplos de Chile y Perú, ¿qué podemos hacer en Bolivia en cuanto al manejo de los fondos de pensiones?  ¿Qué están viables en Bolivia y cuáles serían las repercusiones positivas y negativas? ",
+            "cosine_dist": 0.9186326743742794,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3561.844,
+            "end_time": 3642.352,
+            "text": "A ver, siempre es positivo hacer la reforma del sistema previsional.  En Chile ha sido... La reforma en Chile la hizo el hermano de Piñera, José Piñera, que estudió en Chicago, y Friedman decía que era la madre de todas las reformas.  Ahora lo que ustedes encuentran es que en Chile, digamos, los políticos se quieren robar el ahorro de la gente, o sea, con lo cual van a terminar haciendo desastres.  O sea, no... A ver, el punto es el siguiente... Aquel que haya leído alguna vez en su vida el libro El Hombre, la Economía y el Estado, en especial el tomo tres que se llama Poder y Mercado, abrirá los ojos y sabrá que el Estado no es la solución, que el Estado no es el problema, el Estado es una organización criminal peor que la mafia, porque por lo menos la mafia compite, en cambio, digamos, el Estado requiere, digamos, exige monopolios, el monopolio de la fuerza, el monopolio de determinar las reglas, el monopolio de emisión monetaria, el monopolio de cobrar impuestos.  Vamos, y todo lo que toca al Estado funciona mal. ",
+            "cosine_dist": 0.3443527596209819,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3644.874,
+            "end_time": 3654.022,
+            "text": "Javier, ¿hay algún economista boliviano que usted conozca, me dice, José Mercado, y que recomiende? ",
+            "cosine_dist": 0.8743454706870325,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3657.205,
+            "end_time": 3679.644,
+            "text": "Bueno... De vuelta, no soy un especialista en Bolivia.  No me hagan entrar en cuestiones de la cultura de ustedes.  Yo no puedo responder porque les estaría mintiendo. ",
+            "cosine_dist": 0.5113157609764095,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3680.144,
+            "end_time": 3688.95,
+            "text": "Está bien, Javier.  Aquí José Jauser Roca.  ¿Qué opina de las políticas de Uruguay donde no cobran impuestos por cinco años a ciertos inmigrantes y alientan la digitalización? ",
+            "cosine_dist": 0.9507340742321237,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3693.743,
+            "end_time": 3729.998,
+            "text": "Ahí hay una parte buena y una parte mala.  O sea, me parece bien el fomento de ingresos de personas que lleven capitales.  Con la digitalización tengo mis reparos.  Porque mientras que tengas un fisco que respeta las libertades y que está comprometido con un orden liberal, no tenés problema.  Pero en cuanto... Llegó un socialista, te utiliza eso para estafarte y robarte. ",
+            "cosine_dist": 0.3215732260900682,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3730.058,
+            "end_time": 3741.241,
+            "text": "La última que le voy a hacer, Javier, por tema de tiempo.  Walter Lehner, si fuera presidente en el dos mil veintitrés, ¿quién sería su ministro de Economía y presidente del Banco Central de la República Argentina? ",
+            "cosine_dist": 0.9439361652574572,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3742.001,
+            "end_time": 3765.617,
+            "text": "Si yo fuera presidente y... como es, y el Banco Central aún no estuviera cerrado, mi ministro de Economía sería Mariano Fernández y el presidente del Banco Central sería Diego Giacomini. ",
+            "cosine_dist": 0.41584685143997757,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3766.697,
+            "end_time": 3774.12,
+            "text": "Muy bien.  Javier, ¿alguna bibliografía particularmente que pudiera recomendarnos en este momento que esté últimamente leyendo? ",
+            "cosine_dist": 0.9439466392993644,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3774.14,
+            "end_time": 3832.934,
+            "text": "Estoy todo el tiempo leyendo, pero lo que sí... Prefiero recomendarles libros fundamentales como para no ser engañados por los socialistas.  O sea, les recomendaría a nivel básico que lean La economía en una lección de Haslitt, les recomendaría que lean el libro Socialismo y el libro La acción humana de Ludwig von Mises, les recomendaría que lean Camino de servidumbre y la fatal arrogancia de Hayek, les recomendaría que lean lo que fue la tesis doctoral de Jesús Huerta de Soto, que se llama Socialismo, Cálculo Económico y Función Empresarial, recomendaría que lean a Israel Kirchner para entender los problemas distributivos, les recomendaría básicamente que lean a Rothbard en El hombre, la economía y el Estado, como para empezar a divertirse, y eso les puedo asegurar ",
+            "cosine_dist": 0.3552720330396353,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3832.974,
+            "end_time": 3833.954,
+            "text": "que va a cambiar ",
+            "cosine_dist": 1.0174864001317145,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3833.995,
+            "end_time": 3844.882,
+            "text": "la vida de todos, Hay una frase que dice que el día que ustedes abren los ojos, ya nunca más los van a poder cerrar.  Es como tomarse la pastilla roja en la Matrix. ",
+            "cosine_dist": 0.4106262041526232,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3846.363,
+            "end_time": 3860.832,
+            "text": "Bueno, Javier, ha sido un privilegio, un lujo conversar con usted.  Espero tenerlo pronto en Bolivia.  Un poco que la pandemia truncó la posibilidad que usted esté acá, pero esperamos que sea pronto en algún momento, ¿no?  Si usted quisiera expresar algo al.  respecto. ",
+            "cosine_dist": 0.9437488871261883,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3862.091,
+            "end_time": 3878.143,
+            "text": "No tengas dudas que voy a ir porque voy a estar haciendo una gira mundial con Pandemomics.  Así es que, y además, o sea, estoy dispuesto a ir a todos los lugares donde yo crea que la libertad está siendo hackeada por los malditos colectivistas. ",
+            "cosine_dist": 0.3679185543190113,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3879.244,
+            "end_time": 3883.387,
+            "text": "Me pidieron que se despida con el grito de siempre, el viva la libertad. ",
+            "cosine_dist": 0.9669985317833651,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3884.889,
+            "end_time": 3888.99,
+            "text": "¿Lo querés versión completa o solo el remate? ",
+            "cosine_dist": 0.630347667894084,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3889.21,
+            "end_time": 3892.371,
+            "text": "Sin ningún tipo de censura.  Adelante, Javier, para cerrar. ",
+            "cosine_dist": 0.9908620726646283,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3892.431,
+            "end_time": 3893.571,
+            "text": "¿La versión completa? ",
+            "cosine_dist": 0.7992620657890654,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3893.911,
+            "end_time": 3894.991,
+            "text": "Completa, completa. ",
+            "cosine_dist": 0.9430255697458153,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3896.171,
+            "end_time": 3928.952,
+            "text": "Bueno, estimados amigos de Bolivia, muchas gracias por acompañarme en esta entrevista.  Muchísimas gracias para aquellos que ya son parte del Tour de la Libertad.  Muchísimas gracias a todos aquellos invitados que a partir de hoy se suman al Tour de la Libertad.  Por ende, quiero darles las gracias por acompañarme en esta batalla cultural contra los colectivistas hijos de recontrarremil puta que nos cagan la vida.  Y por eso les digo, como siempre, la arenga libertaria. ",
+            "cosine_dist": 0.323929169791489,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3929.372,
+            "end_time": 3942.015,
+            "text": "¡Viva la libertad, carajo!  Gracias, estimado Javier.  Ha sido un gusto, un privilegio.  La verdad que mi admiración.  Ojalá lo tengamos pronto en Bolivia.  Lo voy a ver.  ¿Cuándo dijo?  ¿El catorce de agosto? ",
+            "cosine_dist": 0.9813637452945282,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3943.377,
+            "end_time": 3958.77,
+            "text": "El catorce de agosto.  me pueden seguir por el streaming de Tiquetec, que es www.tiquetec.com.ar.  Es a las veintidós horas de Argentina.  Recuerden que tenemos una hora de diferencia. ",
+            "cosine_dist": 0.38478956358678473,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3959.531,
+            "end_time": 3964.775,
+            "text": "Muchas gracias.  Abrazo grande.  Un gusto haber conversado con usted.  Vamos a seguirlo siempre.  Hasta pronto. ",
+            "cosine_dist": 0.9662990632526284,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3964.795,
+            "end_time": 3968.939,
+            "text": "El agradecido soy yo por tan maravillosa nota.  Muchas gracias. ",
+            "cosine_dist": 0.5511559082855261,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3969.289,
+            "end_time": 3977.653,
+            "text": "Gracias, Javier.  Bueno, así cerramos hoy una entrevista creo que de lujo con Javier Milei.  Continuaremos el próximo domingo con otra.  Gracias por seguirnos. ",
+            "cosine_dist": 0.9552865855369044,
+            "is_target_speaker": false
+        }
+    ]
+}

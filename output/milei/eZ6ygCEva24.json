@@ -1,0 +1,863 @@
+{
+    "Index": 416,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "eZ6ygCEva24",
+    "url": "https://www.youtube.com/watch?v=eZ6ygCEva24",
+    "title": "Javier Milei en A24 25/4/2021",
+    "duration": 1258.0,
+    "view_count": 35031,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1.58,
+            "end_time": 7.972,
+            "text": "Y aquí está, ya lo ven en pantalla.  Yo no sé si el señor Mariano Yese llega a verlo.  Mire, mi ley sale bien, no se preocupe. ",
+            "cosine_dist": 0.9670532284836297,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 8.652,
+            "end_time": 11.374,
+            "text": "No, pero para tener la cámara de frente. ",
+            "cosine_dist": 0.7504134014386725,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 11.494,
+            "end_time": 15.837,
+            "text": "Está impecable, no se preocupe.  El pelado lo va a cuidar, no se preocupe.  Mi ley sale muy bien. ",
+            "cosine_dist": 1.0040211328585815,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 15.857,
+            "end_time": 17.899,
+            "text": "Lo que pasa es que vengo a las corridas. ",
+            "cosine_dist": 0.8587814491592602,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 17.919,
+            "end_time": 20.841,
+            "text": "Lo vimos entrar medio corriendo, justamente. ",
+            "cosine_dist": 0.8631926047874099,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 22.082,
+            "end_time": 24.024,
+            "text": "Estaba un poco complicado el tráfico. ",
+            "cosine_dist": 0.9692805887132051,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 24.044,
+            "end_time": 33.294,
+            "text": "Bueno, porque cerca de las ocho de la noche hay más movimiento.  La gente intenta llegar rápido a casa después de esta restricción.  El señor Mariano Gise también ya nos está escuchando. ",
+            "cosine_dist": 0.9977872968889432,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 33.354,
+            "end_time": 43.444,
+            "text": "Mariano, ¿nos ves?  Sí, ¿cómo está el viento?  Ahí se nota en el peinado.  ¿Lo dice por el pelo?  Si usted sabe que yo no me peino, dale. ",
+            "cosine_dist": 0.7327196318294007,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 44.699,
+            "end_time": 48.5,
+            "text": "No, pero además capaz.  Impresionante.  Pero que vos, porque querés tener el peinado de Miley. ",
+            "cosine_dist": 0.9689818348485695,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 48.54,
+            "end_time": 56.782,
+            "text": "Es todo suyo.  Miley, Miley, a ver, Miley.  Siempre nos sorprende con las declaraciones.  A ver si blanquea.  ¿Es suyo o es una peluca?  eso, Miley? ",
+            "cosine_dist": 0.8840826548601445,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 56.822,
+            "end_time": 60.162,
+            "text": "No, el pelo es mío.  Es más, o sea... ¿Seguro? ",
+            "cosine_dist": 0.6361057569373972,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 60.202,
+            "end_time": 61.083,
+            "text": "¿Se lo pagó? ",
+            "cosine_dist": 1.0667226726793269,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 61.303,
+            "end_time": 72.085,
+            "text": "No, no, no, no.  Es el de fábrica.  Lo que pasa es que, es más, si fuera impostado, me habrían jodido porque me lo dieron medio raleado arriba. ",
+            "cosine_dist": 0.49879951917429854,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 74.696,
+            "end_time": 82.238,
+            "text": "Mire, yo la verdad que sabés que te respeto mucho, hemos hecho notas muy buenas en televisión.  A mí me parece que nos estás mintiendo esta vez. ",
+            "cosine_dist": 0.8861935496363637,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 82858,
+            "end_time": 83238,
+            "text": "No. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 83.258,
+            "end_time": 94.541,
+            "text": "Bueno, digamos, vamos a hacerlo así.  Te apuesto plata.  Yo ya le tengo que llevar un vino.  No, no, no.  ¿Cuánto querés apostar?  Te apuesto acá en cámara. ",
+            "cosine_dist": 0.42588584303901067,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 95.896,
+            "end_time": 97.437,
+            "text": "¿Y cómo podemos chequearlo? ",
+            "cosine_dist": 1.0156233842512918,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 97.457,
+            "end_time": 101.38,
+            "text": "¿Qué momento?  No sé, o sea, ¿qué dices?  Bueno, podés venir a tirarme del pelo, qué sé yo. ",
+            "cosine_dist": 0.9056621057989119,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 101.42,
+            "end_time": 102.961,
+            "text": "Pero bueno, Jesse... ",
+            "cosine_dist": 1.0486349431812725,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 103.021,
+            "end_time": 105.643,
+            "text": "Ahí hay como una cosa... ",
+            "cosine_dist": 0.9467866176029157,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 105.683,
+            "end_time": 112.107,
+            "text": "¿Jesse sabe verificarlo esto?  ¿Por qué tendrías, Jesse, las herramientas para verificar lo que estaba planteando? ",
+            "cosine_dist": 0.9886077453932173,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 112.488,
+            "end_time": 115.53,
+            "text": "¿Algún fertilizante?  ¿Eso es un fertilizante o algo? ",
+            "cosine_dist": 0.9251304550032134,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 115.67,
+            "end_time": 117.211,
+            "text": "Fertilizante. ",
+            "cosine_dist": 0.9189240075826195,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 117.311,
+            "end_time": 118.512,
+            "text": "Eso no es natural, me parece. ",
+            "cosine_dist": 0.9427397683354424,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 118.932,
+            "end_time": 127.019,
+            "text": "Bueno, en fin, después si quieren le paso el número de Mariano Ciesi, si usted le gusta.  Lo tengo, lo tengo.  O si usted le corta el número de Miley y pueden hablar de estas cuestiones. ",
+            "cosine_dist": 0.9064809290676773,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 127.039,
+            "end_time": 129.441,
+            "text": "No, pero lo podemos resolver.  Es una broma, Gabriel Lloro. ",
+            "cosine_dist": 0.7345242721524039,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 129.52,
+            "end_time": 149.159,
+            "text": "No, está claro.  Por favor, por favor.  Javier Miley, llegaba corriendo y yo le explicaba recién que en los últimos cinco o seis días se ve justamente cerca de las ocho de la noche mayor cantidad de gente que trata de volver rápido a casa porque sabemos ya después de la restricción de las ocho no lo puede hacer.  ¿Qué opinión le daría si antes que nada las restricciones del último DNU? ",
+            "cosine_dist": 0.9548095473457172,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 149.98,
+            "end_time": 175.686,
+            "text": "A ver, vos cuando mirás la lógica de una epidemia, es decir, la fuerza de una epidemia se mide en dos canales, si vos querés.  Y tiene que ver, por un lado, vos, una cosa es lo que tiene que ver con la responsabilidad de los individuos.  Ya sea el distanciamiento social, la higiene, el uso de barbijos, los protocolos, eso está en la esfera individual. ",
+            "cosine_dist": 0.36291536956756565,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 175.706,
+            "end_time": 178.268,
+            "text": "Cada uno, claro, de los cuidados de cada uno de nosotros. ",
+            "cosine_dist": 0.9860465482253731,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 178.828,
+            "end_time": 209.714,
+            "text": "Y por otra parte, lo que vos tenés es que si vos tenés estado de bienestar, que además se dedica a tener salud, vos tenés que, a cargo de la salud, digamos el estado debe hacerse cargo de los testeos y de las vacunas.  Cuanto menos testeás y menos vacunás, la contracara es que vos tenés que restringir.  O sea, es la contraparte de testear poco y de vacunar poco. ",
+            "cosine_dist": 0.3114069266435515,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 210.415,
+            "end_time": 217.82,
+            "text": "Ok, vacunar poco, pero usted lo que acaba de decir es que... Perdón, Marian, usted lo que acaba de decir es que el Estado sí debería proveer las vacunas. ",
+            "cosine_dist": 0.9781901156433311,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 217.84,
+            "end_time": 226.116,
+            "text": "Yo lo que estoy diciendo es que si hay estado de bienestar... que se encarga de la salud, que no quiere decir que sea... ",
+            "cosine_dist": 0.3346414394905083,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 226.156,
+            "end_time": 228.779,
+            "text": "Las vacunas para la gente deberían llegar de forma gratuita. ",
+            "cosine_dist": 0.9235844088322176,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 229.099,
+            "end_time": 230.44,
+            "text": "Bueno, porque básicamente... ",
+            "cosine_dist": 0.5129742682434695,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 230.46,
+            "end_time": 232.262,
+            "text": "No, llama la atención que le diga a alguien. ",
+            "cosine_dist": 0.9280346523032595,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 232.282,
+            "end_time": 251.397,
+            "text": "No, no, no, pero fíjate la aclaración.  Si hay estado de bienestar y que se encarga de la salud.  No es un tema menor, estoy definiendo el marco sobre el que estoy afirmando.  Es decir, si vos pagaste un seguro, vos pagaste un seguro, se te está incendiando la casa, ¿vos qué pretendés que haga el seguro? ",
+            "cosine_dist": 0.33351783874702245,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 251938,
+            "end_time": 252398,
+            "text": "Que me pague. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 252.698,
+            "end_time": 267.529,
+            "text": "Bueno, digamos, entonces, si vos tenés Estado que se dedica a la salud, entonces, como vos estás pagando en tus impuestos ese seguro, digamos, vos... debes exigir como contraprestación que te cubran, digamos, o sea, lo que vos pagaste frente al siniestro. ",
+            "cosine_dist": 0.418403722184424,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 267.549,
+            "end_time": 286.062,
+            "text": "No, a ver, se lo pregunto porque mucho se habló de... Había gente que proponía que las vacunas empiecen de alguna forma a privatizarse.  ¿Qué quiere decir esto?  Que aquellos que tenían la posibilidad de pagar, por ejemplo, diez, doce, quince, veinte, veinticinco dólares, paguen las vacunas y que con ese dinero el Estado comprará más vacunas. ",
+            "cosine_dist": 0.9270291714257303,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 286.682,
+            "end_time": 318.205,
+            "text": "No sería el único caso.  Digamos, a ver, si vos te fijás, hay salud pública y, sin embargo, digamos, el cuarenta por ciento de la población tiene una prepaga.  Vos tenés educación pública y hay mucha gente que va a educación privada.  Por lo tanto, o sea, digamos, nunca debería haber sido denegado esa posibilidad de que vos accedas de modo privado.  Es decir, ¿por qué?  Porque además hubieras colaborado con el Estado a que A aquellos sectores donde no tiene la alternativa, vos podrías haber sido más eficiente en llegarle a esa gente. ",
+            "cosine_dist": 0.3206573316902642,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 318.445,
+            "end_time": 344.624,
+            "text": "Javier, en ese aspecto, yo la verdad que me surge una duda, que vos sabés bien que hay una restricción para la producción de las vacunas.  No se me ocurre cómo harías para, habilitando eso, que no te aumente por un lado el precio de las vacunas y que finalmente... haya un sector privilegiado, que es el que puede pagar, que acceda, con lo cual le quitarías bastante posibilidad de darle democracia, si se quiere, a la distribución de la vacuna. ",
+            "cosine_dist": 0.7485942876426885,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 345.225,
+            "end_time": 377.501,
+            "text": "A ver, eso, digamos, es no entender cómo funciona el mercado, Hernán.  Cuando justamente, ¿sabes lo que hace el sistema de precios?  Si vos dejas que los precios fluyan, lo que va a suceder es que justamente, digamos, la producción aumente.  Es decir, en cambio, cuando vos restringís... El mundo la necesita.  A ver, a ver, a ver, a ver.  Hernán, dejame terminar, porque tu problema es que no entendés cómo funciona el sistema de precios.  Pero sin ánimo de ofender.  Pero dejame que explique. ",
+            "cosine_dist": 0.5010337942145849,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 377.521,
+            "end_time": 378.742,
+            "text": "Con respeto, te pido con respeto. ",
+            "cosine_dist": 0.8906784238047101,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 378.942,
+            "end_time": 382.224,
+            "text": "No, no, hay respeto.  No tengo otra mirada, no te acuso a vos de que no sabes. ",
+            "cosine_dist": 0.7377651220966921,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 382.404,
+            "end_time": 386.446,
+            "text": "No, bueno, está bien, vos tenés tu opinada, pero no es la que funciona. ",
+            "cosine_dist": 0.6879520101920769,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 386.486,
+            "end_time": 395.19,
+            "text": "Yo te digo... ¿Me podés dejar terminar?  Porque si no, digamos... O sea, a ver, yo vine en calidad de invitado, vos estás en calidad de preguntar.  ¿Sí?  Entonces, digamos, si querés... ",
+            "cosine_dist": 0.6069219105699928,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 395631,
+            "end_time": 395791,
+            "text": "Dale. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 396.531,
+            "end_time": 456.326,
+            "text": "Te contesto y después me repreguntás.  Hacé lo que quieras.  Entonces, si vos liberás el mercado y dejas que los precios se expresen, lo que va a aparecer es la producción.  Entonces, la verdad, digamos, o sea, ese comportamiento envidioso, digamos, de que quién va a ser el que, digamos, el que entra o no, el que la consigue o no, es un elemento de segundo orden.  De última, después, o sea, porque yo no te estoy diciendo que el Estado, digamos, deje desvalido a aquellos que no pueden comprarla.  Bueno, tendrás que pagar el subsidio y listo.  O sea, con lo cual, digamos, o sea, eso es solamente... Esto es como el chiste, ¿viste?  Está José y Juan.  Y Juan tiene una oveja y le encanta su oveja y está fascinado con la oveja.  Viene, digamos, o sea, aparece un genio y le dice a José, ¿qué deseo querés?  Que se muera la oveja de Juan.  Bueno, es lo que está proponiendo Hernán.  Es decir, entonces, deja que la gente compre todo lo que quiera, ¿sí?  Y que el Estado también compre lo que quiera y, digamos, o sea, y pagará una diferencia de subsidio, pero vos vas a tener más gente vacunada. ",
+            "cosine_dist": 0.4943178868813667,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 457.006,
+            "end_time": 481.289,
+            "text": "Pero, Javier, a ver, de nuevo, yo comparto siempre y cuando, igual tengo algunos matices, pero siempre y cuando vos puedas incrementar la producción.  ¿Qué es lo que no está sucediendo?  Porque, de hecho, vos tenés un problema hoy de oferta y no de demanda.  Al contrario.  Con lo cual, vos sos economista, sabés cómo funciona esto, es bastante básico.  Por eso me llama la atención... ",
+            "cosine_dist": 0.7028175640862176,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 481.309,
+            "end_time": 509.95,
+            "text": "No, no, es que justamente porque es básico, justamente porque es básico, si vos tenés un problema de oferta, ¿sí?  Entonces, dejá que los precios funcionen libremente y lo que hace el sistema de precios es atraer los recursos.  Es decir, en cambio, si vos bloqueás la señal de precios, lo que haces es evitar que el sistema ajuste.  Entonces, o sea, ¿cómo vas a...?  Opere sus fuerzas y después lo criticás.  Es una contradicción en sus términos. ",
+            "cosine_dist": 0.49092216253110543,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 510.41,
+            "end_time": 519.719,
+            "text": "Pero la verdad que la inversión hacia la cuestión de la producción de la vacuna no podés decir vos que no se está orientando justamente a eso.  Tampoco es un problema... ",
+            "cosine_dist": 0.7567381749905961,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 519.739,
+            "end_time": 564.408,
+            "text": "Si vos dejaras que el mercado... fuera libremente, seguramente habría muchísimos más recursos ahí.  Es decir, lo que pasa es que, claro, cuando vos metés al Estado a intervenir, como implica violentar los derechos de propiedad, invierte menos gente, se produce menos y obviamente se genera la escasez.  Y si vos además lo querés regular, la escasez va a ser más grande.  Entonces, dejá que el mercado se exprese y eso, digamos, va a hacer que funcione todo mejor.  Pero como tenemos gente que lo único que hace, como no entiende cómo funciona el mercado, porque no entiende lo que es el mercado, porque el mercado es un proceso de cooperación social donde se intercambian derechos de propiedad.  Y cuando vos ponés al Estado a intervenir, eso lo único que generás es daño.  Y, consecuentemente, ¿qué es lo que pasa?  Funciona peor. ",
+            "cosine_dist": 0.48728104894762503,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 565.609,
+            "end_time": 578.603,
+            "text": "Son como muy técnicos los dos.  ¿Usted cree que los precios de la vacuna, la producción concretamente, que es, imagina lo que iba Hernán, corregime Hernán, por supuesto, tiene que ver por la intervención de los diferentes estados en el mundo que no se producen las vacunas? ",
+            "cosine_dist": 0.9776382925092301,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 578.683,
+            "end_time": 586.029,
+            "text": "Obviamente, si no estuvieran los estados en el medio estorbando habría muchísima más producción. ",
+            "cosine_dist": 0.4660309654332234,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 586.069,
+            "end_time": 596.073,
+            "text": "Yo no entiendo mucho de economía, señores, pero hasta donde yo entiendo, perdón, Hernán, los estados lo que le están pidiendo a quienes están produciendo las vacunas es, necesito más. ",
+            "cosine_dist": 0.9428707605918435,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 596.713,
+            "end_time": 660.743,
+            "text": "Bueno, vos querés eso, querés eso, querés eso, querés eso, pero, ok, vos querés que eso pase, dejá que los precios sean libres.  Vamos a terminar pagando una?  Bueno, entonces, o sea, digamos, si no te gusta pagar los precios, entonces no te quejes porque hay menos cantidad de las que deberían haber.  Es decir, esto funciona así de fácil.  Si vos agarrás y te pones a intervenir, regulás y todas esas cosas, como estás violentando los derechos de propiedad, como no te podés apropiar de las ganancias y te las están regulando, ¿cuál es la consecuencia?  Producís menos.  Entonces, al haber menos y haber demandas, lo que va a generar es que los precios sean más altos.  Mira qué fácil, digamos, o sea, pero en tanto y en cuanto... no entendamos que esto se trata de un proceso de cooperación social donde se intercambia derecho de propiedad, entonces no entendemos lo que pasa y, constantemente, funciona mal.  Pero no es porque funciona mal el mercado.  Porque acá el problema central siempre es, ¿sabes cuál es el problema central?  Que hay gente que no cree en la libertad.  Y hay otros que sí creemos en los individuos, creemos en la libertad. ",
+            "cosine_dist": 0.4487942941648916,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 661.163,
+            "end_time": 666.345,
+            "text": "Pero, Javier, Pfizer tiene un montón de compromisos y no puede cumplirlos. ",
+            "cosine_dist": 0.8276125844918119,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 667.545,
+            "end_time": 669.907,
+            "text": "El problema de Pfizer no es un problema de rentabilidad. ",
+            "cosine_dist": 0.7822523096323095,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 669.927,
+            "end_time": 670.747,
+            "text": "A ver, de vuelta. ",
+            "cosine_dist": 0.8171615359009532,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 670.907,
+            "end_time": 684.896,
+            "text": "Pfizer puede tener todos los problemas que quieras, pero si el mercado estuviera más desregulado, fluiría mucho mejor.  Entonces, vos no podés hacer una medición de cómo está respondiendo si en el fondo no lo dejan actuar libremente. ",
+            "cosine_dist": 0.5413822766833796,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 684.916,
+            "end_time": 687.717,
+            "text": "No se me enoje que se me empieza a poner colorado.  Señor, ya se lo escuchamos. ",
+            "cosine_dist": 1.0176704248240858,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 691.716,
+            "end_time": 722.816,
+            "text": "A ver, no, yo quería preguntarle a Javier, aprovechando que es economista como Hernán también.  Javier, vamos para adelante.  ¿Qué te parece que debería hacer el gobierno, más allá del tema de las vacunas, para tratar de contener la economía en medio de una semana donde pueden venir más restricciones?  ¿Qué puede hacer el gobierno?  Porque tenés una inflación alta... Tenés sectores que no están trabajando o que están trabajando a medias y tenés otros que a lo mejor tienen que cerrar.  ¿Qué harías vos si fueses ministro de Economía? ",
+            "cosine_dist": 0.8433483334543708,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 723.912,
+            "end_time": 752.471,
+            "text": "Tío, primero, o sea, yo no tengo el mandato popular para decir ese tipo de cosas.  Ahora, si vos querés ver los modelos que fueron más exitosos, hoy de hecho, aquel modelo que en algún momento yo postulé como el que había que seguir, recordemos, fue en la mesa de Andino, vos estabas presente, me sostuve que el modelo era el modelo de Israel.  Hoy, digamos, Israel ya abrió.  Entonces, lo que uno tendría que hacer es copiar los modelos exitosos.  No requiere muchísimo más. ",
+            "cosine_dist": 0.3354782284310869,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 752.832,
+            "end_time": 766.003,
+            "text": "Está difícil copiar.  Me sorprende que mi ley diga algo parecido a lo que dicen los funcionarios en el gobierno nacional, en el de la ciudad, en el de la provincia.  Porque la realidad es que muchas veces los funcionarios... En Europa pasaba esto.  En Europa pueden hacer... ",
+            "cosine_dist": 0.9012418361332016,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 769.045,
+            "end_time": 778.772,
+            "text": "No sé si nos podemos comparar.  Bueno, no.  Vos deberías tratar de copiar los modelos exitosos.  El año pasado nosotros tuvimos una atipicidad.  Son nueve millones de personas. ",
+            "cosine_dist": 0.35212227965227794,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 779.032,
+            "end_time": 780.193,
+            "text": "Nosotros somos cuarenta y cuatro. ",
+            "cosine_dist": 1.006204406450491,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 780.273,
+            "end_time": 781.393,
+            "text": "Son nueve millones de personas. ",
+            "cosine_dist": 1.0013572828352575,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 781.413,
+            "end_time": 784.455,
+            "text": "Ya de por sí el gasto en las vacunas va a ser menor. ",
+            "cosine_dist": 0.8314754143667276,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 786.097,
+            "end_time": 797.09,
+            "text": "Pero podés reasignar los recursos también, o sea, o digamos, la asignación de recursos tiene que ser fija, o solamente tiene que ser fija para seguir sosteniendo, digamos, los privilegios de la corporación política. ",
+            "cosine_dist": 0.3954758619105536,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 797.17,
+            "end_time": 798.011,
+            "text": "No, de hecho, bueno, a ver... ",
+            "cosine_dist": 1.0833070769285376,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 798.032,
+            "end_time": 800.795,
+            "text": "Bueno, bueno, está bien, entonces vos podés reasignar recursos. ",
+            "cosine_dist": 0.5957313962730372,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 800.895,
+            "end_time": 807.73,
+            "text": "Para el año del mil veintidós.  No sé si escucharon, Israel tiene vacuna firmada con Pfizer para el año dos mil veintidós. ",
+            "cosine_dist": 0.9286089578121428,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 808.571,
+            "end_time": 811.053,
+            "text": "Bueno, digamos, quiere decir que las cosas las hacen mejor que nosotros. ",
+            "cosine_dist": 0.4510111270176883,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 811.073,
+            "end_time": 813.215,
+            "text": "Pero no se tenga punto de comparación con nuestro país. ",
+            "cosine_dist": 0.9233757694927258,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 813.235,
+            "end_time": 840.463,
+            "text": "No, bueno, digamos, claro, bueno, siempre, nunca se puede comparar.  O sea, siempre tenemos que comparar contra los peores.  ¿Por qué siempre tenemos que aspirar a ser los peores?  Digo, bueno, podés copiar el modelo.  Esta era la misma receta, digamos, que vos tenías que aplicar el año pasado.  O sea, el año pasado era testeo masivo.  Por ejemplo... Inglaterra, Inglaterra testea dos millones de personas por día, a lo largo de un mes testea casi a toda la población de su... Nosotros tenemos hoy cuarenta y tres mil quinientos... No, no, por día. ",
+            "cosine_dist": 0.4066293158490959,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 841.344,
+            "end_time": 843.166,
+            "text": "Hoy tenemos cuarenta y tres mil quinientos... ",
+            "cosine_dist": 0.8801038235948355,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 843.227,
+            "end_time": 875.283,
+            "text": "Bueno, mira, digamos, o sea, mira la diferencia que hay.  Entonces, ¿así nos va?  vos necesitás testeos masivos, necesitás testeos masivos, no testeas masivamente, no tenés vacunación masiva.  Bueno, entonces, ¿cuál es la contracara de eso?  La contracara de eso es que necesitas, para evitar que haya un desastre, claramente restricciones más fuertes, y esas restricciones más fuertes te van a impactar sobre el nivel de actividad, digo, eso es inexorable.  Entonces, digo, la única forma que vos podés evitar eso es testeando más, vacunando más, pero bueno, este gobierno no lo hace. ",
+            "cosine_dist": 0.37057459636719814,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 875.683,
+            "end_time": 884.846,
+            "text": "Pero entonces, siguiendo lo que te preguntaba María, ¿no?  ¿Vos creés que para evitar el cierre en la economía hay que testear más a la gente? ",
+            "cosine_dist": 0.8957325514301228,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 884.906,
+            "end_time": 897.909,
+            "text": "Hay que testear más y hay que vacunar más.  Las vacunas ya lo discutimos antes, está difícil.  Buscá la forma, digamos, o sea, de algún mecanismo de mercado que te permita tenerlas. ",
+            "cosine_dist": 0.4203710397770307,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 899.489,
+            "end_time": 904.931,
+            "text": "¿Y qué crees que hace mal hoy por hoy el gobierno a nivel económico, a nivel nacional?  No estoy hablando... ",
+            "cosine_dist": 0.9525696775784411,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 905179,
+            "end_time": 905261,
+            "text": "Todo. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 906.749,
+            "end_time": 909.391,
+            "text": "Decime con esto, entre la salud y tener que... ",
+            "cosine_dist": 0.9890365503775753,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 909.551,
+            "end_time": 967.881,
+            "text": "Bueno, el año pasado nos dijo que, o sea, había que elegir entre salud y economía, digamos, o sea, un dilema cuasi cavernícola, porque en el límite, digamos, yo agarro, te encierro, digamos, o sea, le hago caso, digamos, a toda la infectadura, te encierro, ¿sí?  Y quedan todos encerrados.  ¿Vos sabés que el tipo que estaba en las cavernas tenía un problema?  Porque cuando salía había bichos complicados que se lo podían comer.  Pero ¿sabés qué?  En algún momento tenía que tomar el riesgo.  ¿Por qué?  Porque si no era la muerte segura.  Bueno, esto es igual.  O sea, digamos, si vos vas a estar destrozando la economía, sistemáticamente, digamos, vas a tener una muerte segura.  O sea, eso pasó el año pasado.  El año pasado, digamos, a ver, Argentina, digamos, fue la economía que más cayó del G-X, cayó el triple que el resto de la economía.  Sí, entonces, digamos, o sea, la tasa de desempleo bien medida, y esto no estoy diciendo que el INDEC la mintió, estoy diciendo otra cosa, bien medida.  corrigiendo el efecto de saliento, digamos, llegó a tocar el veintinueve por ciento, digamos, tenemos diez coma cinco por ciento de pobres, de indigentes. ",
+            "cosine_dist": 0.2919140444137752,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 968.121,
+            "end_time": 970.703,
+            "text": "Para vos el gobierno nacional no hace nada bien. ",
+            "cosine_dist": 0.8772860732328862,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 971043,
+            "end_time": 971163,
+            "text": "No. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 971563,
+            "end_time": 971823,
+            "text": "Nada. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 972104,
+            "end_time": 972204,
+            "text": "No. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 972.584,
+            "end_time": 974.405,
+            "text": "Ni una cosa crees que puede salvar. ",
+            "cosine_dist": 0.9658354777138375,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 974.425,
+            "end_time": 985.391,
+            "text": "Nada de lo que, en general, digamos, o sea, nada de lo que haga el Estado está bien, es decir, y cuanto más intervencionista, peor, más el daño que hace. ",
+            "cosine_dist": 0.3458390791366569,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 986.428,
+            "end_time": 1006.976,
+            "text": "Está bien, tenemos ahora una información urgente, Javier.  Seguimos, si te parece, Javier.  Te decía, bueno, para vos el gobierno nacional no hace nada bien a nivel económico.  Hernán, no sé si tenés alguna pregunta para Javier, pero yo me quedo con la idea de que, yo no sé si es, en este país podemos seguir modelos de primer mundo, ¿no?  De países desarrollados. ",
+            "cosine_dist": 0.9009096438190742,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1007.396,
+            "end_time": 1023.318,
+            "text": "Bueno, sigamos haciendo lo que estamos, que digamos así, en cincuenta años vamos a ser la villa de miseria más grande del mundo.  O sea, sigamos reintentando con este modelo salvaje que traemos hace cien años y cada vez estaremos peor. ",
+            "cosine_dist": 0.42818645527516974,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1024.718,
+            "end_time": 1057.859,
+            "text": "Yo, una pregunta, Javier, veía, repasaba una crítica muy dura que le haces al ministro Guzmán y entre otras cosas planteás eliminar el déficit.  En términos de déficit, ¿de qué habría que recortar?  A ver, repaso a grandes rasgos, el presupuesto básicamente tiene un sesgo muy importante en gastos de salud, en lo que tiene que ver con jubilaciones y te agregaría los subsidios a tarifas y demás.  Entre otras cosas se está discutiendo la cuestión de las tarifas.  Bueno, ¿en qué recortarías vos? ",
+            "cosine_dist": 0.759315622249291,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1057.879,
+            "end_time": 1113.756,
+            "text": "Yo lo primero que haría es eliminar de cuajo la obra pública, yendo a un sistema de iniciativa privada a la chilena.  Eliminaría de cuajo las transferencias discrecionales, nación, provincias, provincias, municipios.  Y eliminaría también de cuajo lo que tiene que ver con los subsidios económicos.  Pero, a diferencia de lo que hizo la bestia de Aranguren... que agarró y quiso meter todo el ajuste en los precios.  Para mí lo que hay que trabajar es sobre el total de la ecuación económica financiera del contrato y no en un solo periodo, sino en un intervalo largo de tiempo para que vos puedas recomponer la ecuación.  Porque si vos solamente tocas los precios, que fue lo que hizo Aranguren, y no tocas el resto de la ecuación, ¿qué es lo que sucede?  Vos no recompones el equilibrio económico financiero y no hay inversión.  Es lo que pasó durante el macrismo. ",
+            "cosine_dist": 0.3272247356161375,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1114.396,
+            "end_time": 1118.24,
+            "text": "El año pasado se mantuvieron congeladas las tarifas.  ¿Vos las hubieses dejado congeladas? ",
+            "cosine_dist": 0.9230742403995073,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1118861,
+            "end_time": 1118981,
+            "text": "No. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1120.483,
+            "end_time": 1123.085,
+            "text": "¿En un año de pandemia en donde la gente no podía salir a trabajar? ",
+            "cosine_dist": 0.9835322303431736,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1123.286,
+            "end_time": 1129.801,
+            "text": "No.  digamos, hubiera hecho lo que hay que hacer.  Es decir, Argentina fracasó con ese modelo.  De hecho, si vos querés... ",
+            "cosine_dist": 0.5079864239606373,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1129.881,
+            "end_time": 1130.942,
+            "text": "¿Qué es lo que hay que hacer? ",
+            "cosine_dist": 1.1108789403237709,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1130.962,
+            "end_time": 1153.076,
+            "text": "No, no, a ver, te acabo de dar un ajuste que son diez puntos del PBI.  No es que no te acabo de dar un ajuste.  Es más, ¿sabés lo que habría que hacer también?  Que dejen de robar.  ¿Sabés cuánto es eso?  Eso está en un estudio del BID.  Son cinco puntos del PBI, dale.  O sea, entonces la pregunta es, ok, ¿a vos te parece duro el ajuste?  A mí me parece más duro, ¿sabés qué?  Que los políticos no dejen de robar. ",
+            "cosine_dist": 0.48600403106178425,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1154.411,
+            "end_time": 1160.838,
+            "text": "Dale.  Vamos.  Seguimos.  A mí me deja pensar... ",
+            "cosine_dist": 1.039514302350304,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1160.858,
+            "end_time": 1182.554,
+            "text": "Digo, no es un estudio mío, no lo hice yo ese estudio.  Te llama filtraciones el concepto.  Y después tenés otro montón de cosas.  Mendenesa Argentina, la corporación política le roba a los argentinos año a año con un impuesto no legislado que se llama inflación, que es el impuesto inflacionario, y te afanan cinco puntos del PBI ahí. ",
+            "cosine_dist": 0.4117723548973474,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1183.435,
+            "end_time": 1198.513,
+            "text": "Hay otro informe del Banco Mundial que habla de al menos cinco puntos de ilusión.  no, ilusiones, para el que no sabe, las formas, no, para vos no, pero para las formas de no pagar en un puesto, supuestamente, digamos, dentro del margen de la Liga. ",
+            "cosine_dist": 0.682109302951059,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1198.553,
+            "end_time": 1223.579,
+            "text": "Bueno, también con la presión fiscal que hay, digamos, o sea, gracias que evaden, porque si no sería, sería todavía... No, lo interesante sería plantear verdaderamente que los impuestos son un robo, que hay que ir contra el Estado y que de esa manera podemos ser más ricos, porque menos impuestos, además, es más libertad.  Porque en el fondo, ¿sabes qué?  ¿Te gusta la esclavitud?  Porque mirá que la esclavitud es cien por ciento de impuestos.  O sea, los impuestos son una rémora de la esclavitud. ",
+            "cosine_dist": 0.41996811778707344,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1223.899,
+            "end_time": 1225.299,
+            "text": "Se enoje, no se enoje, Javier. ",
+            "cosine_dist": 0.9156522469756936,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1225.339,
+            "end_time": 1233.622,
+            "text": "No, no me enojo.  O sea, lo que digo es, aquellos que abogan por más impuestos, lo que están pidiendo es menos libertad. ",
+            "cosine_dist": 0.6730161843226187,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1234.062,
+            "end_time": 1255.918,
+            "text": "Le pido mil perdones.  No, por favor.  A la mierda, los malditos empresarios.  A la mierda, Sodomitas, el capital.  Basta de basura, Keynesiana.  Ha llegado el momento liberal.  ¡Suscríbete al canal! ",
+            "cosine_dist": 0.9277923892196831,
+            "is_target_speaker": false
+        }
+    ]
+}

@@ -222,6 +222,83 @@ def main():
 
 ```
 
+**`create-multiturn-conv-dataset.ipynb`**
+
+Ya hicimos las transcripciones, ya detectamos los speakers (y le pusimos "Speaker 0" o "Speaker 1", etc.), y ya mergeamos también muchos de los segmentos (cortos) para hacer oraciones mas largas asignadas a cada speaker. Lo último lo hacemos porque, especialmente en entrevistas, se puede dar que alguién hable por encima de otro y esto hace que la diarization salga mal, también jode muchisimo el tema de calcular los embeddings y después verificar si es o no el target speaker. [Ver ejemplo de los Simpsons](https://www.youtube.com/watch?v=_JgmDgztqhg&ab_channel=JackER). Con lo que nos encontramos al final de todo es que quizás en una misma entrevista tenemos 5 speakers distintos (le hardcodee `max_num_speakers=5` en una parte) y quizás la misma persona va cambiando de Speaker ID. Para arreglar esto es que hago lo de los embeddings sobre cada segmento de audio donde se detecto un speaker versus un audio de referencia (lo encuentran en `./data/reference_audio/{target_speaker}_audio.wav`). Esto igual no anda muy bien para segmentos cortos (menos de ~5 segundos). Por eso lo que terminé haciendo es calcular la mediana y el promedio de la distancia de coseno (`cosine_dist`) y cuantas veces apareció (`num_ocurrences`) para cada speaker.
+
+Por ejemplo, si corres esta función
+```python
+def calculate_speaker_stats(data, filter_length=50):
+    speakers_cosine_dist = {}
+    segments = data if isinstance(data, list) else data.get('segments', [])
+
+    for segment in segments:
+        if 'speaker' not in segment:
+            continue
+        
+        speaker = segment['speaker']
+        text_length = len(segment['text'])
+        cosine_dist = segment['cosine_dist']
+        
+        if text_length > filter_length:
+            if speaker not in speakers_cosine_dist:
+                speakers_cosine_dist[speaker] = []
+            speakers_cosine_dist[speaker].append(cosine_dist)
+
+    speaker_stats = {}
+    for speaker, cosine_dists in speakers_cosine_dist.items():
+        median_cosine_dist = np.median(cosine_dists)
+        average_cosine_dist = np.mean(cosine_dists)
+        occurrences = len(cosine_dists)
+        speaker_stats[speaker] = {
+            'median_cosine_dist': median_cosine_dist,
+            'average_cosine_dist': average_cosine_dist,
+            'occurrences': occurrences
+        }
+    
+    return speaker_stats
+```
+
+Lo que te da es esto, donde se ve claramente que "Speaker 0" es nuestro `{target_speaker}`.
+```
+{'Speaker 4': {'median_cosine_dist': 0.8512727040005762,
+  'average_cosine_dist': 0.8256600425759245,
+  'occurrences': 6},
+ 'Speaker 1': {'median_cosine_dist': 0.7133732929455995,
+  'average_cosine_dist': 0.7323134669991489,
+  'occurrences': 38},
+ 'Speaker 0': {'median_cosine_dist': 0.4919720382693402,
+  'average_cosine_dist': 0.5008547772762606,
+  'occurrences': 35},
+ 'Speaker 2': {'median_cosine_dist': 1.0013322822014143,
+  'average_cosine_dist': 0.9767822612662288,
+  'occurrences': 3},
+ 'Speaker 3': {'median_cosine_dist': 0.954972954025414,
+  'average_cosine_dist': 0.954972954025414,
+  'occurrences': 1}}
+```
+
+Después hago unas validaciones para tener siempre al menos 2 speakers, y que la cantidad de ocurrencias sea mayor a 30, esto es para evitar un discurso/monólogo. Acuérdense que lo que queremos hacer es tener una multi-turn conversation, ida y vuelta, los discursos los podemos tomar para hacer conversaciones sintéticas pero por ahora no lo necesitamos. Aproximadamente esto nos deja un ~80% del dataset original. Seguimos procesando todo y nos queda un pandas dataframe con una fila por cada entrevista con una columna que se llama `messages` que se ve así. Recuerden que en este caso `user` seria la persona que hace las preguntas (o nosotros cuando lo usemos) y `assistant` es la AI que vamos a entrenar (o nuestro `{target_speaker}` que estamos personificando).
+
+```
+[{'role': 'user',
+  'content': ' ¿Usted se cree responsable de esta corrida cambiaria, Javier?'},
+ {'role': 'assistant',
+  'content': '¿Cómo que porque estoy en política tengo que decir otras cosas?  Yo lo que le voy a decir es la verdad a la gente.'},
+ {'role': 'user',
+  'content': 'Si tiene la plata en pesos en un plazo fisco, sáquelo.  Y que eso provocó una corrida.  El ministro Massa sugirió que todos los candidatos a presidente deberían hacerse un examen psicofísico.  No, psicotécnico.'},
+ {'role': 'assistant', 'content': 'Me parece que era psicotécnico.'},
+ {'role': 'user', 'content': 'Bueno, psicotécnico.'},
+ {'role': 'assistant',
+  'content': 'Bueno, el veintidós de octubre vemos.  A ver si estoy loco o soy un genio.  Bueno, Carla Ricciotti, estoy urgente con vos en el móvil.'},
+ {'role': 'user',
+  'content': 'Eduardo, bueno, estamos con Javier Milei, acaba de terminar esta conferencia después de que Alberto Fernández lo denunciara.  ¿Usted se cree responsable de esta corrida cambiaria, Javier?'},
+ {'role': 'assistant',
+  'content': 'No, para nada.  Porque en realidad cuando se producen este tipo de cuestiones es porque los fundamentos de la economía están verdaderamente podridos.  Es más, yo haría la pregunta.  Yo tengo la culpa de la emisión de veinte puntos del PBI a lo largo de los tres primeros años de este gobierno de impresentables?  ¿Yo tengo la culpa del CEPO?  ¿Yo tengo la culpa del déficit fiscal?  ¿Yo tengo la culpa de su endeudamiento?  ¿Yo tengo la culpa de que no cumplan con las metas del FMI?  ¿Yo tengo la culpa con que la relación de las Lelics en términos de base monetaria esté en niveles similares a lo que fue la hiperinflación de Alfonsín?  ¿Yo tengo la culpa que el déficit fiscal esté en los niveles del Rodrigazo?  ¿Acaso yo tengo la culpa de todas esas cosas si yo nunca estuve en la gestión?  Parece verdaderamente una cargada.  Este gobierno que hace todo mal, primero se le gastó el apero Macri, después se le gastó apero la pandemia, después apero la guerra, entonces como ya no pueden mentir más, ahora la nueva es apero mi ley.  Las frases que yo dije el otro día que dieron lugar a todo esto, Yo estas cosas las digo desde hace años.  Mis reflexiones sobre el Banco Central no son de ahora.  Son reflexiones que tienen entre seis y siete años.  Son el fruto de muchos estudios y de trabajos teóricos que yo hice a lo largo de mi carrera profesional y que yo llegué a la conclusión que el Banco Central hay que eliminarlo.  O sea, si me permitís, Eduardo, yo voy a repetir la frase.  La frase es... '}]
+```
+
+Guardamos todo otra vez a `./data/huggingface_dataset.parquet` y `./data/huggingface_dataset.csv`. Lo subimos después a un dataset en Huggingface, aca lo pueden ver: https://huggingface.co/datasets/machinelearnear/multiturn_chat_milei_gpt.
+
 ## 💡 Algunas notas
 
 - Seguí los pasos como te los di, así no hay lío.

@@ -1,0 +1,951 @@
+{
+    "Index": 407,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "eMo1jPUxoGQ",
+    "url": "https://www.youtube.com/watch?v=eMo1jPUxoGQ",
+    "title": "\"EL IMBÉCIL DE LIPOVETSKY\" - Javier Milei en Canal Metro 5/6/2021",
+    "duration": 1354.0,
+    "view_count": 24799,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 0",
+            "start_time": 0.14,
+            "end_time": 67.644,
+            "text": "Porque ahí tenemos un invitado, nos visita un invitado que da que hablar, da que hablar.  Es economista, es candidato a diputado, es político, sociólogo, bueno, docente, es multifacético.  La verdad que es multifacético y es lindo siempre escucharlo porque es palabra autorizada y siempre sus declaraciones dejan resonando ahí.  Así que bueno, los invito a que se queden durante esta media hora junto a la tele prendidos, café, té, agua, lo que quieran porque va a estar increíble.  Llegó el momento de recibir a nuestro tercer invitado de Actualidad Inmobiliaria.  Es economista, político, escritor, docente y conferencista argentino.  En mayo de este año rompió el récord mundial de la clase de economía con mayor audiencia en la historia, con una cifra que superó las veinte mil personas.  Hoy nos visita Javier Milei.  Bueno, estamos de vuelta acá en Actualidad Inmobiliaria con un invitado de lujo.  Nos estamos riendo, ¿no?  La verdad.  Bueno, estamos junto a Javier Milei.  Un placer tenerte, Javier. ",
+            "cosine_dist": 0.9739300937521503,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 67.724,
+            "end_time": 69.325,
+            "text": "¿Qué tal, Cecilia?  Un gusto estar aquí. ",
+            "cosine_dist": 0.7316100861566122,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 69.625,
+            "end_time": 73.446,
+            "text": "No, por favor, el gusto es nuestro porque la verdad sos un invitado que podemos hablar de todo. ",
+            "cosine_dist": 1.0219162618242519,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 74155,
+            "end_time": 74655,
+            "text": "De todo. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 75.096,
+            "end_time": 96.247,
+            "text": "Y de todo.  Y me apasiona tener estos invitados.  Pero antes quiero hacer un comentario, una mención, porque es algo reciente.  Así que voy a leerlo, así me ayudás.  Que en mayo de este año rompió el récord mundial de la clase de economía con mayor audiencia en la historia de la humanidad.  Se están perfeccionando los trámites para entrar al libro Inés. ",
+            "cosine_dist": 0.9708092616906202,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 96.867,
+            "end_time": 115.365,
+            "text": "Sí, así es.  Este mes de mayo que pasó, junto a Gloria Álvarez, hicimos el intento de romper el récord mundial de lo que es la clase de economía más grande de la historia de la humanidad. ",
+            "cosine_dist": 0.3920071685402787,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 115.505,
+            "end_time": 120.289,
+            "text": "Es impresionante la gente que están.  ¿Cuánta gente va a tus clases? ",
+            "cosine_dist": 0.9542661241150026,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 120.65,
+            "end_time": 133.28,
+            "text": "Bueno, en realidad hubo treinta y cinco mil inscriptos y los registros estarían indicando de que estuvimos cerca de veinte mil personas en línea. ",
+            "cosine_dist": 0.44129614142922513,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 133.902,
+            "end_time": 137.763,
+            "text": "Es una barbaridad.  Sí.  La verdad que sí, más en estos tiempos. ",
+            "cosine_dist": 1.0363404817499007,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 138.203,
+            "end_time": 169.375,
+            "text": "Sí, la verdad que estamos muy contentos y la verdad que también salió muy bien.  Aparte, nosotros con Gloria solemos hacer una dupla muy explosiva.  Nosotros, yo recuerdo que una vez yo viajé a México a presentar un libro mío que se llama Desenmascarando la mentira keynesiana.  Y fuimos a una universidad muy, muy grande de México.  Y tengo algunas anécdotas muy divertidas, ",
+            "cosine_dist": 0.4255607032024985,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 169455,
+            "end_time": 169675,
+            "text": "porque ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 169.755,
+            "end_time": 194.316,
+            "text": "cuando hicimos la primer conferencia, yo no me acuerdo los nombres de las, porque hice once universidades, el auditorio se llamaba Auditorio Lenin, o sea justo yo que soy ultra liberal, y vos sabés que el auditorio tiene capacidad como para trescientas personas y lo llenamos.  Pero cuando fuimos a la segunda universidad, el auditorio era el triple de grande. ",
+            "cosine_dist": 0.4461723416142429,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 194.336,
+            "end_time": 196.677,
+            "text": "Y ahí, ¿qué hacemos?  Y yo dije, ay. ",
+            "cosine_dist": 0.9918160601536644,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 196.997,
+            "end_time": 204.941,
+            "text": "Digo, porque aún, digamos, a ver, yendo a otro país, digamos, que vos tengas tanta convocatoria para presentar un libro.  Claro.  Digo, parecía ya. ",
+            "cosine_dist": 0.42651001367366403,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 205.442,
+            "end_time": 206.862,
+            "text": "Ya es una sensación intensa. ",
+            "cosine_dist": 1.0036921090082385,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 206.882,
+            "end_time": 226.301,
+            "text": "Muy grande eso.  Entonces digo, aun cuando replicáramos semejante éxito, este lugar se va a ver vacío.  Y vos es que fue muy loco porque se llenó todo el auditorio, se llenaron los costados, hubo que abrir el auditorio y poner pantallas en el hall.  Y además... ",
+            "cosine_dist": 0.4230753953597701,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 226.641,
+            "end_time": 229.704,
+            "text": "Como un microestadio, como una cancha. ",
+            "cosine_dist": 0.9450345745308757,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 230.065,
+            "end_time": 243.539,
+            "text": "Gloria Álvarez lo transmitió por Facebook y tuvimos sesenta y cinco mil espectadores.  ¡Carvalidad!  O sea, viste que, digamos, pero no en línea, sino gente que entra y que sale.  Lo del Guinness es gente en línea. ",
+            "cosine_dist": 0.4525565172283048,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 244.528,
+            "end_time": 251.315,
+            "text": "No, eso es una barbaridad.  Es una notición, la verdad, poder decir algo así.  Orgullo es poco, me imagino. ",
+            "cosine_dist": 0.9547794584476179,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 251.495,
+            "end_time": 279.193,
+            "text": "Sí, estamos contentos.  La verdad es que estamos muy contentos porque... ¿Por qué es interesante?  Porque son además cuatro lecciones de economía, pero con un perfil liberal.  Entonces quiere decir que dentro del continente o dentro del mundo de habla hispana está pasando algo que verdaderamente es fuerte y que hay un resurgir de las ideas de la libertad.  como hacía mucho tiempo que no se veía. ",
+            "cosine_dist": 0.37586091752199624,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 279.454,
+            "end_time": 296.389,
+            "text": "Qué bueno, qué bueno que lo cuentes acá en Actualidad Inmobiliaria.  Gracias a vos por permitirme lo contar.  Bueno, Javi, nos vamos a meter un poquito en el mundo inmobiliario.  Sí, claro.  Así podemos debatir, opinar, hablar un poquito de todo.  Quiero tu opinión como economista, ¿cómo es el mercado inmobiliario hoy en día? ",
+            "cosine_dist": 0.9460646085297485,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 297.069,
+            "end_time": 298.35,
+            "text": "Mira, el problema... ",
+            "cosine_dist": 0.6920729578583107,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 298.37,
+            "end_time": 301.373,
+            "text": "Tu opinión, ¿no?  Yo le tengo la mía como inmobiliaria, pero me gustaría... ",
+            "cosine_dist": 0.9762113014169329,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 301.393,
+            "end_time": 305.624,
+            "text": "Bueno, vos sabés que... Venimos de los peores números de la historia. ",
+            "cosine_dist": 0.4910256644228874,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 305.664,
+            "end_time": 309.626,
+            "text": "Hace cuatro años que el mercado viene en caída libre completamente.  Exactamente. ",
+            "cosine_dist": 0.9231454667972019,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 310.226,
+            "end_time": 324.893,
+            "text": "Entonces, ahí el punto es que hay varios elementos que confluyen.  A ver, cuando vos vas a comprar un activo de real estate, o sea, una casa o algo por el estilo, es un activo de largo plazo. ",
+            "cosine_dist": 0.342471899074661,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 325.093,
+            "end_time": 325.814,
+            "text": "Totalmente. ",
+            "cosine_dist": 0.9926398780031718,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 325.854,
+            "end_time": 347.226,
+            "text": "Por lo tanto, vos para poder financiar esa inversión de largo plazo, tendrías que poder disponer de instrumentos de largo plazo.  Ahora, ¿qué es lo que pasa?  Primero, en Argentina el crédito es muy chiquitito.  O sea, el crédito, por ejemplo, bancario, apenas pasa el diez por ciento del PBI.  O sea, es casi inexistente. ",
+            "cosine_dist": 0.3007760950893956,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 347.346,
+            "end_time": 351.349,
+            "text": "Es inexistente prácticamente.  Esa es una palabra que se perdió igual crédito. ",
+            "cosine_dist": 1.0082075304784825,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 351.569,
+            "end_time": 358.935,
+            "text": "Claro.  Pero ¿por qué?  Porque vos para poder tomar ese crédito, alguien antes tuvo que ahorrar. ",
+            "cosine_dist": 0.3681688839243602,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 359295,
+            "end_time": 359816,
+            "text": "Claro. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 359.936,
+            "end_time": 397.144,
+            "text": "Y cuando vos tenés... que llevas años y años de esta idea keynesiana de que se cree que se crece estimulando el consumo.  Eso es falso.  En realidad se crece estimulando el ahorro, porque cuando vos estimulás el ahorro, eso genera inversión y la inversión es lo que genera acumulación de factores y eso es lo que genera el crecimiento económico.  Entonces, cuando vos estimulás el consumo, en realidad, lejos de generar crecimiento, lo que haces es que te empezás a comer el capital.  Entonces, ¿qué pasa?  Una economía que ahorra poco, entonces invierte poco y por ende no puede crecer.  Uno de los efectos colaterales de ahorrar poco es que tenés poco crédito hipotecario. ",
+            "cosine_dist": 0.2765918903505671,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 397.244,
+            "end_time": 399.266,
+            "text": "Claro, ¿no?  Nulo prácticamente. ",
+            "cosine_dist": 1.0035420700378286,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 399.286,
+            "end_time": 414.367,
+            "text": "Bueno, por eso.  Ahora, ¿por qué además es más complicado todavía el crédito hipotecario?  El crédito hipotecario todavía es más complicado porque es un crédito a largo plazo.  Entonces, ¿qué pasa?  Ese crédito a largo plazo está sujeto a muchísima incertidumbre. ",
+            "cosine_dist": 0.3506334241205393,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 414.547,
+            "end_time": 437.098,
+            "text": "Bueno, te acordás, te corto un poquitito, que nosotros tuvimos un repunte hace dos años cuando salieron los créditos UBA, que después fue catastrófico.  O sea que mucha gente se endeudó, los está pagando todavía.  Fue un crédito, la verdad que terminó mal, fue negativo porque no sirvió.  O sea, fue un punto. ",
+            "cosine_dist": 0.9470531912021843,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 437.498,
+            "end_time": 450.723,
+            "text": "Bueno, pero fíjate qué interesante lo que vos estás mencionando, porque esto es justo lo que yo iba a tratar ahora.  El crédito hipotecario tuvo un pequeño repunte a partir de los créditos UBA. ",
+            "cosine_dist": 0.41397353369185885,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 450763,
+            "end_time": 451223,
+            "text": "Sí, sí. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 452.386,
+            "end_time": 455.272,
+            "text": "¿Qué era lo que hacían los créditos UBA?  Básicamente... ",
+            "cosine_dist": 0.4293667373934861,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 455.292,
+            "end_time": 458.518,
+            "text": "Indexados por la inflación, acordémonos, para la gente que nos está... ",
+            "cosine_dist": 0.9096003741922946,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 458.538,
+            "end_time": 464.108,
+            "text": "Es un crédito que te... aísla el efecto o el riesgo de la inflación. ",
+            "cosine_dist": 0.5503277056352767,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 464268,
+            "end_time": 464528,
+            "text": "Claro. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 465.188,
+            "end_time": 541.563,
+            "text": "Entonces, ahí empezás a ver dónde está el problema.  Si Argentina tiene en un año la inflación que tendría Estados Unidos en veinticinco años, dale, algo anda mal.  ¿Me comprendés lo que te digo?  Totalmente de acuerdo.  O sea, vos necesitás veinticinco años de Estados Unidos para vivir lo que vivís en un año en Argentina, inflación.  Chao, algo anda mal.  ¿Me comprendes lo que te digo?  Sí, sí.  Bueno, eso lo que hace es generar mucha incertidumbre.  Y la incertidumbre, conforme pasa el tiempo, se va ampliando.  Entonces, un mercado como el mercado hipotecario, que es un mercado tan largo, cuando vos generás mucha incertidumbre macroeconómica con la inflación, ya es un problema.  Ahora, imagínate esto, que además, vos fíjate esto, cuando la tasa de interés es del siete por ciento, vos duplicás el capital en diez años.  O si, por decirlo de alguna manera, una tasa de veinte por ciento, por ejemplo, hoy el riesgo argentino, el riesgo país argentino, en la punta corta, o sea, el bono más corto, rinde veinte por ciento en dólares.  Es decir, que vos en tres años y medio duplicás el capital.  Dale.  O sea, ¿te haces a la idea de poder comprarte una casa en tres años y medio?  No existe. ",
+            "cosine_dist": 0.30965696063152626,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 541.583,
+            "end_time": 545.126,
+            "text": "Qué lejos que queda el sueño de la primera casa propia, de la vivienda propia. ",
+            "cosine_dist": 1.0051097197438619,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 545.266,
+            "end_time": 546.347,
+            "text": "Está cada vez más lejos. ",
+            "cosine_dist": 0.8805095623686545,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 546.527,
+            "end_time": 565.862,
+            "text": "Sí, ¿qué pensás?  Esto?  que el gobierno dice que saca créditos, que lo que dice Guzmán, de que va a haber una línea de créditos, ¿queda en el aire o hay algo concreto?  Porque la verdad que, sinceramente, hoy acceder a un crédito es prácticamente inexistente.  Nosotros en las oficinas no recibimos a nadie con crédito.  O sea, ¿cuál es la realidad? ",
+            "cosine_dist": 0.9329121133343383,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 566.622,
+            "end_time": 616.885,
+            "text": "Bueno, en realidad eso de los créditos a tasa subsidiada es una locura.  Porque si yo, a ver, si yo te voy a prestar a vos a una tasa subsidiada, quiere decir que no te estoy pagando, o sea, no te estoy cobrando lo que te debería cobrar por ese crédito.  Y la pregunta es, ¿yo de dónde tomé esa plata?  La tomé prestada de una ahorrista.  Entonces, si yo te voy a dar una tasa subsidiada o una de dos, o el riesgo que estoy tomando no está en línea con la tasa que estoy pagando del otro lado, con lo cual a la postre el sistema va a terminar quebrando.  Totalmente.  ¿Por qué?  Porque vos estás prestando a un riesgo que no se condice con la tasa.  Entonces, cuando se materializa el riesgo, aparte, cuanto más proyectos tengas, ese riesgo se vuelve un dato cierto. ",
+            "cosine_dist": 0.29383136131856513,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 616.925,
+            "end_time": 623.748,
+            "text": "Claro, porque uno se pregunta como inmobiliario, bueno, sacan una línea de créditos, los procrear esto.  La verdad que no viene nadie con los... ",
+            "cosine_dist": 1.0337864007890933,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 623.768,
+            "end_time": 625.469,
+            "text": "Después hay que ver si te alcanza también. ",
+            "cosine_dist": 0.5583650678371074,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 625.809,
+            "end_time": 635.217,
+            "text": "Primero que no alcance, y segundo que no sabes, no hay algo instrumental, no hay algo que esté bien especificado, hay como falta de comunicación con el tema de la línea crediticia. ",
+            "cosine_dist": 0.9779550153510311,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 635.298,
+            "end_time": 670.554,
+            "text": "Igual mientras que tengas una macroeconomía podrida, con tanta inflación, no va a funcionar.  Y segundo, cuando vos seguís teniendo un fisco que es un disparate, con un déficit fiscal que ya es propio de una crisis, Bueno, o sea, la tasa de interés es enorme.  Bueno, de hecho, Argentina paga una... O sea, la tasa de interés en Argentina es absolutamente inviable.  Es decir, vos fíjate, Argentina no se puede financiar para pagarle al Club de París dos mil cuatrocientos millones de dólares, que es nada para un país, nada.  Cuando en el mundo las tasas son cero... Y lo que sobra es dinero. ",
+            "cosine_dist": 0.2869978710997767,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 670.594,
+            "end_time": 672.055,
+            "text": "Y acá no podemos pagar eso. ",
+            "cosine_dist": 0.8779758099322829,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 672.075,
+            "end_time": 683.519,
+            "text": "Y nosotros no podemos ni conseguir eso.  Entonces, Argentina tiene una tasa de interés estratosférica que lo que hace es destrozarte el mercado de créditos.  Y cuanto más largo ese crédito, lo haces desaparecer. ",
+            "cosine_dist": 0.3474086672008234,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 683.679,
+            "end_time": 715.167,
+            "text": "Claro.  Bueno, Javi, también recordemos que el año pasado se sancionó la ley de alquileres.  Bueno.  Bueno, sí.  nuestras caras porque seguramente pensamos un poco parecido la verdad que para mí en la opinión nuestra es una ley equitativa porque es mala para ambas partes.  quiero escuchar tu opinión por la verdad.  mira hoy es los inquilinos del otro lado.  aumentó todo aumentó los alquileres un setenta por ciento un ochenta.  quiero tu opinión.  bueno ese tema que hoy está totalmente candente. ",
+            "cosine_dist": 0.9304242320305172,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 715.187,
+            "end_time": 727.296,
+            "text": "del otro lado Mirá, esa ley la impulsó el imbécil, y creo que me quedo corto con esa definición, de Lipovetsky. ",
+            "cosine_dist": 0.5029259700880915,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 727.336,
+            "end_time": 730.338,
+            "text": "La famosa ley Lipovetsky, le decimos los inmobiliarios. ",
+            "cosine_dist": 0.927339773012717,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 730.398,
+            "end_time": 734.422,
+            "text": "El imbécil de Daniel Lipovetsky. ",
+            "cosine_dist": 0.5950558021044488,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 734.822,
+            "end_time": 740.527,
+            "text": "Una ley en plena pandemia.  Plena pandemia, incertidumbre, se juntó todo. ",
+            "cosine_dist": 0.8497549837187911,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 741.387,
+            "end_time": 767.528,
+            "text": "Cuando él envió eso, cuando estaba con esa ley, Yo le hice la crítica.  Y el imbécil, con déficit de coeficiente intelectual de Lipovetsky, me mandó a hacer un curso de género.  Digo, no sé qué tiene que ver una cosa con la otra, porque si yo te estoy cuestionando la ley de alquileres, vos me tenés que contestar sobre eso y no agredirme con otra cosa.  Pero no importa. ",
+            "cosine_dist": 0.3285272738752253,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 768.389,
+            "end_time": 772.251,
+            "text": "No tiene fundamentos.  El tema es que se equivocó tanto que no tiene fundamentos. ",
+            "cosine_dist": 0.9094317795005615,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 772.291,
+            "end_time": 814.194,
+            "text": "A ver, ¿sabés lo que pasa, Cecilia?  La crítica que le hice yo es la crítica basada en la historia y en la teoría económica.  Cuando vos haces la ley de alquileres, o sea, en general se suele hacer para disociar el precio de equilibrio con el precio que quieren poner a dedo el que regula o el que está haciendo esto.  Entonces, ¿qué es lo que termina pasando?  O se contrae la oferta... O pasa otra cosa, se deteriora la calidad de las viviendas.  Con lo cual, ¿me entendés?  El ajuste lo tenés siempre, o sea, o porque sacan las viviendas o porque sacan, digamos, o se deteriora la calidad.  ¿Y cuál es el efecto?  ¿Vos querías ayudar al inquilino? ",
+            "cosine_dist": 0.32422695453161043,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 814.474,
+            "end_time": 815.155,
+            "text": "Lo perjudicaste. ",
+            "cosine_dist": 1.0137860059660824,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 815.175,
+            "end_time": 822.618,
+            "text": "Lo perjudicaste muchísimo más porque ahora o no consigue la propiedad y si la consigue, la consigue carísima y con un fuerte deterioro de la calidad. ",
+            "cosine_dist": 0.46384181704850247,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 822.638,
+            "end_time": 831.163,
+            "text": "Aparte, vamos a la escena cotidiana del día a día.  Entra un inquilino, quiere un alquiler a tres años.  En este país, segundo y tercer año, ¿qué va a pasar? ",
+            "cosine_dist": 1.0077541103263372,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 832084,
+            "end_time": 832404,
+            "text": "Por eso. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 832.484,
+            "end_time": 843.435,
+            "text": "Por eso el propietario también se resguarda de subir un poco el primer año.  Porque, lógico, no sabe qué va a pasar.  Algo que está... Se calcula un índice de salario e inflación. ",
+            "cosine_dist": 0.8265063246334231,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 843.455,
+            "end_time": 851.281,
+            "text": "Pero yo te hago una pregunta.  Es más fácil la... Carajo tiene que hacer el Estado en una transacción entre partes. ",
+            "cosine_dist": 0.4337214533858693,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 851.301,
+            "end_time": 852.741,
+            "text": "Bueno, es entre partes. ",
+            "cosine_dist": 0.9224269965388989,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 853.342,
+            "end_time": 854.542,
+            "text": "Si yo voy a hacer un contrato con vos. ",
+            "cosine_dist": 0.7543197411099863,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 854.582,
+            "end_time": 857.003,
+            "text": "Un contrato es entre partes, es interno entre partes. ",
+            "cosine_dist": 1.0019559361693942,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 857.103,
+            "end_time": 866.406,
+            "text": "Y entonces, Dios, ¿quién es Likubovetsky para meterse en el contrato que queremos hacer nosotros dos voluntariamente?  ¿Qué tiene que ver con eso?  Lo único que puede producir... ",
+            "cosine_dist": 0.4426719165408812,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 867.246,
+            "end_time": 871.188,
+            "text": "Es daño.  Es daño, que es el daño que causó ahora, que es irreparable, ",
+            "cosine_dist": 0.9710136806438575,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 871.388,
+            "end_time": 872.569,
+            "text": "porque lamentablemente ",
+            "cosine_dist": 0.8670276656284834,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 873.009,
+            "end_time": 885.015,
+            "text": "la gente que está desocupando, los propietarios que están sacando las viviendas de alquileres, la verdad que es catastrófico, yo no quiero alarmar, pero estamos hablando de un aumento de alquileres del ochenta por ciento, setenta por ciento. ",
+            "cosine_dist": 0.9247343104630834,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 885.035,
+            "end_time": 888.816,
+            "text": "Bueno, vamos a darle las gracias a Lipovetsky, cómo le arruinó la vida a los inquilinos. ",
+            "cosine_dist": 0.4610979698339368,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 888.836,
+            "end_time": 899.1,
+            "text": "La famosa ley Lipovetsky, sí, y los inquilinos que igualmente vos fijate que... Siempre tienen como la esperanza de que las dos o tres últimas leyes los benefician y nos terminan perjudicando. ",
+            "cosine_dist": 0.9627146519086196,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 899.3,
+            "end_time": 939.343,
+            "text": "Así es.  Vos sabés que hay una clase maravillosa.  Digamos, hay un profesor anarcocapitalista español que se llama Jesús Huerta de Soto.  Un ser humano brillante, brillante, brillante.  Y muchas de sus clases están en internet.  Vos podés tomar su curso por internet.  Y una de las cosas que él demuestra en una de sus clases es que cada vez que el Estado toma una acción para corregir un supuesto fallo de mercado, el resultado termina siendo muchísimo peor que el que tenía originalmente.  Bueno, la ley de alquileres es uno de esos.  Bueno, pero los planes de hambre, ¿qué hacen?  Generan más hambre. ",
+            "cosine_dist": 0.3573783807286425,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 939.363,
+            "end_time": 943.646,
+            "text": "Tapamos un agujero con otro.  ¿Te acordás de las cajas punk? ",
+            "cosine_dist": 0.8879843529815029,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 943.926,
+            "end_time": 954.019,
+            "text": "Cuando arrancaron, mirá lo que son ahora los subsidios.  O sea, los planes contra la pobreza generan pobreza.  O sea, los planes contra la inflación, digamos, los controles de precios generan más inflación. ",
+            "cosine_dist": 0.4887952845811143,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 954.24,
+            "end_time": 960.227,
+            "text": "Hablando de la ley Lipovetsky, como la llamamos nosotros, y como decís vos también, o sea, se metió en algo que... ",
+            "cosine_dist": 0.9752489793733568,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 960247,
+            "end_time": 960668,
+            "text": "El imbécil. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 960.848,
+            "end_time": 970.095,
+            "text": "El imbécil, lo queremos decir.  En algo que la inmobiliaria era intermediario, lo arreglábamos bien con inquilino y propietario.  Era un treinta, un treinta y cinco, se manejaba. ",
+            "cosine_dist": 0.9604695374801219,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 970.115,
+            "end_time": 970.856,
+            "text": "Pero lo que pasa... ",
+            "cosine_dist": 0.8045915982506703,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 970.956,
+            "end_time": 972.477,
+            "text": "Ahora es un desastre. ",
+            "cosine_dist": 0.905084748297337,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 972.697,
+            "end_time": 973.418,
+            "text": "Lo que pasa es que... ",
+            "cosine_dist": 0.7816633431288427,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 973.518,
+            "end_time": 977.221,
+            "text": "Algo que estaba bien.  Bueno... ¿Por qué se metieron en algo que estaba bien? ",
+            "cosine_dist": 0.8814793288465725,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 977.621,
+            "end_time": 1034.959,
+            "text": "Pero es que, a ver, yo te voy a explicar algo.  Cuando vos ves que un mercado funciona mal, hay dos líneas de pensamiento.  La primera es que vos... Digamos, por ejemplo, entiendas que no estás entendiendo lo que está pasando.  ¿Me comprendés?  Y la otra, entonces, cuando empezás a entender cómo funciona, te das cuenta que funciona bien a la luz de los problemas que tenés.  O sea, porque si los intercambios son voluntarios, Por lo tanto, hay cooperación social.  Por lo tanto, o sea, si vos creés que está funcionando mal, es porque no entendiste cómo está funcionando.  Es lo que le pasa al imbécil de Dikovetsky, porque es un tipo con un déficit de coeficiente intelectual, digamos, marcado.  Pero la otra alternativa... Es que si algo funciona mal, y efectivamente funciona mal, es porque en realidad seguramente está metido el Estado.  Con lo cual, si metés más Estado, va a funcionar peor todavía. ",
+            "cosine_dist": 0.3418396196112239,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1035.179,
+            "end_time": 1045.065,
+            "text": "Claro, ¿y qué opinión te deja estos DNU presidenciales sobre materia de alquileres que evitó desalojos?  congelamiento en los valores. ",
+            "cosine_dist": 0.9714778468864705,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1045.125,
+            "end_time": 1049.629,
+            "text": "Peor, digamos, o sea, es un avance sobre el derecho de propiedad, lo que va a terminar haciendo es que sea imposible... ",
+            "cosine_dist": 0.4561888676791267,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1049.649,
+            "end_time": 1056.314,
+            "text": "No sentís que fue, una opinión mía, a ver si la compartimos un poco, no sentís que fue como un avance hacia la propiedad privada, como una invasión... ",
+            "cosine_dist": 0.8851348327763319,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1056.334,
+            "end_time": 1082.327,
+            "text": "Es que es un avance a la propiedad privada.  Definitivamente.  Bueno, pero ¿sabés?  El corazón central del funcionamiento del sistema económico es la propiedad privada, porque la propiedad privada es lo que está subyacente en el funcionamiento del sistema de precios.  Y el sistema de precios es a la economía lo que es el sistema nervioso, sí, al cuerpo humano.  Entonces, cuando vos te metés con la propiedad privada, ¿sabés lo que va a terminar pasando?  Que te vas a terminar empobreciendo. ",
+            "cosine_dist": 0.3756311634490622,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1082.528,
+            "end_time": 1091.974,
+            "text": "Aparte, imagínate, el propietario hace un año cobrando lo mismo.  Se terminó el decreto el treinta y uno de marzo, por.  ende, ¿qué se esperaba?  ¿Que los alquileres cuánto suban? ",
+            "cosine_dist": 0.9074760383985127,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1092.094,
+            "end_time": 1095.356,
+            "text": "¿Un veinte por ciento?  ¿O vuelen?  ¿O vuelen?  ¿O se van las propiedades? ",
+            "cosine_dist": 0.5771985966644788,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1095.376,
+            "end_time": 1098.877,
+            "text": "Pero es sentido común.  Las dos cosas, volaron y se fueron las propiedades. ",
+            "cosine_dist": 0.9987102814958644,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1099.457,
+            "end_time": 1100.157,
+            "text": "¿Cómo te dije yo? ",
+            "cosine_dist": 0.9381926768674284,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1100.438,
+            "end_time": 1101.198,
+            "text": "Así es lo que... ",
+            "cosine_dist": 0.8388114565177165,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1101.518,
+            "end_time": 1105.94,
+            "text": "Como le anticipé al imbécil de Lipovetsky, porque lo voy a decir hasta el cansancio. ",
+            "cosine_dist": 0.4305086223475968,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1106.48,
+            "end_time": 1109.024,
+            "text": "La verdad que nos perjudicó muchísimo, Javi.  Muchísimo. ",
+            "cosine_dist": 0.9868454920441436,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1109.245,
+            "end_time": 1115.554,
+            "text": "Bueno, en realidad la corporación política lo único que hace es, con sus leyes, perjudicar a la gente. ",
+            "cosine_dist": 0.41878209573089964,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1115.655,
+            "end_time": 1121.424,
+            "text": "Sí, sí, totalmente.  No quiero dejar pasar que te vas a postular como diputado nacional.  Contame un poco eso. ",
+            "cosine_dist": 0.9491512690289968,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1121.889,
+            "end_time": 1159.706,
+            "text": "Sí, soy candidato a diputado nacional por la Ciudad Autónoma de Buenos Aires, en lo que es el espacio de Avanza Libertad, siendo yo parte del Partido Libertario.  De hecho, yo soy el presidente honorífico del Partido Libertario de Cava, de lo que estoy muy orgulloso.  Y básicamente la idea es que es... Entrar al Congreso y sacar a patadas en el culo a parásitos, por ejemplo, inútiles como Lipovetsky.  Y básicamente, por ejemplo, lo que yo te puedo asegurar es que nunca voy a votar en contra de la propiedad privada. ",
+            "cosine_dist": 0.3218968495464659,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1160226,
+            "end_time": 1160826,
+            "text": "Claro. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1160.866,
+            "end_time": 1200.832,
+            "text": "Que nunca voy a votar en contra de las libertades individuales, algo que, recordá que el señor Negri llamó a Alberto Fernández, nuestro comandante, jamás voy a votar contra la libertad individual, digamos, contra el derecho de propiedad, digamos, contra tu libre ejercicio de la propiedad.  Y sobre todas las cosas, lo primero que voy a hacer es renunciar a mi dieta.  Porque yo voy a seguir viviendo de la que yo genero, no como los parásitos que están en esa pudredumbre que es el Congreso de la Nación Argentina.  ¿Vos sabés que se llama Honorable Congreso de la Nación Argentina? ",
+            "cosine_dist": 0.31174376012864546,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1201.272,
+            "end_time": 1202.152,
+            "text": "Honorable Congreso. ",
+            "cosine_dist": 0.9573111521266415,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1202.173,
+            "end_time": 1205.695,
+            "text": "Sí, porque cuando arrancó era Donorem.  Ahora es un negocio bárbaro. ",
+            "cosine_dist": 0.5279329872318138,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1206.829,
+            "end_time": 1231.863,
+            "text": "La verdad, Javi, que es un encanto tenerte.  Me quedaría horas hablando con vos.  Ya quiero que vuelvas.  Te vamos a volver a invitar y vamos a seguir hablando de esto porque tenés una mirada, la verdad, muy observadora, muy específica.  Compartimos muchos puntos de vista y la verdad es un placer que hayas pasado acá por Actualidad Inmobiliaria.  Tengo regalitos, así que espero que los disfrutes.  Martín Cabrales, Café Cabrales, siempre con nosotros. ",
+            "cosine_dist": 0.9673397667741812,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1232.586,
+            "end_time": 1233.807,
+            "text": "Soy amigo de Martín encima. ",
+            "cosine_dist": 0.69796707668689,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1233.827,
+            "end_time": 1235.928,
+            "text": "Muy bien, ahí para que disfrutes. ",
+            "cosine_dist": 0.8384720805402744,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1236.108,
+            "end_time": 1238.209,
+            "text": "Martín Cabrales soy amigo.  además, aviso. ",
+            "cosine_dist": 0.6290070313514879,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1239.59,
+            "end_time": 1254.529,
+            "text": "Vinos Garibay, Ariel de Garibay, vinos boutique.  Así que te podés tomar a la noche un vinito.  Siempre viene bien.  Y después te mandamos virtual un voucher de Sushi Phone.  Jorge, siempre con nosotros también.  ¿Tenés vino, café, sushi? ",
+            "cosine_dist": 0.9749303483611963,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1254.849,
+            "end_time": 1255.629,
+            "text": "De completo. ",
+            "cosine_dist": 0.8278110610191469,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1256.49,
+            "end_time": 1260.751,
+            "text": "Pero bueno, te vamos a invitar porque esta charla, la verdad, me encantó hablar. ",
+            "cosine_dist": 0.9696765689153691,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1260.811,
+            "end_time": 1262.012,
+            "text": "Muchísimas gracias, Cecilia. ",
+            "cosine_dist": 0.9224470376124488,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1262.032,
+            "end_time": 1267.314,
+            "text": "No te conocía, nunca nos tratamos, pero me parece que estamos en el living de casa, que eso es lo lindo de todo. ",
+            "cosine_dist": 1.0715769321111086,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1267334,
+            "end_time": 1267694,
+            "text": "Qué bueno. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1268.054,
+            "end_time": 1269.255,
+            "text": "Bueno, te agradezco mucho, Javi. ",
+            "cosine_dist": 1.0386693650864964,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1269.275,
+            "end_time": 1270.815,
+            "text": "No, por favor, gracias a vos, Cecilia. ",
+            "cosine_dist": 0.8085478581106531,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1270.895,
+            "end_time": 1353.802,
+            "text": "No, por favor, vamos a una tanda, por favor.  Bueno, acá estamos nuevamente en Actualidad Inmobiliaria y estamos todos con el equipo mirándonos.  La verdad, con una energía muy intensa quedamos.  La verdad, una nota increíble a Javier Milei.  Lo que sí siento es que nos quedamos cortos con el tiempo.  No sé qué piensa el equipo.  Sí, hay que hacer un par de veces más que vuelvan.  Bueno, dimos la primicia que va a estar en el libro Inés por la cantidad de alumnos que están en sus charlas.  Es increíble Javier.  Javier siempre tiene definiciones claras, específicas y desde el punto de vista personal estoy muy de acuerdo con él con respecto a la ley de alquileres, el efecto Lipovetsky.  Que como siempre dije, es una ley negativa, equitativa para ambas partes, tanto como para el locador como para el inquilino.  Si sos inquilino te debes sentir muy identificado con esto.  Así que la verdad que él hizo mucho hincapié con eso y es algo que generalmente no se dice y es cien por ciento la realidad.  A la mierda los malditos empresarios, a la mierda Sodomitas el capital.  Basta de basura keynesiana, ha llegado el momento liberal.  Tenemos un líder y él es un gran rebelde. ",
+            "cosine_dist": 0.9891284463196961,
+            "is_target_speaker": false
+        }
+    ]
+}

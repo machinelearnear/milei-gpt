@@ -1,0 +1,927 @@
+{
+    "Index": 537,
+    "channel_id": "UCj6PcyLvpnIRT_2W_mwa9Aw",
+    "channel": "Todo Noticias",
+    "uploader_url": "https://www.youtube.com/@todonoticias",
+    "id": "xVE5K3N0iCg",
+    "url": "https://www.youtube.com/watch?v=xVE5K3N0iCg",
+    "title": "DECISIÓN ´23: \"No es mano dura, es mano justa\", Javier Milei",
+    "duration": 1614.0,
+    "view_count": 738251,
+    "candidate_name": "milei",
+    "quality": "low",
+    "segments": [
+        {
+            "speaker": "Speaker 0",
+            "start_time": 0.86,
+            "end_time": 18.403,
+            "text": "Por supuesto no es algo científico, no hay una estructura social, esto es cada uno entra, participa y queremos.  Bueno, estamos con Javier Milei, estamos también con Victoria Villarroel, con Marcela Pagano, colega que es candidata, y ella que es candidata. ",
+            "cosine_dist": 0.8202462275048297,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 19.121,
+            "end_time": 19.982,
+            "text": "Diputada por CABAP. ",
+            "cosine_dist": 0.9122045022531393,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 20.002,
+            "end_time": 27.529,
+            "text": "Por la Ciudad de Buenos Aires.  Está rodeado de mujeres, pero todos te critican tu política contra las mujeres. ",
+            "cosine_dist": 0.9149586521555784,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 28.79,
+            "end_time": 64.506,
+            "text": "Es raro.  Bueno, pero es una de esas tantas críticas y operaciones y mentiras que dicen sobre mi persona.  Y la realidad es que el otro día, yo no me di cuenta, quien lo señaló fue Marcela.  Dice, pero este es el espacio de las mujeres, es donde más mujeres hay.  La verdad, nunca había tomado noción de eso.  Pero bueno, es una de las tantas mentiras que dicen sobre mi persona y que bueno, que ya... La verdad es que ya me acostumbré a que digan cualquier cosa de mí.  Mire, le digo algo.  Me imagino que alguno de estos días van a decir que maté a Kennedy también.  Le aviso que no fui, pero Dios va a decir cualquier cosa. ",
+            "cosine_dist": 0.44629749191136703,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 64.986,
+            "end_time": 67.287,
+            "text": "Está bien.  ¿Estás agrandado?  ¿Pues vas bien en las encuestas? ",
+            "cosine_dist": 1.020974102351112,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 68.427,
+            "end_time": 74.068,
+            "text": "No.  No porque eso... Es más, vos lo deberías saber bien, Marcelo, porque yo soy bilarrista.  Gol. ",
+            "cosine_dist": 0.5163395439286163,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 75.063,
+            "end_time": 77.084,
+            "text": "El gol se cobra cuando entra dentro de la cancha. ",
+            "cosine_dist": 0.9664367994225047,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 77.184,
+            "end_time": 111.733,
+            "text": "No, no, no solo cuando entra, dado el VAR y todo, solo hay gol cuando la mueve el contrario.  Por lo tanto, hasta que no lleguemos a las elecciones, vamos a seguir trabajando incansablemente para terminar con esta Argentina decadente.  Porque si seguimos así, lo único cierto con los mismos políticos de siempre es que vamos a terminar siendo miserables.  Por lo tanto, vamos a seguir trabajando porque una Argentina distinta... es imposible con lo mismo de siempre.  Y por eso nosotros nos metemos para cambiar eso.  O sea, nosotros somos los únicos que estamos buscando un verdadero cambio. ",
+            "cosine_dist": 0.4024923802244227,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 112.654,
+            "end_time": 120.136,
+            "text": "Y Marcela, ¿y cómo?  Porque es difícil pasar del periodismo a la política.  ¿Por qué lo decidiste? ",
+            "cosine_dist": 0.8293428655963255,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 120.957,
+            "end_time": 128.899,
+            "text": "Bueno, es que en realidad no voy a abandonar el periodismo.  Yo considero que hay que seguir trabajando en los dos lugares.  ¿Por qué no?  ¿Por qué no deberían hacer todos lo mismo? ",
+            "cosine_dist": 1.0056680517672674,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 132790,
+            "end_time": 133350,
+            "text": "Tenía dos opciones. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 133.37,
+            "end_time": 137.172,
+            "text": "Pero cada vez que opine como periodista, dice, ah, pero vos sos de mi ley, pa, pa, pa. ",
+            "cosine_dist": 1.009219870193702,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 137.212,
+            "end_time": 168.131,
+            "text": "Pero lo dicen de todos igual, lo dicen de ustedes, Edgardo, Marcelo, con los años que hacen, que trabajan, lo dicen igual.  Y está bien y que la gente opine lo que quiera.  Yo te voy a decir lo que a mí me pasa.  Yo tenía dos opciones.  O seguir relatando las malas noticias y nada más, y quejándome también.  o involucrarme y tratar de hacer algo diferente.  Yo soy una persona normal, ustedes me conocen, soy una trabajadora más, una laburante más, que tiene los mismos problemas que tiene la gente que nos ve.  Entonces desde este espacio lo que pretendo hacer, que es un espacio nuevo, es tratar de involucrarme para poder cambiar algo. ",
+            "cosine_dist": 0.984823963536229,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 169.019,
+            "end_time": 187.891,
+            "text": "Javier, ¿qué es lo que está pasando con tu fuerza política?  Te explico por.  qué.  Porque habrás escuchado a nosotros.  Milei tiene problemas, es muy fuerte en la capital federal y con Urbano, Provincia de Buenos Aires, pero está teniendo problemas en el interior, se le van los candidatos, bajan las encuestas.  ¿Se está pagando el efecto Milei? ",
+            "cosine_dist": 0.8431375900804016,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 188.532,
+            "end_time": 306.787,
+            "text": "A ver, vamos a ponerlo en estos términos.  Veamos la situación del país.  desdoblaron en veintiuno de veinticuatro distritos.  ¿Alguna vez viste semejante cosa?  Es decir, por lo tanto, digo, lo primero que te diría es, el principio de revelación dice que está muy asustado, por algo desdoblan.  Ese es el primer punto.  El segundo punto es, el efecto este de las encuestas, ya el lunes a la mañana estaban.  Todos sabemos que científicamente no es serio que vos tengas un cambio de esas características que están mostrando con rigor científico.  ¿Qué quiere decir esto?  Que son encuestas operadas, ya sabemos quiénes son los que gastan mucha plata en esas encuestas y básicamente intentan imponer una mentira.  Bueno, así tendrían que estar tranquilos, pero sin embargo no paran de operarnos, no paran de agredirnos.  Y después que hay gente que se queja, claro que hay gente que se queja.  ¿Sabe por?  qué?  Digo, si usted toma cualquiera de las otras fuerzas, es muchísimo más sanguinario todo este proceso.  Sin embargo, ¿qué pasa?  A ver, ¿sabes lo que pasa?  Yo le voy a decir esto.  Cuando usted suma la cantidad de porciones que quiere la gente en esto, es más grande que la torta.  Entonces no pueden estar todos contentos.  Y entonces es como el caso de Hirschman, salida y libertad.  Bueno, acá el que quedó afuera, ¿qué hace?  Se queja, patalea.  Es más, yo una de las cosas que conté, se lo conté a Marcela en el programa, hay gente que extorsiona.  Me llama por teléfono y dice... Claro, dice, si a mí no me das tal puesto, te voy a denunciar, voy a decir esto, voy a decir lo otro, voy a hacer un montón de... O sea, todas mentiras.  Pero ¿qué es lo que tratan?  Tratan de ensuciar.  Bueno, ensuciarán para ser funcionales a alguien, seguramente. ",
+            "cosine_dist": 0.34086895866353906,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 306.807,
+            "end_time": 324.042,
+            "text": "Victoria, bueno, ¿cómo...?  Quizás es un problema de crecimiento que ha tenido ustedes, porque están bien las encuestas, por más que ahora algunos dicen que bajaron, todos quieren estar con ustedes, hay peleas.  Ahora, ¿usted viene a cambiar radicalmente la situación? ",
+            "cosine_dist": 0.8801186386844935,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 324.062,
+            "end_time": 346.394,
+            "text": "Nosotros venimos a cambiar premisas que han sido poco menos que dogmas.  En el tema seguridad, la realidad es que... Según Zaffaroni y la mayoría de la clase política, el delincuente es una víctima.  Y nosotros vamos a cambiar eso.  Al delincuente le tiene que quedar claro que si va armado, su vida corre peligro.  Tenga armas reales o falsas. ",
+            "cosine_dist": 0.8770370043569575,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 346.994,
+            "end_time": 347.895,
+            "text": "Está expuesto. ",
+            "cosine_dist": 1.0193909780769403,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 349.075,
+            "end_time": 365.079,
+            "text": "No es un trabajo ser delincuente, es un delito.  Y hay que recuperar algo que era el sentido común del mismo derecho penal.  Entonces, ¿qué queremos hacer?  Bueno, primero, proteger a la población civil.  Y segundo, proteger a los uniformados a los que les pedimos que nos cuiden. ",
+            "cosine_dist": 0.8737584434252863,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 365.259,
+            "end_time": 366.34,
+            "text": "¿Cómo?  ¿Qué quiere decir? ",
+            "cosine_dist": 0.9306907807232887,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 366.56,
+            "end_time": 374.742,
+            "text": "Mejor equipamiento, mejor adiestramiento, mayor tiempo de formación académica, premio para los buenos policías en la lucha contra el delito. ",
+            "cosine_dist": 0.8621619889279823,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 375.367,
+            "end_time": 377.529,
+            "text": "Porque hay un tema fundamental, disparar o no disparar. ",
+            "cosine_dist": 0.933021200165691,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 377.549,
+            "end_time": 378.79,
+            "text": "Claro, el tema del plomo. ",
+            "cosine_dist": 1.0234100064289744,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 378.81,
+            "end_time": 413.958,
+            "text": "Por eso mismo el policía que obra legítimamente tiene que estar protegido y tiene que estar respaldado por el Estado.  Y eso es lo que nosotros vamos a impulsar.  De hecho, les quiero decir algo.  Nosotros lo que vamos a impulsar en seguridad es que el delincuente que mata o deja discapacitado a un policía, eso sea considerado un agravante.  Que el delincuente que mata o agrede a un civil y además se da a la fuga, su causa no prescriba.  Estamos buscando que realmente mejore lo que es la seguridad para nuestro país. ",
+            "cosine_dist": 0.821269198713682,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 414.018,
+            "end_time": 416.28,
+            "text": "¿Sería mano dura para el delincuente? ",
+            "cosine_dist": 1.0027689915594282,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 416.46,
+            "end_time": 426.848,
+            "text": "No, es que se respete el derecho.  Que parece que en un país donde desde la máxima autoridad del país hasta el último considera que vivir en anarquía es algo normal. ",
+            "cosine_dist": 0.7875785663693481,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 426.908,
+            "end_time": 466.787,
+            "text": "Sandra, es más, si usted me lo permite, solo para complementar.  Es decir, acá se terminó la doctrina Zaffaroni.  Acá el que las hace las paga.  El que las hace las paga.  ¿Sí?  Los de gorro azul son los buenos.  Los de los palos, los trapos, los que matan gente, los que roban, esos son los malos.  ¿Sí?  Y el que... Van presos.  Van a ir presos.  Y les voy a decir algo.  Y esto no es una cuestión de mano dura.  Esto es mano justa.  ¿Sí?  ¿Y sabe qué?  Haber pensado de la otra manera ha hecho que este país sea un baño de sangre.  Entonces, ojo.  Digo, porque estas... actitudes flexibles y laxas con los delincuentes, han hecho de este país un infierno. ",
+            "cosine_dist": 0.4147044626237726,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 467.944,
+            "end_time": 475.528,
+            "text": "No vamos a tolerar ni las usurpaciones, ni los cortes de rutas, ni el narcotráfico con la actitud... ",
+            "cosine_dist": 0.8142814380784777,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 475.668,
+            "end_time": 491.816,
+            "text": "A eso quería ir con Sandra, porque a ver, la Ciudad de Buenos Aires es el centro de las protestas.  Está bien, ahora tuvimos Jujuy, pero es la Ciudad de Buenos Aires donde fueron y van a ser, porque ya las organizaciones piqueteras dijo que no importa quién llega al gobierno si no van a seguir.  ¿Qué van a hacer ustedes en la ciudad? ",
+            "cosine_dist": 0.8476846908021951,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 492.401,
+            "end_time": 582.574,
+            "text": "Nosotros lo que queremos es que los intermediarios ya no sean parte de esa ecuación.  La ayuda social va a ir directamente a las personas.  Tenemos una metodología diferente para que llegue a la gente.  No la vamos a decir ahora, ya se van a enterar.  Pero básicamente lo que queremos es que la ayuda que nosotros vamos a seguir conteniendo, porque realmente nosotros no somos los que generamos este desastre, este rompimiento del tejido social, la multiplicación de los pobres.  Nosotros queremos terminar con eso, pero lamentablemente hay una porción grande de gente que yo creo que un porcentaje puede volver a integrarse.  mediante el trabajo.  Pero realmente hay gente que no puede.  Hace una semana estaba hablando con un referente que sabe muchísimo del conurbano, no lo voy a nombrar, pero me contaba historias que parecían fotos.  Una señora que le decía que había conseguido un trabajo.  Y le fue a pedir zapatos.  Le fue a pedir zapatos porque no tenía zapatos para presentarse al trabajo.  Es una ruptura. ",
+            "cosine_dist": 0.8816643165631651,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 582.595,
+            "end_time": 598.143,
+            "text": "A mí me gustaría complementar, para aportar el enfoque, ¿no?  Digamos, nosotros estamos trabajando en el desarrollo de un área de capital humano, donde Sandra es quien se ocupa de todos los temas sociales, ¿no? ",
+            "cosine_dist": 0.4204512696818018,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 598.844,
+            "end_time": 601.646,
+            "text": "Vos estuviste con él la última vez que vino.  Exacto, exacto. ",
+            "cosine_dist": 0.9768901862812864,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 602.386,
+            "end_time": 627.098,
+            "text": "¿Y cuál es el concepto?  ¿Cómo ha sido la política social históricamente en Argentina?  Fue, ah, tenés un problema, te doy el pescado.  Te doy el pescado.  No, nosotros les vamos a enseñar a pescar.  Por eso, digamos, nosotros hablamos de un Ministerio de Capital Humano.  ¿En términos de qué?  de la primera línea de contención, que es niñez y familia. ",
+            "cosine_dist": 0.4043078469431447,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 627.258,
+            "end_time": 656.39,
+            "text": "Pero no solo niñez, es niñez y familia.  Porque el Estado no puede cuidar a un niño como lo puede cuidar la familia, no le puede dar amor como le puede dar una familia.  Y esta persona con la que estuve decía que la función de la familia no la puede cumplir el Estado.  Por eso queremos hacer hincapié en una institución que ha sido destruida sistemáticamente.  Y creo que es el lugar de refugio donde todos volvemos, la familia. ",
+            "cosine_dist": 0.8609805520481018,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 656.41,
+            "end_time": 662.733,
+            "text": "Igual, perdón, a usted se lo asocia con ajuste.  Digo, está todo muy lindo lo que plantean acá, pero siempre dicen, mi ley va a venir. ",
+            "cosine_dist": 0.870675953205936,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 662.793,
+            "end_time": 664.334,
+            "text": "Un ajuste macho. ",
+            "cosine_dist": 0.8568393173931826,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 665.054,
+            "end_time": 667.915,
+            "text": "Entonces, ¿qué hacemos con todo esto? ",
+            "cosine_dist": 0.8717575117569987,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 668.156,
+            "end_time": 767.545,
+            "text": "Bien, ¿puedo ponerlo en hechos estilizados y después explicar al caso actual?  A ver, Argentina, de los últimos ciento veintidós años, ciento doce tuvo déficit fiscal.  Es el país más rico del mundo, somos ciento cuarenta, tenemos más de cuarenta por ciento de pobres, diez por ciento indigentes, con lo cual está claro que el modelo fracasó.  Eso llevó a veintidós crisis a lo largo del siglo XX y lo que va de este siglo.  ¿Y qué son?  Veinte tienen origen fiscal, que se separan entre déficit fiscal alto y escandalosamente alto.  Y eso explica la decadencia argentina.  La decadencia argentina es la presencia del Estado.  Entonces sí, nosotros venimos a hacer el ajuste.  ¿El ajuste a quién?  A diferencia de lo que se hizo a lo largo de toda la historia en Argentina, y en especial en los últimos cuarenta años prácticamente, esta vez el ajuste lo paga la política, lo pagan los políticos.  Esta vez el ajuste no cae sobre el sector privado, el ajuste va a tener que caer sobre la política, sobre los parásitos, sobre los que destruyen valor.  No se puede estar continuamente.  Si vos tenés un parásito en el cuerpo, ¿qué haces?  ¿Vas contra el cuerpo o contra el parásito?  ¿Qué hicieron los políticos argentinos a lo largo de los últimos cuarenta años o de los últimos cien años?  Beneficiaron al parásito.  Y hoy el parásito es más grande que el cuerpo por poco.  Entonces, ¿cómo no va?  Mal.  Y te voy a decir algo.  La única certeza... que tenés es que si vos seguís con este modelo, vamos a terminar siendo la Villa Miseria más grande del mundo.  Por lo tanto, esta es la primera vez que tienen los argentinos en estos cuarenta años de democracia de elegir verdaderamente entre casta versus casta y casta versus libertad. ",
+            "cosine_dist": 0.39297102755221613,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 767.565,
+            "end_time": 768.926,
+            "text": "El tema es cómo hace los cambios. ",
+            "cosine_dist": 0.8170060093183664,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 769.446,
+            "end_time": 772.408,
+            "text": "Pero de vuelta, obvio cómo.  Lo he explicado varias veces. ",
+            "cosine_dist": 0.6023242088914447,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 774.469,
+            "end_time": 784.173,
+            "text": "Lo que le quiero decir es que con la pobreza no, porque ella habla de los más humildes y si usted entra con gente que da fuerza... ",
+            "cosine_dist": 0.7995305455363534,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 784.233,
+            "end_time": 786.534,
+            "text": "Pero el ajuste ya está, ¿de qué estamos hablando? ",
+            "cosine_dist": 0.9106070847188303,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 786.554,
+            "end_time": 818.273,
+            "text": "El ajuste no es sobre el sector privado.  Nosotros queremos ir contra la obra pública.  que se tendría que llamar choreo público, es un escándalo, llevándolo a un sistema de iniciativa privada de la chilena.  Queremos terminar con las transferencias discrecionales a las provincias, queremos terminar con los subsidios económicos, recalibrando la ecuación económica financiera del contrato, dando beneficios fiscales hacia adelante, por ejemplo, eliminar el impuesto a la ganancia reinvertida, sacar de las tarifas toda la parte que es impuesto, de modo tal que el impacto sobre el sector privado sea más bajo. ",
+            "cosine_dist": 0.382512387370997,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 818.293,
+            "end_time": 843.862,
+            "text": "Javier, te quiero hacer una pregunta de dolarización, pero antes le quiero preguntar a Marcela... Además, es como ingresaste recién, ¿no?  Sí.  Podés verlo como también observadora.  Claro que sí.  Rodríguez Larreta, Patricia Burrich, es como que se han derechizado, digamos.  ¿Vos pensás que es por el efecto Milei?  Viste que Rodríguez Larreta incorporaba a Esper, Patricia Burrich, bueno, está muy... ",
+            "cosine_dist": 0.9031342713527967,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 843.882,
+            "end_time": 868.417,
+            "text": "Pero es que, la verdad, con todo respeto lo digo, por esos espacios políticos, yo no termino de entender... ¿Qué son?  ¿Cuál es la identidad?  ¿Cuál es la ideología que representan?  ¿Qué logros pueden mostrar?  ¿Tienen peronistas o gente que dice ser peronista?  ¿Tienen gente que se representa con la gente, con la calle, pero no camina en la calle?  Yo no sé si copian o no a mi ley. ",
+            "cosine_dist": 0.9323732110319444,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 868.437,
+            "end_time": 870.859,
+            "text": "Pero van a buscar el voto de mi ley. ",
+            "cosine_dist": 0.9313734393022395,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 871.019,
+            "end_time": 879.546,
+            "text": "Pero no les va a quedar más opción que hablar de economía.  Y cuando hablemos de economía vamos a ver qué resultados también pueden mostrar ellos en las gestiones que hacen.  Pero esto no es personal, es un contexto también. ",
+            "cosine_dist": 0.9030383201749662,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 879.566,
+            "end_time": 890.255,
+            "text": "Le quiero preguntar, hablando de economía, ¿arrugaste con la dolarización?  No.  Porque ahora empezaron, no, que no es el primer día, que dentro de unos años hubo arrugue de barrera.  No, no. ",
+            "cosine_dist": 0.8548008362928241,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 891.207,
+            "end_time": 924.575,
+            "text": "A ver, Marcelo, yo no me puedo hacer cargo de las mentiras que dicen otros candidatos sobre mis propuestas.  La única realidad acá es que nadie hizo propuestas y los únicos que hicimos propuestas somos la Libertad Avanza.  Y lo único que hicieron fue criticar.  Hay algo que se llama falacia del hombre de paja.  Dicen que vos dijiste una cosa y en realidad dijiste otra.  Y entonces se cambia el foco.  Nosotros, originalmente, nuestra propuesta de dolarización tardaba dos años y medio.  Y eso pueden ir y recurrir a los archivos y leer los documentos.  O sea, tengo libros explicando ese tipo de cosas, con lo cual... ",
+            "cosine_dist": 0.3732210512847206,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 924.595,
+            "end_time": 928.418,
+            "text": "O sea, vas a la autorización, señor presidente.  Sí, claro. ",
+            "cosine_dist": 1.0168297513954772,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 928.838,
+            "end_time": 942.926,
+            "text": "Lo que sucede es que en el proceso, digamos, hay varias alternativas.  Está la que diseñamos nosotros originalmente, la Libertad Avanza.  Está la de Emilio Campo, está la de Adrián Ravier.  Está la propuesta también de Carlos Rodríguez, está la de Jorge Ávila. ",
+            "cosine_dist": 0.3859747357554105,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 942.946,
+            "end_time": 943.807,
+            "text": "La propuesta es la tuya. ",
+            "cosine_dist": 0.9789994033130283,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 945.63,
+            "end_time": 993.653,
+            "text": "voy a buscar la que sea más eficiente en términos de rapidez, porque eso es lo que le da mayor viabilidad política.  Y desde ese punto de vista, la mejor de las propuestas es el caso de la de Emilio Campo, que hace una combinación entre la de Ecuador y la de El Salvador.  Entonces, ¿cuánto tardó en dolarizarse Ecuador?  Nueve meses.  ¿Cuánto tardó en dolarizarse, por ejemplo, El Salvador?  Veinticuatro meses.  Bueno, va a ser una opción donde la gente va eligiendo sacarse el peso para tener dólares y cuando hay un referéndum de mercado que es dos tercios de... el dinero está dolarizado, se acelera el proceso y se lo cierra.  Entonces, ¿de qué va a depender?  Y de la voluntad de los argentinos. ",
+            "cosine_dist": 0.3664331229414822,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 993.673,
+            "end_time": 996.596,
+            "text": "¿Vos pensás que eso va a bajar la inflación rápidamente? ",
+            "cosine_dist": 1.0163305525592565,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 996.636,
+            "end_time": 1016.374,
+            "text": "Va a exterminar la inflación.  Yo el otro día escuchaba a un hombre muy triste, intelectualmente, diciendo, ¿y usted cree que le van a dar a Washington, le va a dar la maquinita a mi ley?  justamente es porque no vas a tener más maquinita, no podés imprimir más billete.  Es decir, la inflación es siempre y en todo lugar un fenómeno monetario que se genera.  O porque emitiste dinero, porque cayó la demanda... ",
+            "cosine_dist": 0.4417781868989372,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 1016.394,
+            "end_time": 1019.736,
+            "text": "Pero mientras tanto, porque dijiste dos años y medio, pero mientras tanto, ¿cómo bajás la inflación? ",
+            "cosine_dist": 0.9469756345605813,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1019.756,
+            "end_time": 1023.498,
+            "text": "Pero, a ver, de vuelta, dije que me gustaba más la de Emilio Campos. ",
+            "cosine_dist": 0.5954006685830955,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 1023.518,
+            "end_time": 1027.0,
+            "text": "Está bien, bueno, un año.  ¿Cómo bajás la inflación mientras tanto? ",
+            "cosine_dist": 0.8420617908405669,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1027.079,
+            "end_time": 1052.674,
+            "text": "¿Sabés cuánto tardó en bajar la inflación en la convertibilidad?  Veinte meses.  Se lanzó en abril del noventa y uno, para enero del noventa y tres, eras el país con menos inflación del mundo.  Siempre expliqué que la política monetaria tiene rezagos.  Los rezagos oscilan entre dieciocho y veinticuatro meses.  Si vos parás de emitir hoy, la inflación va a desaparecer de acá de dieciocho a veinticuatro meses.  ¿La convertibilidad?  cuánto tardó?  Veinte. ",
+            "cosine_dist": 0.42247549151202113,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1053.407,
+            "end_time": 1068.133,
+            "text": "El problema es que no sabemos cuál es el escenario que nos dejan, porque si el candidato a presidente de, ya no sé ni cómo se llama, el oficialismo, va a ser quien maneja, claro, no, digo, el sello.  Frente a todos, unión por la patria. ",
+            "cosine_dist": 0.9949758361784395,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1068.253,
+            "end_time": 1085.424,
+            "text": "No les debe ir muy bien, porque se está cambiando el nombre todo el tiempo.  Eso es una buena noticia.  Quiere decir que a partir del día de diciembre no hay más kirchnerismo.  Así que que no corra más con el kucolquicerismo esto.  Si tienen que cambiar tantas veces el nombre es porque están muertos.  O sea, hay que discutir de las cosas de verdad. ",
+            "cosine_dist": 0.45392375037155086,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1085.444,
+            "end_time": 1093.631,
+            "text": "Javier, si el ministro de Economía va a ser el que va a manejar la caja para que de alguna manera le siente bien el escenario de diciembre, va a seguir la emisión monetaria probablemente. ",
+            "cosine_dist": 0.9918258094543508,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1093.771,
+            "end_time": 1096.394,
+            "text": "Victoria, ¿y ustedes entran en Balotage? ",
+            "cosine_dist": 0.9749928969823783,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1097.09,
+            "end_time": 1098.371,
+            "text": "Sí, por.  supuesto. ",
+            "cosine_dist": 0.9258977683717535,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1098.911,
+            "end_time": 1101.033,
+            "text": "¿Y contra quién se vende? ",
+            "cosine_dist": 1.0068003566485697,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1101.654,
+            "end_time": 1117.507,
+            "text": "Y estamos diciéndolo desde hace... Somos la primera fórmula, somos los primeros que hace muchos meses expusimos nuestro plan, tanto económico como nuestras ideas, las hemos además defendido en la Cámara de Diputados, así que... ",
+            "cosine_dist": 0.8399606607589225,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1118.247,
+            "end_time": 1120.549,
+            "text": "¿Y contra qué se viene?  ¿Te puedo decir algo? ",
+            "cosine_dist": 0.9299767727694637,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1122.531,
+            "end_time": 1156.867,
+            "text": "Hay un dicho que dice, tené cuidado con lo que decías porque se te puede hacer realidad.  Por lo tanto, nosotros trabajamos fuertemente para que se extinga el kircherismo, porque somos los únicos que verdaderamente queremos que se termine el kircherismo, que demos vuelta a la página.  Nosotros no lo queremos confrontar al kircherismo para asustar a la gente.  Nosotros lo confrontamos por el kircherismo porque lo queremos... dar vuelta a la página de la historia.  Y la realidad es que una vez que entremos en el balotage, no nos importa contra quién nos toque.  Les vamos a ganar el que sea. ",
+            "cosine_dist": 0.3594756100705475,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 1157.447,
+            "end_time": 1167.355,
+            "text": "Está acá Carolina Píparo, que es tu candidata.  Sí, es nuestra candidata.  Vamos a hablar con ella, pero digamos, tienen que ganar la provincia de Buenos Aires, que es el fundamento para cualquiera que quiere gobernar. ",
+            "cosine_dist": 0.8188469034201661,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1167.576,
+            "end_time": 1176.203,
+            "text": "Bueno, lo vamos a intentar.  Nosotros vamos a intentar ganar y vamos a hacer todos los esfuerzos.  ¿Usted cree que no nos esforzamos? ",
+            "cosine_dist": 0.5419283338968502,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1176.223,
+            "end_time": 1185.212,
+            "text": "¿Qué pasa con estos candidatos que eran candidatos y que se están bajando?  Creo que el candidato a intendente de Quilmes... ",
+            "cosine_dist": 0.8551141218686755,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1185.933,
+            "end_time": 1188.215,
+            "text": "¿Alguna vez fue oficialmente candidato? ",
+            "cosine_dist": 0.6557435839485715,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1188.996,
+            "end_time": 1190.457,
+            "text": "No, bueno... ",
+            "cosine_dist": 0.9197677644955096,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1191.018,
+            "end_time": 1192.659,
+            "text": "De vuelta, le repito lo mismo. ",
+            "cosine_dist": 0.6555622563235945,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 1193.51,
+            "end_time": 1196.272,
+            "text": "Entonces hay que desconfiar de cada uno que dice estoy con mi ley. ",
+            "cosine_dist": 0.9509083073209849,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1196.552,
+            "end_time": 1200.194,
+            "text": "Bueno, pero es que justamente es parte de las operaciones, o sea, decir que fueran candidatos... ",
+            "cosine_dist": 0.5315210752292759,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 1200.214,
+            "end_time": 1202.856,
+            "text": "Porque yo creo que se dice, no, mi ley dio franquicia a todo el mundo. ",
+            "cosine_dist": 0.9000495564368107,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1203.577,
+            "end_time": 1241.832,
+            "text": "Es que es mentira también eso.  A ver, vuelvo de vuelta con esto.  Si uno toma el tamaño de porción que quiere cada una de las partes que está involucrada en esto, supera el tamaño de la torta.  ¿Sabe qué?  Todos quieren ser el primer candidato a diputado nacional.  ¿Sabe cuántos puestos hay?  Uno.  ¿Y cuántos pelean por eso?  Cientos de personas.  Bueno, este es igual.  El tema es qué pasa cuando en ese proceso de competencia la gente queda afuera.  Bueno, alguna gente llora, otra gente, digamos, patalea y otras extorsionan y amenazan y hacen lío públicamente.  ¿Por qué?  Porque a cualquier denuncia, digamos, o sea, tienen a alguien que les financia. ",
+            "cosine_dist": 0.3708036912003102,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1242.612,
+            "end_time": 1252.355,
+            "text": "Javier, uno de los planteos que hace usted, incluso del dos mil veintiuno, cuando hicimos el debate y demás, era cerrar el Banco Central. ",
+            "cosine_dist": 0.8504285113831722,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1252.955,
+            "end_time": 1253.695,
+            "text": "Sí, lo dije recién. ",
+            "cosine_dist": 0.8561531945081003,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1254.456,
+            "end_time": 1263.778,
+            "text": "Porque su candidato a senador es Juan Napoli, que él es presidente de un banco.  ¿Está de acuerdo él o se viene la...? ",
+            "cosine_dist": 0.9164005757609581,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1264.319,
+            "end_time": 1282.354,
+            "text": "No, pero qué mejor que actuar en libertad.  A mí que alguien me explique cómo puede ser... Que si sos más libre, estás peor.  Es decir, de hecho, los países que son más libres son ocho veces más ricos que los que son reprimidos.  Hay veinticinco veces menos de pobres en el formato estándar. ",
+            "cosine_dist": 0.39271109416399796,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1282.394,
+            "end_time": 1290.137,
+            "text": "Y aquí se ganan ustedes.  ¿A qué país nos vamos a parecer?  ¿A un país africano, latinoamericano, asiático? ",
+            "cosine_dist": 0.9036411454669319,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1292.077,
+            "end_time": 1344.525,
+            "text": "Nuestro modelo, digamos, o sea, si usted quiere, mire, lo primero es volver a la... Si quiere, en la Argentina de Alberti, la Argentina de la libertad.  Ese modelo en la Argentina se aplicó a partir de mil ocho sesenta.  Y de ser un país de bárbaros, en treinta y cinco años nos convertimos en la primer potencia mundial.  Si usted quiere ejemplos más nuevos en la historia, puede tener, por ejemplo, puede mirar qué ha pasado con el caso de la India.  Lleva treinta años creciendo al ocho por ciento.  ¿Quiere ver otro caso?  Mire, Irlanda era el país más miserable de Europa.  Hoy tiene un PBI per cápita de ciento veinte mil dólares.  Si usted toma los últimos treinta años nada más, pasó de veinte mil a ciento veinte mil.  Multiplicó en treinta años por seis el PBI per cápita.  Es decir, que crece a más del seis, siete, casi siete por ciento anual compuesto per cápita.  Eso es, eso es.  ¿Y cómo está la gente?  Mucho mejor, digamos, hay bienestar, hay menos pobre, menos... ",
+            "cosine_dist": 0.37803408007174477,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1345.225,
+            "end_time": 1355.772,
+            "text": "Victoria tiene un emprendedor que es la escarapela argentina, ¿no?  Así es.  Es que es, no sé, no entiendo nada, ¿no?  Pero como que es brillante.  Algo parecido usaba Evita. ",
+            "cosine_dist": 0.9216720920352254,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1356.312,
+            "end_time": 1360.715,
+            "text": "Puede ser, sí, ¿por qué no?  Pero cualquiera que ame a la Argentina. ",
+            "cosine_dist": 0.7662174458710226,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1360.815,
+            "end_time": 1361.696,
+            "text": "¿Qué opina de Evita? ",
+            "cosine_dist": 0.9578814168731392,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1362.016,
+            "end_time": 1373.905,
+            "text": "Nada, una mujer representativa de la política, un personaje sumamente importante para nuestro país.  Puedo estar de acuerdo o no con sus ideas, pero no puedo negar lo que es.  Todos usamos la bandera. ",
+            "cosine_dist": 0.8513503682446292,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1374.065,
+            "end_time": 1375.006,
+            "text": "Y Marcela, vos decís... ",
+            "cosine_dist": 0.9663779284693091,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1375.026,
+            "end_time": 1378.151,
+            "text": "No, no, no.  Decía porque... Pero no, pero no. ",
+            "cosine_dist": 0.8416943911780888,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1378.291,
+            "end_time": 1390.626,
+            "text": "Jamás me voy a ofender por una comparación de ese estilo.  En Estados Unidos en un momento se hizo una... ¿Cómo se llama?  Una subasta.  De algún emprendedor parecido. ",
+            "cosine_dist": 0.8596453516545571,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1390.646,
+            "end_time": 1396.408,
+            "text": "No, era la banderita, era la banderita, no era como esto.  Era la banderita con el mástil y todo. ",
+            "cosine_dist": 0.8608039800509841,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1396.448,
+            "end_time": 1402.789,
+            "text": "Y Marcela, vos decís, no, bueno, quiero dejar de contar las cosas para tratar de cambiarlas, ¿verdad? ",
+            "cosine_dist": 0.8976446937578884,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1402.909,
+            "end_time": 1405.93,
+            "text": "No, las voy a seguir contando, Marcela.  Las voy a seguir contando. ",
+            "cosine_dist": 1.041930027208504,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1405.97,
+            "end_time": 1417.897,
+            "text": "Contando y cambiarlas.  Y te ves en un cargo del Ministerio de Economía.  Ese desafío del periodista especializado en economía dice... Claro, está en otra oficina ahora. ",
+            "cosine_dist": 0.9457015552973846,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1418.097,
+            "end_time": 1445.019,
+            "text": "Ya tuvimos esa experiencia.  Yo creo que hay un montón de economistas en el espacio que son muy buenos.  Yo sí donde me veo es discutiendo ideas y debatiendo.  Me parece que eso los periodistas lo sabemos hacer muy bien por el ejercicio de nuestra profesión, pero además, ¿por qué no llevar los problemas que tenemos todos nosotros a proyectos de leyes?  Y cuando no nos permitan, imponer nuestros proyectos de leyes, contarlos.  Porque también está bueno empezar a contar qué es lo que pasa en el Congreso y cómo es el manejo de la política desde adentro. ",
+            "cosine_dist": 0.9362342121360143,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 1445.999,
+            "end_time": 1455.067,
+            "text": "A ver, me llevas a un tema con mi ley, a propósito del tema de las leyes.  ¿Con quién va a ser alianza?  ¿Con la gente, los legisladores, Patricia Bullrich?  ¿Con quién en el Congreso? ",
+            "cosine_dist": 0.8961805535123788,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1455.247,
+            "end_time": 1456.027,
+            "text": "Con los argentinos. ",
+            "cosine_dist": 0.8400557189468719,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 1456047,
+            "end_time": 1456408,
+            "text": "No, no. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1456.528,
+            "end_time": 1458.109,
+            "text": "El aliado va a ser el pueblo argentino. ",
+            "cosine_dist": 0.6339811255970804,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 1458.209,
+            "end_time": 1462.953,
+            "text": "No, no es.  Usted va a tener representantes del Congreso, tiene que hacer alianza con alguno, no con el pueblo argentino. ",
+            "cosine_dist": 0.9151501188038242,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1463.213,
+            "end_time": 1467.99,
+            "text": "Te hago una pregunta.  ¿Usted hace alianzas con un delincuente, con un chorro, con un asesino? ",
+            "cosine_dist": 0.5175029859639542,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 1468.15,
+            "end_time": 1471.194,
+            "text": "Yo le pregunto ¿con quién? ",
+            "cosine_dist": 0.7822915719614789,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1471.214,
+            "end_time": 1481.346,
+            "text": "¿Por qué usted pretende que yo haga una alianza con esa gente?  Pero porque se necesitan votos para gobernar.  ¿Usted quiere decir que tiene la actitud ética y moral para hacer transacciones? ",
+            "cosine_dist": 0.5679457610554126,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 1482.607,
+            "end_time": 1483.968,
+            "text": "Usted se cierra.  ¿Usted quiere sacar leyes? ",
+            "cosine_dist": 1.002796593539674,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1483.988,
+            "end_time": 1506.604,
+            "text": "¿Tiene que hacer un acuerdo en el Congreso o no va a sacar los votos?  A ver, nosotros vamos a llevar nuestras leyes, las vamos a proponer, las vamos a discutir, las vamos a debatir.  Ahí está.  Van a buscar votos.  Y bueno, y si salen, bien.  Y si no salen, la vida es parte del sistema democrático.  Y si son reformas estructurales que nosotros consideramos fundamentales... ",
+            "cosine_dist": 0.43958606803013733,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 4",
+            "start_time": 1506.724,
+            "end_time": 1507.365,
+            "text": "Económicas, por. ",
+            "cosine_dist": 0.8929086094096975,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1507.405,
+            "end_time": 1549.232,
+            "text": "ejemplo.  Por ejemplo, la reforma monetaria.  La llevamos al Congreso.  Supongamos que viene rebotada.  Presentamos un referéndum.  Digamos, para que el Congreso nos apruebe que haya un referéndum.  Primero, si no lo votan, le van a tener que explicar a la sociedad porque no quieren que la gente elija su moneda.  Segundo, digamos que hay referéndum, vamos al referéndum.  Supongamos que nos sale mal.  Nosotros tenemos un compromiso ineludible con exterminar la inflación.  Es decir, nosotros somos los únicos que le vamos a garantizar exterminar la inflación.  Entonces, si aún así... no saliera, lo que voy a hacer es sobrereaccionar el ajuste fiscal que sufra más todavía la casta política para bajar la inflación. ",
+            "cosine_dist": 0.4121749490900194,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1549.272,
+            "end_time": 1554.933,
+            "text": "Javier, tenemos una prueba de fuego, a ver si acepta, porque por ahí se renuncia a la presidencia. ",
+            "cosine_dist": 0.9504300413945991,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1554.993,
+            "end_time": 1555.893,
+            "text": "¿Cómo voy a renunciar? ",
+            "cosine_dist": 0.8363168594598576,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1555.913,
+            "end_time": 1560.354,
+            "text": "No, espere, espere.  No sabe qué todavía.  Lo hicimos con inteligencia artificial. ",
+            "cosine_dist": 1.0169753908291117,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1560.915,
+            "end_time": 1565.056,
+            "text": "¿Cómo está usted y cómo sería cuando salga?  Y cómo terminaría.  Porque vio que desgasta. ",
+            "cosine_dist": 0.8501771963421657,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1565.096,
+            "end_time": 1572.041,
+            "text": "Al final del mandato.  Así quedaría.  ¿Acepta?  ¿Se la banca esa? ",
+            "cosine_dist": 0.9187649549448106,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1572.762,
+            "end_time": 1613.552,
+            "text": "A ver, vamos a ponerlo en estos términos.  Si esta es la consecuencia de poder volver a poner de pie a la Argentina e iniciar el camino que nos vuelva a ser una potencia en cuarenta y cinco años, estoy dispuesto a pagar ese costo.  Te voy a decir algo.  Yo siempre cité a Pellegrini.  ¿Saben por qué lo cité a Pellegrini?  Porque Pellegrini asumió en el medio de una crisis brutal.  ¿Y sabe qué hizo?  Todas las cosas que tenía que hacer y le llenaron la cara de dedos.  Y cuando fue a salir del Congreso, un asesor le dijo, no, don Carlos, no salga.  Y Carlos, que es pelegrín y que era bravo, se abrochó el frac, se calzó la galera, tomó su bastón. ",
+            "cosine_dist": 0.35032945430315887,
+            "is_target_speaker": true
+        }
+    ]
+}

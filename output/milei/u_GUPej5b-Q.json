@@ -1,0 +1,1223 @@
+{
+    "Index": 623,
+    "channel_id": "UCj6PcyLvpnIRT_2W_mwa9Aw",
+    "channel": "Todo Noticias",
+    "uploader_url": "https://www.youtube.com/@todonoticias",
+    "id": "u_GUPej5b-Q",
+    "url": "https://www.youtube.com/watch?v=u_GUPej5b-Q",
+    "title": "\"ESTOY LEYENDO LA TORÁ\" | Javier Milei en SOLO UNA VUELTA MÁS",
+    "duration": 2040.0,
+    "view_count": 179321,
+    "candidate_name": "milei",
+    "quality": "low",
+    "segments": [
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1660,
+            "end_time": 1960,
+            "text": "",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1.332,
+            "end_time": 4.537,
+            "text": "Javier Milei, ¿cómo le va?  ¿Qué tal, Diego?  ¿Cómo estás? ",
+            "cosine_dist": 0.8889428788959017,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 4557,
+            "end_time": 4877,
+            "text": "¿Todo bien? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 4.897,
+            "end_time": 5.718,
+            "text": "Todo muy bien. ",
+            "cosine_dist": 0.9166464557675812,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 6.68,
+            "end_time": 14.851,
+            "text": "Bueno, sacá un papelito.  ¿Temas personales o coyunturales? ",
+            "cosine_dist": 0.8146640234120391,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 16.073,
+            "end_time": 17.555,
+            "text": "Lo que vos quieras.  Bueno. ",
+            "cosine_dist": 0.9229183331965549,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 19.787,
+            "end_time": 32.011,
+            "text": "¿Qué pensás vos en la propuesta del Senado de ampliar las jubilaciones y tener una moratoria para los que no tengan treinta años de aportes en determinadas condiciones poder jubilarlos? ",
+            "cosine_dist": 0.7103679226849842,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 32.772,
+            "end_time": 92.531,
+            "text": "Bueno, es una nueva irresponsabilidad por parte de la casta política.  La realidad es que el sistema previsional en Argentina está quebrado.  La realidad es que está quebrado por la casta política.  porque cuando en su momento obligaban a las AFJP invertir en títulos públicos, después vino el default, no solo eso, sino que además después el kiserismo empezó a dar jubilaciones sin aportes, o sea, con lo cual vos, frente a una determinada masa, incrementás la cantidad de beneficiarios, eso también te genera un problema, y ahora siguen haciendo este tipo de cosas.  El sistema previsional en la Argentina genera un déficit de tres puntos del PBI creciente en el tiempo.  O sea, si vos no ponés en caja la cuestión previsional, tenemos un problema grave, porque todo eso implica que vos te estás comiendo el ahorro, y como te comes el ahorro, no tenés inversión, al no tener inversión no generás puestos de trabajo, por eso se van los chicos, porque no tienen oportunidades. ",
+            "cosine_dist": 0.367153853385481,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 96.786,
+            "end_time": 102.993,
+            "text": "¿Hay que privatizar las jubilaciones al estilo AFJP?  ¿Tienen que seguir así pero de otro modo? ",
+            "cosine_dist": 0.7261492995606895,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 103.233,
+            "end_time": 160.173,
+            "text": "A ver, vos ya sabés cómo termina esto.  Porque, a ver, cuando se llegó a las AFJP, vos... terminaste en este sistema porque las jubilaciones terminaron en unos niveles miserables, digamos que durante la hiperinflación de Alfonsín y después la hiperinflación que le toca a Menem.  Por lo tanto, en ese sentido, la realidad es que el sistema estaba colapsado por todos lados y una forma que se le buscó fue darle una solución.  Obviamente que había una forma para hacerlo mejor, que era haber optado por una forma como se hizo en Chile.  Pero bueno, acá se utilizó un mecanismo que a la postre demostró ser que no funcionaba.  Pero el problema más grave es que siempre se te termina metiendo la política, manoteándole la mano a la gente, porque eso es lo que pasó.  O sea, después empezaron a utilizar el Fondo de Garantía de Sustentabilidad para... Ponerlo en cualquier lado. ",
+            "cosine_dist": 0.32375981001761844,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 160.193,
+            "end_time": 178.208,
+            "text": "¿Qué harías?  Ahora hay preguntas.  Cuando mi ley iba para diputado, había un repertorio de preguntas.  Vos notás que, dado tu crecimiento en encuestas y tu autoproclamado intención presidencial, se te preguntan otras cosas de otra escala también.  ¿Qué harías vos con las jubilaciones? ",
+            "cosine_dist": 0.6297907751006613,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 178.228,
+            "end_time": 255.263,
+            "text": "Mira, una de las cosas que vos tenés que hacer es... Yo, digamos, el tema previsional lo pongo en lo que se llaman las reformas de segunda generación.  O sea, vos tenés que generar condiciones para poder reformar el sistema jubilatorio.  ¿Me comprendés?  Entonces, una de las cosas que nosotros planteamos es una reforma del Estado, en esa reforma del Estado que vos bajás el gasto y que bajás los impuestos y flexibilizás el mercado laboral hacia adelante y abrís la economía en un contexto donde además... yo propongo, digamos, para erradicar definitivamente la inflación, terminar con el Banco Central, en ese contexto, que es una economía con la cual vos vas a generar muchísimo crecimiento económico, no solo que vas a generar muchísimo crecimiento económico, sino que además lo vas a hacer intensivo en capital, perdóname, intensivo en trabajo, porque flexibilizaste el mercado laboral.  Además, o sea, toda esa mejora que vos vas a tener te va a implicar un aumento de la PEA, Entonces, con esa situación y además con la estabilidad monetaria, vos vas a tener un rebote de actividad tan grande que lo que vos podés hacer es empezar a reformar el sistema previsional sin que se pierdan derechos.  La clave es que vos lo tenés que reformar, pero no tenés que perder derechos, porque si hay derechos que se pierden, ¿cuál es el problema?  Es que se te va a trabar en la justicia. ",
+            "cosine_dist": 0.32053742655682416,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 255.763,
+            "end_time": 283.006,
+            "text": "Bien.  El cuento de la lechera es todo lo que hará la lechera cuando venda su primer queso en la aldea.  ¿Recordás?  Vos venís con toda una serie de reformas, de primera y después de segunda generación, pero hay que pasar por una primera colina, que es el Congreso, para bajar impuestos, para hacer reformas de este estilo.  ¿Tenés capacidad de negociación dentro del Congreso para juntar una masa crítica y bajar impuestos?  vos, Javier Milei? ",
+            "cosine_dist": 0.6705695716343867,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 283.386,
+            "end_time": 302.289,
+            "text": "A ver, vamos por partes.  La pregunta es, nosotros tenemos diseñada una reforma tributaria, ¿sí?  Donde se simplifique la cantidad de impuestos, o sea, se reduzca el número de impuestos, o sea, se terminen con algunos kiosquitos.  Ahora, el punto es el siguiente.  La pregunta es, ¿por qué si la reforma es buena no va a salir? ",
+            "cosine_dist": 0.41191098212758337,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 302.929,
+            "end_time": 305.512,
+            "text": "Porque está el mundo lleno de buenas intenciones. ",
+            "cosine_dist": 0.8167795970139158,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 305.612,
+            "end_time": 356.94,
+            "text": "No, no, no, porque por ejemplo, en el gobierno de Mauricio Macri, digamos, él en la primera vuelta, digamos, primero sacó el treinta por ciento de los votos, o sea, con lo cual, digamos, tuvo representación acorde a eso.  Y sin embargo, durante el primer año le sacaron todas las leyes, salió todo.  ¿Por qué vos creés que hay, si hay reformas que van a ser tan buenas, por qué vos creés que no van a ser acompañadas?  La pregunta es, y de repente si hay expresiones que dicen que ahora se sienten más liberales, ¿por qué no habrían de acompañarlas?  O sea, la pregunta es, ¿por qué vos crees que reformas que favorecen a la población, la casta política, se va a dejar de manifiesto y va a mostrar que está dispuesto a impedir el avance de buenas reformas con tal de mantener sus privilegios?  La pregunta es interesante.  O sea, yo creo que los van a aprobar. ",
+            "cosine_dist": 0.32669174472891915,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 357.54,
+            "end_time": 365.143,
+            "text": "Bien.  Yo escuché varias veces en vos, incluso charlando con vos en este mismo programa, que hay como un elemento moral, ¿no? ",
+            "cosine_dist": 0.7741646128949677,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 365.844,
+            "end_time": 366.564,
+            "text": "Siempre es moral. ",
+            "cosine_dist": 0.970980297718504,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 366.764,
+            "end_time": 374.087,
+            "text": "Dado que es muy bueno lo que yo propongo, va de suyo que me lo van a aprobar o me van a acompañar.  ¿Será tan así? ",
+            "cosine_dist": 0.5911408166950334,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 374.607,
+            "end_time": 402.858,
+            "text": "Mira, vamos a ponerlo... El caso más emblemático es el del Banco Central.  O sea, que es una reforma que inicia con una reforma financiera que a la postre termina con la eliminación del Banco Central para terminar con la existencia del peso, que es un mecanismo verdaderamente de explotación, de robo.  Porque vos pensás esto... Fíjate esto, vos en el dos mil uno, con cien pesos, comprabas cien dólares, hoy compras medio dólar. ",
+            "cosine_dist": 0.359235932537575,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 402.898,
+            "end_time": 404.579,
+            "text": "Yo lo sé.  O sea... Escucha... ",
+            "cosine_dist": 0.7974981968541028,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 405.759,
+            "end_time": 406.82,
+            "text": "¿A quién benefició eso?  ¿A nadie? ",
+            "cosine_dist": 0.8678250366538937,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 407.12,
+            "end_time": 412.906,
+            "text": "No, lo moral.  Que vos decís, dado que es bueno... me van a acompañar.  ¿Estás seguro? ",
+            "cosine_dist": 0.7412581251060936,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 412.926,
+            "end_time": 414.128,
+            "text": "¿Cómo harías? ",
+            "cosine_dist": 0.6567857099732828,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 414.789,
+            "end_time": 422.899,
+            "text": "¿Por qué estás tan seguro de que tus nobles propósitos, por el mero hecho de que para vos moralmente son buenos, se te van a acompañar? ",
+            "cosine_dist": 0.6586693348073953,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 422.92,
+            "end_time": 426.725,
+            "text": "No, no, no.  A ver, no.  Creo que hay un acuerdo.  Por ejemplo, ¿para vos robar está bien? ",
+            "cosine_dist": 0.5414048576163627,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 428.45,
+            "end_time": 429.211,
+            "text": "Por supuesto que no. ",
+            "cosine_dist": 0.9439633139686722,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 429.651,
+            "end_time": 516.409,
+            "text": "Bueno, entonces, ¿sabes qué?  Cuando el Banco Central emite dinero para financiar al fisco, eso es un robo.  Es una falsificación de dinero que además es una expropiación.  O sea, porque vos en realidad estás haciendo transacciones a una vieja cantidad de dinero, ahora hay una nueva, más grande, que se usó para financiar al fisco y eso implica que ese dinero que vos tenías ahora vale menos.  O sea, te estafaron, te robaron.  Es más, este gobierno le robó a los argentinos once puntos del PBI durante los últimos dos años con el señoriaje, que es la emisión para financiar al fisco.  Si querés vuelvo a contar el ejemplo de la economía de oro para demostrar que es una estafa.  Pero a lo que hoy lo soy yo.  Entonces, si vos estás de acuerdo que robar está mal, si vos estás de acuerdo con que Argentina, por ejemplo, durante su historia monetaria, digamos porque Argentina tiene banco central desde mil nueve treinta y cinco, de ahí en adelante, cada vez que perdimos, cada vez que la inflación pasó el veinte por ciento, perdimos un punto cincuenta y ocho de crecimiento y hoy podríamos tener un PBI per cápita como el de Estados Unidos.  Si vos ves que la inflación le pega entre veinticinco y treinta veces más fuerte a los más vulnerables, ¿por qué?  vos querés sostener un mecanismo por el cual la política le roba a los argentinos.  Es decir, y ¿sabés qué?  Yo estaría encantado, yo lo voy a enviar, el proyecto.  ¿Sabés qué?  Si me lo rebotan, me lo bochan, estaría encantado de la vida también.  ¿Sabés por?  qué?  Porque hago una consulta popular.  Ahí no necesito el Congreso para hacer una consulta popular. ",
+            "cosine_dist": 0.3266681986891098,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 518.051,
+            "end_time": 525.274,
+            "text": "¿Cómo harías si algo... Vos lo dirías si ya sos presidente en ese caso. ",
+            "cosine_dist": 0.6857952887722858,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 525.314,
+            "end_time": 526.055,
+            "text": "Obviamente, claro. ",
+            "cosine_dist": 0.8319511076238992,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 526.095,
+            "end_time": 528.416,
+            "text": "Estamos hablando de un mi ley presidente en este momento. ",
+            "cosine_dist": 0.828534410607034,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 528.456,
+            "end_time": 529.617,
+            "text": "En esos términos estoy hablando. ",
+            "cosine_dist": 0.7235081606565333,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 529.817,
+            "end_time": 532.838,
+            "text": "Un mi ley presidente envía al Congreso un proyecto de ley. ",
+            "cosine_dist": 0.6544072805743484,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 532.858,
+            "end_time": 535.299,
+            "text": "Toda la reforma monetaria y bancaria, ponete.  No salen. ",
+            "cosine_dist": 0.5657885408652272,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 535.78,
+            "end_time": 538.561,
+            "text": "Se te paran de mano.  Juntos por el cambio, el peronismo... ",
+            "cosine_dist": 0.6844674798627062,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 538.581,
+            "end_time": 539.402,
+            "text": "Consulta popular. ",
+            "cosine_dist": 0.7862763946477449,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 539922,
+            "end_time": 540502,
+            "text": "Consulta popular. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 540.542,
+            "end_time": 551.618,
+            "text": "Consulta popular y le explico a la gente por qué no me quieren sacar la reforma.  Entonces, que la gente decida.  Entonces, que le muestre a la política qué es lo que quiere. ",
+            "cosine_dist": 0.44531522240561605,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 552.481,
+            "end_time": 565.707,
+            "text": "Bien, ese es un camino.  Otro camino es que vos te sientes en el Congreso y digas, aprieto off al botón de casta y tengo que negociar con todos ellos porque mal o bien son el sistema. ",
+            "cosine_dist": 0.6880733205432169,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 565.727,
+            "end_time": 582.396,
+            "text": "¿Por qué tengo que negociar las cosas que son buenas?  Si yo estoy proponiendo cosas buenas.  Esta es la clave, Diego.  Esta es la clave porque cuando vos haces el planteo, lo llevas al límite de lo moral... Ahí no tenés mucho margen para equivocarte. ",
+            "cosine_dist": 0.43110475567113293,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 583.398,
+            "end_time": 588.987,
+            "text": "Yo te diría que lo que se ve en Argentina, la historia de claroscuros, el tema moral, es muy subjetivo. ",
+            "cosine_dist": 0.6600855071119952,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 590.137,
+            "end_time": 591.658,
+            "text": "Para mí robar está mal siempre. ",
+            "cosine_dist": 0.5764719746362501,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 591.738,
+            "end_time": 592.759,
+            "text": "Pero desde ya lo que te digo es... ",
+            "cosine_dist": 0.9087490761636942,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 592.779,
+            "end_time": 594.841,
+            "text": "Para mí el trato desigual frente a la ley está mal. ",
+            "cosine_dist": 0.622645075387955,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 594.961,
+            "end_time": 597.523,
+            "text": "¿Cómo te ves en el campo de la persuasión? ",
+            "cosine_dist": 0.647015953515438,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 598.084,
+            "end_time": 614.478,
+            "text": "Bueno, yo creo que tengo los elementos para probar que las reformas que estoy impulsando son superadoras y que además no solo tienen el aval de la evidencia empírica, sino que además tienen el aval desde un punto de vista moral. ",
+            "cosine_dist": 0.4054837566615883,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 616.681,
+            "end_time": 628.549,
+            "text": "el sello moral o la efectividad de tus reformas, ¿qué país tenés hoy en el mapa que funcione con cosas parecidas a las que vos planteás de modo contemporáneo? ",
+            "cosine_dist": 0.7276650480420424,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 629.209,
+            "end_time": 630.03,
+            "text": "¿Qué país te gusta? ",
+            "cosine_dist": 0.8302830078288552,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 630.05,
+            "end_time": 632.631,
+            "text": "Es decir, yo quiero eso, lo que están haciendo en tal país. ",
+            "cosine_dist": 0.7715337032093887,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 632.651,
+            "end_time": 679.449,
+            "text": "A mí me gustan países como Australia, como Nueva Zelanda, digamos como Irlanda.  Es decir, vos fíjate, Irlanda cuando arrancó las reformas pro mercado... En el país más miserable de Europa.  Hoy tiene un PBI per cápita que es diez por ciento más alto que el de Estados Unidos.  O por ejemplo, no, no, pero, pero, fíjate.  Por ejemplo, la India.  La India hizo reformas pro mercado, empezó en los años noventa.  Hoy tiene un PBI per cápita once veces más grande.  Es decir, funciona, funciona.  El tema es, ¿por qué no quiere funcionar?  ¿Por qué no lo...?  A ver... Yo creo que muchas veces tiene que ver con desconocimiento.  Muchas veces no es que hay mala intención, a veces hay desconocimiento.  Es decir, a veces tampoco quieren escuchar, a veces están más preocupados por la propia. ",
+            "cosine_dist": 0.3612405442247738,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 679.469,
+            "end_time": 700.795,
+            "text": "Y acá llegamos a un lugar que humildemente me parece que es interesante para escuchar de vos porque generás interés.  ¿Qué pasaría si te encontrás con un no?  ¿Qué pasaría con tu temperamento si te encontrás con un no?  ¿Cómo es Javier Milei frente a un rotundo no?  ¿Cómo te comportarías? ",
+            "cosine_dist": 0.621957259042816,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 700.815,
+            "end_time": 717.053,
+            "text": "Mira, una de las cosas que yo explico, o sea, no somos tan buenos cuando ganamos ni tan malos cuando perdemos.  O sea... Habrá que agarrar y habrá que reconsiderar las restricciones y volver a hacer el recalculando.  O sea, es parte de la vida. ",
+            "cosine_dist": 0.4546409378378782,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 717.113,
+            "end_time": 725.382,
+            "text": "Bueno, porque una de las cuestiones que hay que administrar son las emociones.  O dirás, psicólogo, pero en algún momento has tenido... ",
+            "cosine_dist": 0.6891966994305645,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 727.017,
+            "end_time": 734.383,
+            "text": "Bueno, está bien, ¿y cuál es el problema?  Y ahora no las tengo.  Pero hay que estar continuamente reflotando las cosas del pasado. ",
+            "cosine_dist": 0.5296380543919306,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 735.304,
+            "end_time": 738.346,
+            "text": "¿Es una pregunta válida?  ¿No se chive el señor? ",
+            "cosine_dist": 0.798439746651844,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 738.546,
+            "end_time": 741.549,
+            "text": "No, yo no me chive.  O sea, ¿querés instalar que estoy enojado? ",
+            "cosine_dist": 0.6100982240553738,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 743.823,
+            "end_time": 748.108,
+            "text": "¿Vos creés que yo, ya nos conocemos, vos creés que yo vengo a instalar tal o cual cosa? ",
+            "cosine_dist": 0.8162137873419656,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 748.128,
+            "end_time": 749.569,
+            "text": "Bueno, ¿por qué me hacés esa pregunta? ",
+            "cosine_dist": 0.6765411572109349,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 749.669,
+            "end_time": 751.131,
+            "text": "Porque es importante saber... ",
+            "cosine_dist": 0.8153076162357427,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 751.351,
+            "end_time": 761.922,
+            "text": "No, porque, digamos, estoy respondiendo, digamos, sin ningún tipo de problema, te estoy planteando cómo veo este tipo de cosas y por qué entonces venimos a, digamos, o sea, no, porque en el pasado... ",
+            "cosine_dist": 0.5047144319595473,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 761.942,
+            "end_time": 763.644,
+            "text": "Porque es una pregunta válida que algunos... ",
+            "cosine_dist": 0.7609938901910787,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 763.664,
+            "end_time": 766.747,
+            "text": "Y acaso no di una respuesta válida... No, sí, claro, digamos... ",
+            "cosine_dist": 0.6458383290685001,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 766.767,
+            "end_time": 768.408,
+            "text": "Está diciendo que vas a hacer una consulta popular. ",
+            "cosine_dist": 0.877454340328289,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 768.428,
+            "end_time": 774.713,
+            "text": "Pero sí, claro, digamos, y los que están operando en mi contra también, digamos, o sea, claro, le parece absolutamente válida porque es algo que quieren instalar. ",
+            "cosine_dist": 0.4511979112264064,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 774.733,
+            "end_time": 775.914,
+            "text": "¿Qué cosa quieren instalar? ",
+            "cosine_dist": 0.8990828109855388,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 775.994,
+            "end_time": 854.694,
+            "text": "Digamos, este tema de que no podría resolver... A ver, yo vengo del deporte, ¿me entiendes?  O sea, cuando me toca perder, pierdo.  Es una oportunidad, contalo.  Bueno, está bien por eso.  Es más... No solo que cuando vos venís del deporte, o sea, no somos tan buenos cuando ganamos ni tan malos cuando perdemos.  Porque en realidad, el día que vos ganaste y te la creíste, al otro día te llenaron la canasta.  Punto uno.  Punto dos.  Encima yo jugaba al fútbol y era arquero.  O sea, ¿sabés qué?  ¿Sabés todo lo que me tuve que entrenar y acostumbrar de ir a buscarla adentro?  ¿Sabés lo feo que es?  Y sin embargo te la bancás y seguís.  O sea, a ver, la vida no es... No tener fracasos.  La vida es aún seguir a pesar de que tenés fracasos.  O sea, levantarte y seguir.  Bueno, entonces te sale mal.  y bueno, probarás de otra manera.  Y si no hay otra forma, incluirás la restricción y tomarás un camino que tenga contemplada esta nueva restricción.  No es tan grave.  O sea, no sé por qué lo veo... O sea, quizás... Quizás, o sea, como las apreciaciones que uno hace sobre otras personas tienen mucha subjetividad, estén proyectando sus problemas y sus frustraciones.  O sea, yo... ¿Quién es?  No sé, digo, los que hacen esas críticas.  ¿Qué querés que te diga? ",
+            "cosine_dist": 0.3129253192744761,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 854.734,
+            "end_time": 858.256,
+            "text": "La crítica que es que si eventualmente, ¿cómo reaccionarías tú? ",
+            "cosine_dist": 0.7213470574445724,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 858.496,
+            "end_time": 913.351,
+            "text": "Claro, digo, o sea, por eso, por eso, sí, tal cual, por eso a mí no me hace ningún tipo de problema.  O sea, yo digo, yo estoy acostumbrado, mira, si salió mal, agarré la autocrítica y lo mejoraré.  Y si salió bien, también hago autocrítica, porque no te puedes quedar dormido en los laureles.  Y si aparece una restricción, bueno, trataré de ver cómo hacer las cosas con esa restricción.  Eso es la vida.  O sea, digo, ¿qué querés que te diga?  O sea, de vuelta, no somos tan buenos cuando ganamos ni tan malos cuando perdemos.  Y la cantidad de veces que la tuve que ir a buscar adentro, o sea, te da a temple.  O sea, no es que, digamos, o sea, es más, o sea, yo recuerdo un partido, digamos, me llegaron a hacer siete goles.  ¿Sabés lo que es recuperarse de eso?  Eso es pencha carita.  ¿Sí?  ¿Eso es la primera?  No, no, no.  Ahora se dice divisiones juveniles.  Antes se decía divisiones inferiores.  No, jugando en séptima contra Huracán. ",
+            "cosine_dist": 0.37152814687152036,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 913.692,
+            "end_time": 914.532,
+            "text": "Huracán te metió siete. ",
+            "cosine_dist": 0.8614359578369342,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 914.552,
+            "end_time": 929.541,
+            "text": "Me hicieron siete goles.  Ni todavía me acuerdo.  ¿Cómo fue esa vuelta a casa?  Nada.  Hay que entrenar más, hay que hacer mejor las cosas y se corrige trabajando más.  O sea, ni con Berrinche, trabajando más. ",
+            "cosine_dist": 0.4725834813997011,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 931.118,
+            "end_time": 938.521,
+            "text": "¿Creciste en el último año?  ¿La política qué te está enseñando?  A nivel emocional también. ",
+            "cosine_dist": 0.7177028321277943,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 939.742,
+            "end_time": 986.618,
+            "text": "Mirá, una de las cosas que... Yo creo que la experiencia es buena porque aprendí mucho más sobre el proceso decisorio de la política.  Es decir, de hecho, yo creo que hoy como economista soy mucho mejor economista que antes.  Básicamente porque hago una mejor lectura del proceso decisorio y por lo tanto hago una mejor lectura de la economía.  En ese sentido creo que mejoré mucho y creo que también... Hay algunas, digo, también aprendí a no enojarme, o sea, entender cómo funciona la lógica.  Entonces una vez que, digo, bueno, pero la vida es aprendizaje. ",
+            "cosine_dist": 0.40194544392324005,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 987.438,
+            "end_time": 999.3,
+            "text": "Hay una secuencia donde estás con Sergio Massa que te dice algo paternalmente.  No sé si tenemos el video, lo podemos ver.  Sí.  ¿Sabés qué pasa ahí?  Sí, sí, sí.  ¿Podés contar lo que pasó mientras se vio? ",
+            "cosine_dist": 0.7296233789826565,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 999.36,
+            "end_time": 1001.241,
+            "text": "Claro, claro, claro que lo puedo contar. ",
+            "cosine_dist": 0.7853144577630808,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1001.841,
+            "end_time": 1024.531,
+            "text": "A ver, video.  Bueno, todo tipo de opiniones sobre el video.  ¿Cuál es tu mirada sobre ese dedo índice que vemos? ",
+            "cosine_dist": 0.7887304652232303,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1024.551,
+            "end_time": 1117.608,
+            "text": "Sí, a ver, yo cuento cómo es lo que pasó y aparte contextualizado entre lo que es masa y lo que soy yo en ese contexto.  Eso está en lo que se llama reunión parlamentaria.  Eso es dentro del salón parodi.  que es donde se arman las reuniones estas de labor parlamentaria, eso tiene varias cuestiones ahí.  El tema es que yo tengo una obsesión con llegar temprano.  O sea, por ejemplo, hoy me salí muy temprano y había mucho tráfico, entonces llegué justo, pero llegué.  O sea, llegué en punto, pero... Entonces, imagínate que cuando no hay tráfico, entonces llego de repente media hora antes.  O sea, soy siempre el que llega primero.  Y ese día, en realidad, no llegué primero.  O sea... Llegué solo quince minutos antes.  ¿Por qué?  Porque estaba afuera haciendo notas, o sea, dando reportajes a los medios.  Entonces, básicamente lo que estaba haciendo Massa ahí era hacerme un chiste sobre que había entrado, no había entrado como entro normalmente, porque me había quedado haciendo medios.  Era eso lo que me dijo.  Ahora, hay varias cuestiones.  Hay una cuestión muy delicada.  A ver... Porque si eso está filmado dentro de labor parlamentaria, y eso está grabado por un teléfono, quiere decir que lo grabaron alguien de la mesa de enfrente. ",
+            "cosine_dist": 0.36805202948405813,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1118.549,
+            "end_time": 1119.209,
+            "text": "¿Quién puede ser? ",
+            "cosine_dist": 0.8575296387374101,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1119.589,
+            "end_time": 1122.451,
+            "text": "La gente de Juntos por el Cambio.  Es interesante esto, ¿eh? ",
+            "cosine_dist": 0.5513900093688728,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1123.071,
+            "end_time": 1124.012,
+            "text": "¿Para qué harían eso? ",
+            "cosine_dist": 0.846920424847477,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1124.312,
+            "end_time": 1173.856,
+            "text": "Porque, digamos, a ellos les encanta operar diciendo que yo trabajo para masa.  De hecho, dentro de estas personas que operan y dicen cosas que verdaderamente son desopilantes, hubo un periodista que llegó hasta a decir... y te lo cuento porque esto pasó, donde dice que Massa me estaba retando porque no soy lo suficientemente opositor.  digamos, a la posición de Juntos por el Cambio.  Lo cual es gracioso, porque yo he votado más en contra del Frente de Todos que los propios de Juntos por el Cambio.  Una cosa verdaderamente desopilante.  Y la verdad que si pasara algo así, ¿vos te crees que se va a decir en labor parlamentaria?  O sea, verdaderamente hay que, digamos, o sea, hay personas que ya están excediendo los límites, están rompiendo los límites del buen gusto, o sea, las mentiras que dicen. ",
+            "cosine_dist": 0.3067150582820479,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1174916,
+            "end_time": 1175237,
+            "text": "Bienes. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1176.457,
+            "end_time": 1178.946,
+            "text": "Periodistas, por ejemplo, mienten así descaradamente. ",
+            "cosine_dist": 0.5547258503287547,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1179367,
+            "end_time": 1179688,
+            "text": "¿Para qué? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1181.03,
+            "end_time": 1234.965,
+            "text": "Porque dentro de la lógica de Juntos por el Cambio hay toda una situación donde a masa se lo muestra como lo más malo que existe sobre el planeta, y como están tratando de instalar que soy kirchnerista, es parte de toda una estrategia de operación mediática, cuando en realidad la verdad es que les voto todo en contra, o sea, soy diez mil veces más opositor que el propio.  Juntos por el Cambio, al margen del escándalo que implica que un diputado haya hecho esto.  Esto es verdaderamente un escándalo.  Porque vos sabés cómo es estas reuniones.  Estamos todos sentados ahí en la labor parlamentaria y entra Massa y saluda uno por uno.  Y uno por uno le dice algo.  ¿Me entendés?  O sea, es parte... Ahí, si vos querés, es una situación donde el presidente de la Cámara está... ¿Me entendés?  A cada uno de los diputados los saluda y les dice algo. ",
+            "cosine_dist": 0.321277758854569,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1234.985,
+            "end_time": 1236.626,
+            "text": "¿Y qué pensás de Massa, vos? ",
+            "cosine_dist": 0.9356382418256289,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1238.069,
+            "end_time": 1242.27,
+            "text": "No sé, me cuesta definirme. ",
+            "cosine_dist": 0.8939570576147478,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1242.31,
+            "end_time": 1260.574,
+            "text": "Te reís porque son preguntas que te hacen hoy.  ¿Qué pensás de Cristina?  ¿Cristina es corrupta o no es corrupta?  ¿Haza qué es?  Lo que quiero poner como marco de situación es que claramente te están tomando examen, los medios.  seguramente te estamos tomando examen, porque la gente... ",
+            "cosine_dist": 0.6768138301140907,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1261.495,
+            "end_time": 1425.59,
+            "text": "A mí no me molesta dar examen y por eso yo vengo y contesto todo lo que tengo que contestar.  A ver, yo digamos, respecto al caso, por ejemplo, de Cristina, yo siempre he dicho básicamente las mismas cosas.  Que es la reina de los populistas y lo muestra con las cosas que propone en este sentido.  Igual yo tengo una visión todavía... que creo que es más maquiavélico lo que está haciendo en este momento ella y Alberto.  Pero igual es muy buena la explicación que presentaron ustedes sobre que ella, digamos, quiera salvar la ropa propia, por decirlo de alguna manera.  Para mí tiene que ver con una forma en la que ellos ven la economía y entonces creen que los precios se determinan a partir de los costos.  Entonces ellos lo que están haciendo es asustar a los empresarios con que si se cae Guzmán, si se cae Alberto, viene Cristina y entonces viene Nerón a tirar más hasta el fuego.  Y en ese contexto lo que sucede es que... Por ejemplo, entonces, nada, todos pagan costos enormes con tal de sostenerlo a Alberto.  Y en realidad lo que están haciendo es, uno te juega de policía bueno, te juega de policía malo.  O sea, sostienen todo este desequilibrio macro cargándoselo al sector privado y de esa manera tener más chances electorales.  Porque la realidad es que si esto estalla, digamos, no es que se lleva puesto solo a Alberto, se lo lleva puesta a ella también.  Entonces, en ese sentido te diría, ella, digamos, o sea, para no esquivar la respuesta, entonces, la reina de los populistas... Además, una de las cosas que yo considero es que cuando vos agrandás el Estado, lo que vos generás es corrupción.  Y había un montón de gente en su gobierno robando, y hoy hay casos más emblemáticos, como el caso de los bolsos de López.  No solo eso, sino que además, el daño que le causó, es el peor daño que le puede causar a un país, porque hizo una destrucción de valores morales, destruyó la cultura de trabajo.  Entonces, digo, la verdad que... Ahora, después hay otros temas que tienen que ver con las cuestiones de índole legal, y la verdad es que, dada la responsabilidad institucional que me cabe hoy, y con la carrera en la que estoy entrando, por decirlo de alguna manera, si yo hablo de la independencia del Poder Judicial, yo no puedo estar haciendo juicios.  ¿Me comprendés?  Y eso es parte de que tiene que resolverse la justicia.  Y vos fíjate, porque a partir de que yo dije esto, o sea, el troll center de Juntos por el Cambio salió a pegar, y lo que no se dio cuenta es que, yo no lo sabía, que la declaración que había hecho Mauricio Macri, por ejemplo, era... La misma, calcada.  O sea, era una respuesta institucional, donde de estos temas se tiene que ocupar la justicia.  O sea, y que si la encuentra culpable... ",
+            "cosine_dist": 0.31683938076946516,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1425610,
+            "end_time": 1426190,
+            "text": "Bueno, la percepción... ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1426.33,
+            "end_time": 1467.578,
+            "text": "Ah, no, no, y no solo dije eso.  Además es que dije, no le cierra el blanco.  Eso es un poquito más fuerte todavía.  O sea, con lo cual, digamos, tuve posiciones todavía mucho más fuertes que las que mostraron, por ejemplo, los de Juntos por el Cambio.  Que dicho sea de paso, la señora Carrió acusa al gobierno de Juntos por el Cambio por no meter la presa a Cristina.  O sea, no solo que se meten con la justicia, con lo cual todo lo que dicen en la institucionalidad se lo llevan puesto, sino que como si eso fuera poco, parece que ellos tienen información de que ella sí estaría en condiciones de ir presa y no fue presa porque les convenía electoralmente.  Mirá todo lo que hay para discutir.  Sin embargo, yo lo que quiero es que la justicia sea independiente. ",
+            "cosine_dist": 0.37964866048500834,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1468.599,
+            "end_time": 1469.72,
+            "text": "¿Y demás a qué pensás? ",
+            "cosine_dist": 0.9059151455885943,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1471.34,
+            "end_time": 1479.885,
+            "text": "Me parece que pasa, digamos, es como una suerte de oportunistas.  Juegan en cada momento, se ponen la camiseta que... Todos los colectivos lo dejan bien. ",
+            "cosine_dist": 0.4181439474110342,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1481.266,
+            "end_time": 1485.228,
+            "text": "¿Y cómo te imaginas?  ¿Con quién podrías dialogar cuando tengas un proyecto de ley? ",
+            "cosine_dist": 0.7874743823712038,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1486.569,
+            "end_time": 1492.592,
+            "text": "Bueno, digamos, el proyecto se envía.  Se envía.  O sea, ahora, el punto es el siguiente. ",
+            "cosine_dist": 0.44159099110077993,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1492.672,
+            "end_time": 1497.415,
+            "text": "¿No te dicen ahí en el Congreso, en el recinto, che, cortala con lo de casta, ahora estás acá? ",
+            "cosine_dist": 0.736130658293582,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1498535,
+            "end_time": 1498776,
+            "text": "Pero... ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1499176,
+            "end_time": 1499536,
+            "text": "¿Te dicen...? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1500.746,
+            "end_time": 1557.968,
+            "text": "La realidad es que es muy poco feliz que alguien me diga basta con esto de casta, ¿no?  Porque en el fondo, si te sentís tocado, tu problema no es el mío.  Lo que pasa es que hay un montón de cosas que yo hago que los incomoda mucho.  Por ejemplo, el día cuando yo decidí que íbamos a sortear la dieta.  Eso es un gran problema para la casta.  Porque una de las cosas que te muestra es que lo que gana un diputado, por ejemplo, es mucho más que lo que gana el argentino promedio, es mucho más que el argentino mediano.  Viste que por la distribución del ingreso, el ingreso mediano está por debajo del medio.  No solo eso, sino que además significa también que por otra... Y muchos de los que están ahí no pueden justificar lo que ganan.  En el sector privado no lo ganarían, pero eso te lo firmo.  Pero no solo eso, sino que además, fíjate que hay una cuestión adicional, llevan un nivel de vida que no se condice con lo que ganan. ",
+            "cosine_dist": 0.3355596360415516,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1559.259,
+            "end_time": 1561.301,
+            "text": "Vos ahora que donás la dieta... ",
+            "cosine_dist": 0.7951569372461136,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1561.741,
+            "end_time": 1563.002,
+            "text": "No, yo no dono la dieta. ",
+            "cosine_dist": 0.6626755422926547,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1563.403,
+            "end_time": 1564.023,
+            "text": "La sorteás. ",
+            "cosine_dist": 0.8155144172113228,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1564.043,
+            "end_time": 1568.567,
+            "text": "Yo la devuelvo a sus legítimos creadores, por decirlo de alguna manera. ",
+            "cosine_dist": 0.5213179828546303,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1568.627,
+            "end_time": 1573.151,
+            "text": "¿Cuáles son tus...?  Viste que sos el nuevo.  Te van a contar las costillas. ",
+            "cosine_dist": 0.7138053483676452,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1573.511,
+            "end_time": 1574.152,
+            "text": "Viven haciéndolo. ",
+            "cosine_dist": 0.8437940224726684,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1574.172,
+            "end_time": 1578.496,
+            "text": "Y justamente porque por ahí a otros no les cuentan tanto.  O sí, a veces sí, a veces no. ",
+            "cosine_dist": 0.6862489844976731,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1579.076,
+            "end_time": 1601.806,
+            "text": "¿Vos de qué vivís?  Puedo contestar esto porque es muy interesante.  Sí.  Una persona que estaba en nuestro equipo cuando iniciamos la campaña, en un momento me dijo, te tengo dos noticias, una buena y una mala.  Entonces me dice, mira, la buena es que te revisaron hasta el ADN y no encontraron nada. ",
+            "cosine_dist": 0.4851600155408766,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1601.946,
+            "end_time": 1602.886,
+            "text": "¿Te revisaron a vos? ",
+            "cosine_dist": 0.8578987364702507,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1603066,
+            "end_time": 1603567,
+            "text": "Sí, obvio. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1604027,
+            "end_time": 1604267,
+            "text": "¿Quién? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1605.307,
+            "end_time": 1615.579,
+            "text": "Bueno, ya sabemos que hubo... Me han revisado hasta la historia clínica.  Pero bueno, es parte de otra historia.  Pero no solo eso, sino que... ",
+            "cosine_dist": 0.4221915798891026,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1615879,
+            "end_time": 1616420,
+            "text": "¿Para quién? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1617.12,
+            "end_time": 1646.578,
+            "text": "Bueno, lo dije, digamos, o sea, bueno, a ver, el gobierno de la ciudad, digamos, está todo el tiempo haciendo operaciones y, o sea, de hecho, tiene un equipo de veinticinco personas que se dedican justamente a ensuciar.  Pero no importa, son detalles menores.  O sea, porque ya te diría que ya estoy acostumbrado.  ¿Y sabes lo que me dijo?  ¿Sabes cuál es el problema?  Porque yo dije, ah, bueno, qué bueno, no tiene nada, qué bueno, ya se dieron cuenta.  No, el problema es que entonces te los van a inventar. ",
+            "cosine_dist": 0.36685221905788457,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1647.018,
+            "end_time": 1648.179,
+            "text": "¿Y qué te están inventando? ",
+            "cosine_dist": 0.8717784933870716,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1648.199,
+            "end_time": 1703.24,
+            "text": "Bueno, mirá, fíjate, por ejemplo, una periodista, por ejemplo, que tengo una causa por haberme dicho nazi hitleriano, porque eso es un delito, igual yo no estoy... Yendo a juicio por eso precisamente, sino por la banalización del holocausto, que me molesta infinitamente más de lo que me puedan decir a mí.  Digo, porque a mí... Yo sé muy bien dónde estoy.  ¿Me comprendés?  Pero al margen de eso, es interesante.  Por ejemplo, se la pasó durante la semana instalando de que yo votaba en contra de la boleta única.  Históricamente, yo... Mostré una posición favorable a la boleta única.  ¿Me comprendés?  Entonces, después, como yo voté en contra, no en contra, de lo que ella pensaba, ¿sí? ",
+            "cosine_dist": 0.3483108722237508,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1703.3,
+            "end_time": 1704.941,
+            "text": "O sea, vos votaste a favor de la boleta única. ",
+            "cosine_dist": 0.7980594361863154,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1704.961,
+            "end_time": 1726.958,
+            "text": "O sea, yo voté a favor de la boleta única.  Entonces, había toda una crítica de que había votado a favor, porque había dicho que iba a votar en contra.  Yo jamás había dicho tal cosa.  ¿Me comprendés?  Entonces, es como que yo te diga, no sé, vos estás diciendo que, no sé, hay que romper esto.  este vaso. ",
+            "cosine_dist": 0.4006190761772409,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1727.559,
+            "end_time": 1728.239,
+            "text": "Y vos después... ",
+            "cosine_dist": 0.8861195270086585,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1729.861,
+            "end_time": 1806.97,
+            "text": "Mirá, me hicieron lo mismo con el tema de la vacunación.  Se la pasaron diciendo que yo era antivacunas.  Yo nunca fui antivacunas.  Yo lo que dije es que quería que las personas tuvieran la posibilidad de hacer renta-riesgo.  Es decir, ver qué ganaban, qué perdían, que fueran más claros con la información... Después terminé teniendo razón porque estaban aplicando a los chicos y no estaban todas las pruebas.  No, no, pero para, para, porque quiero terminar esto.  Entonces después tenía que viajar y me puse la inyección.  Ah, miren la contradicción.  No, no hay contradicción.  Nunca me contradije.  Solo lo que dije es... que cada individuo tenía que tener la posibilidad de hacer la renta de riesgo y que además, o sea, estaban vacunando irregularmente a los menores.  Dije eso.  Es más, no solo eso, en el debate mismo, cuando me acusaron de eso, yo una cosa adicional que dije, dadas las cuestiones de renta de riesgo de mis padres, yo mismo... les sugerí enfáticamente junto a mi hermana que se vacunaran.  Entonces, es absolutamente... Entonces, se llama falacia el espantapájora.  Dicen una mentira sobre vos, vos tenés que salir a explicar que no dijiste eso.  y después cuando pasa algo que en realidad, porque vos nunca dijiste tal cosa, entonces te acusan de eso, de contradicción.  No. ",
+            "cosine_dist": 0.354286635542432,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1807.69,
+            "end_time": 1811.993,
+            "text": "Vos mencionaste que tu hermana podría ser, no sé si un chiste o de verdad, primera dama. ",
+            "cosine_dist": 0.7252474396403336,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1812.834,
+            "end_time": 1814.435,
+            "text": "Pero es que técnicamente es así. ",
+            "cosine_dist": 0.6795041773165051,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1815.805,
+            "end_time": 1817.147,
+            "text": "¿Por qué técnicamente es así? ",
+            "cosine_dist": 0.8628095532896314,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1817.307,
+            "end_time": 1821.393,
+            "text": "Porque, a ver, yo no estoy casado.  Tampoco tengo planes. ",
+            "cosine_dist": 0.5032007948126308,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1825.759,
+            "end_time": 1827.061,
+            "text": "¿Pero tenés candidatas o no? ",
+            "cosine_dist": 0.8295052325917691,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1830.326,
+            "end_time": 1831.688,
+            "text": "No tengo planes de casarme. ",
+            "cosine_dist": 0.7100433575059332,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1834.079,
+            "end_time": 1841.626,
+            "text": "Pero siempre puede haber alguien que de repente dice, pero yo jugué un boleto y ganó el caballo y ahora puedo ser primera dama. ",
+            "cosine_dist": 0.6756555295869429,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1843.788,
+            "end_time": 1847.712,
+            "text": "Pero de vuelta, en los hechos no estoy casado. ",
+            "cosine_dist": 0.4464651527661523,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1848.233,
+            "end_time": 1848.933,
+            "text": "Bien, y entonces... ",
+            "cosine_dist": 0.8011916202341501,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1851.354,
+            "end_time": 1864.997,
+            "text": "¿Ok?  Entonces, la realidad es, ¿quién ocupa el lugar de primera dama?  Digamos, o sea, por ejemplo, en el gobierno de Menem, ¿quién lo hacía?  Lo hacía Zulemita Menem, su hija.  Yo no tengo, yo tengo hijos de cuatro patas. ",
+            "cosine_dist": 0.37422060727715056,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1865.497,
+            "end_time": 1866.157,
+            "text": "¿Cuántos tenés? ",
+            "cosine_dist": 0.9955329661449931,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1866457,
+            "end_time": 1866637,
+            "text": "Cinco. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1866.697,
+            "end_time": 1867.997,
+            "text": "¿Cuántos mastines tenés? ",
+            "cosine_dist": 0.9182648112786425,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1868.017,
+            "end_time": 1870.518,
+            "text": "Cinco.  Conan, Murray, Milton, Robert y Lucas. ",
+            "cosine_dist": 0.5600963543353874,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1870.938,
+            "end_time": 1871.638,
+            "text": "¿Cuánto pesan? ",
+            "cosine_dist": 0.8643727334767083,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1872.218,
+            "end_time": 1875.199,
+            "text": "En promedio oscilan entre ochenta y cien kilos. ",
+            "cosine_dist": 0.55898807917948,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1875.759,
+            "end_time": 1876.379,
+            "text": "La última. ",
+            "cosine_dist": 1.0334901433840864,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1877.239,
+            "end_time": 1883.564,
+            "text": "Ah, bueno, pero, viste, entonces, digamos, tiene todas las credenciales mi hermana para ser primera dama.  Yo hice un chiste. ",
+            "cosine_dist": 0.47359589524066414,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1883.604,
+            "end_time": 1892.29,
+            "text": "¿Tus padres están contentos con tu actualidad?  Que todos leímos que hubo momentos, yo no voy a volver ahí.  ¿Ahora están bien las cosas con tus padres? ",
+            "cosine_dist": 0.7003541514337777,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1893.191,
+            "end_time": 1919.971,
+            "text": "Bueno, ellos tuvieron un gesto noble y que aún en el momento que estábamos peleados, eh... Mi hermana estaba en una situación de shock, no lo podía resolver.  Ellos ayudaron, contribuyeron, con lo cual indirectamente o directamente me ayudaron.  Me pareció un gesto noble.  Hicimos tabula rasa y adelante y de vuelta y todo bien.  O sea, el rencor no sirve para nada. ",
+            "cosine_dist": 0.39293445145242634,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1920.431,
+            "end_time": 1923.213,
+            "text": "Tengo una última.  ¿Cómo te sentís hasta acá con la conversación? ",
+            "cosine_dist": 0.8882168219204812,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1923.974,
+            "end_time": 1925.715,
+            "text": "No, yo vengo porque la paso fenómeno. ",
+            "cosine_dist": 0.6859570496099914,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1926.235,
+            "end_time": 1927.616,
+            "text": "Bien.  ¿Vos estás estudiando la Torah? ",
+            "cosine_dist": 0.8219015887332509,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1928477,
+            "end_time": 1928557,
+            "text": "Sí. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1930.523,
+            "end_time": 1934.786,
+            "text": "¿Qué tiene para vos la Torah?  ¿Qué te enseña un rabino que te sirve a vos? ",
+            "cosine_dist": 0.6278089975482942,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1935.807,
+            "end_time": 1986.818,
+            "text": "Mirá, una de las cosas que a mí me pasaba, yo dentro... Por ejemplo, yo en un momento daba también clases particulares y todas esas cosas.  Yo ahora vivo de dar conferencias, porque me preguntaste eso y no lo contesté y te lo contesto ahora.  Ahora me acordé.  Entonces, por ejemplo, en un momento daba clases también particulares.  Entonces le daba clases a una persona de la comunidad judía y que básicamente venía y yo le enseñaba cosas y me hacía unas preguntas que eran... Yo decía, pero ¿de dónde lo sacaron este pie?  ¿De dónde salió?  O sea, eran unas cosas impresionantes.  Entonces, en un momento le digo, man, ¿cómo puede ser que me hagas las mejores preguntas que hasta me encantaría a mí hacérmelas?  Porque en el fondo... ",
+            "cosine_dist": 0.34323431754741474,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1987.078,
+            "end_time": 1988.079,
+            "text": "¿Y qué le contestó? ",
+            "cosine_dist": 0.9592900199359493,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1988.299,
+            "end_time": 2031.772,
+            "text": "Bueno, entonces él me dijo, claro, a la mañana, él estaba estudiando, digamos, para Rabino.  Entonces me explicó que de repente toman un tema, lo analizan de este lado, lo analizan de este, lo analizan de este.  Entonces te genera una apertura mental y yo ahí quedé fascinado.  Y después siempre tuve la inquietud y después tuve la suerte, la dicha, la bendición de conocer a un rabino con quien yo hablo más o menos una vez cada dos semanas.  Y la verdad que aprendo un montonazo.  O sea, me genera una apertura y un crecimiento fenomenal. ",
+            "cosine_dist": 0.3366872470729424,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2031.792,
+            "end_time": 2035.195,
+            "text": "Javier, gracias por haber venido hoy. ",
+            "cosine_dist": 0.7901794945593724,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2035.275,
+            "end_time": 2037.016,
+            "text": "No, por favor, un placer enorme, Diego. ",
+            "cosine_dist": 0.7711614303914684,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2037136,
+            "end_time": 2037477,
+            "text": "Gracias. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2037.497,
+            "end_time": 2038.297,
+            "text": "Gracias, como siempre. ",
+            "cosine_dist": 0.74064550311364,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2038457,
+            "end_time": 2038878,
+            "text": "Gracias. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        }
+    ]
+}

@@ -1,0 +1,959 @@
+{
+    "Index": 700,
+    "channel_id": "UCST9lQn-hyYRvVvrFwHCzCA",
+    "channel": "Mexico Libertario",
+    "uploader_url": "https://www.youtube.com/@Mex_Libertario",
+    "id": "NQQm7WDJzBw",
+    "url": "https://www.youtube.com/watch?v=NQQm7WDJzBw",
+    "title": "Javier Milei en la UNAM [Ciudad Universitaria] (Parte 4)",
+    "duration": 1800.0,
+    "view_count": 1515,
+    "candidate_name": "milei",
+    "quality": "low",
+    "segments": [
+        {
+            "speaker": "Speaker 1",
+            "start_time": 4.94,
+            "end_time": 10.167,
+            "text": "en cómo destruye el aparato analítico previo. ",
+            "cosine_dist": 0.6394816827288501,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 10.948,
+            "end_time": 25.603,
+            "text": "Recuerden que ahorro e inversión determinaban la tasa de interés.  Entonces lo primero que hace es castigar sobre el consumo y dice, sin embargo, no es probable que la clase usual ",
+            "cosine_dist": 0.5874424471314466,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 25.644,
+            "end_time": 35.353,
+            "text": "de fluctuaciones de corto plazo tenía ",
+            "cosine_dist": 0.49539003167651285,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 35.413,
+            "end_time": 40.436,
+            "text": "un montón de precios, esa función de exceso de demanda, un montón de precios presentes y ",
+            "cosine_dist": 0.6359608750086956,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 40.636,
+            "end_time": 45.259,
+            "text": "futuros, bueno, los acaba de eliminar por lo menos todos los futuros. ",
+            "cosine_dist": 0.6249293469244581,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 47.541,
+            "end_time": 76.714,
+            "text": "Y después dice, no hay mucha gente que altere su modo de vivir porque la tasa de interés baje de cinco a cuatro por ciento, si su ingreso global es el mismo de antes.  Es decir, para él el consumo depende de.  Esto es un tema muy interesante y tiene que ver con, así como consideró que Keynes era un genio intelectualmente, porque un tipo brillante, también es cierto que era un burro en economía. ",
+            "cosine_dist": 0.518790338035352,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 79.196,
+            "end_time": 83.94,
+            "text": "O sea, Keynes solamente tomó un curso en su vida de economía y lo tomó con Marshall. ",
+            "cosine_dist": 0.5744222042718925,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 85.722,
+            "end_time": 168.246,
+            "text": "Y si algo caracterizaba al trabajo de Marshall era trabajar en equilibrio, Si ustedes van a un libro de texto de microeconomía convencional y van a la parte donde se estudia la teoría del consumidor, ustedes se van a encontrar... con una función de utilidad que depende de los bienes que tomen en consideración y con una restricción presupuestaria que marca que el gasto debería ser inferior o igual al ingreso.  Eso a ustedes les permite derivar funciones de demanda de los bienes que dependen de los precios relativos pero que ahora dependen también del ingreso.  Entonces uno lo puede entender para una construcción de equilibrio parcial, pero es absolutamente inadmisible para una construcción de equilibrio general.  ¿Por qué?  Porque en equilibrio general ustedes lo que van a tener de ingreso va a derivar básicamente de dos fuentes, supongamos.  Ustedes van a, por ejemplo, derivar ingresos de la venta de su ocio en forma de trabajo y van a recibir un Y por otra parte van a tener los beneficios asociados a las participaciones que ustedes tengan en la compañía. ",
+            "cosine_dist": 0.46322534091622714,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 169.907,
+            "end_time": 185.21,
+            "text": "Fíjense que si uno mira un sistema de equilibrio general, en el propio sistema de equilibrio general va a quedar determinada la oferta y la demanda de trabajo y de ahí va a salir el precio relativo que tendrá el salario respecto de los otros bienes. ",
+            "cosine_dist": 0.5174326757433978,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 191.979,
+            "end_time": 198.503,
+            "text": "como ustedes van a agregar toda la economía cuando sumen las participaciones de los beneficios entonces la economía ese número va a dar uno con lo cual ",
+            "cosine_dist": 0.669460481299607,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 199084,
+            "end_time": 199604,
+            "text": "van a quedar ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 200.204,
+            "end_time": 211.732,
+            "text": "las funciones de exceso de demanda todos los precios de los bienes, de los factores y tanto para el presente como para el futuro.  por ende no tiene sentido que aparezca el ingreso ahí. ",
+            "cosine_dist": 0.4750999324961598,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 213.874,
+            "end_time": 225.233,
+            "text": "o sea eso es una burrada de extrapolar una estructura de equilibrio patrimonial Y se supone que la macroeconomía trata problemas de equilibrio general, no trata problemas de equilibrio parcial. ",
+            "cosine_dist": 0.5382434265668883,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 225.253,
+            "end_time": 293.069,
+            "text": "Entonces, pero eso no es un tema menor, porque asociado a eso aparece esa monstruosidad denominada multiplicador, que no es ni más ni menos que una violación de igual al ingreso, ¿sí?  Entonces, y supongamos un caso donde el ingreso es siempre, el consumo es ochenta, ¿sí?  Y que veinte es la inversión y que el consumo es un elemento estable en relación al ingreso, que siempre es el ochenta por ciento, de modo tal que digamos, el consumo es cero coma ocho del ingreso.  Eso a ustedes, digamos, que matemáticamente, digamos, les permite despejar el nivel de ingresos y les permite decir que existe un multiplicador que dice que cinco veces la inversión le da el ingreso. ",
+            "cosine_dist": 0.44004438769042287,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 293.089,
+            "end_time": 298.273,
+            "text": "y como la inversión es veinte y el multiplicador es cinco, les permite explicar cien de ingreso. ",
+            "cosine_dist": 0.5823481841559159,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 298.293,
+            "end_time": 302.077,
+            "text": "Digo, matemáticamente parece que eso no tiene ningún problema. ",
+            "cosine_dist": 0.5208274581742611,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 303.604,
+            "end_time": 313.748,
+            "text": "Pero en realidad, eso es como si ustedes de repente estuvieran trabajando con una identidad, pero ustedes no pueden extrapolar eso hacia adelante.  Pero ¿cuál es el problema? ",
+            "cosine_dist": 0.5039715887176652,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 313.768,
+            "end_time": 321.612,
+            "text": "El problema radica que después uno se encuentra con que dice, bueno, la inversión es algo que taxó, pero después lo vamos a explicar. ",
+            "cosine_dist": 0.47953695808242436,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 323.002,
+            "end_time": 335.045,
+            "text": "Entonces, si nosotros ahora duplicáramos la inversión, la lleváramos de veinte a cuarenta, ahora tendríamos un ingreso de doscientos, y el consumo saltaría de ochenta a ciento sesenta. ",
+            "cosine_dist": 0.49016594670884317,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 338.626,
+            "end_time": 355.974,
+            "text": "Entonces, uno va a venir y va a decir, mirá, pará, tío, acá hay un problema.  El problema es que si vos tenés un ingreso de cien, Y si vos querés llevar de veinte a cuarenta la inversión, el problema es que tu consumo va a caer a sesenta. ",
+            "cosine_dist": 0.45114598309248777,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 355.994,
+            "end_time": 368.38,
+            "text": "Imagínense que uno esté diciendo esto y el otro está diciendo, no, nosotros vamos a llevar el ingreso a doscientos y la gente va a consumir ciento sesenta.  Vos no tenés corazón, querés que la gente se muera de hambre. ",
+            "cosine_dist": 0.5794274462094945,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 368.4,
+            "end_time": 382.904,
+            "text": "Y digo, lo cual es una lucha absolutamente desigual, simple y llanamente porque lo que está pasando acá es que violaron la restricción del presupuesto.  Es decir, el multiplicador es la violación de la restricción del presupuesto. ",
+            "cosine_dist": 0.4792192158671168,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 382924,
+            "end_time": 382944,
+            "text": "Y ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 386466,
+            "end_time": 387047,
+            "text": "cuando ustedes ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 387.167,
+            "end_time": 387.907,
+            "text": "quieran llevar ",
+            "cosine_dist": 0.8898860694299331,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 388.207,
+            "end_time": 392.25,
+            "text": "ese número de veinte a cuarenta en inversión, supongamos que lo quieren hacer ",
+            "cosine_dist": 0.5440228935333671,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 392.29,
+            "end_time": 397.694,
+            "text": "desde el sector público, y no le alcancen los recursos, lo que van a hacer van a la postre, si ",
+            "cosine_dist": 0.5798887213735073,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 398.014,
+            "end_time": 402.097,
+            "text": "no usan deuda lo van a hacer, o sea que son impuestos futuros, de ahí ",
+            "cosine_dist": 0.591596442476257,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 402.157,
+            "end_time": 406.44,
+            "text": "toda la discusión de la equivalencia ricardiana.  Sino que además... ",
+            "cosine_dist": 0.569014797224303,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 407.415,
+            "end_time": 417.265,
+            "text": "Si lo financian con emisión monetaria van a generar un desbarrado en materia de redistribución del ingreso que seguramente van a terminar castigando los segmentos más vulnerables de la población. ",
+            "cosine_dist": 0.4978196045408725,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 417.285,
+            "end_time": 424.192,
+            "text": "Con lo cual a los que querían beneficiar lo terminaron perjudicando y generaron un desastre. ",
+            "cosine_dist": 0.5582191847589033,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 433.812,
+            "end_time": 456.493,
+            "text": "Dejamos sentado en el capítulo ocho que la ocupación solamente puede aumentar par y paso con la inversión.  Ahora podemos llevar esta idea un poco más lejos porque, en circunstancias dadas, puede establecerse una relación definida que llamaremos multiplicador entre los ingresos y los gastos de inversión y sujeta a cierta significación central. ",
+            "cosine_dist": 0.5101084937028602,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 467.022,
+            "end_time": 475.248,
+            "text": "la inversión la va a tomar Exxon.  eso lo vamos a ver en el próximo segmentito con el multiplicador. ",
+            "cosine_dist": 0.6527759726536375,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 475.288,
+            "end_time": 476.929,
+            "text": "le permite determinar el ingreso. ",
+            "cosine_dist": 0.6532635519308728,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 476.949,
+            "end_time": 533.293,
+            "text": "a partir de esa determinación del ingreso va a derivar la demanda de trabajo que después lo va a cruzar con la oferta de trabajo y le va a permitir determinar el salario nominado.  yo ya dejo el constructo armando el modelo que tiene que irse a la cabeza muy tremendas sobre la forma de interpretar la política económica.  Porque recuerden que, previo a la teoría general, la virtud era el ahorro.  Ese ahorro era lo que financiaba la inversión.  Esa inversión hacía aumentar el stock de capital per cápita y por ende subir el producto per cápita.  Sin embargo, Keynes dice, no, esto no es así, dice.  Si se acepta esto, el razonamiento anterior demuestra cómo los gastos ruinosos de préstamos pueden, no obstante, enriquecer al fin y al cabo a la comunidad. ",
+            "cosine_dist": 0.5111179947757934,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 533.313,
+            "end_time": 556.311,
+            "text": "La construcción de pirámides, los terremotos y hasta las guerras pueden servir para aumentar la riqueza.  Es decir, ahora la virtud es el despifar.  Según Keynes, tener guerras es bueno.  Es decir, ¿saben qué?  Entonces vayamos a hacer la guerra porque eso nos va a volver ricos. ",
+            "cosine_dist": 0.49132389300628876,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 556.331,
+            "end_time": 594.866,
+            "text": "Yo creo que si esto lo llega a escuchar a alguien que vivió la Segunda Guerra Mundial o que fue víctima de una guerra, yo creo que lo va a buscar, lo saca del coque y lo revienta más.  Digo, a ver, ustedes acá saben lo que es haber padecido los terremotos.  A mí no me parece que los terremotos les hayan generado gran satisfacción y bienestar.  Eso es lo que dice este materia de qué, materia de consumo. ",
+            "cosine_dist": 0.4737343022816489,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 595.326,
+            "end_time": 645.081,
+            "text": "Al hacer esto rompe la intertemporalidad en el patrón de consumo y ahora el ahorro no es ni más ni menos que un recibo.  Entonces ahora tiene que ir sobre qué, sobre la inversión.  Y esto es muy interesante porque tiene que ver también Porque todos suelen decir que Keynes era un exitoso inversor, lo cual es falso.  Keynes era un delincuente.  Porque Keynes, en la década del XX, limpiando con su dinero, quebró.  Y así es que Biden pidió a Cambridge que le dé un lugar el padre, John Deville, que era tesorero de Cambridge y que era amigo de Marshall. ",
+            "cosine_dist": 0.47751506130754007,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 647.742,
+            "end_time": 649.462,
+            "text": "Y entonces Keynes... ",
+            "cosine_dist": 0.8646829814724235,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 653.484,
+            "end_time": 664.012,
+            "text": "O sea, el mercado puede estar equivocado durante un montón de tiempo, pero como tiene más espalda y más tiempo, Dios puede destrozar a quien está acertado. ",
+            "cosine_dist": 0.527091715919928,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 664.352,
+            "end_time": 666.533,
+            "text": "¿Cuál le estaba contando su experiencia profesional? ",
+            "cosine_dist": 0.7603968198976694,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 667.014,
+            "end_time": 675.38,
+            "text": "En realidad le fue mal, no porque él estuviera equivocado.  En realidad el equivocado era el mercado, pero cuando tenía más recursos que él y más tiempo, entonces le ganó. ",
+            "cosine_dist": 0.5694740986633713,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 677.061,
+            "end_time": 703.739,
+            "text": "Y eso se, digamos, se... Dicho sea el paso, alguno va a decir, no, bueno, pero en la crisis de Tenga se llenó de plata.  Sí, claro.  Porque como trabajaba para el gobierno inglés e interactuaba con el gobierno americano y, digamos, viajaban unos y otros de cada lado del océano, el señor Keynes asesoraba al gobierno americano en cómo trabajar con las empresas reguladas, que eran. ",
+            "cosine_dist": 0.5149169522525312,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 714.562,
+            "end_time": 717.523,
+            "text": "Es decir, si lo hiciera hoy iría preso por inside trading. ",
+            "cosine_dist": 0.7107978218985083,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 718.263,
+            "end_time": 756.04,
+            "text": "O sea, es un delincuente.  O sea, no era un inversor brillante.  Entonces, Diego, con esas cuestiones, él dice, la única cura radical para la crisis de confianza que aflige la vida económica del mundo moderno, y les pido que... Sería no permitir al individuo que escogiera entre consumir su ingreso y ordenar la producción de bienes de capital, que aun cuando se basan en pruebas precarias, es el único que la sabía, lo impresionan como la inversión más alargada. ",
+            "cosine_dist": 0.43363662571528505,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 761.715,
+            "end_time": 768.685,
+            "text": "la inversión correcta y ustedes no saben nada, el que sabe cuál es la correcta.  soy yo, porque soy el que puede decir cuál es no o no. ",
+            "cosine_dist": 0.5412866982281936,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 782.824,
+            "end_time": 792.672,
+            "text": "¿Qué puede pasar?  Por ejemplo, en Argentina tenemos un profesor que se llama Eduardo Lévi-Gellati y que quiere proyectar toda la vida de los argentinos en los próximos treinta años. ",
+            "cosine_dist": 0.5535243588086523,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 793.112,
+            "end_time": 800.418,
+            "text": "Yo creo que nos va a decir qué comer, a qué hora levantarnos, a qué hora ir a dormir, qué estudiar, qué trabajar. ",
+            "cosine_dist": 0.6259946046930783,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 800.438,
+            "end_time": 807.544,
+            "text": "Yo creo que si Kei se levanta de la tumba y lo conoce, la rata de la romance en lugar de tener un tomo tendría treinta. ",
+            "cosine_dist": 0.6154534133581975,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 813.433,
+            "end_time": 817.815,
+            "text": "No dejarle a las personas elegir qué consumir. ",
+            "cosine_dist": 0.6957987058229338,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 820.476,
+            "end_time": 843.786,
+            "text": "Y tampoco, dado el ahorro, en qué asignar el ahorro tal que ese ahorro, en el fondo, ordene el proceso de producción.  Es decir, es un sistema totalitario.  bajo el cristianismo aplicado en forma pura, ustedes son esclavos. ",
+            "cosine_dist": 0.5318387027002409,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 843.806,
+            "end_time": 852.673,
+            "text": "Y va a ser el gobierno el que determina qué consumen, en qué se ahorra y a qué actividad se financia. ",
+            "cosine_dist": 0.5617977911592429,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 856.316,
+            "end_time": 880.825,
+            "text": "Entonces dice Keynes que las consecuencias de la teoría expuesta son modeladamente conservadoras en otros aspectos, de establecer ciertos controles en asuntos que actualmente se dejan casi por completo en manos de la iniciativa privada.  El Estado tendrá que ejercer una influencia orientadora sobre la propensión a consumir, o sea, redistribuir el ingreso. ",
+            "cosine_dist": 0.5004818799513033,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 881.866,
+            "end_time": 882.986,
+            "text": "¿Está diciendo para qué? ",
+            "cosine_dist": 0.72397851243561,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 883.426,
+            "end_time": 914.298,
+            "text": "Para sacarle supuestamente a los que más tienen, para darle a los que menos tienen, porque bajo esa situación la propensión marginal a consumir aumenta entre los multiplicadores.  la simplificación del gasto público es mucho más poderosa.  Y os hablo por el hecho de que viola la restricción del presupuesto y que afecta a las libertades individuales y todos esos problemas que tienen a través.  Y también dice que debe fijar la tasa de ingresos y que también uno, si es necesario, tiene que utilizar otros medios.  O sea, el garrote. ",
+            "cosine_dist": 0.4422379444857172,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 915.869,
+            "end_time": 930.521,
+            "text": "Y por otra parte dice que en realidad la tasa de interés no ejerce ningún efecto sobre la inversión, con lo cual básicamente la inversión queda determinada del modo exógeno.  De ahí la idea de los animales spirits. ",
+            "cosine_dist": 0.5254711482632871,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 932.342,
+            "end_time": 963.569,
+            "text": "Pero no es solo eso lo que dice Keynes en esta parte.  Dice... Creo que, por tanto, que una socialización bastante completa de las inversiones será el único remedio de aproximación a la ocupación plena, aunque esto no necesita incluir cualquier forma de transacción o medio por los cuales la autoridad pública coopere con la iniciativa privada.  Pero fuera de esto, no se aboga por un sistema de socialismo de Estado que abarque la mayor parte de la vida económica de la comunidad. ",
+            "cosine_dist": 0.4986738173208679,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 964.794,
+            "end_time": 967.335,
+            "text": "Y miren lo que dice, porque esto es fascismo puro ese. ",
+            "cosine_dist": 0.6181533518715414,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 967.895,
+            "end_time": 1011.264,
+            "text": "No es la propiedad de los medios de producción lo que conviene al Estado asumir.  Si es capaz de determinar el monto global de los recursos destinados a aumentar estos medios y la tasa básica de remuneración de quienes lo poseen, habrá realizado todo lo que corresponde.  Es decir, la lógica del fascismo.  O sea, te dice qué producir, cómo producir, cuánto producir, de qué manera producir, qué precios cobrar, qué precios pagar, cuánto tenés que ganar.  O sea, con lo cual en realidad no tienen propiedad.  La propiedad es absolutamente nominal y eso aquellos que lean Mises se van a dar cuenta que bajo este tema no tienen propiedad.  Es una ficción.  Es una ficción así, que no hay propiedad. ",
+            "cosine_dist": 0.4282178127127879,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1011.284,
+            "end_time": 1014.885,
+            "text": "Digo, porque ustedes no pueden disponer de sus medios. ",
+            "cosine_dist": 0.6642890304929914,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1015.345,
+            "end_time": 1017.946,
+            "text": "Y si no pueden disponer de sus medios, no hay cálculo económico. ",
+            "cosine_dist": 0.7169009302706975,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1018.066,
+            "end_time": 1020.147,
+            "text": "Y si no hay cálculo económico, digamos eso, no hay. ",
+            "cosine_dist": 0.7754228152098869,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1023.328,
+            "end_time": 1025.549,
+            "text": "Pero sigue creyendo en eso, porque Dios no se queda ahí. ",
+            "cosine_dist": 0.8185765910748165,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1026.569,
+            "end_time": 1055.913,
+            "text": "Porque él sigue considerando que lo ideal es la socialización total y dice, pero es bíblico, es escopillante.  Además, las medidas indispensables de socialización pueden introducirse gradualmente sin necesidad de romper con las tradiciones cristianas.  Ustedes son sapos, los van a tirar al agua caliente, el sapo salta y se va.  Entonces, ¿qué hacen? ",
+            "cosine_dist": 0.4679517217671597,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1055.933,
+            "end_time": 1062.138,
+            "text": "Los ponen en agua fría y ponen a calentar el agua cuando el sapo se quiere dar cuenta.  Fue historia. ",
+            "cosine_dist": 0.6967764046860022,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1063.619,
+            "end_time": 1067.021,
+            "text": "Por eso, digamos, la lógica del camino de servidumbre de Hayek, ¿no? ",
+            "cosine_dist": 0.6440108429117298,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1067.121,
+            "end_time": 1074.546,
+            "text": "Digamos, esto de que los distintos avances del Estado sobre la economía generan después los fallos del gobierno. ",
+            "cosine_dist": 0.5811240516587725,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1074.566,
+            "end_time": 1077.068,
+            "text": "Y eso después genera más impunidad. ",
+            "cosine_dist": 0.6601786314771807,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1079.688,
+            "end_time": 1085.016,
+            "text": "entonces ustedes van a un sistema socialista. ",
+            "cosine_dist": 0.6857023326116922,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1085076,
+            "end_time": 1085397,
+            "text": "¿Por qué? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1085.437,
+            "end_time": 1095.051,
+            "text": "Porque justamente los continuos fallos del gobierno, como producen resultados peores de lo que se esperaba, que se demandan más intervenciones. ",
+            "cosine_dist": 0.5297406926508788,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1097.807,
+            "end_time": 1112.899,
+            "text": "Entonces vean que CASE acaba de destrozar el ahorro como elemento intertemporal, acaba de destrozar la inversión como elemento intertemporal.  y ahora la conjunción de ahorro e inversión lo que va a hacer es determinar el nivel de ingreso. ",
+            "cosine_dist": 0.5512386026672791,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1114.661,
+            "end_time": 1146.922,
+            "text": "Dado ese nivel de ingreso va a determinar la demanda de trabajo.  Con lo cual también rompe con toda la tradición de la estructura productiva, o sea, con lo cual se van a una suerte de capital tipo plastilina, digamos, a homogéneo, una cosa rara.  Pasemos del lado de ese tema que tiene toda una controversia y que claramente los que iniciaron el caso la perdieron en este bar de Cambridge versus Cambridge. ",
+            "cosine_dist": 0.5095732783931315,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1154.13,
+            "end_time": 1160.555,
+            "text": "Una vez determinado el salario en esta lógica, ¿qué hace con los precios? ",
+            "cosine_dist": 0.5885044032555637,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1161.956,
+            "end_time": 1178.368,
+            "text": "Es decir, en su ignorancia, ¿qué es?  Ignoramos la teoría del valor.  ¿Qué es lo que aprendimos con Menger, con Heons y con Balra?  Aprendimos la teoría subjetiva del valor, que las cosas valen por la interacción de las preferencias y la escasez. ",
+            "cosine_dist": 0.5037090417729009,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1180.513,
+            "end_time": 1200.778,
+            "text": "Y no, digamos, lo que era la teoría del valor trabajo, que si ustedes la quieren aproximar es una forma de sumar costos.  O sea, si los hago con un ejemplo muy simple, porque, digamos, en mi país, o sea, por.  lo.  menos, o sea, bueno, no es en mi país, en el país en el que yo vivo, ¿sí?  Eh... ",
+            "cosine_dist": 0.5378529076885372,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1205.646,
+            "end_time": 1218.009,
+            "text": "estupidez, porque supongamos lo siguiente, yo no sé, llego a una ciudad y veo que no hay vino y digo, me puedo llenar de guita vendiendo vino ¿no? ",
+            "cosine_dist": 0.6339016574173812,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1218.789,
+            "end_time": 1233.632,
+            "text": "entonces me consigo la uva, me consigo la botella me consigo la etiqueta, me consigo el corcho y como además tengo el monopolio, le voy a poner un bruto margen.  sucede que estoy en una sociedad de boteños. ",
+            "cosine_dist": 0.5592501924884894,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1233.672,
+            "end_time": 1235.636,
+            "text": "¿cuánto vale?  Cero. ",
+            "cosine_dist": 0.9249572052171339,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1236.397,
+            "end_time": 1242.343,
+            "text": "Por ende no puedo pagar nada por ningún insumo.  Esto es lo que se llama principio de imputación de Menger. ",
+            "cosine_dist": 0.5096728663621113,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1242.363,
+            "end_time": 1250.871,
+            "text": "El nombre se lo puso Wieser, que fue un economista que se dedicó a ponerle nombre a todas las cosas que fue creando Menger. ",
+            "cosine_dist": 0.7013651682606297,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1250.911,
+            "end_time": 1251.612,
+            "text": "Ya es una futilidad. ",
+            "cosine_dist": 1.0357448506233058,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1258.098,
+            "end_time": 1268.822,
+            "text": "que dice que son los precios los que determinan los costos y no los costos los que determinan los precios.  ¿Se imaginan, digamos, el precio de los cubitos en Antártida?  O sea, esa cosa de hielo, ¿no? ",
+            "cosine_dist": 0.5721446107116548,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1268.882,
+            "end_time": 1270.122,
+            "text": "¿Sí o no?  ¿Quiere nadie? ",
+            "cosine_dist": 0.9201317139124533,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1270.842,
+            "end_time": 1278.825,
+            "text": "Digo, sí, están muertos de frío encima.  Entonces, pero Keynes necesita determinar los precios. ",
+            "cosine_dist": 0.6582592451828592,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1283.394,
+            "end_time": 1312.058,
+            "text": "El nivel particular de precios en una rama industrial concreta depende en parte de la tasa de remuneración de los factores productivos que entran en su costo marginal y en parte de la escala de producción.  No hay motivo para modificar esta conclusión cuando pasamos a la industria en conjunto.  El nivel general de precios depende en parte de la tasa de remuneración de los factores productivos que entran en el costo marginal y en parte de la escala de producción conjunto, es decir, del volumen de ocupación. ",
+            "cosine_dist": 0.4802037717928237,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1312.847,
+            "end_time": 1319.268,
+            "text": "Es decir, tiene un problema tremendo cada vez que tiene que pasar del equilibrio general parcial al equilibrio general. ",
+            "cosine_dist": 0.5318844331202682,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1319.408,
+            "end_time": 1338.972,
+            "text": "Tiene un desastre en la cabeza.  Entonces, en el fondo lo que está diciendo es que ahora los precios van a venir determinados por un margen de ganancias sobre los costos, el costo laboral.  Y esto tiene algunas consecuencias tremendas. ",
+            "cosine_dist": 0.49266387080968366,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1338.992,
+            "end_time": 1341.973,
+            "text": "Entonces, ahora el problema radica... ",
+            "cosine_dist": 0.7253101302559926,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1343.669,
+            "end_time": 1356.532,
+            "text": "¿Y la tasa de interés?  ¿No?  Digo, ¿por qué?  antes se determinaba el mercado de bienes?  ¿Qué se le ocurre hacer a Keynes?  ¿Determinarlo en el mercado monetario? ",
+            "cosine_dist": 0.5488040600731948,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1357.492,
+            "end_time": 1366.274,
+            "text": "O sea, para Keynes, dice, debiera parecer evidente que la tasa de interés no puede ser recompensa al ahorro.  O sea, es claro lo que dice. ",
+            "cosine_dist": 0.5602922300674789,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1366.294,
+            "end_time": 1369.015,
+            "text": "Yo no sé de dónde sacaron que escribió mal el libro. ",
+            "cosine_dist": 0.6759870632281285,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1369.075,
+            "end_time": 1370.555,
+            "text": "A mí me parece brillante.  O sea, es... ",
+            "cosine_dist": 0.7830530977253009,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1373.943,
+            "end_time": 1395.148,
+            "text": "parecer evidente que la tasa de interés no puede ser recompensa al ahorro o a la espera como tales porque si un hombre atesora sus ahorros en efectivo no gana interés aunque ahorre lo mismo que antes.  por el contrario la mera definición de tasa de interés nos dice que en muchas palabras que la tasa de interés es la recompensa por privarse de liquidez durante un periodo determinado de tiempo. ",
+            "cosine_dist": 0.4488528810605078,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1396.849,
+            "end_time": 1414.525,
+            "text": "entonces termina formulando una función de demanda de dinero que depende de la tasa de interés Y en la interacción entre oferta de dinero y demanda de dinero determina la tasa de interés.  Algo así como determinar el precio de las bananas en el mercado de autos.  ¿Por qué? ",
+            "cosine_dist": 0.4345604251774364,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1415.045,
+            "end_time": 1420.329,
+            "text": "Porque la tasa de interés existe aún cuando no existiera el dinero. ",
+            "cosine_dist": 0.5886168597563773,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1421.41,
+            "end_time": 1433.297,
+            "text": "Porque la tasa de interés lo que está reflejando es la elección de los individuos de pasar consumo al presente y al futuro.  Y lo mismo para la producción. ",
+            "cosine_dist": 0.5042362833420089,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1433.317,
+            "end_time": 1437.781,
+            "text": "La tasa de interés es un fenómeno inherentemente real. ",
+            "cosine_dist": 0.6667703126792426,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1439.182,
+            "end_time": 1459.177,
+            "text": "Por algo cuando ustedes toman un modelo intertemporal lo que les va a dar es que la tasa de interés quede igualada que el cociente de utilidades marginales presentes sobre el futuro, digamos, teniendo en cuenta además la tasa de preferencia intertemporal.  Sin más claro, échale agua.  Pero claro, como él rompió la intertemporalidad. ",
+            "cosine_dist": 0.4431684721747431,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1459.697,
+            "end_time": 1462.199,
+            "text": "y ahora en el mercado de bienes, ¿qué determina? ",
+            "cosine_dist": 0.675977463598852,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1462.84,
+            "end_time": 1466.723,
+            "text": "Determina el nivel de ingreso. ",
+            "cosine_dist": 0.6585118509672485,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1468.304,
+            "end_time": 1492.455,
+            "text": "En el mercado de trabajo, derivando una función de demanda de trabajo asociada al ingreso, determina el salario nominal.  Con la ecuación de marca, dejando atrás toda la teoría subjetiva de valor, determina los precios.  Y para terminar, fija la tasa de intereses o la determina en el mercado monetario.  ¿Cuáles son las consecuencias de esta teoría? ",
+            "cosine_dist": 0.4424827679538751,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1493.856,
+            "end_time": 1496.679,
+            "text": "Primero, que le da poder al gasto público. ",
+            "cosine_dist": 0.7840870855154238,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1498.461,
+            "end_time": 1507.81,
+            "text": "Ojo con que Keynes no es lo mismo que los keynesianos.  Keynes no despreciaba la política monetaria de la manera que la desprecian los keynesianos. ",
+            "cosine_dist": 0.45565544579607575,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1511.036,
+            "end_time": 1582.26,
+            "text": "Si bien Keynes en algún momento hace una referencia a la preferencia por la liquidez, Keynes no despreciaba la política monetaria.  Cosa que los keynesianos son bastante más tontos y lo que hicieron es ir por los casos extremos.  Entonces, en ese marco, la política fiscal se vuelve profundamente poderosa, pierde mucho peso la política monetaria, pero lo que es más importante es ahora el ahorro.  no es la virtud, ahora la virtud es el despilfarro.  De ahí la frase de las pirámides, de Motos y las guerras.  Pero no solo eso, sino que además cuando ustedes se hayan pasado de rosca y empiece, digamos, y no se han financiado con bonos, por decirlo de alguna manera, y se financie con emisión monetaria, fuente que no depreciaba, ¿qué es lo que va a pasar?  Va a empezar a subir la inflación. ",
+            "cosine_dist": 0.43428183549349875,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1584.75,
+            "end_time": 1594.954,
+            "text": "Porque pierde el poder adquisitivo del dinero.  ¿Pero qué pasa?  En la lógica del modelo de Keynes eso no pasa.  Porque en el mercado de dinero se determina la tasa de interés, no el poder adquisitivo del dinero. ",
+            "cosine_dist": 0.5363864895159107,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1594.974,
+            "end_time": 1614.36,
+            "text": "Entonces ahora la culpa de la inflación es... de los trabajadores y de los capitalistas que quieren ganar mucha plata.  Entonces ustedes dirán, pero ¿quién se le ocurre decir semejante de disparate?  Si existen, por ejemplo, libros como Cuatro mil años de control de precios y salarios, ¿cómo no combatir la inflación? ",
+            "cosine_dist": 0.39509961669294935,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1614.38,
+            "end_time": 1633.311,
+            "text": "Y tienen documentado desde dos mil ochocientos antes de Cristo,  ¿sí?,  que cada vez que se largaron a emitir de alguna forma, digo, ya sea jodiendo el peso de las monedas o lo que fuera,  ¿sí?,  Eso sirve de limón inflación.  Está totalmente documentado. ",
+            "cosine_dist": 0.44722883349140463,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1633.732,
+            "end_time": 1683.28,
+            "text": "El señor se le ocurre decir que no.  Entonces, es buenísimo.  Porque ahora, ustedes piensen que a ningún político lo van a premiar o lo van a aplaudir por ahorrar.  Al político lo premian Y este hombre le está diciendo, gaste, gaste, que está buenísimo, porque además son benefactores sociales.  Por eso cada vez que ustedes terminan, o sea, ¿en qué se basa, por ejemplo, la macroecología del cumplimiento?  Y darle bronca al consumo y darle bronca al gasto público.  Como termina siempre, tiene una piña.  Miren el caso de Argentina.  Argentina está en todas las papas del diario del mundo ahora.  ¿Qué pasó?  Llegó el actual gobierno, o sea, Mauricio Macri, ",
+            "cosine_dist": 0.44965758847777615,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1683.74,
+            "end_time": 1686.821,
+            "text": "y en el momento de elegir un ministro de Economía, el ",
+            "cosine_dist": 0.6804495584397916,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1687.341,
+            "end_time": 1688.961,
+            "text": "jefe de gabinete, que es un keynesiano ",
+            "cosine_dist": 0.8636255492772363,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1688.981,
+            "end_time": 1695.704,
+            "text": "recalcificante, que además es un topo que aún no sabe de Economía, en realidad es un politólogo y le toca de oído en ",
+            "cosine_dist": 0.4936387909711788,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1695744,
+            "end_time": 1696284,
+            "text": "los temas ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1696.304,
+            "end_time": 1706.127,
+            "text": "de Economía.  Entonces se encontró con un economista que le dijo, che, hay que hacer el ajuste porque si no esto termina mal y aprovechemos mientras que hay financiamiento del mundo. ",
+            "cosine_dist": 0.5608023490586169,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1707.913,
+            "end_time": 1734.148,
+            "text": "Y después apareció otro egliseano que se llama Alfonso Pratay y le dijo, no, Marcos, no, eso es una pavada, eso está mal.  Vos lo que tenés que hacer es darle la roca al gasto público, porque cuando vos le derrocas el gasto público, eso va a generar un aumento tan fuerte del PBI que la recaudación va a aumentar y el déficit fiscal va a caer.  ¿Saben por qué le estamos pidiendo la cumplida de la Junta Monetaria Internacional? ",
+            "cosine_dist": 0.45252634070582554,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1734.268,
+            "end_time": 1735.929,
+            "text": "Porque el gradualismo es estúpido fracaso. ",
+            "cosine_dist": 0.7730473345165232,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1738.223,
+            "end_time": 1790.565,
+            "text": "O sea, ¿y quién va a pagar las consecuencias?  Los que supuestamente a los que quisieron proteger.  Pero eso existe.  Y después, otra cosa que a mí también me irrita bastante, me dicen, no, Keynes no dijo eso.  Keynes en realidad hablaba de políticas contracíclicas.  ¿Dónde lo dicen?  ¿Dónde lo dicen?  Digo, porque yo voy y si miro el capítulo veintidós, por ejemplo, dice así.  El remedio del auge no es una tasa más alta de interés, sino una más baja.  O sea, si ustedes ven que la economía se está expandiendo, yo no adhiero ni siquiera a la existencia de los mandos centrales. ",
+            "cosine_dist": 0.4940293222878581,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1791.351,
+            "end_time": 1798.653,
+            "text": "O sea, yo de hecho hice una propuesta en el país para eliminarlo, es decir, hacer una reforma, digamos, financiera. ",
+            "cosine_dist": 0.5277404075237071,
+            "is_target_speaker": false
+        }
+    ]
+}

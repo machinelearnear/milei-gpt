@@ -1,0 +1,639 @@
+{
+    "Index": 646,
+    "channel_id": "UCqz5tDLcGBJ5obqpSLSkiaQ",
+    "channel": "MILEI PRESIDENTE",
+    "uploader_url": "https://www.youtube.com/@MILEIPRESIDENTE",
+    "id": "kuMflRfBn20",
+    "url": "https://www.youtube.com/watch?v=kuMflRfBn20",
+    "title": "\"El Estado es la peor lacra que existe\" Javier Milei- 19/09/19",
+    "duration": 1275.0,
+    "view_count": 166644,
+    "candidate_name": "milei",
+    "quality": "low",
+    "segments": [
+        {
+            "speaker": "Speaker 0",
+            "start_time": 0.62,
+            "end_time": 1.77,
+            "text": "Por favor, un placer. ",
+            "cosine_dist": 0.6917646225159486,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1.81,
+            "end_time": 5.914,
+            "text": "Javier, ¿vos cobras tu sueldo en pesos?  No suele suceder. ",
+            "cosine_dist": 0.8996592244496714,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 6.014,
+            "end_time": 8.956,
+            "text": "Desafortunadamente, mis sueldos y las conferencias no. ",
+            "cosine_dist": 0.5897234973714658,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 12.379,
+            "end_time": 20.705,
+            "text": "¿Y qué pensás de eso que dijo Melconian?  ¿De un plan trimonetario?  ¿De ir hacia una moneda que tenga uva?  ¿Un peso con uva? ",
+            "cosine_dist": 0.7734701112156714,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 22.787,
+            "end_time": 97.062,
+            "text": "Me parece que... no refleja las preferencias de los argentinos en términos monetarios.  Me parece que la moneda, digamos, en realidad el Banco Central es una estafa.  O sea, de hecho suponete que vos tenés una economía que tranza en monedas de oro.  ¿Qué opinarías de un tipo que te falsifica monedas de oro?  O sea, convierte el plástico, que es plástico, y hace que pase por oro.  Es un delincuente.  ¿Ok?  Bien.  En el fondo, cuando vos aumentás la cantidad de oro de esta manera, el precio del oro baja, o sea, todos los bienes en términos de oro se vuelven más caros.  Es decir, la inflación es siempre y en todo lugar un fenómeno monetario.  Básicamente, y esa inflación es una estafa, desde la corporación política hacia los ciudadanos honestos que nos rompemos el lomo laburando.  Este mecanismo de falsificación de dinero en Argentina se ha usado de manera brutal y exagerada.  De hecho, destrozamos cinco signos monetarios, le quitamos trece cero a la moneda, deberíamos quitarle ya dos más. ",
+            "cosine_dist": 0.3047478270223811,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 97.182,
+            "end_time": 97.802,
+            "text": "¿Cuánto les quitamos? ",
+            "cosine_dist": 0.9520433485041072,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 98.083,
+            "end_time": 113.075,
+            "text": "Trece.  Vamos camino a dos más.  Tuvimos dos hiperinflaciones sin guerra.  Entre mil nueve cuarenta y seis, que fue cuando nacionalizamos el Banco Central, y el mil nueve noventa y uno, que fue el repudio de la moneda, tuvimos doscientos veinticinco por ciento de inflación promedio. ",
+            "cosine_dist": 0.40158767135026285,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 113.935,
+            "end_time": 140.38,
+            "text": "Te paro ahí, porque me vas dando información que me parece sumamente importante.  Y todo esto que me contás, ¿Por qué pasa?  Yo sé, la última vez que viniste acá me dijiste que hay que prender fuego el Banco Central.  Yo eso, más o menos, pongamos nuestros términos, lo entendí.  Pero dentro de los últimos gobiernos que tuvimos, ¿no hubo nadie que pueda devolverle la confianza, que es un poco lo que hablábamos allá en la mesa, al peso para que la gente no tenga que salir volando al dólar? ",
+            "cosine_dist": 0.7696458086863707,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 141.539,
+            "end_time": 164.088,
+            "text": "Pero, a ver, si vos vas a situaciones... A ver, durante la convertibilidad tuviste el nueve por ciento de inflación promedio concentrada en el primer año y medio.  Y después la inflación más baja del mundo.  De hecho, hasta en mil novecientos noventa y siete tuviste un fuerte crecimiento de la economía con deflación.  O sea, con lo cual, no es un problema que pasa por ahí.  Después le devolviste la navaja, el mono asesino, tuviste en los primeros cuatro años del régimen K... ",
+            "cosine_dist": 0.41280023886421013,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 164.468,
+            "end_time": 166.429,
+            "text": "¿No pasa por la confianza, el peso, el tema? ",
+            "cosine_dist": 0.8094288679130774,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 167.21,
+            "end_time": 180.181,
+            "text": "Digo, a ver, en el mundo del dinero fiduciario, obviamente, digamos que la confianza juega un rol muy importante porque es una representación mental el valor de un billete.  Porque ¿qué diferencia hay entre un billete de diez pesos y uno de cien? ",
+            "cosine_dist": 0.4214262061852636,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 181122,
+            "end_time": 181462,
+            "text": "El valor. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 181.902,
+            "end_time": 265.734,
+            "text": "Sí, ¿qué?  El valor que le da a vos en tu cabeza.  Porque como papel es la misma cosa, con un pintado, ¿ok?  Digamos, en el mundo del fiat money.  Ahora, este mecanismo... En Argentina, los políticos, que son una banda de delincuentes y ladrones, lo utilizaron para estafar sistemáticamente a los ciudadanos.  Y no fue gratis eso, porque cada vez que la inflación supera el veinte por ciento, se pierde un punto cincuenta y ocho de crecimiento.  Consecuentemente, hoy, si no fuera por esa institución nefasta que está en Reconquista dos sesenta y seis, llamada Banco Central de la República Argentina, hoy tendríamos un PBI per cápita como el de Estados Unidos.  Además, todos los gobiernos progresistas que se viven llenando la boca de los pobres no hicieron más que generar inflación, con lo cual los golpearon a tipos que sufren veinticinco veces más fuerte el efecto de la inflación.  Por lo tanto, el argentino como mecanismo de defensa eligió que su moneda es el dólar.  Entonces, no importa lo que hagas, y está bien que no le crean al político argentino, el peso en la moneda que emite el político argentino no puede valer ni excremento, porque esas basuras no sirven ni para bono.  Entonces, yo soy partidario directamente de eliminar el Banco Central.  de ir a un régimen de banca Simon que es anticorrida... ",
+            "cosine_dist": 0.42409673061411335,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 265.754,
+            "end_time": 273.04,
+            "text": "Esperá, explícalo despacio porque si no no es fácil de entender hasta.  ahora.  Ok.  Esperá, entonces el peso lo eliminamos del sistema... ",
+            "cosine_dist": 0.8146983447085162,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 273.06,
+            "end_time": 274.562,
+            "text": "Sí, ahora te cuento cómo se hace. ",
+            "cosine_dist": 0.5758352748630293,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 274.702,
+            "end_time": 276.083,
+            "text": "¿Eso es ir a una dolarización? ",
+            "cosine_dist": 0.7923416345880105,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 276.904,
+            "end_time": 281.88,
+            "text": "No, es más abrupto lo que yo estoy proponiendo.  Porque la dolarización... ",
+            "cosine_dist": 0.43424650854534186,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 281.9,
+            "end_time": 283.881,
+            "text": "Pero el dólar también no está emitido por plásticos. ",
+            "cosine_dist": 0.862361811180671,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 284.821,
+            "end_time": 288.623,
+            "text": "Sí, pero no tan basuras como los nuestros.  No tan chorros como los nuestros. ",
+            "cosine_dist": 0.5789376359642855,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 288.643,
+            "end_time": 289.964,
+            "text": "Pero hay basuras también en Estados.  Unidos. ",
+            "cosine_dist": 0.9123776714944127,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 289.984,
+            "end_time": 294.986,
+            "text": "No, pero los de acá les ganan a todos por escándalo.  Suponete, pero el sistema está... ",
+            "cosine_dist": 0.6953516661020005,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 295.106,
+            "end_time": 296.687,
+            "text": "Y también es un papel... ",
+            "cosine_dist": 0.8835465299838697,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 296.967,
+            "end_time": 393.289,
+            "text": "Pero el edificio de porquería ese que está sobre la calle Entre Ríos apesta peor que una montaña de deléveres de tamaño de excremento.  Basta.  O sea, basta.  Entonces, ¿qué es lo que proponemos nosotros?  Un régimen mucho más radical.  Radical en el sentido radical de la palabra, ¿no?  El radical como en Argentina.  Sí, porque viste que acá los radicales son los inventores del helado caliente, la prostituta virgen, digamos, el esqueleto obeso, ¿no?  O sea, es una cosa rara.  Radical en el sentido de la palabra.  Entonces, lo primero que vos tenés que hacer es tener un sistema anticorrida.  Eso, digamos, se desarrolló en la década del treinta en la Universidad de Chicago, se llama Banca Simons.  Tenés un almacén de valor que es una caja fuerte, vos te llevas el dinero.  cuando se te da la gana, está encajado el cien por ciento.  ¿Querés?  Te podés sacar fotos con los billetes, los podés oler, los podés acariciar, los dejás, te los llevas, haz lo que quieras.  Pagás un fin y se acabó.  Lo otro es la banca de inversión.  Es decir, a vos te gusta la tasa de interés, te gusta el interés, bueno, si te gusta el durazno, bancate la pelusa.  Vas a un fondo común de inversión.  Si sale mal, perdés vos, pero no se socializa la pérdida.  Una vez que sucede eso, el sistema es anticorrida.  No hay más corridas.  Técnicamente no puede haberlas.  Consecuentemente, porque todo se limpia a precios de mercado.  Entonces, ahí desregulás el sector.  Vas a lo que se llama un sistema de banca libre, donde cada banco se hace cargo de las macanas que haga y sus clientes, y se acabó.  Es un proceso que va a depurar, que va a dejar los mejores. ",
+            "cosine_dist": 0.3986808571538314,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 393.309,
+            "end_time": 394.65,
+            "text": "¿Eso existe en algún lugar del mundo? ",
+            "cosine_dist": 1.0164977076263366,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 394.67,
+            "end_time": 449.077,
+            "text": "Sí, claro, en los paraísos fiscales.  No solo eso, sino que una vez que vos haces eso... que es lo más interesante, ahí largas la competencia de monedas.  A la luz de la historia argentina, a la luz de que tenemos los colchones reventando de dólares, lo más probable es que los argentinos vayamos a elegir como moneda el dólar.  Una vez que sabes eso, los activos del Banco Central, los liquidas contra los pasivos y se acabó.  va a quedar funcionando el dólar, entonces voy a ir con Giacomini, voy a ir con Mariano Fernández, con Gustavo Lázaro y con Miguel Bogiano, con el profesor Carlos Rodríguez, con Alberto Venegas, mi hijo, y ¿sabes qué?  Vamos a llamarlo a Bombita Rodríguez y vamos a dinamitar a ese edificio y lo vamos a hacer desaparecer.  Que queden los escombros como el registro de una institución que tanto daño le ha hecho al pueblo argentino en favor de los políticos chorros.  Bien, para ahí. ",
+            "cosine_dist": 0.4051955936705133,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 451.468,
+            "end_time": 454.01,
+            "text": "¿Qué queda del acuerdo del gobierno con el FMI? ",
+            "cosine_dist": 0.8327240328553503,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 454.51,
+            "end_time": 501.091,
+            "text": "Para mí se tiene que caer.  Argentina no va a cumplir las metas.  Primero, las metas fiscales.  Este año, ese famoso déficit cero, que es una mentira.  Porque si vos tenés que pagar la tarjeta de crédito, llegar a hacer el pago mínimo, no es déficit cero.  Están matando los intereses.  O sea, con lo cual, este gobierno además se encargó en transversar el contenido de las palabras.  Un gobierno de mentirosos.  Pero... Entonces, ¿qué es lo que sucede?  Vos, el primer semestre del año, que los números suelen ser mucho mejores que los del segundo, ya maquillaste los ingresos metiendo partidas que eran transitorias como permanentes para dibujar el número.  Quiere decir que los números no te van a dar ni de casualidad para la segunda parte del año. ",
+            "cosine_dist": 0.38109940966982137,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 501.151,
+            "end_time": 501.992,
+            "text": "Entonces... ",
+            "cosine_dist": 0.8988323978022112,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 502.152,
+            "end_time": 579.077,
+            "text": "Para, para, por eso.  Ese es uno de los puntos.  Hay más puntos.  Además, suponete que efectivamente lo lograra por un milagro.  No importa la actividad económica, no importa nada de las cosas que afectan a la recaudación.  Ahora suponete lo siguiente, que por un milagro lo cumple.  En realidad, mucho de ese cumplimiento tiene que ver con licuación de partidas, que por dinámica de ajuste, ajustan más lento.  O sea que lo vas a ver el año que viene.  Si vos corregís eso, se llama resultado estructural.  El resultado estructural de Argentina es uno y medio negativo.  Y Argentina, para poder honrar su deuda, por lo menos hoy necesitaría tres puntos y medio de superávit primario.  Quiere decir que estás a una distancia de cinco puntos.  Claro, estás a cinco puntos.  Nadie habla de hacer un ajuste.  El año que viene, si todo saliera bien, necesitaríamos, y no está saliendo todo bien, está saliendo todo mal, necesitamos treinta y cinco mil millones de dólares.  Listo, se acabó Facundo.  Default se llama.  Y si no defaulteamos porque apareció Copperfield y la guita apareció de no sé dónde, defaulteamos en el dos mil veintiuno porque en el dos mil veintiuno nadie te va a poner cuarenta y cinco mil millones de dólares.  O sea, punto uno.  O sea, el default es un dato.  Es decir, el default es dato en la economía argentina. ",
+            "cosine_dist": 0.38756669989663184,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 579.097,
+            "end_time": 586.042,
+            "text": "Perdona, vos le dijiste así con esta crudeza con la que nos hablás a nosotros y a la gente, se lo dijiste a Alberto Fernández en las reuniones, tuviste reuniones con Alberto. ",
+            "cosine_dist": 0.7648800219818981,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 586102,
+            "end_time": 586162,
+            "text": "No. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 589.972,
+            "end_time": 591.133,
+            "text": "¿No estás en contacto con Alberto? ",
+            "cosine_dist": 0.8833580771542624,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 591.914,
+            "end_time": 595.918,
+            "text": "Sí, pero digamos, o sea, yo lo conozco a Alberto hace años.  ¿Qué tiene que ver? ",
+            "cosine_dist": 0.5347836353047403,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 596.839,
+            "end_time": 601.083,
+            "text": "¿Pero no te preguntó cuál es tu mirada de la economía?  Vos le dijiste, Alberto, vos vas a... Mi mirada... ",
+            "cosine_dist": 0.8068241428278431,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 601.103,
+            "end_time": 641.967,
+            "text": "Pero vos vas a defaultear, porque vos estás diciendo que Alberto va a defaultear.  Pero, ¿y qué te crees, que Macri no?  O sea, ¿un poco Macri o...?  Macri ya empezó a defaultear.  Macri ya empezó a defaultear.  El reperfilamiento es una mentira.  Porque en el mismo momento que el gobierno dice, no, vamos a ahorrarnos once mil millones de dólares para ponerlo en el mercado de cambios, quiere decir que alguien los tenía que recibir.  Y no los recibió en tiempo y forma.  Cuando vos tomás una obligación, es capital, intereses y plazo.  No te cumplió el plazo, se llama default.  Lo que pasa es que ahora es un default sobre un... Claro, porque es un tramo de la deuda.  Pero el año que viene lo vas a tener abierto y si no, el otro. ",
+            "cosine_dist": 0.43362207537447983,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 641.987,
+            "end_time": 643.369,
+            "text": "Alberto va a defaultear. ",
+            "cosine_dist": 0.8498977399884136,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 643.749,
+            "end_time": 671.998,
+            "text": "Y Macri también.  Si Macri lograra la reelección, también va a defaultear.  Porque el problema es que la macroeconomía argentina está toda podrida.  Pero como si todo eso fuera poco, además hay un descalabro monetario enorme.  Por lo tanto, vos tenés que trabajar entre evitar la hiperinflación para que la pobreza, cuando se declare el default, esté en torno al cincuenta por ciento, o seguir haciendo las... ¿Sí? ",
+            "cosine_dist": 0.4217660921284748,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 672.578,
+            "end_time": 674.659,
+            "text": "¿Cómo?  ¿La pobreza va a estar en torno al cincuenta por ciento? ",
+            "cosine_dist": 0.846371546579488,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 674.68,
+            "end_time": 695.666,
+            "text": "Sí, claro.  Y si hay una hiperinflación, la vas a ver en el setenta y cinco por ciento.  Vas a ver un caos social.  ¿Y entonces?  Lo único que espero es que cuando pase esto, la gente identifique al enemigo que la generó, que es la corporación política.  que los identifique y que a ver qué hace cuando identifica quién es el enemigo. ",
+            "cosine_dist": 0.4845896275258669,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 697.427,
+            "end_time": 699.529,
+            "text": "¿Alberto forma parte también de la corporación política? ",
+            "cosine_dist": 0.8397227840997725,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 699.549,
+            "end_time": 710.317,
+            "text": "La corporación política es la corporación política.  Son personas que hace treinta, cuarenta años que están siempre metido ahí, son todos que le van fantástico y a los únicos que nos van mal somos los que laburamos. ",
+            "cosine_dist": 0.4504682586599188,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 710.377,
+            "end_time": 719.024,
+            "text": "Suponete que mañana te despertás en un país donde no hay, ya sé que te va a gustar escuchar, no hay banco central ni hay clase política. ",
+            "cosine_dist": 0.7918714311848616,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 720.658,
+            "end_time": 723.179,
+            "text": "Bueno, hay un experimento en la India que se llama... ",
+            "cosine_dist": 0.6600146287000511,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 723.559,
+            "end_time": 727.321,
+            "text": "Me lo contaste otra vez, pero es una cosa que funcionó un tiempo. ",
+            "cosine_dist": 0.7692238044589378,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 727.901,
+            "end_time": 729.102,
+            "text": "Bueno, digamos, pero a ver... ",
+            "cosine_dist": 0.728938257120191,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 729.642,
+            "end_time": 733.964,
+            "text": "O sea, vos planteás un sistema de anarquía.  No hay política, no hay banco central, no hay reglas. ",
+            "cosine_dist": 0.841101116417288,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 734.004,
+            "end_time": 744.929,
+            "text": "No, no, pará, pará.  Vamos a ordenar por cosas.  Hay una cuestión vinculada a mi ideología, si vos querés.  A mi filosofía.  Yo filosóficamente soy anarcocapitalista. ",
+            "cosine_dist": 0.45992545884594616,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 745.509,
+            "end_time": 746.369,
+            "text": "Anarcocapitalista. ",
+            "cosine_dist": 0.9420740330378002,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 746.409,
+            "end_time": 752.787,
+            "text": "Es decir, desprecio al Estado.  Considero al Estado una organización criminal peor que la mafia. ",
+            "cosine_dist": 0.49907216613814087,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 752.887,
+            "end_time": 753.587,
+            "text": "En todos los países. ",
+            "cosine_dist": 1.004803049735992,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 753.607,
+            "end_time": 807.38,
+            "text": "Peor que la mafia.  Déjame, por favor, terminar la definición.  ¿Por qué?  Porque la mafia por lo menos cumple, tiene códigos.  Compite.  El Estado no.  El Estado tiene el monopolio de la violencia, tiene el monopolio de la emisión monetaria.  Es decir, es la peor lacra que existe.  Por ende, además se financia con impuestos, que es una fuente coactiva de ingresos, o sea, robo.  Por ende, los políticos, por definición, al vivir de un robo, son ladrones.  Ese es mi concepto.  Eso es una cuestión filosófica.  Después vivo en el planeta Tierra.  Consecuentemente soy minarquista.  O sea, el Estado a su mínima expresión.  Que por una cuestión tecnológica no descarto que en algún futuro sea cero.  Pero ese Estado en la Argentina existió.  Es el modelo de Alberti.  El modelo de Alberti se empezó a aplicar en mil ocho sesenta en Argentina.  En mil ocho noventa y cinco Argentina tenía el PBI per cápita más alto del mundo. ",
+            "cosine_dist": 0.41059914125980823,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 810.32,
+            "end_time": 811.601,
+            "text": "¿Cómo era el Estado en ese momento? ",
+            "cosine_dist": 0.9527023813522887,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 812.101,
+            "end_time": 865.36,
+            "text": "Mínimo, cinco por ciento del PBI.  Todo el plebador ejecutivo entraba y le sobraba lugar en la Casa Rosada.  ¿Sabés el laburo que tendría que salir a buscar para toda esa manga de zánganos, parásitos inútiles que viven del Estado?  Que lo único que hacen es crearnos problemas, porque crean problemas para poder seguir estafándonos.  Es decir, vos querés un fiel reflejo del adoctrinamiento, del lavaje de cerebro que tiene esta sociedad, aquel que te defiende el control de capitales.  Primero, la pregunta es, si yo me gano miguita honestamente, ¿por qué no puedo determinar en qué la gasto?  ¿Me podés explicar por?  qué?  ¿Quién sos vos para determinar si me puedo comprar un teléfono, un cuaderno, un libro, una copa o dólares? ",
+            "cosine_dist": 0.40969996516690865,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 866.12,
+            "end_time": 867.26,
+            "text": "¿Quién sos?  El Estado. ",
+            "cosine_dist": 0.8709367346684008,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 868.041,
+            "end_time": 881.005,
+            "text": "Ah, bárbaro.  Entonces vos querés decir que ponés por encima de las libertades de los individuos un organismo que es una entidad, que es una entelequia y que acorde a las preferencias de algún hijo de remil puta. ",
+            "cosine_dist": 0.5228229986545243,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 881.045,
+            "end_time": 884.266,
+            "text": "le cojagás las libertades a los otros.  Pero ¿y quién organiza el país entonces? ",
+            "cosine_dist": 0.7683867946196142,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 885.378,
+            "end_time": 899.104,
+            "text": "Pero vos necesitás que te controlen la vida.  Vos tenés tan poca autoestima.  No, no, no.  Bueno, yo creo en el orden espontáneo.  Yo no necesito que nadie me maneje la vida como un yo.  ¿Te hablas a mí?  No, te lo estoy preguntando, digamos, figurativamente. ",
+            "cosine_dist": 0.6432349774488328,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 899224,
+            "end_time": 899644,
+            "text": "Claro. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 899.744,
+            "end_time": 900.704,
+            "text": "No, no es personal. ",
+            "cosine_dist": 0.7588408871719419,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 900.724,
+            "end_time": 901.504,
+            "text": "No, ya lo sé, Javier. ",
+            "cosine_dist": 1.0165425421222405,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 901.544,
+            "end_time": 1024.404,
+            "text": "No es personal.  Te estoy siguiendo en la charla.  Está bien, pero vamos, entonces sigamos con el concepto.  Fíjate, digamos, entonces hay un conjunto de delirantes que... se arrogan cercenarte las libertades de comprar dólares.  Esto es muy interesante.  Muy interesante.  Porque esto traza la línea entre los chorros y los honestos.  Fíjate esto.  En realidad, suponete que vos tenés diez mil pesos.  Y ahora, sabes que va a haber cincuenta por ciento de inflación.  No discutamos las cuestiones técnicas porque voy a aburrir a todo el mundo.  Y que el dólar, digamos, como es un precio más de la economía, va a seguir ese cincuenta por ciento.  Si vos te quedás con los pesos, como te sugieren los economistas amigos del poder, ¿sabes qué te va a pasar?  Te vas a quedar con un tercio menos.  vas a perder un tercio de tu poder de compra.  Eso sí, los políticos van a estar felices.  ¿Por qué?  Porque recaudan impuesto inflacionario.  Pueden gastar más.  Pueden pagar sueldos de seiscientos cincuenta mil pesos a legisladores en Chubut.  A jueces.  Ejemplo.  O a jueces.  Bien.  Ah, no, a los legisladores.  tres ochenta.  Menos.  Debe ser parecido al sueldo que gana el argentino medio, ¿no?  O el argentino mediano.  Vamos.  Pero supongamos y sigamos con este análisis.  Entonces, si vos te quedás con los pesos, que es lo que quiere el político argentino, perdiste un tercio de tu poder adquisitivo.  Ahora sucede que vos agarrás y compras los dólares, pero los compras en blanco.  Como hay un salto del cincuenta por ciento del precio del dólar, te vas a quince mil.  Ah, tenés ganancias.  ¿Qué hacen?  De esos cinco mil te sacan mil siete cincuenta.  ¿Tu estrategia óptima?  cuál era?  Comprarlos en negro.  Por eso revientan los colchones.  Porque es una estafa.  Y aquellos políticos y economistas que están a favor de esto, están a favor de la estafa del Estado contra los que producimos y somos honestos.  Es decir, todos los chorros están a favor de esas medidas. ",
+            "cosine_dist": 0.4482897246531834,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1026.084,
+            "end_time": 1027.325,
+            "text": "¿Qué pensás de lo que pasó? ",
+            "cosine_dist": 1.0632380698272386,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1027.365,
+            "end_time": 1049.111,
+            "text": "Porque aparte no creen en el sistema de precios.  Porque no creen en la libertad de los individuos.  Entonces se la quieren controlar.  Y como no le gustan los efectos, porque se ponen desde la poltrona.  ¿Sabes cómo se llamaba el último libro de Hayek?  La fatal arrogancia.  Tipos que se ponen en la poltrona y saben qué es lo mejor para vos.  Deciden qué es lo bueno para vos.  Pero ¿quiénes son? ",
+            "cosine_dist": 0.4982858294018928,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1049.771,
+            "end_time": 1056.012,
+            "text": "Te quiero preguntar, hablaste de precios recién.  El gobierno fijó un congelamiento de nafta.  Duró treinta y tres días la medida. ",
+            "cosine_dist": 0.8180465517480554,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1056.453,
+            "end_time": 1057.873,
+            "text": "Un avance sobre los derechos de propiedad. ",
+            "cosine_dist": 0.69668169102225,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1058.893,
+            "end_time": 1059.753,
+            "text": "¿Lo consideras un avance? ",
+            "cosine_dist": 1.0259626962159987,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1059.773,
+            "end_time": 1075.592,
+            "text": "A ver Facundo, suponete que vos vas a trabajar.  Hacés un acuerdo con tu jefe.  Y ahora, a mí desde la poltrona se me ocurre que vos ganás mucha plata.  Y te saco un pedazo.  ¿O no te dejo que vos arregles?  ¿Cómo lo sentirías? ",
+            "cosine_dist": 0.4590707504644511,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1075.613,
+            "end_time": 1077.354,
+            "text": "¿Y quién debe fijar el precio? ",
+            "cosine_dist": 0.9656346974477588,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1077.914,
+            "end_time": 1105.452,
+            "text": "Debe ser libre.  El sistema de precios refleja un sistema de intercambios voluntarios.  ¿Todos los precios son libres en la Argentina?  No, justamente.  A ver, Argentina está entre los países peor ranqueados en libertad económica.  Por eso Argentina debe ser el país más rico del mundo.  Hoy es sesenta y cinco.  Y cuando estalle la crisis vamos a estar peor.  La crisis ya está, ahora necesitan la dinámica. ",
+            "cosine_dist": 0.46161490867536636,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1105.752,
+            "end_time": 1107.953,
+            "text": "¿Qué es lo que ves para adelante que te pone así? ",
+            "cosine_dist": 0.7476179533867204,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1109.453,
+            "end_time": 1178.954,
+            "text": "Veo un banco central de incompetentes, inútiles y burros.  El comunicado de ayer muestra que gran parte de los economistas son parte del problema.  El noventa y cinco por ciento son keynesianos, son brutos, son ignorantes, son cavernícolas.  Porque ¿sabes qué es el keynesianismo?  Hacer déficit fiscal financiado con emisión monetaria o con deuda.  ¿Sí?  Somos el máximo defaulteador.  En ciento dieciocho años, ciento ocho años tuvimos déficit.  Lo financiamos con deuda, somos el máximo defaulteador de la historia y ya te conté el desastre que hicimos con la emisión monetaria.  Y a mí que no me vengan con lo que dice Keynes porque lo desafío a leer la teoría general punto por punto.  Porque yo ese libro lo leí cinco veces.  Además, leí muchos libros de Keynes al margen de eso.  Pero, entonces, a lo que voy es que fíjate la burrada que dice el Banco Central.  El Banco Central dice no, porque en realidad el dólar determina el resto de los precios de la economía.  Eso es una burrada.  ¿Qué hicimos en la economía de oro?  Descubrimos que efectivamente la emisión monetaria era lo que generaba la inflación. ",
+            "cosine_dist": 0.4106705970781076,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1178.974,
+            "end_time": 1180.896,
+            "text": "El gobierno anunció ayer que... ",
+            "cosine_dist": 0.8553120089210626,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1181.036,
+            "end_time": 1260.763,
+            "text": "Bueno, es lo que quiero explicar por qué el Banco Central repotencia el camino a la hiperinflación.  Básicamente, ¿por qué?  ¿Qué es lo que dice el Banco Central?  Dijo eso que te dije de que el dólar es el que determina los precios.  Una burrada.  O sea, eso implica ir atrás a mil ochocientos setenta y uno.  O sea, no conocen el principio de imputación de Menger.  Son unos brutos.  Pero, ¿qué quiere decir esto?  Vos cuando emitís dinero por encima de la demanda de dinero, cae el poder adquisitivo del dinero.  Todos los precios expresados en la unidad monetaria suben.  El dólar es un precio más de la economía.  Por ende, sube.  No es que están subiendo los precios.  En realidad, lo que está pasando es que están cayendo el valor del peso.  Como el dólar es un activo financiero, pica primero.  Como los alimentos y los commodities están ligados con eso, se mueve rápido en esa línea.  Después suben los mayoristas, después suben los minoristas y por último los solarios.  Por eso, digamos, tenés un desastre de aumento de pobres indigentes.  Como se cayó la demanda de dinero, vos tenés este desastre cambiario, de inflación a ario y todo eso.  ¿Qué dice el Banco Central?  No, como en realidad el problema es que subió el dólar y eso hizo subir el resto de los precios.  La cantidad real de dinero se achicó.  Entonces yo ahora tengo un exceso de demanda y para no complicar las cosas emito.  Una burrada.  Es que la demanda de dinero se está deplomando, Facundo.  Y este tipo es como Nerón para parar un incendio.  O sea, le estás tirando nafta al fuego. ",
+            "cosine_dist": 0.41121261818884514,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1260.983,
+            "end_time": 1263.125,
+            "text": "Javier, gracias.  ¿Qué estás leyendo? ",
+            "cosine_dist": 0.9451858825004239,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1264.867,
+            "end_time": 1268.771,
+            "text": "Vendría bien que varios brutos lean eso.  Los perjuicios del dinero, de Milton Friedman. ",
+            "cosine_dist": 0.5553953700642764,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1268.811,
+            "end_time": 1270.092,
+            "text": "Ah, pensé que sea prejuicios. ",
+            "cosine_dist": 0.9260958659261098,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1270.472,
+            "end_time": 1271.914,
+            "text": "No, los perjuicios del dinero. ",
+            "cosine_dist": 0.7726937464456827,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1271.934,
+            "end_time": 1274.476,
+            "text": "Es un chiste, es un chiste.  Gracias, gracias Javier. ",
+            "cosine_dist": 0.9798960734284994,
+            "is_target_speaker": false
+        }
+    ]
+}

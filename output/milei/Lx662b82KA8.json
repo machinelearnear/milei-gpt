@@ -1,0 +1,1319 @@
+{
+    "Index": 608,
+    "channel_id": "UCZWu17tgXGuCjI6UaWEPaBA",
+    "channel": "La Puerta Abierta",
+    "uploader_url": "https://www.youtube.com/@LaPuertaAbiertaTV",
+    "id": "Lx662b82KA8",
+    "url": "https://www.youtube.com/watch?v=Lx662b82KA8",
+    "title": "Entrevista A Javier Milei - Economista, Político",
+    "duration": 3471.0,
+    "view_count": 61861,
+    "candidate_name": "milei",
+    "quality": "low",
+    "segments": [
+        {
+            "speaker": "Speaker 0",
+            "start_time": 40.06,
+            "end_time": 77.038,
+            "text": "¿Qué tal, cómo le va?  Aquí estamos listos para compartir con usted de esta hora al final del día.  A veces los sueños se cumplen y uno de los sueños que teníamos en este año era traer a nuestro invitado de esta noche.  No se imagina la cantidad de personas que me dijeron, lo tenés que invitar, yo te hago contacto, yo lo llamo por teléfono.  Bueno, finalmente se dio y tenemos a Javier Milei.  que usted lo ha visto en tantísimos programas de televisión, pero ahora lo tenemos aquí en la puerta abierta.  ¿Qué tal, Javier?  Bienvenido. ",
+            "cosine_dist": 0.7354023677527814,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 77.058,
+            "end_time": 79.259,
+            "text": "¿Qué tal, Juan Pablo?  Un gusto enorme estar aquí. ",
+            "cosine_dist": 0.7033479410719389,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 80.18,
+            "end_time": 84.522,
+            "text": "¿Cómo es que conoces el barrio?  ¿Viviste cerca, por aquí? ",
+            "cosine_dist": 0.68847775381889,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 85.223,
+            "end_time": 100.95,
+            "text": "Sí, yo viví en Devoto muchos años.  vivía detrás del Colegio Cardenal Copelo, el nuevo, en Salvador María del Carril, o sea, en el boulevard, del lado de atrás del Copelo. ",
+            "cosine_dist": 0.5302828759651574,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 101.31,
+            "end_time": 104.691,
+            "text": "Déjame decir, yo creo que es una de las calles más hermosas de Buenos Aires. ",
+            "cosine_dist": 0.7680494940929813,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 105.211,
+            "end_time": 112.735,
+            "text": "Sí, es una calle verdaderamente muy linda.  Es un boulevard muy lindo que da a la Plaza de Voto y la verdad que Es muy lindo. ",
+            "cosine_dist": 0.5792641012127266,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 114.456,
+            "end_time": 115.597,
+            "text": "¿Y estudiaste en el Copelo? ",
+            "cosine_dist": 0.9286845160323066,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 116.198,
+            "end_time": 133.854,
+            "text": "Hice tanto mi primario como el secundario en el Copelo y después la licenciatura en economía.  la hice en la Universidad de Belgrano y después hice dos maestrías.  Una la hice en el Instituto para el Desarrollo Económico y Social y la otra la hice en la Universidad Torcuato de Itela. ",
+            "cosine_dist": 0.5186628618217162,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 133.874,
+            "end_time": 136.617,
+            "text": "¿Y qué te llevó a estudiar la economía? ",
+            "cosine_dist": 0.8062243479871872,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 138.703,
+            "end_time": 225.164,
+            "text": "Es interesante la historia, digamos, mía con la economía, porque te diría que la elegí por los motivos incorrectos, la abracé por los motivos correctos.  O sea, básicamente yo decidí ser economista a los once años.  Mirá.  cuando fue la crisis de la tablita cambiaria del ochenta y dos.  Quizás recuerdas cuando Lorenzo Sigó dijo, el que apuesta el dólar pierde.  Bueno, exacto.  Y bueno, básicamente lo que yo veía es que había habido un fuerte cambio en la distribución del ingreso.  Gente que le iba bien pasaba a estar mal, gente que estaba mal de repente mejoraba.  Y la verdad es que el motivo dije, bueno, si yo quiero hacer plata y todo lo que se veía alrededor de tener dinero, dije, entonces tengo que ser economista para entender esto.  Y la realidad, así fue como la elegí, pero la abracé en mil nueve ochenta y nueve, en el medio de la hiperinflación.  Yo ya estaba en primer año de la universidad.  Y era en la hiperinflación de Alfonsín.  Yo en ese momento estaba en el plantel profesional de Chacarita Juniors. ",
+            "cosine_dist": 0.43279960430985165,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 225605,
+            "end_time": 225825,
+            "text": "¿Ah, sí? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 226.146,
+            "end_time": 247.298,
+            "text": "Sí.  Y entrenaba seis horas por día, era arquero.  Y en ese contexto un día la acompaño a mi mamá al supermercado para poder cargar las cosas.  Y en esa época no había estas bandas, ¿cómo es que se llama?  Las magnéticas, sí, claro. ",
+            "cosine_dist": 0.47594313969818225,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 247.338,
+            "end_time": 248.499,
+            "text": "Pasa el precio y te lo dicen. ",
+            "cosine_dist": 0.9363563220352524,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 248.559,
+            "end_time": 250.5,
+            "text": "Exacto.  En ese momento había... ",
+            "cosine_dist": 0.5181916677953965,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 250.72,
+            "end_time": 253.843,
+            "text": "El cajero miraba la marca.  Sí, exactamente. ",
+            "cosine_dist": 0.7227027110965814,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 254.083,
+            "end_time": 284.382,
+            "text": "Pasaban unas chicas con una suerte de pistola que remarcaba los precios... Y yo veía que estaban pasando las chicas que remarcaban y la gente se tiraba sobre la mercadería.  Entonces decía, como si los precios suben, la cantidad demandada baja.  Yo estudiaba y digo, ¿cómo puede ser que están subiendo los precios y la gente se tira arriba la mercancía?  Entonces dije, o yo soy un tonto o hay algo que está mal.  Eso me obsesionó tanto que a los veinte años escribí mi primer artículo académico que se llama La hiperinflación y la distorsión en los mercados. ",
+            "cosine_dist": 0.4860593196814942,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 285.047,
+            "end_time": 297.215,
+            "text": "Mirá vos.  Bueno, los que somos viejos hemos vivido esa historia, ¿no?  En mi caso, vos sabés que yo tenía una fábrica de cubiertos en el setenta y cuatro. ",
+            "cosine_dist": 0.8062653980063479,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 298.055,
+            "end_time": 298.996,
+            "text": "¿Te agarró el rodrigazo? ",
+            "cosine_dist": 0.8340525544796021,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 299.036,
+            "end_time": 299.896,
+            "text": "Me agarró el rodrigazo. ",
+            "cosine_dist": 1.0373731587174615,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 299.996,
+            "end_time": 302.258,
+            "text": "Te agarró el rodrigazo, te agarró... ",
+            "cosine_dist": 0.7630058007792878,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 303.479,
+            "end_time": 330.399,
+            "text": "La vendí en el setenta y nueve.  Viajé un año, estuve un año y medio en Estados Unidos con la Tablita Martínez Dios.  Y eran las cosas más hermosas que había, porque el dólar valía lo que hoy valdría, digamos, dos pesos, tres pesos, cualquiera tenía mil dólares en el bolsillo en la Argentina.  Y viajaba todo el mundo, así que me pasé, hice de remisero de mis amigos durante ese año que estuve allá, un año y medio.  Y al volver, en Los Ángeles. ",
+            "cosine_dist": 0.7328882791399598,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 330.739,
+            "end_time": 337.162,
+            "text": "Yo estuve en Los Ángeles.  Sí, yo estuve en Los Ángeles.  Estuve en California, en varios lugares. ",
+            "cosine_dist": 0.6313242604255516,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 338.023,
+            "end_time": 394.188,
+            "text": "Y cuando vuelvo, es cuando se rompe lo que cuenta Javier, se rompe la tablita de Martínez Dios y explota.  Entonces la gente empezó a... a ir al dólar.  y entonces el ministro dijo el que apuesta al dólar pierde.  y al otro día el dólar de ocho se fue a veinticinco.  una cosa así porque fue la señal.  y a partir digo de Rodríguez.  y a partir de ese momento vamos para atrás vamos para atrás.  pero no quiero entrar en la economía de la Argentina hasta más adelante.  ¿cómo ves el mundo?  la realidad económica del mundo vos que sos economista y debes estudiar.  En esa época China no existía.  En los años setenta y ochenta era un lugar en el que nos mirábamos con pena por la falta de libertad que había.  Pero hoy es una potencia, el mundo cambió económicamente. ",
+            "cosine_dist": 0.7890826777623667,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 394.749,
+            "end_time": 469.878,
+            "text": "Sí, ciertamente el mundo está experimentando un proceso virtuoso de crecimiento, muy a pesar de lo que dicen los pensadores de izquierda.  La realidad es que cuando China, a partir de mediados de los setenta, empieza a hacer reformas pro-mercado, empieza a experimentar un proceso de crecimiento virtuoso, Ahora, ese proceso de crecimiento, esto de la humanidad, digamos, es algo relativamente nuevo.  O sea, la condición natural del hombre a lo largo de la historia fue la pobreza.  De hecho, el mundo llega a los mil millones de seres humanos en el año mil ochocientos diez, y en ese momento las personas que vivían en la pobreza extrema eran el noventa y cinco por ciento de las personas.  Y antes de entrar a esta pandemia, ese número había caído al cinco por ciento, y eso tiene que ver con un proceso de crecimiento económico como nunca ha visto en la historia de la humanidad y tiene que ver con la llegada del liberalismo y en especial el capitalismo de libre mercado. ",
+            "cosine_dist": 0.47085950812937527,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 473.12,
+            "end_time": 479.202,
+            "text": "Los de izquierda dirían que el capitalismo salvaje es el que lleva a la gente a la pobreza. ",
+            "cosine_dist": 0.7674631976158979,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 480.706,
+            "end_time": 656.825,
+            "text": "Bueno, lo primero que le diría es que los datos no dicen eso, ¿no?  O sea, de hecho el mundo, digamos, casi multiplicó por ocho la población y sin embargo, digamos, cada vez la proporción de pobres es muchísimo menor.  Y la realidad es que, bueno, el problema, Hayek decía que si la gente de izquierda entendiera economía no sería de izquierda.  O sea, tienen un problema, digamos, yo en algún momento creí que el problema de la izquierda era un problema de índole mental.  O sea, porque ya me resulta casi hasta exasperante cómo viven de espalda los datos.  Y después me di cuenta que no, que no era un problema de índole mental.  Ser de izquierda es una enfermedad del espíritu.  Porque en el fondo... la evidencia empírica los condena.  o sea es un sistema donde se lo aplicó.  fue un fracaso en lo económico en lo social en lo cultural.  asesinaron a ciento cincuenta millones de seres humanos o sea que con lo cual también es un sistema asesino.  pero además antes ya habían perdido en el plano teórico o sea no hacía falta ir al plano empírico para saber que estaba mal.  Marx fue refutado fuertemente por varios autores, en especial cuando aparecen las obras de Menger, de Hevons y de Balrac, que crean la teoría subjetiva del valor y con eso barren por completo con toda la teoría marxista.  Y después hay directamente una crítica de Eugene von von Baberck, Sí, que se llama la conclusión del sistema marxiano y, digamos, demuestra que el sistema es un error teórico.  Y, digamos, entonces ni de casualidad podía funcionar bien, de hecho por eso fracasa siempre.  Y el punto es, entonces, ¿por qué aún así siguen sosteniendo un sistema con estas características?  Porque en el fondo... Es un falso altruismo que lo que está escondiendo son seres profundamente envidiosos y resentidos, porque la base fundamental del socialismo es la envidia, el odio, el resentimiento, el trato desigual frente a la ley y sobre todo el robo.  O sea, y si es necesario, el asesinato.  Por lo tanto, lo que te diría es que... los datos lo condenan, la teoría económica los condena, o sea, y en el fondo usan la pátina del altruismo para esconder que son seres miserables. ",
+            "cosine_dist": 0.4559247460525728,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 659.786,
+            "end_time": 697.816,
+            "text": "Pero el capitalismo también tiene su lado negativo.  También... está la codicia que es el motor del capitalismo que no es una virtud.  está el hecho de que cada vez el capitalismo en este mundo que vivimos cada vez hay menos gente que tiene más y más gente que tiene menos.  esto es lo que estoy diciendo.  lo digo porque lo leo lo escucho pero el que sabe sos vos pero puede que esté mal ¿está mal? ",
+            "cosine_dist": 0.7646828459705387,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 698.136,
+            "end_time": 1033.196,
+            "text": "sí Mirá, ¿sabés lo que pasa?  Voy a ir sobre el primer punto, digamos, sobre la naturaleza del capitalismo y voy a ir sobre la cuestión después de la desigualdad.  La realidad es que hay un video de Milton Friedman que habla de un lápiz, para la construcción de un lápiz.  No es original porque él lo toma de un ensayo de Reed que se llama Yo el lápiz.  Pero al margen del trabajo de Leona Reed y del video de Milton Friedman, básicamente en el capitalismo vos solamente podés ser exitoso sirviendo al prójimo con bienes de mejor calidad, un mejor precio.  O sea, si yo el producto que genero es malo y vos no lo compras, yo voy a la quiebra.  O sea, y el poder de comprar lo tenés vos.  O sea, el que determina quién es el dueño del capital no es, digamos, quien tiene los fierros.  Lo hace el consumidor con su acto de compra.  Y vos solamente, digamos, vas a comprar si solo te interesa tenerlo.  Si no, no lo comprarías.  Por lo tanto, o sea, en realidad, digamos, y una de las cosas maravillosas que muestra, digamos, o sea, ese video que hace Friedman, dice, mirá, es imposible, digamos, que alguien pueda hacer solo este lápiz.  Y hay una gran cooperación internacional de gente que se desconoce y dice, es más, seguro que si hasta así se conocieran, se odiarían.  O sea, y es un sistema de cooperación social, aún, digamos, donde vos, guiado por tu propio interés, contribuís al bienestar general, que no es ni más ni menos que aquella metáfora maravillosa que desarrolló Adam Smith en su maravilloso libro que se llama Investigación sobre la naturaleza y la causa de las riquezas de las naciones, para los amigos las riquezas de las naciones, en mil setecientos setenta y seis, libro que tardó diez años en escribir, Y entonces en el fondo es un sistema de cooperación social.  y que funciona fenomenalmente porque aquellos países que son más libres son ocho veces más ricos que los reprimidos.  El décil más bajo de la distribución no solo que está once veces mejor que su par en el país reprimido, sino que además está mejor que el ochenta por ciento de la población, pues esto tiene que ver con el formato de la distribución del ingreso, sino que además la gente vive un veinticinco por ciento más.  o sea y además tienen veinticinco veces menos de pobres en el formato normal y cincuenta veces menos en el formato extremo.  por lo tanto digamos además o sea el capitalismo en su versión más pura, es una máquina de aniquilar pobreza, es una máquina de generar bienestar.  Y el tema de la desigualdad, lo primero es, o sea, ¿en base a qué indicador?  O sea, porque la pregunta es, si vos solamente vas a ser exitoso en el capitalismo sirviendo al prójimo con bienes de mejor calidad, un mejor precio, en realidad el tipo que... tiene mucho dinero, en realidad es un benefactor social.  Ahora, si vos, salvo que me digas que lo ganó ilegítimamente.  Ahora, si lo ganó ilegítimamente, solamente lo puede ganar ilegítimamente porque detrás de eso está el Estado.  Es decir, en general, cuando alguien hace una crítica sobre el funcionamiento del sistema de libre empresa, cuando ve que algo está funcionando mal, Lo más probable es que si está funcionando mal es porque en el medio está metido el Estado.  Y la otra situación es que no está utilizando las herramientas correctas para analizar.  O sea, ¿qué problema tiene que haber en un sistema donde los intercambios son voluntarios?  Si nosotros hacemos intercambios y los dos estamos contentos con los intercambios, ¿cuál es el problema?  Ninguno.  O sea, el problema es que hay otro mirando de afuera, que no sabe qué está pasando y se mete a opinar de las transacciones que hacemos nosotros.  ¿Quién sos?  ¿Me comprendes?  Pero el punto central hay... En eso la batalla cultural la izquierda la ha dado muy bien.  Probablemente en el lugar donde mejor lo hizo la izquierda fue en Argentina.  La mejor aplicación de cómo infectar de socialismo a la sociedad lo ha hecho Gramsci y el mejor ejemplo es Argentina.  Y de ser un país rico, digamos, hoy somos un país, digamos, ya estamos debajo de la mitad de la tabla.  Y si seguimos así en cincuenta años vamos a ser la Villa Miseria más grande del mundo.  Por lo tanto, pero una de las cosas que muy hábilmente hizo la izquierda, y esto lo hacen regularmente, es construir lo que se llama la falacia del hombre de paja.  O sea, es como que yo te diga, Juan Pablo, vos dijiste esto, En realidad nunca lo dijiste y entonces después te empiezas a criticar por eso que dijiste, pero que nunca dijiste.  O sea, entonces vos en lugar de estar rebatiendo los argumentos tenés que estar explicando que vos no dijiste eso.  Entonces es como que la izquierda, digamos, utiliza, digamos, son muy tramposos y hay que, lo que pasa que solamente los podés, Descifrar cuando estás muy acostumbrado a procesar teoría económica y evidencia empírica, evidentemente. ",
+            "cosine_dist": 0.38928610475946124,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1033.696,
+            "end_time": 1075.623,
+            "text": "Bueno, están llegando un montón de mensajes y todavía no di el teléfono, la gente lo conoce.  Es fácil, ¿no?  Hasta Fernando lo aprendió.  Para los televidentes de fuera de la Argentina es más cincuenta y cuatro nueve y el número once dos siete siete siete cero cero cero cero.  Estoy dialogando con un economista joven.  Nació el año en que yo me casé, o sea que me trae recuerdos hermosos.  Por si mi señor está mirando el programa. ",
+            "cosine_dist": 0.7688264484913955,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1076.244,
+            "end_time": 1085.635,
+            "text": "No sé, yo, digamos, en ese aspecto, digamos, no he ingresado.  Yo soy soltero.  Sí, soy soltero. ",
+            "cosine_dist": 0.6638811556369946,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1086.896,
+            "end_time": 1089.359,
+            "text": "Bueno, mereces casarte. ",
+            "cosine_dist": 0.8458975846657384,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1091.341,
+            "end_time": 1095.943,
+            "text": "Los dedos contra la puerta. ",
+            "cosine_dist": 0.7501613823147659,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1095.963,
+            "end_time": 1153.246,
+            "text": "Bueno, te leo los mensajes desde Aguilares, Tucumán, muy interesante el programa, desde Tito de Trelew, conectados, dice, creo que tenemos que tener conocimiento científico, excelente las entrevistas, Abuel Milán, que es productor del radio manantial de Trelew, Pastor, cada vez están mejor los invitados.  Lo escuché en otros canales.  Ojalá hubiera muchos argentinos que pensaran como él.  Yo alentaría que se postule.  Nuestro país necesita hombres como Javier Migley, Elvira de Misiones.  Buenas noches, creo que para diciembre se viene el guzmanazo, porque todas las medidas tomadas son iguales que en el setenta y cinco.  ¿Puede ser?  Pregunta Daniel de la Provincia de Santa Fe, porque mencionamos el rodrigazo, ¿no?  Guillermo de Noquén, Dios los bendiga, pregunta... Es mi ley, dice.  Porque está muy tranquilo. ",
+            "cosine_dist": 0.7947294105981435,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1154.007,
+            "end_time": 1175.372,
+            "text": "Bueno, porque estoy en un lugar donde estoy cómodo.  Eso lo puedo aclarar.  Yo, como todo liberal, creo en el principio de no agresión, o sea, como norma.  Ahora, si vos me agredís, o sea, si te gusta el durazno, bancate la pelusa.  Eso, digamos, es un tema... ",
+            "cosine_dist": 0.5135230122139396,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1175.392,
+            "end_time": 1181.257,
+            "text": "Y en los canales de televisión en general, lo habitual es que te agredan. ",
+            "cosine_dist": 0.788805480496975,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1182.518,
+            "end_time": 1188.882,
+            "text": "Al inicio sí, después con el correr del tiempo eso fue cambiando.  En la medida que ",
+            "cosine_dist": 0.5848659012171352,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1190.363,
+            "end_time": 1192.644,
+            "text": "fui ",
+            "cosine_dist": 0.7450782139187742,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1192.745,
+            "end_time": 1221.501,
+            "text": "superando exitosamente cada uno de los debates y cada uno de los cruces que tuve, ahí digamos pasaron a agredirme cada vez menos y ahora en general solamente hago notas mano a mano porque la verdad es que no estoy para estar teniendo esas peleas que ya las di en su momento y ahora digamos básicamente lo que yo quiero hacer es transmitir digamos más ",
+            "cosine_dist": 0.5311212775071326,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1222.542,
+            "end_time": 1225.724,
+            "text": "bueno pero si nos tenemos que pelear nos peleamos de que cuadro sos? ",
+            "cosine_dist": 0.8603402936559784,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1227.998,
+            "end_time": 1229.199,
+            "text": "No, yo era de boca. ",
+            "cosine_dist": 0.8227935418657017,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1230.921,
+            "end_time": 1232.183,
+            "text": "¿Hasta cuándo?  ¿Hasta el viernes pasado? ",
+            "cosine_dist": 0.8921751140030811,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1232.875,
+            "end_time": 1261.836,
+            "text": "No, no, no.  Yo era de Boca y dejé de serlo cuando Angelisi en un acto populista lo echa a Falcioni y lo trae a Riquelme.  En ese contexto, digamos, o sea, estaba claro que Riquelme no estaba en condiciones de hacer una buena campaña.  No lo hizo.  Y ya, Dios, cuando vi esa situación dije, bastante tengo con vivir en un país populista como para además ser hincha de un equipo populista.  Y después cuando lo trajeron a Gago me hice anti-Boca. ",
+            "cosine_dist": 0.5516515850723094,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1263.214,
+            "end_time": 1267.095,
+            "text": "Bueno, yo soy de River, pero no me puedo pelear porque vos sos... ",
+            "cosine_dist": 0.8748282884271812,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1267.255,
+            "end_time": 1270.856,
+            "text": "Te puedo contar la anécdota del partido de Madrid. ",
+            "cosine_dist": 0.7173212195852221,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1272017,
+            "end_time": 1272557,
+            "text": "¿Estuviste ahí? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1272.877,
+            "end_time": 1274.678,
+            "text": "No, no, no.  Yo la vi. ",
+            "cosine_dist": 0.8403776064491244,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1275.298,
+            "end_time": 1279.819,
+            "text": "Nueve de diciembre, un día patrio para nosotros.  El dos mil dieciocho. ",
+            "cosine_dist": 0.7751397005894826,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1280.28,
+            "end_time": 1300.354,
+            "text": "Bueno, yo cuando era de Boca fui hasta Japón a verlo campeón a Boca.  Pero el día de la final en Madrid, yo recuerdo que estaba mirando el partido en lo de mi hermana.  Y lo estaba mirando como un partido más hasta que entró Gago.  Y cuando entró Gago le dije a mi hermana, mira, a partir de ahora empieza a hinchar por River y el gol de River. ",
+            "cosine_dist": 0.5038394464294063,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1301.554,
+            "end_time": 1302.315,
+            "text": "¿Qué tiene que ver? ",
+            "cosine_dist": 0.8408958935558564,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1302.635,
+            "end_time": 1357.291,
+            "text": "Porque es una de las grandes mentiras del fútbol argentino.  Es como el progresismo.  O sea, digo, pero ¿cómo vas a tener un cinco que tiene menos marca que la salada?  Digo, vos sos hincha de River, vos has visto cincos como Merlo, digamos, como Astrada, digo, como Mascherano, digamos, o sea, entenderás, digamos, lo, digamos, a ver, la tribuna, digamos, donde está la doce.  se llama Natalio Pescia, no es justamente porque, digamos, o sea, trataba de jugar, digamos, o sea... Está bien, pero lo que voy es, digamos, el ADN de Boca es Junta.  Alguien que se dedica a tirar pases para atrás en zona dos de la cancha.  Eso lo hace cualquiera.  Esto lo hago yo. ",
+            "cosine_dist": 0.3895952917286437,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1359.074,
+            "end_time": 1376.519,
+            "text": "Gran invitado, Javier Mare, es un placer escucharlo.  Cómo te abre la mente y te deja siempre una enseñanza.  Desde Camarones, Chubut.  Yolanda Falcón, gracias.  Saludos nos manda Ariel desde Rosario.  Tendría que seguir luchando y pelear contra este sistema corrupto.  Sergio de Versalles. ",
+            "cosine_dist": 0.8316458090021134,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1376.639,
+            "end_time": 1385.683,
+            "text": "Bueno, Diego, por algo soy candidato a diputado nacional por la Ciudad Autónoma de Buenos Aires.  O sea, con lo cual contesto a una pregunta que hizo una persona de Misiones. ",
+            "cosine_dist": 0.5453998662078572,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1385.963,
+            "end_time": 1404.37,
+            "text": "Sí, sí.  Al final vamos a hablar de eso para que la gente entienda, ¿no?  Javi Capo dice, gracias por tu docencia y valentía.  Dios te bendiga mucho.  Soy Aníbal de Puerto Deseado.  Mi ley no cree en el Estado.  ¿Por qué cae en la contradicción de postularse un cargo efectivo del Estado? ",
+            "cosine_dist": 0.7959738846266153,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1404.97,
+            "end_time": 1549.294,
+            "text": "Hasta buena esa pregunta.  Yo, digamos, filosóficamente soy anarcocapitalista.  O sea, yo no creo en el Estado.  Para mí el Estado es una institución violenta.  De hecho, se financia con una fuente coactiva de ingresos, o sea, que son los impuestos.  O sea, de hecho, es una rémora de la esclavitud.  Y obviamente, digamos, considero que el Estado es nuestro enemigo.  O sea, eso es lo que yo soy filosóficamente.  En términos reales, soy un minarquista.  hasta que la tecnología no evolucione lo suficiente, creo que el Estado debería ocuparse de seguridad y justicia, o sea que no es de corto plazo, y en términos prácticos creo, soy anarcocapitalista en la vida real, por decirlo de alguna manera.  Y dada esa situación, vos podés cambiar el sistema de tres maneras.  Una es la batalla cultural, digo que llevo unos cuantos añitos dando la batalla cultural, y desde mi punto de vista ese proceso está algo agotado por cómo están mutando algunas estructuras.  La otra es la vía revolucionaria, como liberal, digamos, que cree en el principio de no agresión, no creo en la solución violenta.  y si se me ocurriera ir por la solución violenta sería un problema bastante grande porque el monopolio de las armas la tiene el Estado, con lo cual tampoco nos iría muy bien que digamos... Y la otra es meterse adentro del sistema y romper el sistema de adentro.  Que es lo que estoy tratando de hacer.  O sea, esto es como... Mira, hay un video de Friedman que está genial.  Dice, mire, hay distintos tipos de liberales.  Dice, están los minarquistas.  Perdón, están los liberales clásicos.  Están los minarquistas.  Y si usted se fija bien, hasta los hay anarquistas.  Ahora dice, la batalla, digamos, contra el enemigo del otro lado es tan grande... La realidad, digamos, tenemos tanto para hacer que, porque ¿sabes qué?  Mirá, la tribuna es muy linda, canta muy lindo, pero ¿sabes qué?  Los goles los hace Messi, no lo hace el que está cantando en la tribuna.  O sea, que la tribuna crea que, digamos, es parte de eso, es muy folclórico, pero los goles los hace Messi.  Por eso unos pagan la entrada y el otro cobra. ",
+            "cosine_dist": 0.39762606182137084,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1549.735,
+            "end_time": 1555.893,
+            "text": "Claro.  ¿Pero concebís un mundo sin Estado? ",
+            "cosine_dist": 0.7631471226227302,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1556.693,
+            "end_time": 1557.714,
+            "text": "Sí, definitivamente. ",
+            "cosine_dist": 0.8126978316781616,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1559.435,
+            "end_time": 1564.958,
+            "text": "El reino de Dios.  Definitivamente.  Es apocalíptico lo tuyo, sí. ",
+            "cosine_dist": 0.8197550436139803,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1565.878,
+            "end_time": 1566.819,
+            "text": "¿Por qué apocalíptico? ",
+            "cosine_dist": 0.9267757695685399,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1566.859,
+            "end_time": 1573.022,
+            "text": "Porque va a suceder en el futuro.  Yo lo digo yo como pastor en este caso. ",
+            "cosine_dist": 0.7668028369294901,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1573.062,
+            "end_time": 1655.524,
+            "text": "De hecho, antes de hacerme conocido, Yo soy especialista en crecimiento económico sin y con dinero.  Y en una de las vertientes que trabajaba en los temas de crecimiento económico, hablaba de la singularidad en economía.  y de haber singularidad son fenómenos donde todavía no hay una explicación.  por ejemplo una singularidad matemática es dividir por cero.  una singularidad por ejemplo física son los agujeros negros.  la singularidad tecnológica es que la inteligencia artificial supere a los humanos.  en economía yo estaba trabajando en el concepto de singularidad y es La economía va a dejar de ser la ciencia de administración de la escasez para convertirse en el estudio de la acción humana bajo abundancia radical.  Y la primer frase con la que yo arrancaba la presentación era, no sabemos cómo va a ser el futuro, lo único que sabemos es que va a ser mucho mejor.  y hoy aclararía, salvo que abracemos el socialismo.  Y ahí, digamos, iremos justamente al lado opuesto. ",
+            "cosine_dist": 0.4150906146269314,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1657.128,
+            "end_time": 1660.811,
+            "text": "Bueno, pero que Aníbal de Puerto Deseado esté satisfecho con una... ",
+            "cosine_dist": 0.8607091544336819,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1661.411,
+            "end_time": 1664.493,
+            "text": "Y si no, que lea el libro de Samuel VIII en el Viejo Testamento. ",
+            "cosine_dist": 0.5744542069647254,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1665.173,
+            "end_time": 1674.54,
+            "text": "¿Samuel?  VIII.  VIII, en el Antiguo Testamento.  ¿Primera Samuel o Segunda Samuel?  A ver, buscámelo.  ¿Qué relato estás mencionando? ",
+            "cosine_dist": 0.7561487254385947,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1674.88,
+            "end_time": 1679.743,
+            "text": "Cuando habla del Estado, cuando, digamos, piden que haya un Estado, le piden a Samuel que haya un Estado. ",
+            "cosine_dist": 0.570804934958509,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1679.783,
+            "end_time": 1680.624,
+            "text": "Que ponga un rey. ",
+            "cosine_dist": 0.9445305886120382,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1681.164,
+            "end_time": 1682.105,
+            "text": "Que ponga un rey. ",
+            "cosine_dist": 0.7908465297632766,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1682.305,
+            "end_time": 1683.345,
+            "text": "Y así le fue después. ",
+            "cosine_dist": 0.9874242744236571,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1683405,
+            "end_time": 1683966,
+            "text": "Y así le fue. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1685.578,
+            "end_time": 1687.16,
+            "text": "Eso lo sabe bien. ",
+            "cosine_dist": 0.9540134506743606,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1687.862,
+            "end_time": 1724.853,
+            "text": "O sea, bueno, de hecho, el Estado es una invención del maligno, por eso en todos los lugares donde se aplica funciona mal.  En el libro de San Lucas, en el Nuevo Testamento, justamente... Cuando nuestro Señor Jesucristo es tentado por el maligno, en la peor tentación le ofrece todos los reinos del mundo, porque ese poder le fue dado.  Entonces no te debería sorprender que donde hay Estado haya miseria.  Este gobierno que tanto habló del Estado presente, así no se está hundiendo.  O sea, es bíblico. ",
+            "cosine_dist": 0.39929492542959866,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1727.765,
+            "end_time": 1739.972,
+            "text": "Qué bueno, nunca había escuchado una cosa así.  Alguien pregunta, ¿qué opinás del régimen impositivo en la Argentina?  Y si lo pudieras cambiar, ¿qué le cambiarías? ",
+            "cosine_dist": 0.7296904957536792,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1741.542,
+            "end_time": 1760.263,
+            "text": "A ver, Argentina tiene la presión fiscal más alta en el mundo en blanco.  Pensá lo siguiente, cuando un trabajador recibe su salario, por cada ciento sesenta y cinco que paga el empleador, el trabajador recibe cien.  Y cuando se da vuelta... ",
+            "cosine_dist": 0.45267944530595416,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1762200,
+            "end_time": 1762320,
+            "text": "¿Sí? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1763.021,
+            "end_time": 1784.957,
+            "text": "Cincuenta son impuestos.  O sea que el Estado te saca ciento quince.  ¿Me comprendes?  De ciento sesenta y cinco.  O sea, te saca el setenta por ciento.  Somos esclavos, ¿sí?  Del fisco.  Y después, o sea, vienen y te hablan de religión.  O sea, por lo menos Dios te pedía el diezmo.  Estos te sacan el setenta por ciento. ",
+            "cosine_dist": 0.4867624465216934,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1790.11,
+            "end_time": 1792.413,
+            "text": "¿Y qué harías?  La pregunta también incluye... ",
+            "cosine_dist": 0.8972240240846228,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1792.953,
+            "end_time": 1903.909,
+            "text": "Bueno, digamos, ahí esto está expresado en varios libros.  La forma, digamos, para sacar a Argentina de esto es volver a abrazar la sede de la libertad.  Y eso, digamos, con Spert lo tenemos plasmado en tres conjuntos de reformas.  O sea, la reforma de primera generación es una reforma del Estado donde vos tendrías que bajar el gasto público para poder bajar los impuestos.  Dentro de ese mismo paquete de reformas necesitas una reforma laboral hacia adelante para no vulnerar los derechos de los que hoy están en el sistema.  Y digamos, ¿por qué hoy tenés seis millones de personas trabajando en el mercado informal?  Y por otro lado, una vez que vos terminás esas dos reformas, recién ahí podés abrir la economía, porque si no generas un desastre como fue, digamos, el experimento de Martínez Dios.  Eso te aseguraría por lo menos entre diez y veinte años de alto crecimiento económico, ponele en promedio quince.  Entonces ahí podés pasar a las reformas de segunda generación.  Una de las reformas que tienes que hacer, por ejemplo, es la reforma del sistema previsional.  El sistema previsional genera un déficit fiscal de tres puntos del PBI creciente en el tiempo.  O sea que si no lo arreglas esto explota mal.  Y eso con crecimiento es más fácil de hacer y con un sistema laboral que empiece a incluir gente, se vuelve mucho más fácil en dinámica de hacer la reforma sin vulnerar derechos.  Porque acá también siempre la clave es no vulnerar derechos.  Por otra parte, en la medida que vos vas creciendo, Puedes hacer la reforma del Estado y con un programa de retiro voluntario las personas del sector público pasarían al sector privado.  Y por otra parte, a medida que vos también vas creciendo y vas generando puestos nuevos de trabajo, también la gente que estaba dependiendo de un plan social pasa a tener ahora la dignidad de poder tener su propio trabajo. ",
+            "cosine_dist": 0.4652481725522354,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1903.929,
+            "end_time": 1913.335,
+            "text": "¿Y cómo miras el hecho de que hay muchos chicos en la pobreza que, por ejemplo, nunca vieron trabajar a su padre y algunos ni siquiera vieron trabajar nunca a su abuelo? ",
+            "cosine_dist": 0.8280396793180513,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1914.656,
+            "end_time": 1969.96,
+            "text": "Eso es uno de los males endémicos que ha generado la economía asistencialista.  Vos sabés que es muy interesante cuando uno se empieza a meter dentro del análisis de la economía liberal.  Hay un economista que se llama Jesús Huerta de Soto que probablemente es uno de los anarcocapitalistas más importantes del mundo, y en una de sus clases dice, los planes contra la pobreza generan pobreza, los planes contra el desempleo generan más desempleo, los planes contra el hambre generan más hambre.  porque básicamente cuando vos metes al Estado, o sea, el resultado siempre termina siendo mucho peor que lo que tenías originalmente.  Porque es esto lo que te decía, o el problema radica en que está el Estado metiendo en el medio y está generando esos malos resultados, o, digamos, es una mala lectura de lo que está pasando en el mercado. ",
+            "cosine_dist": 0.45569955705454857,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1971.481,
+            "end_time": 1988.657,
+            "text": "¿Qué le consejarías a los jóvenes?  Y este es alguien que nos está viendo desde Uruguay.  Dice que le gusta mucho escucharte, le aprende mucho.  Pero pienso que si una persona mayor dice a los jóvenes, ¿qué palabra de consejo le darías hoy? ",
+            "cosine_dist": 0.7790526999683888,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1989.158,
+            "end_time": 1992.283,
+            "text": "No claudicar en la lucha por la libertad. ",
+            "cosine_dist": 0.6259453799487213,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1996.374,
+            "end_time": 1998.737,
+            "text": "¿Vos ves que los jóvenes están luchando? ",
+            "cosine_dist": 0.8843051597487543,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1999.718,
+            "end_time": 2037.611,
+            "text": "Sí, afortunadamente hay un despertar en los jóvenes.  De hecho, en Argentina, un país tan víctima del adoctrinamiento... Hoy los jóvenes se están despertando y es más, la principal fuerza política, si vos querés, en el segmento joven es el liberalismo.  En realidad se autoproclaman liberales libertarios, lo cual es un tema bastante interesante.  Hay futuro. ",
+            "cosine_dist": 0.4947121662653292,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2038.972,
+            "end_time": 2046.801,
+            "text": "Bueno, excelente la entrevista y el conocimiento.  Todos felicitan, ¿no?  Martín de Buenos Aires.  ¿Le gustaría ser ministro de Economía a Familias Hernández? ",
+            "cosine_dist": 0.8837245441001923,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2049.384,
+            "end_time": 2064.326,
+            "text": "No lo sé, porque depende, digamos, con quién te toca estar.  ¿Te lo puedo hacer con un ejemplo?  Mirá, el mejor ministro de Economía de toda la historia argentina fue Cavallo en el primer gobierno de Menem.  Y el mismo Cavallo en el gobierno de Larruá. ",
+            "cosine_dist": 0.5886628885771511,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2064626,
+            "end_time": 2065226,
+            "text": "Fue un desastre. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2065.367,
+            "end_time": 2074.891,
+            "text": "Bien, exacto.  Entonces, digamos, no es independiente... de la estructura política en la que vas a estar. ",
+            "cosine_dist": 0.5388459435949737,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2076.532,
+            "end_time": 2084.518,
+            "text": "Entre las dos gestiones de Kirchner y Macri, ¿cuál sería la mejor?  ¿Cuenca de Puerto Madryn?  Si hay alguna mejor, o la menos mala, yo diría. ",
+            "cosine_dist": 0.8903888407658442,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2084.719,
+            "end_time": 2112.15,
+            "text": "No, son las dos desastrosas.  Porque el kircherismo, tanto el kircherismo como el macrismo han causado un fuerte daño cultural.  El kircherismo por destrozar la cultura del trabajo.  Y el macrismo por tener un discurso que se parecía al discurso liberal, pero después terminó haciendo socialismo.  Por lo tanto, los dos son tremendamente nefastos. ",
+            "cosine_dist": 0.4271561711440266,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2114.155,
+            "end_time": 2118.057,
+            "text": "Bueno, me dicen cosas como el índice de Gini, no te lo puedo preguntar porque no sé... ",
+            "cosine_dist": 0.8711947851187901,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2118.117,
+            "end_time": 2242.314,
+            "text": "El índice de Gini es un indicador de concentración, y básicamente se lo utiliza para mirar el problema de la distribución del ingreso.  Pero de vuelta, eso es medir el problema.  Ahora, eso no quiere... Yo lo puedo hacer con un ejemplo, Juan Pablo.  Supongamos que tengo una persona que gana noventa y nueve y otra gana uno.  Entonces uno podría decir que esa sociedad es profundamente desigual.  Eso es falso.  Porque la realidad es, si el que gana noventa y nueve lo hace deslomándose, trabajando dieciséis horas al día, y el otro lo que gana es uno, que lo gana a partir de la uña, o de la sangre que tiene en uña de tanto rascarse, Entonces, digamos, o sea, ¿dónde está la desigualdad?  Que le vas a sacar, digamos, cuarenta y nueve al que gana noventa y nueve para que los dos tengan cincuenta, si uno se mata laburando y el otro, digamos, es un vago.  Entonces, digo, hablar, digo, de los indicadores de desigualdad, en realidad... En principio, o sea, es una cuestión meramente descriptiva.  y te diría, las sociedades que más progresan, de hecho, tienen los indicadores de desigualdad más grandes en ese sentido.  ¿Sabes por?  qué?  Porque están todo el tiempo generando riqueza y al generar riqueza, cuando hay alguien que le pega, digamos, le va... tremendamente bien, pero es un benefactor social, por eso le va bien.  O sea, el problema es que el falso altruista socialista ha contaminado la cabeza de muchísimas personas en el mundo con el tema de la envidia, el odio y el resentimiento, porque la pregunta es, ¿estás a favor del robo?  De hecho, digamos, está tipificado en los diez mandamientos.  ¿Y estarías a favor del trato desigual frente a la ley? ",
+            "cosine_dist": 0.42187267353588587,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2243054,
+            "end_time": 2243154,
+            "text": "No. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2243.875,
+            "end_time": 2287.152,
+            "text": "Bueno, la redistribución del ingreso es eso.  Es sacarle a uno para dárselo a otro.  O sea, lo sacás por la fuerza, con lo cual es un robo, y además los estás tratando de manera desigual frente a la ley.  Y encima estás castigando al benefactor social... Y al otro, digamos, o sea, que no sabemos por qué está en la situación que está, digamos, no importa cuál fuera, lo estás premiando.  O sea, con lo cual, si vos, en Argentina es peor todavía, porque se castiga al exitoso y se premia al parásito.  Entonces, ¿qué es lo único que te puede pasar en un sistema donde vos castigás al que hace bien y premiás al que hace mal?  Que, digamos, cada vez haya menos gente haciendo bien y cada vez haya más gente haciendo mal.  Por eso este país se hunde como se hunde. ",
+            "cosine_dist": 0.40469557185197824,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2288.763,
+            "end_time": 2383.933,
+            "text": "Yo he dicho muchas veces este año, lo quiero repetir, que desde el año ochenta y tres, cuando entramos en democracia, yo me acuerdo la felicidad del treinta de octubre cuando ganó Alfonsín.  Teníamos la esperanza de terminar con la etapa siniestra del golpe militar y empezar un proceso de crecimiento.  Con la democracia se come, con la democracia se educa.  Pero desde el ochenta y tres estamos cayendo más y más y más.  Es decir, estamos en caída libre.  Con el agravante de que la aceleración de la pobreza es mayor a medida que van pasando dos años.  Y la pandemia lo complicó más.  Pero sin embargo la gente... sigue votando a los mismos partidos.  Yo por eso a este país le llamo Olvidolandia, porque se olvida de que esas mismas personas que se presentan hoy vendiendo espejitos de colores son los mismos que nos han venido mintiendo, engañando y robando desde el año ochenta y tres al día de hoy.  Y la verdad que hay una expectativa, yo creo, mucho más grande de la que siquiera me puedo imaginar, de ver algo nuevo.  Te pregunto, ¿hay algo nuevo? ",
+            "cosine_dist": 0.7973754144015326,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2384.814,
+            "end_time": 2385.774,
+            "text": "Sí, los liberales. ",
+            "cosine_dist": 0.9104477876270852,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2388.415,
+            "end_time": 2391.836,
+            "text": "Hace publicidad de tu partido.  Ha llegado tu hora, dale. ",
+            "cosine_dist": 0.9485866218884104,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2392.016,
+            "end_time": 2434.469,
+            "text": "No, bueno, lo que pasa es que somos los únicos que proponemos algo distinto.  O sea, todos proponen más de lo mismo, más asistencialismo, más socialismo.  Y bueno, digamos, eso no va a terminar bien.  O sea, Argentina empezó a abrazar las ideas socialistas en mil nueve y dieciséis.  Diego, Argentina arrancó el siglo siendo el país más rico del mundo.  Entró a la pandemia setenta, hoy está ciento veinte.  Es un escándalo.  Argentina tiene más del cincuenta por ciento de pobres.  Argentina tiene más de diez por ciento de su población indigente.  Es decir, en el país que produce alimentos para cuatrocientos millones de seres humanos... ",
+            "cosine_dist": 0.47017360434091193,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2434.829,
+            "end_time": 2436.929,
+            "text": "Nos morimos de hambre. ",
+            "cosine_dist": 0.8068706063163078,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2437.349,
+            "end_time": 2456.615,
+            "text": "Hay casi cinco millones de argentinos que tienen hambre.  Y eso no es porque, digamos, no se cobra mucho impuestos, ¿eh?  La carga fiscal sobre el campo es del setenta por ciento.  Así que mirá si se podría darle alimento a doscientos ochenta millones de seres humanos con la presión fiscal que hay sobre el campo. ",
+            "cosine_dist": 0.46812356695940716,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2457.476,
+            "end_time": 2467.027,
+            "text": "Hoy salió en el diario que ¿De cada hora que trabaja un argentino, treinta y cinco minutos se lo lleva el Estado?  Un artículo, ¿lo escribiste vos? ",
+            "cosine_dist": 0.8340258404307318,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2467.687,
+            "end_time": 2469.068,
+            "text": "No, no, pero... ",
+            "cosine_dist": 0.9156704443491599,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2469.448,
+            "end_time": 2470.428,
+            "text": "Más o menos. ",
+            "cosine_dist": 1.0631295406389512,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2470.488,
+            "end_time": 2484.472,
+            "text": "Podría estar ahí, digamos, o sea, eso cuando lo medís en blanco, para el promedio, cuando lo medís sobre el que está en blanco es el setenta por ciento, o sea, serían cuarenta y dos minutos. ",
+            "cosine_dist": 0.5435526954110044,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2484.732,
+            "end_time": 2489.634,
+            "text": "Mira, ¿qué opinas del Bitcoin?  Dice alguien, Oscar de la Ciudad de la Plata. ",
+            "cosine_dist": 0.8135584002156112,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2490.359,
+            "end_time": 2564.414,
+            "text": "Mira, el Bitcoin, o sea, es tratar de que el dinero vuelva a quien, digamos, lo creó.  O sea, el dinero es un invento del sector privado que, digamos, se los apropiaron los estados para estafar a la gente.  Es decir, el estado te estafa con el impuesto inflacionario.  Ahora, el problema radica en que una moneda tiene que tener tres características, ¿no?  se reserva valor el Bitcoin.  eso lo cumple.  ser digamos unidad de cuenta.  eso no lo cumple.  podrías triangularlo pero digamos la más importante de todo es el medio de pago generalizado.  y eso no lo es porque lo que funciona es el dinero digamos concurso forzoso de los estados y los estados o sea teniendo la posibilidad de robarte con un impuesto silencioso como es el impuesto inflacionario.  no lo van a dejar y por eso es digamos toda esa pelea.  digamos que vos ves regularmente o sea pero no es ni más ni menos de la idea de que el dinero deje de estar en poder del estado porque el estado lo usa para robarte o sea porque esos son los políticos. ",
+            "cosine_dist": 0.46895568610850424,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2564.574,
+            "end_time": 2568.936,
+            "text": "el bitcoin es algo privado.  exactamente es confiable. ",
+            "cosine_dist": 0.8083816915701713,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2569.896,
+            "end_time": 2580.705,
+            "text": "Es que el problema es que es muy difícil que los estados acepten resignar el impuesto inflacionario y de esa manera, digamos, o sea, darle... ",
+            "cosine_dist": 0.5086613632629292,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2580.745,
+            "end_time": 2584.428,
+            "text": "Porque hay unos bancos que han comenzado a invertir en Bitcoin. ",
+            "cosine_dist": 0.6915606528633389,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2584.909,
+            "end_time": 2592.135,
+            "text": "Sí, bueno, digamos, ha invertido mucha gente y, digamos, y según en qué momento entraste pudiste haber ganado mucho dinero o perder mucho dinero. ",
+            "cosine_dist": 0.6079760350412549,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2592.978,
+            "end_time": 2610.705,
+            "text": "Nos saludan desde Miami, están viendo el programa y nos felicitan.  Estás intentando participar de la política, no, no estás intentando, estás participando de la política, estás intentando llegar a un escaño en el Congreso Nacional.  Contanos un poco de eso. ",
+            "cosine_dist": 0.8015561585405545,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2611.972,
+            "end_time": 2696.02,
+            "text": "Bueno, yo soy parte de Avanza Libertad, y es un conjunto de partidos, digamos, de liberales y de centro-derecha, digamos, que convergen a ese espacio.  En la provincia de Buenos Aires está José Luis Spert, en la capital federal, o sea, en la ciudad autónoma de Buenos Aires, digamos, estoy yo.  Y básicamente la idea es disputar un lugar para estar en el Congreso de la Nación Argentina como diputado nacional.  para llevar las ideas de la libertad y básicamente lo que yo me puedo comprometer con la gente, y eso lo puedo hacer abiertamente, es jamás voy a subir impuestos, jamás voy a ir contra las libertades individuales, jamás voy a ir contra el derecho de propiedad, Jamás voy a ir contra la vida.  Y además, como si esto fuera poco, voy a renunciar a mi dieta.  O sea, yo no voy a cobrar nada de los pagadores de impuestos argentinos.  Algo que no pueden hacer.  Todas estas cosas que yo dije, casi todos los políticos argentinos no la cumplen. ",
+            "cosine_dist": 0.4525310794784826,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2696.72,
+            "end_time": 2698.62,
+            "text": "Pero vos, porque sos rico, podés hacer eso. ",
+            "cosine_dist": 0.8821854541932718,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2699.341,
+            "end_time": 2706.408,
+            "text": "No, yo no soy rico.  O sea, si vos querés, soy rico espiritualmente, pero no financieramente. ",
+            "cosine_dist": 0.5666705369440388,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2711.251,
+            "end_time": 2712.072,
+            "text": "Tenés un buen trabajo. ",
+            "cosine_dist": 0.8752061636075091,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2713.973,
+            "end_time": 2716.235,
+            "text": "Yo, digamos, puedo seguir viviendo de dar conferencias. ",
+            "cosine_dist": 0.6836441039560461,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2716715,
+            "end_time": 2716975,
+            "text": "Claro. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2717.916,
+            "end_time": 2721.398,
+            "text": "O sea, y eso no hace conflicto con la actividad legislativa. ",
+            "cosine_dist": 0.557429669394272,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2724.346,
+            "end_time": 2763.912,
+            "text": "Nos siguen también desde México y le mandamos saludos a la gente de México que nos está viendo.  Mira, me sorprende, te voy a leer solamente de donde vienen, Santa Fe, de Las Rosas, de Chubut.  Martín Ortiz de General Villegas dice, abrazo grande, no estás solo, tus armas somos los que trabajamos y tenés todo nuestro apoyo.  Gracias.  Dana de Villa Ángel Lachaco, te manda saludos.  Ojalá mi ley llegue a ocupar una banca.  Familia Duarte, desde Miramar.  No lo van a poder votar, salvo que... ",
+            "cosine_dist": 0.7926537601132464,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2763.932,
+            "end_time": 2765.873,
+            "text": "Salvo que se vengan todos a Capital Federal. ",
+            "cosine_dist": 0.9045384649865473,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2766.093,
+            "end_time": 2785.323,
+            "text": "O esté paseando, sí.  De Olavarría, desde Villa Elisa, y siguen llegando los mensajes.  No se sabe mucho, ¿por qué no han comenzado con la campaña política o no se puede? ",
+            "cosine_dist": 0.7140106668581322,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2786.003,
+            "end_time": 2849.695,
+            "text": "Nosotros el año pasado hicimos varias convocatorias muy exitosas, cosa que puso muy nervioso al sistema político, al status quo, Porque sin aparatos, sin medios y con solo anunciar las cosas por redes sociales hemos generado niveles de convocatorias verdaderamente muy importantes.  O sea, de hecho, casi te diría que el primer acto de campaña importante fue en octubre del año pasado cuando festejé mis cincuenta años en Plaza Holanda.  Y se vinieron más de cuatro mil libertarios a festejar el cumpleaños conmigo.  De hecho, cuando hicieron la cola, era una cola gruesa, no era una fila india precisamente, y llegaba hasta el puente de Juan B. Justo.  O sea, son más de cuatro cuadras de cola.  Así es que, digamos... ",
+            "cosine_dist": 0.4841460772706363,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2850.075,
+            "end_time": 2853.538,
+            "text": "Nunca había escuchado políticos festejando cumpleaños en una plaza. ",
+            "cosine_dist": 0.9126028123906219,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2853.718,
+            "end_time": 2867.108,
+            "text": "No, de hecho, digamos, en la época que todavía se podía caminar con gente en la calle, yo estaba más o menos tardando una hora para hacer cien metros.  Pues todo el tiempo estoy haciendo selfies. ",
+            "cosine_dist": 0.5500562790311858,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2867.808,
+            "end_time": 2872.411,
+            "text": "Claro, adelante.  Las redes sociales son algo increíble,  ¿no?,  en esta época. ",
+            "cosine_dist": 0.8224735629961181,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2872.832,
+            "end_time": 2876.174,
+            "text": "Sí, sí, las redes sociales generan cosas muy divertidas. ",
+            "cosine_dist": 0.701212270823763,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2876.994,
+            "end_time": 2884.118,
+            "text": "Javier, ¿qué opinas del futuro de los negocios online? ",
+            "cosine_dist": 0.8613606706822744,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2885.866,
+            "end_time": 2914.061,
+            "text": "Lo que uno tiene que comprender es que el mundo va evolucionando y son formas mucho más eficientes, digamos, existen porque la gente se beneficia con eso.  Si no, no tendrían sentido.  Porque lo que hace es que la transacción funcione mejor, que el sistema de precios transmita mejor y más rápido las señales y por ende eso deriva en una ganancia de bienestar enorme para toda la humanidad. ",
+            "cosine_dist": 0.5087238539095005,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2918.704,
+            "end_time": 2959.54,
+            "text": "Tengo un nieto estudiando eso y la verdad es que todos los años uno descubre cómo crecen las amas de casa ahora comprando por Amazon, por el Mercado Libre, perdón acá.  Y hay un movimiento increíble, claro, que afecta a otros.  Y cuando un adelanto de este tipo comienza a ser exitoso, va a afectar el comercio o la manera de venta de otros, del negocio de la calle, por.  ejemplo.  Entonces, ¿qué tiene que hacer ese comerciante de la calle? ",
+            "cosine_dist": 0.7736008223287155,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2960.861,
+            "end_time": 3107.762,
+            "text": "Lo primero que hay que entender es que no hay que caer en lo que se llama la falacia ludita.  La falacia ludita, digamos, o sea, esto tiene que ver con cuando se inventa el telar, digamos, con la máquina de vapor, cuando empieza la revolución industrial, y un señor supuestamente llamado Lud rompe un telar porque se había quedado sin laburo.  O sea, rompe un telar mecánico.  En ese, digamos, entonces... Hay un autor que se llama Henry Huxley que lo trata en un libro que se llama La economía en una elección.  El capítulo es el odio a la máquina.  La realidad es que si la tecnología destrozara trabajo, entonces por lo menos desde que llegó la revolución industrial no se hubieran creado más puestos de trabajo.  Con lo cual si se hubieran mantenido por lo menos los mismos que había, hoy la tasa de desempleo sería de ochenta y siete coma cinco por ciento.  O sea, no va por ahí, empíricamente no va por ahí.  y en realidad cuando vos generas un invento, un progreso tecnológico, ¿qué es lo que pasa?  ¿Vos lo haces?  para qué lo hacen?  Lo hacen para ganar más dinero.  Ahora ese dinero, digamos, vos lo podés gastar en algo y entonces generás puestos de trabajo en otro lugar.  Lo podés ahorrar y cuando lo ahorrás eso se invierte y se genera un puesto de trabajo en otro lugar.  Lo podés agarrar y esconder abajo en la tierra y lo hace desaparecer o destruirlo.  Entonces baja la cantidad de dinero en la economía, los precios bajan y todos se benefician de eso.  Así que... Digamos, gracias al progreso tecnológico cada día estamos mucho mejor.  Vos pensé lo siguiente, el día que Edison inventó la lamparita, los fabricantes de velas estaban bastante enojados.  Pero sin embargo, digamos, o sea, ¿estamos con velas acá o estamos con todos los artefactos electrónicos?  Entonces uno podría decir, mirá todos los empleos que se perdieron.  No, mirá todos los que ganamos.  O sea, ¿por qué?  Porque, digamos, hoy... Tenemos siete mil ochocientos millones de personas y el planeta tierra está mucho mejor, la gente está mucho mejor que lo que estuvo en toda la historia de la humanidad.  Y entonces... ",
+            "cosine_dist": 0.43789515700625214,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3109.243,
+            "end_time": 3133.621,
+            "text": "Mira, te leo un mensaje un poco largo, pero dice Carlos de Quirmes, los cinco grandes problemas que hacen inviable a la Argentina son la presión tributaria, la industria del juicio y la presión sindical, el costo de financiamiento, el costo energético, las importaciones sin control.  Esto hace que las pymes que son el motor de la economía no puedan desarrollarse.  ¿Cómo se puede resolver esto?  Me imagino que las importaciones sin control es algo que te produce ruido. ",
+            "cosine_dist": 0.7980035884245726,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3134.882,
+            "end_time": 3137.844,
+            "text": "Sí, esa es la parte. ",
+            "cosine_dist": 0.6746785449628214,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3138.005,
+            "end_time": 3140.687,
+            "text": "Lo otro está bien.  ¿Es cierto o no? ",
+            "cosine_dist": 0.8641588773047828,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3142.31,
+            "end_time": 3144.692,
+            "text": "¿La presión tributaria?  La presión tributaria, sí. ",
+            "cosine_dist": 0.7006660983873294,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3144.712,
+            "end_time": 3145.994,
+            "text": "¿La industria del juicio? ",
+            "cosine_dist": 0.9015254236627595,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3146.334,
+            "end_time": 3148.497,
+            "text": "Y la industria del juicio también son dos problemas. ",
+            "cosine_dist": 0.6915696124719874,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3148.537,
+            "end_time": 3149.378,
+            "text": "¿El costo de financiamiento? ",
+            "cosine_dist": 0.8927853136247401,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3149.919,
+            "end_time": 3154.064,
+            "text": "El costo de financiamiento es un derivado del problema fiscal, ¿no? ",
+            "cosine_dist": 0.506911764242235,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3154745,
+            "end_time": 3154965,
+            "text": "Claro. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3155.405,
+            "end_time": 3201.759,
+            "text": "O sea, porque vos tenés un... A ver, el riesgo país... Promedio es mil quinientos puntos básicos, o sea, quince puntos porcentuales en dólares.  Pero en la punta corta es dos mil, o sea, es veinte por ciento en dólares.  Ponerle la expectativa de evaluación, mirá lo que es la tasa de pesos de arbitraje, es un número escandaloso.  Y la realidad, con lo cual ahí el problema es el fisco, claramente, porque eso después te rescala toda la economía en tasas más altas.  Después el comercio fomenta la división del trabajo y eso genera más riqueza.  Los países más abiertos son nueve veces más ricos.  ¿Cómo lo ves a Suiza? ",
+            "cosine_dist": 0.39433822360375625,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3203328,
+            "end_time": 3203729,
+            "text": "Aburrido. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3204.409,
+            "end_time": 3212.598,
+            "text": "Pero en términos de riqueza.  No.  Sí, digamos, un lugar donde vale la pena vivir.  ¿Qué producen los suizos?  Cortaplumas. ",
+            "cosine_dist": 0.48115574719580245,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3213379,
+            "end_time": 3213820,
+            "text": "Relojes. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3214.08,
+            "end_time": 3218.345,
+            "text": "Relojes, servicios financieros, turismo y chocolate. ",
+            "cosine_dist": 0.5026826837527887,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3218.405,
+            "end_time": 3219.025,
+            "text": "Sí, chocolate. ",
+            "cosine_dist": 0.9311942201628726,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3219.666,
+            "end_time": 3255.719,
+            "text": "O sea que vos entras en un supermercado suizo, es todo importado.  ¿Qué hacen?  Producen cinco cosas.  Bueno, un buen jugador de tenis, ¿me comprende lo que te digo?  Y sin embargo, les va muy bien.  Entonces, el comercio es lo más maravilloso que hay, porque lo que hace es darte una fuerza enorme a la productividad.  Y eso se manifiesta en un aumento del bienestar de la gente.  Porque, de vuelta, la competencia favorece a la gente.  O sea, justamente, ¿por qué?  Porque tiene la posibilidad de comprar más barato. ",
+            "cosine_dist": 0.3948160232449569,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3257.28,
+            "end_time": 3308.363,
+            "text": "Bueno, no hablamos más de economía, lo invitamos otro día que nos venga a seguir ilustrando y abriendo los ojos.  Por supuesto, yo voy a decir esto, usted tiene que discernir.  Él nos dice su idea, nos da su idea, nos explica sus razones, nos expone sus conocimientos, pero en definitiva cada uno de nosotros tiene que examinarlo todo, es un texto de la Biblia esto, y retener lo bueno.  Así que espero que usted haga esto con el programa de esta noche.  Si alguien quiere involucrarse en tu partido, en este movimiento que están creando, entra a alguna de tus redes. ",
+            "cosine_dist": 0.7883242941449953,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3309.743,
+            "end_time": 3328.828,
+            "text": "Lo ideal, si quiere involucrarse políticamente, es ingresar al Partido Libertario Cava.  Partido Libertario Cava, sí.  O, digamos, o sea, también, digamos, el Partido Libertario de la Provincia de Buenos Aires, digamos, son los que más cerca mío están trabajando. ",
+            "cosine_dist": 0.441007576688476,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3329348,
+            "end_time": 3329928,
+            "text": "Interesante. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3330.148,
+            "end_time": 3333.068,
+            "text": "Bueno, de hecho, yo soy el presidente honorífico del Partido Libertario Cava. ",
+            "cosine_dist": 0.5774616037129131,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3334.529,
+            "end_time": 3335.609,
+            "text": "Ah, yo soy presidente. ",
+            "cosine_dist": 0.9048573524907115,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3336.229,
+            "end_time": 3336.929,
+            "text": "Honorífico. ",
+            "cosine_dist": 0.9394541549190013,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3336949,
+            "end_time": 3337469,
+            "text": "Ah, honorífico. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3337.489,
+            "end_time": 3345.65,
+            "text": "No, el presidente importante, el que cuenta, es el queridísimo Nicolás Sema, que es un ser humano, además, maravilloso. ",
+            "cosine_dist": 0.4533832860374635,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3346.831,
+            "end_time": 3366.573,
+            "text": "Bueno, en la provincia hay alguien... que ha tenido problemas con la cabellera, y en la capital alguien que tiene una cabellera exuberante.  Ese chiste lo deben haber hecho otros antes que yo.  Pela y pelu.  Che, gracias por venir, Javier. ",
+            "cosine_dist": 0.8066985603846893,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3366.613,
+            "end_time": 3368.714,
+            "text": "Juan Pablo, ha sido un verdadero placer estar acá. ",
+            "cosine_dist": 0.6029622023542593,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3369.354,
+            "end_time": 3379.939,
+            "text": "Yo seguro, por lo que veo, que hay muchísima gente que está entusiasmadísima con seguirte, con escucharte y, quién sabe, en noviembre con votarte. ",
+            "cosine_dist": 0.819044705659541,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3380.76,
+            "end_time": 3381.78,
+            "text": "Dios quiera que así sea. ",
+            "cosine_dist": 0.8530265780058567,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3382.841,
+            "end_time": 3387.023,
+            "text": "Tenés otros detrás porque creo que van a entrar varios del grupo ese. ",
+            "cosine_dist": 0.776122221850447,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3388.627,
+            "end_time": 3397.414,
+            "text": "Ojalá que así sea.  O sea, la lista de, digamos, en principio, la lista de legisladores estaría liderada por Luis Rosales. ",
+            "cosine_dist": 0.47833943942184254,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3399.476,
+            "end_time": 3400.937,
+            "text": "En la legislatura de Buenos Aires. ",
+            "cosine_dist": 0.8730863846792928,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3400.957,
+            "end_time": 3405.04,
+            "text": "En la legislatura de la Ciudad Autónoma de Buenos Aires.  Pero tenemos mucha gente brillante. ",
+            "cosine_dist": 0.5412225674320379,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3405.06,
+            "end_time": 3407.342,
+            "text": "Bueno, gracias, gracias, Gabriel. ",
+            "cosine_dist": 0.9797147550739953,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3407.382,
+            "end_time": 3409.544,
+            "text": "Gracias, Juan Pablo. ",
+            "cosine_dist": 0.782915276930875,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3409.744,
+            "end_time": 3430.556,
+            "text": "Espero que les haya gustado.  Mañana, para seguir con esta onda de la política... Julio Bárbaro.  Del otro lado.  No tanto del otro lado.  Tiene cosas muy interesantes, Julio.  Ha venido varias veces aquí también.  Que tenga una buena noche.  Que Dios les bendiga.  Hasta mañana. ",
+            "cosine_dist": 0.7850871154731635,
+            "is_target_speaker": false
+        }
+    ]
+}

@@ -1,0 +1,3343 @@
+{
+    "Index": 573,
+    "channel_id": "UCqz5tDLcGBJ5obqpSLSkiaQ",
+    "channel": "MILEI PRESIDENTE",
+    "uploader_url": "https://www.youtube.com/@MILEIPRESIDENTE",
+    "id": "owt_TBmxmGw",
+    "url": "https://www.youtube.com/watch?v=owt_TBmxmGw",
+    "title": "Javier Milei discute con la conductora por la brecha salarial de género, TN- 15/07/18",
+    "duration": 3279.0,
+    "view_count": 761148,
+    "candidate_name": "milei",
+    "quality": "low",
+    "segments": [
+        {
+            "speaker": "Speaker 0",
+            "start_time": 32.38,
+            "end_time": 48.23,
+            "text": "Señoras y señores, bienvenidos.  Javier Milei y Rolando Hanglin tienen la palabra.  Nos tocó ser los primeros, cada uno en su familia, el primero que usó pelo largo, el primero que fumó marihuana, el primero que llevó a una chica a hacerse un aborto, el primero que fue hippie, el primero que fue montonero.  Fuimos raros. ",
+            "cosine_dist": 0.6704278063121326,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 54.167,
+            "end_time": 63.194,
+            "text": "Probablemente lo que se combina en mi caso es mi pasado de jugador de fútbol con el hecho de que fui cantante de una banda de rock y después me dediqué a la economía. ",
+            "cosine_dist": 0.47873149381458235,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 63.535,
+            "end_time": 64.155,
+            "text": "¿Arquero, no? ",
+            "cosine_dist": 0.9780358251781528,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 64.535,
+            "end_time": 84.837,
+            "text": "Sí, era arquero.  ¿En dónde?  En Chacarita Juniors.  Con lo cual, digamos, eso probablemente explique también que muchas veces soy muy combativo.  ¿Cómo están?  Bienvenidos.  ¿Cómo les va?  Todo muy bien.  Nos encanta tenerlos a ustedes hoy acá porque bueno, los periodistas siempre más o menos preguntamos lo mismo. ",
+            "cosine_dist": 0.5613985057607764,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 85.157,
+            "end_time": 92.825,
+            "text": "El tema son los entrevistados que muchas veces ahora contestan lo mismo.  En cambio ustedes contestan lo que quieren.  No les importa lo que digan. ",
+            "cosine_dist": 0.7611647572298719,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 92.845,
+            "end_time": 99.755,
+            "text": "Son así como viscerales.  Los invitamos a pasar a nuestro living, por favor.  ¿Podéis largar la compu o no? ",
+            "cosine_dist": 0.921262805703279,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 99.975,
+            "end_time": 107.644,
+            "text": "Es que acá están los datos.  Y como decía Friedman, primero los datos.  Así que si me vienen con cualquier cosa, primero los datos. ",
+            "cosine_dist": 0.5885746376762004,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 108.385,
+            "end_time": 109.887,
+            "text": "¿Pero qué datos tenés ahí? ",
+            "cosine_dist": 0.9492388519399452,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 110067,
+            "end_time": 110548,
+            "text": "La economía. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 110.808,
+            "end_time": 112.529,
+            "text": "Y no podés largarlos en ningún momento. ",
+            "cosine_dist": 0.9009852227396893,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 112.549,
+            "end_time": 113.969,
+            "text": "¿Qué va a pasar? ",
+            "cosine_dist": 0.8838984267665929,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 114.069,
+            "end_time": 128.574,
+            "text": "Siempre es bueno tenerlos a mano porque cuando debatís, a veces hay gente que te propone cosas que implica la negación de la realidad.  Entonces vos tenés que tener siempre los datos a mano. ",
+            "cosine_dist": 0.39095554583192327,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 129.414,
+            "end_time": 133.798,
+            "text": "Ah, por las dudas que no te acuerdes alguna cifra o algún porcentaje para ser más riguroso. ",
+            "cosine_dist": 0.813687692682659,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 133.818,
+            "end_time": 143.524,
+            "text": "Igual yo los tengo siempre bastante en la cabeza, pero a veces si hace falta recurrimos directamente al número duro con decimales. ",
+            "cosine_dist": 0.46501041507064633,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 144.024,
+            "end_time": 145.925,
+            "text": "¿Vos sos apegado a la tecnología, Rolando? ",
+            "cosine_dist": 0.9417911192701672,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 146065,
+            "end_time": 146326,
+            "text": "Nada. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 146.966,
+            "end_time": 152.79,
+            "text": "Todo lo contrario.  Nada.  ¿El teléfono?  ¿Qué relación tenés con los teléfonos? ",
+            "cosine_dist": 0.8899066739002633,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 152.85,
+            "end_time": 165.566,
+            "text": "Prefería el teléfono ese que se enchufaba en la pared así... Y agarrabas el tubo y decías, ¿telefonista?  ¿Qué demora hay con Mar del Plata?  Bárbaro.  Eso era bárbaro. ",
+            "cosine_dist": 0.6275271192432508,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 165.726,
+            "end_time": 180.113,
+            "text": "Uno muy aficionado al peine, el otro no tanto.  Porque acá, Javier, vos sabés que es conocido porque es un as en Twitter y es un economista conocido y también muy respetado, pero también por el look. ",
+            "cosine_dist": 0.7848865769430198,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 180.153,
+            "end_time": 183.154,
+            "text": "Una vez encontré un peine, lo llevé al museo, me echaron a patadas. ",
+            "cosine_dist": 0.6225582185053418,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 186.039,
+            "end_time": 190.184,
+            "text": "No tenés ningún problema vos, Rolando, con eso.  Con el pelo y... ",
+            "cosine_dist": 0.923893866463323,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 190.345,
+            "end_time": 196.533,
+            "text": "Me rapo y me dejo la coleta.  Y he notado que si te rapás... ",
+            "cosine_dist": 0.7186570040411635,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 196853,
+            "end_time": 197074,
+            "text": "Sí. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 198.295,
+            "end_time": 211.365,
+            "text": "Bah, te semi-rapás, como yo.  Sí.  Das más joven.  A nuestra edad es importante.  En general los hombres le tienen... Mirá el jugador Cuchu Cambiasso, por.  ejemplo.  Da joven, porque se rapa. ",
+            "cosine_dist": 0.718752485734758,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 211.725,
+            "end_time": 216.947,
+            "text": "En general le tienen pánico a la calvicie a los hombres.  De hecho, son los que más implante capilar se hace. ",
+            "cosine_dist": 0.8546945309655696,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 217.227,
+            "end_time": 217.887,
+            "text": "Sí, bastante. ",
+            "cosine_dist": 0.962829875189144,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 218.147,
+            "end_time": 221.669,
+            "text": "No es tu caso.  No es tu caso.  No tenés ese mambo. ",
+            "cosine_dist": 0.9973368077017565,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 221.709,
+            "end_time": 224.65,
+            "text": "No, pánico no, porque encontré esta escapatoria. ",
+            "cosine_dist": 0.6172554799119125,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 225.23,
+            "end_time": 229.572,
+            "text": "En Tulum vemos algo muy particular, que son las crocs. ",
+            "cosine_dist": 0.7744751622209054,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 230.012,
+            "end_time": 230.973,
+            "text": "Es muy raro. ",
+            "cosine_dist": 0.9414154818616438,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 232.812,
+            "end_time": 234.696,
+            "text": "Creo que es en la tele, creo que es la primera vez. ",
+            "cosine_dist": 0.9234424736514174,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 234.716,
+            "end_time": 238.345,
+            "text": "¿Te parece tan raro?  No, yo no uso otro zapato que este. ",
+            "cosine_dist": 0.6866799357003315,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 238706,
+            "end_time": 239268,
+            "text": "¿Ah, sí?  No. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 240.15,
+            "end_time": 246.523,
+            "text": "Está cómodo.  Necesito estar cómodo.  Y además yo necesito estar cómodo con mi ropa y con mi cuerpo. ",
+            "cosine_dist": 0.7587074504330679,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 246.743,
+            "end_time": 259.755,
+            "text": "Sí, claro.  Bueno, eso es algo de lo que vos siempre hablaste y es uno de tus leitmotivs.  No sé por qué los enfermeros también usan mucho sandalias de estas.  Los enfermeros y los médicos, ¿no? ",
+            "cosine_dist": 0.8033961609358878,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 260.676,
+            "end_time": 261.837,
+            "text": "Sí.  ¿Por estar cómodos? ",
+            "cosine_dist": 0.865235975586614,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 261.857,
+            "end_time": 264.279,
+            "text": "Sí, sí, porque es cómodo y por estar mucho parado. ",
+            "cosine_dist": 0.7175282082154132,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 264.96,
+            "end_time": 267.382,
+            "text": "Vos, Javier, estás siempre de traje. ",
+            "cosine_dist": 0.9612307219548696,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 268.029,
+            "end_time": 270.069,
+            "text": "Sí, casi que me voy a dormir de traje también. ",
+            "cosine_dist": 0.6636401576699946,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 270.409,
+            "end_time": 275.43,
+            "text": "Tengo uno para dormir.  ¿No te molesta?  ¿Te gusta estar de traje todo el día?  ¿No te incomoda? ",
+            "cosine_dist": 0.8479054735454732,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 275.45,
+            "end_time": 279.431,
+            "text": "Estoy todo el tiempo de traje.  O sea, de vuelta, Dios.  Voy, me pongo uno para dormir. ",
+            "cosine_dist": 0.6478328512732859,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 279.531,
+            "end_time": 282.432,
+            "text": "¿Y en tu época de arquero, de músico, cómo era tu look? ",
+            "cosine_dist": 0.8237842786441224,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 282.732,
+            "end_time": 285.252,
+            "text": "Ah, era más difícil jugar al fútbol con el traje. ",
+            "cosine_dist": 0.6549830198236363,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 285.272,
+            "end_time": 286.573,
+            "text": "No, no, por supuesto, pero digo... ",
+            "cosine_dist": 0.9035833197475182,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 286.593,
+            "end_time": 290.934,
+            "text": "Bueno, igual le atajé un penal a Judica con traje, ojo, ¿eh?  Ojo, no me quite los créditos. ",
+            "cosine_dist": 0.7681501806835044,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 290.954,
+            "end_time": 295.194,
+            "text": "Te lo empezaste a poner con la economía, digamos.  Empezaron a llegar las corbatas. ",
+            "cosine_dist": 0.8827735464614785,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 295.234,
+            "end_time": 297.695,
+            "text": "Sí, sí, digamos, el traje, Dios... ",
+            "cosine_dist": 0.6935655844443867,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 298.035,
+            "end_time": 299.737,
+            "text": "¿Tiene que ver con la seriedad del traje? ",
+            "cosine_dist": 0.9403400623729379,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 299.777,
+            "end_time": 307.627,
+            "text": "No, no, para nada.  Tiene que ver con mis gustos.  O sea, si me gustara vestirme de otra manera, me vestiría de otra manera.  Me importa todo un rábano. ",
+            "cosine_dist": 0.5192710377364652,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 307.947,
+            "end_time": 310.67,
+            "text": "¿A vos te importa, Rolando, el prejuicio o la opinión ajena? ",
+            "cosine_dist": 0.9289508838111378,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 311.749,
+            "end_time": 313.131,
+            "text": "Sí, sí, sí. ",
+            "cosine_dist": 0.9584670529221738,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 313.872,
+            "end_time": 330.873,
+            "text": "Me afecta, me importa, soy laburo de esto, digamos, soy periodista.  Lo que yo diga o la cara que tenga o el aspecto que tenga, algo siempre influye.  Así que soy... Sos permeable. ",
+            "cosine_dist": 0.7077713060128241,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 331.233,
+            "end_time": 354.411,
+            "text": "Pero no tanto, porque no parece, porque cuando vos decís, ponele, soy machista, soy de derecha, es como que genera una reacción ahora en la policía de la opinión pública y seguramente se te van a abrir en contra.  Ambos dos, cuando emiten esas posturas polémicas, ¿no tienen miedo del rebote social que ahora está muy fuerte? ",
+            "cosine_dist": 0.7962760147223306,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 354.471,
+            "end_time": 359.876,
+            "text": "Son palabras, nada más.  Son palabras.  La derecha, la izquierda, son palabras. ",
+            "cosine_dist": 0.7840834311397034,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 362.457,
+            "end_time": 363.278,
+            "text": "¿Cómo te definís vos? ",
+            "cosine_dist": 0.9761887483048279,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 363.458,
+            "end_time": 381.614,
+            "text": "A ver, no, yo me defino como liberal libertario, pero a mí, por ejemplo, lo que opine la gente me importa literalmente un rábano.  La opinión que pueda tener una persona sobre mí es su propiedad.  Entonces digo, ¿quién soy yo para meterme con su propiedad?  Y otro dice, no, bueno, pero lo que dice va a afectar lo que opine otro. ",
+            "cosine_dist": 0.4435912593942457,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 382.335,
+            "end_time": 387.196,
+            "text": "No, pero no es cuestión de meterse a veces, es que te afecte, es que te moleste, que te critiquen, que te digan... ",
+            "cosine_dist": 0.9197626726157845,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 387.276,
+            "end_time": 397.738,
+            "text": "Para nada, digamos, o sea, ¿cuál es el problema?  Digamos, no sé, ella piensa que soy un salame, la vida.  ¿Qué querés que le haga?  O sea, de vuelta, a mí me importa un rábano. ",
+            "cosine_dist": 0.44969516062327275,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 398.458,
+            "end_time": 408.1,
+            "text": "¿No sienten que hay una coacción moral muchas veces en la opinión pública?  Es decir, como que hay mucha gente que no soporta que otro piense distinto. ",
+            "cosine_dist": 0.8004734511272813,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 408.4,
+            "end_time": 410.421,
+            "text": "Sí, pero bueno, planteáselo. ",
+            "cosine_dist": 0.5585279775917993,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 411.241,
+            "end_time": 435.55,
+            "text": "Plantéaselo, o sea, vos tenés una postura, mira, yo no comparto esa postura y a mí, digamos, obviamente, sea o no políticamente correcto, me importa un rábano, se lo digo y le demuestro, digamos, cómo es mi punto de vista.  Después, si querés, lo tomás, si no querés, no lo tomás.  Si vos querés persistir en el error, persistir en el error, es tu problema.  O sea, cuando vos te equivocás recurrentemente, digamos, la vida te va a pasar la factura.  Así es que, digamos, o sea, querés corregirlo, lo corregís, no lo querés corregir, seguís pagando costo. ",
+            "cosine_dist": 0.4139227946988242,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 435.57,
+            "end_time": 440.752,
+            "text": "¿Vos, Rolando, no sentís que hay una violencia muchas veces en la palabra?  ¿Que eso después deriva en otro tipo de violencia? ",
+            "cosine_dist": 0.8345566819095294,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 441.425,
+            "end_time": 476.397,
+            "text": "¿De violencia?  Claro.  No, violencia... Yo fui boxeador cuarenta años, hasta el año pasado, que ya me volaron ese diente y dije, bueno, suficiente, suficiente.  Nosotros la violencia la descargamos en otro campo.  No, no, no en las ideas.  Además, si uno se expresa respetuosamente y dice lo que piensa, ¿cuál puede ser el problema? ",
+            "cosine_dist": 0.6295031618910785,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 476.417,
+            "end_time": 487.003,
+            "text": "Claro.  Javier, ¿cómo crees vos y cómo explicás vos tu surgimiento en los medios, tu fama repentina?  Porque hay economistas, hay muchos, pero de repente ahora estás en toda la tele. ",
+            "cosine_dist": 0.8528131161685651,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 487.023,
+            "end_time": 489.364,
+            "text": "Yo lo defino como el error tipo dos. ",
+            "cosine_dist": 0.6989863664774787,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 490.76,
+            "end_time": 491.401,
+            "text": "¿Cómo es eso? ",
+            "cosine_dist": 0.9147330575687622,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 491.441,
+            "end_time": 520.162,
+            "text": "A ver.  Claro, el error tipo uno es cuando haces todo bien y te sale mal.  El error tipo dos es, haces todo mal y te sale bien.  ¿Qué hiciste mal?  Todo.  ¿Qué es todo?  ¿A qué te referís?  A ver, vamos a ponerlo en estos términos.  Yo era jugador de fútbol, fui cantante de rock, sin embargo dejé eso para dedicarme a la economía.  Los economistas no son personas populares, además son un bodrio en general, son un torre inmundo. ",
+            "cosine_dist": 0.39843121177967855,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 520.182,
+            "end_time": 522.282,
+            "text": "Bueno, le mandamos un saludo a todos los economistas. ",
+            "cosine_dist": 0.9299834838749244,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 522.302,
+            "end_time": 535.088,
+            "text": "No, a mí me interesa mandarle saludos, son unos mangas de aburridos.  Y además no la pegan nunca, no la pegan nunca.  Hay un chiste que para mí tiene sentido, que dice, ¿sabés por qué Dios inventó a los economistas? ",
+            "cosine_dist": 0.5497204595517915,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 536224,
+            "end_time": 536504,
+            "text": "¿Por qué? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 536.784,
+            "end_time": 578.067,
+            "text": "Para que los del servicio meteorológico no se sientan mal con los errores pronósticos.  Entonces, en general los economistas son un bodrio.  Por otra parte, yo soy especialista en crecimiento con y sin dinero, con lo cual es una rama que tiene mucha carga formal.  Yo, digamos, o sea, daba clases durante mucho tiempo de economía matemática, con lo cual los ganchos a mí me encantan.  De hecho, hay artículos académicos míos que tienen tantas ecuaciones que hasta tienen ecuaciones en las conclusiones.  O sea, así de nerd estaba.  Y por otra parte, yo soy liberal libertario en lo que yo considero un país de zurdos.  O sea, está todo mal conmigo.  Es imposible que alguien me quiera.  O sea, yo debería ser el rey de los... ",
+            "cosine_dist": 0.3748354340008325,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 578.087,
+            "end_time": 579.528,
+            "text": "¿Somos un país de zurdos, según vos? ",
+            "cosine_dist": 0.9139785355896585,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 579.548,
+            "end_time": 580.428,
+            "text": "Sí, definitivamente. ",
+            "cosine_dist": 0.9028183904674547,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 580.809,
+            "end_time": 582.11,
+            "text": "Digo, este país, digamos, cree que... ",
+            "cosine_dist": 0.6691410631593357,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 582.13,
+            "end_time": 583.29,
+            "text": "¿Vos qué pensás, Rolando, de eso? ",
+            "cosine_dist": 0.9278383782764215,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 583651,
+            "end_time": 584211,
+            "text": "Coincido. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 584.731,
+            "end_time": 586.272,
+            "text": "Ah, gracias, Rolando. ",
+            "cosine_dist": 0.8521941045723292,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 586.292,
+            "end_time": 588.614,
+            "text": "Tiene muchas cosas en común, no solamente esto. ",
+            "cosine_dist": 1.0266902241569704,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 588.874,
+            "end_time": 607.883,
+            "text": "Ahora vamos a ir.  Entonces, digamos, con toda esa paleta, digo, lo lógico es que la gente me odie.  Bueno, no sé, entonces salió todo mal porque, digamos, la verdad es que... Las manifestaciones de afecto que recibo por parte de las personas es increíble y por lo cual estoy profundamente agradecido a la gente. ",
+            "cosine_dist": 0.428302875802138,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 608.003,
+            "end_time": 616.086,
+            "text": "Rolando está acostumbrado al cariño de la gente, al afecto, al reconocimiento, pero Javier no.  Y cuando veníamos para el estudio con Manla.  fuimos testigos de cómo le piden fotos. ",
+            "cosine_dist": 0.8604050185172617,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 616.706,
+            "end_time": 617.706,
+            "text": "Selfies por todos lados. ",
+            "cosine_dist": 1.0486678262266234,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 617.746,
+            "end_time": 623.608,
+            "text": "Javier ha tocado una época muy polémica y él es muy de debatir y eso... ",
+            "cosine_dist": 0.7132097319507318,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 625.209,
+            "end_time": 626.05,
+            "text": "Hago entre... ",
+            "cosine_dist": 0.9229883358410383,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 626.07,
+            "end_time": 627.191,
+            "text": "Uno se las busca también. ",
+            "cosine_dist": 0.7479502555003246,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 627.551,
+            "end_time": 666.353,
+            "text": "Hago entre veinte y treinta por días, salvo que esté en algún congreso.  Por ejemplo, recientemente estuve en un congreso en Córdoba que había mil doscientas personas sentadas y cuatrocientas de pie.  Y cuando salí estuve tres horas haciendo selfies.  O, por ejemplo, ir a dar una conferencia a Tucumán.  Entonces, previo a la conferencia, yo fui a dar una entrevista, un diario, todo.  Y nos vamos a comer.  Y nada, decidimos ir por la peatonal.  Y tardé para hacer doscientos metros casi cuarenta y cinco minutos porque hice setenta y ocho selfies.  Que además las personas que venían conmigo las contaban.  O sea, por eso sé el número exacto. ",
+            "cosine_dist": 0.42930685579349415,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 666.373,
+            "end_time": 668.834,
+            "text": "¿Te manejás con asistentes, con manager?  No. ",
+            "cosine_dist": 0.9762341566700411,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 668.914,
+            "end_time": 681.194,
+            "text": "Ah, bueno.  El orden espontáneo.  A mí me lleva el orden espontáneo.  Yo digo, por algo soy el heredero de Adam Smith.  O sea, todo lo guía a la mano invisible.  Desde mi peinado hasta lo que me pongo, digamos así.  La mano invisible. ",
+            "cosine_dist": 0.469240467064168,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 681.574,
+            "end_time": 682.815,
+            "text": "Eso sí, la de Adam Smith. ",
+            "cosine_dist": 1.0379182362807848,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 682.835,
+            "end_time": 684.236,
+            "text": "De Adam Smith, obviamente. ",
+            "cosine_dist": 0.8792338887993255,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 684.437,
+            "end_time": 689.801,
+            "text": "¿No es pensado este look que vos tenés?  No.  ¿No es a propósito para que la gente te pregunte y hable de vos? ",
+            "cosine_dist": 0.8919880728801137,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 690.281,
+            "end_time": 702.248,
+            "text": "No, no, no.  O sea, hablen de mí, me da lo mismo.  Me da lo mismo.  A mí, mira, a ver, el tema es el siguiente.  Todo tiene que ser funcional a que yo me divierta.  Si no me divierto, no sirve. ",
+            "cosine_dist": 0.49653492172238256,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 702.989,
+            "end_time": 704.691,
+            "text": "Te tenés que divertir, esa es la ley. ",
+            "cosine_dist": 0.9721553116890312,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 704.751,
+            "end_time": 710.117,
+            "text": "Esa es la consigna.  Entonces, ¿me entiendes?  O sea, suponete que esto ahora en un rato se pone un bodrio, me levanto y me voy. ",
+            "cosine_dist": 0.5349487185832675,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 710.157,
+            "end_time": 717.246,
+            "text": "Ah, ¿te vas?  Ah, bueno, en cualquier momento se va.  Sí, claro, porque... Se va en cualquier momento.  Abandonás el móvil como tipo una vedette.  Que abandona el móvil y se va. ",
+            "cosine_dist": 0.8757311850170874,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 717.586,
+            "end_time": 719.607,
+            "text": "Ahora me estoy divirtiendo, así que estamos fenómenos. ",
+            "cosine_dist": 0.7622321759648324,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 719.667,
+            "end_time": 722.628,
+            "text": "Uy, Dios mío, Rolando, ¿qué vamos a tener que hacer para que se divierta este hombre? ",
+            "cosine_dist": 0.9005826728175017,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 722.688,
+            "end_time": 726.369,
+            "text": "Por favor, vamos con pie de plomo. ",
+            "cosine_dist": 0.7225759981301135,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 726.95,
+            "end_time": 730.731,
+            "text": "Rolando, vos tuviste que hacer algo en tu carrera para llamar la atención.  ¿Pensás que lo hiciste? ",
+            "cosine_dist": 0.8195404336680399,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 731231,
+            "end_time": 731451,
+            "text": "Sí. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 732312,
+            "end_time": 732712,
+            "text": "¿Qué cosa?  Sí. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 733.832,
+            "end_time": 751.735,
+            "text": "En una época me hacía el periodista polémico, justamente.  Pero hace muchos años que hacía columnas críticas en las revistas y me metía con personas más o menos consagradas.  Y estoy arrepentido.  ¿Sí? ",
+            "cosine_dist": 0.666175855907938,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 751775,
+            "end_time": 752075,
+            "text": "¿Por qué? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 752.795,
+            "end_time": 762.877,
+            "text": "Porque es feo molestar a la gente, ofender, incomodar.  Trato de vivir sin molestar a los demás. ",
+            "cosine_dist": 0.6673615438676288,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 763.382,
+            "end_time": 770.871,
+            "text": "Y toda esta cuestión del nudismo y todas tus costumbres, ¿crees que también llamaron la atención en su momento o no? ",
+            "cosine_dist": 0.893170996880026,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 771.151,
+            "end_time": 772.272,
+            "text": "No, pero eso era un asunto mío. ",
+            "cosine_dist": 0.9327988210152447,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 772.593,
+            "end_time": 774.655,
+            "text": "Sí, pero se hizo público y llamó la atención. ",
+            "cosine_dist": 0.9843742258161783,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 775.196,
+            "end_time": 849.961,
+            "text": "Sí, pero bueno, yo no lo quise hacer público.  Yo soy nudista porque lo soy hace muchos años y... Y me invitaron a un programa de televisión en Miami, que iban nudistas de toda América.  Eran como cien.  Entonces, el programa de Cristina, se llama esta mujer.  Bueno, yo estaba ahí como otros, un montón de gente.  Pero Chiche Helblum compró ese pedazo donde salía yo.  Y entonces Chichero pasó y me invitó.  Y de ahí salió el boom del nudismo.  Y yo vengo a ser un referente.  Cuando en realidad siempre hubo nudistas en la Argentina y en el mundo.  Hay millones, millones.  Son federaciones de millones.  Federaciones cristianas de nudismo, por.  ejemplo.  las más grandes en los Estados Unidos.  Yo soy uno más, nada más que un habitué.  Pero una vez que te sacás el traje de baño ya no te lo pones más. ",
+            "cosine_dist": 0.6801260325387941,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 850.621,
+            "end_time": 853.062,
+            "text": "Rolando, ¿es bueno que el hombre esté solo? ",
+            "cosine_dist": 0.881591598306537,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 855.983,
+            "end_time": 868.765,
+            "text": "Es bueno o no que va a ser bueno, es horrible.  La soledad es horrible.  Es muy desagradable.  No sé qué le ven de interesante a estar solo. ",
+            "cosine_dist": 0.6394953595539551,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 869.445,
+            "end_time": 872.486,
+            "text": "Yo te pregunto porque Javier no deja entrar a una mujer a su casa. ",
+            "cosine_dist": 0.8579164653276563,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 873847,
+            "end_time": 874307,
+            "text": "Javier. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 874.327,
+            "end_time": 874.967,
+            "text": "Que tenés al.  lado. ",
+            "cosine_dist": 0.9961551900192591,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 875.447,
+            "end_time": 878.369,
+            "text": "Sí.  ¿Javier qué me dijiste? ",
+            "cosine_dist": 0.8606451855321393,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 878.549,
+            "end_time": 881.27,
+            "text": "No deja entrar a una mujer a su casa.  ¿Es así, Javier? ",
+            "cosine_dist": 0.8571906337677798,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 881.83,
+            "end_time": 883.37,
+            "text": "¿Cuál es el problema?  Ningún problema. ",
+            "cosine_dist": 0.8286902947880498,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 883.39,
+            "end_time": 884.011,
+            "text": "Son gustos. ",
+            "cosine_dist": 0.9626157770303556,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 884.371,
+            "end_time": 896.525,
+            "text": "Ningún problema, Javier.  Mi casa la comparto con Conan.  Conan, claro, con el perrito.  Es mi hijo de cuatro patas, un mastín inglés formidable, noventa kilos y es flaco y en dos patas mide un metro ochenta y uno. ",
+            "cosine_dist": 0.4357449206233145,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 896.705,
+            "end_time": 898.026,
+            "text": "¿Vos sí concebís la vida solo? ",
+            "cosine_dist": 0.8673143014628614,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 900.628,
+            "end_time": 901.689,
+            "text": "Depende cómo lo defines. ",
+            "cosine_dist": 0.8096735411246905,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 902.149,
+            "end_time": 906.353,
+            "text": "Solo nos referimos a estar en pareja, a una historia de amor, a una relación, a eso nos referimos. ",
+            "cosine_dist": 0.9148181864725119,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 908.176,
+            "end_time": 910.517,
+            "text": "Me resulta absolutamente accesorio. ",
+            "cosine_dist": 0.6867376599702986,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 911.018,
+            "end_time": 913.44,
+            "text": "¿Accesorio?  ¿El amor te resulta accesorio? ",
+            "cosine_dist": 0.8430667947172812,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 913.82,
+            "end_time": 915.621,
+            "text": "Bueno, el amor tiene distintas definiciones. ",
+            "cosine_dist": 0.7457423328701165,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 915.641,
+            "end_time": 916.342,
+            "text": "El amor de pareja. ",
+            "cosine_dist": 0.8914209833754339,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 916.502,
+            "end_time": 925.429,
+            "text": "O sea, si vos me preguntás a mí cuál es el orden de mérito, el orden de mérito es primero Conan, segundo la economía y después vemos, qué sé yo. ",
+            "cosine_dist": 0.5349608636272647,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 926.949,
+            "end_time": 959.831,
+            "text": "Bueno, está bien.  Vos sabés que nosotros hacemos una tarea de investigación seria e importante en este programa y nos metimos en la casa de Javier Milei y estuvimos husmeando en su escritorio y en su computadora.  No la pudimos prender porque para eso no tenemos habilidad, pero sí vimos el protector de pantalla.  Te voy a mostrar, Rolando, que mira, fíjate, este es el protector de pantalla que tiene Javier.  Es como la clave de Wi-Fi de acá del canal.  Es raro, no sabemos qué es, pero bueno, no sé, ¿te imaginás que puede llegar a ser eso, Rolando? ",
+            "cosine_dist": 0.7909541240064415,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 959.871,
+            "end_time": 962.473,
+            "text": "La verdad que nosotros no tenemos idea.  Sí, yo pensé que iba a estar Conan. ",
+            "cosine_dist": 0.8418217256030959,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 963.814,
+            "end_time": 976.442,
+            "text": "Claro, la fotito del perro, ¿no?  No sabemos, son unas siglas que no sé.  ¿Sos miembro de alguna asociación internacional secreta?  ¿Qué es AAN?  Primero convengamos, ¿es tu computadora?  ¿Es tu protector de pantalla? ",
+            "cosine_dist": 0.8244385143748348,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 976.462,
+            "end_time": 978.643,
+            "text": "Mi computadora tiene ese protector de pantalla, sí. ",
+            "cosine_dist": 0.5928239379837391,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 979.083,
+            "end_time": 980.184,
+            "text": "¿Qué es eso?  Contanos. ",
+            "cosine_dist": 1.0159250744972954,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 980.204,
+            "end_time": 985.467,
+            "text": "Alegría no tiene fin.  No tiene fin. ",
+            "cosine_dist": 0.7258993429086769,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 985.767,
+            "end_time": 988.409,
+            "text": "Yo soy una persona que vive en estado permanente de alegría. ",
+            "cosine_dist": 0.6188732556104672,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 989.776,
+            "end_time": 991.398,
+            "text": "¿En este momento también?  Sí, claro. ",
+            "cosine_dist": 0.965045665461929,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 992.059,
+            "end_time": 993.1,
+            "text": "Si no, ya me hubiera ido. ",
+            "cosine_dist": 0.9088587892743153,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 993.12,
+            "end_time": 1005.667,
+            "text": "No, si ya dijo que se va.  En cualquier momento se va.  Les voy a contar algo.  Mirá, fíjate.  Soy una persona que se mantiene en un estado constante de alegría.  Me hice reír. ",
+            "cosine_dist": 0.8568952737122707,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1005.707,
+            "end_time": 1021.455,
+            "text": "Bueno, ese es mi tono.  Pero, a ver, yo lo voy a poner más claro con un ejemplo.  A ver, vamos así.  En una época, los economistas, para capturar las preferencias de la gente, hacían encuestas y todas esas cosas.  ¿Y cómo daban las encuestas?  Todas mal daban. ",
+            "cosine_dist": 0.4409609147805865,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1021896,
+            "end_time": 1022156,
+            "text": "Sí. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1022.496,
+            "end_time": 1065.703,
+            "text": "Entonces, Paul Samuelson, premio Nobel de Economía en mil novecientos setenta, que en paz descanse, Pese a ser keynesiano, lo interesante es que elabora un concepto que se llama preferencia revelada.  Suponete una persona, le decís A o B, te dice A pero elige B. Bueno, ok, le erro.  A o B, dice A pero vuelve a elegir B. Bueno, tiene algún problema.  A o B y vuelve a elegir B, en realidad le gusta B. Y entonces le dicen, bueno, pero usted cómo se le ocurrió esto.  Dice, mire, yo le preguntaba a la gente si iba al cabaret y no iba nadie.  Pero pasaba por la puerta y era un negocio floreciente.  Así que en tanto y en cuanto yo esté sentado acá, estoy manifestando mi preferencia de que estoy contento. ",
+            "cosine_dist": 0.375230644701007,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1066.324,
+            "end_time": 1072.473,
+            "text": "Rolando hablaba de nudismo de su época, cuando fue por primera vez a un programa de televisión.  ¿Practicaste nudismo vos, Javier? ",
+            "cosine_dist": 0.8910448107886859,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1072493,
+            "end_time": 1072553,
+            "text": "No. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1073576,
+            "end_time": 1073996,
+            "text": "¿Te gustaría? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1074.436,
+            "end_time": 1077.618,
+            "text": "No lo sé.  Todavía no se me... ",
+            "cosine_dist": 0.7040958496870431,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1077.698,
+            "end_time": 1078.898,
+            "text": "No le dio por ahí. ",
+            "cosine_dist": 0.8562165213769068,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1078.959,
+            "end_time": 1082.92,
+            "text": "Claro, porque como estoy casi siempre encerrado, también es como que... ",
+            "cosine_dist": 0.5921055675913995,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1083.561,
+            "end_time": 1088.483,
+            "text": "Claro, encerrado no.  Y las veces que vas a la playa, vas en traje de baño.  Todavía. ",
+            "cosine_dist": 0.9292816030003055,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1088.703,
+            "end_time": 1094.866,
+            "text": "Depende.  Voy a la playa si Conan tiene ganas de ir a la playa.  A Conan le gusta ir a la playa.  Entonces, sí lo llevo a la playa. ",
+            "cosine_dist": 0.43625340524958245,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1095.026,
+            "end_time": 1097.187,
+            "text": "Ah, si Conan... ¿A dónde van?  ¿Por plata? ",
+            "cosine_dist": 1.0655831693323246,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1097227,
+            "end_time": 1097547,
+            "text": "¿A dónde van? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1097.927,
+            "end_time": 1100.348,
+            "text": "Sí, digamos, hemos ido varias veces a Mar del Plata. ",
+            "cosine_dist": 0.48122221627393746,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1100.448,
+            "end_time": 1101.088,
+            "text": "¿Lo llevas en el auto? ",
+            "cosine_dist": 1.0321578486099254,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1101.108,
+            "end_time": 1102.489,
+            "text": "Me gusta más la zona de luna roja. ",
+            "cosine_dist": 0.7233413704036705,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1102.509,
+            "end_time": 1104.75,
+            "text": "¿Y Conan cómo te comunica que quiere ir a la playa? ",
+            "cosine_dist": 0.96345889547782,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1105.21,
+            "end_time": 1111.052,
+            "text": "Mira, bueno, digamos, esto es muy interesante porque tienen forma de comunicarse, digamos. ",
+            "cosine_dist": 0.47663976316394296,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1111.072,
+            "end_time": 1112.613,
+            "text": "¿Te habla con el PIS?  ¿Te habla? ",
+            "cosine_dist": 0.8877850210853355,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1113.233,
+            "end_time": 1114.333,
+            "text": "Eh, sí. ",
+            "cosine_dist": 0.9368912967936083,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1115.054,
+            "end_time": 1115.954,
+            "text": "Contanos esta experiencia. ",
+            "cosine_dist": 1.0620507669913504,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1115.974,
+            "end_time": 1139.533,
+            "text": "Se manifestó con el PIS.  No, digamos... Yo, digamos, voy a casa con una señorita, nos vamos al cuarto y Conan, digamos, comparte la casa conmigo.  Entonces él va, viene, él mira, él audita todo.  Y entonces nosotros estábamos... digamos, divirtiéndonos. ",
+            "cosine_dist": 0.43323170475470085,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1139.834,
+            "end_time": 1140.694,
+            "text": "En off-side. ",
+            "cosine_dist": 0.9609748386366095,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1140.734,
+            "end_time": 1142.075,
+            "text": "No, ¿qué en off-side, digamos? ",
+            "cosine_dist": 0.72805609483066,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1142.155,
+            "end_time": 1145.077,
+            "text": "Eso no es off-side.  En el in-goal. ",
+            "cosine_dist": 0.7719694348518028,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1145.117,
+            "end_time": 1160.907,
+            "text": "Claro, estábamos, o sea, practicando el in-out, in-out, como diría en la naranja mecánica.  Y entonces, claro, pero Conan pasa, o sea, como... Y la chica cuando lo vio empezó a los gritos de sacar y lo terminó sacando. ",
+            "cosine_dist": 0.45434691535137495,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1161.207,
+            "end_time": 1163.009,
+            "text": "Ah, se asustó la chica, no le gustó. ",
+            "cosine_dist": 0.9509431573563122,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1163.81,
+            "end_time": 1166.433,
+            "text": "Y a un medio metro a la cruz, un metro ochenta y uno en dos patas, ¿no es? ",
+            "cosine_dist": 0.6920310866163943,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1166.473,
+            "end_time": 1171.719,
+            "text": "Que viene y es un señor importante, por decirlo de alguna manera. ",
+            "cosine_dist": 0.9569694808171614,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1174.422,
+            "end_time": 1197.42,
+            "text": "Entonces, bueno, eso, a mí, cuando pasó eso, dije, la taché de la lista.  Y le cerró la puerta y lo dejó afuera.  Y cuando llegó el momento que la chica se tenía que ir, pasó y había dejado un charco. ",
+            "cosine_dist": 0.517351414049027,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1197.46,
+            "end_time": 1198.861,
+            "text": "Enseñado, claro. ",
+            "cosine_dist": 0.7627807509663962,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1199.802,
+            "end_time": 1215.91,
+            "text": "Pero eso fue tremendo porque yo me tuve que poner, en pleno invierno, abrir toda la casa, me tuve que poner a lavar y a la mañana lo primero que hice fue llamar para que me cambien la alfombra.  O sea, porque, Dios, Dios.  Cuando hace algo así, el proceso es como que... Bien. ",
+            "cosine_dist": 0.3910726768467051,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1215.971,
+            "end_time": 1228.717,
+            "text": "Rolando, vos sabés que Javier, que cataloga todo como si fuese un científico, que de hecho lo es, él dice que hay tres tipos de sexo.  Después lo va a explicar.  ¿Vos cuántos tipos de sexo sentís que hay? ",
+            "cosine_dist": 0.7805023386403427,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1230.018,
+            "end_time": 1256.006,
+            "text": "¿Cuántos tipos?  A lo mejor hay más de tres.  Porque desde el punto de vista reproductivo hay dos.  Desde el punto de vista recreativo hay muchas cosas, hay muchos sexos, hay muchas variedades.  Ahora, vamos, sexo a sexo.  yo entiendo que somos dos, no conozco un tercero. ",
+            "cosine_dist": 0.6555254944373751,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1256.666,
+            "end_time": 1286.005,
+            "text": "No, es otra definición, te cuento.  Otra, contanos, contanos.  Yo digo que hay tres tipos de sexo.  Uno es el sexo que tiene que ver con lo fisiológico, es decir, cuando estás caliente.  Y cualquier cosa te viene bien.  Después está el sexo deportivo, que es cuando te encerrás con alguien hasta que las velas no ardan o hasta lo que haya.  Y después está hacer el amor, como tercera definición. ",
+            "cosine_dist": 0.41600002545004655,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1286.646,
+            "end_time": 1293.899,
+            "text": "Pero dejaste picando que vos sentís que el sexo es de a dos nada más.  Es de a dos personas. ",
+            "cosine_dist": 0.8092442545328431,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1294.713,
+            "end_time": 1299.776,
+            "text": "No, bueno, justamente te dije, sexos hay dos. ",
+            "cosine_dist": 0.7771938743133804,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1299.856,
+            "end_time": 1300.537,
+            "text": "Ah, perfecto. ",
+            "cosine_dist": 0.915187882554628,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1302.298,
+            "end_time": 1324.193,
+            "text": "Actividades sexuales y divertimentos sexuales hay de todo tipo.  Desde que empezó la humanidad, desde la época de los antiguos griegos y romanos, se ha practicado todo tipo de entretenimientos y de divertimentos que no tienen que ver con el amor, sino con el placer.  Y tampoco está mal. ",
+            "cosine_dist": 0.6943471383821005,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1324.633,
+            "end_time": 1328.276,
+            "text": "¿Y el sexo tántrico practicaste? ",
+            "cosine_dist": 0.8943026349320056,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1329.097,
+            "end_time": 1336.423,
+            "text": "El sexo tántrico lo conozco, pero... Escuchame, yo ya pasé la edad del sexo tántrico y del sexo general. ",
+            "cosine_dist": 0.8142733443711045,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1336.443,
+            "end_time": 1341.147,
+            "text": "¿Estás retirado de Rolando?  ya, decís?  No. ",
+            "cosine_dist": 0.8425339639641012,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1342.312,
+            "end_time": 1346.457,
+            "text": "Más o menos, sí.  Sí, tirando a retirado. ",
+            "cosine_dist": 0.8330892833764578,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1347.017,
+            "end_time": 1349.36,
+            "text": "Milei, contanos qué es el sexo tántrico. ",
+            "cosine_dist": 0.9124268242355156,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1349.64,
+            "end_time": 1365.461,
+            "text": "Bueno, el sexo tántrico es el yoga aplicado al sexo.  Y básicamente vos tenés tres tipos de sexo tántrico.  Tenés el tantra blanco, que es el más conocido, es el que... Se ve en general, digamos, si la gente habla. ",
+            "cosine_dist": 0.450070951151918,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1365.481,
+            "end_time": 1368.962,
+            "text": "Es el más conocido, hombre-mujer en una cama haciendo el amor. ",
+            "cosine_dist": 0.9558013124952959,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1369.442,
+            "end_time": 1390.847,
+            "text": "Sí, es hombre-mujer y es donde el sexo tántrico blanco está concentrado sobre la cuestión espiritual.  Está muy concentrado en la parte de las miradas, las caricias.  Hay penetración, pero en una posición, digamos, que permite poco movimiento, por decirlo de alguna manera.  La más tradicional es el hombre sentado con la mujer encima. ",
+            "cosine_dist": 0.3771684171944699,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1391.047,
+            "end_time": 1392.187,
+            "text": "Quietito es, digamos. ",
+            "cosine_dist": 0.9522109005504258,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1392.227,
+            "end_time": 1464.928,
+            "text": "Claro.  Sí, pero porque el foco está en lo espiritual.  O sea, en Oriente todas las cosas vinculadas a lo blanco tienen que ver con lo espiritual.  Después vos tenés lo que se llama el sexo tántrico negro.  Que tiene que ver, lo negro tiene que ver con la tierra.  Es más terrenal, o sea, es... Dale, que va, ¿sí?  Dale con todo.  Digamos, para eso.  además también hay técnicas para, digamos, o sea, que esto, digamos... tenga más extensión en el tiempo.  De hecho, pensá que en el tantra aquel que tarda menos de cuarenta y cinco minutos es considerado un eyaculador precoz.  Y esto tiene que ver con la cuestión física.  O sea, lo ideal es siempre con una pareja con la que hay amor, vos combinás lo blanco con lo negro.  Obviamente que si vas a hacer sexo deportivo, vas a usar lo negro, obviamente.  Te vas a divertir de lo lindo y le vas a dar para divertirte de lo lindo.  Y después hay otra parte que es el tantra rojo, que es algo que yo no lo recomiendo, que es algo muy malo, que es usar el sexo como un instrumento de dominación del otro ser humano, lo cual a mí me parece deplorable. ",
+            "cosine_dist": 0.32677922711651863,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1466.534,
+            "end_time": 1472.786,
+            "text": "Me quedó algo picando, Rolando.  ¿Realmente uno se puede retirar del sexo?  ¿Realmente eso ocurre? ",
+            "cosine_dist": 0.8491158355882376,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1472.867,
+            "end_time": 1474.971,
+            "text": "No, no, no.  El sexo se retira de vos. ",
+            "cosine_dist": 0.889809162548315,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1479.813,
+            "end_time": 1481.693,
+            "text": "No, no.  Hay muchos artilugios ahora. ",
+            "cosine_dist": 0.8512064151418001,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1482.013,
+            "end_time": 1507.244,
+            "text": "Los estímulos sexuales dependen de la edad, de la evolución del ser humano, hombre o mujer.  Es un tema que te interesa menos que antes.  Yo he sido también tántrico, justamente.  Y en alguna época me interesó todo eso y lo practiqué, pero bueno... Son cosas que pasan. ",
+            "cosine_dist": 0.6736753437263432,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1507.424,
+            "end_time": 1510.55,
+            "text": "¿Qué opinas, Rolando, de los rojos y los blancos y los negros? ",
+            "cosine_dist": 0.9129828731186415,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1510.57,
+            "end_time": 1540.332,
+            "text": "No, no conocía esta clasificación, te dice Javier.  No, no la conocía.  Conozco el sexo tántrico.  como una forma de practicar el amor, conteniendo al hombre su eyaculación.  Para poder disfrutar.  Para llegar a producir un hiperorgasmo y mayor placer en la mujer.  Y además el dominio de sí mismo es algo que en sí te da placer. ",
+            "cosine_dist": 0.685659916406856,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1541.184,
+            "end_time": 1552.794,
+            "text": "Y cuando se va retirando de a poco el deseo sexual, ¿con qué se compensa en la vida?  Porque ocupa un lugar muy grande en la vida del ser humano.  Y bueno, eso deja un vacío también. ",
+            "cosine_dist": 0.816520143309319,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1552.814,
+            "end_time": 1591.162,
+            "text": "Mirá lo que me vas a preguntar.  No tengo idea de con qué se compensa.  Además, a través de los años, uno va perdiendo, se va amputando partes de su vida.  El fútbol... El boxeo, todos los deportes que yo practiqué, el sexo, un montón de cosas que vos lo vas dejando, ¿sabés por?  qué?  Porque pasás más tiempo en la camilla que en la cancha.  Entendida la cancha en el sentido amplio. ",
+            "cosine_dist": 0.6463535056402969,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1591.663,
+            "end_time": 1599.925,
+            "text": "Bueno, pero ¿probaste todas estas cuestiones que estamos hablando?  ¿Has probado, has tenido una vida sexual rica?  ¿Cómo definirías esa vida sexual? ",
+            "cosine_dist": 0.8585489405121867,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1600.105,
+            "end_time": 1601.146,
+            "text": "¿Y comparada con quién? ",
+            "cosine_dist": 0.7481188109450047,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1602.006,
+            "end_time": 1604.409,
+            "text": "Bueno, no, es la tuya. ",
+            "cosine_dist": 0.9367571777862129,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1604.629,
+            "end_time": 1606.331,
+            "text": "Ahí lo tenés cerca. ",
+            "cosine_dist": 0.9808523786878423,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1606.812,
+            "end_time": 1608.614,
+            "text": "Se ve que Javier es un campeón. ",
+            "cosine_dist": 0.8668453275030357,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1610.616,
+            "end_time": 1624.645,
+            "text": "Es que en realidad es parte de mi visión capitalista.  Yo digo que el tantra es lo más capitalista que hay.  Porque... Vos en el capitalismo solamente podés ser exitoso sirviendo al prójimo con bienes de mejor calidad o mejor precio. ",
+            "cosine_dist": 0.434603299262345,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1625.246,
+            "end_time": 1630.147,
+            "text": "Entonces, digamos, ¿cuál es tu...?  ¿Sirviendo al prójimo o sirviéndote a vos mismo para adquirir bienes? ",
+            "cosine_dist": 0.7741162210802613,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1630.187,
+            "end_time": 1647.431,
+            "text": "No, es que la única forma en que vos tenés de ser exitoso en el capitalismo es... Yo puedo hacer un producto, pero si vos no me lo compras me voy a la quiebra.  Es decir, el que determina quién tiene el capital es el consumidor comprando, con su acto de compra.  Entonces, ¿cómo funciona esto?  Mi mayor satisfacción... ",
+            "cosine_dist": 0.4627302767344079,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1647.451,
+            "end_time": 1650.093,
+            "text": "Te re-encendés hablando de economía, te encendés más que con el sexo, te digo. ",
+            "cosine_dist": 0.9418522335543001,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1650.133,
+            "end_time": 1651.173,
+            "text": "Obvio, digamos, por eso está... ",
+            "cosine_dist": 0.7882140009387482,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1651.413,
+            "end_time": 1653.275,
+            "text": "Me parece que la libido tuya va por ahí. ",
+            "cosine_dist": 1.0269372358181326,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1654.415,
+            "end_time": 1656.777,
+            "text": "Por eso está en segundo lugar.  Primero está Conan, después viene la economía. ",
+            "cosine_dist": 0.6590418229313433,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1656837,
+            "end_time": 1657137,
+            "text": "Muy bien. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1657.517,
+            "end_time": 1698.881,
+            "text": "El tema es el siguiente, el tema es el... Si lo que pasa es que no me pongo a hablar de Conan, me pongo súper baboso cuando hablo de Conan, infumable.  Pero digamos, al margen de esto... Básicamente lo que vos haces es derivar placer desde el placer de tu pareja sexual.  Entonces, por ejemplo, no hay nada más hermoso que estar con una mujer, en mi caso, dada mis preferencias, ¿no?  O sea, que ver cómo se empieza a expresar la mujer en ese sentido, cuando empieza a experimentar placer.  Y te puedo asegurar que una mujer suena como un violonchelo.  Y no hay nada más bello que el sonido de un violonchelo bien afinado. ",
+            "cosine_dist": 0.3772755454385711,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1699.221,
+            "end_time": 1710.069,
+            "text": "Te queremos poner en un brete, si me permitís.  Te queremos poner en una prueba.  Y es esta posibilidad de ser ministro de Economía por un día. ",
+            "cosine_dist": 0.7531682068772664,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1710.109,
+            "end_time": 1714.471,
+            "text": "Vamos a hacer un juego en donde vos vas a ser ministro de Economía por un día, por unas horas, por unos minutos. ",
+            "cosine_dist": 0.9105488585697231,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1714.511,
+            "end_time": 1716.513,
+            "text": "Después de nueve libros, ¿cómo no me voy a animar a eso? ",
+            "cosine_dist": 0.7243698860341014,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1716.533,
+            "end_time": 1719.615,
+            "text": "Bueno, entonces, te proponemos que pases a nuestro batril. ",
+            "cosine_dist": 1.001825197651113,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1719.855,
+            "end_time": 1723.497,
+            "text": "Y Malna y Rolando van a ser periodistas, como lo son. ",
+            "cosine_dist": 0.9213170094729833,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1723.517,
+            "end_time": 1724.417,
+            "text": "Rolando, ok. ",
+            "cosine_dist": 1.1042727504149945,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1724757,
+            "end_time": 1725137,
+            "text": "Acompañame. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1725.157,
+            "end_time": 1730.4,
+            "text": "Yo soy la locutora oficial de Casa de Gobierno por este minuto, por este minuto de ficción, por supuesto. ",
+            "cosine_dist": 0.8865792438075906,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1730.42,
+            "end_time": 1746.407,
+            "text": "Javier, entonces tenés dos minutos para explicarle al pueblo argentino las tres medidas que vos considerás necesarias para que el país salga adelante.  Pero esperá un segundito que necesitamos una buena presentación para esto. ",
+            "cosine_dist": 0.8313829462550133,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1748.859,
+            "end_time": 1752.32,
+            "text": "Habla al país el Ministro de Economía, Javier Milei. ",
+            "cosine_dist": 0.8750845586440388,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1752.34,
+            "end_time": 1784.554,
+            "text": "Bueno, en primer lugar lo que voy a hacer es eliminar el Banco Central para eliminar el cáncer de la inflación.  En segundo lugar voy a practicar una reforma del Estado para que bajando el gasto público se nos devuelvan las libertades individuales y además eso nos permita bajar los impuestos.  Y por ende, bajar impuestos sería la tercera para volver a crecer y volver a retomar la prosperidad que tuvimos cuando abrazamos el proyecto de Alberti que nos llevó a estar entre los cinco países más ricos de la Tierra. ",
+            "cosine_dist": 0.3880375657924968,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1788.017,
+            "end_time": 1798.024,
+            "text": "¡Aplauden!  No quiere que lo aplaudan, imagínate.  No me imaginé que te iban a aplaudir.  Él quiere que lo aplaudan.  Pregunta, conferencia de prensa, pregunta.  ¿Puede ser? ",
+            "cosine_dist": 0.8575409736827169,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1798064,
+            "end_time": 1798505,
+            "text": "Por favor. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1799.232,
+            "end_time": 1829.512,
+            "text": "Daniel Malnati detiene la palabra.  Los periodistas suelen decir que los políticos tienen que hablar para Doña Rosa.  Yo necesitaría que usted, señor Milay, ministro Milay, le explique esto mismo que usted dijo a Doña Amalita de Recoleta, que es una melómana, que le encanta la traviata, le encanta el baile, y quizás usted de alguna manera pueda llegar... A ella con su mensaje económico.  ¿Puede ser? ",
+            "cosine_dist": 0.7890406263604901,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1829.532,
+            "end_time": 1831.013,
+            "text": "¿A usted le gusta la ópera? ",
+            "cosine_dist": 0.6837504209164251,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1831373,
+            "end_time": 1831733,
+            "text": "Así es. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1832.134,
+            "end_time": 1834.916,
+            "text": "¿Le gusta Verdi?  Así es.  ¿Y le gusta la traviata? ",
+            "cosine_dist": 0.5974139726584876,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1835136,
+            "end_time": 1835496,
+            "text": "Así es. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1835.756,
+            "end_time": 1836.997,
+            "text": "¿Le gusta también el brindis? ",
+            "cosine_dist": 0.80200432821807,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1837377,
+            "end_time": 1837698,
+            "text": "También. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1837.978,
+            "end_time": 1890.808,
+            "text": "Me van a poder acompañar con la música, me imagino.  ¿Lo ubican?  Ubican.  Muy bien.  Sacame la música porque no están en la misma sintonía.  Pero se los voy a cantar como es.  Gastar y gastar y gastar y gastar, esa es nuestra regla fiscal.  Y si los ingresos no aguantarán más, ahí iremos al Banco Central y eso será inflacionario.  Y eso será inflacionario.  Si no le aflojan al gasto, entonces la crisis vendrá.  Gastar y gastar y gastar y gastar.  Esa es nuestra regla fiscal. ",
+            "cosine_dist": 0.6781029801835925,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1896.671,
+            "end_time": 1905.798,
+            "text": "¡Impresionante!  ¿Rolando, alguna pregunta?  ¿Tienes alguna pregunta, Rolando, para hacerle a este ministro?  Sí, señor ministro.  ¿Qué posibilidades hay de...? ",
+            "cosine_dist": 0.8072664411270988,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1905.818,
+            "end_time": 1907.479,
+            "text": "Presentate primero, Rolando Hanglin. ",
+            "cosine_dist": 0.9339326771492586,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1907.939,
+            "end_time": 1910.861,
+            "text": "Sí, soy Rolando Hanglin.  ¡Hola, Lali!  Tiene la palabra, claro. ",
+            "cosine_dist": 0.871023907453784,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1911.021,
+            "end_time": 1911.682,
+            "text": "Claro, muy bien. ",
+            "cosine_dist": 0.8524879812330346,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1913.183,
+            "end_time": 1925.412,
+            "text": "¿Qué posibilidades hay de poner en efecto la vieja idea del doctor Alfonsín de llevar la capital al interior del país y sacarla de aquí? ",
+            "cosine_dist": 0.6903875894108376,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1926.305,
+            "end_time": 1957.514,
+            "text": "Yo, digamos, tengo el mayor de los respetos por el doctor Alfonsín, pero en definición de economía lo defino como el fracasado hiperinflacionario.  Sí, nos prometió que con la democracia se come, se vive, se educa, y se vivió mal, se comió para el traste y nos dejó una hiperinflación de arriba del cinco mil por ciento.  Por lo cual... Las ideas de Alfonsín, lejos.  Es decir, yo estoy por el proyecto de Alberti, el que nos hizo un país rico. ",
+            "cosine_dist": 0.4765345670369716,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1958.355,
+            "end_time": 1966.863,
+            "text": "Pero Alberti no dijo que la capital no podía irse al interior. ",
+            "cosine_dist": 0.7610093825937836,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1967.303,
+            "end_time": 1993.199,
+            "text": "La capital está acá porque surgió por el orden espontáneo.  Es decir, ¿por qué un tecnócrata tiene que agarrar y decidir cambiarla?  Si la propia sociedad se coordinó en torno al puerto de Buenos Aires.  Esa es la vida.  Con lo cual, cualquier medida que quiera corregir eso está yendo contra lo que decidieron los individuos voluntariamente.  Con lo cual, el resultado es que vamos a estar mucho peor. ",
+            "cosine_dist": 0.3565372891237857,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1993.239,
+            "end_time": 1995.1,
+            "text": "Ministro, gracias.  Le agradecemos mucho. ",
+            "cosine_dist": 1.0398874011827144,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1995.24,
+            "end_time": 1996.741,
+            "text": "Tenía una pregunta sobre Keynes. ",
+            "cosine_dist": 0.9632579522234078,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1996781,
+            "end_time": 1997161,
+            "text": "No, no, no. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1997.181,
+            "end_time": 2009.17,
+            "text": "Pero no se la voy a hacer.  No, no, no.  No, no.  Vámonos, vámonos, dale.  Animaste, animaste con Keish.  Dale, que me encanta Keish.  Ya fue, ya fue.  En el próximo bloque nos cuenta sobre Keynes y New Deal. ",
+            "cosine_dist": 0.8019154351778963,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2009.391,
+            "end_time": 2020.5,
+            "text": "Bueno.  Me da un poco de miedo, te voy a decir.  Rolando, en un ratito te va a tocar a vos.  Otro juego, otro juego de roles.  Ah, es otro.  Es otro, es otro para vos, es una sorpresa.  Nos vamos a la pausa, ya venimos. ",
+            "cosine_dist": 0.9352531615594242,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2020.701,
+            "end_time": 2033.046,
+            "text": "Gracias.  Un cálido sol de invierno te invita a conectarte con la naturaleza, con los sabores. ",
+            "cosine_dist": 0.6768384028068946,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2033.426,
+            "end_time": 2039.309,
+            "text": "Venite a San Juan. ",
+            "cosine_dist": 0.8356937870915339,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2039.549,
+            "end_time": 2044.971,
+            "text": "Hacete fanático al ritmo del Kini Seis y vení a festejar todas las semanas.  Mendoza. ",
+            "cosine_dist": 0.9187963905642336,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2045.952,
+            "end_time": 2050.254,
+            "text": "El viaje de mil viajes.  Mendoza, Argentina. ",
+            "cosine_dist": 0.7362053346564263,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2051.234,
+            "end_time": 2061.03,
+            "text": "Si vivís en Vicente López ante un hecho de inseguridad o emergencia, llamá al ciento nueve.  Un número rápido y gratuito.  Coca-Cola Argentina.  Creamos juntos. ",
+            "cosine_dist": 0.8339584438715515,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2061.911,
+            "end_time": 2101.328,
+            "text": "Vivir mejor es ley.  Legislatura de la Ciudad Autónoma de Buenos Aires.  en este fin de semana.  Ya se vienen las vacaciones, los chicos ya están todos preparando sus viajes con sus familias, así que vos estás del otro lado, como siempre, acompañándonos.  En este caso, con dos personas que parecen, en principio, no tener nada en común, pero tienen muchas cosas en.  común.  Viste que hablando uno va descubriendo, por ejemplo, el sexo, ¿no?  Que ya quedó claro que los dos... ",
+            "cosine_dist": 0.8293038640120136,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2101.528,
+            "end_time": 2102.489,
+            "text": "Pero no tenemos juntos. ",
+            "cosine_dist": 0.7915435181387735,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2103.309,
+            "end_time": 2105.87,
+            "text": "Por ahora no.  Al menos no por.  ahora.  Por ahora no. ",
+            "cosine_dist": 0.8230878737311078,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 2105.91,
+            "end_time": 2107.731,
+            "text": "Vamos a ver qué pasa después del programa. ",
+            "cosine_dist": 1.0091444656190172,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2107.751,
+            "end_time": 2111.332,
+            "text": "Eso después lo vemos.  ¿Tenés buenas amigas para traer? ",
+            "cosine_dist": 0.7060116232815645,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2112.572,
+            "end_time": 2115.093,
+            "text": "Tal.  vez.  Sí, dale.  Tenemos que hablar. ",
+            "cosine_dist": 0.7480430845918286,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2115.794,
+            "end_time": 2118.575,
+            "text": "Abramos el juego.  ¿Querés que Rolando te presente a alguien? ",
+            "cosine_dist": 0.8806736074269927,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2118.675,
+            "end_time": 2120.495,
+            "text": "No, bueno, digo, para ver qué tiene en carpeta. ",
+            "cosine_dist": 0.656915015355243,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 2120.515,
+            "end_time": 2121.536,
+            "text": "Estás soltero ahora, ¿no? ",
+            "cosine_dist": 0.9004429425329796,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2122216,
+            "end_time": 2122356,
+            "text": "Sí. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 2122.836,
+            "end_time": 2124.177,
+            "text": "¿Y por qué el último distracto? ",
+            "cosine_dist": 0.9289233451305324,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2128.458,
+            "end_time": 2129.318,
+            "text": "Cosas que pasan. ",
+            "cosine_dist": 0.8170437208081835,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2129.979,
+            "end_time": 2132.47,
+            "text": "¿Qué pasó?  ¿Qué pasó? ",
+            "cosine_dist": 0.8891969344687686,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2132.49,
+            "end_time": 2134.352,
+            "text": "No te vayas, por favor, no te vayas. ",
+            "cosine_dist": 0.8675124128082441,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2134.392,
+            "end_time": 2143.078,
+            "text": "No lo hagas sentir incómodo que se levante y se va tipo bebé.  A veces la vida mediática hace ruido sobre la vida, digamos... ",
+            "cosine_dist": 0.5316408195389382,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 2143.118,
+            "end_time": 2147.001,
+            "text": "Amorosa, amorosa, claro.  ¿Y vos dijiste algo por la tele y ella dijo con vos? ",
+            "cosine_dist": 0.8338429525081845,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2147.181,
+            "end_time": 2161.293,
+            "text": "No, lo que pasa es que a veces tenés la sensación de que pasan algunas cosas en la televisión que no son como se ven.  Entonces, digamos... Y eso a veces genera ruido.  Y bueno... cuando genera ruido. ",
+            "cosine_dist": 0.4682953098727346,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2161.353,
+            "end_time": 2168.856,
+            "text": "Rolando, toda una vida en los medios.  ¿A vos te pasó que alguna pareja se ponga celosa o que le moleste tu carrera, tus luces, tu fama? ",
+            "cosine_dist": 0.8574130324653195,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2169.237,
+            "end_time": 2189.625,
+            "text": "Siempre.  Si vos has publicado libros, yo publiqué quince.  O si hablas por radio o en la tele, lo que digas, un detalle, una mujer sensible, de repente le cae mal y vos no te das cuenta de... ",
+            "cosine_dist": 0.6341002599441441,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2190465,
+            "end_time": 2190685,
+            "text": "Claro. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2191.325,
+            "end_time": 2198.249,
+            "text": "De que dijiste o escribiste algo que puede ofender.  Bueno, sí. ",
+            "cosine_dist": 0.6243123341466833,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2198529,
+            "end_time": 2199009,
+            "text": "¿Te pasó? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2199.409,
+            "end_time": 2200.89,
+            "text": "¿Y cómo se arregla?  Pasa, pasa. ",
+            "cosine_dist": 0.9016558433139762,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2200.93,
+            "end_time": 2201.65,
+            "text": "¿Cómo se arregla? ",
+            "cosine_dist": 0.9440731158667394,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2202.751,
+            "end_time": 2204.311,
+            "text": "Mirá, cuando sos joven, en la cama. ",
+            "cosine_dist": 0.8601960100101848,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2206332,
+            "end_time": 2206632,
+            "text": "Claro. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2207.132,
+            "end_time": 2208.873,
+            "text": "Cuando sos grande, no se arregla. ",
+            "cosine_dist": 0.7640827418041418,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2209.293,
+            "end_time": 2210.554,
+            "text": "¿Estás con Martita vos ahora? ",
+            "cosine_dist": 0.8713717844153599,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2211054,
+            "end_time": 2211334,
+            "text": "Sí. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2212.035,
+            "end_time": 2217.537,
+            "text": "¿Y cómo es esta etapa de ustedes que tuvieron ya toda una primera etapa? ",
+            "cosine_dist": 0.9088646762991153,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2217.557,
+            "end_time": 2219.378,
+            "text": "Esa es la etapa de la vejez. ",
+            "cosine_dist": 0.759053122417578,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2221.312,
+            "end_time": 2222.533,
+            "text": "¿Y por qué volvieron a elegirse? ",
+            "cosine_dist": 0.9643627254698831,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2222.993,
+            "end_time": 2226.995,
+            "text": "Ah, qué sé yo. ",
+            "cosine_dist": 0.8093627495040763,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 2228.356,
+            "end_time": 2232.698,
+            "text": "Me parece que cuando vuelvas a tu casa, Matita te da la salida, como le pasó a mi ley. ",
+            "cosine_dist": 1.0451792022459738,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2232.778,
+            "end_time": 2237.38,
+            "text": "Son una pareja emblemática, ¿no?  Que son muy queridos.  ¿Cuántos años juntos? ",
+            "cosine_dist": 0.8811977696711883,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2238.561,
+            "end_time": 2245.064,
+            "text": "Como treinta.  Pero hemos tenido un paréntesis largo, de ocho años. ",
+            "cosine_dist": 0.6978863415490313,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2245.084,
+            "end_time": 2247.585,
+            "text": "¿Y volvieron a estar juntos? ",
+            "cosine_dist": 0.9086448462387355,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2248906,
+            "end_time": 2248986,
+            "text": "Sí. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2249.705,
+            "end_time": 2251.926,
+            "text": "No sabes por qué todavía.  Lo estás pensando. ",
+            "cosine_dist": 0.949907410495574,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2251.946,
+            "end_time": 2253.826,
+            "text": "No sé por qué ni hasta cuándo. ",
+            "cosine_dist": 0.6946995915727348,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2254.846,
+            "end_time": 2259.948,
+            "text": "Nunca.  El hasta cuándo nunca se sabe, ¿o no?  No.  ¿Tu pareja más larga de cuánto fue, Javier? ",
+            "cosine_dist": 0.8637116192355145,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2261568,
+            "end_time": 2262088,
+            "text": "Dos años. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2263.629,
+            "end_time": 2264.509,
+            "text": "Aguantaste un montón. ",
+            "cosine_dist": 1.0469357373923136,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2265.369,
+            "end_time": 2268.51,
+            "text": "Fú, tal cual.  Dada la volatilidad que yo tengo. ",
+            "cosine_dist": 0.7389174909213541,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2268.53,
+            "end_time": 2271.651,
+            "text": "¿Y lo quería Conan?  ¿Lo aceptaba Conan? ",
+            "cosine_dist": 0.9663224310089197,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2271.691,
+            "end_time": 2278.973,
+            "text": "Sí.  Sí, eso es un... Es un claro, digamos... Es un pasa-no-pasa eso, ¿no? ",
+            "cosine_dist": 0.6277240346229177,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2279.429,
+            "end_time": 2288.334,
+            "text": "Tenemos que hablar del episodio de Salta.  Tenemos que hablar de este episodio que vos estuviste en todos lados por el exabrupto.  ¿Querés que lo recordemos? ",
+            "cosine_dist": 0.8833695705645721,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2290.055,
+            "end_time": 2299.866,
+            "text": "Me parece que no viene al caso.  Lo que sí puedo decir es que yo reconozco que estuve mal.  Yo acabo de declarar en Salta, recientemente. ",
+            "cosine_dist": 0.48773283438625237,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 2300.446,
+            "end_time": 2301.927,
+            "text": "¿Tuviste que volver a Salta?  Sí. ",
+            "cosine_dist": 0.8189587240136572,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2303.948,
+            "end_time": 2325.529,
+            "text": "Y la causa se bajó porque no hay algo que constituya ni violencia ni violencia de género.  Pero al margen de esa cuestión, porque, a ver, yo, de vuelta, es inapelable, me equivoqué.  Pido disculpas por eso, lo hice públicamente, lo hice formalmente. ",
+            "cosine_dist": 0.4126445856493971,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2325.97,
+            "end_time": 2334.355,
+            "text": "Javier, solamente aclaro esto.  Vos no querés ver el tape, así que no lo vamos a hacer para que no te sientas incómodo, pero está acompañando lo que estás contando.  Le dijiste, la trataste de burra a una periodista. ",
+            "cosine_dist": 1.0090393016166685,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2334.375,
+            "end_time": 2335.175,
+            "text": "Bueno, pero por eso... ",
+            "cosine_dist": 0.8124732158504443,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2335.435,
+            "end_time": 2336.276,
+            "text": "Para aquellos que no saben. ",
+            "cosine_dist": 0.9787342018266565,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2336.316,
+            "end_time": 2382.823,
+            "text": "O sea, yo lo que digo es... A ver, primero lo que tiene que quedar claro es que... no hubo violencia de género, porque así como se lo digo a un hombre, se lo digo a una mujer, y eso se conoce públicamente.  Pero lo que está mal son mis modos, y por ende los tengo que corregir, y acepto mi error, o sea, ni siquiera te lo contextualizo ni nada, porque acá lo que importa es que yo reconozco que mis modos han sido equivocados y que los voy a corregir y que yo no intenté ofender.  Y como evidentemente sí ofendí, pedí disculpas.  Lo hice públicamente y formalmente. ",
+            "cosine_dist": 0.37875870868734185,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2382.843,
+            "end_time": 2384.024,
+            "text": "¿Vos sos apasionado, Rolando? ",
+            "cosine_dist": 0.9334092762510515,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2384804,
+            "end_time": 2385064,
+            "text": "Sí. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2386.185,
+            "end_time": 2404.798,
+            "text": "Sí, yo creo que sé amar y me gusta.  Me gusta vivir en pareja.  Y adoro a las mujeres.  Me gusta verlas, mirarlas, mimarlas, complacerlas. ",
+            "cosine_dist": 0.7272409270300777,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2406.02,
+            "end_time": 2407.423,
+            "text": "¿Qué ves que cambió? ",
+            "cosine_dist": 0.9707466416329169,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 2407.564,
+            "end_time": 2411.635,
+            "text": "Por otra parte, leí en alguna declaración que vos te reconocías machista. ",
+            "cosine_dist": 0.8222444620663764,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2412.193,
+            "end_time": 2424.18,
+            "text": "¿Qué voy a hacer machista?  Lo que pasa es que nuestro país, aunque no se dan cuenta los argentinos hoy día, es feminista paroxístico.  Es el país más feminista del mundo. ",
+            "cosine_dist": 0.6243283155223694,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2424.62,
+            "end_time": 2425.52,
+            "text": "¿Por qué?  ¿A ver en qué? ",
+            "cosine_dist": 0.9614206276897511,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2425.72,
+            "end_time": 2430.743,
+            "text": "Porque hay una campaña generalizada y un estado de conciencia generalizado. ",
+            "cosine_dist": 0.7162600751251262,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2430963,
+            "end_time": 2431243,
+            "text": "Sí. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2431.584,
+            "end_time": 2442.429,
+            "text": "En el sentido de que las mujeres deben ser obedecidas, respetadas, veneradas, no tocadas, bueno... ¿Te parece?  El hombre se convierte en una especie de unuco. ",
+            "cosine_dist": 0.6556817743416102,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2442.469,
+            "end_time": 2461.894,
+            "text": "¿Te parece?  ¿Y por qué las mujeres ganamos menos haciendo lo mismo en un trabajo?  ¿Por qué las mujeres tenemos situaciones de violencia o van en el tren a la mañana y las toca un tipo?  No, bueno, eso es un delito.  Te estoy contando situaciones que suceden y que son reales.  ¿Y por qué las mujeres ganamos menos?  Hay un porcentaje.  Haciendo lo mismo. ",
+            "cosine_dist": 0.8736725910532751,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2461.954,
+            "end_time": 2462.754,
+            "text": "No, eso es falso. ",
+            "cosine_dist": 0.733523156333493,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2463.294,
+            "end_time": 2464.295,
+            "text": "No, no es falso. ",
+            "cosine_dist": 0.9064644579300998,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2464.315,
+            "end_time": 2472.559,
+            "text": "No, eso es falso.  En un mercado que es libre, ¿sabes qué?  No hay discriminación.  Primer punto.  O sea, las diferencias... O sea, porque en el fondo, suponete... ",
+            "cosine_dist": 0.4639463651941993,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2472.599,
+            "end_time": 2475.541,
+            "text": "No, pero estamos hablando del mismo puesto de trabajo.  No, pero es que ese es el punto. ",
+            "cosine_dist": 0.8801894185658266,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2475.861,
+            "end_time": 2503.114,
+            "text": "Cuando vos segmentás y empezás a discriminar, digamos, por tipo de formación, por tipo de trabajo, cuando vos empezás a hacer eso, esa diferencia se evapora.  Se evapora, pero se evapora.  Es decir, el problema es, digamos... Mirá, hay un dicho que es buenísimo.  Dice... Las estadísticas son como la bikini.  Lo que importa es importante, pero lo que oculta es fundamental. ",
+            "cosine_dist": 0.3469872211713537,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2504.07,
+            "end_time": 2506.991,
+            "text": "Claro.  Bueno, esto es igual.  O sea, no le crees a las estadísticas. ",
+            "cosine_dist": 0.8135278000931245,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2507.031,
+            "end_time": 2509.611,
+            "text": "No, no, no, no es que no le creo a las estadísticas. ",
+            "cosine_dist": 0.6399450575628888,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2509.631,
+            "end_time": 2511.032,
+            "text": "Y si estás diciendo que lo que importa no se ve. ",
+            "cosine_dist": 0.9253057490638181,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2511.372,
+            "end_time": 2536.127,
+            "text": "No, no, lo que vos tenés que siempre mirar es qué indicador estás usando y cómo está armado.  Entonces, ¿qué es lo que pasa?  Cuando vos esos indicadores,  ¿sí?,  lo empezás a segmentar,  ¿sí?,  por tipo... Porque suponete lo siguiente.  No sé, vos tenés una remuneración X y yo tengo una remuneración Y. Entonces voy a decir, no, la remuneración es distinta.  Ahora, sucede que vos te dedicas al periodismo, yo me dedico a economía. ",
+            "cosine_dist": 0.33289797381946074,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2536.428,
+            "end_time": 2540.312,
+            "text": "No, pero por supuesto estamos haciendo la comparación de dos personas que trabajan en lo mismo. ",
+            "cosine_dist": 0.9073372848187882,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2540.352,
+            "end_time": 2560.413,
+            "text": "No, es que justamente es el punto ese.  Cuando vos... las estadísticas, las empezás a ampliar y las pones en estos términos, la discriminación se evapora.  Y te lo voy a decir así, ¿vos qué creés?  ¿Que un empresario quiere ganar más o ganar menos?  Más.  Ok, entonces mirá.  si las mujeres verdaderamente ganaran menos, tendrían que contratar todas mujeres, van a ganar más plata. ",
+            "cosine_dist": 0.4005885505234208,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2560.433,
+            "end_time": 2569.701,
+            "text": "Pero las mujeres tenemos hijos, las mujeres tenemos otras cuestiones que no son convenientes muchas veces.  Bueno, a ver.  Ay, me encanta pelearme con mi ley. ",
+            "cosine_dist": 0.7205914376379737,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2570.241,
+            "end_time": 2574.582,
+            "text": "Pero el punto es, o sea, y que, digamos, y tus decisiones personales... ",
+            "cosine_dist": 0.5924855188091659,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2574.602,
+            "end_time": 2578.443,
+            "text": "Para un empresario es más conveniente contratar un hombre, porque no tienen hijos. ",
+            "cosine_dist": 0.913340498239233,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2578.483,
+            "end_time": 2580.484,
+            "text": "Bueno, ahora... ",
+            "cosine_dist": 0.817463417838941,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2580.564,
+            "end_time": 2582.264,
+            "text": "Sí, tienen, pero tienen dos días o tres días. ",
+            "cosine_dist": 0.9657902388931197,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2582.324,
+            "end_time": 2589.447,
+            "text": "Entonces, a ver, si vos vas a estar... A ver, si vos tenés menos horas en el trabajo que otra persona, digamos, ¿qué pretendés, ganar lo mismo? ",
+            "cosine_dist": 0.432395431390873,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2590.527,
+            "end_time": 2595.509,
+            "text": "No, menos horas no.  Estamos hablando de la misma carga horaria y de la misma responsabilidad. ",
+            "cosine_dist": 0.8363246966846744,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2595.87,
+            "end_time": 2624.911,
+            "text": "Las estadísticas y los estudios lo dicen, no lo digo yo.  Lo que hay que hacer, hay que mirar las cosas, no solo la superficialidad.  Vos tenés que mirar qué es lo que hay abajo.  Y cuando vos empezás a hacer esas correcciones, las diferencias desaparecen.  Mirá que el hecho, este libro de Gary Becker, que es su tesis doctoral, fue hecho a finales de los cincuenta.  Creo que es de mil nueve cincuenta y ocho, si no me equivoco.  Y ya en esa época él encontraba que no había diferencia.  Y te estoy hablando... ",
+            "cosine_dist": 0.3900436857977595,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2624.951,
+            "end_time": 2625.612,
+            "text": "Cambió mucho. ",
+            "cosine_dist": 0.9228195172790734,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2625.912,
+            "end_time": 2640.475,
+            "text": "Pero para mejor, no para peor.  Y entonces, digamos, la situación... Entonces, ¿sabés qué?  Siempre, como decía Milton Friedman, primero los datos.  Y los datos vos los tenés que... Vos no podés vivir mirando los datos por arriba.  Hay que agarrar y meterse adentro. ",
+            "cosine_dist": 0.4060003780188106,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2640.495,
+            "end_time": 2642.115,
+            "text": "Yo no estoy de acuerdo y respeto la opinión de él. ",
+            "cosine_dist": 0.9335638213472192,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 2642.535,
+            "end_time": 2657.477,
+            "text": "Ahí, me parece muy bien.  No estoy de acuerdo.  Y superando un poco las encuestas, ¿vos cómo ves, Rolando, el mapa este que se plantea entre machismo y feminismo, patriarcado, en retirada?  ¿Cómo lo podrías describir?  ¿Cómo estamos en la Argentina? ",
+            "cosine_dist": 0.815751377320008,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2660.44,
+            "end_time": 2676.991,
+            "text": "Yo me atrevo porque me lo preguntás vos.  Yo creo que la Argentina es un país feminista, extremista, en este momento.  El mundo tiene una tendencia feminista y la Argentina es uno de los países más feministas que yo conozco. ",
+            "cosine_dist": 0.6551427361794997,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 2677.791,
+            "end_time": 2678.532,
+            "text": "¿En qué lo notás? ",
+            "cosine_dist": 1.0041938207297287,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2678.832,
+            "end_time": 2684.336,
+            "text": "El machismo no existe.  No es que se esté bien o mal. ",
+            "cosine_dist": 0.6699364536751843,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2684.817,
+            "end_time": 2691.542,
+            "text": "No existe.  Pero Rolando, ¿en qué notas ese feminismo exacerbado que decís?  ¿En qué lo notas en la vida cotidiana? ",
+            "cosine_dist": 0.8471129571524791,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2691.962,
+            "end_time": 2710.857,
+            "text": "Bueno, por empezar en los medios.  Por empezar en los medios.  Por seguir en el trato cotidiano de los hombres con las mujeres y mujeres con los hombres.  Las mujeres son de una gran agresividad.  Por ejemplo, vos en este momento estás desempeñando un papel muy agresivo. ",
+            "cosine_dist": 0.5851604672202838,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2711.4,
+            "end_time": 2713.501,
+            "text": "No, yo dije, no estoy de acuerdo. ",
+            "cosine_dist": 0.9228463787154878,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2713.741,
+            "end_time": 2718.444,
+            "text": "Estás discutiendo con el envidado, que te dice su opinión sobre el mercado real. ",
+            "cosine_dist": 0.7216319988586165,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2718484,
+            "end_time": 2718824,
+            "text": "Sí. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2719.785,
+            "end_time": 2726.288,
+            "text": "Y lo discutís.  Y a mí me discutís cuando digo que, mirá, yo opino que es un país feminista, ¿ok? ",
+            "cosine_dist": 0.6411545126725933,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2726.669,
+            "end_time": 2736.134,
+            "text": "Perfecto, es tu opinión, yo no vengo acá a pelearme con nadie, es simplemente que cada uno piensa lo que le parece.  Y por eso, ustedes son los entrevistados y son los protagonistas de esto. ",
+            "cosine_dist": 0.89328942746096,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2736.534,
+            "end_time": 2738.216,
+            "text": "Bueno, yo digo que en el trato de la mujer con el hombre. ",
+            "cosine_dist": 0.8204560037616673,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2738.236,
+            "end_time": 2740.017,
+            "text": "Ahí encontrás la explicación de por qué siempre esto. ",
+            "cosine_dist": 0.6896086136855937,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2740.037,
+            "end_time": 2741.579,
+            "text": "Llega el momento de hacer una pausa. ",
+            "cosine_dist": 0.9000559223059702,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2741.599,
+            "end_time": 2770.409,
+            "text": "Estamos para el corte y luego vamos a comer algo lindo.  Feliz.  Qué rico.  ¿La pasaron bien?  ¿Cómo la estás pasando hasta?  ahora? ",
+            "cosine_dist": 0.8523143017791072,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 2771.21,
+            "end_time": 2772.591,
+            "text": "Hasta el momento vamos bien. ",
+            "cosine_dist": 1.0270495948181753,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2772.611,
+            "end_time": 2775.893,
+            "text": "¿Qué te dice la preferencia revelada?  Que estoy sentado acá. ",
+            "cosine_dist": 0.6117008491531114,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2776.213,
+            "end_time": 2778.555,
+            "text": "Claro, sí, nos cantaste y todo. ",
+            "cosine_dist": 0.9866621377373006,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2778.635,
+            "end_time": 2780.036,
+            "text": "Entonces, ¿qué opinas? ",
+            "cosine_dist": 0.8543673438414011,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2780.076,
+            "end_time": 2781.117,
+            "text": "Señor Malnati, por favor. ",
+            "cosine_dist": 0.9170271776256478,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 2781.906,
+            "end_time": 2792.43,
+            "text": "Sí, señor Malnati, ¿qué está haciendo?  Tengo el libro de Lani, Los Arpados, después vamos a hablar.  ¿Lo leíste vos?  Sí, claro, es la generación de Lani. ",
+            "cosine_dist": 0.8521838718514291,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2792.59,
+            "end_time": 2793.89,
+            "text": "Malnati sabe todo, lee todo. ",
+            "cosine_dist": 0.9812808707909542,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 2793.91,
+            "end_time": 2799.112,
+            "text": "Pero bueno, nos vas a contar ahora.  Pero tengo también los encargos de comida que ustedes han solicitado. ",
+            "cosine_dist": 0.9027956804172652,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2800.012,
+            "end_time": 2801.092,
+            "text": "Estuvo cocinando Malnati. ",
+            "cosine_dist": 0.972872699810101,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2801.132,
+            "end_time": 2802.553,
+            "text": "Claro, no, porque decimos... ",
+            "cosine_dist": 0.7871527825364901,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2802.573,
+            "end_time": 2804.214,
+            "text": "Está desde el viernes a la tarde cocinando. ",
+            "cosine_dist": 0.9222611509985035,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 2804.254,
+            "end_time": 2812.598,
+            "text": "Nuestra superproducción, cuando los contactan, ¿qué les dicen?  ¿Qué quieren comer y qué quieren beber?  ¿No es cierto?  Así es.  ¿Eso sí o no?  Sí.  Bueno, por eso.  Entonces... ",
+            "cosine_dist": 0.7982564519314097,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2813059,
+            "end_time": 2813600,
+            "text": "Muy bien. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2813.64,
+            "end_time": 2817.207,
+            "text": "¿Por dónde empezamos?  Me acuerdo de esa parte.  Pidió... ",
+            "cosine_dist": 0.8075865537947142,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2817.227,
+            "end_time": 2819.27,
+            "text": "Millet pidió wok.  Exactamente, así es. ",
+            "cosine_dist": 0.8381296494044406,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2819.471,
+            "end_time": 2821.154,
+            "text": "Wok de carne en este caso.  Muy bien. ",
+            "cosine_dist": 0.9343026566872629,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 2821.515,
+            "end_time": 2827.605,
+            "text": "Nos sorprendió Lani que pidió... ¿Un té?  ¿Pediste un té y una banana?  Sí. ",
+            "cosine_dist": 0.8859265806401142,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2827.945,
+            "end_time": 2829.006,
+            "text": "¿Acá?  Ah, correcto. ",
+            "cosine_dist": 0.9175912202587411,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2829.266,
+            "end_time": 2830.286,
+            "text": "¿Un té y una banana? ",
+            "cosine_dist": 0.9658971983868482,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 2830.306,
+            "end_time": 2833.288,
+            "text": "Cumplimos con lo que vos nos pedís, ¿eh? ",
+            "cosine_dist": 0.8559464859800352,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2833.328,
+            "end_time": 2834.549,
+            "text": "Básicamente es lo que... ",
+            "cosine_dist": 0.736897951645481,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 2834.589,
+            "end_time": 2836.911,
+            "text": "¿Es así?  Pará, y también tenemos esta para vos, ¿eh? ",
+            "cosine_dist": 0.8570525466704342,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2837.411,
+            "end_time": 2845.096,
+            "text": "¡Ay, qué presentación!  No nos íbamos a quedar con la bananita.  Magnati estuvo cortando las bananas toda la tarde.  Muy bien. ",
+            "cosine_dist": 0.9810049146894486,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2846.017,
+            "end_time": 2849.579,
+            "text": "Pero, ¿por qué esta alimentación, Lani?  ¿Vos te cuidás mucho? ",
+            "cosine_dist": 0.9313984452423162,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2849.599,
+            "end_time": 2852.481,
+            "text": "No, mirá, a mí me gusta comerte de noche. ",
+            "cosine_dist": 0.7824436879060878,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2853181,
+            "end_time": 2853301,
+            "text": "Sí. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2854.182,
+            "end_time": 2876.633,
+            "text": "De día me tomo una taza de té.  Yo soy hijo de ingleses, así que para mí el té es un elixir.  Y una banana, que es muy buena para los músculos.  Y ya está.  Al rato otro té y otra banana.  Y tengo más hambre, bueno, otra banana y otro té. ",
+            "cosine_dist": 0.6552320508492095,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2877.213,
+            "end_time": 2878.954,
+            "text": "¿Aguantás hasta la noche, Lani? ",
+            "cosine_dist": 0.9638404771667359,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2879.494,
+            "end_time": 2889.318,
+            "text": "A la noche como, sí.  Me gusta salir a comer afuera.  Me gusta que me sirvan buen vino.  Me gusta comer bien, pero de noche, no de día.  Bien, buenísimo. ",
+            "cosine_dist": 0.7311336831091818,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 2889.618,
+            "end_time": 2897.16,
+            "text": "Y contanos un poco de tu último libro, Los Arpados, de esta generación loca del cuarenta y cinco.  ¿Cómo son los del cuarenta y cinco? ",
+            "cosine_dist": 0.8592724382815763,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2897.201,
+            "end_time": 2898.181,
+            "text": "¿Quiénes son Los Arpados? ",
+            "cosine_dist": 0.9586999069392278,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2898.861,
+            "end_time": 2914.687,
+            "text": "Los zarpados somos nosotros, somos los que nacimos en el cuarenta y cinco, cuarenta y seis, hasta el cincuenta por ahí, y que nos tocó, en nuestra vida.  nos tocó la marihuana, los montoneros, los militares. ",
+            "cosine_dist": 0.6942144538773862,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2914.707,
+            "end_time": 2919.169,
+            "text": "La marihuana.  Otro poco más de marihuana. ",
+            "cosine_dist": 0.7260876386569645,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2919.389,
+            "end_time": 2920.329,
+            "text": "¿Javier va a estar bailando? ",
+            "cosine_dist": 1.0187535246204715,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2920.349,
+            "end_time": 2921.63,
+            "text": "No.  ¿Por qué? ",
+            "cosine_dist": 0.9596450472898691,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 2921.65,
+            "end_time": 2924.662,
+            "text": "¿Por qué?  Por un tema de plata, decilo, Milady, ¿no arreglaste? ",
+            "cosine_dist": 0.9862072882277257,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2925.122,
+            "end_time": 2929.024,
+            "text": "A ver, me parece que hacer el foco sobre la cuestión del dinero... ",
+            "cosine_dist": 0.717750524332275,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 2929.184,
+            "end_time": 2929.844,
+            "text": "¿Económica? ",
+            "cosine_dist": 1.0076322789273455,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2929.884,
+            "end_time": 2931.445,
+            "text": "Te llamaron del bailando. ",
+            "cosine_dist": 0.9247468066600939,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2931.485,
+            "end_time": 2937.447,
+            "text": "Sí, sí, me llamaron.  Yo estuve en una reunión, una reunión que verdaderamente fue muy gratificante. ",
+            "cosine_dist": 0.6416958317190127,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 2937.487,
+            "end_time": 2939.148,
+            "text": "¿Con quiénes?  ¿Con el Chato Prada? ",
+            "cosine_dist": 0.9493800830038297,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2939.168,
+            "end_time": 3028.991,
+            "text": "Sí, con Jope y con una persona más de la producción.  Fue una reunión, la verdad que estuvo muy linda la reunión, a mí me gustó mucho la reunión.  Eh... Es más, hasta en un momento me dijeron, si querés lo podés traer a Conan, con lo cual para mí eso era una cosa muy importante.  Pero el tema es el siguiente, yo a este momento de mi profesión, o si vos querés de mi popularidad, por decirlo de alguna manera, si existe tal cosa como mi popularidad, llegué desde la economía, y a fuerza de meter aciertos muy pronunciados durante los últimos años en realidad Diego desde el dos mil trece que con mi colega Diego Giacomini venimos todo el tiempo metiendo batacazos todo el tiempo.  Y bueno, llegar a este momento es básicamente por lo que hice como economista y hoy la situación de la economía argentina está muy complicada.  La verdad es que aplicar mi escaso tiempo a una actividad como el bailando, que en realidad sería algo así como un suspiro, Y correrme del centro de la escena en economía, que es verdaderamente mi pasión, es como que el costo de oportunidad es muy alto.  Es decir, si estuviéramos con una coyuntura macro mucho más holgada, tranquila y que no da para muchos problemas, habría más chances de que acepte.  En este contexto no. ",
+            "cosine_dist": 0.39427798544149095,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 3029.192,
+            "end_time": 3030.432,
+            "text": "Pero entonces no fue por la plata. ",
+            "cosine_dist": 0.7753613652907007,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3031.329,
+            "end_time": 3037.132,
+            "text": "El dinero es una cuestión de segundo orden.  O sea, en mi caso siempre la prioridad es divertirme. ",
+            "cosine_dist": 0.46788497992108424,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 3037.312,
+            "end_time": 3039.353,
+            "text": "Bien.  ¿Y la prioridad es Conan? ",
+            "cosine_dist": 0.9045970227274241,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3040.034,
+            "end_time": 3041.535,
+            "text": "Mi máxima prioridad es Conan. ",
+            "cosine_dist": 0.7991268755762868,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 3041.675,
+            "end_time": 3043.135,
+            "text": "¿Y la prioridad es pasarla bien? ",
+            "cosine_dist": 0.9016000484367807,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3043.556,
+            "end_time": 3044.236,
+            "text": "Y pasarla bien. ",
+            "cosine_dist": 0.8714408029346139,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 3044.316,
+            "end_time": 3045.117,
+            "text": "¿Y bailar también? ",
+            "cosine_dist": 0.8923600546873194,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3045.137,
+            "end_time": 3046.918,
+            "text": "No, bailar no me vas a hacer bailar ahora. ",
+            "cosine_dist": 0.7767410880455021,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 3046.958,
+            "end_time": 3050.8,
+            "text": "¿Cómo que no?  Ahora no me vas a hacer bailar.  Escuchá esta música que está sonando. ",
+            "cosine_dist": 0.9662567770854116,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3052.32,
+            "end_time": 3053.041,
+            "text": "Y mirá esta chica. ",
+            "cosine_dist": 0.9839696342564409,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3053.661,
+            "end_time": 3062.138,
+            "text": "Es el tema de los que más me gustan, de los Stones.  ¿Sos fan de los Stones?  Yo he visto a los Stones catorce veces.  Y tenía una banda stock. ",
+            "cosine_dist": 0.5718233078719814,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 3062.158,
+            "end_time": 3067.941,
+            "text": "¿Viste que esta semana dijeron que Mick era muy fan?  Porque fue a ver... Los equipos que iba a ver perdían. ",
+            "cosine_dist": 0.9229009948567644,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3068.242,
+            "end_time": 3071.904,
+            "text": "Me parece que ese tipo de reflexiones son tristes, ¿no? ",
+            "cosine_dist": 0.7238506075679507,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 3072.704,
+            "end_time": 3073.745,
+            "text": "A mí me parece lo mismo. ",
+            "cosine_dist": 1.0047083126492926,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3073.765,
+            "end_time": 3078.088,
+            "text": "Habrá ido unas cuantas veces a las canchas.  Habrá ganado el equipo de... ",
+            "cosine_dist": 0.7915578090685371,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 3078.168,
+            "end_time": 3083.732,
+            "text": "Pero, Javier, van a decir que robaste.  Tenés todo, tenés la música, tenés el escenario, tenés la tribuna. ",
+            "cosine_dist": 0.858117669502307,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 3083.772,
+            "end_time": 3085.693,
+            "text": "¿Vas a hacer teatro? ",
+            "cosine_dist": 1.0164461312401378,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3086.413,
+            "end_time": 3173.219,
+            "text": "Bueno, sí, eso sí.  Ese es un tema interesante.  Si no quiere bailar.  A ver, efectivamente sí voy a hacer teatro.  Voy a hacer una obra junto a Claudio Rico, el imitador.  Sí, el humorista.  Que además me hace una imitación fabulosa que me parece sublime.  Y Diego Zucalesca, que es el conductor del programa Cuatro Caras Bonita del Canal de la Ciudad, donde hacemos un sketch que se llama El Consultorio de Milei.  Donde, por ejemplo, él viene y, por ejemplo, se siente mal porque la gente lo acusa de especulador, de usurero.  Y yo le explico que en realidad son héroes, son personas que contribuyen al bienestar de la población.  Entonces básicamente la obra de teatro es una charla de economía y donde en la medida que voy describiendo la situación de la coyuntura va apareciendo Claudio haciendo imitaciones de distintos personajes de la vida pública.  Después tenemos una transición donde hacemos cosas del consultorio.  Y cuando terminamos, hacemos un debate que obviamente lo coordina Diego Zucalesca.  Y va a ser divertido, sobre todo cuanto más candente se ponga la economía, estimo que vamos a tener más demanda. ",
+            "cosine_dist": 0.3877173385624507,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 3173.239,
+            "end_time": 3176.381,
+            "text": "Te van a preguntar de todo, aparte de la economía en este país, que siempre estemos. ",
+            "cosine_dist": 0.9116475412676239,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3176.522,
+            "end_time": 3177.262,
+            "text": "Sí, por eso. ",
+            "cosine_dist": 0.8968497454763988,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 3178.223,
+            "end_time": 3185.147,
+            "text": "Lo bueno es que se está terminando el programa y Milady está acá.  Es decir, que la pasó bien.  Exactamente.  Sí, es verdad. ",
+            "cosine_dist": 0.8371776403088117,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3185.167,
+            "end_time": 3188.829,
+            "text": "Me parece que la revelación quedó.  Quedó, quedó. ",
+            "cosine_dist": 0.7652576111662303,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 3188.849,
+            "end_time": 3194.973,
+            "text": "Quizás sea el momento entonces para el brindis final.  Y queremos agradecerle mucho que hayan estado ustedes hoy acá. ",
+            "cosine_dist": 0.9082987921061417,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3194.993,
+            "end_time": 3196.494,
+            "text": "El agradecido soy yo. ",
+            "cosine_dist": 0.6828627540657246,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 3197.014,
+            "end_time": 3197.714,
+            "text": "Te pones serio. ",
+            "cosine_dist": 0.855800662883575,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3197.794,
+            "end_time": 3211.243,
+            "text": "La pasaron bien.  Por el buen trato.  Y a la tribuna que tanto me ha sabido.  Gracias.  cantante de ópera.  además cantante de ópera todo hizo Javier Milei.  gracias gracias a ustedes Rolando Hanglin. ",
+            "cosine_dist": 0.7407234932416136,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 3211.363,
+            "end_time": 3213.846,
+            "text": "Javier Milei acá con nosotros en Tiene la Palabra gracias. ",
+            "cosine_dist": 0.9765634177683831,
+            "is_target_speaker": false
+        }
+    ]
+}

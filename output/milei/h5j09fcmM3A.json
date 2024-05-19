@@ -1,0 +1,847 @@
+{
+    "Index": 316,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "h5j09fcmM3A",
+    "url": "https://www.youtube.com/watch?v=h5j09fcmM3A",
+    "title": "\"LARRETA ES DÉBIL EMOCIONALMENTE\" - Javier Milei en TN 22/10/2021",
+    "duration": 2291.0,
+    "view_count": 77798,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 0",
+            "start_time": 0.14,
+            "end_time": 11.232,
+            "text": "Yo le diría que si él, digamos, verdaderamente tiene vocación presidencial, me parece que con semejante debilidad emocional que tanto lo afecte algunas palabras fuertes, digo, por favor, digamos que reconsidere. ",
+            "cosine_dist": 0.336944136878478,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 11.412,
+            "end_time": 19.994,
+            "text": "Bueno, ya llegó Javier Milei.  Si enseguida me voy a sentar con Javier Milei, entrevista en TN Central.  Igualmente ya lo saludamos.  Javier, buenas tardes.  Gracias por haber venido. ",
+            "cosine_dist": 0.9432530140170812,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 20.355,
+            "end_time": 22.275,
+            "text": "¿Qué tal, Franco?  Un gusto enorme estar aquí. ",
+            "cosine_dist": 0.8450464152525634,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 22.475,
+            "end_time": 24.156,
+            "text": "Feliz cumpleaños, ¿no?  Hoy está cumpliendo años. ",
+            "cosine_dist": 1.012685857158239,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 24.396,
+            "end_time": 25.916,
+            "text": "Efectivamente, hoy es mi cumpleaños. ",
+            "cosine_dist": 0.7865425308693235,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 26.056,
+            "end_time": 35.464,
+            "text": "Feliz cumpleaños, Javier Milei.  Después le vamos a preguntar.  ¿Vio esto de la Patagonia?  ¿Tiene una mirada más allá de que sea candidato en la ciudad de Buenos Aires? ",
+            "cosine_dist": 0.889379086711147,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 35.484,
+            "end_time": 75.59,
+            "text": "Sí, absolutamente.  Y me parece que el análisis que vos estabas haciendo, Franco, era absolutamente correcto.  Supongamos que fueran pueblos verdaderamente originarios, que las personas que están haciendo fueran verdaderamente pueblos originarios, que hubiera algún reclamo justo.  Eso, aún suponiendo todo eso, no amerita todos los otros delitos que están cometiendo.  Por lo tanto, es decir, es estar mezclando peras con bananas.  Y la realidad es que... El Estado, como mínima función, si se acepta la existencia del Estado, es que se ocupe de la seguridad y justicia.  Y quiere decir que este Estado está tan fallido que ni siquiera se hace cargo de las cuestiones de seguridad y justicia, desde mi punto de vista es gravísimo. ",
+            "cosine_dist": 0.36217727554065515,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 76.437,
+            "end_time": 96.58,
+            "text": "Enseguida nos sentamos con Javier Milei, hablamos obviamente de los libertarios, de la campaña en la ciudad de Buenos Aires, de Horacio Rodríguez Larreta también, que estuvo ayer con nosotros.  Enseguida se lo preguntamos todo a Javier Milei.  Y también de economía, ¿sí?  En un ratito, porque Sofi nos va a contar qué está pasando justamente con la economía, Sofi, y con el dólar blue que ha explotado hoy también, llegando al récord,  ¿no?,  del año pasado. ",
+            "cosine_dist": 0.8206610604714144,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 96.94,
+            "end_time": 108.006,
+            "text": "Claro, empató, digamos, lo que fue el máximo de octubre de dos mil veinte.  Un veintitrés de octubre de dos mil veinte llegó a ciento noventa y cinco y hoy también llegó a esos ciento noventa y cinco. ",
+            "cosine_dist": 0.9410362334802236,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 108.266,
+            "end_time": 112.428,
+            "text": "Todos sabemos que el dólar en Argentina nunca es barato, ¿no?  Eso es lo terrible de esta historia, ¿o no? ",
+            "cosine_dist": 0.7876399819361537,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 112748,
+            "end_time": 113248,
+            "text": "Nunca es barato. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 113.269,
+            "end_time": 113.909,
+            "text": "Nunca es barato. ",
+            "cosine_dist": 0.8892447545277993,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 113.929,
+            "end_time": 115.49,
+            "text": "Nunca es barato, pero te voy a dar un dato que te va... ",
+            "cosine_dist": 1.0660833708122042,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 115.51,
+            "end_time": 119.594,
+            "text": "No conozco a nadie que haya perdido, digamos, que haya ahorrado, no les haya perdido.  No existe eso en la Argentina. ",
+            "cosine_dist": 0.8469645147008342,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 119.614,
+            "end_time": 123.818,
+            "text": "No, totalmente.  Pero te voy a dar un dato que te va a terminar de devastar, Franco.  Lamento decírtelo. ",
+            "cosine_dist": 0.9495448321758154,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 123.898,
+            "end_time": 127.401,
+            "text": "No, no que es viernes.  Piedad.  No que es el cumpleaños de mi ley hoy. ",
+            "cosine_dist": 0.9372557331813556,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 127.621,
+            "end_time": 157.747,
+            "text": "Nada de piedad, nada de piedad, nada de piedad.  A ver... De octubre de dos mil veinte a octubre de dos mil veintiuno, no tenemos el dato oficial de inflación, pero seguramente la inflación interanual supere el cincuenta por ciento.  Entonces, los ciento noventa y cinco de antes no son los ciento noventa y cinco de ahora.  Escuchen este dato del economista Fernando Marul.  Si vos quisieras tocar esos ciento noventa y cinco actualizado por inflación y por todo lo que pasó en el mercado cambiario, hoy deberíamos estar hablando de doscientos cuarenta y tres pesos. ",
+            "cosine_dist": 0.9529251593560429,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 158.088,
+            "end_time": 160.095,
+            "text": "Bueno, mirá esta imagen, por favor. ",
+            "cosine_dist": 0.9001552767653892,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 160.115,
+            "end_time": 162.464,
+            "text": "El hit de la cámpora. ",
+            "cosine_dist": 0.910823258137959,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 185.248,
+            "end_time": 252.426,
+            "text": "Bueno, ahí está el hit de la Cámpora que se difunde por estas horas con Cristina como protagonista y con un mensaje también como protagonista, es este que estás viendo ahora.  No le vamos a pagar al Fondo Monetario Internacional, como canta en este encuentro de la juventud y la Cámpora, ¿no?  En busca del voto joven, máximo protagonista, y lo veías, y Cristina Quiebra.  Pobre Guzmán.  Un man se va, viene, va, viene para hablar con el fondo y explicarle que quiere acordar.  Pero Cristina y Máximo se muestran hoy liderando este espacio y buscando también este voto joven.  Ahí está.  Y Cristina con el pueblo va a estar.  Es el mensaje que se está mandando.  Es un video de ahora, de estas horas.  Ahora vamos a preguntar también a Javier Milei sobre la juventud, sobre el voto joven.  Y, por supuesto, también sobre el Fondo Monetario Internacional.  Bueno, el hit de la cámpora.  ¿Qué tal?  Ya estamos con Javier Milei.  Javier, gracias por haber venido.  Feliz cumpleaños, además, nuevamente. ",
+            "cosine_dist": 0.8979406092892515,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 252.986,
+            "end_time": 254.747,
+            "text": "¿Qué tal, Franco?  Un gusto enorme estar aquí. ",
+            "cosine_dist": 0.7268288630986723,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 255.067,
+            "end_time": 259.309,
+            "text": "Bueno, para los políticos no hay día de cumpleaños o a la noche vas a cenar en familia o alguna... ",
+            "cosine_dist": 0.9721372618194011,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 259.409,
+            "end_time": 260.548,
+            "text": "Voy a cenar con mi familia. ",
+            "cosine_dist": 0.7558197071887861,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 260.988,
+            "end_time": 279.437,
+            "text": "Sí, vas a cenar con la familia.  Bueno, arrancamos por la economía.  ¿Te parece?  Recién veíamos algunas imágenes de lo que plantea el gobierno y un dólar además que se va disparando el dólar blue.  ¿Vos cómo estás viendo el accionar de la economía en este momento, no solamente respecto a los precios congelados, sino a la suba que tuvimos en este final de semana? ",
+            "cosine_dist": 0.9174672966709676,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 280.037,
+            "end_time": 303.089,
+            "text": "Yo analizo la situación por la cual está atravesando la Argentina, no solo en lo coyuntural, sino en lo estructural.  Y eso lo pongo, con el programa que están impulsando ahora y con lo que vos mostraste del video, de la cámpora, te diría que el rodrigazo va a quedar minúsculo. ",
+            "cosine_dist": 0.4248546970243058,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 304.891,
+            "end_time": 305.891,
+            "text": "¿Por qué decís? ",
+            "cosine_dist": 0.9952266012429206,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 306.512,
+            "end_time": 405.522,
+            "text": "A ver, vamos por partes.  Argentina el año pasado cerró con un desequilibrio fiscal propio de las grandes crisis de la historia argentina.  Por ejemplo, el rodrigazo fue con catorce, la tablita cambiaría con once... La hiperinflación del Fonsín con ocho, el quiebre de la convertibilidad con siete.  El año pasado, si vos tomás nación, provincias, municipios y banco central, fue once.  Por más que este año quisieran ajustar un poco, cumpliendo el presupuesto, que tampoco es que ajustaron mucho, en realidad tiene estacionaría las cuentas fiscales.  Bueno, cuando vos consideras eso, el déficit consolidado sería de ocho.  O sea, seguimos en zona de peligro.  El problema es además cómo lo vas a financiar.  ¿Qué lo vas a financiar con emisión monetaria?  Dinero que nadie quiere.  Entonces, tenés, bruto desequilibrio fiscal.  Tenés un tremendo desequilibrio monetario.  El desequilibrio monetario, vos tenés una base monetaria, que es el dinero que imprimió el Banco Central, tenés una base monetaria y media guardada en el ICCS y PASES, que eso, digamos, si la gente se asusta, se convierte en emisión monetaria muy rápidamente, porque del otro lado están los bancos teniendo estos títulos para pagarle tasa de interés a los depositantes.  Y después tenés que financiar el déficit fiscal, quiere decir que vos en un año podrías estar multiplicando la cantidad de dinero por tres veces y medias.  Y tenés un sobrante monetario respecto de lo que vos tendrías de demanda de dinero en condiciones normales, lo que hay hoy.  Que eso esté inflado porque vos tenés control de capitales, si no, no tendrías pesos encima.  Entonces, ¿qué es lo que pasa?  Esa diferencia entre lo que deberías tener y lo que hay son tres.  Tres por tres coma cinco es diez coma cinco.  Quiere decir que la inflación abajo de la alfombra que tiene Argentina hoy es novecientos cincuenta por ciento. ",
+            "cosine_dist": 0.32221667915689933,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 406.042,
+            "end_time": 407.303,
+            "text": "¿Novecientos cincuenta? ",
+            "cosine_dist": 0.8863255213909726,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 407.343,
+            "end_time": 476.897,
+            "text": "Eso es lo que tenés abajo de la alfombra.  Y eso es si vos creés que cuando se dé una crisis que va a generar tanta inflación, los agentes van a moverse de manera ordenada hacia el equilibrio.  Lo cual es un chiste, ¿no?  Está claro.  Y lo otro que vos tenés es una brecha cambiaria de cerca del cien por ciento.  pero con una cantidad de regulaciones es una montaña gigante que hace ver al monte Everest como un monte enano.  Entonces, con todo ese desequilibrio, vos tenés tres cursos de acción.  Vos podrías no hacer nada.  Ahora, si vos no hacés nada, seguís haciendo déficit fiscal.  Si vos lo seguís financiando con emisión monetaria, lo que vas a hacer es que pierda poder adquisitivo el peso, todos los precios expresados en unidades monetarias van a subir y lo que vas a tener es más presión sobre el mercado de cambios.  Ahora, ¿cómo quiere arreglar ese tema del gobierno?  ¿Con qué?  ¿Con más controles?  Si vos metés más controles, la brecha sube, o sea, el exceso de demanda sube.  ¿Y cuál es la contracara de esa?  Altas tasas de interés, digamos, deterioro en el nivel de actividad, deterioro en la demanda de trabajo, deterioro en los salarios reales, aumento de los pobres e indigentes.  Por lo tanto, digamos, eso te explota porque no lo podés bancar socialmente. ",
+            "cosine_dist": 0.281451546566728,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 476.917,
+            "end_time": 501.325,
+            "text": "Ahora, muchas veces en la Argentina hablamos de ajuste y demás, de ajuste... Yo tengo la sensación de que en este momento Argentina más se puede ajustar.  los salarios en pesos, por ejemplo, ya son los más bajos en dólares, perdón, son los más bajos de la región.  O sea, los salarios, los argentinos son los salarios más bajos que tienen en toda la región.  Ya no es comparado con Europa, con Estados Unidos, digo, nuestros países de al lado, más se puede ajustar eso. ",
+            "cosine_dist": 0.7338453560144145,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 501.565,
+            "end_time": 581.078,
+            "text": "Por eso te digo que el Rodrigazo al lado de esto va a quedar chiquitito.  Porque el rodrigazo arrancó con niveles de pobreza del cuatro por ciento, cinco por ciento.  Hoy vos arrancás con cuarenta por ciento de pobreza, si la medís en términos más estructurales, con aquellos que no acceden a luz y gas, es arriba del cincuenta.  Entonces, cuando vos te encuentres frente a la necesidad de sincerar las variables macroeconómicas, te vas a encontrar verdaderamente frente a un desastre.  Ahora, esto también es estructural, ¿no?  Porque Argentina arrancó el siglo XX siendo el país más rico del mundo, entró en la pandemia, está ahora.  De hecho, Argentina, al tipo de cambio paralelo, o sea, Argentina tiene menos ingreso per cápita que Paraguay.  O sea, Argentina hoy ya es furgón de cola de América Latina.  Entonces, la pregunta es, Frente a esta situación que si vos no hacés nada explota, está la que propone la aladura del gobierno.  ¿Qué vendría a ser algo así como, mira, tengo un incendio y voy a llamar un ejército de lanzallamas y los pongo enfrente a Nerón?  Bueno, ¿qué va a terminar ahí?  Un incendio colosal.  Y la otra es que hagas el ajuste.  El ajuste es, dado que este gobierno no tiene reputación, nada de lo que haga es creíble y va a terminar mal.  Y se va a sufrir con el ajuste.  Ahora, inexorablemente, esta economía va a ajustar. ",
+            "cosine_dist": 0.2601131061191394,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 581.118,
+            "end_time": 583.738,
+            "text": "El presidente no tiene credibilidad.  Claro, exacto. ",
+            "cosine_dist": 0.7752215657076051,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 584.559,
+            "end_time": 610.444,
+            "text": "Carece de reputación.  Pero, ¿qué es lo que sucede?  Acá lo interesante es que, dado que es un muerto político, tiene una cita con la historia de mostrar de ser un estadista.  y hacer el ajuste que la economía requiere, y que en lugar de que lo pague la gente el ajuste, que el ajuste caiga en la política.  Pero claro, él es parte de la casta política, no lo va a querer hacer.  No es incentivo compatible, entonces va a terminar volando por los aires. ",
+            "cosine_dist": 0.3316752275882593,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 610.565,
+            "end_time": 614.289,
+            "text": "¿Tenías alguna esperanza de ese Alberto moderado cuando entró al gobierno? ",
+            "cosine_dist": 0.8426939106213549,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 614.549,
+            "end_time": 638.044,
+            "text": "No, sí, yo creí que... A ver, sí tenía claro... Cuando vos lo escuchás a Alberto Fernández declarar, por ejemplo, sobre la inflación, hay declaraciones en este mismo canal donde le dice a Cristina, mire, si usted tiene un problema de inflación, no mande la cámpora a los supermercados.  De última, mande la cámpora al Banco Central que controle lo que está haciendo Marco del Pone emitiendo tanto dinero. ",
+            "cosine_dist": 0.27614888106662705,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 638.064,
+            "end_time": 640.966,
+            "text": "No recordaba eso, dijo que mande la cámpora al Banco Central.  Exactamente. ",
+            "cosine_dist": 0.8140538772648993,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 640.986,
+            "end_time": 676.295,
+            "text": "Era mi ley, entonces.  Bueno, exacto.  Ahora cuando entró, digamos, ahora, fíjate, ahora, digamos, o sea, tenemos a una reivindicación de Gelbar con Feletti.  O sea, de hecho, le vamos a cambiar el nombre, le vamos a poner José Ber Feletti, ¿no?  Digamos directamente.  O Roberto Gelbar, no sé, como quiera.  Pero... A ver, esto ya se hizo y esto ya fracasó.  Argentina, vos sabés que Argentina desde la segunda mitad del siglo en adelante siempre tuvo controles de precios, salvo en la convertibilidad. ",
+            "cosine_dist": 0.3318414575677425,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 677.235,
+            "end_time": 677.835,
+            "text": "Salvo en la convertibilidad. ",
+            "cosine_dist": 1.1360789590747347,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 678.115,
+            "end_time": 683.997,
+            "text": "Que fue el único periodo que no hubo inflación.  Entonces, el problema es cómo vos definís inflación. ",
+            "cosine_dist": 0.47555645527637413,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 684.017,
+            "end_time": 687.278,
+            "text": "¿Y vos creés económicamente que se debiera volver una convertibilidad?  ¿Que se puede hacer? ",
+            "cosine_dist": 0.8277974266298063,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 687.498,
+            "end_time": 752.648,
+            "text": "Yo soy partidario directamente de eliminar el Banco Central.  Porque la convertibilidad era una regla monetaria muy dura.  O sea, estaba fijada por ley, o sea, no es que el Banco Central era más o menos independiente.  No solo que era independiente, sino que además la regla bajo la cual emitía estaba predeterminada por ley, solamente emitía contra compra de dólares.  Ahora, mirá qué interesante.  No solo que esa regla fue muy exitosa en bajar la inflación, porque al año y medio, después de haber tenido dos hiperinflaciones, pasamos a tener la inflación más baja del mundo.  Esa regla además había mucho consenso social y además tenía todos los contratos de la economía hecho en esa regla monetaria.  Y a pesar de todo eso, y con un banco central súper independiente directamente, digamos que operaba como un autómata, aún así se lo llevaron puesto porque cuando los políticos... necesitaban gastar más y no tenían cómo financiarlo, se habían quedado sin crédito externo.  ¿Qué hicieron?  Y fueron y volvieron a la maquinita.  ¿Y qué nos dijeron?  Esta vez va a ser diferente.  Y no es diferente, siempre es igual. ",
+            "cosine_dist": 0.27358588638670156,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 752.668,
+            "end_time": 759.054,
+            "text": "Es cierto, hay que recordar eso, no fue diferente.  Sofía Terrieri quiere hacer una pregunta de economía.  Sí, claro. ",
+            "cosine_dist": 0.7512121492703063,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 759114,
+            "end_time": 759475,
+            "text": "Sofía. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 759.495,
+            "end_time": 761.116,
+            "text": "¿Qué tal, Sofía? ",
+            "cosine_dist": 0.8003477445045514,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 761.136,
+            "end_time": 767.302,
+            "text": "Si usted se hiciera cargo hoy del gobierno, en este momento, ¿qué haría con los planes sociales y las asignaciones? ",
+            "cosine_dist": 0.9983728908297022,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 767.975,
+            "end_time": 866.12,
+            "text": "Bueno, eso yo lo tengo explicado en varios libros que están publicados desde el dos mil catorce acá.  El tema de los planes sociales vos no los podés tocar instantáneamente porque vos generarías una crisis social enorme.  Vos el ajuste no lo tenés que hacer sobre la gente, porque en realidad los beneficiarios de los planes sociales son víctimas del modelo de la casta política.  O sea que no se empobrece y hay gente que la va dejando fuera del sistema y entonces se retroalimenta generando a su vez sistema clientelar.  Ahora, ¿cuál es el punto?  Entonces vos, los planes sociales... vos no se los vas a sacar a la gente, la gente los va a dejar.  ¿Y eso cómo se logra?  Se logra con crecimiento económico.  Vos para lograr crecer tenés que acumular capital.  Para acumular capital vos tenés que invertir.  Para invertir tenés que respetar los derechos de propiedad, cosa que, por ejemplo, cuando el tema de los mapuches, digamos, y de lo que está pasando, si fueran supuestamente mapuches, o sea, tendrías que vos discutir en serio, digamos, el tema de los derechos de propiedad, porque parece que acá los derechos de propiedad son flexibles, Sí, y depende, digamos, quién es el dueño del derecho.  Otra cosa es que, además, con esta presión fiscal es imposible ganar dinero, pero aun cuando vos pudieras resolver todo eso, vos tenés que financiar con ahorro.  Y cuando vos tenés, a lo largo de la historia, gobiernos que creen que esto se sale estimulando el consumo, entonces vos no ahorrás, no invertís, no creces.  Es más, mirá la atrocidad de este video que vos pusiste de la cámpora.  No le paguemos al fondo.  Ok, no le pagamos al fondo.  Si vos a un deudor... insolvente, ¿le vas a cobrar más tasa o menos tasa? ",
+            "cosine_dist": 0.2704679987948031,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 866.82,
+            "end_time": 869.082,
+            "text": "Si no tiene cómo pagarte, le vas a pagar más tasa. ",
+            "cosine_dist": 0.9615700022318963,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 869.142,
+            "end_time": 898.856,
+            "text": "Y por eso, porque el riesgo es más grande.  O sea, en el límite ya ni le prestás.  Pero, ¿cuál es la consecuencia de que vos hagas que la tasa de interés se vaya a las nubes?  Que si vos haces que la tasa de interés se vaya a las nubes... ¿Cuál es el punto?  El punto es que no hay inversión.  Si no hay inversión no se acumula capital.  Si no se acumula capital la productividad de la economía no crece, no se generan puestos de trabajo.  Están diciendo que eso lo van a generar a los jóvenes.  Lo que están diciendo es que con ese tipo de políticas los van a mandar al cadáver a los jóvenes. ",
+            "cosine_dist": 0.29042197479525056,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 898.896,
+            "end_time": 901.678,
+            "text": "De hecho sigue siendo increíble que el fondo siga prestándole dinero a la Argentina. ",
+            "cosine_dist": 0.7899125369507278,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 902.939,
+            "end_time": 973.848,
+            "text": "Bueno, a ver, Argentina cuando recibió... En general, digamos, Argentina, salvo dos veces, nunca cumplió con los acuerdos del fondo, siempre los terminó postergando, no los cumplió, siempre trató de ir a algún vericueto.  Ahora, el problema es que la situación de la economía argentina.  hoy es absolutamente inviable.  A ver, vos en la primera parte del año, hasta agosto, te entraron siete mil millones de dólares.  Hoy el Banco Central está perdiendo mil millones de dólares en el mercado, de manera directa, para sostener el dólar, y quinientos en el contado con liquido.  O sea, está perdiendo mil quinientos.  ¿Vos tomás esto de acá a diciembre?  Quiere decir que vas a perder seis mil millones.  Quiere decir que la reversión que tuviste en el flujo de dólares es de trece mil millones de dólares.  Además tenés que pagar veinticuatro mil millones de dólares el año que viene.  No, no, el año que viene veinticuatro mil millones de dólares.  Es decir, y además las reservas netas, las de verdad, cuando vos limpiás hasta la posición de oro y todo, es cero.  Es decir, con lo cual, digamos, ¿a dónde van a sacar los dólares?  ¿Se los van a robar a los depositantes?  O sea, la situación de Argentina es absolutamente delicada. ",
+            "cosine_dist": 0.29030411965426295,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 974.924,
+            "end_time": 989.308,
+            "text": "Entonces, a ver, no hay duda.  ¿Puedo poner al aire lo que mencionó Milé antes?  Porque la producción lo buscó rápidamente y yo no lo recordaba esto de Alberto Fernández con el mensaje del Banco Central.  A ver, pongámoslo desde el dos mil trece. ",
+            "cosine_dist": 0.8759630826845176,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 989748,
+            "end_time": 990309,
+            "text": "Exactamente. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 991.829,
+            "end_time": 994.99,
+            "text": "Y la solución de la inflación la presidenta se la confía a los chicos de la cámpora. ",
+            "cosine_dist": 1.0244163537617648,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 996.053,
+            "end_time": 999.975,
+            "text": "Bueno, Chico de la Cámpora no tan chico, maneja mucho resorte del Estado. ",
+            "cosine_dist": 0.8046812022769745,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1000.015,
+            "end_time": 1004.096,
+            "text": "Sí, bueno, pero finalmente no son ellos los que tienen que resolver el problema inflacionario. ",
+            "cosine_dist": 1.0142862602523144,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1004.116,
+            "end_time": 1005.177,
+            "text": "¿Y quién es? ",
+            "cosine_dist": 1.0828503436699508,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1005.197,
+            "end_time": 1058.949,
+            "text": "El problema inflacionario ni siquiera es un problema.  La presidenta percibe que tirando la cantidad de dinero que ha puesto ayer en el mercado en favor de los planes sociales, va a haber lo que siempre ocurre, un aumento de la demanda, una retracción de la oferta y un incremento de los precios.  Entonces, ¿cómo lo resuelve?  Lo resuelve mandando a los chicos de la Cámpora, a los militantes de la Cámpora, a controlar a los comercios.  Pero, Presidenta, dígale a Moreno que deje de arreglar con los supermercados, que es donde hay un problema.  Y además, hable con Mercedes Marco del Pon, porque el problema es que usted no tiene en cuenta la cantidad de dinero que ha emitido y que no ha tenido respaldo, y eso ha sido una causa generadora de inflación enorme.  ¿Por qué no manda a los gente de la Cambora a controlar el Banco Central?  ¿Y cómo emite el Banco Central?  Por ahí se lo cuentan, por ahí no.  Pero lo que digo es que finalmente el mayor problema que tiene la economía argentina, la Presidenta lo resuelve mandando brigadas de... ",
+            "cosine_dist": 0.9530673630142544,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1059.13,
+            "end_time": 1064.914,
+            "text": "Es tremendo, Olvido.  Primero, me amarga mucho saber que estamos discutiendo lo mismo en el dos mil veintiuno.  Me amarga... ",
+            "cosine_dist": 0.8374294753357149,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1065.194,
+            "end_time": 1098.741,
+            "text": "Pero estás enfrente de un tipo que es un inmoral.  El Presidente es un inmoral, es un hipócrita.  Así como es un inmoral porque nos encerró mientras que él estaba de joda... Es un inmoral porque cuando estaba fuera del gobierno la inflación era un fenómeno monetario y ahora es un problema de los malditos empresarios que fijan los precios a Piacheri.  Es un desparate.  En realidad la inflación es siempre y en todo lugar un fenómeno monetario.  Es más, hay un libro que se llama Cuatro mil años de controles de precios y salarios.  El subtítulo es ¿Cómo no combatir la inflación?  De hecho la última edición en español está prologada por mí.  Desde el dos mil ochocientos... ",
+            "cosine_dist": 0.32774130107125443,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1098.781,
+            "end_time": 1101.304,
+            "text": "¿Cómo no combatir la inflación? ",
+            "cosine_dist": 0.6964025778786924,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1101.505,
+            "end_time": 1144.122,
+            "text": "Exacto.  Desde el dos mil ochocientos antes de Cristo, en la quinta dinastía, los sumerios empezaron a probar con este remedio.  No funcionó nunca.  Y aparte, también hay que contarlo, que además los controles de precios, Sofía lo decía perfecto, digamos de manera implícita, cuando dice los empresarios quieren ganar plata.  Es más, de hecho la función social del empresario es ganar plata.  Cuanto más plata gana un empresario, en realidad es un benefactor social, lo tendría que llevar en andas.  Porque en realidad vos solamente podés ganar dinero en el capitalismo sirviendo al prójimo con bien de mejor calidad a un mejor precio.  Esto quiere decir que diste un producto de buena calidad a muy buen precio y además generaste laburo.  Vos sos un genio.  O sea, al empresario es un héroe.  No, acá se lo condena. ",
+            "cosine_dist": 0.31200536424821956,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1144.582,
+            "end_time": 1146.623,
+            "text": "Bueno, Galperín se fue a Uruguay, digamos. ",
+            "cosine_dist": 0.8595318746756875,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1146.663,
+            "end_time": 1148.583,
+            "text": "Bueno, por eso no es gratis. ",
+            "cosine_dist": 0.6406649623792223,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1148.663,
+            "end_time": 1150.303,
+            "text": "El dueño del mercado libre, digo. ",
+            "cosine_dist": 1.0824684980533408,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1150.364,
+            "end_time": 1161.157,
+            "text": "Entonces, ¿qué es lo que sucede?  Cuando vos controlás los precios, en el fondo lo que estás haciendo es vulnerar el derecho de propiedad.  A ver, vamos a ponerlo así, Franco.  Cuando vos vas, suponete que tenés... ",
+            "cosine_dist": 0.4006959811109839,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1161.237,
+            "end_time": 1168.221,
+            "text": "Pero el gobierno siempre te pone delante y dice, mira, los empresarios se quedan con todo, la gente no gana un mango, la gente es pobre... ",
+            "cosine_dist": 0.6981311303345106,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1168.602,
+            "end_time": 1181.45,
+            "text": "A ver, supongamos lo siguiente, que vos tenés alguna necesidad muy urgente.  ¿A vos se te ocurre, digamos, mandar a algún miembro de tu familia de caño para resolver tu problema?  Ah, bueno, ¿y por qué el gobierno cree que se resuelve yendo de caño? ",
+            "cosine_dist": 0.31886225671714286,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1182.378,
+            "end_time": 1183.639,
+            "text": "A los empresarios, decís. ",
+            "cosine_dist": 0.9602854071662101,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1183.679,
+            "end_time": 1193.367,
+            "text": "Claro, exacto.  Porque, a ver, el problema es el siguiente.  Suponete que yo te ofrezco dos trabajos idénticamente iguales, cuya única diferencia es que en uno te pagan más que en el otro.  ¿Cuál vas a ir? ",
+            "cosine_dist": 0.3277342927331073,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1194.108,
+            "end_time": 1195.549,
+            "text": "El que me paga más, sin duda. ",
+            "cosine_dist": 0.9330934368168156,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1195.629,
+            "end_time": 1210.281,
+            "text": "Bien, obvio.  Ahora, suponete que vas al mercado.  Al supermercado necesitas comprar un determinado producto.  No sé, ¿qué te gusta comer?  Carne.  Ponele.  Tenés dos cortes de carne, todo idénticamente igual, y uno está más caro que el otro.  ¿Cuál compras? ",
+            "cosine_dist": 0.3746479126944141,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1210802,
+            "end_time": 1211222,
+            "text": "Barato. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1211.522,
+            "end_time": 1241.417,
+            "text": "Bien.  Entonces, ay, Franco, sos un maldito especulador.  Estás comprando barato y vendiendo caro.  Es decir, todo el mundo hace eso.  O sea, es parte de la naturaleza humana.  Es decir, todos hacemos eso.  Todos con los recursos escasos que tenemos tratamos de hacerlo rendir de la mejor manera.  Todo el mundo hace eso.  Ahora, si yo... No sé, porque se me ocurrió, porque estoy en la poltrona, digo, ah, mirá Franco, Franco gana muchísimo de dinero, entonces yo ahora te saco una parte del sueldo, ¿cómo lo tomarías? ",
+            "cosine_dist": 0.36978289683739485,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1241977,
+            "end_time": 1242298,
+            "text": "Muy mal. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1243.038,
+            "end_time": 1348.414,
+            "text": "¿Y por qué?  ¿Por qué es qué?  ¿Un robo?  ¿A vos no te importa?  O sea, no, bueno, pero Franco, hay que ser caridad, con la ajena, con la tuya, con la mía no, ¿eh?  Entonces vengo, te robo una parte de tu sueldo y ahora hago caridad.  ¿A vos qué te parece?  Es horroroso, es tratar desigualmente frente a la ley y a las personas.  Digo, vos es un robo.  O sea, en todo lo que está implícito en el control de precios... Es un avance sobre el derecho de propiedad.  ¿Y por qué es importante?  Porque el derecho de propiedad es el eje fundamental del sistema de precios.  Suponete que yo, digamos, no sé, te quiero comprar tu celular.  Entonces vos me tirás un precio.  Bueno, entonces, no sé, en algún momento nos ponemos de acuerdo y yo te entrego una cantidad de dinero a cambio de tu celular.  ¿Eso qué es lo que hace?  Fija un registro histórico que se llama precio.  Entonces los agentes dicen, ah, bueno, puedo comprar, vender, ¿sí?  Entonces se coordinan respecto a ese precio y si los que demandan superan lo que he ofrecido, sube el precio o viceversa.  Ahora, ¿toda esa transacción a dónde arrancó?  Que vos sos el dueño del teléfono y que yo soy el dueño del que te está dando la plata.  ¿Qué quiere decir eso?  Que el sistema de precios se construye sobre el derecho de propiedad.  Entonces, cuando vos empezás a tocar el derecho de propiedad de manera directa o lo tocás vía el sistema de precios, que es de una manera indirecta, generás descoordinación del sistema.  ¿Cuál es la consecuencia de todos los controles de precios de toda la historia de la humanidad?  La escasez.  ¿Por qué crees que va a ser diferente?  Y además tiene otro problema, porque creen que el problema es el nivel de precios.  El problema de la inflación es la tasa de variación de los precios.  Y en realidad tiene que ver con la pérdida del poder adquisitivo del dinero.  ¿Por qué?  Porque cuando vos, ya sea porque sube la oferta monetaria o porque cae la demanda de dinero, o pasan las dos cosas a la vez, el poder adquisitivo del dinero cae y todos los precios en unidad monetaria suben.  ¿Te puedo dejar una pastilla para terminar esta idea? ",
+            "cosine_dist": 0.32923148325201657,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1348.434,
+            "end_time": 1349.234,
+            "text": "No, no, son muy claros, sí. ",
+            "cosine_dist": 0.972282228149371,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1351.297,
+            "end_time": 1354.818,
+            "text": "Digo, para que veas, recién te expliqué que no tenemos dólares. ",
+            "cosine_dist": 0.4538205769087802,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1355299,
+            "end_time": 1355459,
+            "text": "Sí. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1355.979,
+            "end_time": 1416.516,
+            "text": "Ok.  Porque acá los dólares los quieren.  ¿para qué?  Para sacar peso de la calle, para que el impacto en los precios sea menor.  Punto uno.  Entonces, dólares no tenemos, salvo que se los rompemos a los depositantes.  Punto uno.  Punto dos.  Hoy el déficit fiscal mensual es de los doscientos cincuenta mil millones de pesos.  Y cuando lleguemos a diciembre va a ser de cuatrocientos cincuenta mil millones de pesos.  Eso quiere decir que de acá a fin de año van a emitir un punto dos billones de pesos.  Entonces, no tenés dólares, estás emitiendo pesos a lo loco.  ¿A dónde ves el tipo de cambio?  Yo entiendo que nuestros salarios, o sea, en dólares, lucen miserables.  A ver, en Argentina, vos estás en el desil más alto de la distribución ganando quinientos dólares.  Es demencial.  Bueno, con eso ni siquiera sos pobre en Estados Unidos.  En Australia, digamos, un pobre tiene una cuatro por cuatro.  En los países nórdicos, que tanto le gustan, es pobre que no viaja una vez al año.  ¿Por qué crees...? ",
+            "cosine_dist": 0.3451002639263029,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1417.273,
+            "end_time": 1438.666,
+            "text": "Lo escuchábamos recién Alberto Fernández, ¿por qué crees que los políticos no actúan?  Porque si ya lo saben, porque si Alberto Fernández dijo lo que dijo en el dos mil trece, ¿no?  O sea, que él entiende que si emitís va a haber inflación, por más que después públicamente digan que no, pero ellos se dan cuenta cuando están en la oposición, dicen que no.  Ahora, ¿por qué cuando llegan al poder no pueden manejar la economía y generan este incendio en el cual venimos viviendo desde hace veinte años? ",
+            "cosine_dist": 0.8093534780412585,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1439.346,
+            "end_time": 1464.245,
+            "text": "Bueno, eso es casta, es lo que yo llamo casta.  Vos sabés de qué se trata el problema, se aplicó varias veces, falló siempre y sin embargo lo aplicás.  Entonces, ¿por qué haces algo que sabés que va a terminar mal?  ¿Por qué controlás?  A ver, si es tan claro lo que pasó con Helvar y terminó en el Rodrigazo, ¿por qué vos creés que haciéndolo... Va a salir bien.  ¿Por qué si lo hizo Alfonsín en el ochenta y nueve le salió mal? ",
+            "cosine_dist": 0.32294947488661885,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1464.265,
+            "end_time": 1469.826,
+            "text": "¿Qué es casta cuando hablas de casta?  Casta es... ¿Y quién manejaría la política si no son los políticos? ",
+            "cosine_dist": 0.8309995750133277,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1469.907,
+            "end_time": 1573.282,
+            "text": "No, no, está bien, pero casta no son todos.  Eso yo también lo expliqué.  Casta son aquellos... Porque hay gente que, por ejemplo, puede tener buenas intenciones y es ignorante.  Entonces hace daño.  Ahora, pero cuando vos conocés la teoría, conocés la evidencia empírica... Y además estuviste en la silla y sabes cómo funciona.  Si vos cometés este error, por algo es.  Es decir, ¿por qué?  ¿Por qué, digamos, o sea, me encono con la obra de Keynes más conocida que es la teoría general?  Porque lo que hace es poner todos los problemas en otro lugar.  Es decir, por ejemplo, para un keynesiano el problema de la inflación tiene que ver con la culpa.  es de los asalariados, la culpa de los empresarios, no sé, del mal clima, pero nunca el problema es de quién verdaderamente es que es quién.  El Banco Central emitiendo dinero.  ¿Y por qué emite dinero el Banco Central?  Para financiar el fisco.  Es decir que el problema son los políticos.  ¿Sabés quiénes son?  El Banco Central con el impuesto inflacionario nos roba cinco puntos del PBI.  La pregunta es ¿quién se beneficia de eso?  En la teoría económica eso se llama efecto Hume-Cantillon.  Los que reciben primero el dinero, como todavía los precios no subieron, se benefician.  ¿Y quiénes son los que se perjudican?  Los que los reciben últimos.  ¿Sabés quién recibe primero el dinero calentito que sale del Banco Central?  ¿Quién lo recibe primero?  ¿Los políticos?  ¿Y quiénes son los últimos que los reciben?  Los trabajadores.  Por eso la inflación es un impuesto al pobre, le pega entre veinticinco y treinta veces más a los que menos tienen.  Es más, cuando vos pasás el veinte por ciento de inflación, se pierde un punto cincuenta y ocho de crecimiento.  Eso lo ponés en la historia económica argentina desde que tenemos Banco Central.  Hoy deberíamos tener un PIB per cápita como el de Estados Unidos. ",
+            "cosine_dist": 0.3135310847131181,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1573.782,
+            "end_time": 1605.956,
+            "text": "Necesitamos hablar un poco de Javier Milei.  ¿Podemos poner una imagen de Milei con los jóvenes?  Yo le quiero preguntar por qué hay tantos jóvenes que lo votan, o que lo votaron ya en las PASO, no sabemos si lo van a votar el catorce de noviembre, Tenemos algunas imágenes de lo que es Miley.  en el escenario, en cada convocatoria mucha gente, muchos jóvenes, en las redes sociales también.  Bueno, ahí estás viendo otra imagen de Miley. ",
+            "cosine_dist": 0.8714125886435992,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1608.413,
+            "end_time": 1610.776,
+            "text": "Le tienen tanta miedo a la libertad. ",
+            "cosine_dist": 0.8481625343512895,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1611.377,
+            "end_time": 1636.662,
+            "text": "Si en los poderes más libres hay veinticinco veces menos de pobres en el formato estándar y cincuenta veces menos en el formato extremo.  ¿Por qué le temen a la libertad?  Bueno, ahí está Javier Milei.  Vamos a hacer una pausa muy breve y le vamos a preguntar a Milei por qué recibió tanto voto joven, por qué ha sido uno de los protagonistas de la Ciudad de Buenos Aires en la última elección. ",
+            "cosine_dist": 0.8480398631960916,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1636.722,
+            "end_time": 1641.145,
+            "text": "Así que pausa muy breve y hablamos de Javier Milei. ",
+            "cosine_dist": 0.8189732693772087,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1641.786,
+            "end_time": 1652.952,
+            "text": "Bien, ya estamos con Javier Milei para hablar del voto, la excelente campaña que hizo en Las PASO.  ¿Por qué crees, Javier, que tenés tanto voto joven?  dentro de los números que sacaste en la ciudad? ",
+            "cosine_dist": 0.8366462501588519,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1653.352,
+            "end_time": 1656.275,
+            "text": "A ver, primero una aclaración. ",
+            "cosine_dist": 0.7516941631902514,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1656.335,
+            "end_time": 1657.315,
+            "text": "¿Es cierta mi afirmación? ",
+            "cosine_dist": 1.0159792139629618,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1658.496,
+            "end_time": 1715.512,
+            "text": "Una aclaración.  Si solamente fueran jóvenes, no hubiéramos llegado a los números que llegamos.  Ahora, es cierto que sí, esto inició con una fuerte impronta en los jóvenes.  Vamos a ponerlo en estos términos.  Naturalmente, los jóvenes son rebeldes contra el status quo.  La realidad es que hoy el status quo recita ideas de izquierda.  Es decir, vas a ver que cualquiera de los políticos que andan dando vuelta por el espectro argentino, en general, te recitan algunos dos o tres puntos, por ejemplo, del manifiesto comunista.  O sea, con lo cual, para tener una idea de lo impregnado que está el socialismo.  Hoy la corrección política es la izquierda.  Entonces la reacción natural es el liberalismo.  Ese es el primer punto.  El segundo punto, que es un tema no menor... ",
+            "cosine_dist": 0.31022358242484904,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1716.453,
+            "end_time": 1721.959,
+            "text": "Perdón, lo tenemos a Antonio Calo, que habló de los jóvenes y mi ley.  Unos segundos.  O sea, el sindicalista.  Mirá, el líder sindicalista. ",
+            "cosine_dist": 0.8446509139218068,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1722.773,
+            "end_time": 1740.12,
+            "text": "Los jóvenes se identifican con mi ley y no entienden los derechos laborales.  Lo que pasa es que esos jóvenes no trabajaron todavía.  No saben lo que son los derechos laborales.  Aparte son jóvenes, hay que respetarlos los jóvenes.  ¿Cómo se les explica a los jóvenes?  Hay que explicarles, hay que adoctrinarlos. ",
+            "cosine_dist": 0.8496956346919802,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1740.5,
+            "end_time": 1753.958,
+            "text": "No tuvimos la oportunidad de hacer ningún congreso con nadie.  No tuvimos la oportunidad de hablar.  Bueno, ahora tenemos la oportunidad de los compañeros hacerles entender que están equivocados.  Bueno, los que están equivocados y los que ven van a estar con mi ley.  Bueno, ahí está, hay que adoctrinar a los jóvenes. ",
+            "cosine_dist": 0.7817563335041795,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1753.978,
+            "end_time": 1886.302,
+            "text": "Es aberrante lo que dijo Caló en varias dimensiones.  La primera es, pide adoctrinamiento.  Y eso me parece que es muy grave.  De hecho, la educación pública en Argentina se caracteriza por el adoctrinamiento, independientemente sea de gestión estatal o de gestión privada.  Cuando te bajan los contenidos y te ponen las restricciones, en realidad lo que hacen es formar esclavos de la religión del Estado.  Por eso los jóvenes también se rebelan contra eso y por eso están abrazando las ideas de la libertad.  Pero no quiero terminar de dejar de pasarlo la aberración que dijo Caló.  Porque primero que las leyes que ellos dicen de los derechos y todo, hoy hay seis millones de personas que trabajan absolutamente en la marginalidad total, con lo cual esas leyes claramente no están funcionando.  Argentina tiene un problema de desempleo crónico, Argentina tiene los salarios reales por el piso.  Entonces, ojo, porque ese modelo claramente no está funcionando.  Expulsa a los jóvenes, en especial a los más talentosos.  Y además, yo le quiero volver a contar a Caló, porque en realidad el liberalismo es el respeto irrestricto del proyecto de vida del prójimo, basado en el principio de no agresión y en defensa del derecho a la vida, a la libertad y a la propiedad.  Entonces, cuando vos, por ejemplo... sos liberal, vos sos consciente de que vos te tenés que ganar el pan con el sudor de tu frente, no con la del otro.  Y esto no es un tema menor, porque esta gente que defiende la idea de la justicia social, lo que hay que entender es que la justicia social es injusta, porque tiene dos elementos.  Uno es el trato desigual frente a la ley, lo cual es aberrante.  Los castigan según son más productivos para la sociedad, los castigan más.  Aquellos que benefician más a la sociedad los castigan.  Y no solo eso, sino que además, vos fíjate, el trato es igual frente a la ley y el robo, porque vos no pagás los impuestos por gusto, te los sacan.  Entonces, vos fíjate, en la concepción liberal vos te tenés que autosustentar, por lo tanto sabés que robarle al otro está mal.  Entonces, o sea, este hombre ni siquiera entiende la naturaleza del liberalismo, o sea, en realidad el que necesita un curso es él. ",
+            "cosine_dist": 0.28875859575316776,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1887.822,
+            "end_time": 1905.514,
+            "text": "Vamos a escuchar a Horacio Rodríguez Larreta.  Y quiero preguntarte, ¿sos pasional, sos temperamental, sos violento?  Porque el jefe de gobierno de la Ciudad de Buenos Aires, escúchalo, tiene la sensación o dice que no quiere hablar con personas violentas.  Escúchalo a Larreta, que estuvo ayer en TN.  Lo que digo, apariciones... ",
+            "cosine_dist": 0.8044190790085406,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1905.534,
+            "end_time": 1908.335,
+            "text": "Pero quince puntos sacó Milley en la ciudad de Buenos Aires. ",
+            "cosine_dist": 0.9203568101205646,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1908.355,
+            "end_time": 1951.948,
+            "text": "Sí, López Murphy sacó casi doce.  Sí, también.  Y Martín Tetás fue el segundo en la lista que sacó por lejos más votos en la lista.  Entonces no le damos tanta entidad entonces a Milley.  No le dimos ni más ni menos que al resto.  No le dimos ni más ni menos que al resto.  O sea, obviamente sacó votos, es respetable, tiene su derecho a presentarse, la gente a votarlo.  Coincide con algunas... ...ideas de gente del espacio de ustedes, ¿no?  Por ejemplo, Patricia Bull, siempre se hacen algunos... Ahí también el nivel de agresión en el caso.  ese fue extremo.  A mí me insultó ya sin ningún eufemismo, directamente, con insultos y agresiones que yo nunca había escuchado.  Así que yo no estoy de acuerdo.  Bueno, ahí está, no está de acuerdo.  ¿Cómo es la relación con Cambiemos y con el jefe de gobierno de la ciudad? ",
+            "cosine_dist": 0.9148137401212628,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1952.408,
+            "end_time": 2121.797,
+            "text": "No, yo tengo una posición muy crítica respecto al jefe de gobierno de la ciudad autónoma de Buenos Aires.  A ver, hoy la lista que él impulsa, la realidad es que... Es muy interesante porque se muestran bastante liberales en los debates, pero sucede que él lo único que hizo fue subir los impuestos, aumentar el endeudamiento.  Hay que contarles que el endeudamiento son impuestos futuros, que además son profundamente inmorales porque básicamente... digamos, golpean sobre generaciones futuras, que algunos no votan y que otros ni siquiera nacieron.  O sea, por lo tanto, al margen del robo, que es un impuesto, lo inmoral que es, o sea, castigando a las generaciones futuras.  Y después es muy interesante, o sea, lo veo demasiado sensibilizado.  Yo le diría que si él verdaderamente tiene vocación presidencial como la manifiesta, me parece que con semejante debilidad emocional que tanto lo afecte.  ¿Algunas palabras fuertes?  Digo, por favor, digamos que reconsidere, porque si se fijan todos los presidentes han sido fuertemente insultados, o sea, con lo cual, digamos, o sea, ¿o acaso él se considera que es un ser superlativo que, digamos, nadie le puede decir nada?  Porque en el fondo yo lo que, a ver, lo que yo dije y el motivo por el cual dije lo que dije, digo, porque parece que se olvida que, se olvidan que yo lo dije en redes sociales, con lo cual la red social es como en mi casa, hago lo que quiero con mi red social, ¿no?  O sea, en mi Instagram yo hago lo que se me da la gana, digo, si no te gusta no lo mirás, pero digamos, al margen de eso, que parece que acá el liberalismo, digo, nadie entiende qué es el liberalismo, pero no solo eso, sino que, a ver, el problema... deja de tomarse en cuenta lo que yo estaba denunciando.  Y eso es mucho más grave, el hecho de que de repente utilice los recursos del Estado para perseguir a opositores.  Y eso se lo denunció Facundo Manes también.  Es más, Rubinstein en una declaración dijo que él puso la lista de López Murphy justamente para perjudicarme a mí.  Entonces, o sea, primero, y después que se fijen las cosas que también dice la gente de su lista, gente que está dentro de su espacio, que hace acusaciones muy ligeras que constituyen delitos.  Entonces, digo, ojo con esto, ¿por qué?  Es decir, pero de vuelta, de vuelta, a ver, más allá de eso... Yo le diría que, digamos, o sea, con esa debilidad emocional lo veo muy complicado en su proyecto presidencial, porque si alguien le deja algunas palabras fuertes, lo sensibiliza tanto, digamos, quiere decir que no está apto para ejercer un cargo como ser presidente de la nación. ",
+            "cosine_dist": 0.2745646855389734,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2121.837,
+            "end_time": 2136.147,
+            "text": "Tengo que cerrar con esto agradeciendo el tiempo y además viniendo el día del cumpleaños de Javier Milley, pero... ¿Para qué quiere sumar muchos votos en esta campaña y en esta elección?  Cambiemos.  lo dice claramente, quiere poner un freno al kirchnerismo.  Y mucha gente los vota por eso. ",
+            "cosine_dist": 0.8186925318898166,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2136.427,
+            "end_time": 2257.806,
+            "text": "Eso es falso.  No, no, acá es falso, eso hay que aclararlo.  ¿Por qué es falso?  Porque, digamos, es más... No solo que le votaron todas las leyes a Juntos por el Quiserismo, además mandaron leyes aberrantes como la ley de góndolas, como la ley de alquileres, como la de teletrabajo.  El señor Mario Negri le decía a Alberto Fernández, nuestro comandante, mi comandante, es más, cuando nos encerraban con la cuarentena cavernícola, Rodríguez Larreta se sentaba junto a Alberto Fernández y Kicillof.  Con lo cual, digamos, si verdaderamente la gente está preocupada por el kiserismo, o sea, nos tiene que votar a nosotros, que somos mucho más anti-kiserista que él.  Y no solo eso, y te voy a dar un dato más.  De los diez primeros lugares que tiene en la lista... Nueve son socialdemócratas.  Es más, tiene hasta cinco kirchneristas en la lista.  Y te voy a decir algo más.  Nosotros, si logramos capturar el voto liberal... que es la segunda fuerza en la ciudad autónoma de Buenos Aires, ¿sabés qué?  Estaríamos dejando tercero al quiserismo.  Es decir, Leandro Santoro se convertiría, sería al quiserismo, lo que Marta Mercader, al radicalismo.  Sería el principio del fin de esa fuerza.  Por lo tanto, digamos, o sea, la verdadera posibilidad de extirpar al quiserismo somos nosotros.  Imaginate que hagamos además una elección tan, pero tan buena, que no es solo que los dejemos terceros.  Mirá si además dejamos afuera al comunista Heller.  Sería una fiesta.  ¿Y por qué queremos todo esto?  ¿Sabés por qué, Franco?  Porque queremos volver a abrazar las ideas de la libertad en serio, que son las que hicieron de este país la primer potencia mundial.  Y no, por ejemplo, como estas declaraciones de Larreta diciendo que hay controles de precios que funcionan bien si se hacen con buenos volantes.  No, señor Horacio Rodríguez Larreta, los controles de precios no funcionan nunca.  Usted está padeciendo lo que Hayek llamaba la fatal arrogancia.  no lo puede hacer porque no tiene los elementos para hacer ese cálculo, salvo que sea Dios.  Y ¿sabe qué?  Por más que usted se crea tan importante que nadie le puede decir nada, usted no es Dios. ",
+            "cosine_dist": 0.31885294619169147,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2258.266,
+            "end_time": 2260.467,
+            "text": "Gracias por haber venido.  ¿Te gusta Charlie García? ",
+            "cosine_dist": 1.0102386071881164,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2261.528,
+            "end_time": 2263.568,
+            "text": "Lo mío es la ópera, sí, pero Charlie García me gusta. ",
+            "cosine_dist": 0.5769508928851944,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2263.908,
+            "end_time": 2290.067,
+            "text": "¿Te gusta?  Vamos a cerrar.  Gracias, Mirei, por haber venido.  ¡Feliz cumpleaños!  ¡Gracias!  Basta de basura keynesiana, ha llegado el momento liberal.  Tenemos un líder y él es un gran rebelde. ",
+            "cosine_dist": 0.8914636198483847,
+            "is_target_speaker": false
+        }
+    ]
+}

@@ -1,0 +1,351 @@
+{
+    "Index": 355,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "Yj2LNujMdF4",
+    "url": "https://www.youtube.com/watch?v=Yj2LNujMdF4",
+    "title": "MILEI SOBRE SU SEPARACIÓN CON ESPERT - Javier Milei en Crónica TV 12/9/2021",
+    "duration": 603.0,
+    "view_count": 210430,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 2",
+            "start_time": 0.06,
+            "end_time": 2.85,
+            "text": "¿Se van a limar las diferencias con Spert? ",
+            "cosine_dist": 0.9518620064488498,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2.95,
+            "end_time": 22.5,
+            "text": "Nos llama urgente Juan Pablo Uerri.  Juan, te escuchamos.  Sí, Dani, porque amablemente Javier Milei se acercó, se quedó unos instantes para poder hablar con nosotros.  Los escucha allí en estudios, así que van a poder charlar con él, Dani.  Bien, ¿cómo te va, Javier?  Daniel Grechel, un placer tenerte aquí en Crónica HD.  ¿Cómo estás?  ¿Cómo estás viviendo esta jornada, Javier? ",
+            "cosine_dist": 0.7775359446526985,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 22.641,
+            "end_time": 27.306,
+            "text": "¿Qué tal, Daniel?  Tranquilo, tranquilo, con mucha tranquilidad. ",
+            "cosine_dist": 0.6024994104029313,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 29.247,
+            "end_time": 37.912,
+            "text": "Recién hablábamos que el veinte por ciento del padrón ya habría votado.  ¿Vos tenés números de qué porcentaje estaría participando de esta elección hoy? ",
+            "cosine_dist": 0.6006521422678728,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 37.932,
+            "end_time": 39.252,
+            "text": "No, no tengo ni la menor idea. ",
+            "cosine_dist": 0.9588017990740683,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 44.545,
+            "end_time": 59.534,
+            "text": "Lo veo muy tranquilo, ¿no?  Está relajado.  Mirá la cámara, Javi.  Sí, le queremos preguntar, además.  Ahí está, Javi, me extraña.  Me extraña de vos, un hombre conocedor.  Bien, ¿qué análisis haces? ",
+            "cosine_dist": 0.8580432777211862,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 59.574,
+            "end_time": 62.596,
+            "text": "No, pero están cayendo del árbol las cosas que me hacen alergia. ",
+            "cosine_dist": 0.6670695284248974,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 62.616,
+            "end_time": 67.779,
+            "text": "Ah, claro, claro.  Hombre de ojos claros, peor todavía.  ¿O no, chicos?  Unas gafas hay que poner. ",
+            "cosine_dist": 0.8562758555482699,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 69.12,
+            "end_time": 71.342,
+            "text": "Sí, sí, y terriblemente alérgico. ",
+            "cosine_dist": 0.7738148650276861,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 71.442,
+            "end_time": 79.97,
+            "text": "Ahí está.  Yo sabía que era terriblemente alérgico.  Está bien, está perdonado.  Si tenés que mirar para abajo, Javi, mirá para abajo, no hay problema.  Mirá si después en el búnker salís mal en la foto. ",
+            "cosine_dist": 0.7759026580747006,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 79.99,
+            "end_time": 82.612,
+            "text": "No, por favor.  ¿Le podemos preguntar a Javier Milei? ",
+            "cosine_dist": 0.8897284294478809,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 82.973,
+            "end_time": 89.839,
+            "text": "Recién lo escuchábamos a la salida de emitir el voto, muy ahí al borde de romper con la veda, Milei. ",
+            "cosine_dist": 0.9119487255923611,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 91.18,
+            "end_time": 106.402,
+            "text": "Ojo con eso.  Bueno, yo, digamos, a ver, ustedes me preguntan, yo contesto, eso es lo que pasa.  O sea, digamos, así que nada.  Yo contesto, o sea, eso es lo que pasa. ",
+            "cosine_dist": 0.4613276205134935,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 108.163,
+            "end_time": 114.291,
+            "text": "¿Se van a limar las diferencias con Spert en la provincia de Buenos Aires?  después de estas elecciones? ",
+            "cosine_dist": 0.9163801954448175,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 114.311,
+            "end_time": 132.567,
+            "text": "Pero me parece que el otro día, cuando estuvimos en a dos voces, creo que quedó claro que nosotros somos amigos.  Lo que pasa es que tenemos una construcción de espacios distintos que ha hecho que por una cuestión de profilaxis tengamos que separar las campañas. ",
+            "cosine_dist": 0.34910949995035956,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 133.857,
+            "end_time": 152.007,
+            "text": "Javier, una de las cuestiones en esta jornada electoral y que desde algunas anécdotas hicieron mucho hincapié es el hecho de poder tener fiscales, siendo una fuerza relativamente nueva, con una composición que vos decís muchas veces está llena de jóvenes.  ¿Ustedes han logrado tener fiscales, por lo menos en la ciudad de Buenos Aires, que es donde vos tenés la expectativa de entrar? ",
+            "cosine_dist": 0.9614518112724275,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 154.848,
+            "end_time": 158.17,
+            "text": "Sí, en principio estaríamos cubriendo bien todas las posiciones. ",
+            "cosine_dist": 0.5304314483355076,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 160.668,
+            "end_time": 176.346,
+            "text": "¿Cómo te ves hoy a la noche, Javier?  Porque hoy escuchábamos a María Eugenia Vidal, decía, yo me imagino hoy festejando, de fiesta.  El presidente Alberto Fernández dijo, mañana la Argentina sigue, ¿no?  Como desentendiéndose de alguna manera.  ¿Cómo pensás que va a ser el cierre de esta jornada vos y la gente que te acompaña? ",
+            "cosine_dist": 0.7010674237618387,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 179.72,
+            "end_time": 209.287,
+            "text": "Mira, nosotros lo que estamos contentos es que hemos logrado cambiar el eje del debate.  y bueno, si las personas deciden acompañarnos en esto, estaremos, o sea... con un mayor compromiso para cambiar esta Argentina miserable que tiene cincuenta por ciento de inflación, cincuenta por ciento de pobres y que si no hace un cambio de ciento ochenta grados en cincuenta años seremos la Villa Miseria más grande del mundo. ",
+            "cosine_dist": 0.36543492660697563,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 209.647,
+            "end_time": 221.37,
+            "text": "Javier, hace un ratito decías que ibas a ir a almorzar con tu mamá, tu papá y demás.  Te pregunto cómo siguió la familia esta incursión tuya en la política y si está todo bien con tu papá, porque decían por ahí que no tenías un buen vínculo con él. ",
+            "cosine_dist": 0.9174759345062733,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 224.311,
+            "end_time": 249.851,
+            "text": "Bueno, hace... Hace un tiempo que ya casi, dentro de poquito se van a cumplir dos años que nos volvimos a reconciliar.  y bueno, y es más, el tema de la pandemia, dentro de todos los daños y horrores que causó, también sirvió para estar más juntos y trabajar en la recomposición de los vínculos. ",
+            "cosine_dist": 0.36005213049274887,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 251.108,
+            "end_time": 273.876,
+            "text": "Javier, ¿por qué crees, digamos, sin romper la vega, que ha calado tu predicamento mucho más en los jóvenes, o por lo menos es lo que se dice, que en la gente más grande o mayor?  Digamos, a ver, vos estás peleando la tercera fuerza junto con la izquierda.  Vamos a ver luego qué es lo que pasa a la noche.  Pero digo, ¿por qué crees que en los jóvenes tuvo más penetración tu mensaje y el desperdicio? ",
+            "cosine_dist": 0.8614221072442645,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 276.275,
+            "end_time": 317.19,
+            "text": "Primero porque los jóvenes son más proclives a ser rebeldes contra el estatus quo.  y hoy el estatus quo recita... los lineamientos de la izquierda, o sea, independientemente de que abracen o no las ideas socialistas de modo explícito.  Y por otro lado, porque los jóvenes llevan menos tiempo expuestos al sistema de lavado de cerebro de la educación pública, independientemente sea de gestión privada o estatal, que básicamente lo que hace es formar esclavos de la religión del Estado.  y afortunadamente muchos jóvenes y cada vez más están... decidiendo abrazar la sede de la libertad. ",
+            "cosine_dist": 0.3761029550523389,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 317.87,
+            "end_time": 333.094,
+            "text": "Javi, los números que uno tiene por ahora, boca de urno, ya te muestran en noviembre.  ¿Es luchar contra molinos de viento, desde tu posición, en este cambio de la política que vos llevas adelante o que querés o soñás?  ¿Es luchar contra molinos de viento?  ¿Cómo se cambia la política argentina de la noche a la mañana? ",
+            "cosine_dist": 0.6583267776780861,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 334.535,
+            "end_time": 380.98,
+            "text": "Vas, digamos, con mucho trabajo, llevando un buen mensaje.  Y nunca pensé que esto iba a ser fácil.  Tengo claro que es una batalla desigual, donde aquellos que nos empobrecen no tienen los incentivos para que esto cambie, porque ellos son los grandes beneficiarios.  Por lo tanto, nosotros estamos tratando de barrar con el status quo empobrecedor, Y en función de eso, bueno, digamos ahora queda en manos de los ciudadanos decidir si quieren seguir siendo esclavos o ser libres. ",
+            "cosine_dist": 0.37448639005111684,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 381.46,
+            "end_time": 407.164,
+            "text": "Javier, vos recién cuando hablabas con todos los colegas de los medios, hacías una metáfora futbolera, deportiva, comparabas con, hablabas de Bilardo, sabemos que tuviste un pasado como arquero futbolista.  ¿Cuál vendría a ser o con quién te referenciarías vos de nuevo, siguiendo esta metáfora, esta aparición liberal tuya?  Digo, sos un equipo chico que va a pelear a las grandes ligas, ¿con quién te comparás?  ¿Sos Chacarita, como el club donde jugaste? ",
+            "cosine_dist": 0.8480135406549769,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 409.306,
+            "end_time": 419.256,
+            "text": "No sé, eso digamos es una cuestión de evolución en el tiempo, porque tendrías que ver Eso.  tenés que agarrar y tomar las... ",
+            "cosine_dist": 0.514122707812815,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 419.917,
+            "end_time": 421.018,
+            "text": "Salió campeón, Chacarita. ",
+            "cosine_dist": 0.9825849665763076,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 421.658,
+            "end_time": 428.864,
+            "text": "Los inicios de... En el año sesenta y nueve y le ganó la final a River en el estadio de Racing, cuatro a uno. ",
+            "cosine_dist": 0.4440099985636349,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 428944,
+            "end_time": 429284,
+            "text": "Ahí va. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 430.125,
+            "end_time": 454.923,
+            "text": "Pero, digamos, al margen de eso, vos tenés que mirar cómo arrancó eso, ¿no?  Porque cuando arrancó el fútbol en Argentina... Un par de penales dudosos ahí.  Y después desapareció.  Bueno, imagínate que no había nacido, así que no sé, digamos, es lo mismo que ahora se pongan a reclamar del penal que no cobró Nimo en el Vélez River.  El Vélez River, sí. ",
+            "cosine_dist": 0.46909057569846,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 455.063,
+            "end_time": 475.041,
+            "text": "No, no, me interesaba también, a ver, de alguna manera tu objetivo es captar ese voto halcón, me parece, en la Ciudad de Buenos Aires, así como es perder provincia, que tal vez hubiera votado a Patricia Bullrich si hubiera sido candidata.  ¿Qué opinás de eso?  El voto al contra. ",
+            "cosine_dist": 0.8998262871490511,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 475.081,
+            "end_time": 500.193,
+            "text": "Nosotros en realidad lo que venimos es ampliar la oferta electoral.  Ahora sí después, por una cuestión de comodidad, se le define al CONA, aquellos que quieren abrazar la sede de la libertad, bueno, eso es otro tema, pero nosotros somos liberales, o sea, y venimos justamente a ampliar la oferta electoral para que haya una propuesta liberal. ",
+            "cosine_dist": 0.4403635917666584,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 501.052,
+            "end_time": 510.498,
+            "text": "Ahora le voy a preguntar a Javier el tema de los adolescentes.  Porque la verdad que en el último tiempo, hablando con muchos... Mi pibe es adolescente, el más chico tiene diecinueve años.  Y lo sigue a Milenio. ",
+            "cosine_dist": 0.7608235166517062,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 510.518,
+            "end_time": 512.438,
+            "text": "Lo conocen. ",
+            "cosine_dist": 0.9042361797417013,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 512.479,
+            "end_time": 526.227,
+            "text": "Muchos lo tienen como ídolo a Javier Milenio.  Ojo con esto.  Son elecciones.  Digo ojo porque hay un gran seguimiento de los adolescentes con Javier.  Ahora se lo voy a preguntar.  Pero te quiero consultar algo, Lorena Toso.  Sí, quería preguntarle a Javier respecto de lo que suceda. ",
+            "cosine_dist": 0.7490241150897945,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 526.287,
+            "end_time": 533.572,
+            "text": "Por supuesto no podemos hablar de porcentajes, ni mucho menos por la veda.  Pero... Te va a tocar entrar, esto lo sabemos. ",
+            "cosine_dist": 0.9504759914750851,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 534.313,
+            "end_time": 537.575,
+            "text": "¿Qué pasa si te toca entrar en relativa soledad? ",
+            "cosine_dist": 0.948532350705119,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 538.436,
+            "end_time": 571.188,
+            "text": "Pongámoslo en estos términos.  ¿Qué vas a hacer en el Congreso?  ¿A dónde vas a ir a brevar para que haya algún tipo de vínculo con otros diputados?  Porque recordemos que hay que encontrar acuerdos para poder llevar adelante los proyectos.  Lo único que me voy a focalizar es en dar una dimensión moral a la política.  Y voy a hacer de que cada proyecto sea analizado y puesto bajo escrutinio desde el punto de vista moral.  O sea, ¿por qué?  Porque ahí va a quedar claro quiénes son los ladrones y quiénes son los honestos que trabajan por un país mejor. ",
+            "cosine_dist": 0.49947610793185726,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 572.128,
+            "end_time": 574.99,
+            "text": "Javi, te mandamos un abrazo enorme.  Gracias por el tiempo, como siempre. ",
+            "cosine_dist": 0.8444058586855941,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 577.371,
+            "end_time": 578.972,
+            "text": "No, por favor, gracias a ustedes.  Bien. ",
+            "cosine_dist": 0.7304834094595276,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 582.735,
+            "end_time": 602.5113832199546,
+            "text": "A la mierda los malditos empresarios, a la mierda Sodomitas el capital.  Basta de basura que Inesiana, ha llegado el momento liberal.  Tenemos un líder y él es un gran referente. ",
+            "cosine_dist": 0.9604288119026763,
+            "is_target_speaker": false
+        }
+    ]
+}

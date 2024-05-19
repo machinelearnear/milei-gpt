@@ -1,0 +1,855 @@
+{
+    "Index": 620,
+    "channel_id": "UC6zPBtpYvPNvqA2HZV4v-IQ",
+    "channel": "La Mirada de Roberto Garcia",
+    "uploader_url": "https://www.youtube.com/@lamiradaderg",
+    "id": "VCGdrIPJ5jM",
+    "url": "https://www.youtube.com/watch?v=VCGdrIPJ5jM",
+    "title": "Javier Milei y Diego Giacomini | Entrevista completa | Lunes 2 de septiembre de 2019",
+    "duration": 1784.0,
+    "view_count": 18809,
+    "candidate_name": "milei",
+    "quality": "low",
+    "segments": [
+        {
+            "speaker": "Speaker 0",
+            "start_time": 5.74,
+            "end_time": 7.427,
+            "text": "Divandito, el placer de volver a casa. ",
+            "cosine_dist": 0.8422544589718544,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 18.96,
+            "end_time": 45.226,
+            "text": "Como ustedes saben, estos señores son el oráculo de Delfos, de la economía, por lo menos en la Argentina.  Y antes de volver a insistir en que anticiparon gran parte de la crisis que hoy padece el país, quiero pasarles un compendio que considero la producción y que lo vamos a exhibir para que esto sea verdaderamente una forma de empezar.  Por favor, director. ",
+            "cosine_dist": 0.6887164316515304,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 47.947,
+            "end_time": 52.433,
+            "text": "¿Cómo es un fracaso económico este gobierno?  Porque vamos camino a un default. ",
+            "cosine_dist": 0.5146555270734463,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 52.894,
+            "end_time": 55.818,
+            "text": "Argentina está en trayectoria de crisis. ",
+            "cosine_dist": 0.8718679117898701,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 56.398,
+            "end_time": 59.202,
+            "text": "En algún momento alguien se va a dar cuenta que los números no dan. ",
+            "cosine_dist": 0.6471767973490739,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 59.763,
+            "end_time": 60.744,
+            "text": "Vamos a ir al fondo. ",
+            "cosine_dist": 0.6968913821520317,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 61.045,
+            "end_time": 70.733,
+            "text": "Cuando pasen los primeros tres meses, ¿vos creés que vamos a cumplir la meta?  Ni en pedo, somos Argentina.  Entonces, ¿qué pasó?  Se cae el financiamiento. ",
+            "cosine_dist": 0.5668604117306857,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 70.753,
+            "end_time": 86.939,
+            "text": "Y cuando se cae el financiamiento, Titanic, vamos contra el iceberg.  Creo que es probable que si se intensifica la velocidad y la fuerza de la corrida, es muy probable que haya control de capitales. ",
+            "cosine_dist": 0.7013866006087053,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 87.559,
+            "end_time": 93.281,
+            "text": "¿Sabés qué?  Cuando nos corten el financiamiento y nos peguemos la piña... Guardé este video y lo quiero ver a Amadeo. ",
+            "cosine_dist": 0.6499359243499954,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 93.581,
+            "end_time": 98.882,
+            "text": "Voy a discutir esto con Amadeo.  Cuando nos peguemos la piña, Diego, con tu gradualismo. ",
+            "cosine_dist": 0.8181541829325081,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 99.122,
+            "end_time": 107.204,
+            "text": "¿No te imaginabas ir a un apaso y que Cristina le saque cinco puntos?  Porque el derrumbe que habría en la demanda de dinero generaría una hiperinflación. ",
+            "cosine_dist": 0.49337027759619945,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 108.304,
+            "end_time": 118.667,
+            "text": "Y la tasa de interés va a subir.  Y esa suba de la tasa de interés va a provocar un efecto pánico y va a estimular la caída de la demanda de dinero. ",
+            "cosine_dist": 0.7760274811407628,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 121.569,
+            "end_time": 140.112,
+            "text": "En fin, creo que ha sido bastante testimonial.  y preventivo, me parece que alguien no tomó en cuenta algo de lo que dijeron estos dos caballeros, que ustedes han acertado con casi todo lo que ha ocurrido, por no decir todo.  La pregunta es, si bien la Argentina no sabe qué pasa mañana, ",
+            "cosine_dist": 0.625952864460616,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 140952,
+            "end_time": 141072,
+            "text": "nos ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 141.492,
+            "end_time": 153.857,
+            "text": "gustaría que ustedes más o menos, alguno de los dos, empiece a decirnos qué es lo que nos va a pasar con esta situación nueva económica y con estos cambios, restricciones o condicionamientos o intervenciones que ha hecho el gobierno. ",
+            "cosine_dist": 0.7261776840694532,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 153.877,
+            "end_time": 233.736,
+            "text": "Mira... Argentina tiene dos grandes problemas.  Uno es el default y ya está entre nosotros.  Estamos en default selectivo.  Es el primer eslabón de la cadena de default que va a seguir avanzando.  El otro problema es el riesgo de hiperinflación.  Se retroalimentan entre los dos.  ¿Por qué?  Vos tenés un banco central que está quebrado.  Y viene quebrado hace mucho tiempo.  Y un banco central quebrado es promesa certera de más devaluación y más inflación.  Y esta política... del gobierno que es mantener el dólar nominal a toda costa ¿qué hace?  te hace perder reservas te achica el activo y te agranda el pasivo.  con más LELIC más pases más tasas entonces te quiebra más el balance.  ¿y esto qué implica?  esto implica Que aumenta el peso de la deuda en términos del PBI y se hace más impagable la deuda.  ¿Sabés a dónde vamos?  Vamos muy probablemente a la próxima administración.  tiene vencimientos de deuda en los cuatro años, sea la que sea, tenga la camiseta que tenga, por más de cincuenta puntos del PBI.  Entonces, es impagable la deuda.  Aparte, es insolvente en términos intertemporales porque necesitarías ya un superávit de cuatro y tenés un déficit con suerte de menos uno. ",
+            "cosine_dist": 0.7604677019414235,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 233.936,
+            "end_time": 237.179,
+            "text": "Eso quiere decir que no han operado sobre los intereses tampoco. ",
+            "cosine_dist": 0.7010271449347429,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 238.18,
+            "end_time": 361.666,
+            "text": "¿Me dejas que te haga un comentario adicional sobre la mala situación?  Porque también tenés un problema de error de diagnóstico.  Y esto retroalimenta con todos los problemas.  El hecho de que vos ahora hoy tenés toda una serie de baterías que controlan el tipo de cambio implica un error de diagnóstico.  Básicamente, ¿qué es lo que está mirando el gobierno?  Dice, bueno, yo voy a controlar el tipo de cambio para que no se me espiralice el tema de la inflación, para cuidar a la gente.  Y en realidad no se da cuenta que no está viendo el verdadero problema subyacente.  Lo que está pasando acá es básicamente que se te está cayendo la demanda de dinero.  Y cuando a vos se te cae la demanda de dinero... El poder adquisitivo del dinero cae.  Esto quiere decir que vos vas a necesitar mayor cantidad de unidades monetarias para pagar por los mismos bienes.  ¿Qué pasa?  Ahora, como el dólar es un activo financiero, pica primero, ahí va acompañado los alimentos, después vienen los precios mayoristas, después vienen los precios minoristas.  ¿Y qué es lo que hace el gobierno?  El gobierno... Lo que no se da cuenta es tocar un solo precio, pero los otros demás se les van a estar escapando igual por el problema de la pérdida del poder adquisitivo del dinero.  Entonces, ¿cómo reaccionó?  Porque esto es importante de cara al futuro.  ¿Qué es lo que hizo?  Primero le limitó la posición general de cambios.  ¿Para qué?  Para aumentarte la cantidad de dólares.  Después te hizo un default selectivo.  para meterte once mil millones de dólares adentro del mercado.  Con lo cual ahí ya te muestra una de las primeras mentiras del gobierno que te dice, no, esto es neutral.  ¿Cómo?  Si es neutral, como vos te hiciste once mil millones, a alguien se lo sacaste.  Después, digamos, limitó el giro de utilidades de los bancos al exterior.  Después nos desayunamos el día domingo con esto de que obliga a los exportadores a liquidar dólares y restringe las importaciones.  Es decir, todo un conjunto de medidas.  para qué, para artificialmente sostener el tipo de cambio.  Ahora, cuando vos generas esa situación y te liquiden los stocks, y además te cuento, con la caída... ",
+            "cosine_dist": 0.3784562776447796,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 361.886,
+            "end_time": 373.035,
+            "text": "Perdón, Javier, pero lo cierto es que el gobierno, digo... estamos hablando de un ciudadano común sin demasiada versación, lo que te plantean es, se me están yendo las reservas. ",
+            "cosine_dist": 0.7068653060751751,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 373.375,
+            "end_time": 376.379,
+            "text": "Sí, pero el problema es que está mal... ",
+            "cosine_dist": 0.6357643512873862,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 376.419,
+            "end_time": 377.54,
+            "text": "Me están sacando todos los depósitos. ",
+            "cosine_dist": 0.8443627534902627,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 377.58,
+            "end_time": 424.155,
+            "text": "El problema es que está mal diagnosticado.  Porque esto no es trivial, eso es lo que quiero señalar.  Entonces, ¿qué es lo que pasa?  Vos además vas a tener, digamos, esta situación que te va a terminar generando, lo que genera siempre un exceso de demanda de divisas en el mercado de cambio.  Y eso va a tener como contrapartida un exceso de oferta en toda la economía.  Entonces, por ejemplo, en el mercado de bonos va a implicar precios bajos, tasas altas, con lo cual en el mercado de bienes vos vas a tener que... caída del consumo, caída de la inversión, ese exceso de oferta en el mercado de bienes te va a hacer caer el producto, te va a caer la demanda de trabajo, te va a generar un exceso de oferta en el mercado de trabajo, te va a caer el salario real, vas a tener más pobres y más indigentes.  En un mismo contexto, donde además te empeoran los números fiscales, que no los vas a poder financiar en el mercado de bonos, ¿con qué vas a terminar?  Con emisión monetaria. ",
+            "cosine_dist": 0.45334308662809275,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 425.235,
+            "end_time": 426.576,
+            "text": "Y con inflación. ",
+            "cosine_dist": 0.863381311698425,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 426.616,
+            "end_time": 429.156,
+            "text": "Claro, con lo cual estás alimentando la bomba. ",
+            "cosine_dist": 0.507832415244473,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 429.196,
+            "end_time": 448.822,
+            "text": "Ahora, hay algo... que uno puede discutir o no con ustedes, pero lo cierto es que tenés a este gobierno que toma estas medidas, yo no diría consensuadas, pero digamos con la solidaridad o cierta complicidad del principal partido o frente de la oposición. ",
+            "cosine_dist": 0.6111216113864371,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 449.142,
+            "end_time": 450.022,
+            "text": "Él les encanta. ",
+            "cosine_dist": 0.6915719591182461,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 450.142,
+            "end_time": 451.043,
+            "text": "Él les encanta. ",
+            "cosine_dist": 0.7677542683354871,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 451.483,
+            "end_time": 454.304,
+            "text": "Trato represivo el Estado para matar la economía. ",
+            "cosine_dist": 0.6282542657313754,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 454.324,
+            "end_time": 465.73,
+            "text": "Tampoco ha dicho nada sobre esto en la baña.  Tampoco han dicho nada sobre esto en ninguna cámara empresaria y tampoco han dicho sobre esto casi ningún sector sindical. ",
+            "cosine_dist": 0.6921882836005852,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 466.39,
+            "end_time": 467.691,
+            "text": "Nadie es liberal. ",
+            "cosine_dist": 0.8552787806105535,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 468.091,
+            "end_time": 479.996,
+            "text": "Bueno, no, pero perdón.  Esto también es algo que uno debe atender o observar.  La gran mayoría de la sociedad está con esta... Con este regreso al keynesianismo, si querés. ",
+            "cosine_dist": 0.6832530365774017,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 480.796,
+            "end_time": 482.617,
+            "text": "Sí, en realidad al fascismo económico. ",
+            "cosine_dist": 0.627799358093577,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 482.857,
+            "end_time": 528.202,
+            "text": "Roberto, como te acabo de decir, Javier, mal diagnóstico te lleva a pésimas políticas y todo el mundo es moralmente cómplice de no decir las cosas como son.  y vos hiciste una lista.  A ver, ¿qué implica esto?  Con todo este mal diagnóstico y malas políticas, Argentina, en los próximos meses, hasta final de año... Y el principio del dos mil veinte también está condenado a vivir con un tipo de cambio real que tiene una trayectoria ascendente mucho más caros que hoy, pero con mucha más inflación que hoy.  Eso implica ajustes nominales del tipo de cambio mucho más fuerte de lo que hemos vivido.  ¿Y qué pasa?  ¿Te aumenta el peso de la deuda?  Quiero llegar a eso. ",
+            "cosine_dist": 0.6857256540453636,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 528.302,
+            "end_time": 530.704,
+            "text": "Sí, pero por lo menos el número, porque para la gente... ",
+            "cosine_dist": 0.7854502287140781,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 530.724,
+            "end_time": 532.705,
+            "text": "No lo puedo decir el número. ",
+            "cosine_dist": 0.9267536990652084,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 532.765,
+            "end_time": 533.466,
+            "text": "No, no, pero una idea... ",
+            "cosine_dist": 0.969780626528903,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 533.906,
+            "end_time": 535.047,
+            "text": "No lo puedo decir en el número. ",
+            "cosine_dist": 0.9452819008790516,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 535.067,
+            "end_time": 537.468,
+            "text": "Y estamos con la fecha del veintisiete de octubre, que es bastante... ",
+            "cosine_dist": 0.7956190206020075,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 537.488,
+            "end_time": 539.99,
+            "text": "No, yo estoy yendo más a eso, porque ¿qué avanza esto? ",
+            "cosine_dist": 0.8611201129606659,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 540.01,
+            "end_time": 541.711,
+            "text": "No, pero ¿cómo llego al veintisiete de octubre? ",
+            "cosine_dist": 0.8034311546038625,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 541.731,
+            "end_time": 543.712,
+            "text": "A ver, vas a llegar con... ",
+            "cosine_dist": 0.9360893821799448,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 543.853,
+            "end_time": 544.873,
+            "text": "¿Cómo estaciono el barco? ",
+            "cosine_dist": 0.7912826542516952,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 544.933,
+            "end_time": 563.164,
+            "text": "¿Dónde está el barco?  El barco va a tener problemas de amarra.  Va a llegar a puerto, si es que llega, con zozobra.  Pero lo importante es más, porque yo no soy político.  Entonces no miro las elecciones y llegar a las elecciones.  Y a la gente... le construyo a mi profesión escenarios para adelante. ",
+            "cosine_dist": 0.7208416893136227,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 563.564,
+            "end_time": 564.164,
+            "text": "¿Y qué veo? ",
+            "cosine_dist": 0.9269890138275486,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 564.805,
+            "end_time": 600.558,
+            "text": "Acá va a haber un escenario que va a venir, creo yo, que tiene riesgo de... En la cadena de default se va a seguir avanzando y como las LELIC no nos escucharon y no se arregló el balance del Banco Central, que era la alternativa de limpiar el balance del Banco Central para por lo menos, ya estando en default, arreglar el problema de la amenaza del riesgo hiperinflacionario.  No lo hicieron.  Entonces... vas a poder ir probablemente a un default interno, que es el próximo gobierno.  probablemente te meta un BONEX para las LELICs.  Obviamente... ",
+            "cosine_dist": 0.729630807785029,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 600.738,
+            "end_time": 603.5,
+            "text": "Cuando decís default interno es no pagar qué. ",
+            "cosine_dist": 0.7172922217559008,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 603.84,
+            "end_time": 675.865,
+            "text": "No pagar las LELICs que tienen del otro lado los depósitos.  Y como son, la gente es populista, y todos los políticos son populistas, aman tratar a las personas desigualmente frente a la ley.  Entonces, al que tiene un plazo fijo, bajito, le van a decir, vos banco a este, pagale, y yo te doy redescuento.  Al que tiene un plazo importante... Un plazo fijo intermedio le van a dar un bono a invento, a un año.  Y el que tiene uno grandote le van a dar un bono a dos años.  No lo sé, porque estas medidas económicas permiten mucha creatividad.  Y después viene lo más problemático.  ¿Qué es?  Al fondo hay que pagarle, en concepto de intereses y amortizaciones de deuda, el próximo presidente, cincuenta y un mil millones de dólares.  ¿Y qué se va a avanzar?  Al default con el fondo.  Porque si al fondo vos le pedís patear para adelante los pagos, eso es un default.  Y el fondo es un prestamista privilegiado que nunca en la historia aceptó un default.  Entonces, ¿qué sucede?  Vamos a empezar a trabajar... ",
+            "cosine_dist": 0.7094256058097169,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 675.885,
+            "end_time": 676.905,
+            "text": "Bueno, pero reprogramaciones. ",
+            "cosine_dist": 0.7766999621266433,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 676.945,
+            "end_time": 763.573,
+            "text": "Pero una reprogramación con pateando plazos, manteniendo el monto de la deuda y la tasa de interés, es bajarle las acreencias al acreedor, bajarle el valor económico.  Ergo, es un default.  Entonces, ¿qué va a suceder?  Acá vamos a entrar en el default más problemático de la historia, porque va a ser la primera vez... que un país va a defaultear al fondo.  Entonces, ¿qué sucede en eso?  Ahí va a entrar un trade-off entre, ok, vos fondos querés seguir siendo prestamista que no acepta quitas, la quita que le voy a hacer a los bonistas, entonces va a ser mayor todavía.  Y va a empezar a jugar, que este es el último eslabón, el cuarto eslabón de la cadena de defaults.  Este es el selectivo, después viene el doméstico, Después viene el fondo.  Y del otro lado, todo esto va a generar que la demanda de dinero, como decía Javier, se desplome a niveles subterráneos.  Del otro lado, el dólar y la inflación van a volar.  Y esto va a tener consecuencias muy negativas en la economía real.  Y Argentina probablemente vaya hacia una de las peores crisis de la historia porque va a tener ingredientes donde... los valores, las variables socioeconómicas van a alcanzar niveles, tal vez, en varios indicadores, nunca alcanzados en el pasado. ",
+            "cosine_dist": 0.6699726931342801,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 764.633,
+            "end_time": 769.874,
+            "text": "Este es un proceso también de cierta dolarización, de.  hecho.  ¿Se termina en eso? ",
+            "cosine_dist": 0.7358385207365163,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 770.554,
+            "end_time": 879.637,
+            "text": "Bueno, nosotros, de hecho, en el libro Libertad, Libertad, Libertad, lo que proponemos es directamente algo mucho más radicalizado que la dolarización.  Porque vamos a ponerlo en estos términos.  Si vos tenés que elegir entre la dolarización y lo que se llama la convertibilidad, en principio la convertibilidad era superior.  ¿Por qué?  Porque vos, al tener un sistema de encaje fraccionario, frente a una situación de corrida, vos podés resolverla dando redescuentos contra buenos créditos.  Por ejemplo, como se hizo durante el tequila.  Mientras que Roque Fernández era presidente del Banco Central.  Pero, ¿qué es lo que pasa?  Si vos llegás a tener una situación de las mismas características, pero dolarizado, vos no podés emitir dólares.  Ese es el primer problema.  Entonces, lo que nosotros decimos es, a ver, ¿cuál es tu único motivo por el cual vos tendrías un Banco Central?  El único motivo por el cual vos tendrías un Banco Central es para que te actúes de prestamista de última instancia.  Ahora, si vos eliminás la función de prestamista de última instancia, no lo necesitas más.  Por eso nosotros proponemos un sistema de banca Simon, que es un almacén de valor, que es como si fuera una caja fuerte, dejas tu dinero, lo retiras cuando quieras, te puedes sacar fotos con el dinero, lo vas a visitar, le decís hola, ¿cómo estás?  A los dólares, ¿qué tal?  Benjamin, ¿cómo estás?  Por flanque, ¿no?  Y al mismo tiempo te cobran un fee.  Y por otro lado, si vos te gusta ganar tasa de interés, dice el dicho que si te gusta el durazno, báncate la pelusa, vas a fondos comunes de inversión, donde vos ganas tasa de interés.  Que a diferentes niveles de riesgo vas a tener diferentes tasas de retorno y el mismo proceso de mercado va a liquidar a los que son malos y va a dejar a los que son buenos.  Y en caso de que se caiga un fondo, no tiene que sociabilizarse la pérdida.  Una vez que vos haces eso y separaste esto que es la banca Simon, o sea, banca almacén de valor... ",
+            "cosine_dist": 0.3412104771701838,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 879.777,
+            "end_time": 881.778,
+            "text": "O sea, que la moneda la emite cualquiera. ",
+            "cosine_dist": 0.834319635190912,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 882.439,
+            "end_time": 923.323,
+            "text": "Todavía no llegamos a ese punto.  Una vez que vos haces eso, vas a un sistema de banca libre de modo tal que los propios bancos tengan incentivos a hacer las cosas bien porque si no lo pagan con su patrimonio y se lanza la competencia de monedas.  Desde nuestro punto de vista, a la luz de lo que ha sido la historia argentina, la moneda que va a elegir el argentino va a ser el dólar.  Una vez que vos encontrás la moneda que eligió la gente, vas a tomar los activos del Banco Central, lo vas a mapear contra los pasivos del Banco Central y ahí lo vas a convertir.  Y entonces pasás a tener una economía, supongamos, dolarizada.  Y ahora es la parte más interesante de todo esto. ",
+            "cosine_dist": 0.3781492712761323,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 924.07,
+            "end_time": 925.413,
+            "text": "que son las vacaciones. ",
+            "cosine_dist": 0.8930141778363992,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 925.453,
+            "end_time": 930.404,
+            "text": "No, los argentinos tenemos en el colchón cuatrocientos mil millones de dólares. ",
+            "cosine_dist": 0.5301859434670295,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 930424,
+            "end_time": 930464,
+            "text": "La ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 931.787,
+            "end_time": 956.146,
+            "text": "inyección que esto podría implicar en el sistema productivo, toda esa riqueza acumulada para financiar nuevos proyectos de inversión, no solo que implicaría una tasa de interés bajísima, sino que implicaría una cantidad enorme de proyectos donde vos empezarías a notar tasas de crecimiento como nunca en la historia argentina, otra que tasas chinas. ",
+            "cosine_dist": 0.4021338963963359,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 956.446,
+            "end_time": 957.387,
+            "text": "Ahora, discúlpenme... ",
+            "cosine_dist": 0.9708093020541632,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 958.487,
+            "end_time": 959.929,
+            "text": "Y obviamente no tenés más inflación. ",
+            "cosine_dist": 0.7281737087536561,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 959.949,
+            "end_time": 969.616,
+            "text": "Si todo este problema se resuelve dándole una pequeña puntapié en alguna parte sensible al presidente Sanleris del Banco Central... ",
+            "cosine_dist": 0.699082754964122,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 969.876,
+            "end_time": 972.318,
+            "text": "No, no, es eliminar el Banco Central. ",
+            "cosine_dist": 0.634590165381544,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 972.338,
+            "end_time": 980.323,
+            "text": "Y cerrar las puertas y quizás hasta ir con un bulldozer y eliminar el edificio.  Esto no ha sido contemplado por ninguno. ",
+            "cosine_dist": 0.6522128307209928,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 981.364,
+            "end_time": 984.185,
+            "text": "Déjamelo explicar a mí.  A ver, te explico cómo es la situación. ",
+            "cosine_dist": 0.528788316618766,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 984.205,
+            "end_time": 992.87,
+            "text": "Bueno, yo le voy a explicar a la gente que ellos a veces discuten entre ellos.  No, no, no es que estamos discutiendo.  A él le gustan los gatos y a él le gustan los perros.  Es importante esta... ",
+            "cosine_dist": 0.6755117415418435,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 993.23,
+            "end_time": 1048.252,
+            "text": "No, no, pero yo para acompañarlo con la idea.  A ver, ¿cuál es el punto?  El punto central es que la inflación es una estafa.  Esto, digamos, por ejemplo, suponete nosotros estamos acá en una economía que transamos en monedas de oro.  Ahora suponete que yo agarro y encuentro la forma de convertir el plástico en oro.  E ingreso ese plástico con forma de oro, que nadie se da cuenta, y ingresa como oro.  Entonces todos trabajamos como si fuera oro.  ¿Qué pasa?  El precio del oro cae y todos los precios expresados en unidades de oro suben.  Y eso se llama inflación.  Entonces hay alguien que se perjudicó y hay alguien que se benefició.  ¿Quién fue el que se benefició?  El que pudo falsificar.  ¿Quién es el que puede falsificar de la mejor manera?  El Banco Central.  Es decir, eso es una estafa.  El Banco Central es una estafa.  Es un robo de la corporación política contra los individuos. ",
+            "cosine_dist": 0.3922661635141118,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1048.473,
+            "end_time": 1051.254,
+            "text": "Bueno, perdónenme porque tenemos que ir a un corte. ",
+            "cosine_dist": 0.7229111604043053,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1051.274,
+            "end_time": 1052.294,
+            "text": "Bueno.  Les propongo... ",
+            "cosine_dist": 1.016249913989965,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1052.334,
+            "end_time": 1093.756,
+            "text": "Sí, quiero seguir con esto.  Les propongo a ustedes una breve interrupción, una disrupción, como dicen ahora en la economía, para volver con estos dos caballeros.  Y además... con una especie de atractivo.  ¿Qué hicieron con Carlos Menem?  ¿Por qué estuvieron con Carlos Menem?  Quiero que me expliquen cómo es la relación de ellos con Alberto Fernández, la relación con un liberal como Guillermo Nielsen.  Y si todo es tan fácil, ¿por qué el resto de la gente no ve esto?  En un minuto nomás vamos a seguir con estos dos caballeros, el gato y el perro o el perro y el gato.  Perdón, no te dije Macri. ",
+            "cosine_dist": 0.6799408010164999,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1094.096,
+            "end_time": 1098.377,
+            "text": "No, gracias. ",
+            "cosine_dist": 0.9188462762232864,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1098.397,
+            "end_time": 1121.154,
+            "text": "Claro.  A la gente de Turismo City.  vamos a pedirle que también ofrezca el tema de los barcos y sobre todo el barco de la Kunza.  Pero había quedado pendiente... Una aclaración y un complemento de parte de Diego sobre todo este tema del cierre, la eliminación del Banco Central. ",
+            "cosine_dist": 0.6546177344885737,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1121.174,
+            "end_time": 1123.356,
+            "text": "El control de capitales que empezó hoy... ",
+            "cosine_dist": 0.8610051898257666,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1124.247,
+            "end_time": 1127.489,
+            "text": "es una expresión máxima... Perdón, la sensación es que hay control de cambio. ",
+            "cosine_dist": 0.8618798362165849,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1127.569,
+            "end_time": 1226.581,
+            "text": "Control de cambio, si me equivoqué la palabra.  El control de cambio que empezó hoy es, como decía Javier, un máximo exponente de la estafa del Estado.  Es un instrumento coercitivo que te hace, te obliga a despojarte de tus dólares y te obliga a quedarte con los pesos que no querés que emite el Estado.  ¿Y esto cuál es el problema?  Que nosotros, los argentinos, Ahorramos en dólares, porque el dólar preserva nuestro poder adquisitivo y nos asegura nuestro consumo futuro, que es nuestra prosperidad y porvenir.  Entonces, ¿qué sucede?  Esto hay que entenderlo.  El peso no es reserva de valor.  Y esto nos convierte en una berraris diferente a los países de la región.  ¿Por qué?  Porque cada vez que nosotros ahorremos... o queramos ahorrar, o sea, ya sea diez, cien, mil, diez mil o cien mil dólares, eso te genera en el momento que ahorramos un desequilibrio al mismo tiempo en el mercado cambiario y en el mercado de dinero.  ¿Cómo se equilibra?  Con salto del dólar, salto de la tasa de interés y después suba de precios que va por detrás.  Entonces, ¿qué te genera esto?  Ninguna economía con esta dinámica Puede funcionar bien.  Y no se puede bajar la inflación con Banco Central y con política monetaria si no hay demanda de dinero.  Y si no te des demanda de dinero por reserva de valor, como pasa en Argentina, vos tenés una demanda de dinero muy volátil que se cae cada dos por tres. ",
+            "cosine_dist": 0.6673412682905988,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1226.641,
+            "end_time": 1234.265,
+            "text": "O sea que es mejor o más sencillo eliminar el Banco Central y no cambiar la costumbre de los argentinos para ahorrar en dólares. ",
+            "cosine_dist": 0.6565743586704742,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1234.445,
+            "end_time": 1240.308,
+            "text": "Cambiar la costumbre de los argentinos es imposible.  Bajar la inflación con Banco Central... ",
+            "cosine_dist": 0.7369658411803297,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1240.328,
+            "end_time": 1248.753,
+            "text": "Está bien, cerramos el Banco Central.  Ahora, ¿por qué razón el resto de los países del mundo no tienen inflación y tienen Banco Central? ",
+            "cosine_dist": 0.6630311734668066,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1248.813,
+            "end_time": 1308.108,
+            "text": "Corrección.  Punto número uno.  Primero, porque tienen algo que nosotros no tenemos, que cada uno de esos ciudadanos... ahorran en la moneda que emite su Banco Central, cosa que nosotros no.  Y no todos los países del mundo tienen Banco Central.  Alemania no tiene, Dinamarca no tiene, Francia no tiene, Bélgica no tiene.  Entonces, acá se ve claramente otra patraña de la casta política cuando te dice que tener moneda emitida por los políticos es soberanía.  No, soberanía es poder.  Ahorrar en la moneda en la cual crees y confías y asegurarte un porvenir que te permita tener mayor prosperidad, que es la que te saca el peso el Banco Central y la política monetaria del Banco Central que financió siempre los delirios fiscales de la casta política.  Por eso no queremos peso, por eso no ahorramos en peso.  Y esto es irreversible. ",
+            "cosine_dist": 0.6821290376406215,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1309.348,
+            "end_time": 1310.349,
+            "text": "Ustedes estuvieron con Menem. ",
+            "cosine_dist": 0.9289194647024195,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1311.181,
+            "end_time": 1311.841,
+            "text": "Sí, así es. ",
+            "cosine_dist": 0.8640787336194968,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1312.882,
+            "end_time": 1315.862,
+            "text": "¿Invitados por Menem o ustedes quisieron conocerlo? ",
+            "cosine_dist": 0.7550884207648347,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1316.283,
+            "end_time": 1363.484,
+            "text": "Bueno, digamos, en distintos episodios me tocó estar en televisión.  Yo hice siempre una defensa de lo que fue el primer gobierno de Menem.  O sea, todo el periodo de Menem y en especial el primer gobierno de Menem.  Básicamente, el elemento sobre el que yo me sustento es un artículo de Gerardo La Poblera, Betsy Caserigo, que se llama Passing the Back, donde básicamente utiliza un indicador desarrollado por Robert Barro, un profesor de la Universidad de Harvard, que se llama Índice de Presión Agroeconómica.  Ese índice muestra que a lo largo de toda la historia argentina el mejor gobierno de la historia fue el primer gobierno de Menem.  Y el segundo gobierno de Menem, que siempre se lo denota, quedó tercero. ",
+            "cosine_dist": 0.4485268109472801,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1364.904,
+            "end_time": 1367.446,
+            "text": "¿Y qué pasó en la reunión? ",
+            "cosine_dist": 0.5888799338948634,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1368.226,
+            "end_time": 1389.557,
+            "text": "Muy interesante, nos invitó a tomar el té.  O sea, yo realmente quería conocerlo, Javier también, él nos quería conocer a nosotros, nos manifestó que le gustaba el trabajo que hacíamos, la difusión de las ideas que hacíamos, y nada, tomamos el té, hablamos de cosas, sándwiches, una reunión de una hora y media muy amena. ",
+            "cosine_dist": 0.7263654600240572,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1390.117,
+            "end_time": 1391.398,
+            "text": "¿Y con Fernández cómo están? ",
+            "cosine_dist": 0.8680159657771026,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1392.142,
+            "end_time": 1461.516,
+            "text": "Bueno, yo con Alberto tuve la posibilidad de conocerlo.  Yo me lo crucé en distintos canales de televisión.  Empezamos a interactuar y tuvimos almuerzos y tuvimos algunas reuniones en las cuales nosotros tuvimos una interacción sumamente positiva.  Yo siempre manifesté que tengo una opinión muy positiva sobre Alberto Fernández en términos de que es una persona inteligente, es una persona tremendamente pragmática.  Y como si todo fuera poco, él es el responsable armador del kirchnerismo.  Que a mí no me guste lo que fue el kirchnerismo, eso no quiere decir que él no tenga un mérito como armador político.  Por lo tanto, yo siempre tuve una muy buena opinión de Alberto Fernández y como también he manifestado respecto a sus economistas, tengo... Algunos que me caen más simpáticos, como es el caso de Nielsen, y otros que me producen terrible rechazo, como puede ser el caso de Álvarez Ajís o como pueden ser los economistas del Grupo Callao, los cuales considero... ",
+            "cosine_dist": 0.41943091834059476,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1461.696,
+            "end_time": 1484.593,
+            "text": "Pero perdón, lo del Grupo Callao, vamos a explicarle a la gente.  Grupo Callao es un café que está en Callao y La Valle, que en una época, como Alberto Fernández vivió medianamente cerca de ahí, creo, se reunía con varios... con tertulios.  Algunos del sector económico que son, digamos, cuarentones. ",
+            "cosine_dist": 0.6460689068349738,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1484.953,
+            "end_time": 1486.314,
+            "text": "Culfas, compañero mío de facultad. ",
+            "cosine_dist": 1.061380475572301,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1486.634,
+            "end_time": 1488.916,
+            "text": "Sí, hay algunos más.  Álvaro Sajís también. ",
+            "cosine_dist": 0.7662630678012289,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1488.976,
+            "end_time": 1489.997,
+            "text": "Más joven, tiene treinta y ocho. ",
+            "cosine_dist": 1.0641754000444203,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1490.197,
+            "end_time": 1511.451,
+            "text": "El hermano de... Cuarentones.  El hermano de Peirano, creo.  Está también, que parece que sabe de economía, el nieto de Cafiero.  Como la familia sabe de todo, es una gran ventaja.  Pero para explicarle a la gente.  Ahora, esa es... digamos, una especie de matriz que tiene Alberto Fernández, y no es precisamente liberal. ",
+            "cosine_dist": 0.6784654666701193,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1511.631,
+            "end_time": 1590.921,
+            "text": "No, justamente, esa matriz es tremendamente peligrosa.  Recitan todas las teorías económicas que son las responsables del fracaso argentino.  De hecho, todos te recitan keynesianismo.  ¿Cómo podrías sintetizar el keynesianismo?  Política fiscal expansiva, o sea, hacer déficit fiscal financiado con deuda o financiado con emisión monetaria.  Vos sabés que de los últimos ciento dieciocho años, Argentina, ciento ocho, hizo keynesianismo.  De ser el quinto país más rico del mundo, somos sesenta y cinco.  Y te voy a decir algo.  Son los mismos que hablan de ponerle plata en el bolsillo a la gente y todo ese tipo de cosas.  Si vos vas a hacer política fiscal expansiva, yo te aviso, el próximo gobierno va a tener un muy grave problema.  ¿Sabés por?  qué?  Primero porque va a encontrar un país en default, con lo cual no va a poder conseguir financiamiento de deuda.  Y lo va a tener que financiar con emisión monetaria.  Y si lo financia con emisión monetaria en una situación donde se viene derrumbando la demanda de dinero, va a repotenciar el proceso hiperinflacionario sumado a un banco central que está quebrado.  Que para que te des una idea de lo quebrado que está, esto lo mencionó Diego, hoy tenés catorce mil millones de reservas de libre disponibilidad y los pasivos monetarios entre base monetaria Lelix y Paces, que son posiciones a un día, tenés setenta mil millones de dólares. ",
+            "cosine_dist": 0.35152741284292954,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1590.961,
+            "end_time": 1592.841,
+            "text": "Para ustedes explota la Argentina pasado mañana. ",
+            "cosine_dist": 0.7076555358634614,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1592.861,
+            "end_time": 1593.922,
+            "text": "Bueno, mirá cómo será... ",
+            "cosine_dist": 0.9112581553743263,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1594.342,
+            "end_time": 1595.962,
+            "text": "Trata de ser breve porque ya me están echando. ",
+            "cosine_dist": 0.8496921826903918,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1596.102,
+            "end_time": 1622.466,
+            "text": "Mencionaste a Nielsen.  Hace cinco años con Nielsen hablamos de macroeconomía, los dos, casi todos los días.  Yo le aconsejé... Guillermo, yo si fuera vos, vos sos mi amigo... Quedate afuera al principio, porque al principio con esos otros economistas y con el Estado de la economía argentina, lo fiscal y el Banco Central que tenemos, la piña macroeconómica es inexorable. ",
+            "cosine_dist": 0.7221098923306426,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1622.947,
+            "end_time": 1647.266,
+            "text": "Disculpenme, yo escuché el sábado a la expresidenta Cristina de Kirchner, que dijo lo siguiente... Espero que nunca más, termino, nunca más que en su boca suena de un modo mucho más importante que en otra gente.  no haya más neoliberalismo o ideas neoliberales. ",
+            "cosine_dist": 0.6784279306650417,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1647.306,
+            "end_time": 1670.341,
+            "text": "Hacete un picnic.  Voy a ir por dos cuestiones.  Primero la semántica.  Que ser neoliberal es una burrada porque hay libertad o no hay libertad.  No hay una nueva libertad o una vieja libertad.  Hay libertad o no hay libertad.  Es el primer punto.  Y el segundo punto es un término propio de un fascista, propio de un nazi.  Porque en realidad el término neoliberal. ",
+            "cosine_dist": 0.4859759711413155,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1670.381,
+            "end_time": 1672.823,
+            "text": "Se está poniendo bien el programa y justo nos estamos yendo. ",
+            "cosine_dist": 0.7970244290973131,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1673.003,
+            "end_time": 1706.788,
+            "text": "El término neoliberal lo inventó un marxista llamado Alexander Rustov en mil novecientos treinta y nueve.  ¿Sí?  ¿Y sabes para qué lo hizo?  Para poner una posición intermedia entre la posición de los nazis y los fascistas y el liberalismo.  Lo llamó La Tercera Vía, donde Mises le dedicó un libro que se llama El Mito de la Tercera Vía, donde Hayek mostró que esas intervenciones producen fallos del Estado y que siempre conducen a más intervencionismo.  Pero ¿sabés?  ¿Desde qué lado se decía eso?  Desde un lado fascista, desde un lado autoritario, desde un lado de los comunistas que arruinaron al planeta. ",
+            "cosine_dist": 0.4828739098638398,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1707.068,
+            "end_time": 1708.809,
+            "text": "Tengo un regalo.  Tenemos un regalo. ",
+            "cosine_dist": 0.8684045991126033,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1709.149,
+            "end_time": 1710.791,
+            "text": "El angelito, el otro angelito. ",
+            "cosine_dist": 0.7390871737003994,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1710.811,
+            "end_time": 1712.652,
+            "text": "Un regalo muy importante.  No es el libro. ",
+            "cosine_dist": 0.9479265764235701,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1712912,
+            "end_time": 1713012,
+            "text": "No. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1713.533,
+            "end_time": 1720.858,
+            "text": "Te trajimos algo que vas a valorar mucho.  Y es escaso y va a ser cada vez más escaso.  Guardalo bien porque va a valer mucho más. ",
+            "cosine_dist": 0.7763428363878957,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1722.638,
+            "end_time": 1780.723,
+            "text": "Bueno, acá lo tenemos en billete.  Está Washington acá, no está Franklin.  No sé si Franklin no está en lo de mayor densidad.  Pero bueno, gracias, gracias, gracias.  Nos vemos el lunes.  El próximo diecinueve de septiembre, en el Gran Hyatt San Pablo, se realizará el tercer seminario internacional de líderes de Brasil y Argentina. ",
+            "cosine_dist": 0.6723261881275027,
+            "is_target_speaker": false
+        }
+    ]
+}

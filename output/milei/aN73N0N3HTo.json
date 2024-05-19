@@ -1,0 +1,871 @@
+{
+    "Index": 614,
+    "channel_id": "UCqz5tDLcGBJ5obqpSLSkiaQ",
+    "channel": "MILEI PRESIDENTE",
+    "uploader_url": "https://www.youtube.com/@MILEIPRESIDENTE",
+    "id": "aN73N0N3HTo",
+    "url": "https://www.youtube.com/watch?v=aN73N0N3HTo",
+    "title": "\"Quiero cárceles privadas mantenidas por presos trabajando\" Javier Milei en LN- 03/06/22",
+    "duration": 1267.0,
+    "view_count": 103566,
+    "candidate_name": "milei",
+    "quality": "low",
+    "segments": [
+        {
+            "speaker": "Speaker 1",
+            "start_time": 0.06,
+            "end_time": 3.37,
+            "text": "Doctor Javier Milei, ¿cómo le va?  Gracias por venir.  Te diviertes, ¿no?  Te diviertes. ",
+            "cosine_dist": 0.8955103300601908,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3.871,
+            "end_time": 12.354,
+            "text": "Sí, digo, yo festejo mucho el humor y como una forma también de hacer una crítica con menos dolor. ",
+            "cosine_dist": 0.5032751297044908,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 12.995,
+            "end_time": 13.595,
+            "text": "Sí, totalmente. ",
+            "cosine_dist": 0.9812326816190768,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 13.655,
+            "end_time": 25.0,
+            "text": "O sea, me parece que el humor ayuda a, en mi caso, bueno, te consta, digo, vivo haciendo chistes sobre mí mismo que también, digamos, reflejan la autocrítica. ",
+            "cosine_dist": 0.643104674145609,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 25.8,
+            "end_time": 36.947,
+            "text": "Bueno, muchas gracias por venir.  Hola, vamos a charlar con la doctora Sofi Diamante, ¿cómo le va?  Y la señora Milton Re, gran humorista, invitadora, vamos a charlar con todos.  Hoy llegaste a La Matanza, hiciste el desembarco en el Conurbano, ¿puede ser? ",
+            "cosine_dist": 0.8454692831141541,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 36.987,
+            "end_time": 57.501,
+            "text": "Sí, hoy sin anunciarlo y de manera sorpresiva, nosotros hicimos una caminata por la Ferrere, porque bueno, nosotros pensábamos hacer un acto en el corazón de La Matanza y nos censuraron el acto.  motivo por el cual lo vamos a estar haciendo este diez de junio. ",
+            "cosine_dist": 0.4871966043021141,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 57762,
+            "end_time": 58343,
+            "text": "Próximo viernes. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 58.743,
+            "end_time": 62.828,
+            "text": "Exacto, el próximo viernes en la cancha del porvenir. ",
+            "cosine_dist": 0.5706840492103082,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 63.049,
+            "end_time": 65.01,
+            "text": "Con el dipi vas a estar ahí, ¿no? ",
+            "cosine_dist": 0.8872315639715409,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 65.272,
+            "end_time": 72.238,
+            "text": "Sí, va a estar interesante porque va a estar cantando el dipi y una vez que termine el dipi... bueno, voy a estar hablando yo. ",
+            "cosine_dist": 0.7143487022565311,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 72.258,
+            "end_time": 80.982,
+            "text": "¿Vos sentís que hay mucha preocupación de la clase política por, vos decís, me censuraron en la matanza?  ¿Te están empezando a tabicar algunos lugares para ir, te levantan un acto, no te dejan estar? ",
+            "cosine_dist": 0.7763900390494257,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 81.362,
+            "end_time": 88.445,
+            "text": "Sí, sí, me están haciendo varios problemas, ¿no?  O sea, fue, por ejemplo, en Mar del Plata.  me hicieron la vida imposible. ",
+            "cosine_dist": 0.6006369979209631,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 89165,
+            "end_time": 89405,
+            "text": "¿Por qué? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 89.826,
+            "end_time": 97.931,
+            "text": "Porque no nos daban los permisos y estábamos ya... Hasta el último momento hubo toda una contienda de... ",
+            "cosine_dist": 0.5642912302588561,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 97.951,
+            "end_time": 99.752,
+            "text": "Los permisos para ir a un lugar, digamos. ",
+            "cosine_dist": 0.9420106451850722,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 99.772,
+            "end_time": 115.282,
+            "text": "Sí, claro.  Lo que pasa es que vos lo que tenés que pensar es que este tipo de presentaciones en algunos aspectos se parece mucho a un recital de rock and roll.  Entonces vos necesitás un conjunto de habilitaciones, hay un conjunto de situaciones que vos tenés que superar para poder hacer esto.  Sí, claro. ",
+            "cosine_dist": 0.4034769710079267,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 116.322,
+            "end_time": 117.963,
+            "text": "Y no te lo sacan, entonces no podés ir, digamos. ",
+            "cosine_dist": 0.975261596726597,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 117.983,
+            "end_time": 144.755,
+            "text": "Claro.  Bueno, en Mendoza fue todavía mucho más grave porque nos habilitaban y lo bajaban.  O sea, fue una cuestión de que nos estaban zigzagueando todo el tema y eso es una cuestión de coordinación muy complicada porque vos tenés que moverte para hacer eso.  Además, nos complicaban en las reuniones.  Y bueno, así como la gente de Juntos por el Cambio nos dinamita y trata de complicarnos los actos en algunos lugares, también, digamos, Espinosa, La Matanza, nos hizo lo mismo. ",
+            "cosine_dist": 0.42682657350200615,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 144.935,
+            "end_time": 150.299,
+            "text": "Y hoy en La Matanza, como te vi comiendo pancho, y ahora vamos a poner alguna foto, ¿qué caminaste por la calle? ",
+            "cosine_dist": 0.9748181255770703,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 150.419,
+            "end_time": 159.565,
+            "text": "Bueno, pero es algo que yo hago regularmente, lo que pasa es que ahora lo tengo que, en algunos casos, lo tengo que hacer así de manera sorpresiva, porque bueno... ",
+            "cosine_dist": 0.42290558716986326,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 160.085,
+            "end_time": 161.026,
+            "text": "No podés avisar, digamos. ",
+            "cosine_dist": 0.9613983016955249,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 161.346,
+            "end_time": 167.488,
+            "text": "Claro, a veces cuando vos avisás, la política le gusta hacer picardías, por decirlo de alguna manera. ",
+            "cosine_dist": 0.4846548853626943,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 167.508,
+            "end_time": 168.829,
+            "text": "Ya se le va a acabar igual en algún momento. ",
+            "cosine_dist": 0.9741719770313589,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 169.349,
+            "end_time": 179.413,
+            "text": "Bueno, el motivo por el cual los que estamos en la libertad de avanza nos metimos en política es para eso, ¿no?  Para terminar con esta situación. ",
+            "cosine_dist": 0.5598776645377135,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 179.533,
+            "end_time": 186.476,
+            "text": "Esta semana tuviste varias declaraciones fuertes, por ejemplo el tema de los órganos.  ¿Te arrepentís de haber dicho eso?  ¿Lo seguís pensando?  No. ",
+            "cosine_dist": 0.9479279923691603,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 187.116,
+            "end_time": 188.717,
+            "text": "No, porque ¿sabés qué? ",
+            "cosine_dist": 0.7080508235352605,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 189.517,
+            "end_time": 192.159,
+            "text": "Vos dijiste que se tendría que abrir el mercado complementario. ",
+            "cosine_dist": 0.7726184806558973,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 192.219,
+            "end_time": 231.511,
+            "text": "A ver, yo lo voy a plantear en estos términos.  Vos podés estar recitando lo políticamente correcto, vos podés estar recitando lo que dicen las encuestas.  Ahora eso lo que va a hacer es que a lo largo del tiempo seas un incoherente y que seas un velete y que estés diciendo un día una cosa, otro día otra.  Yo tengo un marco... Con el cual yo miro el mundo y interpreto la vida.  Y la verdad es que yo no... A diferencia de la casta inmunda política que tenemos, que está todo el tiempo a ver a la captura del voto, yo en realidad lo que vengo a hacer es proponer un cambio de la Argentina.  Es decir, esa Argentina de los políticos que te mienten y que lo único que les interesa es decirte lo que vos querés escuchar. ",
+            "cosine_dist": 0.40921020452208035,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 231.531,
+            "end_time": 232.411,
+            "text": "A vos no te gusta. ",
+            "cosine_dist": 0.9152628924824303,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 232.631,
+            "end_time": 256.673,
+            "text": "Yo te voy a decir cómo yo veo las cosas.  Después vos te puede gustar o no y hacé lo que quieras.  O sea, es un problema tuyo.  Pero yo... No, pero yo lo que quiero, esto es un punto menor.  Cuando yo empecé a hablar en televisión, ser liberal era una mala palabra.  O sea, si yo hubiera seguido ese consejo de moverme acorde a quedar bien políticamente, entonces nunca hubiera hablado de liberalismo. ",
+            "cosine_dist": 0.4356258293797689,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 256.733,
+            "end_time": 273.291,
+            "text": "Pero espera, contame bien lo de los órganos porque quiero terminar de entenderlo.  ¿Cuál es el límite?  O sea, vos decís, se tiene que mover la venta de órganos o el comercio de órganos, que obviamente está prohibido por ley, vos seguramente si fueras presidente lo cambiarías, dentro del libre mercado.  Ahora, ¿cuál es el límite de eso?  Porque también vas a terminar pudiendo comprar una persona, por.  ejemplo. ",
+            "cosine_dist": 0.8480447217546302,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 273.311,
+            "end_time": 293.368,
+            "text": "A ver, vamos por partes.  Yo hoy, de hecho, hice un hilo doctrinario en Twitter para que justamente ayude a la gente a pensar estos temas.  Acá hay dos definiciones que son cruciales.  Una es la del liberalismo.  El liberalismo es el respeto irrestricto del proyecto de vida del prójimo basado en el principio de no agresión y en defensa del derecho a la vida, a la libertad y a la propiedad. ",
+            "cosine_dist": 0.42974334923288904,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 293.528,
+            "end_time": 294.909,
+            "text": "Sí, hasta ahí estamos bien. ",
+            "cosine_dist": 0.9319245883136743,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 294.949,
+            "end_time": 320.671,
+            "text": "Segundo punto, ¿qué es mercado?  El problema es que la gran mayoría de los economistas no saben ni siquiera lo que es mercado.  El mercado es un proceso de cooperación social... Donde los individuos intercambian voluntariamente derechos de propiedad.  A ver, la primera propiedad que vos tenés es tu cuerpo.  Por lo tanto, o sea, lo que vos hagas y dispongas de tu cuerpo es tu decisión, no debería ser la decisión de otra persona. ",
+            "cosine_dist": 0.3764591810784287,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 320.691,
+            "end_time": 327.437,
+            "text": "Pero ¿cómo evitas la pelea de poderosos?  Que yo que tengo mucha plata le compro a Sofi que no tiene nada de plata, un riñón.  Y ella desesperada me lo da. ",
+            "cosine_dist": 0.8249891131210941,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 327.457,
+            "end_time": 341.808,
+            "text": "Pero a ver, vamos a ponerlo en estos términos.  Primero, cuando vos regulás algo, siempre tenés menos cantidades y mayores precios.  Lo que pasa es que los precios en este mercado, vos los pagás en términos de vidas humanas, de gente que no recibe el trasplante que debería recibir. ",
+            "cosine_dist": 0.39855481120597114,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 341.828,
+            "end_time": 343.149,
+            "text": "Eso también tiene algo de cierto. ",
+            "cosine_dist": 1.0141457594350713,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 343.41,
+            "end_time": 370.126,
+            "text": "No, no, eso es cierto.  ¿Por qué?  ¿Por qué te das cuenta que es cierto?  Porque siempre hay un problema de que hay un faltante.  Fíjate que siempre hay un reclamo de que hay faltante de órganos.  A punto tal que hay ciertas regulaciones verdaderamente perniciosas y profundamente stalinistas, por decirlo de alguna manera.  Pero al margen de eso, esto es lo más interesante.  Vos al final del día, ¿vos qué querés que haya?  ¿Más o menos órganos disponibles para hacer trasplantes? ",
+            "cosine_dist": 0.3207244436944673,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 370.187,
+            "end_time": 372.708,
+            "text": "Más órganos, obviamente.  Bueno, ",
+            "cosine_dist": 0.799622808263163,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 372.848,
+            "end_time": 397.777,
+            "text": "ok, fíjate que interesante esto, porque si vos lo planteás en términos de solución de mercado, la verdad es que los que lo quieren resolver altruistamente lo van a seguir haciendo, los que quieren donarlo porque lo quieren donar van a seguir estando, y vos además estás agregando un mecanismo adicional por el cual vas a poder incrementar la oferta de órganos, porque, a ver, vos, mira, esto hizo un tuit.  Liria hoy que es verdaderamente brillante, dice, mira, vos tenés tu hija a punto de morir.  Sí. ",
+            "cosine_dist": 0.4120461850931125,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 398.657,
+            "end_time": 400.258,
+            "text": "Necesita un órgano. ",
+            "cosine_dist": 0.889096164933153,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 400.338,
+            "end_time": 436.503,
+            "text": "No, no, no.  Vos necesitás pagar una determinada intervención.  Y vos, hay alguien que quiere comprar tu riñón y vos se lo podrías vender.  La verdad que la solución es muy dolorosa.  Estás entregando un órgano.  No es que es un chiste.  Es una cosa muy delicada.  Pero ¿sabés qué es lo interesante?  Que vos teniendo la posibilidad de salvar a tu hija, tu hija se muera cuando tenías la posibilidad de salvarla.  Y eso todavía es muchísimo más doloroso.  Y si vos además le metés las regulaciones del Estado, es muchísimo peor.  Porque quizás hasta te sacan el órgano y se pudre y no salvas ni a tu hija ni a nadie. ",
+            "cosine_dist": 0.3242111665416364,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 436.523,
+            "end_time": 442.826,
+            "text": "Yo te entiendo que el Estado fracasó, funciona mal.  Seguramente el INCUCAI está un poco alejado de eso.  De hecho, sacaron un comunicado enojados con vos. ",
+            "cosine_dist": 0.873700072304724,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 443.086,
+            "end_time": 465.789,
+            "text": "No, eso es muy interesante, ¿no?  Porque cada vez que entonces alguien tiene una posición distinta, ¿vos los vas a repudiar?  No, no, no.  Que Argentina, digamos, abierta al debate, ¿no?  Bueno, pero yo quiero señalar esto, porque eso también es violencia.  O sea, cuando alguien piensa distinto que vos, o sea, te nuclees y te agrupes para salir a repudiar a un tipo, digo, la verdad es que bien intolerantes. ",
+            "cosine_dist": 0.3740449789940852,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 465.949,
+            "end_time": 484.685,
+            "text": "Pero me parece, vos decís, se está muriendo mi hija.  Estoy desesperado, necesito la plata y vendo un riñón para tener la plata y que mi hija pueda pagar el tratamiento a mi hija.  Te vuelvo a decir, ¿cómo evitas que ese mercado abierto, ese mercado libre, genere una disparidad en la cual los que tienen mucha guita le terminen comprando órganos a la gente que está desesperada?  ¿Cómo evitas esa parte? ",
+            "cosine_dist": 0.8442712604252329,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 484.705,
+            "end_time": 489.569,
+            "text": "Pero de vuelta, a ver, ¿cuál es tu primer propiedad? ",
+            "cosine_dist": 0.5801508362448691,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 490.89,
+            "end_time": 491.99,
+            "text": "Y me vas a decir el cuerpo. ",
+            "cosine_dist": 0.9745113612109159,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 492.759,
+            "end_time": 493.58,
+            "text": "¿Y acaso no lo es? ",
+            "cosine_dist": 0.7481323316484517,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 493.66,
+            "end_time": 494.601,
+            "text": "No, sí, seguramente. ",
+            "cosine_dist": 1.1326666319536602,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 494.961,
+            "end_time": 531.672,
+            "text": "La pregunta es, si yo estoy hablando de cooperación social y de intercambios voluntarios, es la decisión de los individuos.  Es decir, entonces la pregunta es, ¿por qué si no tenemos confianza de los individuos para hacer las cosas, cómo le vamos a dar además muchísimo poder?  ¿Por qué le vas a dar el monopolio?  ¿Por qué le vas a dar la regulación?  Si además eso siempre falló.  Que esto de poner el altruismo, o sea, que se hace el altruismo, esa es la misma consigna socialista.  ¿Sabes qué?  Friedman decía una frase que era maravillosa.  El padre del liberalismo.  No, el padre del liberalismo es Adam Smith. ",
+            "cosine_dist": 0.43248844733715275,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 531.712,
+            "end_time": 534.115,
+            "text": "Bueno, tenés razón. ",
+            "cosine_dist": 0.7482682048651307,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 534.635,
+            "end_time": 543.982,
+            "text": "Milton Friedman era un liberal clásico.  O sea, tenés distintos tipos de liberales.  Los autriascos son un poquito más liberales.  O sea, Mises es más liberal, Hayek... ",
+            "cosine_dist": 0.4321270827199074,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 544.042,
+            "end_time": 545.823,
+            "text": "Bueno, pará, pero no te desinformes. ",
+            "cosine_dist": 0.9461398923143726,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 545.883,
+            "end_time": 589.239,
+            "text": "¿Qué es lo importante?  ¿Qué te decía Friedman?  Que las políticas... No se juzgan por las intenciones, se juzgan por los resultados.  La realidad es que vos tenés un problema, si tenés un faltante es porque tenés un problema en exceso de demanda.  Y el mercado ajusta, no es que no ajusta, sí que ajusta.  ¿Ajusta cómo?  Se lo cobra en términos de vidas humanas.  Es decir, si el precio en el mercado paralelo es que se muere gente, y te voy a decir algo que es peor todavía, y se muere gente de que tiene menos recursos, porque en realidad los que tienen más recursos buscan la forma de acomodarse y cambiar sus lugares en las listas.  Entonces empecemos a entender de la corrupción... ",
+            "cosine_dist": 0.4595317717658619,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 589.259,
+            "end_time": 592.482,
+            "text": "Si vos fueras presidente, ¿derogás la ley que prohíbe la venta de órganos? ",
+            "cosine_dist": 1.0167182690089844,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 592.842,
+            "end_time": 641.968,
+            "text": "Mirá, yo creo que toda solución que vos vayas hacia más mercado, hacia donde vos salgas de la... ¿La derogás?  Pero es que hay mucha gente, sí, así como derogaría la ley de alquileres y derogaría todas las atrocidades que pesan sobre los argentinos.  Pero lo que vos tenés que mirar... Que no es que vos no estás pagando el costo, vos estás pagando un costo enorme.  Hay gente que de repente quiere donar sus órganos, está dispuesta a que sean donados, y como no le llega la información, digamos, al órgano de planificación del costo, muere gente.  O sea, por culpa de esa ineficiencia, muere gente.  Ahí vos tenés un exceso de demanda.  Y cuando vos tenés un problema de exceso de demanda, la economía ese problema lo tiene resuelto.  Se resuelve vía precio.  O sea, entonces vos tenés, digamos, poner... Mirá, el hecho de que vos niegues la existencia de un mercado no quiere decir que no exista. ",
+            "cosine_dist": 0.3896364074312302,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 641.988,
+            "end_time": 644.13,
+            "text": "No, no, está bien.  Igual me parece moralmente muy cuestionable, pero dale. ",
+            "cosine_dist": 0.9275952975306545,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 644.31,
+            "end_time": 667.445,
+            "text": "¿Cómo moralmente?  No, no, para, para, no.  ¿Cómo moralmente cuestionable?  Cuando vos, si yo decido, a ver, de vuelta, a ver, te lo pongo de vuelta con un ejemplo que usé el otro día.  Se están, digamos, yo para salvar a mi hijo tengo que donar mi corazón.  Y eso implica que estoy eligiendo dar mi vida por mi hijo.  Digo, ¿dónde está el problema moral?  Si yo, digamos, estoy decidiendo sobre mi cuerpo, ¿quién sos vos para detenerme? ",
+            "cosine_dist": 0.4314492277498444,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 667.485,
+            "end_time": 672.868,
+            "text": "¿Qué hago con mi cuerpo?  Porque en esos casos, me imagino, Javier, que podés sacar un crédito, pedir plata prestada, buscar otra solución. ",
+            "cosine_dist": 0.840871659324786,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 672.908,
+            "end_time": 709.79,
+            "text": "A ver, de vuelta, de vuelta, de vuelta.  Ok, digamos... Decime cómo funciona el mercado de crédito en la Argentina.  ¿Ocho por ciento en términos de PBI?  ¿De qué estamos hablando?  O sea, estamos hablando de ciencia ficción.  Entonces, de vuelta, la realidad es que si vos desregulas, vas a tener más cantidad de órganos, vas a salvar más vidas y ¿sabes qué?  Sobre todo vas a bajar la corrupción.  Y que ¿sabes qué?  Nunca a alguien que regule, que tiene la paranoia y la patología de la regulación, jamás te van a aceptar que el mundo va a funcionar mejor con la gente libre.  ¿Por qué?  Porque se benefician de esas regulaciones. ",
+            "cosine_dist": 0.46803967474979047,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 709.85,
+            "end_time": 711.031,
+            "text": "Te pregunto, Diamante. ",
+            "cosine_dist": 0.9652758711101561,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 711.311,
+            "end_time": 782.106,
+            "text": "Tengo dos preguntas en una.  La primera pregunta es si en algún otro país ya se desreguló el mercado de órganos.  Y la segunda es si el cuerpo es la primera propiedad de una persona, ¿por qué está en contra de la legalización del aborto, por?  ejemplo?  Bien, me encanta.  Primer punto, fallacia ad populum.  O sea, con tu argumento, sabes que la asamblea del año XIII no debería haber determinado la libertad de vientre, para que después la gente sea libre, porque en el mundo, ¿sabes qué?  Regía la esclavitud.  O sea, entonces, digamos, nos hubiéramos quedado todos esclavos.  Con lo cual, lo que pase en el resto del mundo, no me importa.  No me importa, o sea, lo que a mí me importa es el debate, justamente el debate moral, el debate de lo que es el libre mercado, el debate de lo que es la libertad.  Primer punto.  Segundo punto, me encanta, o sea, esto es interesante, digo, porque qué lindo que me vengan a cuestionar pañuelitos verdes, por ejemplo, sobre esto que han hecho un culto de, digamos, sobre que mi cuerpo, digamos, yo tengo propiedad sobre mi cuerpo.  Y es interesante porque justamente la ciencia, esto es un problema científico, determina que la vida inicia desde la concepción.  Y es más, la vida es un continuo con dos saltos discretos, la concepción y la muerte. ",
+            "cosine_dist": 0.43906673417917896,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 782.126,
+            "end_time": 783.347,
+            "text": "O sea, vos estás en contra del aborto, obviamente. ",
+            "cosine_dist": 0.9392361703575884,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 783.407,
+            "end_time": 803.314,
+            "text": "Obviamente que estoy en contra del aborto.  ¿Por qué?  Porque es un ser en evolución.  De hecho, en el mismo momento de la concepción se genera un nuevo ser que tiene un ADN totalmente distinto.  Por lo tanto, es un asesinato agravado.  Es un asesinato calificado, agravado por el vínculo.  Donde además una persona está abusando contra otra, digamos, de una disparidad de fuerzas enormes. ",
+            "cosine_dist": 0.5197406917041432,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 803.334,
+            "end_time": 807.617,
+            "text": "Vos decís que el primer bien que vos tenés es tu cuerpo y deberías poder disponer de tu cuerpo.  Te van a decir del otro lado. ",
+            "cosine_dist": 0.9238489291911025,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 807.737,
+            "end_time": 822.989,
+            "text": "Pero justamente no es tu cuerpo.  No es tu cuerpo, es otra persona.  Yo les digo, agradezcan todos a sus madres que no pensaban así, porque si no ustedes no estaría ninguno acá.  Con lo cual tenés que entender, o acaso vos sos el cuerpo de tu madre. ",
+            "cosine_dist": 0.5255443254491712,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 823.729,
+            "end_time": 825.17,
+            "text": "Bueno, tengo parte de mi madre y le agradezco mucho. ",
+            "cosine_dist": 0.9484313166285478,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 825.25,
+            "end_time": 828.171,
+            "text": "No, no, no, pero vos, o sea, ¿que estás pegado a tu madre ahora? ",
+            "cosine_dist": 0.5379443609275117,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 828.191,
+            "end_time": 829.471,
+            "text": "No, en este momento no, pero... ",
+            "cosine_dist": 0.8049144016920542,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 829.511,
+            "end_time": 853.239,
+            "text": "Bueno, entonces, sos un humano en evolución.  Digamos, sos hoy, digamos, o sea, vos sos hoy, pero eras uno cuando eras chiquito, digamos, vas a ser otro cuando tengas dentro de veinte años.  O sea, entonces, y la vida es un continuo.  O sea, tiene dos saltos discretos.  Cuando se da la concepción y cuando te morís.  Cualquier interrupción en el medio forzada por un tercero es un asesinato. ",
+            "cosine_dist": 0.4832131668223043,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 853.639,
+            "end_time": 858.342,
+            "text": "Me dicen que hay un Mauricio Makirienov que tiene una pregunta para hacerte.  A ver, vamos a ver si es así. ",
+            "cosine_dist": 0.8909956864607687,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 858.362,
+            "end_time": 891.421,
+            "text": "Quiero primero saludarte, querido Javier.  La verdad es que estoy contento, estoy feliz de estar compartiendo contigo esta mesa.  Muy bien.  Y bueno, preguntarte si podemos unir los caminos en el futuro.  Yo sé que hay algunas ideas que quizás no compartimos, pero bueno... Yo quiero que luchemos por algo que yo vengo construyendo hace dieciocho años, ¿no?  Ahí está.  Que vengo peleando hace dieciocho años y me parece que, bueno, juntos podemos hacer que la libertad avance. ",
+            "cosine_dist": 0.8627294222761455,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 891.441,
+            "end_time": 892.361,
+            "text": "¿Te sumarías a Macri? ",
+            "cosine_dist": 0.9528195741404586,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 894.082,
+            "end_time": 896.843,
+            "text": "Yo no entraría a Juntos por el Cambio. ",
+            "cosine_dist": 0.5810290267083646,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 897.823,
+            "end_time": 899.323,
+            "text": "¿O crees que Juntos por el Cambio te entra a vos? ",
+            "cosine_dist": 0.9646878712344259,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 899.343,
+            "end_time": 900.564,
+            "text": "No, no, tampoco. ",
+            "cosine_dist": 0.7615454093333235,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 900.784,
+            "end_time": 902.564,
+            "text": "Tampoco.  Sería un poco fuerte, ¿no? ",
+            "cosine_dist": 0.893669075148773,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 902.624,
+            "end_time": 948.713,
+            "text": "A ver, vamos por partes.  O sea, desde mi visión, Y desde mi diagnóstico, muchos de los que están en Juntos por el Cambio y las ideas que ellos impulsan son el fracaso de Argentina.  Llámese la coalición cívica, que es la Unión Cívica Rica de Al, que es la internacional socialista.  La coalición cívica, que además es un desprendimiento por izquierda del radicalismo.  Y las palomitas de Junto por el Cambio.  Todos adhieren a ideas que le han hecho mucho daño a la Argentina y que de ser un país rico lo han convertido en un país miserable.  De hecho, tienen muchísimo en común justamente con la gente del kirchnerismo.  La forma en la que ven los problemas son calcaditos. ",
+            "cosine_dist": 0.3055639553695231,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 948.813,
+            "end_time": 949.474,
+            "text": "¿Y entonces qué harías? ",
+            "cosine_dist": 0.9711578920887539,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 950.815,
+            "end_time": 971.025,
+            "text": "Ahora, lo que yo digo es que aquellos que creemos en el individuo, en la responsabilidad individual y que la salida es por el lado de la libertad, yo estoy dispuesto a recibirlos en la libertad avanza.  A punto tal, yo señalé que a los... Yo dije que... sacando la socialdemocracia, si vos querés, del centro hacia la derecha. ",
+            "cosine_dist": 0.3730023462295039,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 971.866,
+            "end_time": 972.807,
+            "text": "Bullrich, Macri. ",
+            "cosine_dist": 0.9826994062688373,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 973.147,
+            "end_time": 976.19,
+            "text": "Entonces entraría, por ejemplo, los liberales, entrarían... ",
+            "cosine_dist": 0.5353744132175904,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 976.25,
+            "end_time": 977.951,
+            "text": "¿Te imaginas una alianza estratégica? ",
+            "cosine_dist": 0.9263356053611516,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 977.971,
+            "end_time": 988.199,
+            "text": "Claro, digamos, el peronismo republicano, el peronismo federal, el menemismo.  Y dentro de eso, si los halcones quisieran venir a la libertad de avanza, yo los recibo con los brazos abiertos. ",
+            "cosine_dist": 0.4620238734128984,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 988.3,
+            "end_time": 988.92,
+            "text": "¿Vos querés que vengan a vos? ",
+            "cosine_dist": 0.9812275810909373,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 988.98,
+            "end_time": 1039.991,
+            "text": "No, no, no, pero fíjate la forma en que lo hago.  Si quieren, no, porque es un problema de construcción de espacios.  O sea, nosotros... Tenemos la intención de ganar, pero queremos ganar con una estructura consistente que tenga mandato y que no tenga un problema, que uno quiere ir para un lado y otro para el otro.  Y esto es importante, ¿sabes por?  qué?  Porque yo dije, si quiere venir Macri, que venga, lo recibimos.  Y además, no solo eso, además le da la muela interna, porque si la gente quiere que... Mauricio Macri sea el que lidera este cambio de verdad, yo no tengo problema, o sea, hasta lo acompañaría.  Ahora, también puede ser que quieran el liberalismo más puro y genuino que es el que nos va a sacar... ",
+            "cosine_dist": 0.40500516672674114,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1040.131,
+            "end_time": 1042.771,
+            "text": "Tenemos una pregunta más de alguien que me parece que es liberal y puro. ",
+            "cosine_dist": 0.8644017405151162,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1042.811,
+            "end_time": 1056.96,
+            "text": "Yo quisiera preguntarte por qué hace cuánto, cuánto que no me mandás un bazar.  Cuánto hace que no hablamos.  Cuánto hace que los liberales no nos juntamos a tomar un café.  ¿Qué pasó?  ¿En qué te convertiste, Javier Milei? ",
+            "cosine_dist": 0.8751074882638116,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1057.0,
+            "end_time": 1058.842,
+            "text": "¿Estás bien ahí o más o menos? ",
+            "cosine_dist": 1.1000727994484336,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1059.163,
+            "end_time": 1073.557,
+            "text": "No, mirá, nosotros la última vez que estuvimos juntos fue en la reunión de labor parlamentaria.  Sí, en el Congreso.  Y yo digo, no tengo ningún problema en particular con él.  O sea, digamos... ",
+            "cosine_dist": 0.5261432158926282,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1074.258,
+            "end_time": 1077.461,
+            "text": "Pero están como distanciados, ahora están en lugares distintos.  Está ",
+            "cosine_dist": 0.8361120203598064,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1077.501,
+            "end_time": 1092.457,
+            "text": "bien, bueno, pero él tiene una forma de ver las cosas, yo tengo mi forma de ver las cosas y la realidad es que con la cantidad de actividades que tengo, o sea, hace que no solo no lo vea a José Luis, hay un montón de gente que lo veo y que me encanta. ",
+            "cosine_dist": 0.4433032582113211,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1092.857,
+            "end_time": 1100.722,
+            "text": "Te hago una más cortita porque nos queda casi nada de tiempo.  Contame rápido qué harías con las cárceles.  ¿Vos querés que los presos paguen?  Si no tienen un mango, ¿cómo van a pagar? ",
+            "cosine_dist": 0.8706568364118165,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1100.762,
+            "end_time": 1102.263,
+            "text": "Que paguen laburando. ",
+            "cosine_dist": 0.682744115960257,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1102.903,
+            "end_time": 1105.825,
+            "text": "¿Vos querés que laburen?  ¿Los pondrías a laburar todos fuera de la cárcel o dentro de la cárcel? ",
+            "cosine_dist": 0.9158914421803158,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1106.385,
+            "end_time": 1124.043,
+            "text": "Bueno, eso tiene que buscar el esquema... Yo soy partidario de que las cárceles sean privadas.  Entonces, quienes van a estar en la cárcel van a tener que cumplir además y mantenerse Con el trabajo de los presos, claramente. ",
+            "cosine_dist": 0.40025841193370926,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1124.463,
+            "end_time": 1127.466,
+            "text": "Muy bien.  ¿Vos creés que la inflación se puede resolver en meses, como dice la reta? ",
+            "cosine_dist": 0.9532537275207401,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1127.826,
+            "end_time": 1128.827,
+            "text": "No, es falso eso. ",
+            "cosine_dist": 0.8929946030969205,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1129.188,
+            "end_time": 1129.968,
+            "text": "¿No se resuelve en meses? ",
+            "cosine_dist": 1.0696453201495784,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1130.329,
+            "end_time": 1142.12,
+            "text": "No, no.  Vos, aun cuando hoy cortaras la emisión de dinero, hoy, vos vas a tardar por lo menos entre dieciocho y veinticuatro meses en que pare la inflación porque vos tenés rezagos. ",
+            "cosine_dist": 0.48053845203455103,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1142240,
+            "end_time": 1142581,
+            "text": "Dos años. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1143.461,
+            "end_time": 1216.016,
+            "text": "Sí, entre un año y medio y dos años.  O sea, ¿qué es de hecho lo que te pasó con la convertibilidad?  La convertibilidad era muy fuerte, ¿por qué?  Porque la oferta de dinero quedaba siempre mapeada con la demanda de dinero.  No había exceso de oferta, con lo cual no tenía forma de generar inflación.  Pero vos, ¿qué pasa?  Vos tenías los rezagos de los desastres que habían ocurrido antes, la hiperinflación del Fonsil y la hiperinflación que había tenido el propio MEN.  Y te voy a pasar un dato para que veas lo difícil que está esto.  Inflación, primeros cuatro años el quicerismo, diez.  Segundos, veinte.  Terceros, treinta.  Macri, cuarenta en promedio.  Hoy tenés cincuenta y ocho en los últimos doce meses.  Si vos tomás los últimos cuatro meses y lo anualizás, estás en ochenta y cinco.  Si tomás la punta corta, el último dato, estás arriba del cien.  Si tomás alimento, que es un leading indicator, estás en ciento treinta.  Si corregís por brecha, estás en trescientos cincuenta por ciento.  Aún cuando, digamos, Alberto Fernández recibiera el rayo Milton Friedman en su cuerpo y se pusiera hiperortodoxo, ¿sabés qué pasa?  No va a poder parar la inflación por el tema de los rezagos y tiene un problema adicional.  Que vos para lograrlo además tenés que ser creíble, pero para ser creíble tenés que tener reputación.  Y si hay algo que él no tiene, es reputación. ",
+            "cosine_dist": 0.42715196067205563,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1216.196,
+            "end_time": 1221.6,
+            "text": "Me olvidé de preguntarte qué pasa con Alberto y Cristina, pero lo dejamos para otro programa, nos quedamos sin tiempo.  ¿Te pareció bien la reconciliación?  ¿Les crees nada? ",
+            "cosine_dist": 0.9540367469920421,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1221.74,
+            "end_time": 1224.822,
+            "text": "No, me pareció una humillación tremenda y una trampa. ",
+            "cosine_dist": 0.6385171872976858,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1225.182,
+            "end_time": 1226.043,
+            "text": "¿Una humillación de Alberto? ",
+            "cosine_dist": 1.0470589927251268,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1226.363,
+            "end_time": 1242.092,
+            "text": "No, Cristina lo humilló a Alberto porque le está diciendo, Tomás, usá la lapicera.  Entonces lo está tratando de tonto porque no la usa.  Y si después la termina usando, termina siendo como un sometido a lo que ella quiere.  Con lo cual, cualquiera de los dos escenarios para Alberto son pésimos. ",
+            "cosine_dist": 0.5098438665453463,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1242192,
+            "end_time": 1242712,
+            "text": "Gracias, Javier. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        }
+    ]
+}

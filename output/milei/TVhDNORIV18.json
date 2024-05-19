@@ -1,0 +1,983 @@
+{
+    "Index": 664,
+    "channel_id": "UCITlK8K3kIHkLyYGss2iE5w",
+    "channel": "Conexión Abierta",
+    "uploader_url": "https://www.youtube.com/@RadioConexionAbierta",
+    "id": "TVhDNORIV18",
+    "url": "https://www.youtube.com/watch?v=TVhDNORIV18",
+    "title": "\"Demoliendo Mitos\" con JAVIER MILEI 16-11-18 /Radio Conexion Abierta",
+    "duration": 3374.0,
+    "view_count": 34315,
+    "candidate_name": "milei",
+    "quality": "low",
+    "segments": [
+        {
+            "speaker": "Speaker 2",
+            "start_time": 0.22,
+            "end_time": 2.21,
+            "text": "En Conexión Abierta. ",
+            "cosine_dist": 0.8143626287126571,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 2.29,
+            "end_time": 17.794,
+            "text": "Radio Conexión Abierta, ganadora el premio Martín Fierro dos mil diecisiete a la mejor programación en radio online nativa digital.  Conexión Abierta, hoy más que nunca, tu medio digital audiovisual. ",
+            "cosine_dist": 0.8569010368804977,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 29.39,
+            "end_time": 57.452,
+            "text": "Todos los temas que atraviesan a la actualidad económica de Argentina y del mundo, desde una perspectiva libertaria, están en Demoliendo Mitos.  Javier Milei te invita a derrocar los grandes mitos del análisis económico que tanto han contribuido a la decadencia económica, social y cultural del país.  Si luego de tanta pasión puchiana te quedan fuerzas, el remate te llevará a conocer ramas insólitamente divertidas que te permitirán ver la realidad desde la óptica de un economista. ",
+            "cosine_dist": 0.7517225260249056,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 71.617,
+            "end_time": 92.995,
+            "text": "Hola, hola, hola, hola, mis queridos amigos.  Hemos vuelto a los buenos tiempos.  ¡Qué grande!  ¡Volvió la dupla!  ¿Cómo anda, Nazari?  ¿Cómo anda?  ¿Qué cuentas?  Feliz.  Feliz de estar acá.  ¿Qué cuentas?  Absolutamente contento.  Imagino que al que aplode es a mí.  Por supuesto, ¿no?  La leyenda del retorno. ",
+            "cosine_dist": 0.7327259109356971,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 93.015,
+            "end_time": 96.037,
+            "text": "Hay un disco de rock de la vieja época que se llama La leyenda del retorno. ",
+            "cosine_dist": 1.042835322279463,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 96.757,
+            "end_time": 97.798,
+            "text": "Qué grande, Javier. ",
+            "cosine_dist": 0.9832041883484026,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 97.858,
+            "end_time": 104.962,
+            "text": "Siempre estuviste porque hemos hablado mucho de vos y aparte la gente te ve en el tour que es extraordinario.  Y si me permitís lo que te decía hace un ratito. ",
+            "cosine_dist": 0.9604212203525061,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 104.982,
+            "end_time": 107.363,
+            "text": "Contalo, contalo tranquilamente.  Boom ",
+            "cosine_dist": 0.8165684092998797,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 107.403,
+            "end_time": 111.427,
+            "text": "total en la ciudad de La Plata, una ciudad difícil para el liberalismo, me llegó ",
+            "cosine_dist": 0.9578159837238489,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 111.507,
+            "end_time": 112.928,
+            "text": "por todos lados, yo no pude ir, ",
+            "cosine_dist": 1.0524244949355104,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 113.509,
+            "end_time": 123.858,
+            "text": "pero bueno, vos sabrás la cantidad de gente que fue, pero la cantidad de comentarios que recibí en una ciudad que siempre fue jodida para la ciudad nuestra, siempre, por motivos culturales, millones, ",
+            "cosine_dist": 0.9743697454899989,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 123.878,
+            "end_time": 124.618,
+            "text": "no importa. ",
+            "cosine_dist": 0.9147446831421333,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 126.06,
+            "end_time": 130.323,
+            "text": "Haber metido el tour de la libertad en La Plata, yo te lo aplaudo de pie, es muy grosso. ",
+            "cosine_dist": 0.9678931333502503,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 131.224,
+            "end_time": 186.232,
+            "text": "Mirá, había cuatrocientas cincuenta butacas, porque eran treinta por quince, así que ahí tenés cuatrocientas cincuenta butacas, pero además había un montón de gente parada.  Sí, sí.  O sea, la verdad que fue interesante, digamos, un conjunto de charlas que estoy haciendo con Mauricio Alessandro, Mauricio se confiesa originalmente keynesiano y básicamente en las distintas interacciones que vamos teniendo él va descubriendo que había algo distinto en la forma en la cual yo estaba encarando los temas y lo que se empieza a dar cuenta es que esa magia que tiene el keynesianismo la gente no lo entiende, es porque, claro, la gente no lo entiende porque tiene un problema lógico, porque está mal. ",
+            "cosine_dist": 0.43766226685001797,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 187.392,
+            "end_time": 192.554,
+            "text": "No, o sea, esa es la lógica esencial.  Hay un ruido que no termina de secular. ",
+            "cosine_dist": 0.8920224340906079,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 192.694,
+            "end_time": 226.282,
+            "text": "Claro, es decir, la gente no entiende a los economistas, porque no se entiende porque está mal.  El keynesianismo es un error teórico.  Es decir, el propio multiplicador es una pelotudez.  Es antiintuitivo, además.  ¿Cómo puede ser que el derroche te lleve, digamos, a... al paraíso, lo cual es una locura.  Bueno, porque en realidad la locura es el multiplicador, esa locura es que violás la restricción del presupuesto.  Y aparte como a los keynesianos les pasa que no pueden continuar el razonamiento. ",
+            "cosine_dist": 0.45320535285785213,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 227.002,
+            "end_time": 228.482,
+            "text": "La emisión no causa inflación. ",
+            "cosine_dist": 1.014888631232587,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 228.783,
+            "end_time": 310.828,
+            "text": "¿Emití plata?  Ah, no, no puedo.  Bueno, claro, de hecho lo que yo decía, Kicillof dice que emitir no causa inflación.  De hecho, hace cero los impuestos.  Todos los liberales te van a aplaudir y financiar el gasto público todo con emisión monetaria.  Claro.  ¿Por qué no lo haces entonces?  Yo soy un hijo de puta, ¿todavía querés cagarle la vida a la gente?  O sea, a mí lo que más me molesta es la incoherencia, ¿no?  O sea, vos sabés que el otro día me hizo una nota ahí de Izuni, ¿no?  Entonces me dice, bueno, ¿vos cómo te describirías?  Bueno, como una persona que es coherente en pensamiento, en palabra y obra.  Es decir, yo creo que el banco, digamos, o sea, la inflación es siempre y en todo lugar un fenómeno monetario.  Argentina, digamos, tiene una historia de inflación verdaderamente deplorable, ¿sí?  Vos sabés que hay varias cosas, ¿no?  Si vos considerás el impacto que tiene sobre la tasa de crecimiento cada vez que pasás el veinte por ciento, que es uno punto cincuenta y ocho, vos sabés que desde que existe el Banco Central, si corregís por su existencia, o sea que te hubieras una inflación normal, bueno, en ese caso Argentina tendría un PBI per cápita similar al ",
+            "cosine_dist": 0.40424530818574644,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 310.848,
+            "end_time": 320.786,
+            "text": "de Estados Unidos.  Es tremendo lo que te decís.  Claro.  O sea, Argentina, con inflación normal, hubiera tenido hoy un PIB igual que Estados Unidos. ",
+            "cosine_dist": 0.9260018643864789,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 321.227,
+            "end_time": 322.907,
+            "text": "Per cápita.  Per cápita, está claro, sí, sí. ",
+            "cosine_dist": 0.9129298919903449,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 323.407,
+            "end_time": 328.028,
+            "text": "Pero podemos decir casi que en esta condición nos llevó casi a la Unión Central. ",
+            "cosine_dist": 0.979456002344016,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 328.529,
+            "end_time": 574.806,
+            "text": "Claro.  Entonces el punto es, bueno, pero vos no emitís dinero porque sí.  Es decir, que ahí está, digamos, si vos querés el truco sucio en el número, ¿no?  En realidad, el Banco Central no deja de ser uno de los brazos armados del Estado.  Uno es el Banco Central, el otro es la AFIP.  Entonces, ha sido un mecanismo por el cual, digamos, los políticos se financiaron y estafaron a la gente.  O sea, básicamente, esa es la idea subyacente detrás del Banco Central.  Entonces, en ese contexto... Alguien siempre te puede decir, bueno, pero todos los países tienen.  Bueno, no, no todos los países tienen.  O sea, Hong Kong no tiene, tiene una caja de conversión, o sea, no es un banco central.  Y después tenés economías que directamente están dolarizadas, que no es lo mismo que no tener un banco central.  Digo, eso ahora lo vamos a explicar.  ¿Por qué no?  Bueno, lo explico ahora.  Sí, dale.  A ver, porque a veces te dicen, vos que preferís una dolarización, ¿no?  Si yo tengo que elegir entre una dolarización, una convertibilidad y tener, digamos, un banco central que controla la cantidad de dinero, por decir algo, me quedo con la última alternativa.  ¿Por qué?  Porque si vos no vas a cambiar el sistema financiero, es una locura.  A ver, ¿cuál es el problema?  El problema es que, te diría, la convertibilidad aún es menos mala que la dolarización.  Porque si vos tenés un sistema de encaje fraccionario, cuando vos infieras que el sector público te va a robar, vas a correr.  Y vos no vas a poder emitir dólares.  Consecuentemente, como no vas a poder emitir dólares, el desastre que vas a hacer en términos de descoordinación de ahorro e inversión, es tremendo y la caída de la actividad va a ser furiosa, o sea, con lo cual por lo menos la convertibilidad te podía, te permitía en algún momento emitir que fue lo que pasó, ¿no?  Y la realidad es que toda esa transición también es muy dolorosa, con lo cual, y además la experiencia ya falló en Argentina, con lo cual te diría ni dolarización ni convertibilidad, o sea, para eso, digamos, me quedo con lo que tengo.  Pero yo voy a algo mucho más radical que es directamente eliminar el Banco Central.  O sea, el fundamento para que exista el Banco Central tiene que ver con la existencia de corridas bancarias.  Es decir, los bancos centrales, o sea, tienen, por ejemplo, la Reserva Federal, digamos, la crean en mil novecientos trece básicamente porque habían tenido veintiocho pánicos bancarios.  Digo que a pesar de eso, ¿sí?  Previo a la Reserva Federal, Estados Unidos tuvo veintiocho pánicos bancarios.  Claro, entonces se agarró y crearon la Reserva Federal para los pánicos bancarios.  Pero la Reserva Federal, digamos, es mixta, no es todo el sector económico.  De hecho, el Banco Central, cuando se creó en Argentina, en mil novecientos treinta y cinco, era mixto también.  Es decir, la mitad del gobierno, en el caso argentino, y la mitad del sector privado.  Y ya de inicio no fue una buena institución, porque la inflación, previo a la existencia del Banco Central, era tres por ciento.  El Banco Central le hizo saltar a seis.  En realidad, fue un mecanismo para estafar a la gente.  El Banco Central, digo, fue pensado directamente así, para cagar a la gente.  donde, por ejemplo, en eso está involucrado el abuelo del senador nacional, de mismo nombre, Federico Pinedo.  O sea, básicamente la gente de los campos argentinos estaban endeudados en pesos fuertes, o sea, en oro.  Y con el tema de la Gran Depresión, lo que sucedió es que el precio de los commodities hizo pelota, con lo cual estaban todos técnicamente quebrados, entonces lo que hizo el Banco Central fue rescatar a los que estaban quebrados ",
+            "cosine_dist": 0.3825557065942585,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 574.826,
+            "end_time": 580.428,
+            "text": "y con eso terminó jodiendo al resto de la población.  Una clásica estatización de deuda. ",
+            "cosine_dist": 0.5515448563664644,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 581.349,
+            "end_time": 608.938,
+            "text": "Exactamente, entonces rompiendo el culo a los trabajadores.  Pero todos del régimen fascista instaurado en la década del treinta.  Digo, Perón no nació de un repollo, ¿no?  O sea, digo, Perón lo que captura es un malestar social como consecuencia de quince años de estar rompiéndole el culo a la gente.  Y aparte, un dato no menor, que usó instituciones que ya estaban creadas.  Exactamente. ",
+            "cosine_dist": 0.4090548063419258,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 608.958,
+            "end_time": 609.658,
+            "text": "Inventó pocas, pero... ",
+            "cosine_dist": 0.999707216061687,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 610.359,
+            "end_time": 807.601,
+            "text": "Exactamente.  Pero bueno, después lo nacionalizó en el cuarenta y seis.  Es interesante esto porque vos cuando mirás la independencia del Banco Central, un indicador, esto dedicado a la ignorante de Mercedes Marco del Pond y a la que era su jefe en su momento, la señora Cristina Fernández Kirchner.  Que decían, esa de la independencia se repite como una letanía.  No, mangas de estúpidas.  O sea, digo, eso vale para ella, vale para Kicillof, vale para Vanoli, vale para Redrado, vale para unos cuantos.  Todos y todas.  Exacto, y acá vale para un conjunto de pelotudos importante.  El punto acá es el siguiente, que... Lo que demuestra la evidencia empírica internacional es que aquellos países que tienen bancos centrales más independientes, la inflación es menor.  Uno de los indicadores que se usa para medir la independencia del banco central es la rotación de los presidentes del banco central.  Totalmente, sí.  Porque, claro, no lo querés, lo cambiás, lo tirás a la basura, te pones otro.  Vos fíjate esto.  La Reserva Federal, desde su nacimiento en mil novecientos trece... Estuvo quince presidente de la Reserva Federal.  Hoy va por el dieciséis, que asumió hace poquito.  Quince.  Bueno, Argentina en los primeros diez años tuvo uno solo, que fue Bosch.  Y después vino Perón, nos trajo el Banco Central Nacional y Popular.  que iba a construir un puente de papel hasta el paraíso.  y en realidad no se generó un desastre.  Destrozamos cinco signos monetarios, le quitamos trece cero a la moneda, tuvimos dos hiperinflaciones sin guerra, la tasa de inflación promedio del seis por ciento anual pasó al doscientos veinticinco por ciento anual.  Y eso después derivó en el repudio de la moneda.  ¿Qué fue la convertibilidad?  La convertibilidad tampoco nace un repollo, es el repudio a la moneda, con un argumento muy inteligente en lo que hace Cavallo, porque termina generando demanda de una moneda que no debería tener demanda.  Yo sinceramente considero que el peso como moneda no debería existir, básicamente porque el peso, o cualquier nombre que le pongan, es la moneda que emite el político argentino.  Y como son una mierda, que no sirven ni para bono, por ende, la moneda argentina no puede valer más que excremento.  O sea, es un derivado de algo que es una mierda.  O sea, el derivado nunca vale menos, vale más que el principal.  Es una ley en finanzas.  Bueno, entonces, si los políticos argentinos son excremento, mierdas humanas, que no sirven ni siquiera para bono, bueno, evidentemente... Digo, ¿por qué el peso debería valer más?  Eso es como un concepto general.  Así que la convertibilidad creó una demanda ficticia o artificial, si vos querés, con la cuestión del uno a uno, pero cuando vino la corrida... ",
+            "cosine_dist": 0.37481432542104287,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 808.662,
+            "end_time": 813.624,
+            "text": "No lo pudiste sostener.  Podemos decir que la compartiría.  fue el último intento de resurrección de la moneda. ",
+            "cosine_dist": 0.9386635365688876,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 813.844,
+            "end_time": 814.885,
+            "text": "Exactamente. ",
+            "cosine_dist": 0.7888653320306327,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 814.985,
+            "end_time": 817.566,
+            "text": "Y después ya el dos mil uno te dijo basta. ",
+            "cosine_dist": 1.0322297358549317,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 817.666,
+            "end_time": 895.321,
+            "text": "Claro.  Después en el dos mil dos tuviste cuarenta y uno por ciento de inflación.  Después al otro año tuviste tres seis.  Después tuviste seis uno.  Después tuviste doce.  La inflación promedio durante el primer periodo del kirchnerismo fue... ...diez por ciento, Manuel.  En el segundo periodo fue veinte.  En el tercer periodo, ya con la bipolar de Tolosa totalmente desacatada... ...treinta.  Dejando además la bomba de los futuros.  Esto es muy interesante para algunos pelotudos que critican tanto a Sturzenegger... ...manga de infradotados mentales... Y es las condiciones bajo las cuales recibe el Banco Central Sturzenegger.  Esta parte, digamos, Sturzenegger nunca la contó públicamente porque, como estaban todos bajo el adoctrinamiento en pleno furor del durambarbismo, cosas que se callaron.  Ejemplo, la herencia recibida.  Parte de esa herencia era claramente el central.  La más grave, lejos.  Claro, porque cuando Sturzenegger asume, había, escuchá esto, dólares cash en el banco central.  ¿Sabés cuánto había? ",
+            "cosine_dist": 0.4039705144681546,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 895.442,
+            "end_time": 906.305,
+            "text": "¿Te imaginas?  No.  Mil quinientos millones de dólares.  Sí, iba a decir quince mil, como poco.  Mil quinientos.  O sea, el banco suplente de Real Madrid, más o menos. ",
+            "cosine_dist": 0.9305468564904893,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 906.325,
+            "end_time": 907.745,
+            "text": "Sí.  ¿Te das cuenta? ",
+            "cosine_dist": 0.8090731964721227,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 908.665,
+            "end_time": 922.428,
+            "text": "Y a los quince días de asumir, le iban a estar venciendo veintitrés mil millones de dólares en el mercado de futuros.  Es distinto ver la historia con un poquito de tiempo, ¿eh? ",
+            "cosine_dist": 0.5626670139252057,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 924.121,
+            "end_time": 939.252,
+            "text": "Viste, entonces después aparecen los pelotudos que dicen, no, ¿por qué las LEVACs?  No, boludo, o sea, había una hiper ahí.  Había una hiper.  Había una hiper encriptada.  Y entonces, ¿qué es lo que hace Sturzenegger?  Vos sabés que había varias... ",
+            "cosine_dist": 0.5026818514569824,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 939.272,
+            "end_time": 940.373,
+            "text": "Después te gasté una pregunta. ",
+            "cosine_dist": 1.086081309867402,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 940.973,
+            "end_time": 982.688,
+            "text": "Nosotros con Diego hicimos la estimación del money over ham.  A nosotros nos daba que sobraban doscientos mil millones de pesos de ese momento, ¿no?  y es interesante porque El sobrante que nos daba era muy parecido al que había en el cincuenta y nueve y en el setenta y cinco.  Esos dos cepos, cuando vos lo abriste, fue muy interesante porque en el primero la inflación pasó de veinte a ciento veinte, en el segundo pasó de treinta a ciento ochenta.  Es decir, la inflación se multiplicó por seis.  Es más, en el Rodrigazo, en el gobierno de Isabel Perón, digamos que pasa de treinta a ciento ochenta, después vienen los militares y pasa cuatrocientos en la inflación. ",
+            "cosine_dist": 0.460658260043766,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 983.308,
+            "end_time": 994.933,
+            "text": "Es decir, no es un tema menor, digamos, del manío Abraham.  Y si vos te fijás, es sobrante monetario. ",
+            "cosine_dist": 0.6466117071259918,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 995.073,
+            "end_time": 1008.519,
+            "text": "Ahora explico cómo se gestó el manío Abraham.  Entonces, ¿qué es lo que pasa?  Si la tasa de emisión venía del cuarenta y siete, si los futuros te la llevaban al ochenta y cinco, multiplicás por seis y te das quinientos diez. ",
+            "cosine_dist": 0.4947282679488961,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1010.099,
+            "end_time": 1011.68,
+            "text": "En ese momento lo decías. ",
+            "cosine_dist": 0.980637879447484,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1011.7,
+            "end_time": 1033.435,
+            "text": "Claro, exacto.  Eras el único que decía eso.  Con Diego y con Nielsen.  Por eso nosotros diseñamos una serie de bonos.  El primero se llamó el Bono Milei.  Después Nielsen, con mucho criterio de mercado y con su experiencia con colocaciones de deuda, hizo uno que era más factible para hacer la operación mucho más rápido. ",
+            "cosine_dist": 0.4523002930245472,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1034.036,
+            "end_time": 1038.5,
+            "text": "Perdóname, vos no es para absorber ese maniobra.  Claro.  En lugar de las LEVACs. ",
+            "cosine_dist": 0.9232900860370512,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1038.7,
+            "end_time": 1135.454,
+            "text": "Exacto.  Lo primero que quiero que entendamos es, ahí había una hiperinflación latente.  ¿Qué es lo que hizo Sturzenegger?  A ver, Sturzenegger hizo la de manual del presidente del Banco Central.  El manual del Banco Central que te dice que vos siempre debes ir por el caso más negativo.  O sea, el peor de todos.  Entonces, el peor de todos, ¿cuál era el que habíamos desarrollado con Diego?  El argumento estaba bien.  Dice, ¿cuál era?  Mirá, pongamos la tasa de interés en el nivel de arbitraje, ¿sí?  Y en función de eso, ponemos la tasa ahí.  Que eso daba treinta y ocho por ciento.  Por eso... Carry trade es una operación, ¿no?  Que vos con tus dólares compras pesos y te posicionas en tasa.  Pero bicicleta es otra cosa.  Es un carry trade donde vos además tenés ganancias aseguradas en dólares.  ¿Sí?  Acá no lo tenías.  Exacto.  En momentos muy puntuales hubo bicicleta.  Pero eso de hecho el Banco Central lo informaba.  Hoy el Banco Central no podría informar ese número.  Porque cuando vos tomás la tasa, digamos, en torno al setenta por ciento, le limpias el efecto de la devaluación mensual del tres por ciento en el piso, en las bandas, ¿sí?  Bueno, eso te da un retorno del uno y medio en dólares asegurado mensual, anual te da veinte, y vos la tasa del bono corto es cuatro. ",
+            "cosine_dist": 0.39225072308559705,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1136.254,
+            "end_time": 1141.759,
+            "text": "Digo, eso sí es bicicleta financiera.  En la época de Estusenio yo hice la cuenta y en un mes era bajita. ",
+            "cosine_dist": 0.7926540212681936,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1141.819,
+            "end_time": 1187.128,
+            "text": "Exactamente, bien, por eso.  O sea, no había bicicleta financiera, era carry trade.  O sea, bicicleta financiera es cuando el carry trade te genera una ganancia espuria.  Ejemplo, que vos hoy tengas retornos del veinte por ciento... cuando el bono corto rinde cuatro.  Claro.  ¿Me comprendes?  Que en realidad eso en el fondo lo que está mostrando es que Argentina está en default.  Porque cuando vos estás en default la curva de rendimiento está invertida.  Lo que pasa es que como a vos te está poniendo la plata el Fondo Monetario Internacional para todo el dos mil dieciocho y todo el dos mil diecinueve está artificialmente baja.  Pero fíjate que la curva de rendimiento está en torno al cuatro por ciento y ya para el dos mil veinte salta a ocho y pico.  Y después ya te vas a nueve, diez, once. ",
+            "cosine_dist": 0.3652976365179915,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1187.508,
+            "end_time": 1190.41,
+            "text": "O sea, tasas propias de un país que va camino a un default. ",
+            "cosine_dist": 0.5647040989067749,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1190.63,
+            "end_time": 1256.399,
+            "text": "Que de hecho, Argentina va a defaultear.  Si no defaultea en el dos mil veinte, va a defaultear en el dos mil veintiuno.  Argentina va a defaultear.  O sea, esto es un dato.  Pero al margen de esto, a lo que voy es, entonces, ¿qué es lo que hace Sturzenegger?  Pone la tasa ahí.  Si el money overhand hubiera sido chiquito, No hubiera esterilizado un carajo.  Entonces, ¿cuál era el argumento?  La semana que viene bajamos la tasa.  No sé si te acordás, pero eran todos los martes.  Todos los martes había licitación.  Con lo cual, digo, no tenías mucho para perder.  O sea, también Alfonso lo había cagado, había negado que eso existía.  lo dijo públicamente, la pregunta se la hace Carlos Arbía, Alfonso dice, nada de esa boludez me la decían a mí cuando era presidente del Banco Central, no existía.  Para mí, desde mi punto de vista, con muy buen criterio, Sturzenegger, ¿qué hace?  Dice, bueno, vamos a poner la tasa en el nivel de arbitraje.  Si entra poca guita, quiere decir que no había maniobra.  Cuando pone la tasa en treinta y ocho, en la primer... ",
+            "cosine_dist": 0.35601304799185274,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1256.819,
+            "end_time": 1273.23,
+            "text": "Absorbe ciento cuarenta mil millones de pesos.  ¿Dónde está?  No sé, en uno de los sobrantes.  Y lo peor de todo es que termina sacando de la calle, si yo no me equivoco, doscientos sesenta y tres mil millones de pesos.  O sea que tu estimación había sido menor a lo que sacó efectivamente. ",
+            "cosine_dist": 0.6754344764718343,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1273.27,
+            "end_time": 1302.184,
+            "text": "Exactamente.  El Manio Berjan había sido todavía más grande que lo que habíamos estimado con Diego.  Así que imaginate dónde estaban los demás.  Con lo cual, Diego... Ese quinientos diez de inflación que nos da, hubiera sido más alto.  Ahora vos mirá este gobierno, ¿qué terminó haciendo?  Le terminó pegando una pata en el culo al tipo que le evitó la hiperinflación, que le evitó una caída del PBI del seis por ciento en ese momento y que hubieras visto niveles de pobreza en torno al sesenta, setenta por ciento.  O sea, ¿y a ese tipo?  cómo lo premió? ",
+            "cosine_dist": 0.41609055332133404,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1302.224,
+            "end_time": 1306.987,
+            "text": "Pegándole una pata en el culo.  ensuciándolo, basuriándolo, bastardeándolo. ",
+            "cosine_dist": 0.4988007782746733,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1307.007,
+            "end_time": 1323.861,
+            "text": "Humillándolo con el .  Sí, pero fue peor.  Es peor cómo lo echaron y es peor todavía las cosas que los satélites del mierda de Marcos Piña dicen. ",
+            "cosine_dist": 0.4778988583892041,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1325.382,
+            "end_time": 1331.811,
+            "text": "Recordá que el argumento es que lo echaron porque no sabían manejar la mesa de dinero.  Sí, sí. ",
+            "cosine_dist": 0.6061156353771472,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1333.452,
+            "end_time": 1481.007,
+            "text": "A ver, yo les voy a contar, para los pelotudos que repiten ese argumento y vean las aberraciones que hace este gobierno.  La política monetaria era diseñada por Demian Riedel.  Demian, digamos, él le estudió en el Balseiro.  Aplica para hacer un PHD en Finance en Chicago y él, digamos, aprueba los exámenes con las máximas notas.  Chicago lo acepta y le dice, pero usted no sabe Economía.  Lo manda a hacer algunas materias al San Andrés.  Hace esas materias y estudia en Chicago.  Y en Chicago, digamos, lo conoce Robert Merton, el inventor de las opciones, el que hace las opciones, el Black & Scholes, pero discreto.  Bueno, es interesante porque ese tipo es el que se lo lleva para salvar, a reflotar el fondo Elliot.  Y cuando vos le preguntas a Demian cómo ganaba la guita, era timbiando contra los bancos centrales.  pudiera tener mejores estrategias que las que tenía.  Riedel suena raro suena raro aparte digamos Riedel.  después como pasatiepo se hizo el PhD en Harvard.  lo hizo de taquito terminó la tesis mientras que estudiaba o sea con lo cual la verdad es que y voló también con su cerebro si claro.  y después como tiramos recursos y después la mesa mal manejada, la manejaba Collazo, Agustín Collazo, un tipo que venía con todas las medallas que se te ocurran en Morgan Stanley.  Consecuentemente, en rigor, si había gente que no era pelotuda era esa.  Supuestamente lo echaron a Sturzenegger por no saber manejar la mesa.  Se lo dieron al pelotudo de Caputo.  Teniendo aún el apoyo del FMI, se patinó en dos meses y pico quince mil millones de dólares.  Marquitos Peña, ¿por qué no te vas a la concha de tu madre, hijo de puta?  O sea... ",
+            "cosine_dist": 0.4124109301041333,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1481.727,
+            "end_time": 1483.848,
+            "text": "¿Y cuál es el motivo por el cual lo echaron, entonces? ",
+            "cosine_dist": 1.093323575581601,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1485.128,
+            "end_time": 1570.868,
+            "text": "Bueno, está bien, porque el XXVIII dejó en evidencia que el problema era Marquitos Piña.  Marquitos Piña, Dujovne, Caputo, que estaban en esa conferencia de prensa, y los otros economistas que fueron los que apretaron, digamos, a Sturzenegger, como Warming, o sea, Vladimir, como Quintana, como Sanleris.  Entre otros.  ¿No?  O, digamos, Galeani, que ibas a una reunión en off y puteaba en contra de Sturzenegger.  Y esa a mí no me la contó nadie.  Entonces, a lo que voy es... Por eso las LEVACs no nacieron de un repollo, fue eso, fue evitar una hiper.  Y no solo eso, después tenés... Porque acá veníamos con el tema del Banco Central, ¿sí?  Porque yo digo que hay que eliminarlo.  Entonces, fíjate esto, porque... Hay alguien que dice, no, bueno, pero en otras partes del mundo funciona.  Bueno, acá no va a funcionar nunca.  ¡Nunca!  ¡Nunca!  ¡Nunca!  ¡Nunca!  ¿Quién es la mayor productora de economistas del argentino? ",
+            "cosine_dist": 0.35544965070126355,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1571.948,
+            "end_time": 1573.95,
+            "text": "Junín y Córdoba, digamos. ",
+            "cosine_dist": 1.096158110422054,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1574.17,
+            "end_time": 1610.45,
+            "text": "La que hay necesidad de Córdoba y Junín.  Es decir, la Universidad de Buenos Aires.  digamos, una institución, digamos, signada por las preferencias de un zurdo recalcitrante como Andrés López.  O sea, claro, lo critican de no zurdo, claro, los trozcos lo critican de no zurdo, claro, o sea, está todo tan corrido a la izquierda, es decir, pero, por ejemplo, mirá lo que son las cosas, cuando Andrés López de modo injusto y arbitrario, le saca el curso de dinero, crédito y bancos ",
+            "cosine_dist": 0.3997769226962007,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1610.51,
+            "end_time": 1611.171,
+            "text": "a Giacomini, ",
+            "cosine_dist": 0.8532529252406774,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1613.271,
+            "end_time": 1631.327,
+            "text": "básicamente por ser liberal, nadie dijo nada.  Ahora, cuando le sacaron al zurdo de Asiaín el curso de crecimiento, se armó un quilombo de novela.  O sea, hacia ahí sigue teniendo su curso.  Es decir, que hay una cuestión asimétrica en favor del surraje. ",
+            "cosine_dist": 0.45882126552178626,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1631.367,
+            "end_time": 1635.748,
+            "text": "Aparte es correrlo a Diego por no saber de moneda.  Es como fuerte, ¿no? ",
+            "cosine_dist": 0.9143622145342286,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1635.768,
+            "end_time": 1851.253,
+            "text": "Bueno, pero por eso.  Es más largo todo ese proceso.  Hay todo un conjunto de mentiras que dice Andrés López, que yo las tengo documentadas.  Con lo cual es interesante que algún día se hagan loquitos públicamente y se las publicamos.  Así dejamos bien en evidencia lo nefasto que es el tipo que determina el programa de economía en la Universidad de Buenos Aires.  Entonces, ¿qué es lo interesante de todo esto?  Lo interesante de todo esto es que recientemente se hizo una encuesta de alumnos de la Facultad de Ciencia Económica de Economía sobre el origen monetario, sobre si la inflación era de origen monetario o no.  Bueno, el ochenta y cinco por ciento cree que tiene que ver con cualquier cosa menos con la emisión monetaria.  Entonces, si la principal productora de economistas y satélites cree que la inflación no tiene nada que ver con la emisión de dinero.  Digo, querés un buen ejemplo, Kicillof.  Kicillof cree que la inflación tiene que ver con cualquier cosa, menos con la emisión de dinero.  Porque esta bestia dice, no, bueno, pero los precios no los pone el gobierno, los pone el... No, no, los pone el empresario.  Es un bruto, pero verdaderamente... Bueno, pero ese chico tiene un promedio de los más altos de la historia, medalla de honor, tiene un doctorado, tardó ocho años.  Le ríe el cuatro en hacerlo en Harvard.  Ese ocho en la UBA, para decir las boludeces que dice.  Pero bueno, no importa.  Yo para poner las cosas más o menos en relativos.  Entonces, lo que digo es... Aparte, digo, Reader es un tipo divertido, boludo, te cae la risa.  Con Kicillof, o sea, solo podés llorar.  Lo que pasa siempre con los zurdos.  Entonces, el punto es, si vos tenés que las casas de estudios producen bestias como esas que niegan la naturaleza monetaria y la inflación, No podés esperar nada.  O sea, lo único que podés hacer es hacer un ejercicio alternativo que los deje en evidencia como los brutos de mierda que son.  ¿Qué cerrar el Banco Central?  Entonces, por eso yo digo, yo quiero ser presidente del Banco Central, ¿bajo qué condiciones?  En un momento donde haya una hiperinflación, donde nadie lo quiere agarrar, donde es una papa caliente y no lo quiere agarrar nadie, dámelo a mí.  Yo voy a hacer la inflación cero.  En el peor momento, la verdad.  Claro, la voy a hacer cero de la noche a la mañana, porque aparte de hacer la reforma al sistema financiero, yendo a un sistema de banca libre... O sea, a la Simon, banca Simon, ¿no?  Con almacén de valor por un lado y banca de inversión por otro.  Ese es un sistema anticorrida.  Con lo cual no necesitas más el banco central.  Eso, digamos, en un contexto normal te puede llevar un par de años modificar toda la banca.  ¿Me comprendés?  En cambio, en el medio de una hiper, como el sistema financiero está hecho mierda, es mucho más rápido.  ¿Sí?  Entonces... Eso facilita mucho la cuestión.  Entonces yo digo, dámelo, hago la reforma del sistema financiero, paso a Banca Simon y declaro la competencia de moneda y que la gente elija cuál es la moneda que quiere tener.  Pum, listo, se acabó.  No más inflación en Argentina. ",
+            "cosine_dist": 0.3801801911338144,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1851.273,
+            "end_time": 1854.775,
+            "text": "Dejame decirte algo, porque muchos, incluso muchos liberales, dicen, no... ",
+            "cosine_dist": 1.0717765236053816,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1855.735,
+            "end_time": 1885.579,
+            "text": "Lo que decimos ahora está bien en la teoría.  Esto es bien práctico.  Claro, que ese liberal, ese que vendió las ideas a cambio de hacer la estimación de un índice de precios.  Bueno, ese pelotudo.  ¿Vos sabés que ese mismo pelotudo, en el caso de Uber y los taxistas, está a favor de los taxistas?  Sí.  Dice, Uber tiene que pagar impuestos.  En realidad, habría que sacarle los impuestos a los taxistas.  Te das cuenta que ni siquiera sos liberal, ni siquiera sos un buen liberal, pedazo de pelotudo del centro. ",
+            "cosine_dist": 0.48189688652812246,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1885.819,
+            "end_time": 1889.321,
+            "text": "Pero, a ver, vamos, vamos.  Esa es una propuesta bien concreta. ",
+            "cosine_dist": 0.993546580899665,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1889.741,
+            "end_time": 1916.058,
+            "text": "O sea, posta, no es que estamos delirando porque somos liberales.  Aparte, la pregunta es, o sea, cualquier persona... Que vos le preguntas, si le das al Banco Central a mi ley, ¿qué hace?  Lo cierra.  Y no tiene dudas.  O sea, no tiene dudas.  O sea, no hay dudas.  O sea, porque aparte, si vos me lo das, no me lo dejas cerrar, al otro día voy y me voy.  Me importa un carajo.  ¿Me comprendés?  O sea... ",
+            "cosine_dist": 0.5271977067409245,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1916.278,
+            "end_time": 1917.88,
+            "text": "Sos el último presidente del Banco Central. ",
+            "cosine_dist": 0.9564063284449026,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1917.9,
+            "end_time": 2052.321,
+            "text": "Exactamente.  Sí, sí, sí.  Mi historia de vida será que fui el último presidente del Banco Central porque lo cerró.  No solo que lo voy a cerrar, sino que una vez que lo cierre, voy a llamar a mis amigos, a Mariano Fernández, a Diego Giacomini, a vos, y todos los libertarios, y el día que lo hacemos implosionar, que queden los escombros ahí como la verdadería que fue esa institución de mierda que le cagó la vida a los argentinos.  Una mierda como la AFIP, ¿no?  O sea, la AFIP es otra mierda, otra institución, digamos, que es el otro brazo armado de... Pero el tema es que cuando vos aparezca la cuestión monetaria se haya limpiado, ¿sabés qué va a aparecer?  Va a salir como la mierda, ¿viste?  Flota.  Entonces ahí va a aparecer toda la política impositiva de mierda y ahí vamos a poder avanzar sobre las ideas de Alberti.  Porque vos, Ferminio Iglesias, la concha de tu madre, forro, te voy a explicar algo ignorante, burro, vos agarraste y en una nota lo mencionás a Alberti, hijo de puta.  Y te voy a decir algo, hay un libro de Alberti, porque vos justificás la mierda que sos como legislador, ¿sí?  Por ejemplo, por que el salame sea... No sé, el salame... Claro, ¿sí?  Ahora vamos a ver, por ejemplo, algunos de los proyectos que votaron estas mierdas que están en la Cámara de Diputados.  Digo, porque esto es lo que el señor Iglesias justifica.  Vamos a ver.  Yo tengo uno, ¿eh?  A ver.  No, no, pero hay... Hay varios, hay varios.  Hay uno que tenés cuatro proyectos.  Por ejemplo, la señora... Senadora Gladys González, presenté un proyecto en la Cámara de Diputados y la de Senadores para declarar a Avellaneda capital nacional del fútbol.  ¿Por qué no te vas a la concha tu madre?  ¿Para eso te pagamos?  ¡Inútil!  Señora Vanessa Siley, insistimos con el proyecto de ley HP Recalde para una ley de contrato de trabajo con lenguaje inclusivo y no sexista. ",
+            "cosine_dist": 0.3334471932970229,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2055.503,
+            "end_time": 2056.364,
+            "text": "¡Inimputable! ",
+            "cosine_dist": 0.9061953748068959,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2056.784,
+            "end_time": 2185.639,
+            "text": "¡Inimputable!  ¡Inimputable!  ¡Inimputable!  Por lo menos está en el lenguaje no sexista.  Inclusivo.  Inclusive debería ser.  Lenguaje inclusive.  La señora Gabriela Esteves.  La Cámara de Diputados le dio media sanción a un proyecto de ley de mi autoría que declara el cuatro de junio como día nacional del cuarteto y reconoce a ese género como parte del patrimonio cultural argentino.  ¡Hija de puta, la concha tu madre!  ¡Para eso te pagamos, inútil!  ¡Pedazo de mierda!  ¡No servís para nada!  ¡Para eso le pagamos, soretes!  ¡La gente se está cagando de hambre!  ¡Hijos de puta!  Eso sí, para levantar la mano y levantar la dieta están todos de acuerdo.  ¡Pedazos de mierda!  Vamos con más.  Guado de Pedro.  Guado de Pedro.  Orgullo.  En la Cámara de Diputados declaramos por unanimidad a Mercedes como Capital Nacional del Salame Quintero.  ¿Por qué no te vas a la concha de tu madre?  ¡Sorete!  Es decir, la gente se está cagando de hambre por ustedes.  Pagamos ciento un impuestos.  Tenemos sesenta y nueve mil regulaciones.  Nos cagamos de hambre.  Porque para el que está en blanco la presión fiscal es setenta por ciento.  Y ustedes hacen esto, hijos de puta.  ¿Por qué no se van a la concha de su madre?  ¿Entendés, Iglesias?  ¿Vos creés que esto no es lo que quería Alberti?  ¿La concha de tu madre?  ¡Hijo de puta!  ¡Parásito!  O la mierda esa de Amadeo que tiene toda la familia en el Estado.  Pero no, no me voy a quedar con esto.  ¿Sabés qué?  Hoy me mandaron un WhatsApp, ¿sí?  De todos los familiares que tiene la mierda esa de Gerardo Morales.  Que le pareció que las retenciones, ¿sí?  Del diez por ciento era poca, que había que llevarla al veinte.  Vamos a contar la cantidad de personas que trabaja con Gerardo Morales. ",
+            "cosine_dist": 0.6529828466168708,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2189.323,
+            "end_time": 2194.385,
+            "text": "Mientras lo buscas te paso un proyecto más.  Dale, dale, me encanta.  La ley veintisiete cuatro sesenta y uno. ",
+            "cosine_dist": 0.9219478797819498,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2194.405,
+            "end_time": 2195.586,
+            "text": "Ya es ley, así que es otra cosa. ",
+            "cosine_dist": 1.0911849225072419,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2197.266,
+            "end_time": 2203.209,
+            "text": "Institúcese al fútbol como deporte popular.  Ciento cincuenta años después que se estableció en Argentina. ",
+            "cosine_dist": 1.0141203956716422,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2203.249,
+            "end_time": 2221.674,
+            "text": "Pero bueno.  A ver.  Ahí lo tenés.  Te cuento de la familia del gobernador Morales, ese que pide más impuestos, parásito de mierda, que toda su vida laburó en el Estado.  Claro, por eso le parece bien subir los impuestos, hijo de puta.  Porque, claro, con el culo ajeno somos todos putos, la concha de tu madre.  Mirá. ",
+            "cosine_dist": 0.5164860469520178,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2223.112,
+            "end_time": 2225.153,
+            "text": "Vamos con los hijos de Gerardo Morales. ",
+            "cosine_dist": 0.68500537621879,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2225.733,
+            "end_time": 2592.514,
+            "text": "Gerardo Morales, Secretario Legal y Técnico de la Gobernación.  Facundo Morales, Coordinador General del Festival Cine de Alturas.  Los hermanos, Héctor Freddy Morales, Secretario General de la Gobernación.  Walter Rolando Morales, Presidente del Instituto de Vivienda de Jujuy.  María del Carmen Morales de Cuellar, designada en el Congreso de la Nación.  Cuñado, cuñadas.  Osvaldo Cuellar, diputado provincial.  Marcelo Cuellar, designado en tribunales en la provincia.  Ex esposa, María Inés Fernández, con cargo en el Congreso de la Nación.  Ex cuñado, Marcelo Fernández, presidente del Banco de Desarrollo de Jujuy.  Primos y tíos.  Patricia Morales, prima, coordinadora del programa de educación sexual integral del Ministerio de Educación.  Néstor Navarro, primo, coordinador general del Ministerio de Seguridad.  Armando Navarro, primo, contrato de la legislatura provincial.  Luis Morales, planta permanente de la legislatura provincial.  Jorge Sebastián Morales, primo, secretario de Freddy Morales, hermano, en la Secretaría General de la Gobernación.  Nicolás Morales, primo, designado en el Consejo Deliberante de la Municipalidad de Salvador de Jujuy.  Ana Martinich, prima, designada en el ANSES Jujuy.  Sobrinos, vamos por los sobrinos.  Lucía Fabiana Morales, hija de Freddy Morales, hermano de Gerardo Morales, designado de Tribunales.  Ricardo Rubén Santoro, yerno de Freddy Morales, hermano de Gerardo Morales, designado en Agua Potable de la Provincia.  Gonzalo Agustín Morales, hijo de Freddy Morales, hermano de Gerardo Morales, designado en Bloque de la UCR en Diputados Provinciales.  Florencia Aguilar... nuera de Freddy Morales, hermano de Gerardo Morales, designada en tribunales de la provincia.  Ex esposa y ex cuñado de Freddy Morales, hermano de Gerardo Morales, Patricia Reina, designada en el Congreso de la Nación.  Aldo Carlos Alejandro Reina, con contrato de locación de servicio en el Congreso de la Nación.  Cuñado de Walter Morales, otro hermano de Gerardo Morales, Ernesto Nucci, designado en el Congreso de la Nación.  ¿Por qué no te vas a la concha a tu madre?  ¡Chorro, hijo de puta!  Para eso pagamos impuestos.  Yo les voy a decir algo.  A ver, Argentina produce alimentos, ¿sí?  Para cuatrocientos millones de seres humanos.  Somos el campo más productivo de todo el planeta Tierra.  Acá tienen un héroe que produce alimentos.  Un pelotudo, ¿sí?  Porque se la pasa laburando para los parásitos estos de mierda.  Pero, mirá.  Vos ponés que tomás la presión impositiva.  promedio, cincuenta por ciento.  Si el campo argentino produce alimentos para cuatrocientos millones de individuos, si le cobra impuestos por el cincuenta por ciento, sería el alimento para doscientos millones de individuos.  O sea que en Argentina la comida podría ser gratis para todos, entregada por el Estado, y así todo alimentaría a cinco argentinas.  Y hay gente que se muere de hambre, ¿sabés por?  qué?  Iglesias, Amadeo, Morales, Cristina Fernández de Kirchner, Axel Kicillof, digamos, Victoria Donda, el pelotudo este de Leonardo Grosso, digamos, toda esa mierda.  ¿Saben qué?  ¡Se cagan de hambre por ustedes, hijos de puta!  ¡Vamos al corte!  A la mierda los malditos empresarios, a la mierda Sodomitas el capital Basta de basura que Inesiana, ha llegado el momento liberal.  Tenemos un líder y él es un gran referente, que al estado siempre logra incomodar presidente, Javier Milei, el último PAN, siempre en contra de la presión tributaria, siempre en contra del estatismo abusador, combatiendo por una Argentina libertaria.  Hace más de un siglo nos gobiernan los buenistas Los que roban para lacras mantener Esos que pagan a dudosos funcionarios Que el dinero de la gente quieren retener.  ¿Que estamos bien comparados con qué?  ¿Que estamos bien comparados con qué?  ¿Que estamos bien comparados con qué?  ¿Que estamos bien comparados con qué?  Si seguimos así, arruinaremos nuestra vida y vamos a envidiar el bienestar de Somalía.  Javier Millet, el último punk, nuestro superhéroe.  Javier Milei es el último punk.  Javier Milei es el último punk.  Javier Milei es el último.  nuestro superhéroe.  Javier Milei, el último punk.  Javier Milei, el último punk.  Javier Milei, el último punk.  Javier Milei, el último punk.  Bueno Lazari Don Milei Le acabo de dejar un incendio. ",
+            "cosine_dist": 0.5743311290788964,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2606.553,
+            "end_time": 2611.875,
+            "text": "Ahí está la audiencia.  Qué grande, Billy.  ¿Sigue el tour?  Contame, sigue el tour. ",
+            "cosine_dist": 0.7967252711306437,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2611.895,
+            "end_time": 2617.497,
+            "text": "Grande usted que puede soportar esta presión fiscal enorme y todavía sigue produciendo.  Usted es un héroe. ",
+            "cosine_dist": 0.46533629717603275,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2617.597,
+            "end_time": 2623.72,
+            "text": "Es que no la puedo soportar, pero bueno, vamos a tratar de hacerlo posible.  Es una pena.  El Estado no se da cuenta de lo que podemos hacer sin impuestos. ",
+            "cosine_dist": 1.017705474520827,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2624.44,
+            "end_time": 2629.862,
+            "text": "Pero vos te das cuenta que podríamos gratis alimentar a doscientos millones de seres humanos. ",
+            "cosine_dist": 0.511132537581693,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2630.022,
+            "end_time": 2632.866,
+            "text": "No, a ciento noventa y nueve.  Porque un millón lo nombraste recién. ",
+            "cosine_dist": 1.0174828282609032,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2632.886,
+            "end_time": 2642.381,
+            "text": "Ah, sí, claro.  Toda la familia de murales.  Toda la familia de murales.  Es verdad.  Claro.  Entonces, la verdad, ¿qué quiere que le diga a Lazzari?  Es un escándalo esto. ",
+            "cosine_dist": 0.6011226265876726,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2642661,
+            "end_time": 2643122,
+            "text": "Es un escándalo. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2643.202,
+            "end_time": 2644.104,
+            "text": "Esto es un escándalo. ",
+            "cosine_dist": 0.6624729019711383,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2644.164,
+            "end_time": 2648.322,
+            "text": "Es un escándalo.  Y una gran tristeza.  En el fondo es una gran tristeza. ",
+            "cosine_dist": 0.8925861722029357,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2648.342,
+            "end_time": 2658.229,
+            "text": "Y por algo éramos el quinto país, el primer... Teníamos el PIB per cápita más alto del mundo en mil ocho noventa y cinco.  Y después en la primera parte del siglo XX oscilábamos en los cinco primeros. ",
+            "cosine_dist": 0.4289623669680287,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2658.249,
+            "end_time": 2661.111,
+            "text": "Y después dicen, no, los europeos venían acá porque había guerras en Europa. ",
+            "cosine_dist": 0.9972854144669999,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2661.211,
+            "end_time": 2687.616,
+            "text": "Eran boludos los europeos.  Claro, o sea, el nombre de Dios.  O sea, sucede que acá... Ahora ya sé por qué esta es la capital del psicoanálisis, porque son todo masoquistas.  ¿Por qué no se van a la concha de su madre?  políticos de mierda, hijos de puta?  ¡Chorros!  ¡Inútiles!  ¡Basuras!  ¡Están cagando de hambre a la gente, hijos de puta!  Lazari, me voy a polémica del bar.  Siga el tour, gracias por... ¡Viva la libertad, carajo!  Vamos, trae. ",
+            "cosine_dist": 0.5237608159638152,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2777.016,
+            "end_time": 2819.916,
+            "text": "Bueno, se nos fue Javier Milei a continuar el tour por la libertad, va a estar hoy en polémica, así que, y no lo dijimos, pero el veintiséis, creo que es el viernes que viene, está en el teatro, así que bueno, hay que ver el consultorio de Milei.  Bueno, yo tengo un mini editorial, primero una fe de ratas, porque hace un par de programas saludé a gente de Reconquistas Santa Fe, no Reconquista Córdoba.  Cosa de porteño, pifiar la ciudad con la provincia.  Así que disculpen a los muchachos de Reconquista, Santa Fe.  Dicho esto, el sistema impositivo de destrucción argentina había siete brazos ejecutores.  La cantidad de impuestos que siempre decimos, ",
+            "cosine_dist": 0.9793098193525396,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2819.936,
+            "end_time": 2820.916,
+            "text": "ahora son ciento ",
+            "cosine_dist": 0.8953449070299448,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2820.936,
+            "end_time": 2864.234,
+            "text": "uno, recuerden que hablábamos de Alberti que en el año mil ocho cuarenta y siete se quejaba de los, en mil ocho cincuenta y cuatro se quejaba de los cuarenta y siete impuestos de la provincia de Buenos Aires, ya tenemos ciento uno.  Las tasas exorbitantes de cada uno, nosotros tenemos muchos, sino que las tasas son altas y Argentina está en el más alto promedio en nivel de tasa sobre salarios, ganancias, IVA, etcétera.  La construcción del régimen recaudatorio como el tercer brazo ejecutor de la política tributaria, es decir, sistemas de recaudación que son complejos, hostiles, difíciles, ya lo hemos de alguna manera explicado, pero siempre hay que volver sobre eso para entender por qué Argentina está como está. ",
+            "cosine_dist": 0.9348290498766079,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2867.416,
+            "end_time": 2869.177,
+            "text": "El cuarto brazo es ",
+            "cosine_dist": 0.782412298542936,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2869.657,
+            "end_time": 2875.5,
+            "text": "algo de lo que se habla bastante poco, que es la coparticipación federal por el cual la Nación ",
+            "cosine_dist": 0.916623221294374,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2875.52,
+            "end_time": 2880.942,
+            "text": "recauda y las provincias gastan y no hay correspondencia fiscal entre el sujeto ",
+            "cosine_dist": 0.9617274296196392,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2881.022,
+            "end_time": 2920.009,
+            "text": "que va a tocar el timbre para recaudar y que va a gastar, con lo cual la demanda de gasto tiende a infinito.  Total, la gente cree que no paga impuestos en las provincias, pero sí los paga por el recaudo de la Nación.  Además con toda la perversidad que es la devolución de la coparticipación, que a veces es automática, a veces no, la pisa el gobierno central, actualmente está en una relación de setenta a treinta, setenta pesos de lo que se recauda a nivel nacional se lo queda el Estado Nacional y después lo transforma en migajas a las provincias y treinta va automático a las provincias.  La superposición de impuestos, la misma actividad que cobra dos veces el mismo impuesto. ",
+            "cosine_dist": 0.9700114008799249,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2920.329,
+            "end_time": 2932.802,
+            "text": "Por ejemplo, el caso más extraordinario, cuando una persona hace un depósito, paga impuesto al cheque, cuando con esa plata... La gira, la FIP por IVA, vuelve a pagar el impuesto del cheque. ",
+            "cosine_dist": 0.9369128409289488,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2933.263,
+            "end_time": 2950.824,
+            "text": "Y ahora el caso más estrafalario, que si el depósito lo haces en efectivo, el banco te cobra un uno por ciento porque dice que el camión le cuesta mucha guita mover el efectivo.  Una cosa increíble, como si... que un fulano en una alacena le costara mucho acomodar los litros de leche y por ese motivo aumenta el precio de la leche. ",
+            "cosine_dist": 0.9585756814536678,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2950.844,
+            "end_time": 2951.685,
+            "text": "Una cosa increíble. ",
+            "cosine_dist": 0.9445526833513246,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2954.288,
+            "end_time": 2988.541,
+            "text": "Dijimos la superposición.  Los criterios retroactivos que dan la sensación al contribuyente... Que el Estado puede hacer cualquier cosa, puede cobrar impuestos en el pasado, puede mandarte una carta y decirte vos tenías que haberme tributado tal cosa.  y como no lo hiciste la multa es atroz y vos nunca te llevó esa carta.  Y el tercer criterio, que en algo también hablaba Alberti, yo lo llamo la impuestización de las tasas.  Las tasas de los municipios tienen que tener correlación con el costo marginal del servicio que prestó. ",
+            "cosine_dist": 0.9307995359023097,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2989.241,
+            "end_time": 2993.563,
+            "text": "Como el servicio que presta es igual a cero, la tasa es un impuesto, no es el costo del servicio. ",
+            "cosine_dist": 0.9504381436126866,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2994.444,
+            "end_time": 3011.208,
+            "text": "La clásica tasa de seguridad e higiene de los municipios de la provincia de Buenos Aires.  O sea, no brindan seguridad, no brindan higiene, por lo tanto, esa tasa es un impuesto, no es el pago de un servicio.  Las tasas de alumbrado, barrio y limpieza.  No te alumbran, no te barran, no te limpian.  Por lo tanto, es un impuesto. ",
+            "cosine_dist": 0.9248030776367263,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3011.969,
+            "end_time": 3015.934,
+            "text": "¿Está?  Y la impuestización de las multas. ",
+            "cosine_dist": 1.0169224520585387,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3016.374,
+            "end_time": 3019.217,
+            "text": "La reta teléfono, por no decir otra cosa. ",
+            "cosine_dist": 0.8683717801406026,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3019.798,
+            "end_time": 3022.961,
+            "text": "Cuando todo está prohibido, la multa es un impuesto, decía Alberti. ",
+            "cosine_dist": 1.0081548560402596,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3023.622,
+            "end_time": 3055.535,
+            "text": "Nuevamente, está prohibido circular, estacionar, sacar la basura, poner la basura, poner un cartel, poner una silla, bueno, todo está prohibido, por lo tanto, las tasas se transforman, las multas se transforman en impuestos.  Estos últimos tiempos estuvimos escuchando que hubo algunos ministros que fueron degradados, miren la palabra que usan, al nivel de secretario.  Y que sentía mal, algunos renunciaron.  Dicen, no, ¿cómo puede ser que el Ministerio de Salud ahora sea la Secretaría? ",
+            "cosine_dist": 0.9839113309454915,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3055.595,
+            "end_time": 3075.589,
+            "text": "Estoy degradado, estoy dolido, esas cosas que dice Rubis.  Bueno, a los ciudadanos nos degradaron a contribuyente y ahora nos han degradado a esclavo fiscal.  Entonces, esa degradación es mucho más dolorosa, penosa y costosa para la sociedad que el cambio de la tarjetita de un supuesto ministro que ahora es un secretario, que es lo mismo. ",
+            "cosine_dist": 0.9216271315294161,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3075.629,
+            "end_time": 3102.247,
+            "text": "Bueno, El crecimiento secular del gasto, la demagogia, la desidia de los varones feudales es lo que explica el crecimiento de los impuestos.  Pero la Corte Suprema tiene una responsabilidad primaria en esto.  ¿Por qué?  Porque hay un cuento que dice que no, a la Corte llegan casos particulares y la Corte no puede actuar en temas de casos generales.  Yo no soy abogado, debe ser así, tendrá su motivo. ",
+            "cosine_dist": 0.937372260526005,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3102.607,
+            "end_time": 3105.229,
+            "text": "Algún día voy a consultar a un abogado para que nos explique esto. ",
+            "cosine_dist": 0.9846073568648686,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3107.0,
+            "end_time": 3143.732,
+            "text": "Pero la realidad es que la corte presencia desde una platea muy cómoda, desde un palco, como el Estado, el Poder Ejecutivo, los legislativos, los estados provinciales, municipales, están esquilmando personas, esquilmando propiedades, empobreciendo un país y no hacen nada porque no les llegó el caso particular.  Yo lo pongo en el caso del derecho penal, que un juez en la corte no debería hacer nada si ve cómo una persona mata a otra.  Es raro, algo de oficio tendría que surgirle, una idea. ",
+            "cosine_dist": 0.9745098844112654,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3144.072,
+            "end_time": 3147.193,
+            "text": "No, no, no, los jueces en el caso impositivo no hacen absolutamente nada. ",
+            "cosine_dist": 0.9364349087716932,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3147.973,
+            "end_time": 3189.474,
+            "text": "Cuando uno ve cómo está diseñado Ingresos Brutos, Un abogado, un juez de primera, segunda, corte, lo que sea, no puede no hacer nada.  Porque es lisa y llanamente una violación a todos los principios de la Constitución Nacional.  Ingreso Bruto viola la libertad de trabajo, viola el tránsito, viola el principio de igualdad ante la ley, viola el principio de la inviolabilidad de la propiedad privada.  está diseñado perversamente las provincias hacen uso de esa perversión con un ardid tremendo como es dejarte acumular. ",
+            "cosine_dist": 0.9793976086002769,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3190.334,
+            "end_time": 3227.448,
+            "text": "por desinformación es profeso saldos y por información es profeso te dejan acumular infracciones para después quedarte con toda la furia embargarte y romperte una actividad de una empresa privada.  y no les importa absolutamente nada.  el sistema de percepciones que ponen tanto en relación pero más que nada a ingresos brutos en todas las provincias implica que una persona está obligada trabajo forzado a sacarle plata a otra a través de préstamo, préstamo forzado, a cambio de ingresos brutos. ",
+            "cosine_dist": 0.912967845476535,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3227.468,
+            "end_time": 3236.636,
+            "text": "Es como si estacionas el auto en un estacionamiento y el garajista te dice, che, te saqué la óptica y la deposité en Arba, andá a Arba a buscarte que es tuya. ",
+            "cosine_dist": 1.0101357766479122,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3238.517,
+            "end_time": 3243.902,
+            "text": "Préstamo forzado y trabajo forzado.  Bueno, hay más cosas, ",
+            "cosine_dist": 0.9470960851377667,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3245.023,
+            "end_time": 3251.348,
+            "text": "para seguir hablando de esto, ya estamos casi terminando y tuvimos la presencia de Javier, pero si no aprovechamos ",
+            "cosine_dist": 0.9632436417390304,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3251368,
+            "end_time": 3251408,
+            "text": "el ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3251.568,
+            "end_time": 3256.109,
+            "text": "año dos mil diecinueve para trabajar sobre la reducción medular ",
+            "cosine_dist": 1.0004755870887956,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3256.149,
+            "end_time": 3263.815,
+            "text": "de impuestos, y si dedicamos el año que viene a esta agenda sueca que hace Rodríguez Larreta, donde todos los pañuelitos, ",
+            "cosine_dist": 1.0387492646761227,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3263.855,
+            "end_time": 3306.572,
+            "text": "todos los colores, todos muy lindos, perdemos el tiempo, no resolvimos absolutamente nada, y Argentina sigue siendo cada vez más pobre.  Insistimos, yo estimo y creo positivamente que en la Argentina se viene una rebelión fiscal como la del dos mil ocho de Luis del Campo.  Y creo que deberíamos hacerla, obviamente en paz, pero con firmeza para ponerle un freno al gobierno, a todos los gobiernos, a las veinticuatro jurisdicciones, a los dos mil cuatrocientos municipios y al gobierno nacional, porque están esquilmando a la Argentina.  Y esto está fabricando pobreza como nunca vista.  Bueno, nos vemos el próximo viernes.  Esto fue Demoliendo Mitos, edición encendida con Javier Milei. ",
+            "cosine_dist": 1.0176693851567267,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3306.592,
+            "end_time": 3310.133,
+            "text": "Espero les haya gustado.  Buen fin de semana y listo. ",
+            "cosine_dist": 1.0233702020329523,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 3310.393,
+            "end_time": 3335.615,
+            "text": "Viva el G-Veinte.  Hasta luego.  Gracias.  Comienzo de espacio publicitario en Conexión Abierta. ",
+            "cosine_dist": 0.8567034396329953,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 3336.095,
+            "end_time": 3341.857,
+            "text": "Este medio está asociado a Academad, Cámara Argentina de Medios Audiovisuales Digitales. ",
+            "cosine_dist": 0.9842712491047199,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 3344.719,
+            "end_time": 3373.333,
+            "text": "Atención, la fábrica llega a El Palomar.  Sí, en el mes de septiembre, la fábrica inaugura un nuevo local en Misiones, el Palomar.  Entérate de cuándo es la fiesta de apertura en www.lafabrica.com.ar La Fábrica, compartí algo rico.  Todos los sábados a las veinte, quédate a disfrutar. ",
+            "cosine_dist": 0.7772761144523083,
+            "is_target_speaker": false
+        }
+    ]
+}

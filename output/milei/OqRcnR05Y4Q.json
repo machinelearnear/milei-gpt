@@ -1,0 +1,343 @@
+{
+    "Index": 387,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "OqRcnR05Y4Q",
+    "url": "https://www.youtube.com/watch?v=OqRcnR05Y4Q",
+    "title": "\"SOY LIBERALISMO PURO Y DURO\" - Javier Milei en Crónica TV 24/7/2021",
+    "duration": 611.0,
+    "view_count": 53573,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 3",
+            "start_time": 0.06,
+            "end_time": 5.031,
+            "text": "Me gusta que hayas venido a esta casa, estás muy bien, se te ve cómodo, se te ve interesante, me parece que estás bien. ",
+            "cosine_dist": 0.758022930538184,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 5.271,
+            "end_time": 8.052,
+            "text": "¿Estás censurado en otros medios vos?  ¿En algunos no te invitan? ",
+            "cosine_dist": 0.9274787601610252,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 8.112,
+            "end_time": 9.953,
+            "text": "No, no le importa, yo me lo... ",
+            "cosine_dist": 0.8824090857614451,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 10.413,
+            "end_time": 24.459,
+            "text": "Calame la luchilla.  ¿Sabés qué pasa?  Qué jodido, en serio.  Qué jodido cuando no se le da aire a todos los candidatos.  Digo, vamos a tratar de... Está en las paredes.  De hecho, está mi ley, con quien seguramente no conseguimos en muchas cosas, pero me alegra verlo acá, me alegra poder debatir con él, poder hablar. ",
+            "cosine_dist": 0.8257138256743943,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 24.499,
+            "end_time": 48.856,
+            "text": "Está en las paredes.  Podemos escribir, podemos hacer... Censura profunda, que se yo, fue en la dictadura.  Están las paredes.  Ellos con su tema... Si nosotros hacemos buenos programas y esto mide y le ganamos el rating a los demás, con nosotros.  Ahora, si haces el plomo que hiciste antes, eso olvidate, hermano.  No vas a durar un minuto más.  Ahora, vos invitás peronistas, sean mujeres, sean varones.  El rating te va para arriba, le ganás a los demás. ",
+            "cosine_dist": 0.6620009960655973,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 48.876,
+            "end_time": 54.638,
+            "text": "Vamos a hacer una cosa, muchachos.  Vamos a hacer una cosa a la gente de Crónica.  Vamos a hacer una cosa, lo vamos a poner de productor ejecutivo. ",
+            "cosine_dist": 0.9050963538786106,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 55.198,
+            "end_time": 56.179,
+            "text": "No, no, de invitado. ",
+            "cosine_dist": 0.796797671678795,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 56.199,
+            "end_time": 58.299,
+            "text": "Se va del otro lado y va diciendo que tenemos que... ",
+            "cosine_dist": 0.8662697063755369,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 58.339,
+            "end_time": 59.62,
+            "text": "De invitado, de invitado. ",
+            "cosine_dist": 1.0238167825436064,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 59.7,
+            "end_time": 62.341,
+            "text": "A usted le gusta decir que tiene que hacer lo otro. ",
+            "cosine_dist": 0.9064606556249135,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 62401,
+            "end_time": 62721,
+            "text": "Pero lógico. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 62.761,
+            "end_time": 63.522,
+            "text": "Cuidado con eso. ",
+            "cosine_dist": 0.9721045947726888,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 63.682,
+            "end_time": 70.785,
+            "text": "Porque también hay que escuchar al otro.  No, pero escuchame un poquitito.  La política está... para explicar lo que va a pasar. ",
+            "cosine_dist": 0.661468164735679,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 70.865,
+            "end_time": 71.605,
+            "text": "Y para escuchar mucho. ",
+            "cosine_dist": 0.96913840581667,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 71.725,
+            "end_time": 83.771,
+            "text": "No, para explicar lo que va a pasar.  Y si no acertás, no lo invitás más.  Yo te digo a vos, vos seguí invitando como invitaste al principio y estás frito.  Invitá a Peronista, te va a ir bárbaro.  Dale, gracias.  Gracias por la invitación. ",
+            "cosine_dist": 0.6812537759517737,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 83.891,
+            "end_time": 91.476,
+            "text": "Gracias, viejo, gracias.  Bueno, ha venido Javier Milei.  Sí, con su candidata la va a presentar él ahora.  Javier, ¿cómo estás? ",
+            "cosine_dist": 0.912042776637595,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 91.516,
+            "end_time": 109.211,
+            "text": "¿Qué tal, Tomás?  Bueno, vine con Victoria Villaruel, quien me acompaña en la fórmula para la candidatura a diputado nacional por la Ciudad Autónoma de Buenos Aires.  Y estoy muy orgulloso de que ella me acompañe en esta fórmula.  Y digo, ¿se puede presentar sola? ",
+            "cosine_dist": 0.458317703775004,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 109771,
+            "end_time": 110172,
+            "text": "Sí, claro. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 110.9,
+            "end_time": 143.915,
+            "text": "Bueno, soy Victoria Villarruel, soy abogada.  y bueno, con Javier integramos La Libertad Avanza, un espacio que pretende ser una opción para muchos de los votantes que en la ciudad de Buenos Aires no han tenido desde hace muchos años a quién votar, alguien que represente sus ideas, alguien que no venga de la política, que no tenga compromisos previos con la política, que no tenga miedo de la casta política.  y bueno, con Javier en ese sentido compartimos estos valores que son la libertad de poder elegir un candidato que te represente. ",
+            "cosine_dist": 0.8707442777083527,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 144.336,
+            "end_time": 147.559,
+            "text": "¿Qué gente cree que no está representada hoy con los candidatos que hay en Ciudad? ",
+            "cosine_dist": 0.8328766450561467,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 147.979,
+            "end_time": 256.646,
+            "text": "Bueno, nosotros no creemos que haya una oferta liberal.  De hecho, Argentina no ha tenido expresiones liberales desde hace muchísimo tiempo.  O sea, a ver, el liberalismo en Argentina, el liberalismo económico en términos puros, Se aplicó a partir del año mil ochocientos sesenta, siendo un país de bárbaros, en treinta y cinco años nos convertimos en el país más rico del mundo.  Después entramos en el siglo veinte, a partir de mediados de la década del diez del siglo veinte empezamos a abrazar sustanciales dosis de socialismo.  Entramos a la pandemia número setenta, caímos al ciento veinte.  Para que te des una idea del drama argentino, para explicar por qué tenemos los pobres que tenemos.  A ver, ¿Argentina no crece de manera genuina?  Desde agosto de mil nueve noventa y ocho.  Todo lo demás fue recuperación cíclica, todo puro rebote del gato muerto.  Si lo querés poner en otro lado, en otra expresión, el PBI per cápita de hoy, si todo le sale bien al gobierno, va a estar diecisiete por ciento por debajo del que teníamos en el dos mil once.  No solo eso, sino que además... En los últimos diez años se destrozaron doscientos veinticinco mil puestos de trabajo.  ¿Y qué propones?  No, no, pará, pará.  Y eso implicó que el salario real cayera a los niveles de dos mil cuatro.  Por eso tenemos cincuenta por ciento de pobres y once por ciento de indigentes.  La propuesta es volver a abrazar las ideas de la libertad.  Bueno, por ejemplo, nosotros estamos pensando en tres familias de reforma, lo que se llama reforma de primera generación, segunda generación y tercera generación.  La primera reforma de primera generación básicamente es una reforma del Estado para poder bajar el gasto público de manera sustancial, de modo tal que podamos bajar impuestos y de esa manera poder darle oxígeno a la oferta de la economía para que empiece a crecer. ",
+            "cosine_dist": 0.320944191563434,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 256.685,
+            "end_time": 260.708,
+            "text": "¿Gastar el gasto público es reducir los planes de asistencia?  No. ",
+            "cosine_dist": 0.8247429062611711,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 261.708,
+            "end_time": 275.382,
+            "text": "No, no, para nada.  ¿Qué sería?  A ver, hay un estudio del BID que estudia la ineficiencia técnica del gasto público en el mundo.  La peor región del mundo es América Latina con una ineficiencia técnica de cuatro coma cuatro por ciento. ",
+            "cosine_dist": 0.3987490321552051,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 275.402,
+            "end_time": 276.503,
+            "text": "Pero porque tenemos mucha pobreza. ",
+            "cosine_dist": 1.031105870054593,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 276.623,
+            "end_time": 329.776,
+            "text": "No, pero ahora estamos hablando de ineficiencia técnica.  ¿Qué quiere decir?  Bueno, ahora te explico qué hay dentro de ineficiencia técnica.  Argentina tiene siete dos, es el peor país del mundo.  ¿Sabés qué?  Hay un rubro que se llama filtraciones.  ¿Sabés qué?  Choreo.  O sea, hay cinco puntos de choreo en Argentina.  Es decir, por eso nosotros vamos contra el status quo.  A ver, es falsa la grieta.  La verdadera grieta es entre los políticos, contra la casta política, con la corporación política, la oligarquía política, que nos arruina el sector privado que producimos.  Dame un segundo, Juan Cruz, por favor.  Entonces, esa es la verdadera grieta.  Porque los únicos que progresaron acá fueron los políticos.  Acá el que se rompe el lomo laburando, o sea, cada vez le va peor.  Entonces... Nosotros lo que queremos recuperar es eso, la cultura del trabajo. ",
+            "cosine_dist": 0.38691135928942133,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 330.016,
+            "end_time": 332.718,
+            "text": "Encuentro una contradicción en eso, porque vos querés ser político, digamos. ",
+            "cosine_dist": 0.9058290823326509,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 333.098,
+            "end_time": 354.673,
+            "text": "Pero, a ver, no, no es una contradicción, porque vos podés enfrentar el sistema de tres maneras.  Una es la batalla cultural, ¿sí?  En la cual en Argentina está bastante, digamos, complicada, porque hay, por ejemplo, personas que asesoran al presidente, que piden la censura de personas que piensan distinto, como en mi caso, que pidió la censura mía tres veces de manera explícita. ",
+            "cosine_dist": 0.3255393194867173,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 355.273,
+            "end_time": 356.794,
+            "text": "¿En dónde, Javier?  ¿Cómo eso? ",
+            "cosine_dist": 0.8692710940453059,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 356.834,
+            "end_time": 360.878,
+            "text": "Sí, claro, digamos, o sea, lo hizo dos veces en un canal y una en otro. ",
+            "cosine_dist": 0.4516298652637194,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 361.298,
+            "end_time": 362.039,
+            "text": "¿Quién te hizo eso? ",
+            "cosine_dist": 0.8032767620262449,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 362.279,
+            "end_time": 371.527,
+            "text": "Bueno, digamos, una persona muy cercana al presidente de la nación, que lo tuviste hace un ratito acá.  Pero cuando uno forma parte de un proyecto colectivo, hay parte de la libertad individual que la pone al servicio del conjunto. ",
+            "cosine_dist": 0.5560977018328448,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 372188,
+            "end_time": 372628,
+            "text": "Entonces, viste... ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 373.008,
+            "end_time": 384.132,
+            "text": "O sea, eso por.  un.  lado.  Por otro lado, sí, estábamos en otro tema y me sacaste de... No, no, bueno, pero lo que pasa es que... ",
+            "cosine_dist": 0.5281675980865723,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 384.272,
+            "end_time": 392.754,
+            "text": "Perdón, perdón, hablabas de que es una contradicción.  ¿Cómo va a ser una contradicción que los ciudadanos se impliquen en la política para controlar a los políticos? ",
+            "cosine_dist": 0.9119550667957592,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 393.014,
+            "end_time": 427.017,
+            "text": "No puede ser jamás una contradicción.  Venimos a ir contra el status quo.  Venimos contra el estatus quo, es decir, contra esta casta política que nos empobrece, que nos está robando el futuro, que hace que los pibes, ¿sabés que el setenta por ciento de los pibes se quieren ir de la Argentina?  No sé si eso, pero... Y la mitad de esos, la mitad, se van aún cuando no tuvieran la posibilidad de volver.  Sí, Juan Cruz, perdóname.  No, no, es que te freno porque estás presentando a tu candidata y yo le quería preguntar a Victoria, pero cuando hablamos de... Grieta, Victoria, ¿vos sos una negacionista de la dictadura? ",
+            "cosine_dist": 0.5563458251651971,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 427.517,
+            "end_time": 515.988,
+            "text": "No, y esa pregunta la he respondido muchas veces.  Yo lo que hago es, desde hace quince años, defender víctimas del terrorismo.  Es decir, ciudadanos que fueron agredidos durante la década del setenta por montoneros y por el ejército revolucionario del pueblo.  Crímenes que han quedado impunes hasta hoy.  No es jamás negacionismo.  reconocer a las víctimas del terrorismo son diecisiete mil trescientas ochenta personas afectadas de diferentes maneras pero un poco también a lo que plantea.  lo que planteamos con la libertad avanza es el hecho de que el ciudadano pueda cuestionar los actos de gobierno de una casta política que en ningún momento resuelve nuestros problemas que sólo se perpetúa en el poder que nos hace pensar de una forma con un discurso totalmente único un discurso por ejemplo, en el campo de los derechos humanos en el cual todo se basa en una supuesta inclusión.  ¿Qué mayor inclusión que tener trabajo?  ¿Qué mayor inclusión que poder transitar libremente por tu país sin que una marcha, un piquete te interrumpa?  ¿Qué mayor inclusión que poder educar a tus hijos y que tus hijos reciban una educación de calidad que les permita el día de mañana ganarse el pan?  ¿Qué mayor inclusión que esa?  Y sin embargo el gobierno y también la oposición lo que hacen es demagogia.  Y nosotros lo que proponemos es la mayor inclusión que puede haber, que es la que está contenida en la Constitución Nacional, la cual somos iguales ante la ley de todos. ",
+            "cosine_dist": 0.8864261294887634,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 516.008,
+            "end_time": 540.324,
+            "text": "Tenemos un último momento, disculpame.  Mira, y te hago la última pregunta.  Obviamente que te conozco tus ideas, hay cosas que no comparto claramente, pero bueno, es bueno que haya más expresiones en estas elecciones.  ¿A quién crees que le sacás votos?  ¿Qué querés que venís a hacer?  ¿Por qué tu participación en estas elecciones? ",
+            "cosine_dist": 0.841816484999727,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 540.584,
+            "end_time": 549.352,
+            "text": "No le sacamos votos a nadie.  Nosotros venimos a darle una propuesta verdaderamente liberal a las personas que viven en la ciudad autónoma. ",
+            "cosine_dist": 0.43238316359824824,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 549.372,
+            "end_time": 551.274,
+            "text": "¿Por qué no regresaste con Esper?  ¿Qué pasó con Esper? ",
+            "cosine_dist": 0.9127709696604872,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 552.395,
+            "end_time": 587.733,
+            "text": "Pero José Luis Esper está en la provincia de Buenos Aires.  Yo estoy en Capital Federal, o sea, ¿dónde hay un conflicto ahí?  Entonces, ahí el punto central, ¿cuál es?  Nosotros venimos a la Ciudad Autónoma de Buenos Aires proponerle una verdadera opción liberal.  No una, digamos, que se amigue con los socialdemócratas, con las palomitas, con los tibios.  No.  Liberalismo puro y duro.  El que hizo de Argentina el primer país del mundo.  Gracias, Javier. ",
+            "cosine_dist": 0.4151678855545493,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 587.753,
+            "end_time": 610.668,
+            "text": "Muchísimas gracias, por favor.  Muchísimas gracias por haber venido.  A la mierda, los malditos empresarios.  A la mierda, Sodomitas, el capital.  Basta de basura, Keynesiana.  Ha llegado el momento liberal.  Tenemos un líder y él es un gran rebelde. ",
+            "cosine_dist": 0.9632800032107903,
+            "is_target_speaker": false
+        }
+    ]
+}

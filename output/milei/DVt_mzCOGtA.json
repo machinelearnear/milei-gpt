@@ -1,0 +1,1911 @@
+{
+    "Index": 482,
+    "channel_id": "UCj6PcyLvpnIRT_2W_mwa9Aw",
+    "channel": "Todo Noticias",
+    "uploader_url": "https://www.youtube.com/@todonoticias",
+    "id": "DVt_mzCOGtA",
+    "url": "https://www.youtube.com/watch?v=DVt_mzCOGtA",
+    "title": "DEBATE PRESIDENCIAL ENTRE SERGIO MASSA Y JAVIER MILEI",
+    "duration": 5392.0,
+    "view_count": 2492104,
+    "candidate_name": "milei",
+    "quality": "low",
+    "segments": [
+        {
+            "speaker": "Speaker 1",
+            "start_time": 14.54,
+            "end_time": 25.617,
+            "text": "Buenas noches, muy bienvenidos al debate presidencial... ...dos mil veintitrés, segunda vuelta electoral... ...desde la Facultad de Derecho de la Universidad de Buenos Aires. ",
+            "cosine_dist": 0.7338205395313222,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 26.037,
+            "end_time": 35.545,
+            "text": "Buenas noches a todos, bienvenidos y bienvenidas.  Es un honor para nosotros acompañarlos en este debate... ...de los candidatos presidenciales para las elecciones del diecinueve de noviembre. ",
+            "cosine_dist": 0.9664277383655332,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 35.794,
+            "end_time": 49.117,
+            "text": "Los debates electorales son un derecho de la ciudadanía, por eso la ley veintisiete mil trescientos treinta y siete de dos mil dieciséis establece la obligatoriedad de los debates presidenciales. ",
+            "cosine_dist": 0.7134035325413564,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 49.537,
+            "end_time": 58.799,
+            "text": "La Cámara Nacional Electoral es la autoridad organizadora de este evento y la producción televisiva está a cargo de Capit, la Cámara Argentina de Productoras Independientes de Televisión. ",
+            "cosine_dist": 0.926326459550836,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 59.099,
+            "end_time": 67.667,
+            "text": "La televisión pública distribuye la señal para todos los canales que quieran tomarla.  También este debate se transmite vía streaming. ",
+            "cosine_dist": 0.7687053214702197,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 67.987,
+            "end_time": 79.478,
+            "text": "A partir de este momento van a poder ver un QR en la pantalla que les va a dar acceso a una transmisión especial por YouTube con intérpretes en lengua de señas que van a estar al mismo tamaño de pantalla que los candidatos. ",
+            "cosine_dist": 0.9025838690878931,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 80.149,
+            "end_time": 91.093,
+            "text": "El ingreso, la llegada, la ubicación de los candidatos, como así también la asignación de los atriles y el orden de exposición son el resultado de sorteos públicos. ",
+            "cosine_dist": 0.7801876661385625,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 91.533,
+            "end_time": 150.897,
+            "text": "La dinámica de lo que pasa esta noche está consensuada por los equipos de campaña de cada candidato.  Y por eso ahora vamos a compartir un video donde les vamos a explicar cómo es esa dinámica.  La dinámica del debate dos mil veintitrés segunda vuelta funciona del siguiente modo.  En el comienzo los candidatos tendrán un minuto para su presentación.  Luego habrá seis ejes temáticos de doce minutos donde cada candidato contará con seis minutos que administran a su elección.  Cuando un candidato termina de hablar, automáticamente tiene la palabra el otro candidato.  Los moderadores solo intervienen si alguno de ellos habla más de dos minutos seguidos.  En el último bloque del debate, cada candidato tendrá dos minutos para finalizar su participación.  La distribución de los atriles y el orden de exposición fueron definidos por sorteo público. ",
+            "cosine_dist": 0.9029426336528524,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 156.713,
+            "end_time": 162.937,
+            "text": "Y a esta hora, este domingo, es el momento de presentar a los protagonistas de la noche. ",
+            "cosine_dist": 0.7719559252845491,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 163.498,
+            "end_time": 167.621,
+            "text": "Invitamos al escenario a los candidatos a la presidencia de la Nación. ",
+            "cosine_dist": 0.973102417105537,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 190.715,
+            "end_time": 203.645,
+            "text": "Bienvenidos candidatos, muy bienvenidos.  Esperemos y esperamos esta noche tener un gran debate con las ideas, con las propuestas, con los proyectos que la ciudadanía está esperando escuchar de ustedes. ",
+            "cosine_dist": 0.7397022624599723,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 203.965,
+            "end_time": 286.577,
+            "text": "Para todas las personas presentes en el Salón de Actos de la Facultad de Derecho, les recordamos que está prohibido aplaudir, gritar, hablar o dirigirse a cualquiera de los candidatos y también está prohibido que se levanten de sus asientos durante la transmisión.  Y ahora es el comienzo del debate y está previsto que tengan un minuto para presentarse.  Tiene la palabra Sergio Massa.  Muy buenas noches.  Hoy es una de las noches más importantes de nuestros cuarenta años de democracia.  Hoy y el domingo diecinueve de noviembre vamos a decidir quién de los dos va a ser el presidente de los argentinos.  Tenemos por delante la responsabilidad de decidir quién va a cuidar nuestra salud, nuestra seguridad, quién va a cuidar nuestro trabajo y nuestra educación.  Tenemos por delante la responsabilidad de decidir cómo construimos la Argentina de los próximos cuatro años.  Vengo a plantear un gran cambio para la Argentina, que es la construcción de un gran acuerdo con políticas de Estado, con diálogo y consensos, pero sobre todas las cosas, con el respeto a los que piensan distinto.  Tenemos el desafío por delante de definir los próximos cuatro años de quién va a representar a la Argentina frente al mundo y quién va a cuidar a nuestras madres y a nuestros hijos. ",
+            "cosine_dist": 0.9451917288963466,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 288.558,
+            "end_time": 351.462,
+            "text": "Muy bien, ahora es el turno del candidato.  Javier Milei.  Buenas noches.  Soy Javier Milei.  Soy economista, liberal libertario.  Soy especialista en temas de crecimiento económico con y sin dinero.  Por lo tanto, sé cómo hacer crecer una economía, sé cómo crear puestos de trabajo, puestos de trabajo de calidad con buenas remuneraciones, sé cómo terminar con la pobreza, sé cómo terminar con la indigencia.  Y sobre todas las cosas, sé cómo exterminar de una vez por todas el cáncer de la inflación.  Al mismo tiempo, mi compañera Victoria Villarruel es especialista en temas de seguridad y defensa.  Por lo tanto, somos la fórmula ideal para terminar con los problemas que hoy aquejan a la Argentina, que tienen que ver con el estancamiento, con la inflación y con la inseguridad.  Pero es bueno que tengan conciencia que es imposible Cambiar la realidad haciendo las mismas cosas.  Porque una Argentina distinta.  es imposible con los mismos de siempre. ",
+            "cosine_dist": 0.3773819868206598,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 352.802,
+            "end_time": 368.926,
+            "text": "De esta manera terminamos el espacio de las presentaciones y abrimos el espacio de los ejes temáticos.  Recuerden que el reglamento dice que la idea es que muestren sus propuestas y que debatan.  Y que hay doce minutos por eje temático, de los cuales tienen seis minutos cada uno y pueden usarlos libremente. ",
+            "cosine_dist": 0.9197135862208705,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 369.494,
+            "end_time": 396.441,
+            "text": "Recuerden, candidatos, que nosotros solo vamos a intervenir si se interrumpen, si sucede alguna cuestión particular que entorpezca el desarrollo normal del debate y si se pasan de los dos minutos.  A pedido de ustedes, los candidatos, cuando falten quince segundos para completarse los dos minutos, sonará una alarma.  Cuando concluyan los dos minutos, será doble dicha alarma. ",
+            "cosine_dist": 0.7164533493468083,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 397.054,
+            "end_time": 404.738,
+            "text": "El reglamento dice también que tienen que respetarse el uno al otro, tener un trato cordial y es muy importante que no se interrumpan mientras hablan. ",
+            "cosine_dist": 0.9371017525868726,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 404.938,
+            "end_time": 416.123,
+            "text": "También tienen que evitar cualquier tipo de agresión de tipo personal y mantener la ubicación diseñada aquí en este escenario, tal cual acordaron entre ustedes. ",
+            "cosine_dist": 0.7618268802188295,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 416.163,
+            "end_time": 420.746,
+            "text": "El primer tema de la noche es la economía y tiene la palabra Javier Milei. ",
+            "cosine_dist": 0.9351782459400436,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 422.647,
+            "end_time": 538.355,
+            "text": "Argentina lleva cien años de decadencia.  Argentina inició el siglo XX siendo el país más rico del mundo.  Hoy, al tipo de cambio paralelo, somos ciento treinta.  Tenemos cuarenta y cinco por ciento de pobres, diez por ciento indigentes y una inflación caminando al trescientos por ciento en la punta con alto riesgo de hiperinflación.  Esto es consecuencia de lo que nosotros denominamos el modelo de la casta.  El modelo de la casta está basado en una premisa que dice que donde hay una necesidad, nace un derecho.  El problema es que las necesidades son infinitas y los derechos hay que pagarlos y los recursos son finitos.  Eso no es un problema para los economistas de verdad, porque eso se resuelve con mercados, con propiedad privada y precios libres y sin intervención estatal.  Pero eso no es lo que le gusta a la casta política, que le gusta intervenir.  Y eso se manifiesta con déficit fiscal.  Ese déficit fiscal hay que financiarlo.  De hecho, Argentina en los últimos ciento veintitrés años, durante ciento trece, tuvo déficit fiscal.  ¿Y cómo lo financia?  Primero lo financia con deuda, una forma inmoral porque carga la cuenta sobre generaciones futuras, generaciones que ni siquiera pueden votar y que a la larga siempre terminamos desfolteando y por eso somos el máximo desfolteador serial de la historia moderna.  La otra alternativa que utilizan los políticos suele ser el uso de la maquinita de imprimir billetes.  O sea, ir al Banco Central e imprimir billetes.  Eso genera inflación.  De hecho, le hemos quitado trece ceros a la moneda.  Tuvimos dos hiperinflaciones sin guerra y vaya que estamos camino a otra.  Y la otra alternativa, ya cuando no queda más, viene el ajuste, el ajuste, y que la política siempre lo hace subiendo impuestos, jamás bajando el gasto.  Y eso es lo que hace generar presión, que hace que sea inviable el sector privado, hace que nos hundamos por culpa de la presencia del sector público.  El Estado es el origen del problema, no la solución. ",
+            "cosine_dist": 0.35160397829481027,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 538.396,
+            "end_time": 584.837,
+            "text": "Tiene la palabra Sergio Massa.  Bueno, creo que lo bueno de este debate es que tiene la oportunidad de que cada uno de nosotros podamos exponer y podamos preguntar.  Javier, por sí o por no te quiero preguntar.  Dijiste en el programa de Feynman que vas a eliminar los subsidios.  ¿Los vas a eliminar sí o no?  Por sí o por no, ¿vas a privatizar Vaca Muerta como dijiste en el programa de Chiche Helblum sí o no?  ¿Por sí o por no vas a dolarizar la economía como planteaste en la carta que le presentaste a la justicia electoral?  ¿Sí o no?  ¿Por sí o por no vas a privatizar ríos y mares como planteaste en la carta que presentaste a la justicia en tu programa de gobierno?  ¿Sí o no?  ¿Por sí o por no vas a eliminar el Banco Central? ",
+            "cosine_dist": 1.0037611977369907,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 584.857,
+            "end_time": 702.84,
+            "text": "A ver, primero a mí no me vas a condicionar si contesto sí o no.  Aunque sí te voy a decir... es que, ¿sabes qué?  Ustedes estuvieron mintiendo con los subsidios.  Ustedes son unos mentirosos.  Vos sos un mentiroso en engañar y asustar a la gente de cómo lo hiciste.  Y te voy a explicar por.  qué.  Porque el boleto, si vos agarrás y te fijás, dado lo que cubre hoy, Cubre una sexta parte.  Por lo tanto, digamos, primero tendrías que multiplicarlo por seis.  O sea, con lo cual no te vas a mil cien.  Te vas a trescientos cincuenta aproximadamente.  Con lo cual mentiste ahí.  Pero además nosotros queremos atacar, además, la parte que tiene que ver con los impuestos.  Con lo cual lo llevaría a la mitad.  Y te voy a decir algo.  No, no vamos a tocar las tarifas.  ¿Sabés por?  qué?  Porque antes vamos a permitir que la economía se recupere.  Y cuando la economía se recupere, la economía va a poder pagar esas tarifas.  ¿Y sabés cuál es el problema tuyo?  Que vos, ¿sabés qué?  Nos reventaste los ingresos.  Con vos, como Ministro de Economía, cayó el treinta y tres por ciento los ingresos, que ya venían cayendo antes con Macri.  Y te voy a decir más, ¿sabés qué?  Si tuviéramos los mismos ingresos que teníamos en la convertibilidad, igual antes de tener la miseria que tenemos ahora con vos de trescientos cincuenta mil pesos, ¿sabés qué?  Tendríamos un millón ochocientos mil.  Mirá la miseria que generaste.  Después, digamos, ¿sabes qué?  Sí, voy a terminar con el Banco Central, porque el Banco Central es el origen de la inflación, es decir, es la maquinita.  ¿Sabes por qué?  voy a terminar con la inflación?  Porque es la forma en la cual ustedes nos roban a nosotros.  ¿Sabes cuántos nos robaron ustedes con la emisión monetaria en los más de veinte años?  que desalimos la convertibilidad, doscientos ochenta mil millones de dólares.  De hecho, el gobierno de delincuentes en el que vos participás los están robando noventa mil millones de dólares y este año te está llevando de esa manera veinticinco mil millones de dólares.  ¿A quién querés seguir jodiéndole la vida con robarnos con la inflación?  Obviamente, el tema de la vaca muerta, digamos, es una cuestión provincial.  Yo no me tengo que meter y creo que te contesté esto de la privatización de los mares.  Ni siquiera sabés extrapolar un caso de teoría económica dado en una charla para economistas.  Tiempo, por favor.  Muy bien.  Sergio Massa. ",
+            "cosine_dist": 0.4390982987531411,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 703.906,
+            "end_time": 712.21,
+            "text": "Bueno, lo primero que te voy a dar es un consejo.  El debate es largo, no te pongas agresivo porque la gente lo que espera son respuestas. ",
+            "cosine_dist": 1.0139429105036357,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 712.23,
+            "end_time": 715.052,
+            "text": "Yo te di respuesta, no me puse agresivo. ",
+            "cosine_dist": 0.8515520336069221,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 715.312,
+            "end_time": 735.864,
+            "text": "Y creo que si hay algo que esperan los argentinos es que el día de hoy, el día de diciembre, gobierne quien gobierne, nos demos la construcción de políticas de Estado.  Atacando, agraviando, faltando el respeto, no lo vas a construir.  Te vuelvo a preguntar, por sí o por no... ¿Vas a dolarizar la economía?  ¿Vas a eliminar los subsidios? ",
+            "cosine_dist": 0.9910774190750884,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 735.884,
+            "end_time": 786.979,
+            "text": "A ver, en primer lugar no te agredí.  No mientas.  Dejá de mentir.  Dejá de mentir, no te agredí.  Solamente expreso con pasión la indignación que genera un gobierno que nos viene destrozando la vida a todos.  Pensá que si estuviéramos como la convertibilidad tendríamos un ingreso promedio de mil ochocientos dólares o un millón ochocientos mil, al tipo de cambio paralelo, y no a esta miseria que tenemos hoy.  Sí, voy a eliminar el Banco Central porque el Banco Central es lo que genera la inflación.  Y los subsidios, ya te lo expliqué, te lo tengo que volver a explicar, ¿no lo entendiste?  No lo entendí.  Bueno, dije que no los voy a tocar.  En lugar de tanto esto, ¿por qué no explicás vos cuáles son tus propuestas?  Porque no se te escuchó ninguna propuesta.  A ver, digamos, hablá en serio y hacés vos alguna propuesta y a ver qué decimos. ",
+            "cosine_dist": 0.4288489931739463,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 787.76,
+            "end_time": 799.325,
+            "text": "Tengo todavía un largo tiempo por los cuatro minutos cuarenta que me quedan, pero o mentiste en lo de Feynman o mentiste esta noche porque dijiste que ibas a eliminar todos los subsidios. ",
+            "cosine_dist": 1.060640895621531,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 800.626,
+            "end_time": 838.23,
+            "text": "Te acabo de explicar cómo lo voy a hacer.  O sea, porque además, quizás no lo sabés, pero vos sabías que los ajustes de tarifa tampoco los podrías dar todos juntos porque la Corte Suprema te los rechaza.  Entonces, o sea, eso de estar fraccionando videítos y esas cosas para generar mentiras, yo entiendo que te funcione la campaña de miedo y todo eso, pero dejá de mentirle a la gente.  Es decir, vamos y hablemos con la verdad.  ¿Sabés qué?  Primero vamos a hacerle cargar el ajuste al Estado, o sea, a tus amigos.  Pero no solo eso, sino que además... Cuando se recupere la economía vamos a tocar tarifas.  Cosa que vos también tocás las tarifas, ¿eh?  Porque vos te decís que no y después cuando se terminó la nafta la subiste. ",
+            "cosine_dist": 0.41053466902243385,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 839.991,
+            "end_time": 864.799,
+            "text": "Bueno, por sí o por no.  Porque desgraciadamente todavía no hemos conseguido saber si los subsidios a los jubilados, si los subsidios en lo que es el sistema de... si los subsidios en lo que es el sistema de créditos, si los subsidios en lo que es el sistema de viviendas, ¿vas a eliminarlos o no?  Y hay gente que espera respuesta. ",
+            "cosine_dist": 0.9728186168332944,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 865.08,
+            "end_time": 865.94,
+            "text": "Ya te dije que no. ",
+            "cosine_dist": 0.8702610163742368,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 867.682,
+            "end_time": 869.063,
+            "text": "O sea que le mentiste a Feynman. ",
+            "cosine_dist": 1.0879203234891202,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 869.083,
+            "end_time": 875.087,
+            "text": "No, yo no le mentí a Feynman.  Lo que pasa es que las respuestas no son como vos querés, te sigo por no.  Digamos, tienen toda una lógica. ",
+            "cosine_dist": 0.47959046249516313,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 876.588,
+            "end_time": 915.687,
+            "text": "Bueno, desgraciadamente, a lo largo de toda la campaña escuchamos... a este candidato hablar de motosierra eliminando subsidios que representan, entre otras cosas, la suba del trescientos por ciento de las tarifas.  Que representan, entre otras cosas, la suba del cuatrocientos por ciento del boleto de tren y de colectivo.  Que representan, entre otras cosas, la eliminación de los programas de atención contra el cáncer.  Que representan, entre otras cosas, el recorte en ochenta y tres mil pesos a cada jubilado y jubilada.  ¿A cuál le creemos?  ¿Al que mintió en lo de Feynman o al que miente esta noche? ",
+            "cosine_dist": 0.9701374655689022,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 917.37,
+            "end_time": 929.319,
+            "text": "Muy fácil.  Si un mentiroso dice que alguien es un mentiroso, ese que está siendo acusado es el que dice la verdad.  Digamos, porque si vos fueras Pinocho ya me hubieras lastimado un ojo. ",
+            "cosine_dist": 0.5842409310241998,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 931.421,
+            "end_time": 971.25,
+            "text": "Javier, entiendo que hiciste tu carrera más que como economista, como estandapero de televisión, pero desgraciadamente lo que está en juego hoy... es el futuro de los argentinos.  ¿Quién va a representar a la Argentina frente al mundo?  ¿Quién se va a sentar con las centrales de trabajadores?  ¿Quién se va a sentar con los empresarios a diseñar la política de crecimiento?  Y desgraciadamente lo que vemos es que o te contradecís en la base que le presentaste a la justicia electoral y le mentiste a la justicia, lo cual es grave, o te contradecís esta noche.  Yo los invito en casa a poner en Google lo que dice mi ley y lo van a ver. ",
+            "cosine_dist": 1.013794049836632,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 972.441,
+            "end_time": 978.264,
+            "text": "Yo los invito a que miren en Google los videos completos y no el que los brasileros le editan para hacer campaña negativa. ",
+            "cosine_dist": 0.6172074804498484,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 979.625,
+            "end_time": 991.512,
+            "text": "Desgraciadamente estamos frente a alguien que o mintió toda la campaña o miente esta noche.  Yo quiero volver a reiterarte.  ¿Vas a dolarizar o no la economía? ",
+            "cosine_dist": 1.018126364526265,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 991.752,
+            "end_time": 997.516,
+            "text": "Sí, vamos a dolarizar la economía.  Vamos a cerrar el Banco Central.  Vamos a terminar con el cáncer de la inflación. ",
+            "cosine_dist": 0.4924381628515945,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 999.196,
+            "end_time": 1084.144,
+            "text": "Bueno... Muy bien, voy a tratar de contarle a los argentinos primero qué significa lo que acaba de decir y después cuáles son nuestras propuestas.  En primer lugar, la dolarización que propone la tiene Zimbabue, por ejemplo, y la eliminación del Banco Central la tiene Micronesia.  Ya lo planteó Patricia Bullrich en otro debate.  Desgraciadamente, la salida de Argentina no es... como plantea este señor, haciendo una apropiación del ahorro de la gente en nombre de la dolarización.  La salida de Argentina es con aumento de exportaciones.  La salida de Argentina es con los cuarenta mil millones de dólares más que vamos a exportar el año que viene.  La salida de Argentina es con la construcción de trabajo sobre la base de mejores ingresos.  La salida de Argentina es con un acuerdo de unidad nacional que nos permita la reducción del sistema de impuestos, incluidas las retenciones.  La salida de Argentina es un camino sobre la simplificación tributaria para que nuestras pymes y nuestros comercios no tengan que andar haciendo un curso para pagar impuestos.  La salida de Argentina no es sobre la base de plantear el recorte de ochenta mil pesos por mes en cada jubilado.  Mucho menos sobre la vuelta de las AFJP como ha planteado este señor en su propuesta a la justicia electoral.  ¿Vuelven o no las AFJP? ",
+            "cosine_dist": 0.9910253015315337,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1086.644,
+            "end_time": 1101.931,
+            "text": "A ver, primero falacia ad populum, digamos, o sea, que no se aplique en otro lugar.  Vos en la Asamblea del año trece hubieras votado a favor de la esclavitud entonces.  Muy bien, candidato.  Javier Milei, acaba de concluir su tiempo.  Continúe, candidato.  Sergio Massa, por favor. ",
+            "cosine_dist": 0.5729320631009532,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1103.392,
+            "end_time": 1170.087,
+            "text": "Desgraciadamente plantea la vuelta de las AFJP.  Le quiero contar a cada jubilado y jubilada lo que eso significa.  Hoy en la Argentina hay veintiún mil setecientos cincuenta jubilados de AFJP.  Cobran entre cinco y veinte mil pesos.  y tuvo que ir el Estado en socorro de esos perjudicados por ese sistema que destruyó el sistema jubilatorio.  La Argentina lo que necesita es rediscutir su programa con el fondo que es inflacionario, aumentar su programa de desarrollo exportador, mejorar la distribución del ingreso y bajar impuestos sobre la base de un gran acuerdo, pero además con cuatro premisas.  Muy claras a partir del diez de diciembre.  Vamos al superávit fiscal.  Vamos al superávit comercial.  Vamos a un régimen de competitividad cambiaria y vamos a un régimen de acumulación de reservas que nos permita ir pagándole al fondo para sacarlo definitivamente de la Argentina.  Cada vez que el fondo vino, a la Argentina le fue mal.  Bien, de esta manera se terminó el tiempo sobre el eje temático de economía y seguimos con el resto de los ejes. ",
+            "cosine_dist": 0.9810525194546492,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1170.107,
+            "end_time": 1181.796,
+            "text": "Claro que sí, ahora es el momento en este debate del segundo eje temático.  Las relaciones de la Argentina con el mundo.  Comienza con este tema el candidato Sergio Massa. ",
+            "cosine_dist": 0.7388363798869728,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1181.816,
+            "end_time": 1302.536,
+            "text": "La Argentina tiene la responsabilidad en un mundo absolutamente convulsivo y convulsionado de pensar su política exterior en defensa del interés argentino.  Lo primero que tenemos que tener claro es la multipolaridad.  Argentina tiene que tener relaciones con todos los países que abran los brazos y los mercados para vender trabajo argentino.  Tenemos además dentro de la política exterior Cuatro ejes que sostener.  La agenda de seguridad alimentaria, que además es una oportunidad para la Argentina.  La agenda de seguridad energética, que nos da la responsabilidad de ser proveedores regionales y mundiales de shale gas y de shale oil.  Tenemos una enorme oportunidad para el norte argentino sobre la base de la demanda de minerales y dióxidos raros.  Y tenemos en la economía del conocimiento por la elegibilidad de nuestra gente construida en el sistema de educación pública, la enorme oportunidad de ser proveedores de servicios intelectuales mundiales.  En paralelo, cuatro temas centrales.  ¿Quiénes son los principales socios comerciales de Argentina?  Brasil es uno, China es otro.  Defender esa agenda comercial que le da trabajo a dos millones de argentinos.  La segunda, claramente, nuestra relación con la Santa Sede.  Este hombre que está acá trató de representante del maligno al argentino más importante de la historia, nuestro Papa.  Y alguno de los que está acá acompañándolo dijo que había que romper relaciones con la Santa Sede.  Vamos a trabajar para que en el veinte, veinticuatro, el Papa visite la Argentina.  Por último, La irrenunciable defensa de la soberanía de Malvinas.  Le quiero agradecer al general Balsa por acompañarnos hoy porque es un símbolo del ejército al servicio de la democracia, pero sobre todas las cosas es un héroe de Malvinas que merece que los argentinos defendamos la causa de Malvinas. ",
+            "cosine_dist": 0.9831156246437511,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1302.556,
+            "end_time": 1426.621,
+            "text": "Su tiempo, candidato Massa.  El tiempo ahora del candidato Javier Milei.  Como liberal libertario creo profundamente en el comercio internacional y la apertura del comercio internacional.  Básicamente, aquellos países que son más abiertos al mundo tienen ingresos per cápita nueve veces mayor que aquellos que son cerrados.  Sin embargo, también creo que no tiene que interferir el Estado en las relaciones comerciales.  El Estado no tiene por qué meterse a decir con quién tengo que comercializar o con quién no.  el Estado termina siendo un estorbo.  De hecho, el mejor ejemplo del estorbo que causa el Estado es lo que está pasando con el Mercosur, que no tiene calle de salida, que está atascado y que no progresa hacia ningún lado.  Por lo tanto, frente a esas mentiras que han dicho que yo señalo, que no hay que comercializar con China o que no hay que comercializar... Con Brasil les digo que es falso, es decir, pero es una cuestión de los privados, no tiene por qué estar metiéndose el Estado, porque cada vez que se mete el Estado genera corrupción y se paga con... caída en el bienestar de los argentinos.  Porque lo mejor que puede pasar con el comercio es que comercialicemos, porque nos vamos a beneficiar con bienes de mejor calidad a un mejor precio.  Vamos a incrementar el bienestar de todos.  Por otro lado, en lo que tiene que ver con las relaciones internacionales, sistemáticamente he señalado mi alineación con Estados Unidos, con Israel y con el mundo libre.  Y básicamente, lo otro que quiero señalar es que como Estado, no estoy dispuesto a plantear relaciones con aquellos que no respetan la democracia liberal, que no respetan las libertades individuales, que avanza sobre los individuos y que no respetan la paz.  Por lo tanto, digamos, con esos no quiero saber nada.  Y te aviso que lo que diga un integrante o un seguidor de la libertad avanza, eso no quiere decir que sea la posición de nosotros respecto a la Santa Sede, a la cual respetamos de todos modos. ",
+            "cosine_dist": 0.3595214023743547,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1426.641,
+            "end_time": 1445.774,
+            "text": "Ayer Milay, su tiempo, por favor.  Tiene la palabra Sergio Massa.  En el primer debate te pedí que le pidieras disculpas al Papa y dijiste que no lo habías dicho en campaña, a pesar de que lo dijiste en la entrevista con Tucker cuando ya eras candidato.  ¿Le vas a pedir disculpas al Papa y lo vas a invitar a la Argentina por haberlo tratado como el representante del maligno, sí o no? ",
+            "cosine_dist": 1.0467952081197915,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1446.014,
+            "end_time": 1497.757,
+            "text": "Mirá, si bien yo esas disculpas las hice internamente y a él le llegaron... Si a vos te deja tranquilo y a la gente lo deja tranquilo, yo no tengo problemas en pedir disculpas.  Cuando uno se equivoca, pide disculpas y se acabó.  Primer punto, no solo eso.  Segundo es, estamos dispuestos a recibirlo en la Argentina, darle los honores de un jefe de Estado.  Y no solo eso, darle los honores propios del jefe espiritual de la iglesia.  dado el credo católico de los argentinos.  Por lo tanto, deja de mentir y hacer un punto de eso, porque eso no es un punto.  Igual que, digamos, lo de Malvinas.  O sea, también, digamos, nosotros consideramos que las Malvinas son argentinas.  Es más, Victoria es hija de un héroe de Malvinas.  Y no solo eso, sino que además,  ¿sí?,  vamos a agotar todas las instancias diplomáticas para que las islas vuelvan a ser argentinas.  Así es que termina de mentir, digamos, basta de ese nacionalismo barato, cuando en realidad, digamos, se hacen propuestas serias. ",
+            "cosine_dist": 0.4136499284593683,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1499.172,
+            "end_time": 1523.146,
+            "text": "Dijiste que Margaret Thatcher era tu ídola y que las Malvinas tenían el derecho a autodeterminación de los Kelpers.  Le invito a la gente a que lo busque en Google, porque me parece que vino a desmentirse de lo que dijo durante toda la campaña.  Por eso la gente te tiene miedo.  ¿Y sabés una cosa?  Tenés que decir claramente.  ¿Thatcher es tu ídola?  ¿Los Kelpers tienen derecho a la autodeterminación?  ¿Sí o no? ",
+            "cosine_dist": 1.0458420508049726,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1524.159,
+            "end_time": 1552.484,
+            "text": "De vuelta, yo no contesto por sí o por no lo que vos planteés.  Yo lo que señalo es que en la historia de la humanidad ha habido grandes líderes.  Digamos, la señora Thatcher fue, hace como lo fue Reagan, como lo fue Churchill, y como otros, o como De Gaulle, o como otras personas que a lo largo de la historia han tenido un rol significativo.  Digamos, lo que pasa que yo entiendo, Thatcher tuvo un rol significativo en la caída del muro del Berlín, que parece que a vos te molesta que se haya caído y aplastado a la izquierda.  Entonces, ese es tu problema. ",
+            "cosine_dist": 0.38010609576568777,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1554.995,
+            "end_time": 1579.08,
+            "text": "Primero, Thatcher es una enemiga de la Argentina.  Ayer, hoy y siempre.  Y nuestros héroes son absolutamente innegociables por más que para vos sea una figura Thatcher.  Para mí no lo es.  Para mí es una enemiga de la Argentina.  Defiendo la soberanía de Malvinas.  Y creo además que sería importante que digas si los Kelper tienen derecho a la autodeterminación o no porque dijiste que lo tenían. ",
+            "cosine_dist": 1.0328991997185573,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1579.94,
+            "end_time": 1619.595,
+            "text": "Mirá, a ver, te voy a contar algo.  para que se entienda la falacia en la que estás cayendo, Sergio.  Con ese criterio... Digamos, como cuando Alemania en el setenta y cuatro le hizo cuatro goles a Argentina, Cruyff la rompió y hizo un desastre, vos tendrías que considerar que Cruyff es un pésimo jugador.  O con los goles que nos hizo Mbappé en la final, tendrías que despreciarlo porque nos hizo los goles.  Digamos, una cosa no tiene que ver con la otra.  Nos tocó una guerra y esa guerra la perdimos, ¿sí?  Y tenemos que hacer todos los esfuerzos para recuperar las islas por la vía diplomática.  Así es que, digamos, es un... podemos elevar la calidad del debate, porque eso es muy pobre lo que estás haciendo. ",
+            "cosine_dist": 0.39934349087008336,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1619.976,
+            "end_time": 1647.883,
+            "text": "Es muy importante que los argentinos sepan si vas a defender o no Malvinas, porque a lo mejor el día de diciembre sos presidente.  Pero claro que voy a defender Malvinas.  Y la verdad es que que hayas defendido a Tacha es una ofensa a todos los héroes de Malvinas y a todos los caídos en Malvinas.  Pero además, lo otro que te quiero preguntar, porque fuiste para un lado y volviste para el otro en tu presentación, Brasil y China... ¿Vas a mantener relaciones o no?  Porque los trataste de comunistas a los dos presidentes. ",
+            "cosine_dist": 1.0020302971100443,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1649.284,
+            "end_time": 1661.748,
+            "text": "Vamos por partes.  Las relaciones comerciales las establecen los privados.  Es más, te cuento.  Vos pertenecés a un gobierno donde Alberto Fernández no hablaba con Bolsonaro.  Así que, ¿qué problema hay si yo hablo y no dejo de hablar con Lula? ",
+            "cosine_dist": 0.4835542421531016,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1663.641,
+            "end_time": 1673.327,
+            "text": "Bueno, veo que tenés mala memoria porque inclusive yo lo visité a Bolsonaro en Brasil en medio de la pandemia.  Pero te vuelvo a preguntar, ¿vas a mantener la relación con Brasil y con China? ",
+            "cosine_dist": 1.0544014263661068,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1673.347,
+            "end_time": 1676.969,
+            "text": "Las relaciones comerciales del sector privado son del sector privado. ",
+            "cosine_dist": 0.6346606687282113,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1677.61,
+            "end_time": 1686.215,
+            "text": "Las relaciones las establecen los países, los aranceles los fijan los países, los permisos sanitarios los fijan los países.  ¿Vas a mantener sí o no? ",
+            "cosine_dist": 1.057527985875356,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1686.635,
+            "end_time": 1692.439,
+            "text": "Es decir, vos lo que estás hablando es toda una política de regulación del comercio que lo único que hace es perjudicar. ",
+            "cosine_dist": 0.6061371599189036,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1692.859,
+            "end_time": 1694.18,
+            "text": "Existen en el mundo. ",
+            "cosine_dist": 1.0102019862479188,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1694.421,
+            "end_time": 1701.207,
+            "text": "¿Qué tiene que ver?  Eso es una falacia.  ¿Qué me importa?  Falacia al populum se llama.  Dale.  Sé más serio, armá argumentos serios.  Sergio, dale. ",
+            "cosine_dist": 0.510110726091122,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1702.185,
+            "end_time": 1709.048,
+            "text": "A mí me parece, Javier, que lo que no le estás queriendo decir a la gente es que por prejuicio ideológico vas a dejar a dos millones de argentinos sin trabajo. ",
+            "cosine_dist": 1.002462013379326,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1709.128,
+            "end_time": 1710.388,
+            "text": "No, eso es falso.  Hay que explicarle ",
+            "cosine_dist": 1.0033001659872947,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1710.788,
+            "end_time": 1749.498,
+            "text": "a los trabajadores de la carne, hay que explicarle a los trabajadores avícolas, hay que explicarle a los trabajadores del puerto del Gran Rosario, hay que explicarle a los trabajadores del puerto de la Soja en Salta, hay que explicarle a los trabajadores de las terminales automotrices de Pacheco, de La Matanza y del Gran Córdoba.  La ruptura del MERCOSUR, la ruptura de la relación con Brasil, la ruptura de la relación con China representan dos millones de empleos menos y un impacto en las exportaciones argentinas de veintiocho mil millones de dólares.  La política exterior no se puede regir por caprichos, no se puede regir por ideología, se debe regir por el interés nacional. ",
+            "cosine_dist": 0.9699790077178204,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1751.172,
+            "end_time": 1773.89,
+            "text": "Mirá, Sergio, de vuelta, todo ese comercio que tiene el sector privado va a seguir, no es que va a dejar de existir.  Y si por algún motivo vos creés que dejara de existir, lo podría comercializar desde otro lado.  Por lo tanto, vos te creés que los chinos quieren hacer beneficencia con nosotros.  Así que si no se los vendés a los chinos, se los podrías vender a otros.  Dejá de asustar a la gente con la pérdida de puestos de trabajo. ",
+            "cosine_dist": 0.4621209710808397,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1775.768,
+            "end_time": 1783.173,
+            "text": "Javier, ¿noventa por ciento de las exportaciones de cinco provincias argentinas son a China?  ¿Sí o no? ",
+            "cosine_dist": 1.0036809435475562,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1784.074,
+            "end_time": 1789.358,
+            "text": "Pero de vuelta, ¿cuál es el problema?  Si no se lo exportás a China, ¿se lo exportás a otro?  O si no, digamos, hasta lo pueden triangular. ",
+            "cosine_dist": 0.5615305771764496,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1789.458,
+            "end_time": 1794.442,
+            "text": "Dale, no le pongas un límite mentales a la gente que no tiene.  El principal comprador de soja en el mundo es China. ",
+            "cosine_dist": 0.9784296987629026,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1794.462,
+            "end_time": 1800.486,
+            "text": "¿Y pero qué tiene que ver con los productores agropecuarios?  Candidata, por favor, no se interrumpan, respétense, continúan. ",
+            "cosine_dist": 0.8542493545702726,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1802.182,
+            "end_time": 1805.344,
+            "text": "¿Estaba hablando él entonces? ",
+            "cosine_dist": 0.8198815149602084,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1805.364,
+            "end_time": 1806.105,
+            "text": "Sí, sí, claro.  Continuamos. ",
+            "cosine_dist": 0.9674333213949836,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1806.425,
+            "end_time": 1825.218,
+            "text": "Desgraciadamente, lo que estamos viendo es alguien que por prejuicio ideológico antepone su propia mirada al interés de los y las argentinos.  Y el día de diciembre, quien se siente en el sillón de Rivadavia tiene que dejar de pensar en sí mismo y su ideología y pensar en la Argentina. ",
+            "cosine_dist": 1.0166396518170309,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1827.722,
+            "end_time": 1844.956,
+            "text": "En definitiva, yo creo en una Argentina libre, en individuos libres que puedan comercializar con todos los que quieran, no como los que quieren regular el comercio para sacar algunas ventajitas, como las que saca tu gobierno con la CIRA y subsidiándole dólares baratos a tus amigos que importan. ",
+            "cosine_dist": 0.3887375996379422,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1846.958,
+            "end_time": 1855.485,
+            "text": "Javier, los que te abandonaron hoy en el salón te llevaron al campo de la chicana berreta.  Volvé al lugar de la discusión económica. ",
+            "cosine_dist": 0.9699541491344152,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1857.653,
+            "end_time": 1871.213,
+            "text": "Yo llevo la discusión económica y vos no podés entender de qué se trata una triangulación y mentís con los puestos de trabajo que se pierden.  Si no se lo vendo a A, se lo puedo vender a B. Y si no fuera así, entonces quiere decir que estás protegiendo a alguien causándole un daño a los argentinos. ",
+            "cosine_dist": 0.4748116563095728,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1872.225,
+            "end_time": 1888.152,
+            "text": "Bueno, claramente está mandando a nuestros exportadores a Brasil y a nuestros exportadores a China a triangular vía Panamá o vía paraísos fiscales.  Que es lo mismo que plantea con el Banco Central.  Una guarida fiscal.  La Argentina transformada en una guarida fiscal. ",
+            "cosine_dist": 1.0216481767389207,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1891.234,
+            "end_time": 1900.138,
+            "text": "Mire, guarida fiscal.  ¿De qué hablas?  ¿De cómo a ustedes los políticos les roban a los argentinos de bien y por eso tienen que salir del sistema? ",
+            "cosine_dist": 0.4924292500735671,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1901.388,
+            "end_time": 1917.621,
+            "text": "No sé por quién lo dirá, Javier.  No es mi familia la que tiene departamentos, propiedades y cuentas en Estados Unidos.  Es la tuya.  En todo caso, lo que tenés que hacer es hablar con propiedad.  Y como sos funcionario público, si tenés una denuncia que hacer, el lunes te acompaño a tribunales y la hacemos juntos. ",
+            "cosine_dist": 0.9797842589185429,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1919.608,
+            "end_time": 1930.731,
+            "text": "te pediría que lo que te pasan los datos te los pasen bien porque te pasaron la información falsa.  Culminó el tiempo.  candidato Javier Milei.  Tiene exactamente un segundo si quiere concluir su idea, candidato Sergio Massa. ",
+            "cosine_dist": 0.617903461028627,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1931.351,
+            "end_time": 1933.011,
+            "text": "Queda claro que no le importa a la Argentina. ",
+            "cosine_dist": 0.9821446233250414,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1933.571,
+            "end_time": 1946.234,
+            "text": "Muy bien, ha concluido entonces el debate por parte de los candidatos del segundo eje temático, las relaciones de la Argentina con el mundo.  Abrimos a esta hora en este debate un nuevo eje temático. ",
+            "cosine_dist": 0.7535356295481488,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1946.374,
+            "end_time": 1953.941,
+            "text": "Y será el último de este bloque, se trata de educación y salud.  Y tiene la palabra, según el sorteo, Javier Milei.  Adelante, candidato. ",
+            "cosine_dist": 0.9551010287902139,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1954.962,
+            "end_time": 2066.005,
+            "text": "Bueno, frente a la campaña negativa y de mentiras a la que hemos sido sometidos, una de las cosas que quiero aclarar, antes que nada, es que la salud y la educación van a seguir siendo públicas.  Miren, esto es muy simple.  Argentina es un país federal.  Por lo tanto, no es una decisión del Poder Ejecutivo determinar si es o no es pública en ese aspecto, porque depende de las provincias.  No solo eso, también quiero comentar que para nosotros la educación y la salud es sumamente importante, a punto tal que nosotros hemos diseñado algo absolutamente revolucionario, que es la idea del Ministerio del Capital Humano.  Dicho ministerio contará con cuatro secretarías.  Una secretaría vinculada a niñez y familia, una secretaría vinculada a lo que tiene que ver con la salud, una secretaría vinculada a lo que tiene que ver con la educación y una secretaría que tiene que ver con la inserción en el mercado de trabajo.  Esto tiene sentido porque básicamente cuando uno estudia la historia de la humanidad, El gran crecimiento económico se dio durante los últimos doscientos cincuenta años.  Y cuando quiere explicar el factor fundamental, viene dado por el capital humano.  El capital humano, digamos, tiene dos dimensiones.  El de primera generación, que tiene que ver con que la gente esté sana.  Es decir, que la gente se pueda alimentar.  Por eso lo que tiene que ver.  Y eso fue muy importante durante el siglo XIX.  Y por eso para nosotros es tan importante la cuestión de la alimentación y el cuidado de los niños para que se puedan y su salud.  Y por otra parte, durante el siglo XX y lo que va del siglo XXI, ha sido muy importante el rol de la educación y el rol del trabajo y el aprendizaje en la práctica.  Y por eso, digamos, el segundo bloque de secretarías del Ministerio de Capital Humano. ",
+            "cosine_dist": 0.39884944871395545,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2069.38,
+            "end_time": 2188.397,
+            "text": "Quiero contarle a los argentinos y a las argentinas por qué la Argentina es uno de los cinco elegibles mundiales.  Básicamente, cuando hablan de capital humano, de lo que hablamos es del conocimiento de nuestra gente.  Y eso está centralmente basado en un sistema de educación pública, gratuita, de calidad, inclusiva, veintitrés mil quinientas escuelas rurales y universidades repartidas a lo largo y a lo ancho del país.  Ese es el sistema que tenemos que defender y mejorar.  ¿Cómo lo vamos a mejorar?  En primer lugar, ocho puntos del PBI van a estar asignados a la inversión educativa.  ¿Qué vamos a hacer?  Primero, todo lo que son los jardines maternales, de cuarenta y cinco días a cinco años, setecientos veintitrés en todo el país.  En segundo lugar, de primero a tercer grado, el plan de alfabetización obligatorio.  Los chicos tienen que salir leyendo de tercer grado.  En cuarto y quinto año, matemática, robótica y programación obligatorios para los chicos.  porque en definitiva hace a la preparación para el nuevo mundo del trabajo y además la duplicación de las escuelas técnicas en la Argentina con salida laboral y último año en pasantía.  Acordamos además con cincuenta universidades la preparación de carreras más cortas con salida laboral.  un punto y medio del PBI va a estar asignado al presupuesto de universidades, porque necesitamos más universidades, no menos.  Y en paralelo asociado a lo que es el complejo de ciencia y tecnología.  En materia de salud, además de la promoción de la carrera hospitalaria, Además de la preparación de nuevo capital humano, porque el mundo está cambiando hacia la atención domiciliaria, la integración del sistema de salud pública, del sistema de seguridad social y del sistema privado en un uso común de las capacidades en un seguro de salud universal para los ciudadanos argentinos.  Y sobre todas las cosas, la defensa del INCUCAI.  Argentina merece tener un sistema solidario de donación de órganos que es respetado en todo el mundo. ",
+            "cosine_dist": 0.9818501718346875,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2189.343,
+            "end_time": 2267.816,
+            "text": "Muy bien, tiene la palabra Javier Milei.  A ver, me resulta muy interesante todas las propuestas que tiene el ministro Massa.  Su signo político lleva dieciséis años en el poder.  Yo no sé por qué no lo hicieron.  Es más, usted habla de alfabetización.  Nosotros sí tenemos un compromiso y de hecho hemos firmado el compromiso con la alfabetización.  Y le digo más, ¿sabe que solamente el dieciséis por ciento de los chicos termina el secundario en tiempo y forma?  ¿Sabía que el treinta por ciento directamente no lo termina?  ¿Usted sabe, además, que habla de la alfabetización y de los chicos de diez años, que el cincuenta por ciento de los chicos no entiende lo que lea y el setenta por ciento no puede resolver un problema de matemática básica?  Y ustedes están asignando un montón de recursos desde el Estado Nacional, que va principalmente a las universidades, y cuando ni siquiera se pueden garantizar de que lleguen a la... digamos, ni siquiera terminan la secundaria.  Es más, tienen graves problemas de alimentación.  Por lo tanto, ¿dónde están poniendo el carro delante de los caballos?  Primero hay que sacar a los chicos de la pobreza.  Tu gobierno, ¿sabés qué?  Dejó dos tercios de los chicos en situación de pobreza.  La gente no le alcanza para alimentarse.  Hay que resolver esa parte del capital humano.  Porque si no se alimentan, ¿sabés qué?  No pueden estudiar y mucho menos trabajar. ",
+            "cosine_dist": 0.4235150583181576,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2269.417,
+            "end_time": 2276.961,
+            "text": "Veo que desgraciadamente no sabés cómo funcionan los centros de desarrollo infantil o jardines maternales.  Pero por sí o por no, ¿vas a arancelar las universidades? ",
+            "cosine_dist": 0.9771502273330889,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2278.968,
+            "end_time": 2284.272,
+            "text": "Tío, ¿vos por qué crees que, digamos, es gratis?  Y nada es gratis.  ¿Vas a arancelarse o no?  Yo lo que te digo es... ",
+            "cosine_dist": 0.7004384992399068,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2284.513,
+            "end_time": 2287.295,
+            "text": "¿Vas a arancelarse o no?  Contale a los argentinos. ",
+            "cosine_dist": 0.9752464548613042,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2287.335,
+            "end_time": 2292.279,
+            "text": "A ver, porque yo hablo de reforma de primera, segunda y tercera generación.  Vos traes una reforma de tercera generación a una de primera. ",
+            "cosine_dist": 0.5982505772062723,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2292.299,
+            "end_time": 2293.7,
+            "text": "¿Vas a arancelarse o no? ",
+            "cosine_dist": 1.0160203379469503,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2293.74,
+            "end_time": 2295.942,
+            "text": "No, de corto plazo, no.  ¿Y sabés qué? ",
+            "cosine_dist": 0.6917652888681451,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2296.002,
+            "end_time": 2299.305,
+            "text": "En el corto plazo, ¿no?  ¿Y en el largo plazo?  ¿Y de largo plazo? ",
+            "cosine_dist": 1.0017215458615005,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2299.325,
+            "end_time": 2317.641,
+            "text": "se le va a dar los recursos a la gente.  ¿sabes para qué?  para que digamos pueda elegir a la institución a la cual quiere asistir ¿sí?  en lugar de favorecer a la oferta y los curros de la política.  pero además que interesante porque están los videos de cuando vos eras joven y la querías arancelar.  digamos che que que los brasileos te pasen esa data. ",
+            "cosine_dist": 0.4498370135586991,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2317.821,
+            "end_time": 2351.228,
+            "text": "Búsquenlos en Google.  Yo lo que le quiero decir es que el señor va a encelar la universidad.  A cada mamá y a cada papá que tiene a su hijo en la universidad, la Universidad de San Juan hizo el cálculo.  Doscientos setenta mil pesos por mes le va a costar la idea de este señor.  Pero además, el sistema educativo argentino tiene una particularidad, que es que permite la movilidad social ascendente, la igualdad de oportunidades.  Permite que el hijo de un peón rural puedas soñar con ser abogado presidente?  ¿Vas a arancelar la educación primaria y secundaria también? ",
+            "cosine_dist": 0.9911293906698544,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2351.848,
+            "end_time": 2386.583,
+            "text": "A ver, dejá de mentirle a la gente.  Che, el que hizo el cálculo ese, digamos, hace los cálculos de la misma manera que te hicieron los cálculos de la tarifa y todo, que los números que mostraban y asustaban a la gente en el tren y en los distintos lugares no dan con lo que dijiste vos ahora o te está fallando la matemática.  Entonces, digo, primero, no me vengas con cálculos que verdaderamente no tienen ninguna base científica.  Y después, o sea, ¿a qué llamás vos movilidad social ascendente?  Tenías que ser claro, porque digo, ¿qué es lo que querés decir?  ¿Que le vas a robar plata a gente para dársela a otro?  Explica bien cómo se trata eso. ",
+            "cosine_dist": 0.40543184615075023,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2388.084,
+            "end_time": 2411.878,
+            "text": "Yo les cuento qué es la movilidad social ascendente para mí.  Es que el hijo de un inmigrante italiano... haya podido ir a la universidad, como es mi caso, o que el noventa por ciento de los chicos que van a la Universidad de José C. Paso de Florencio Varela sean primera generación de estudiantes universitarios.  Yo entiendo que desde el Excel no se entiende.  La realidad, las personas de carne y hueso sí lo entienden. ",
+            "cosine_dist": 1.0032538278495873,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2413.599,
+            "end_time": 2416.361,
+            "text": "Un inmigrante italiano, pero vos estudiaste en la Universidad de Belgrano. ",
+            "cosine_dist": 0.62394883245501,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2417.026,
+            "end_time": 2417.767,
+            "text": "Sí, y mi hija estudia... ",
+            "cosine_dist": 0.9456551883663272,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2417.787,
+            "end_time": 2418.667,
+            "text": "Y además tardaste veinte años. ",
+            "cosine_dist": 0.8943653760731496,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2419.048,
+            "end_time": 2423.471,
+            "text": "Y vos también estudiaste en colegio privado y mi hija estudia en la Universidad de San Martín.  ¿Qué tiene que ver? ",
+            "cosine_dist": 0.996309558805458,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2423.871,
+            "end_time": 2425.192,
+            "text": "Bueno, digo, pregunta por.  qué. ",
+            "cosine_dist": 0.6226285455273225,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2425.212,
+            "end_time": 2426.653,
+            "text": "Mi hija estudia en una universidad pública. ",
+            "cosine_dist": 1.002353378492461,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2426.693,
+            "end_time": 2427.794,
+            "text": "Pero como mencionaste tu caso. ",
+            "cosine_dist": 0.8251740738384548,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2427.814,
+            "end_time": 2440.663,
+            "text": "De gran calidad.  Sí, el mío, el tuyo, podemos mencionar el de muchos.  A ver, Javier, me parece que el problema es que vos siempre pensás en vos y no en los cuarenta y cinco millones de argentinos.  Tenés que salir de vos. ",
+            "cosine_dist": 0.9984547111741389,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2441.86,
+            "end_time": 2456.23,
+            "text": "Disculpame, esas soluciones altruistas, digamos, son el justificativo que usan los políticos delincuentes como vos para meterle la mano en el bolsillo a la gente y repartirla a quien a ustedes se les dé la gana.  y siempre están las porosas manos de los políticos y hay muchas filtraciones. ",
+            "cosine_dist": 0.4143992318371642,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2457.911,
+            "end_time": 2473.657,
+            "text": "Javier, si tenés alguna prueba de algún delito que yo haya cometido, el lunes te espero en tribunales.  Y si no... Retratate, porque me parece que lo que no podés caer es en la chicana berreta que te contagiaron tus nuevos socios, que te abandonaron hoy. ",
+            "cosine_dist": 0.9954499344149952,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2475.503,
+            "end_time": 2478.865,
+            "text": "Mirá, la verdad es que vos sos parte... ",
+            "cosine_dist": 0.7435497788498693,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2478.885,
+            "end_time": 2480.245,
+            "text": "¿Tenés algún delito para denunciar? ",
+            "cosine_dist": 1.1117043629394567,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2480.785,
+            "end_time": 2485.267,
+            "text": "No, la verdad es que vos sos parte del gobierno más ladrón de la historia. ",
+            "cosine_dist": 0.7045268083183357,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2485.327,
+            "end_time": 2487.628,
+            "text": "Por lo tanto, o sea, y sos parte de eso. ",
+            "cosine_dist": 0.8112913333832361,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2487.648,
+            "end_time": 2490.25,
+            "text": "¿Qué querés que te diga?  Ustedes tienen un montón de causas. ",
+            "cosine_dist": 0.7664473148604216,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2490.35,
+            "end_time": 2498.053,
+            "text": "Porque vas a caer en el incumplimiento de los deberes de funcionario público.  Porque si conoces un delito, lo tenés que denunciar.  Estás violando la ley. ",
+            "cosine_dist": 0.9985790030003188,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2498.473,
+            "end_time": 2502.055,
+            "text": "Bueno, quizás vos estás mirando a otro lado con el espacio político al que perteneces. ",
+            "cosine_dist": 0.6399213162786552,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2503.268,
+            "end_time": 2523.241,
+            "text": "Javier, esto es el diez de diciembre.  ¿Vos o yo?  No vine a discutir ni a Macri, ni a Cristina, ni al pasado.  ¿Vos o yo?  Y los argentinos lo que tienen que elegir es quién tiene la templanza, la capacidad, el equilibrio mental, el contacto con la realidad como para poder llevar adelante la Argentina. ",
+            "cosine_dist": 0.9861725306207002,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2525.542,
+            "end_time": 2526.543,
+            "text": "¿Acaso vos lo tenés? ",
+            "cosine_dist": 0.6873739822093542,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2527.745,
+            "end_time": 2530.065,
+            "text": "Hagamos el psicotécnico los dos, que te negaste. ",
+            "cosine_dist": 1.0379149482449241,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2530.406,
+            "end_time": 2533.186,
+            "text": "No, yo no me negué, yo dije que estaba dispuesto a hacerlo. ",
+            "cosine_dist": 0.8887643879026109,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2533.586,
+            "end_time": 2538.407,
+            "text": "Te negaste.  ¿Pero cómo me voy a negar a hacerlo si cada vez que entré en una empresa lo tuve que hacer? ",
+            "cosine_dist": 0.7997403005563222,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2538.627,
+            "end_time": 2540.727,
+            "text": "¿Vos qué viviste?  Siempre el Estado, no lo hiciste nunca. ",
+            "cosine_dist": 0.5907999350984579,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2540.767,
+            "end_time": 2545.388,
+            "text": "Javier, si vos trabajaste en el Banco Central, ¿vos trabajaste en el Banco Central, sí o no? ",
+            "cosine_dist": 1.0164777594461685,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2545.648,
+            "end_time": 2547.449,
+            "text": "Sí, hice una pasantía, para eso no hubo que hacer mi interés. ",
+            "cosine_dist": 0.5867704714384785,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2547.469,
+            "end_time": 2548.709,
+            "text": "¿Y por qué no te la renovaron? ",
+            "cosine_dist": 1.0865849114260329,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2549.309,
+            "end_time": 2550.689,
+            "text": "¿Qué tiene que ver?  O sea, yo me dediqué a otras cosas. ",
+            "cosine_dist": 0.7027006772562557,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2550.709,
+            "end_time": 2563.604,
+            "text": "¿Por qué no te la renovaron?  Contale a la gente, Javier, ¿por qué no te la renovaron?  Es muy importante porque es parte de esta discusión respecto del psicotécnico.  ¿Por qué no te la renovaron? ",
+            "cosine_dist": 0.8343476766432103,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2563.624,
+            "end_time": 2564.465,
+            "text": "Contale a la gente. ",
+            "cosine_dist": 0.9924715373759102,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2564.485,
+            "end_time": 2580.051,
+            "text": "Porque entiendo que estés enojado con el Banco Central y hables de destruirlo, porque en realidad en algún momento te sentiste rechazado.  No se trata de sentirse rechazado y atacar lo que a uno lo rechaza, se trata de ir al abrazo de lo que a uno lo rechaza. ",
+            "cosine_dist": 0.9599630659149714,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2580.831,
+            "end_time": 2594.401,
+            "text": "Pero de vuelta, era un joven que ni siquiera estaba graduado.  ¿Cuál es el problema?  ¿O acaso vos te crees que la vida no tiene fracasos?  Uno tiene fracasos, se pone de pie y sigue.  No como vos que seguís fracasando siempre de la misma manera. ",
+            "cosine_dist": 0.43500108941322757,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2596.019,
+            "end_time": 2623.881,
+            "text": "Aprendí, por suerte, mucho de mis fracasos.  Algunos lo compartiste conmigo porque entre el dos mil trece y el dos mil quince venías a las oficinas del Frente Renovador con Nielsen y con Giacomini a acompañarme.  Y la verdad es que si hay algo que tengo que contarle a los argentinos es que sí, que de los fracasos, de los errores, aprendí y aprendí mucho y me forjaron y me templaron.  Y por eso siento que este es un momento distinto de mi vida y siento que estoy para darle todo a la Argentina. ",
+            "cosine_dist": 1.0188313219689167,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2625.066,
+            "end_time": 2627.267,
+            "text": "Parece que no aprendiste mucho porque volviste con los K. ",
+            "cosine_dist": 0.7702022719189431,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2628.468,
+            "end_time": 2642.274,
+            "text": "Me parece que no aprendiste vos nada porque terminaste yendo a pedirle por favor que te ayude a Macri.  Y esto no es de Macri o Cristina.  Te vuelvo a repetir.  Vos o yo.  ¿Quién va a gobernar la Argentina?  ¿Quién está preparado? ",
+            "cosine_dist": 0.975650055514847,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2643.395,
+            "end_time": 2647.657,
+            "text": "La verdad, dado lo poco propositivo que está, el único que está preparado soy yo, no vos. ",
+            "cosine_dist": 0.625357411135415,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2648.117,
+            "end_time": 2657.055,
+            "text": "Bueno.  Eso lo decidirá la gente el domingo que viene.  Yo creo, Javier, centralmente, que todas tus propuestas dañan a la gente. ",
+            "cosine_dist": 1.084306176933371,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2657.095,
+            "end_time": 2677.784,
+            "text": "Por eso digo, la gente de Juntos por el Cambio nos está ayudando a fiscalizar para que no nos roben la elección.  Muy bien, candidatos.  Acaba de concluir el debate sobre educación y salud.  Este tercer eje de este debate esta noche.  Y también termina nuestra participación en este debate. ",
+            "cosine_dist": 0.623673555995456,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2678.183,
+            "end_time": 2684.426,
+            "text": "Fue un privilegio enorme de corazón participar en este debate de los candidatos a la presidencia de la Nación por la segunda vuelta electoral. ",
+            "cosine_dist": 0.9774101524570141,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2684.727,
+            "end_time": 2695.212,
+            "text": "Vamos a hacer una pausa.  Cuando volvamos, Erika Fontana y Antonio Laje serán los moderadores de este segundo bloque Elecciones Presidenciales. ",
+            "cosine_dist": 0.7618343549241205,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2696.053,
+            "end_time": 2698.794,
+            "text": "Muchísimas gracias por acompañarnos. ",
+            "cosine_dist": 0.9842855244286285,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2699175,
+            "end_time": 2699715,
+            "text": "Ha sido un placer. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2710.035,
+            "end_time": 2719.183,
+            "text": "Buenas noches, bienvenidos al segundo bloque del debate presidencial.  dos mil veintitrés, segunda vuelta desde la Facultad de Derecho de la Universidad de Buenos Aires. ",
+            "cosine_dist": 0.9780071670081469,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2719.604,
+            "end_time": 2734.097,
+            "text": "Buenas noches, recordamos que aparece un código QR en la pantalla, escaneándolo tiene la posibilidad de ingresar a un canal especial de YouTube donde intérpretes de la lengua de señas aparecen en el mismo tamaño que los candidatos. ",
+            "cosine_dist": 0.8624202880133586,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2734.83,
+            "end_time": 2747.64,
+            "text": "Y llegó el momento de debatir el cuarto bloque temático, es producción y trabajo.  Les recordamos a los candidatos, guardar respeto mutuo, no agredirse, no descalificarse y no interrumpir al otro candidato mientras está hablando. ",
+            "cosine_dist": 0.952649072642518,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2747.66,
+            "end_time": 2754.105,
+            "text": "Quien inicia este eje temático es el candidato Sergio Massa, lo escuchamos. ",
+            "cosine_dist": 0.8708310492609274,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2754.146,
+            "end_time": 2870.338,
+            "text": "Hace algunas semanas en un encuentro con trabajadores y empresarios plantee claramente... que uno de mis grandes desafíos y de mis grandes sueños es ser el presidente del trabajo.  Me he propuesto crear dos nuevos millones de puestos de trabajo en la Argentina, de trabajo formal registrado.  Para eso elegí un camino que tiene incentivos por un lado puestos por el Estado y por otro lado esfuerzo puesto por empresarios y trabajadores.  Hemos planteado que para todas las empresas pymes exportadoras de la Argentina, a partir del primero de enero, cero de impuestos en todo lo que es el incremental exportador.  En segundo lugar, hemos planteado una reducción y simplificación del sistema tributario porque no es justo que comerciantes y empresarios terminen liquidando a ciento cincuenta impuestos.  En tercer lugar, hemos planteado para el norte grande, para el norte argentino, la vuelta de un programa denominado Ocho Catorce, que es el que permite que no paguen cargas sociales todos los desarrollos industriales en Catamarca, en La Rioja, en Salta, en Jujuy, en las provincias del norte que necesitan recuperar asimetrías.  Por otro lado, nos hemos propuesto transformar los planes sociales en trabajo formal y registrado.  Y en ese sentido, hemos planteado, por un lado, la eliminación de cargas sociales, pero por otro lado, que el Estado aporte ese pago como parte del salario que le paga el empleador.  Tenemos además el desafío de seguir fortaleciendo las economías regionales.  Cero de retenciones a las treinta y tres economías regionales.  El vino en Cuyo, el poroto negro en Salta o la caña de azúcar en Tucumán son centralmente los beneficiarios de este primer desafío que es aumentar los volúmenes de producción para aumentar el trabajo registrado y bien pago en la Argentina. ",
+            "cosine_dist": 1.0260260105021484,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2872.38,
+            "end_time": 2989.368,
+            "text": "Me resulta bastante simpático el ministro Massa hablando de crear dos millones de puestos de trabajo, pensar que la cantidad de empleados en el sector privado está estancado desde el año dos mil once en torno a los seis millones.  No solo eso, sino que además el nivel de producción también está en niveles similares a los del dos mil once.  De hecho, cuando uno mira el producto per cápita, Argentina está quince por ciento por debajo.  Y eso en realidad ocurre básicamente porque no hay inversión.  No hay inversión porque en Argentina es imposible ganar dinero con la presión fiscal escandalosa que hay.  Y que si aún así con esa presión fiscal escandalosa se llegara a ganar plata, aparece la banda de los expropiadores con la idea de la justicia social, la redistribución del ingreso, la igualdad de oportunidades y con todo eso va y le roba el resultado del fruto de su trabajo.  Pero suponiendo que uno pudiera superar eso, el problema es cómo financiarlo.  Es interesante porque si el ministro Massa habla de crecer con las exportaciones, significa que quiere estar generando superávit de cuenta corriente, quiere decir que vamos a estar exportando ahorro, por lo tanto no lo vamos a hacer con ahorro externo.  Lo vamos a tener que hacer con ahorro interno.  El problema es que... ¿Sabe qué, ministro?  El sector privado ahorra un montón en Argentina.  Si usted corrige por participación en el PBI, ahorramos más que los chinos.  Mire si tenemos para crecer y para financiar inversiones.  ¿Pero sabe cuál es el problema?  El problema es el Estado.  El Estado que usted maneja y como ministro de Economía, digamos que está llevando el déficit fiscal primario, violando la meta con el Fondo Monetario en un punto y se nos cayó el acuerdo, ¿sí?  Y no solo eso, sino que vamos a quince por ciento de déficit fiscal consolidado entre el Banco Central y, digamos, el Estado Nacional.  Claro, entonces se chupan todo el ahorro, es imposible invertir, es imposible crecer.  ¿Qué magia la suya, Massa? ",
+            "cosine_dist": 0.4267142672480402,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2992.231,
+            "end_time": 3045.099,
+            "text": "Bueno, la verdad es que lo más importante en este debate es que vos que estás en tu casa sepas lo que va a pasar con tu trabajo.  Hoy las mujeres en la Argentina, frente a la misma tarea, no reciben la misma remuneración.  Hay un veintitrés por ciento de diferencia.  Y centralmente quiero comprometerme con todas esas mujeres a dos políticas.  Una la conté en el proceso educativo.  que son los jardines maternales, para que mientras van a trabajar tengan quien eduque y cuide a sus hijos.  La otra vinculada al tema de igual remuneración por igual tarea, porque el desafío en la Argentina es que esa igualdad de derechos que emana de la Constitución, las empresas en la Argentina la respeten.  y hoy eso no se está dando en nuestro mercado de trabajo.  Señor Milley. ",
+            "cosine_dist": 1.0266791168940392,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3047.897,
+            "end_time": 3098.537,
+            "text": "Me sorprende que siendo ministro de Economía, bueno, de un gobierno con tanto fracaso en lo económico, no, pero ni siquiera sepas leer los datos, Sergio.  Fracasé cuando te quise enseñar, no aprendiste nada.  Cuando hablas del veintitrés por ciento de la diferencia, eso es cuando se toman los promedios.  Cuando vos corregís por tareas, ¿sabés qué?  Esa diferencia desaparece.  Si vos alguna vez hubieras pisado una empresa en serio, no la de los amigos, ¿Sabes qué?  Si vos tuvieras razón tendría que estar lleno de mujeres porque los explotadores capitalistas querrían ganar dinero.  Y cuando vos vas están distribuidos muy equitativamente.  Por lo tanto esa diferencial que hablas es falso.  Y eso es propio de no saber mirar los números.  Pedile que te lo analice un economista, no alguien que mira números sin saber. ",
+            "cosine_dist": 0.41790363554288645,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3100.393,
+            "end_time": 3151.846,
+            "text": "Desgraciadamente, esa permanente mirada despectiva de las mujeres vuelve a aparecer en él.  Pero yo les quiero decir algo que me parece muy importante.  En el ideario del vínculo con las empresas, nosotros a lo largo de este año hicimos un esfuerzo que nos permitió que todos los meses crezcamos en empleo más allá de los enormes problemas que tiene nuestra economía por la sequía y por el programa con el fondo.  Desgraciadamente, esa idea de abrir la economía que ha planteado en su base presentada de la justicia va a destruir miles de pymes.  La Argentina ya vivió tasa alta, tipo de cambio fijo, apertura indiscriminada, cierre de veintitrés mil pymes.  No quiero volver a esa etapa de la Argentina. ",
+            "cosine_dist": 0.9911613350407651,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3154.187,
+            "end_time": 3208.778,
+            "text": "Lamento que opines de temas que verdaderamente no sabés.  Cuando nosotros hablamos de la reforma de primera generación, hablamos de una reforma del Estado en la cual bajamos el gasto público, bajamos impuestos, quitamos regulaciones para ser competitivos fiscalmente.  Hablamos de un programa de modernización del mercado laboral yendo a un sistema de seguro de desempleo tipo el de la UOCRA para ser competitivos.  en el plano laboral, y una vez que uno es competitivo en el plano fiscal y que es competitivo en el plano laboral, recién ahí puede abrir la economía.  Es decir, la experiencia que vos estás señalando, ¿sabés cuál fue el problema?  Abrieron la economía, pero no bajaron el gasto público.  Entonces le achacaban todo el costo a los trabajadores, como se hizo en Chile, y acá quisieron hacer algo intermedio y terminó en un industricidio.  Por lo tanto, si querés citar mis referencias, hacelo bien. ",
+            "cosine_dist": 0.41292502432106803,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3210.063,
+            "end_time": 3247.581,
+            "text": "Javier, no puedo citar tus referencias bien porque el último libro que escribiste tenés tres denuncias de plagio de haber copiado a otros autores.  Invito a la gente a que lo revise en Google.  Yo lo que quiero decirle a las pymes y sobre todo a los empresarios argentinos, abrir la economía indiscriminadamente mientras los países... que supuestamente va a alinear el señor, nos la cierran.  Y si no, preguntemos lo que le cuesta a Techin vender acero en Estados.  Unidos.  En realidad es una mirada apátrida.  Es una mirada desaprensiva de la realidad de los argentinos.  Señor Milei. ",
+            "cosine_dist": 1.0213054496077798,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3248.201,
+            "end_time": 3255.244,
+            "text": "La verdad que no podés ser más mentiroso, Sergio.  Mirá que me dijeron que eras mentiroso, pero todo el día parece que te superás. ",
+            "cosine_dist": 0.5317846402729064,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3256.304,
+            "end_time": 3257.284,
+            "text": "Te escribió Macri. ",
+            "cosine_dist": 0.9964594239786017,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3257.484,
+            "end_time": 3283.034,
+            "text": "No, no, no me escribió Macri.  Mirá, te voy a decir algo.  Una economía como la que yo propongo, justamente al ser competitiva fiscalmente, al ser competitiva laboralmente, está en condiciones de competir.  ¿Sabés lo que pasa?  Que mientras que yo pienso en un país que piensa exportarle a ocho mil millones de seres humanos, vos pensás en un mercado interno bien cerradito para poder hacer negocios con tus amigos. ",
+            "cosine_dist": 0.3815059512747564,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3284.702,
+            "end_time": 3289.588,
+            "text": "¿Cómo le vas a exportar a ocho mil millones de personas si no querés comerciar con China, con Brasil y con India? ",
+            "cosine_dist": 1.0622737335383219,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3290.43,
+            "end_time": 3300.002,
+            "text": "De vuelta, deja de mentir.  Dije que la cuestión comercial es libre de los individuos.  Porque a diferencia tuya, yo no creo que lo voy a hacer del Estado.  Creo que lo van a hacer los individuos. ",
+            "cosine_dist": 0.4848643257163463,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3300.442,
+            "end_time": 3315.674,
+            "text": "La establecen los estados, el régimen arancelario, el régimen de permisos sanitarios, el régimen de cupos, lo establecen los estados.  O no conoces el estado, y eso es mucho más grave, porque el día de diciembre tenés que presidir la Argentina.  ¿Sabés qué es el GD? ",
+            "cosine_dist": 1.0239015725844562,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3316.635,
+            "end_time": 3317.456,
+            "text": "A ver, explícame. ",
+            "cosine_dist": 0.8310743809742269,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3318.036,
+            "end_time": 3325.082,
+            "text": "No, digo, porque querés ser presidente y desgraciadamente ni siquiera conoces el sistema.  ¿Qué es el GD? ",
+            "cosine_dist": 0.9950490873651451,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3325.362,
+            "end_time": 3326.543,
+            "text": "No, explícamelo vos, que lo sabes todo. ",
+            "cosine_dist": 0.8048149770078286,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3326.563,
+            "end_time": 3327.764,
+            "text": "No, no, no, contanos qué es el GD. ",
+            "cosine_dist": 1.0052220797975586,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3327.784,
+            "end_time": 3338.787,
+            "text": "No, yo quiero saber vos.  Alguien que no sabe lo que es el GED, que es el sistema de administración de los expedientes, ¿cómo va a presentar una ley? ",
+            "cosine_dist": 0.6797315047730725,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3339.087,
+            "end_time": 3341.93,
+            "text": "Si no conocen ni el sistema de trámites de expedientes del Estado. ",
+            "cosine_dist": 0.9602442875048923,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3342.13,
+            "end_time": 3369.342,
+            "text": "Pero de vuelta, lo que vos querés hacer... es regular el comercio.  Y yo quiero comercio libre.  Esa es la diferencia.  Lo que pasa es que vos regulando el comercio, ¿sabés qué?  Le podés dar ventajitas a tus amigos y manejar todo el comercio y de esa manera perjudican a los argentinos de bien.  Entonces, por eso Argentina, de ser el país que representaba a inicio del siglo XX, tres por ciento de las exportaciones del mundo, hoy representa cero tres.  Por eso tenemos una economía cerrada.  Porque vos querés hacer siempre lo mismo. ",
+            "cosine_dist": 0.43874672113222735,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3370.74,
+            "end_time": 3378.268,
+            "text": "Al principio del siglo XX, Argentina exportaba lo que exportaba y solo el seis por ciento de la población estaba por encima de la línea de pobreza. ",
+            "cosine_dist": 1.0886406475914399,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3380.791,
+            "end_time": 3392.023,
+            "text": "Me parece que no tenés bien los datos porque, a ver, ese número solamente era de inicios del siglo XVIII y después empezó a caer fuertemente con la llegada del capitalismo.  Te están fallando los datos. ",
+            "cosine_dist": 0.44672309114116526,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3393.188,
+            "end_time": 3407.481,
+            "text": "Javier, desgraciadamente tenemos miradas distintas.  Yo creo en la Argentina federal, productiva, protegida, porque el Estado tiene que proteger a sus empresas y a sus trabajadores.  Vos decís apertura y que sea lo que Dios quiera. ",
+            "cosine_dist": 1.0328197200249722,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3408.822,
+            "end_time": 3416.368,
+            "text": "No, no.  Vos lo que estás diciendo cuando decís proteger es hacer negocios con los amigos en detrimento de los argentinos de bien. ",
+            "cosine_dist": 0.49522464154303847,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3417.93,
+            "end_time": 3420.012,
+            "text": "No, proteger a nuestra industria. ",
+            "cosine_dist": 1.0401121409126486,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3421.109,
+            "end_time": 3438.818,
+            "text": "Pero cuando vos estás hablando de proteger ese, poner un precio por encima del equilibrio, con lo cual obligás a los argentinos de bien pagar más.  y ¿sabes qué?  Todo lo hizo que vos perdés, destrozás puestos de trabajo en otro lado de mayor productividad.  Pero ¿sabés cuál es la diferencia?  Que claro, lo manejamos desde las palancas del Estado y ahí aparecen las porosas manos de los políticos. ",
+            "cosine_dist": 0.4335927866458641,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3441.279,
+            "end_time": 3446.242,
+            "text": "Yo pensé que era parecido al XV y XIX lo que nos venía a plantear, pero es más parecido a Martínez de Hoz. ",
+            "cosine_dist": 1.1020393893061156,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3449.185,
+            "end_time": 3452.587,
+            "text": "Te avisé que esto no se parece nada a Martínez Dios.  Ni siquiera tenés capacidad de aprendizaje. ",
+            "cosine_dist": 0.5425666386485481,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3453.968,
+            "end_time": 3473.718,
+            "text": "Desgraciadamente, lo que vemos es alguien que plantea apertura indiscriminada, que plantea relaciones laborales desjurídicas o desjuridicizadas.  Porque, desgraciadamente, lo que estás diciendo es que le vas a eliminar el derecho a la indemnización a los trabajadores. ",
+            "cosine_dist": 0.9893328499756088,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3473.738,
+            "end_time": 3478.161,
+            "text": "Voy a aplicar el modelo que aplica la UOCRA, que está dentro del marco de la ley. ",
+            "cosine_dist": 0.537129819414984,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3479.392,
+            "end_time": 3484.555,
+            "text": "¿Vas a aplicarle la misma a todos los trabajadores, a los que tienen nueve, diez años de carrera? ",
+            "cosine_dist": 0.9973625883888393,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3486.376,
+            "end_time": 3487.957,
+            "text": "Los derechos adquiridos se respetan. ",
+            "cosine_dist": 0.6364772603085016,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3487.977,
+            "end_time": 3497.363,
+            "text": "Javier, contale a la gente que tu programa es sin indemnización y sin vacaciones pagas.  Simple.  Tiempo terminado, candidato Masa. ",
+            "cosine_dist": 1.0423672995388407,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3497.383,
+            "end_time": 3512.064,
+            "text": "Mi programa es el que planteo yo, no la mentira que decís vos.  Tiempo cumplido también, candidato Milei.  De esta manera, ambos candidatos han tenido seis minutos cada uno para hablar de producción y trabajo.  Pasamos al siguiente eje temático de esta noche. ",
+            "cosine_dist": 0.8028950806207826,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3512.084,
+            "end_time": 3522.909,
+            "text": "Y el próximo bloque temático es sobre seguridad.  Y de acuerdo al sorteo realizado, quien comienza este bloque es el candidato Javier Milei. ",
+            "cosine_dist": 1.006926085644778,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3524.35,
+            "end_time": 3632.361,
+            "text": "Bueno, en materia de seguridad... Salvo que usted esté pensando en un mundo donde hay anarquismo, siempre que haya estado, el Estado siempre se ocupa de la seguridad.  En el caso argentino, como todo lo que hace el Estado lo hace mal, y por eso el país es un baño de sangre.  Ese baño de sangre comenzó de manera muchísimo más grosera a partir del año dos mil uno, dos mil dos, y se hizo más fuerte con la llegada de un señor llamado Eugenio Zaffaroni.  Es decir, un señor que invertía la carga, la prueba, donde hacía que las víctimas fueran los victimarios y viceversa.  Bueno, nosotros no creemos en ese mundo.  Nosotros no creemos en esa lógica de que el delincuente es una víctima.  Nosotros creemos en aplicar la ley y el que las hace las paga.  En ese sentido, ese desastre que acá aplica hoy ya había ocurrido en Nueva York en la década del sesenta y eso fue atacado y resuelto por Gary Becker en un trabajo que se llama Crimen y Castigo del año mil novecientos sesenta y ocho y puesto en práctica por Rudolf Giuliani y resolvió el problema en Nueva York.  Es interesante porque cuando ustedes miran desde esta perspectiva, ahora no es solamente la cuestión de la seguridad de ir y atrapar a los delincuentes, sino que también tiene un rol fundamental el tema de las penas y cómo se ejecutan las penas en los hechos.  Solamente el tres coma cinco por ciento de los delitos son condenados en Argentina.  Eso implica una licuación enorme de los costos para los delincuentes.  Eso hace que la actividad delictiva en Argentina sea muy rentable.  Y como toda actividad que es rentable, se expande.  Y la delincuencia no es distinta. ",
+            "cosine_dist": 0.3297570686668695,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3632.381,
+            "end_time": 3754.783,
+            "text": "Candido Tomás.  Bueno, primero una enorme alegría.  Vamos a tener una coincidencia porque el libro que cuenta lo que hice en Tigre está prologado y presentado acá en la Argentina por Rudolf Giuliani.  Y básicamente tiene que ver con algo que me pasó.  Era intendente y a tres cuadras de mi casa mataron a un chiquito de diecisiete años.  Salí corriendo a la casa, encontré a la madre y a la hija.  Y ese día tomé la decisión de que Tigre, mi ciudad, la que gobernaba en ese momento, iba a ser la más segura.  Bajé el ochenta por ciento del robo automotor, que es el delito que más se denuncia.  Cuarenta y siete por ciento todos los delitos.  Y de alguna manera me permitió con cámaras, móviles, sistemas de botón de pánico y tecnología aplicada a todo lo que es un programa satelital de prevención, bajar el delito.  He planteado lo mismo para las ciento cuarenta ciudades de más de cincuenta mil habitantes de la Argentina.  Y creo además que es parte de los grandes acuerdos que tenemos que construir desde el diez de diciembre.  Porque seguramente como presidente lo voy a tener que hacer con gobernadores e intendentes de distinto signo político.  Y es parte de la tarea que tenemos que hacer entre todos.  Pero no es sólo la tarea de prevención.  Tenemos además la responsabilidad de atacar los tres crímenes transnacionales.  Corrupción, narcotráfico y trata de personas.  Y en ese sentido voy a plantear la instalación en Rosario.  en el edificio de Central Córdoba, que todos los rosarinos conocen, de la sede de una agencia federal que va a trabajar con los cuatro mejores cuerpos de élite de cada una de las fuerzas federales, con el objetivo de atacar esos tres delitos.  Y después te voy a contar lo que creo que hay que hacer en materia de justicia, porque no es solo prevención y seguridad, sino también acción de la justicia. ",
+            "cosine_dist": 1.0059957259265901,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3756.397,
+            "end_time": 3778.249,
+            "text": "Javier Milei.  Bueno, eso es para que vean que no hay una cuestión ideológica, de que cuando las cosas se hacen bien yo las reconozco.  Y la verdad es que reconozco que lo que has hecho en materia de seguridad en Tigre es bueno y que querer extenderlo al resto del país es bueno.  Ahora debe ser muy malo el resto que hiciste para que digamos después, cada vez que fue tu mujer a las elecciones, perdió siempre.  O quizá te conocen demasiado. ",
+            "cosine_dist": 0.4779532340159166,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3779650,
+            "end_time": 3779830,
+            "text": "Ahora... ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3781.067,
+            "end_time": 3858.151,
+            "text": "Puesto en la lógica que nosotros recién lo señalamos, la lógica fundamental tiene que ver qué es lo que hacemos con la justicia.  Es decir, nosotros lo que estamos proponiendo es reformar varios aspectos de la Ley de Seguridad Nacional, la Ley de Defensa Nacional, la Ley de Inteligencia.  Estamos proponiendo reformar el Código Penal, el Código Penal Procesal, reformar el sistema carcelario.  Porque, por ejemplo, el Código Penal... El Código Penal, que es de mil novecientos veintiuno, tuvo novecientas modificaciones.  Y muchas de esas modificaciones que tiene son contradictorias unas con otras.  Por lo tanto, eso genera zonas grises que hacen que los delitos no sean penalizados.  Y así está lleno de un montón de problemas.  También tenemos que trabajar en lo que tiene que ver con el sistema carcelario.  Entonces tiene que separarse lo que tiene que ver con los adultos y con lo que tiene que ver con los menores.  Y los menores además tienen que ser reinsertados y reeducados para que vuelvan a la sociedad.  Y además también tenemos problemas en la justicia federal y tenemos problemas de cómo la política se mete adentro de la justicia y no la deja funcionar como corresponde y de manera independiente.  Dicho sea de paso, ustedes le están haciendo el juicio a las cortes, no el juicio político.  Parece que mucha independencia no quieren que tenga. ",
+            "cosine_dist": 0.36734755957579934,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3860.272,
+            "end_time": 3922.181,
+            "text": "Candido Tomás.  Bueno, más allá de chicanas que de alguna manera tienen que ver con desconocimiento del tema, en materia de justicia hay dos cambios fundamentales para hacer.  Uno ya lo planteé en el dos mil catorce, cuando vos me acompañabas en el Frente Renovador.  El código penal... que además volvió a tomar estado parlamentario en la presentación que hace el doctor Borinsky, conocido como Código Borinsky, y que cambia no solamente el sistema de tratamiento de penas, sino también que cambia algunas de las calificaciones de conducta.  En segundo lugar, El otro trabajo que hay que hacer tiene que ver con respetar la independencia del Poder Judicial, pero por otro lado medir resultados.  Porque nada genera más sensación de impunidad en la sociedad que que la víctima de una violación se encuentre en la verdulería con el victimario.  Y eso es centralmente cuando hay jueces o fiscales que dan las escarcelaciones o que no ordenan las detenciones. ",
+            "cosine_dist": 1.0309525120239067,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3925.223,
+            "end_time": 3955.912,
+            "text": "A ver, independencia del Poder Judicial.  Ustedes viven teniéndolo contra las cuerdas al Poder Judicial porque, digamos, no tiene independencia en materia de financiamiento, por lo tanto queda muy condicionado lo que ustedes hacen.  Y claramente lo que nosotros proponemos es que el que las hace las paga.  Es decir, no puede ser esto de la idea de la puerta al giriatorio, que no los meten presos o lo que sea.  Nosotros queremos que justamente la ley se cumpla, digamos, no como los sueltachorros de ustedes, digamos, por ejemplo, en la pandemia. ",
+            "cosine_dist": 0.41462581813321,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3958.336,
+            "end_time": 3984.489,
+            "text": "Yo la verdad es que no sé si algún juez, espero que lo hayas denunciado en el Consejo de la Magistratura, si algún juez liberó a un delincuente en la pandemia.  En todo caso, lo que sí me gustaría es volver al sistema de inhibidores en las cárceles que sacó Patricia Bullrich, tu nueva compañera, y que perjudicó todo el seguimiento y control de los monos en Santa Fe.  Mi ley. ",
+            "cosine_dist": 1.0348302824709679,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3986.55,
+            "end_time": 3987.411,
+            "text": "¿Y qué querés preguntar? ",
+            "cosine_dist": 0.8180896179020803,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3988.942,
+            "end_time": 3990.263,
+            "text": "Nada, te di la palabra. ",
+            "cosine_dist": 0.9637059243251587,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3990.643,
+            "end_time": 3993.024,
+            "text": "Ah, bueno, gracias.  Te la cedo. ",
+            "cosine_dist": 0.6892862154695774,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3993.104,
+            "end_time": 4029.643,
+            "text": "Bueno, la verdad es que el problema es que cuando uno no tiene nada que decir en un tema que no le interesa, en un tema que no estudió, claramente busca tiempo para rellenar.  Yo realmente este tema lo tomo como un tema personal.  Y así como plantean que seguridad es un tema de gobernadores o en muchos lugares de intendentes, para mí no.  Para mí centralmente, como presidente, va a ser responsabilidad mía la lucha contra la inseguridad.  Y va a ser responsabilidad de los tres poderes del Estado el control del cumplimiento de las metas por parte de la justicia. ",
+            "cosine_dist": 1.0130542129517701,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 4029.663,
+            "end_time": 4081.93,
+            "text": "A ver, vuelvo al tema.  Nosotros consideramos que el que las hace las paga y que justamente hay que seguirlos, hay que terminar con los jueces que sueltan presos y que se escudan en artificios del código penal para, digamos, en las contradicciones.  De hecho, la última modificación, la de dos mil dieciséis, casi que te diría que están las dos puntas y toda la parte del medio, lo único que genera son contradicciones.  Me parece bastante osado lo tuyo decir que te vas a estar metiendo en dependencias que tienen que ver con el aspecto de las provincias.  Es decir, nosotros vamos a impulsar que se cumpla la ley, estamos a favor de medir la productividad en todos los aspectos de la economía y todos los aspectos de la sociedad donde intervenga el Estado, pero cuidado porque hay un problema de dependencias, de jurisdicciones. ",
+            "cosine_dist": 0.3402800773010989,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 4083.186,
+            "end_time": 4125.506,
+            "text": "El problema de lucha contra la inseguridad y el problema de lucha contra el narcotráfico no es un tema de dependencias.  Y así como me comprometí y me comprometo en la generación de empleo, me comprometo hoy a ser un presidente absoluta y personalmente involucrado en la lucha contra la inseguridad.  No me tocaba en Tigre.  Y sin embargo lo hice.  Y hasta vos lo reconoces.  Y la verdad es que me parece que tiene que ver centralmente con que cuando uno tiene una responsabilidad pública no mira jurisdicciones.  Protege a las personas.  Esas mamás, esas mujeres que necesitan salir a la calle y sentirse protegidas no entienden de jurisdicciones.  Quieren que nos hagamos responsables. ",
+            "cosine_dist": 1.0156815251161644,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 4127.287,
+            "end_time": 4164.171,
+            "text": "Mirá, mencionás el tema del narcotráfico.  Y sobre todo el rol que, por ejemplo, lo que sucede en Rosario, ¿no?  Es interesante porque en la lucha contra el narcotráfico no hay un solo policía preso, no hay un solo policía muerto.  Eso quiere decir que baja la orden del poder político para darle cobertura a los narcotraficantes.  Porque es más, cuando la gente se saturó, Sola fue a buscarlas y los sacó a patadas.  Es decir, por lo tanto, digamos, no hay voluntad política, pero... No sé, parece que vos querés avanzar sobre las responsabilidades de las provincias. ",
+            "cosine_dist": 0.39649141856954195,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 4166.693,
+            "end_time": 4175.296,
+            "text": "Si tengo que poner todos los recursos federales para ayudar a los rosarinos y a los santafesinos, lo voy a hacer.  Ese es mi compromiso con Santa Fe. ",
+            "cosine_dist": 1.0142781893946526,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 4176.975,
+            "end_time": 4178.537,
+            "text": "Me parece perfecto, no violes la ley. ",
+            "cosine_dist": 0.7789895081648432,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 4180.207,
+            "end_time": 4194.151,
+            "text": "La verdad es que las fuerzas federales y los jueces federales tienen jurisdicción en el territorio, y mucho más en la lucha contra el narcotráfico, así como también en la lucha contra la trata de personas y en la lucha de los delitos transnacionales como la corrupción. ",
+            "cosine_dist": 1.0376902462743893,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 4195.467,
+            "end_time": 4216.951,
+            "text": "Bueno, digo, fíjate cómo vas a avanzar también sobre el caso de los delitos transnacionales y donde se te meten otros países a partir de eso, porque ahí también necesitas reformar, por ejemplo, lo que tiene que ver con la Ley de Defensa Nacional, porque no se puede mandar a los uniformados, digamos, a combatir cualquier tipo de crimen, porque si no, después no lo hacen, porque después viene alguien y lo juzga por delito de lesa humanidad. ",
+            "cosine_dist": 0.38741116110457696,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 4218.332,
+            "end_time": 4241.376,
+            "text": "No, me parece que estamos mezclando las fuerzas de seguridad con las fuerzas armadas.  La gente entiende, policía, prefectura, gendarmería, policía aeronáutica, entiende claramente que hay una diferencia entre esas cuatro fuerzas y ejército, armada y fuerza aérea.  Le restan tres segundos. ",
+            "cosine_dist": 1.027380003125997,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 4241.416,
+            "end_time": 4245.838,
+            "text": "Bueno, yo porque mencionaste, digo, para que quede claro que no vas a estar mandando a los uniformados ahí. ",
+            "cosine_dist": 0.565760139022264,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 4247.802,
+            "end_time": 4283.228,
+            "text": "Nosotros vamos a construir fuerzas de seguridad profesionales.  Vamos a controlar que la justicia cumpla con su parte.  Y además vamos a plantear una política de seguridad como la que te conté.  Prevención y sobre todas las cosas un trabajo articulado con gobernadores e intendentes.  La seguridad no es de jurisdicciones.  La seguridad es un derecho a que vos seas de vuelta dueño de la calle y no los delincuentes.  Muy bien, ambos candidatos han utilizado sus seis minutos para debatir sobre seguridad.  Es momento de comenzar un nuevo bloque temático. ",
+            "cosine_dist": 1.0063922787176853,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 4284.068,
+            "end_time": 4297.455,
+            "text": "El que vamos a tener ahora es Derechos Humanos y Convivencia Democrática.  De acuerdo al sorteo entonces, a quien le damos la palabra es al candidato Sergio Massa, Derechos Humanos y Convivencia Democrática. ",
+            "cosine_dist": 0.8560804166646376,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 4298.775,
+            "end_time": 4419.576,
+            "text": "A cuarenta años del retorno de la democracia en la Argentina me parece central que tengamos la posibilidad de hablar de convivencia democrática, pero también la posibilidad de reafirmar algo que a la Argentina le ha valido un enorme reconocimiento internacional.  La idea de memoria de verdad y justicia, la idea del nunca más, el juicio a las juntas que arrancara el primer gobierno democrático y la condena a represores, son parte del patrimonio que a la Argentina no solamente le reconocen en la región, sino que le reconocen en el mundo, a tal punto que preside organismos de derechos humanos internacionales centralmente por el reconocimiento que nos ha valido.  Creo además que tenemos que poner en la agenda los nuevos derechos humanos.  El derecho a un ambiente sano es uno de los nuevos derechos humanos planteados en los consensos internacionales, así como también el derecho a la tierra, el derecho a poder desarrollarse en tierra propia.  Por eso, dos temas centrales.  El primero que tiene que ver con un cambio de paradigma que hemos planteado en materia de delitos ambientales.  De tres a ocho años de prisión para aquel que contamina ríos, que tala bosques o que destruye humedales.  Prisión efectiva.  Y en segundo lugar, hemos planteado un programa en los inmuebles ociosos del Estado de dos millones de lotes con servicios para que aquellos que tienen el sueño de la casa propia puedan acceder a su primer lote.  Creo en definitiva que es parte del reconocimiento de los nuevos derechos.  Y en materia de convivencia democrática, quiero reiterar una vez más algo que por reiterativo no debe sonar aburrido.  Desde el diez de diciembre, si me dan la responsabilidad de gobernar la Argentina, voy a plantear un gobierno de unidad nacional, convocando a los mejores de distintas fuerzas, sin importar el origen político y sin pedir afiliación. ",
+            "cosine_dist": 0.9895417708242854,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 4421.996,
+            "end_time": 4529.288,
+            "text": "Resulta gracioso escucharlo a Sergio sobre hablar de convivencia democrática.  Pensar que pertenece a un espacio que le hizo catorce paros generales a Alfonsín, que los sacó a patadas a De la Rúa para voltear la convertibilidad, que han hecho de la democracia una democracia fallida, porque desear el respeto de las minorías se convierte sistemáticamente cuando están en el poder en una tiranía de las mayorías, donde creen que por haber obtenido alguna mayoría circunstancial les da derecho a hacer cualquier cosa, cualquier desmadre y cualquier avance para que les permita perpetuarse en el poder.  Es más, en esa lógica perversa, digamos, durante el kirchnerismo tuvimos que padecer, estar al borde de una guerra civil, lo que fue con la Ciento Veinticinco.  O los desmadres que hicieron también, digamos, con el memorándum con Irán, o lo que tiene que ver con la muerte de Nisman a poco tiempo de declarar contra la jefe de tu espacio, tu jefe.  No solo eso, cuando se presentó una ley que no les gustaba, orquestaron tirar catorce toneladas de piedra.  Ustedes tienen un avance continuo sobre la justicia, ahora le están pidiendo un juicio político.  Y después también tienen alguna cuestión con la libertad de expresión, porque por ejemplo... el candidato a jefe de gobierno de tu espacio en estas elecciones, que después se bajó porque iba a perder.  Es interesante, digamos, porque él pedía la censura de mi persona, que yo no participara en ningún programa ni nada por el estilo.  Pero bueno, qué mal le salió.  Ahora estoy peleando la presidencia. ",
+            "cosine_dist": 0.4101857242434086,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 4531.269,
+            "end_time": 4543.436,
+            "text": "Bueno, sin duda lo primero que te quisiera preguntar es si cuando yo era presidente de la Cámara y vos eras diputado, sentiste en algún momento que no te respetara y que no aceptara la convivencia democrática. ",
+            "cosine_dist": 0.9888293027230654,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 4546.34,
+            "end_time": 4561.137,
+            "text": "Mirá, no depende solo de vos.  Digamos, hay un montón de otras cosas que hacen al sistema.  ¿Cómo era tu diálogo conmigo, Javier?  Yo me tuve que meter en el sistema y os daba la persecución de la gente de tu espacio.  Por favor, candidato, por favor. ",
+            "cosine_dist": 0.5206335571011025,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 4561.557,
+            "end_time": 4563.44,
+            "text": "¿Cómo era tu diálogo conmigo?  Contale a la gente. ",
+            "cosine_dist": 1.0407492051305558,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 4563.965,
+            "end_time": 4566.987,
+            "text": "Mucho.  no dialogábamos porque, digamos, tampoco dialogábamos mucho. ",
+            "cosine_dist": 0.6239734833280821,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 4567.287,
+            "end_time": 4599.533,
+            "text": "Bueno, la verdad es que, al igual que el resto de los presidentes de Cámara, siempre los traté con mucho respeto porque creo en el diálogo.  Es más, parte de algunas críticas que he recibido tienen que ver centralmente con tener una excesiva capacidad de diálogo.  Creo que el diálogo y el consenso son los que sacan adelante a la Argentina.  Y creo enormemente en la libertad de expresión.  Llevo treinta años en la vida pública con errores y aciertos.  Nunca querellé a un periodista.  Vos llevás tres y ya querellaste a varios. ",
+            "cosine_dist": 0.9665146794098365,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 4601.015,
+            "end_time": 4615.829,
+            "text": "Obvio.  ¿Sabés por?  qué?  Digamos, porque quizás vos no lo sepas, pero Argentina es uno de los cincuenta países que firmó el IRJA y no podés tratar de nazi a la gente.  De ahí vienen esas demandas. ",
+            "cosine_dist": 0.4322596733505564,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 4617.722,
+            "end_time": 4660.407,
+            "text": "Yo la verdad es que creo que la tolerancia y la templanza son vitales.  para decidir los destinos de la patria.  Y me parece que eso no tiene discusión.  Así como me parece que no tiene sentido que sigas con la chicana.  Esto no es entre Macri y Cristina, Javier.  Esto es vos o yo.  Es así de simple.  El diez de diciembre uno de los dos tiene la responsabilidad de gobernar los próximos cuatro años.  Y tiene que mostrar si está preparado, si tiene el carácter, si tiene la responsabilidad o no.  No es Macri o Cristina, vos o yo.  Ellos ya tuvieron su oportunidad, ahora es vos o yo.  Y los argentinos deciden sobre eso. ",
+            "cosine_dist": 0.9954428844634319,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 4661.428,
+            "end_time": 4735.818,
+            "text": "Mirá, a ver, vos o yo.  Vos hablás del diálogo del consenso, del diálogo de la unidad, de la convocatoria.  ¿Sabés de qué se compone la casta?  La casta se compone de los políticos ladrones, los que hacen cosas en contra de la gente.  Los tenés todos con vos, son los kircheristas.  Otro componente de la casta, ¿sabes qué?  Son los empresarios prevendarios.  La gran mayoría de ellos son amigos tuyos o tenés negocios con ellos.  No solo eso, sino que además... Hablas de los sindicalistas, o sea, los sindicalistas que operan en contra de los beneficios y de la situación de los argentinos.  Son con los que vos te reunís.  Son los mismos que también le hicieron los catorce paros generales a Alfonsín.  No solo eso, sino que además tenés una fuerte injerencia en los medios.  Con lo cual, todo ese sistema que hace de la casta empobrecedor y que arruina a los argentinos, cuando vos estás diciendo que te vas a sentar con ellos... te vas a sentar a negociar cómo repartirte la torta entre ellos a espaldas de los argentinos de bien, que son a los que cada día le va peor desde que estás aplicando en Argentina el mismo sistema que decís vos porque se aplica en Argentina desde hace cien años. ",
+            "cosine_dist": 0.39821032660531464,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 4738.319,
+            "end_time": 4741.68,
+            "text": "Javier, el que trabajó con Arnequian.  fuiste vos, no yo. ",
+            "cosine_dist": 1.0542148043571122,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 4742.381,
+            "end_time": 4745.582,
+            "text": "Si vos como ministro de Economía crees que tiene algo suyo, andá y denuncialo. ",
+            "cosine_dist": 0.642717510274555,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 4746.783,
+            "end_time": 4761.489,
+            "text": "La semana pasada le bajamos la tarifa para Iguazú porque cobraba el triple de lo que cobraba la FOS de Iguazú.  Pero contale a la gente cómo era el proyecto del tren con Arnequian.  Contale a la gente cómo era el proyecto del tren con Arnequian. ",
+            "cosine_dist": 1.0235255253763973,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 4763.112,
+            "end_time": 4772.331,
+            "text": "que era un excelente proyecto que afortunadamente lo pudimos impulsar, pero dada la situación de la economía argentina no pudo avanzar. ",
+            "cosine_dist": 0.5127873460635781,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 4773.831,
+            "end_time": 4798.187,
+            "text": "Yo no trabajé con Urnequian, no tengo empresarios amigos, tengo empresarios a los que conozco.  Ahora, la verdad es que lo que me parece patético es que alguien que trabajó diez años con uno de los concesionarios más importantes del Estado argentino hable de, digamos, depender de empresarios.  Eso habla, por lo menos mal de vos, habla de que sos desagradecido con Urnequian que tanto te ayudó. ",
+            "cosine_dist": 1.045693442264557,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 4798.247,
+            "end_time": 4803.33,
+            "text": "No, todo lo contrario, soy súper agradecido y pasé quince años maravillosos adentro del grupo Urnequian. ",
+            "cosine_dist": 0.5526650760978089,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 4805.544,
+            "end_time": 4833.844,
+            "text": "Bueno, está claro.  Trabajó para la UNEQIAN y para las AFJP.  Está claro cuál es el diseño del país.  La verdad es que en el marco de lo que estamos discutiendo, que es la convivencia democrática, quiero reiterar mi llamado a los distintos sectores de la Argentina.  Empresarios, trabajadores, organizaciones de la sociedad civil, movimientos sociales.  Porque además la convivencia democrática supone, entre otras cosas, el respeto al que piensa distinto. ",
+            "cosine_dist": 1.0740369777891365,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 4835.285,
+            "end_time": 4863.242,
+            "text": "Es interesante que hables de las AFJP, porque vos sos el que las nacionalizó.  Y como consecuencia de ello, se patinaron el Fondo de Garantía de Sustentabilidad, invirtiendo en cualquier cosa y haciendo una dilapidación de recursos.  Y eso en parte explica las jubilaciones miserables.  Mirá, desde tu gestión, desde ciento cincuenta dólares, cayó a noventa y dos dólares el tipo de cambio paralelo.  Mirá el daño que le hiciste a los argentinos con tu masazo. ",
+            "cosine_dist": 0.393773777956651,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 4863.923,
+            "end_time": 4866.906,
+            "text": "Sesenta y tres mil millones de dólares vale hoy el Fondo de Garantía, Javier. ",
+            "cosine_dist": 1.0322557781145794,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 4867.833,
+            "end_time": 4871.497,
+            "text": "Digo, debería valer muchísimo más.  O sea, si hubieran administrado de la manera correcta... ",
+            "cosine_dist": 0.495530123839825,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 4871.517,
+            "end_time": 4874.52,
+            "text": "Pero además que hoy la olvidamos, con Macri valía cuarenta, hoy vale sesenta y tres. ",
+            "cosine_dist": 0.9874204934632599,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 4874.66,
+            "end_time": 4876.783,
+            "text": "Pero debería valer todavía muchísimo más. ",
+            "cosine_dist": 0.5442600552489549,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 4877.504,
+            "end_time": 4899.42,
+            "text": "La cuenta es simple y desgraciadamente, y le pido perdón a la audiencia porque en teoría teníamos que hablar de derechos humanos, teníamos que hablar del respeto y convivencia democrática, volvemos para atrás.  Volver a las AFJP es jubilaciones de cinco a veinte mil pesos.  Eso es lo que cobran hoy los veintiún mil setecientos cincuenta jubilados que tiene la Argentina AFJP. ",
+            "cosine_dist": 1.0094774291313242,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 4899.721,
+            "end_time": 4920.054,
+            "text": "Lo que decís es falso, ¿sabés por?  qué?  Porque en la época de la convertibilidad, cuando las AFJP funcionaban sin tanta intromisión del Estado, que tenía intromisión, ¿sabés qué?  Los salarios eran el equivalente de un millón ochocientos mil pesos de hoy, mil ochocientos dólares.  Pero ¿sabes qué?  Como tu gobierno los destrozó y los llevó a trescientos treinta dólares, por eso estamos tan miserables. ",
+            "cosine_dist": 0.4657521927382049,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 4921.496,
+            "end_time": 4927.966,
+            "text": "Es lógico que defiende a las AFJP, trabajó mucho tiempo ahí.  Cuando le cobraban a usted la comisión, él cobraba de ahí. ",
+            "cosine_dist": 1.0387880215495395,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 4928.962,
+            "end_time": 4933.806,
+            "text": "Y vos agarraste y se las afanaste a los argentinos de bien para que tengan las jubilaciones miserables de noventa dólares. ",
+            "cosine_dist": 0.5972409024465157,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 4933.826,
+            "end_time": 4935.327,
+            "text": "Sesenta y tres mil millones de dólares vale hoy el fondo. ",
+            "cosine_dist": 0.9364415585418532,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 4935.347,
+            "end_time": 4939.731,
+            "text": "Sí, noventa dólares gana un jubilado.  Bien miserable lo hiciste.  Comparalo contra lo que sería la otra. ",
+            "cosine_dist": 0.5207959147451457,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 4939.751,
+            "end_time": 4958.344,
+            "text": "Y le planteaste al FMI un recorte de quince puntos del PBI que en tu plataforma de campaña habla, y invito a la gente a que entre a Google y revise la plataforma de campaña del señor.  Habla de fuerte ajuste del sistema de jubilaciones y pensiones.  No hablo de... ",
+            "cosine_dist": 1.0205167089192988,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 4958.464,
+            "end_time": 4961.025,
+            "text": "No hablo de ajustar el sistema previsional. ",
+            "cosine_dist": 0.730983793049458,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 4961.085,
+            "end_time": 4961.726,
+            "text": "Está en el segundo capítulo. ",
+            "cosine_dist": 0.9752106442812712,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 4961.766,
+            "end_time": 4970.369,
+            "text": "De hecho, digo de poner en orden el sistema previsional sin vulnerar derechos.  Si vos no sabés leer, no es mi culpa.  Te invito a leerlo, está en el segundo capítulo. ",
+            "cosine_dist": 0.524572341746984,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 4971.43,
+            "end_time": 4978.953,
+            "text": "No se pisen porque no los podemos escuchar.  Candidato más.  Perdón, candidato a mi ley. ",
+            "cosine_dist": 1.0121070629919162,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 4978.993,
+            "end_time": 5018.135,
+            "text": "Quiero mencionar algo respecto a los derechos humanos.  Este es un gobierno criminal.  Un gobierno que cometió un delito de lesa humanidad con la cuarentena.  ¿Sí?  Durante la pandemia.  Acorde al Estatuto de Roma de mil nueve noventa y ocho, artículo siete, inciso K, cuando se ataca de manera brutal sobre el derecho de propiedad a punto tal o que uno pierde la libertad o se muere, eso constituye un delito de lesa humanidad.  Y mientras que el Estado te decía que te cuidaba... Deberíamos haber tenido treinta mil muertos.  La ineficiencia del Estado te cuida.  nos costó noventa mil muertos adicionales. ",
+            "cosine_dist": 0.3952726268500696,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 5020.976,
+            "end_time": 5041.836,
+            "text": "Yo quiero invitar a los argentinos a que en convivencia y en paz construyamos desde el diez de diciembre una nueva etapa en acuerdo y sin armas libres en la Argentina.  Bueno, ahora vamos a ir a un corte.  Al regreso, cada candidato va a tener dos minutos para finalizar su participación en este debate.  Dos mil veintitrés, segunda vuelta. ",
+            "cosine_dist": 1.0101578472585984,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 5042.156,
+            "end_time": 5049.941,
+            "text": "Y en esa oportunidad les vamos a hacer una pregunta.  Cada candidato deberá responder por qué quiere ser presidente de la Nación. ",
+            "cosine_dist": 0.815759998882678,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 5050.001,
+            "end_time": 5061.529,
+            "text": "Ya volvemos.  Muchas gracias por esperarnos.  Seguimos en la Facultad de Derecho de la Universidad de Buenos Aires con el debate presidencial.  dos mil veintitrés, segunda vuelta. ",
+            "cosine_dist": 1.0362673975357128,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 5061.886,
+            "end_time": 5073.833,
+            "text": "Como habíamos anticipado, a partir de ahora cada candidato tendrá dos minutos para concluir su participación en este debate presidencial.  En esta oportunidad les hacemos una pregunta. ",
+            "cosine_dist": 0.8501358839332203,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 5074.234,
+            "end_time": 5200.309,
+            "text": "Así es, y la pregunta, señor candidato Sergio Massa, es ¿por qué quiere ser presidente?  Quiero ser presidente porque mis abuelos y mis viejos llegaron acá escapando de una guerra.  Y este país les dio todo.  Me enseñaron a amarlo.  y sobre todas las cosas, a valorarlo.  Quiero ser presidente para que esas mujeres, esos abuelos, que sienten muchas veces que el Estado los abandona o que no son parte de la sociedad, se sientan parte integrante.  Quiero ser presidente porque creo que la Argentina tiene que enterrar definitivamente la grieta e ir a un acuerdo de diez políticas de Estado, que tiene que tener diálogo y consensos que le den previsibilidad a largo plazo.  Quiero ser presidente para que el norte argentino Recupera esas asimetrías que tantas veces lo hacen sentir alejado de nuestra realidad argentina.  Quiero ser presidente para que toda la riqueza de nuestra Patagonia se transforme en riqueza que le vendemos al mundo.  Quiero ser presidente además entendiendo que hay algunos que ni siquiera... me votan convencidos, sino simplemente como vehículo para no elegir un camino que es violencia, que es odio, que es daño.  Y decirles a todos ellos que voy a trabajar desde el diez de diciembre para que sientan que no es que tiraron su voto, sino que confiaron en alguien y construir confianza.  Quiero ser presidente para que nuestros trabajadores recuperen ingreso, para que nuestras pymes ganen mercado en el mundo.  Quiero ser presidente para que nuestros pibes sigan yendo a la universidad pública, pero sobre todas las cosas, para que nuestras mamás y nuestras mujeres puedan entrar al mercado de trabajo sin miedo y sin discriminación.  Quiero ser presidente porque tengo hijos a los que les quiero dejar un país mucho mejor que el que por ahí me tocó vivir a mí.  Y quiero ser presidente para superar esta crisis que nos ha tocado vivir a los argentinos entendiendo que viene el momento del crecimiento. ",
+            "cosine_dist": 1.0360844684326194,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 5202.17,
+            "end_time": 5328.177,
+            "text": "Concluye ahora con su participación Javier Milei para ustedes la pregunta.  Javier Milei, ¿por qué quiere ser presidente de la Nación?  Argentinos, nos encontramos frente a la elección más importante de los últimos cien años y muy especialmente en estos cuarenta años de la nueva democracia que tenemos.  Es el momento de preguntarnos si queremos seguir transitando este sendero decadente que hace que cada día seamos más miserables, que tengamos cada vez más pobres, que tengamos más indigentes, donde los chicos se tienen que ir del país para buscar un futuro, digamos, un país condenado a la miseria.  Por eso te pido que al momento de evaluar tu voto te preguntes si preferís la inflación sobre la estabilidad, si preferís esta decadencia en producción y empleo o preferís el crecimiento económico, si querés seguir sosteniendo a esta casta política chorra, corrupta, parasitaria e inútil que lo único que hace es destruir, digamos, nuestra generación de riqueza y hundirnos cada vez más.  En el fondo también te estoy preguntando si vos querés elegir entre el populismo que nos hunde y la República.  Lo que sí te pido es que cuando vayas a votar, lo hagas sin miedo.  porque el miedo paraliza, y si te paralizás, beneficias al status quo, a ese status quo que nos empobrece.  Por ende, nosotros venimos a ofrecerte el modelo de la libertad, un modelo que donde se aplica, los países son ocho veces más ricos que los reprimidos, hay veinticinco veces menos de pobre estándar, cincuenta veces menos en formato extremo, los pobres están muchísimo mejor que el noventa por ciento del país reprimido, la gente vive un veinte por ciento más, Por lo tanto, quiero que tengas una luz de esperanza.  Existe una Argentina mejor, pero esa Argentina mejor solamente es posible si esa Argentina es liberal.  Muchas gracias. ",
+            "cosine_dist": 0.40065919417353757,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 5329.057,
+            "end_time": 5337.382,
+            "text": "Y así terminamos el debate presidencial de la segunda vuelta.  Fue un honor haber participado.  Muchas gracias. ",
+            "cosine_dist": 1.0253321470794492,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 5337.402,
+            "end_time": 5383.814,
+            "text": "Comparto las palabras de Antonio.  Para mí ha sido increíble poder participar esta noche del debate presidencial en una instancia tan importante para la democracia de Venezuela. ",
+            "cosine_dist": 1.0086478071046512,
+            "is_target_speaker": false
+        }
+    ]
+}

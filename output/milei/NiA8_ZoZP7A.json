@@ -1,0 +1,511 @@
+{
+    "Index": 357,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "NiA8_ZoZP7A",
+    "url": "https://www.youtube.com/watch?v=NiA8_ZoZP7A",
+    "title": "MILEI LE RESPONDIÓ A LA RENGA - Javier Milei en TN 7/9/2021",
+    "duration": 986.0,
+    "view_count": 193928,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 0",
+            "start_time": 0.22,
+            "end_time": 3.312,
+            "text": "el uso político de una canción, como ellos hacían en los actos de Cristina. ",
+            "cosine_dist": 0.5135598647735273,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 3.672,
+            "end_time": 13.359,
+            "text": "Bueno, y ahora sí le damos la bienvenida a Javier Milei, es precandidato a diputado nacional por la Ciudad de Buenos Aires, por el partido, por el espacio Libertad Avanza.  Gracias, Milei, por estar con nosotros. ",
+            "cosine_dist": 0.9302111615028228,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 13.48,
+            "end_time": 17.663,
+            "text": "Gracias, Carolina, por invitarme.  Gracias, Nicolás.  Buenas tardes. ",
+            "cosine_dist": 0.6052925565851972,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 17.703,
+            "end_time": 22.687,
+            "text": "Bueno, a ver, vamos a ver un resumen de lo que ha sido su campaña, que ha traído mucha, pero mucha polémica.  A ver... ",
+            "cosine_dist": 0.8993520986877648,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 33.147,
+            "end_time": 55.441,
+            "text": "¡Me meto acá para guiar corderos!  ¡Me meto acá para despertar leones!  ¡Viva la libertad, carajo!  Bueno, sí. ",
+            "cosine_dist": 0.9361961907049163,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 55.461,
+            "end_time": 56.662,
+            "text": "No, vino sin la campera de cuero. ",
+            "cosine_dist": 1.074066235571128,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 57.515,
+            "end_time": 60.52,
+            "text": "Hoy me tocó formal, no de rock and rollero. ",
+            "cosine_dist": 0.7455942933300055,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 62.262,
+            "end_time": 66.569,
+            "text": "Hoy le tocó formal.  A ver, en esencia, ¿qué propone usted? ",
+            "cosine_dist": 0.8980574265364125,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 67.702,
+            "end_time": 93.282,
+            "text": "Básicamente lo que estoy proponiendo es volver a abrazar las ideas de la libertad, volver a las ideas de Alberti y Gorostiaga de la constitución del cincuenta y tres.  Esa constitución que cuando se puso en marcha a partir de mil ocho sesenta, de ser un país de bárbaros, en treinta y cinco años nos convertimos en la primer potencia mundial.  Y eso es posible, se puede hacer, tenemos cómo hacerlo, sabemos cómo se hace.  Lo que hay que hacer es volver a abrazar las ideas de la libertad. ",
+            "cosine_dist": 0.3309802788735723,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 93.422,
+            "end_time": 97.565,
+            "text": "Miles, ¿le puedo pedir que muestre el cuaderno amarillo que tiene ahí? ",
+            "cosine_dist": 0.9616692170709112,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 97.605,
+            "end_time": 99.807,
+            "text": "Sí, claro, cómo no. ",
+            "cosine_dist": 0.7825845886585882,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 99847,
+            "end_time": 100407,
+            "text": "¿Qué es eso? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 101.588,
+            "end_time": 121.642,
+            "text": "Esto es la bandera de Gathden.  Es una de las banderas que se utilizaron en la independencia americana y es una bandera con la cual nos identificamos los libertarios a nivel mundial.  En realidad, los liberales libertarios, o sea, los anarcocapitalistas.  O sea, yo filosóficamente... Soy anarcocapitalista.  En los hechos soy minarquista. ",
+            "cosine_dist": 0.36939906075418716,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 122.423,
+            "end_time": 124.744,
+            "text": "¿Qué significa anarcocapitalista y minarquista? ",
+            "cosine_dist": 0.9594178213895243,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 126.446,
+            "end_time": 188.634,
+            "text": "Vos tenés tres familias de liberales.  Están los liberales clásicos, los minarquistas y los anarquistas.  O sea, los anarcocapitalistas son los que creen en el orden espontáneo y en una sociedad absolutamente libre que ni siquiera requiere de Estado.  Eso es... digamos, y puro orden espontáneo.  El minarquismo es aquella versión del liberalismo que solamente considera la existencia del Estado para seguridad y justicia.  Y después tenés otras versiones liberales que, por ejemplo, admiten la existencia del Banco Central, admiten las regulaciones.  Usted no, usted no se inscribe en esa lista.  No, porque en realidad eso tiene que ver con el parámetro de lo que tiene que ver con la economía neoclásica, con lo que se definen como fallos de mercados.  Y eso, digamos, hay toda una literatura que justifica eso.  y desde mi punto de vista... Toda esa estructura de la teoría económica está mal planteada.  Y por lo tanto, aquellas intervenciones que se hacen en lugar de generar mejores resultados, terminan generando peores resultados. ",
+            "cosine_dist": 0.3096314301354053,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 189.534,
+            "end_time": 190.914,
+            "text": "Pero es minarquista, dijo, ¿no? ",
+            "cosine_dist": 1.0232085648041587,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 191.374,
+            "end_time": 192.434,
+            "text": "Seguridad y justicia, sí. ",
+            "cosine_dist": 0.6995797757078117,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 192.755,
+            "end_time": 195.455,
+            "text": "Pero quieren entrar al Parlamento, que es el poder legislativo. ",
+            "cosine_dist": 0.9787725377160984,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 195.635,
+            "end_time": 200.397,
+            "text": "Bueno, eso no va en contra, digamos, o sea, de... ",
+            "cosine_dist": 0.5802950351682865,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 200.477,
+            "end_time": 202.777,
+            "text": "Pero sin seguridad y justicia no hay Parlamento. ",
+            "cosine_dist": 0.8971394874656278,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 203.197,
+            "end_time": 205.938,
+            "text": "No, es justamente quién va a hacer las leyes si no es el Parlamento. ",
+            "cosine_dist": 0.601833067486417,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 207.037,
+            "end_time": 210.219,
+            "text": "No, bueno, no sé, dijo seguridad y justicia. ",
+            "cosine_dist": 0.9219343013219965,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 210.74,
+            "end_time": 259.528,
+            "text": "Bueno, las leyes para aplicar justicias en general, digamos, en el sistema democrático, se hace dentro del Parlamento.  De hecho, es más, vos, hasta yo puedo tener distintas visiones con otros liberales.  pero la diferencia respecto a lo que es el mundo ideal de cada uno de nosotros es tan grande que entonces queremos cambiar el sistema.  Y desde mi punto de vista hay tres formas de cambiar las cosas.  Una es por la batalla cultural, la cual yo creo que está lesionada y agotada.  Otra que es la vía revolucionaria, la cual yo no comparto porque implica derramamiento de sangre.  Y la otra es meterse adentro del sistema... y básicamente barrar con el status quo.  Si ustedes se fijan, yo soy muy claro en esa definición de lo que es el sistema, porque acabo de hacer referencia a la Constitución de mil ocho cincuenta y tres. ",
+            "cosine_dist": 0.29573665723928866,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 260.188,
+            "end_time": 289.437,
+            "text": "Entiendo eso, pero retomo esta idea de Nicolás.  Usted se candidatea para entrar en el ámbito parlamentario, el ámbito del diálogo por excelencia, el ámbito de la construcción de acuerdos, de los puentes, ¿no?  ¿Con quién podría usted hoy dialogar?  ¿Con quién tendría algún territorio en común para dialogar?  Porque por lo que usted dice, hay una intransigencia total, un quiebre total respecto de todo el resto de la clase política que no pertenezca a su espacio. ",
+            "cosine_dist": 0.9042035718064005,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 291.477,
+            "end_time": 321.031,
+            "text": "Yo lo contestaría en dos partes, porque está muy bueno el punto.  Hay una cuestión que es absolutamente no negociable, y es que todas... Las cuestiones de la política yo las voy a encarar desde una perspectiva moral.  Es decir, por ejemplo, cuando yo estoy en contra del Banco Central, en realidad el primer argumento de todos es de índole moral.  Porque yo te preguntaría, Carolina, ¿estás a favor del robo? ",
+            "cosine_dist": 0.37370111284540664,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 321992,
+            "end_time": 322132,
+            "text": "No. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 322.813,
+            "end_time": 330.758,
+            "text": "¿Estás a favor de que los políticos nos roben que sean corruptos?  No.  El Banco Central nos roba cinco puntos del PBI con impuesto inflacionario.  La discusión es moral. ",
+            "cosine_dist": 0.40556623527699,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 331.038,
+            "end_time": 338.57,
+            "text": "Pero eso es robo... dentro del Código Penal o es un error económico que lleva a que... ",
+            "cosine_dist": 0.8795371031735846,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 338.75,
+            "end_time": 400.659,
+            "text": "No, en realidad, digamos, después viene la argumentación técnica de que nunca puede funcionar bien un banco central.  si quieren hago la enumeración de todas las cosas que tendrían que saber para que funcione, o sea, requeriría que fueran Dios.  Por eso el último libro de Hayek se llama La fatal arrogancia, porque básicamente para que funcione, pretenden ser dioses y la verdad que no lo son.  Ese es el primer punto.  El segundo punto que es muy interesante también para lo que vos planteas, Carolina, es, hay sectores con los que tengo afinidad, Es decir, yo he manifestado públicamente que, por ejemplo, si bien en lo que es el espacio de Juntos por el Cambio jamás tendría algo con los radicales porque son la internacional socialista, jamás tendría algo con la coalición cívica porque son tan socialistas como los radicales, pero dentro de lo que vendría a ser la línea del PRO, yo no tengo ningún problema de sentarme a hablar con el ala de los halcones, que es todo lo contrario del ala de las palomas. ",
+            "cosine_dist": 0.2919747891781178,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 400.679,
+            "end_time": 401.8,
+            "text": "¿Quién sería?  Patricia Bullrich. ",
+            "cosine_dist": 1.0611108862884921,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 401.88,
+            "end_time": 402.74,
+            "text": "Definitivamente. ",
+            "cosine_dist": 0.7838720726987716,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 404.221,
+            "end_time": 420.394,
+            "text": "Pero usted, a ver, usted sabe que lo respeto... Es mutuo.  Sí, gracias.  ¿A usted le parece, digamos, no sé si moral o ético, que sirve para algo haber dicho que Rodríguez Larreta es un zurdo de mierda y que lo pueda aplastar? ",
+            "cosine_dist": 0.9344337613450332,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 421.817,
+            "end_time": 422.717,
+            "text": "Yo lo pondría... ",
+            "cosine_dist": 0.6594193124597164,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 423.958,
+            "end_time": 426.139,
+            "text": "La Star suena obviamente a... ",
+            "cosine_dist": 0.9068546251235758,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 426.219,
+            "end_time": 463.717,
+            "text": "A ver, yo lo pondría en el contexto.  Eso fue una declaración mía en un vivo de Instagram mío.  Es decir, que tiene la lógica de las redes sociales.  Eso en primer lugar.  Si ustedes hacen todo el seguimiento de lo que son mis declaraciones en los últimos dos años, o sea... no es el estilo, digamos, que yo estoy llevando a los medios.  Ahora, en mi espacio, digamos, o sea, me manejo con la lógica de las redes sociales.  Ese es el primer punto.  Y el segundo punto es, no nos quedemos en la discusión de las formas, porque había una discusión de contenido. ",
+            "cosine_dist": 0.304143128007748,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 464.197,
+            "end_time": 473.12,
+            "text": "Lo que más me llama la atención, a ver, usted puede decir aplastar, yo no estoy de acuerdo en que tengan que dialogar así.  Es que le dice zurdo.  ¿Rodríguez Larreta es comunista? ",
+            "cosine_dist": 0.835911294527613,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 473.721,
+            "end_time": 476.502,
+            "text": "Para mí es una persona fuertemente colectivista. ",
+            "cosine_dist": 0.5333164868461937,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 477.022,
+            "end_time": 478.483,
+            "text": "¿Pero es comunista como usted dice usted? ",
+            "cosine_dist": 1.004210155908667,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 479.884,
+            "end_time": 575.477,
+            "text": "Mira, es peor que un comunista.  Porque un comunista por lo menos te va de frente y te dice lo que te va a hacer.  En este caso es muchísimo peor.  Y voy a explicar por.  qué.  Hay un libro maravilloso de Hayek que se llama Camino de Servidumbre.  En ese libro lo que explica Hayek es que cuando aparece un iluminado que cree que hay un fallo de mercado, los cuales no existen, ahí es mi posición austríaca respecto a los neoclásicos, que no admito la regulación, en ese contexto, cada vez que vos haces una intervención, genera lo que se llama el fallo del gobierno.  Es decir, que el resultado es peor que el que vos tenías originalmente.  Y eso, como lleva a mayor demanda de intervención, aun cuando vos tuvieras las mejores intenciones del mundo, te terminan hundiendo.  Sí, eso es lo que le pasó a la experiencia de Venezuela y hay otras experiencias muchísimo más complicadas en la historia de la humanidad.  Entonces, eso por.  un.  lado.  Por otro, digamos, o sea, yo... Les recuerdo que él se sentó junto a Alberto Fernández y Axel Kicillof para cercenarnos las libertades.  Él dejó cerrada la ciudad y mandó un montón de empresas a la quiebra.  Él fue el que dijo voy a ir a buscarlos casa por casa para controlarlo y llamó a los porteros a trabajar de buchones.  en contra de la gente.  Por lo tanto, o sea, hay una gran hipocresía.  Es decir, dice ahora que, digamos, no, los impuestos son bajos y altos y hay que bajarlos.  Porque no los baja, no los baja, o sea, sigue subiéndolos.  O sea, la presión fiscal, digamos, durante la última gestión voló a niveles estratosféricos y además voló el endeudamiento. ",
+            "cosine_dist": 0.31336621153283484,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 577.058,
+            "end_time": 579.379,
+            "text": "Milei, tenemos una pregunta de Sergio Berenstein.  Sergio, adelante. ",
+            "cosine_dist": 1.042546718783111,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 579.872,
+            "end_time": 592.342,
+            "text": "Hola, Javier, buenas noches.  ¿Cómo estás?  ¿Qué tal, Sergio?  ¿Cómo estás?  Bien.  Soy amigo del señor Beres.  Hace muchos años.  Hace rato que no hablamos por una cuestión de profilaxis, pero digo, soy amigo.  Aunque no lo crean, soy amigo de Beres.  Así es.  Tengo amigos. ",
+            "cosine_dist": 0.6238602187778461,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 593.302,
+            "end_time": 594.503,
+            "text": "A ver, Sergio, adelante. ",
+            "cosine_dist": 1.151370783851736,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 595.709,
+            "end_time": 646.711,
+            "text": "Javier, entiendo el punto de tu rechazo por la regulación, pero me surge una duda.  Teniendo en cuenta que hay monopolios naturales, por ejemplo, el gas, la electricidad o el agua, ¿cómo haces para no tener regulación sobre esos sectores?  Sinceramente, eso constituye uno de los problemas... de la estructura neoclásica.  Hay un artículo reciente mío en honor a Alberto Venegas Linchijo y que justamente trata estos temas.  que tiene que ver con un problema que la microeconomía o la economía neoclásica llama convexidades.  A ver, los monopolios, en realidad la definición original de monopolio, que fue allá por el siglo XVI, XVII, que corresponde a Lord Coke, que el hombre, ¿no?  Coke, se llama, o sea, la tenía toda.  Decía monopolio... ",
+            "cosine_dist": 0.46193942219643236,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 646.851,
+            "end_time": 648.192,
+            "text": "Porque está hablando de... ",
+            "cosine_dist": 1.11726744481128,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 649.233,
+            "end_time": 747.507,
+            "text": "Monopolio es solamente cuando el monarca determinaba que se podía vender un solo producto y que el que lo vendía tenía esa exclusividad.  El análisis en general de los monopolios que surgen de la teoría neoclásica y que ameritan esa intervención tienen varios problemas conceptuales.  El primer problema es que es de equilibrio parcial, o sea, solamente mira a un mercado y no contempla los efectos sustitución.  y además consideran solamente un periodo y no la intertemporalidad, es decir, los efectos a futuro.  Además, es falso que el monopolio sea malo, porque supongamos lo siguiente, yo tengo diez empresas compitiendo.  Aparece una que vende un producto de mejor precio, mejor calidad.  Los nueve restantes quebraron.  Y en realidad ese hombre es un benefactor social.  Aparte es falso que hagan daño.  Porque ¿cuál es el problema?  ¿Que gana mucho dinero?  ¿Qué van a hacer con ese dinero?  Bueno, lo pueden gastar en consumo, por lo tanto estimulan otro lado de la economía.  Sí, pueden agarrar y pueden reinvertir, con lo cual van a ofrecer todavía un producto de mejor calidad, un mejor precio.  O, por ejemplo, lo pueden ahorrar.  Y si lo ahorran, financian la inversión y el crecimiento en otro lado.  Y es más, ahora les voy a decir lo perverso que pueden hacer.  Pueden agarrar ese dinero, enterrarlo en el... en Argentina, en el piso, hasta que se pudra.  ¿Sabes qué?  Se va a achicar la cantidad de dinero y van a bajar los precios.  Con lo cual, digamos, si ese monopolio surge de una relación de competencia, eso siempre va a ser bueno, jamás puede hacer daño, porque surge de la propia voluntad de los agentes.  Y hay otra cosa más.  También es cierto que yo puedo decidir no comprarle y lo mando a la quiebra. ",
+            "cosine_dist": 0.3403089366657561,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 748.206,
+            "end_time": 781.894,
+            "text": "Tengo dos preguntas para hacerle y tengo muy poquito tiempo.  Tenemos poquito tiempo.  Vamos a poner primero la placa de lo que ha sucedido con la renga y las declaraciones de la banda musical.  Quien quiera es libre de escuchar, cantar, bailar y poguear las canciones de la renga.  Lo que está mal legal y moralmente es tomarse la libertad de usar esas canciones para una campaña política y beneficio propio.  Un seguidor de nuestra banda jamás haría eso.  Entre nosotros existen lazos y sentimientos.  No queremos tener un disfrazado de amigo hablando de la libertad.  Así en alusión a usted y al uso de una canción de La Renga. ",
+            "cosine_dist": 0.8906264258151703,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 782.734,
+            "end_time": 785.736,
+            "text": "El uso político de una canción, como ellos hacían en los actos de Cristina. ",
+            "cosine_dist": 0.5355966103282267,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 786.436,
+            "end_time": 788.057,
+            "text": "Ellos cobraron ese acto. ",
+            "cosine_dist": 0.9146538377630019,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 788.517,
+            "end_time": 795.2,
+            "text": "Ah, bueno, además.  Bueno, yo digamos, cuando vos haces un espectáculo, o sea, no solo que pagás los derechos, ¿sí? ",
+            "cosine_dist": 0.4931699306267382,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 795.48,
+            "end_time": 796.581,
+            "text": "¿Pero usted pagó los derechos? ",
+            "cosine_dist": 0.9485179617782384,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 796.601,
+            "end_time": 807.767,
+            "text": "Sí, claro.  Ah, porque ellos dicen que había un plazo legal.  Claro, y no solo eso, sino que además, cuando vos haces un espectáculo y, por ejemplo, vas a contrastar el sonido dentro de los impuestos que te cobran, está justamente eso. ",
+            "cosine_dist": 0.47703145040663564,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 807.827,
+            "end_time": 808.867,
+            "text": "O sea, le pagás ahí. ",
+            "cosine_dist": 1.0119454203905296,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 808.927,
+            "end_time": 830.047,
+            "text": "Exactamente.  Y la otra es, o sea, la pregunta es... a los muchachos de La Renga ¿saben qué?  me están contando que digamos o sea los Fogarty siglos de Creedence van a demandar entonces la hinchada de boca porque hacen la canción esa que se siente digamos con la música de Creedence es decir que digamos voy a una fiesta no puedo cantar una canción. ",
+            "cosine_dist": 0.3680424406861317,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 830.087,
+            "end_time": 831.289,
+            "text": "La Renga tocó para Cristina. ",
+            "cosine_dist": 1.0021377910781692,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 832.707,
+            "end_time": 854.8,
+            "text": "No, bueno, pero no, no, no, no, no, Nicolás, por favor.  Yo lo que estoy haciendo es que si ellos dicen que yo lo estoy usando con un fin político, ¿ellos cómo lo usaron?  O sea, lo que estoy mostrando es la contradicción de ellos.  Pero la restricción no la puse yo.  El comunicado se lo escribí yo.  Parece que me lo hubieran hecho a propósito para que me divierta un ratito con las inconsistencias que tienen los kirchneristas. ",
+            "cosine_dist": 0.42739280412825487,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 856.921,
+            "end_time": 883.195,
+            "text": "Tengo un minuto final, Milei, pero le quiero hacer esta pregunta.  Lo hemos visto en sus actos y lo vemos también por los seguidores que tienen las redes sociales.  Hay un electorado joven que lo sigue a usted.  Hay parte de un electorado joven que lo sigue a usted.  ¿Cuál es su propuesta o en qué orden de prioridad está hablarle y atender a ese gran tema de la Argentina que es la cantidad de personas excluidas, la cantidad de pobres que tiene nuestro país? ",
+            "cosine_dist": 0.9113389258003519,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 883.555,
+            "end_time": 943.497,
+            "text": "Mirá, la única forma de salir de la pobreza es creciendo.  Cuando llegó al mundo el liberalismo y el capitalismo, vivían menos de mil millones de seres humanos y el noventa y cinco por ciento vivía debajo de la pobreza extrema, con menos de un dólar diario.  A partir de la llegada del capitalismo, hoy viven siete mil ochocientos millones de seres humanos en el planeta y antes de la pandemia ese número era menos del cinco por ciento.  Ahora saltó por los efectos de la cuarentena cavernícola.  Por lo tanto, lo que yo vengo a proponerles es el modelo de la libertad.  El modelo que hizo grande a la Argentina, que lo convirtió en una potencia mundial.  El modelo que nos va, digamos, o sea, de donde se lo aplica, funciona.  El caso más reciente es el de Irlanda.  Era el país más miserable de Europa.  Hoy tiene un PIB per cápita del país.  Es decir, en definitiva, lo que yo vengo a proponerles es... el resurgimiento de la Argentina, que Argentina vuelva a ser potencia.  Y eso solamente se alcanza volviendo a abrazar las ideas de la libertad, que no es ni más ni menos las ideas que estaban en la constitución de Alberti y Gorostiaga. ",
+            "cosine_dist": 0.38508853979047375,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 943.517,
+            "end_time": 945.12,
+            "text": "Muchísimas gracias, Milen, por venir. ",
+            "cosine_dist": 0.9951279383640108,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 945.14,
+            "end_time": 946.021,
+            "text": "Gracias a ustedes, un placer. ",
+            "cosine_dist": 0.7969708671290393,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 947.432,
+            "end_time": 957.499,
+            "text": "Bueno, nos vamos a ir a una pausa, pero atención porque Sergio Bernstein tiene preparado un análisis muy, muy interesante y pormenorizado de lo que está sucediendo en Brasil.  Por cierto, mi ley lo ha apoyado el hijo de Bolsonaro. ",
+            "cosine_dist": 0.9556742137241774,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 957.559,
+            "end_time": 960.261,
+            "text": "Eduardo Bolsonaro lo ha apoyado usted.  Sí, exactamente. ",
+            "cosine_dist": 0.7788634536827493,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 960.921,
+            "end_time": 985.58,
+            "text": "Ha recibido apoyo.  Bueno, son días muy, muy convulsionados en Brasil.  Basta de basura keynesiana, ha llegado el momento liberal.  Tenemos un líder y él es un gran rebelde. ",
+            "cosine_dist": 0.9306694665831283,
+            "is_target_speaker": false
+        }
+    ]
+}

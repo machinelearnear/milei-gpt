@@ -1,0 +1,871 @@
+{
+    "Index": 403,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "ui3w2K-Kg7Q",
+    "url": "https://www.youtube.com/watch?v=ui3w2K-Kg7Q",
+    "title": "\"VOY A SER CANDIDATO EN LA CIUDAD ¡Y VOY SOLO!\" - Javier Milei en La Nación + 9/6/2021",
+    "duration": 1603.0,
+    "view_count": 25296,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 2",
+            "start_time": 540,
+            "end_time": 970,
+            "text": "Gracias. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1.37,
+            "end_time": 3.192,
+            "text": "Un placer.  ¿Le das una pregunta de mi parte a Mirai? ",
+            "cosine_dist": 0.8462782818365469,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 3.612,
+            "end_time": 4.613,
+            "text": "¿Me la dejas?  Sí. ",
+            "cosine_dist": 0.9029111866341507,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 5.054,
+            "end_time": 10.679,
+            "text": "¿Por qué nos enfocamos en contener la micro y nunca solucionamos la macro?  Pregúnteselo a usted. ",
+            "cosine_dist": 0.750241000522171,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 11.279,
+            "end_time": 14.762,
+            "text": "Porque es que arreglemos lo grande para después poder ir a los efectos conducentes de los chicos. ",
+            "cosine_dist": 0.8270494478911535,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 14.782,
+            "end_time": 16.464,
+            "text": "Pero pregúntesele que él sabe de estos temas. ",
+            "cosine_dist": 0.8500936454351067,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 17.398,
+            "end_time": 24.003,
+            "text": "¿Qué dijo Javi el presidente hoy, que ha dado tanto que hablar,  etc.,  cuando estuvo con Pedro Sánchez, el presidente español? ",
+            "cosine_dist": 0.7655255261260507,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 24.444,
+            "end_time": 39.496,
+            "text": "Bueno, un blooper de Alberto Fernández hoy con el presidente de España, con Pedro Sánchez.  ¿Querés saber, Paulino, según el presidente de España, de dónde vienen los brasileños, de dónde vienen los mexicanos y de dónde venimos los argentinos? ",
+            "cosine_dist": 0.8036263927745161,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 39.856,
+            "end_time": 41.757,
+            "text": "¿De dónde?  Lo escuchamos. ",
+            "cosine_dist": 0.9163245984795721,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 41.958,
+            "end_time": 44.52,
+            "text": "Bueno, vamos a verlo, porque ahí está la respuesta. ",
+            "cosine_dist": 0.9664682250748878,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 46.844,
+            "end_time": 48.425,
+            "text": "Esto decía Alberto Fernández hoy. ",
+            "cosine_dist": 0.9036293911357866,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 49.986,
+            "end_time": 64.936,
+            "text": "Mexicanos salieron de los indios, los brasileros salieron de la selva, pero nosotros los argentinos llegamos de los barcos.  Y eran barcos que venían de allí, de Europa.  Y así construimos nuestra sociedad. ",
+            "cosine_dist": 0.8719918079101585,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 65.616,
+            "end_time": 68.518,
+            "text": "Bueno, sí, mi viejo vino en barco. ",
+            "cosine_dist": 0.8881577803924354,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 69.514,
+            "end_time": 73.418,
+            "text": "Pero no había nadie acá. ",
+            "cosine_dist": 0.8145031596917833,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 73.459,
+            "end_time": 74.46,
+            "text": "¿Qué haces, Javier?  ¿Cómo estás? ",
+            "cosine_dist": 0.8215335152026962,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 74.48,
+            "end_time": 75.561,
+            "text": "¿Qué tal, Paulino?  Un gusto enorme. ",
+            "cosine_dist": 0.9800453553916806,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 75581,
+            "end_time": 76081,
+            "text": "¿Puedo tutear? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 76.882,
+            "end_time": 78.004,
+            "text": "Por supuesto.  Un rato. ",
+            "cosine_dist": 0.9123829863033359,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 79365,
+            "end_time": 79746,
+            "text": "¿Qué es eso? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 81.69,
+            "end_time": 286.619,
+            "text": "Mira, la verdad es que es un canto, es la oda a la ignorancia.  ¿Vos sabés que hay un libro que se llama Cuatro mil años de controles de precios y salarios?  El subtítulo es Cómo no combatir la inflación.  Esto, digamos, o sea, se viene intentando desde el dos mil ochocientos antes de Cristo en la quinta dinastía de los sumerios.  Nunca funcionó.  ¿Vos querés un caso patente del siglo XX que nunca funcionó?  Argentina en la segunda mitad del siglo XX en adelante, en el único periodo que no tuvo controles de precios, ¿sabés cuándo fue?  Con la convertibilidad.  Justo en el único momento que no hubo inflación.  Entonces, en realidad, la pregunta es si siempre fallan, si no logran contener la inflación, si lo único que genera es desabastecimiento y... Lo peor de todo es el recrudecimiento de los controles y la violencia del Estado.  Y fíjate esto, porque el otro día en un programa la señora Mora Godoy pedía que el Estado reprimiera a los supermercadistas.  ¿Vos te pensaste en hacer esa cuenta, al margen del avance sobre la propiedad privada, de la violencia que implica eso?  ¿Vos te pensaste que...?  No solo que cuando le hacés eso y que cerrás el local dejaste un montón de familias sin trabajo, la dejás sin posibilidad de consumir, sino que además, si vos eso lo generalizás, la pregunta es, ¿y mañana dónde compramos las cosas?  ¿Me comprendes?  Sí, claro.  Entonces, ¿y ahora?  por qué lo hacen?  Porque distrae la atención, pone la causa en otro lugar.  Hay dos hipótesis sobre el origen de la inflación.  Hay un conjunto de personas que consideran que la inflación es un problema vinculado a los costos.  Entonces sumas los costos, entonces la culpa es de los trabajadores, la culpa es de los empresarios, la culpa es de cualquiera.  Menos del gobierno.  Ahora, después hay otra, que es la teoría monetaria de la inflación, que es la que está validada empíricamente, la que abraza a todo el mundo que no tiene inflación, salvo Argentina y Venezuela, que dice que la inflación es siempre y en todo un lugar un fenómeno monetario.  En la medida que la cantidad de dinero crece por encima de la demanda, el poder adquisitivo del peso cae y todos los bienes expresados en unidades monetarias suben.  Pero no es que en realidad... Estados Unidos hoy... Bueno, digamos, en parte porque se cayó la demanda de dinero con las cositas que va diciendo Biden también.  O sea, vos tenés toda la expansión del año pasado.  que emitieron contra demanda de dinero, porque la gente se asustó, pero cuando te salís del pánico, ¿qué pasa?  Tenés que volver para atrás, porque si no queda el exceso de oferta de dinero, primero se te genera una burbuja en los activos financieros y después, vía el efecto riqueza, te genera un boom de consumo que te empieza a meter presión sobre el nivel de precios.  También lo otro que hay que explicarle al señor Kulf, a la señora Paula Español, a la señora Todesca, que parece que... Yo no sé si, o el señor Guzmán, yo no sé si son ignorantes o son intelectualmente deshonestos.  Porque cuando Friedman explica esto, dice, mire que la inflación, o sea, usted emite hoy... Es como cuando vos empezás a tomar alcohol.  Primero vienen los efectos divertidos, después viene la resaca.  Bueno, tarda dieciocho meses en impactar, digamos, lo que vos hacés con la política monetaria. ",
+            "cosine_dist": 0.2951217369441336,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 286.639,
+            "end_time": 291.302,
+            "text": "¿Vos creés que el dos mil veinte y la política monetaria del dos mil veinte va a impactar en el segundo semestre de este año? ",
+            "cosine_dist": 0.8754190082448291,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 291.322,
+            "end_time": 335.125,
+            "text": "¿Y a vos qué te parece, Paulino?  Habíamos arrancado con uno y medio, digamos, en abril del año pasado tenías uno y medio.  Te fuiste casi al triple.  O sea, es más, y eso que vos tuviste cerca del setenta por ciento del índice frizado, porque vos, ¿qué consumías el año pasado?  Alimentos, servicios públicos que estaban pisados, ¿sí?  Y bienes, digamos, vinculados a la higiene.  Y es más, todo lo que tiene que ver con los alimentos, como vos tenías una brecha cambiaria enorme, ahí tenías inflación reprimida.  De hecho, digamos, hoy la inflación... Así como la estás mirando, anualizada viene viajando al sesenta por ciento en consumidor.  Con solo que corrigieras la brecha cambiaria te vas a cien por ciento. ",
+            "cosine_dist": 0.30253767016573374,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 337.065,
+            "end_time": 339.227,
+            "text": "¿Qué sería corregir la brecha, cambiar y llevar el dólar a dónde? ",
+            "cosine_dist": 0.9507438760875067,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 339.787,
+            "end_time": 342.87,
+            "text": "Sincerarlo y que vaya al valor de mercado que tiene hoy, por.  ejemplo. ",
+            "cosine_dist": 0.47966561233657723,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 342.95,
+            "end_time": 355.7,
+            "text": "¿Pero no es este de ciento cincuenta?  Porque el gobierno parece haberlo domesticado.  Estuvo ciento noventa en septiembre del año pasado y todo el mundo aventuraba un dólar arriba de doscientos.  Guzmán pugnó por un presupuesto en ciento dos promedio el oficial y hoy anda ahí. ",
+            "cosine_dist": 0.8082166281192749,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 356.921,
+            "end_time": 361.385,
+            "text": "A ver, si fuera ese precio fuera de equilibrio, que lo liberen. ",
+            "cosine_dist": 0.5655440408613667,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 362.732,
+            "end_time": 367.293,
+            "text": "¿Vos crees que si se libera, si se sacan los cepos,  etc.,  la economía tendría un dólar a doscientos, por?  ejemplo? ",
+            "cosine_dist": 0.8229603864914193,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 367.793,
+            "end_time": 385.156,
+            "text": "No lo sé, lo van a decidir los agentes, pero por algo vos tenés el cepo.  Y aparte el cepo es sumamente perjudicial, porque ese exceso de demanda que vos tenés de divisa es un exceso de oferta en todo el resto de la economía, y eso implica altas tasas de interés, frenar la actividad, frenar el empleo. ",
+            "cosine_dist": 0.355243599001983,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 385.896,
+            "end_time": 415.789,
+            "text": "Nada es inocuo, correcto.  Pero me pongo una boda del diablo.  En dos mil dieciocho, cuando empieza el año, el dólar estaba a treinta.  ¿Más o menos?  ¿Está bien?  Sí, casi treinta.  Veintitrés.  Hoy está a ciento cincuenta.  Es un dólar que se multiplicó por cinco veces y media, casi seis.  Hay algunos que dicen, nunca antes hubo un dólar tan alto y tan competitivo para la economía argentina, porque en el medio de los precios se duplicaron, triplicaron en algún caso, cuadruplicaron, si vos querés, pero no acompañaron al dólar.  ¿Está bien?  ¿Hay algo de eso o no? ",
+            "cosine_dist": 0.7092100385375659,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 416.229,
+            "end_time": 416.99,
+            "text": "No, eso es un análisis... ",
+            "cosine_dist": 0.6921542064676027,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 417.01,
+            "end_time": 418.491,
+            "text": "¿No es un dólar miedo a ciento cincuenta? ",
+            "cosine_dist": 0.8777809297783911,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 418.511,
+            "end_time": 420.392,
+            "text": "No, eso es un análisis incorrecto. ",
+            "cosine_dist": 0.5805584795245269,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 420652,
+            "end_time": 420912,
+            "text": "Ok. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 421.453,
+            "end_time": 484.256,
+            "text": "Porque... Vos no podés ignorar los problemas de la escala nominal de la economía.  O sea, si yo tengo una base monetaria dando vuelta, pero tengo una escondida, una base y media en el elixir y pases, en algo que en treinta días te puede multiplicar por dos coma cinco veces la cantidad de dinero, pará.  Si yo, digamos, o sea, además, tengo un déficit fiscal, si yo replicara el del año pasado, ahora digo, están ajustando, pero si yo replicara el déficit fiscal del año pasado, ¿qué hago?  Mete una base monetaria más.  O sea, entonces, si yo tengo que multiplicar la base monetaria por tres veces y media, ¿el nivel de precios es el mismo?  No, o sea, cuando cae el poder adquisitivo, no es que el dólar sube, es la pérdida del poder adquisitivo del peso, entonces tenés un despiole de oferta monetaria por ahí, tenés un sobrante monetario enorme, M.U.  no debería ser cuatro puntos del PBI, es dos, o sea, entre tres y los tres y medio.  del otro lado, tenés un desequilibrio monetario subyacente de diez coma cinco veces, o sea, eso no termina bien. ",
+            "cosine_dist": 0.3505597006115061,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 485.128,
+            "end_time": 541.116,
+            "text": "no termina bien, yo tengo que ir escuchando con que no termina bien, sigo una boda del diablo, presagiando que alguna hiper venía, etc.  Y el gobierno te puede decir, mirá, los agoreros de siempre terminaron fracasando, acá tenemos un tipo de cambio medianamente controlado, por supuesto que la inflación es devastadora, incluso para los propios, y les está pesando mucho en términos políticos y electoralmente hablando.  quizás lo paguen caro, más que cualquier otra cosa.  Pero también, mientras todo eso pasa, hay un sector que entiende que hay una especie de reactivación incipiente, que si hay un mayor flujo de vacunas, quizás una apertura más importante en agosto, septiembre, todos estemos en una nueva seminormalidad que implica un cambio de humor, que implica un cambio de expectativas, que en consecuencia lo asfixiante haya quedado atrás y que todo vuelva a ser más o menos como en la Argentina nos hemos acostumbrado a que son las cosas. ",
+            "cosine_dist": 0.7051944439054917,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 542.481,
+            "end_time": 641.803,
+            "text": "¿Crees en eso o no?  No.  Y voy a explicar por partes.  Primero el tema de la hiper y por otra parte voy a explicar el tema de la supuesta recuperación.  Dale.  A ver, el monstruo de la hiper va cambiando.  O sea, vos tenías que cuando el kircherismo se fue... El riesgo de la hiper era el dólar futuro.  Bueno, ese monstruo llamado dólar futuro después mutó, se pasó a llamar otra cosa, porque todo ese exceso de dinero se transformó en qué?  En Levax.  ¿Sí?  Eso estalló en el dos mil dieciocho, porque yo te recuerdo, digamos, el Banco Central a lo largo del dos mil dieciocho perdió veintidós mil millones de dólares.  Correcto.  O sea que con eso, digamos, vos podrías quitar toda la base monetaria, o sea, con lo cual, digamos, te terminaste... de eliminar el problema de la inflación.  Entonces, no es que no ocurrió.  Si vos haces el contrafáctico, la inflación contrafáctica en un comportamiento lineal de la gente que sale ordenadamente, sabes que eso nunca pasa, ¿no?  Correcto.  Bueno, o sea, en ese contrafáctico, las reservas que vos vendiste por veintidós mil millones de dólares, te evitó una inflación del seiscientos por ciento.  ¿Y ahora?  ¿Y qué te pasó?  Y de ahí saliste y tenés la Lelix.  Y ahora tenés una base monetaria y media en Lelix y Pase, la potencialidad de emitir otra base monetaria más, un desequilibrio en M-Uno de tres veces a uno.  Es decir, no es que, digamos, no ocurrió.  O sea, este gobierno que tanto se queja del anterior, de la deuda, bueno, parte está ahí. ",
+            "cosine_dist": 0.32148238986692634,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 643.023,
+            "end_time": 644.204,
+            "text": "O sea, que este gobierno toma deuda. ",
+            "cosine_dist": 0.7760639824490485,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 645.606,
+            "end_time": 647.807,
+            "text": "Y el déficit fiscal, digamos, ¿con qué lo financia? ",
+            "cosine_dist": 0.5817844261408012,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 647.847,
+            "end_time": 650.847,
+            "text": "Sí, claro, y está tomando deuda tan peligrosa o más peligrosa... ",
+            "cosine_dist": 0.7161194640264712,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 650.907,
+            "end_time": 656.549,
+            "text": "Claro, porque financia al fisco y la esteriliza con Lelix, o sea, y pases. ",
+            "cosine_dist": 0.5670143928610328,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 656.909,
+            "end_time": 658.229,
+            "text": "Que hay más de tres billones. ",
+            "cosine_dist": 0.868465368776399,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 658.529,
+            "end_time": 665.131,
+            "text": "Sí, exacto, digamos, suele oscilar entre ciento veinte y ciento cincuenta por ciento de la base monetaria. ",
+            "cosine_dist": 0.40504512719124797,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 665.151,
+            "end_time": 668.952,
+            "text": "A ver, de todos los pesos que están en circulación, hay el doble... ",
+            "cosine_dist": 0.7648588126392483,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 669.192,
+            "end_time": 687.167,
+            "text": "Hay uno y medio... de papeles escondidos adentro del Banco Central.  ¿Te acordás cuando se quejaban de las LEVACs?  Bueno, esto es mucho peor todavía.  O sea, vos tenés una base monetaria acá y escondía una base monetaria y medio.  Hablame de la economía del llano. ",
+            "cosine_dist": 0.39680844412810934,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 687.648,
+            "end_time": 688.928,
+            "text": "¿Empleo se recupera o no? ",
+            "cosine_dist": 0.7042278247162055,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 689.489,
+            "end_time": 696.553,
+            "text": "A ver, salió un dato verdaderamente devastador.  Tenemos casi doscientos cincuenta mil menos puestos de trabajo que hace diez años. ",
+            "cosine_dist": 0.43614112705799035,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 697993,
+            "end_time": 698554,
+            "text": "Hoy, que hace diez años. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 698.574,
+            "end_time": 762.91,
+            "text": "Claro, la población sigue creciendo, la población económicamente activa sigue creciendo.  Y al señor presidente lo único que se le ocurre es hablar en contra del capitalismo, que es lo único que sacó gente de la pobreza, porque antes del capitalismo... vivían menos de mil millones de seres humanos en el planeta tierra y había noventa y cinco por ciento de pobres extremos.  o sea hoy antes de la crisis ese número era menos del cinco por ciento pero con siete mil ochocientos millones de seres humanos.  o sea se le ocurre ir contra la propiedad privada ya sea vía controles de precios o hablando de reforma agraria implícitamente digo con lo cual va contra el sistema de precios va contra la propiedad privada con lo cual digamos o sea derrumba la inversión argentina.  o sea Ya, digamos, en la última parte del gobierno de Cristina Fernández de Kirchner no invertía lo mínimo para reponer el capital.  O sea, y no por nada, digamos, Argentina, o sea, ¿sabes que si este año le saliera todo bien como el gobierno dice, tendríamos un PBI per cápita entre quince y dieciocho por ciento menor?  que el que teníamos en el dos mil once, que fue el último año que se expandió la economía. ",
+            "cosine_dist": 0.3768683328488225,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 762.93,
+            "end_time": 767.174,
+            "text": "Se permitió el cincuenta y cuatro por ciento por entonces.  Exacto. ",
+            "cosine_dist": 0.8155204630262152,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 767.454,
+            "end_time": 811.759,
+            "text": "Pero aparte hay otras cosas.  O sea, todo lo que vos ves de la recuperación es el rebote del gato muerto.  Estás comparando con otro dato malísimo.  Pero cuando vos empezás a mirar los últimos tres meses, la actividad se está aplanando, se está achatando.  O sea, con lo cual, digamos, la economía está perdiendo impulso.  Entonces, vos reventaste a las empresas, las mandaste a la quiebra, le comiste el capital de trabajo y ahora le querés poner controles de precios, las vas a destrozar.  O sea, acá, digamos, lo que no se entiende es que creen que, digamos, se genera riqueza desde estimular la demanda.  La única forma que vos tenés para crecer es acumulando capital.  Capital físico, capital humano y tecnología.  Basta, se acabó.  O sea, vos no podés, o sea, acaso, digamos, vos... Si fuera así, digamos, ¿puedo tener tarjeta de crédito? ",
+            "cosine_dist": 0.40505245690286074,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 812.299,
+            "end_time": 812.919,
+            "text": "Sí. ",
+            "cosine_dist": 0.9395413682523589,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 812.959,
+            "end_time": 819.963,
+            "text": "¿Sabés que andé a romper a todas?  Porque según esa hipótesis, si vos consumís tanto más, te va a aumentar el ingreso.  ¿Qué va a pasar el mes que viene? ",
+            "cosine_dist": 0.47048037242879603,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 821.484,
+            "end_time": 822.184,
+            "text": "Quiere tener problemas. ",
+            "cosine_dist": 0.96553466379898,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 822.485,
+            "end_time": 828.148,
+            "text": "Bien, se llama Argentina.  Esa receta la venimos aplicando hace más de cien años. ",
+            "cosine_dist": 0.4757451066430328,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 828.208,
+            "end_time": 829.428,
+            "text": "¿El gobierno es un vamos viendo? ",
+            "cosine_dist": 0.7816870256971777,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 830.669,
+            "end_time": 876.043,
+            "text": "El gobierno es un desastre.  Pero está mostrando un desprecio por la evidencia empírica y los hechos estilizados que han hecho que el mundo esté mejor, que estamos cada vez peor, Paulino.  A ver, para ponerlo en estos términos, Argentina entró al siglo XX siendo el país más rico del mundo.  Entró a la pandemia a setenta.  O sea, en ciento veinte años perdimos sesenta y nueve puestos.  En el último año perdimos cincuenta.  Hoy Argentina es furgón de cola de América Latina, porque al tipo de cambio paralelo, que es el que hay, el PIB per cápita de Argentina es menor que el de Paraguay, está al nivel de Belize.  Somos furgón de cola de América Latina. ",
+            "cosine_dist": 0.38769053220016025,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 877.811,
+            "end_time": 884.614,
+            "text": "¿Crees que hay acuerdo con el Club de París, al menos, patear para adelante los pagos y al mismo tiempo un acuerdo de facilidades extendidas con el fondo antes del fin de año? ",
+            "cosine_dist": 0.8743395047538121,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 885.654,
+            "end_time": 891.876,
+            "text": "Lo veo difícil, porque a ver, el Club de París, Argentina ya le faltó, tenía que pagar, no pagó. ",
+            "cosine_dist": 0.4480277123994122,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 892.196,
+            "end_time": 893.417,
+            "text": "Tiene, sí, sesenta días. ",
+            "cosine_dist": 0.9482572148451549,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 893.517,
+            "end_time": 930.764,
+            "text": "Tiene sesenta días para curar la situación, pero tenía que pagar, no pagó.  Correcto.  O sea, fíjate, digamos, cuántos dólares que sobran en Argentina, que claro que es ese tipo de cambio paralelo.  ¿Y cómo Argentina no puede conseguir dos mil cuatrocientos palitos?  Dale.  En un mundo con las tasas cero y los términos de intercambio en las nubes.  ¿No te parece que anda algo mal ahí?  O sea, algo huele podrido.  Pero fíjate esto.  Entonces, no pudimos conseguir dos mil cuatrocientos palos.  Le defaulteamos.  ¿Qué dice?  Vaya y consiga un acuerdo con el FMI.  Argentina, para poner sus cuentas en orden, tiene que hacer un ajuste de más o menos de nueve puntos el PBI. ",
+            "cosine_dist": 0.3160803720540677,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 934.923,
+            "end_time": 987.473,
+            "text": "Javi, hablemos de política un poquito, dale.  Sí, Milei, llego al terreno primero de la política, porque está el armado liberal en disputa.  Quiero preguntar si vos estás de acuerdo con la idea de José Luis Spert de hacer una gran interna en la provincia de Buenos Aires para terminar con Kicillof y en la ciudad de Buenos Aires, bueno, ¿cuál es la idea?  Y por el otro lado, te pregunto sobre las declaraciones de Fernanda Vallejos.  que habló del tema de los aumentos de sueldo de los diputados, cuarenta por ciento, los diputados van a pasar a ganar cerca de doscientos cincuenta mil pesos, dijo que dan un poco de vergüenza esos números, que ella debería ganar más porque es representante de la voluntad popular, se comparó con los CEOs, dijo que los CEOs tienen afán de lucro privado.  Te quiero preguntar qué opinas de esa frase y después si querés me respondes lo de la política. ",
+            "cosine_dist": 0.7747480103739529,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 989.364,
+            "end_time": 1046.892,
+            "text": "Ay, ay, ay.  La señora Fernanda Vallejo no entiende cómo funciona la economía.  Vos en el capitalismo solamente podés ser exitoso sirviendo al prójimo con bienes de mejor calidad o mejor precio.  O sea, si vos ganás plata, sos un benefactor social, la misión social del empresario, ¿sabés cuál debería ser?  Ganar dinero.  Porque eso significa proveer... a la población con bienes de mejor calidad, un mejor precio, y además crear fuentes de trabajo.  Es un héroe.  En cambio, la señora Fernanda Vallejos es un parásito que se financia con una fuente coactiva.  de ingresos que se llama impuestos.  Los impuestos se llaman impuestos, no se llaman voluntarios, son impuestos.  De hecho, para mí hasta es agresivo llamar al pagador de impuestos contribuyente, porque llamar al pagador de impuestos contribuyente es como que el violador llame a su víctima novia.  O sea, vos no pagás. ",
+            "cosine_dist": 0.3415868072385002,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1046.932,
+            "end_time": 1053.314,
+            "text": "No sos un contribuyente, sos alguien que paga porque tiene la responsabilidad, no porque tiene la responsabilidad, sino porque es ley. ",
+            "cosine_dist": 0.7774491140409616,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1053.534,
+            "end_time": 1056.796,
+            "text": "Y claro, porque vos te crees que la gente paga voluntariamente. ",
+            "cosine_dist": 0.4751850135478144,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1056.976,
+            "end_time": 1060.437,
+            "text": "No, no, por eso digo, uno puede hacer un aporte a la asociación cooperadora de la escuela. ",
+            "cosine_dist": 0.7242078095463093,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1061.778,
+            "end_time": 1073.923,
+            "text": "Bueno, sería voluntario, eso es otra cosa, pero no es el caso.  Es más, fíjate esto, al pobre Al Capone lo acusaron de asesino, de traficante, ¿y por qué fue preso?  Estamos hablando de Estados Unidos. ",
+            "cosine_dist": 0.3745991307529727,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1073943,
+            "end_time": 1074383,
+            "text": "Estuvo impuesto. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1074.984,
+            "end_time": 1081.026,
+            "text": "Ah, ok.  La de ellos no se toca.  Y eso también tiene que ver... ¿Sabes que el Congreso de la Nación... ",
+            "cosine_dist": 0.44540188947059467,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1081.046,
+            "end_time": 1082.147,
+            "text": "Tampoco Capone era un pobre, ¿no? ",
+            "cosine_dist": 0.8758866550457851,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1083.167,
+            "end_time": 1134.607,
+            "text": "No, Al Capone es una víctima del sistema.  Al Capone es una víctima del sistema.  ¿Cómo fue la situación?  Estaban los borrachines de Chicago, iban al bar, tomaban alcohol, estaban todos felices y un día vino un señor de la poltrona, que le pareció que eso estaba mal y lo prohibió.  Entonces, fíjate, pobre el dueño del bar.  Se quedó sin negocio.  Todos aquellos que producían las bebidas que se utilizaban en el bar, lo mal que les fue y todo lo que dejaron de consumir como eso, fíjate los que iban a tomar algo al bar, no pudieron tomar más.  O sea, mirá todo el desastre que causó ese hombre.  Entonces, digamos, ¿qué era Al Capone?  Era un trader.  O sea, dijo, uy, acá tengo una oportunidad, voy y le compro a los que producen y se los vendo a los que quieren tomar.  ¿Sí?  El señor era un trader, estaba arreglando el daño que hizo un político.  ¿Sí?  Y como el negocio... ",
+            "cosine_dist": 0.35898149850891437,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1134.627,
+            "end_time": 1136.189,
+            "text": "Estás haciendo una reivindicación del Capone. ",
+            "cosine_dist": 0.9386772484805302,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1136.529,
+            "end_time": 1183.404,
+            "text": "Sí, obvio, claro.  Y no solo eso, sino que además, como estaba arreglando el problema que generó el político, entonces, ¿qué pasa?  Había mucho retorno.  ¿Y cómo había mucho retorno?  ¿Por qué?  Porque había un imbécil que se llamaba Elliot Ness y los perseguía hasta abajo de la mesa.  Y hacía que el negocio fuera súper riesgoso.  Entonces, como... Mucho riesgo, mucho retorno.  Entonces atraía gente peligrosa.  ¿Y cómo lo resolvían?  A los tiros.  ¿Me entendés?  Pero, ¿qué pasó después?  A ver, hoy, digamos, ¿qué sería el Capone?  ¿Sería un delincuente o sería un trader?  El problema no fue Al Capone, el problema fue la presencia del Estado regulando el alcohol y el de Onés en el medio. ",
+            "cosine_dist": 0.36980867996305544,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1183.684,
+            "end_time": 1184.926,
+            "text": "Javier, es una pregunta política. ",
+            "cosine_dist": 0.8231120642229508,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1185.046,
+            "end_time": 1192.773,
+            "text": "No, no, pará, pará, porque todavía le debo lo de Fernanda Vallejos.  Todavía tengo cosas en el carretel para la señora Fernanda Vallejos. ",
+            "cosine_dist": 0.4289974148440221,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1192.793,
+            "end_time": 1194.996,
+            "text": "Te lo pregunto porque es colega tuya, no es economista. ",
+            "cosine_dist": 0.881982749705547,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1195.496,
+            "end_time": 1233.394,
+            "text": "Bueno, sí, cada uno tiene credencial de economista.  O sea, tendrá la credencial de ahí a ser economista y un abismo.  O sea, ¿y cuál es el punto?  El punto es el siguiente.  ¿Vos sabés que el Congreso se llama Honorable Congreso de la Nación Argentina?  ¿Sabés por?  qué?  Porque originalmente los legisladores iban a Donorex.  O sea, yo, por ejemplo, que voy a mandar un proyecto para renunciar a la dieta.  Si sos electo diputado.  Sí, claro.  Y no solo eso.  A la dieta o al salario?  A todo.  A todo concepto.  No quiero un mango del pagador de impuestos argentino. ",
+            "cosine_dist": 0.37318401400044554,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1233.654,
+            "end_time": 1237.157,
+            "text": "Y le vas a querer cobrar menos impuestos.  Obvio.  Para pregonar con el ejemplo. ",
+            "cosine_dist": 0.7917558150307678,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1237.217,
+            "end_time": 1238.117,
+            "text": "Obviamente, claro. ",
+            "cosine_dist": 0.8329166622059436,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1238.377,
+            "end_time": 1239.518,
+            "text": "Y ser consecuente con tu... ",
+            "cosine_dist": 0.9135623616825465,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1240.179,
+            "end_time": 1265.24,
+            "text": "Con mi filosofía, obvio.  Pero no solo eso.  Pero lo que tenés que comprender es que la señora Fernanda Vallejos, con las cosas que hace, regalada es cara.  Es decir, lo mejor que podría hacer, si Fernanda Vallejo cree que, digamos, gana poco, le triplico el sueldo y le pido, por favor, que no haga más nada, que se calle y se quede sentadita en la casa haciendo otra cosa.  Porque, digamos, cada una de las cosas que propone son verdaderamente saberrantes, son el camino a la pobreza. ",
+            "cosine_dist": 0.3579740362482049,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1266.642,
+            "end_time": 1268.904,
+            "text": "¿Vos creés que es ella o Cristina Fernández de Kirchner? ",
+            "cosine_dist": 0.8646746731717229,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1269.921,
+            "end_time": 1340.462,
+            "text": "Es tan poca la diferencia.  Tampoco hay mucha diferencia con Cecilia Todesca, con Culfas, con Paula Español, con Axel Kicillof, con Augusto Costa.  Son todo lo mismo.  Paula Español midiendo las góndolas en el supermercado como mecanismo de controlar la inflación.  ¡Por favor!  Ni Dioclesiano se animó a tantos disparates.  ¿Quién Dioclesiano?  Dioclesiano, el edicto de Dioclesiano.  Es decir, el control de precios en Roma, que es la antesala a la decadencia de Roma.  Es decir, ¿y cómo lo hacía cumplir el general romano?  Les cortaba la cabeza.  Bueno, Mora Godoy pide que le cierren el local, es más o menos lo mismo.  O sea, vos te das cuenta, utilizan el aparato represivo del Estado para perseguir a la gente, para... Perseguir al que genera riqueza.  ¿Y a quién premian?  A los parásitos de la política.  Porque ellos se subieron un cuarenta por ciento los sueldos.  O sea, cuando el resto de la población la dejaron sin ingresos unilateralmente.  Y lo único que tenían que hacer era testear masivamente el año pasado y no lo hicieron.  Y ahora tienen que vacunar masivamente y no lo hacen.  Dale.  O sea, y después te vienen a vender la idea del Estado presente.  El Estado presente es un choreo. ",
+            "cosine_dist": 0.4335166623911004,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1341.562,
+            "end_time": 1352.285,
+            "text": "Me gusta decir que en lugar de Estado presente necesitamos un Estado eficaz.  Eficiente, que simplifique, que ayude, que empuje, que acompañe. ",
+            "cosine_dist": 0.7925237063667545,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1352.905,
+            "end_time": 1358.308,
+            "text": "Nada de lo que pueda hacer el Estado puede ser bueno.  Primero porque se financia con una fuente coactiva de ingresos. ",
+            "cosine_dist": 0.5128288522739834,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1358.328,
+            "end_time": 1359.408,
+            "text": "Pero la policía la tiene que pagar. ",
+            "cosine_dist": 0.9236845390333976,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1360.349,
+            "end_time": 1380.559,
+            "text": "Vamos por partes.  Primero porque el Estado se financia con una fuente coactiva de ingresos.  O sea, te lo sacan de prepo.  ¿Sí?  Y después no hay forma que el Estado gaste bien.  Siempre gasta mal.  Porque vos podés gastar tu dinero o el de otros y lo podés gastar en vos o en otro.  ¿Qué es lo mejor?  Gastar tu dinero en vos mismo porque sabés lo que te costó ganarlo, sabés en qué lo querés. ",
+            "cosine_dist": 0.39220165751217206,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1380859,
+            "end_time": 1381139,
+            "text": "Está bien. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1382.5,
+            "end_time": 1403.389,
+            "text": "El Estado gasta el dinero de otros en otros.  O sea, de la forma más irresponsable que hay.  O sea, es un oxímoron, digamos, creer que el Estado puede funcionar.  El Estado no funciona bien nunca.  Siempre produce daños.  Entonces, por eso lo que hay que hacer es llevarlo a su mínima expresión.  Yo, digamos, o sea... Creo que en el corto plazo, dadas las restricciones tecnológicas, deberíamos ir a una situación minarquista.  En el largo plazo habría que eliminarlo. ",
+            "cosine_dist": 0.38982265460738486,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1405430,
+            "end_time": 1405850,
+            "text": "Urgente. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1422.973,
+            "end_time": 1431.137,
+            "text": "sobre la polémica que generó su frase en la conferencia con el presidente español Pedro Sánchez.  ¿Qué escribió el presidente? ",
+            "cosine_dist": 0.8132854464298921,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1432.538,
+            "end_time": 1469.302,
+            "text": "Se afirmó más de una vez que los argentinos descendemos de los barcos.  En la primera mitad del siglo XX recibimos a más de cinco millones de inmigrantes que convivieron con nuestros pueblos originarios.  Es un orgullo nuestra diversidad.  Y continúa el hilo de tweets.  Importante lo que sigue.  Claro.  A nadie quise ofender.  De todas formas, quien se haya sentido ofendido o invisibilizado, desde ya, mis disculpas.  Bueno, así Paulino intenta cerrar el capítulo Alberto Fernández con esta polémica frase que en realidad responde a un tema de litonevia, ¿no? ",
+            "cosine_dist": 0.8514126773729449,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1471.322,
+            "end_time": 1473.824,
+            "text": "Gracias, Javi.  Al otro Javi le pregunto, ¿alguna reflexión? ",
+            "cosine_dist": 0.9273361048567793,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1474.125,
+            "end_time": 1506.986,
+            "text": "Digo, si tiene que aclarar es porque evidentemente, digo, lo afirmado está mal.  Y yo te hago una pregunta.  Alberto, te hago un comentario.  Alberto, ¿sabés de qué se alimentan las moscas?  Mirá que son millones, ¿eh?  ¿Vos te vas a alimentar de la misma manera?  Dale, que lo diga un montón, digamos, de gente no quiere decir que eso esté bien.  Se llama falacia ad populum.  O sea, tenemos un presidente que comete falacia todo el tiempo.  Esto es tremendo, Paulino. ",
+            "cosine_dist": 0.3094396042191496,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1507.066,
+            "end_time": 1509.327,
+            "text": "¿Vas a ser un candidato en la ciudad? ",
+            "cosine_dist": 0.8030802396360471,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1509.947,
+            "end_time": 1515.09,
+            "text": "Voy a ser candidato a diputado nacional por la Ciudad Autónoma de Buenos Aires y voy solo. ",
+            "cosine_dist": 0.3711608395615922,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1516.13,
+            "end_time": 1516.731,
+            "text": "¿Sin Esper? ",
+            "cosine_dist": 1.0324728194948067,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1517.652,
+            "end_time": 1518.273,
+            "text": "Solo es... ",
+            "cosine_dist": 0.8388115670941811,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1518754,
+            "end_time": 1519334,
+            "text": "¿Sin López Murphy? ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1519.354,
+            "end_time": 1552.72,
+            "text": "No, no, no.  Solo es... Yo, digamos, voy con mi frente, digamos, que lo estamos terminando de conformar, somos varios partidos.  Y no solo eso, sino que además... O sea, ¿por qué?  Porque la estrategia es ir contra el status quo.  Ir contra el status quo es... En la Ciudad Autónoma de Buenos Aires, es decir, contra Juntos por el Cambio, que lleva cuatro períodos.  Además, el riesgo que implica el kiserismo en la Ciudad Autónoma de Buenos Aires, dale.  Y la verdad es que históricamente en la Ciudad Autónoma de Buenos Aires siempre hubo terceras fuerzas.  Lo que pasa es que quizás estar un poco... ",
+            "cosine_dist": 0.3104042433743548,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1552.74,
+            "end_time": 1553.86,
+            "text": "¿Querés ser la tercera fuerza? ",
+            "cosine_dist": 0.9020504200049508,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1554.881,
+            "end_time": 1560.563,
+            "text": "Bueno, y si eligen bien los candidatos mis opositores, quizás podemos ir un poco más arriba. ",
+            "cosine_dist": 0.45474163935801115,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1561.923,
+            "end_time": 1565.305,
+            "text": "¿Quién te parece más adversaria, Vidal o Patricia Bullrich? ",
+            "cosine_dist": 0.8309629605345167,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1566.526,
+            "end_time": 1568.247,
+            "text": "Bullrich sería una adversaria digna. ",
+            "cosine_dist": 0.5987383977300719,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1569.788,
+            "end_time": 1574.711,
+            "text": "¿Vidal?  no?  No.  ¿Santoro? ",
+            "cosine_dist": 0.8865328298711804,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1574.751,
+            "end_time": 1578.114,
+            "text": "No hay alguien más digno. ",
+            "cosine_dist": 0.6244235354000915,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1578.134,
+            "end_time": 1579.054,
+            "text": "Gracias. ",
+            "cosine_dist": 1.0659774441565635,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1579.094,
+            "end_time": 1602.844,
+            "text": "Gracias a vos, Paulino.  Basta de basura keynesiana, ha llegado el momento liberal.  Tenemos un líder y él es un gran rebelde. ",
+            "cosine_dist": 0.9633476690239003,
+            "is_target_speaker": false
+        }
+    ]
+}

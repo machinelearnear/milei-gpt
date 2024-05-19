@@ -1,0 +1,1247 @@
+{
+    "Index": 385,
+    "channel_id": "UCz489cQmrgH57sShDiatwfw",
+    "channel": "El Peluca Milei",
+    "uploader_url": "https://www.youtube.com/@ElPelucaMilei",
+    "id": "uMbVvhR30dI",
+    "url": "https://www.youtube.com/watch?v=uMbVvhR30dI",
+    "title": "\"ESTE ES UN GOBIERNO ASESINO\" - Javier Milei con Chice Gelblung 26/7/2021",
+    "duration": 1256.0,
+    "view_count": 40989,
+    "candidate_name": "milei",
+    "quality": "high",
+    "segments": [
+        {
+            "speaker": "Speaker 1",
+            "start_time": 0.46,
+            "end_time": 3.037,
+            "text": "Bueno, Javier, ¿cómo estás?  ¿Candidato a qué? ",
+            "cosine_dist": 0.9310223506135813,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 3.557,
+            "end_time": 7.68,
+            "text": "Candidato a diputado nacional por la Ciudad Autónoma de Buenos Aires. ",
+            "cosine_dist": 0.6202809901562665,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 8.401,
+            "end_time": 9.121,
+            "text": "¿En qué partido? ",
+            "cosine_dist": 1.0116814138831318,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 10.042,
+            "end_time": 11.403,
+            "text": "La Libertad Avanza. ",
+            "cosine_dist": 0.6556752330295867,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 12.003,
+            "end_time": 15.486,
+            "text": "La Libertad Avanza.  ¿Así se llama?  ¿Avanza Libertad o La Libertad Avanza? ",
+            "cosine_dist": 0.9859211921804011,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 15.506,
+            "end_time": 16.527,
+            "text": "La Libertad Avanza. ",
+            "cosine_dist": 0.6511107271191479,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 16.767,
+            "end_time": 18.368,
+            "text": "Largo nombre para el partido. ",
+            "cosine_dist": 0.8694264392484891,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 18.488,
+            "end_time": 22.151,
+            "text": "Bueno, digamos, pero nos gusta el concepto de que la libertad avance. ",
+            "cosine_dist": 0.6078690049843156,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 22.171,
+            "end_time": 22.971,
+            "text": "¿Y con quién vas? ",
+            "cosine_dist": 0.8779703569317081,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 23.892,
+            "end_time": 37.221,
+            "text": "Bueno, me secunda en la lista Victoria Villaruel y Nicolás Sema, que es el presidente del Partido Libertario Cava.  Y en lo que es la legislatura está la lista liderada por Ramiro Marra. ",
+            "cosine_dist": 0.44592284419068884,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 37.622,
+            "end_time": 42.325,
+            "text": "¿Qué es Ramiro Marra?  Sí.  Va como es en la lista. ",
+            "cosine_dist": 0.8736160238776849,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 42365,
+            "end_time": 42765,
+            "text": "Sí, claro. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 42.785,
+            "end_time": 44.446,
+            "text": "Pero Ramiro Marra es muy peronista. ",
+            "cosine_dist": 0.9161243530182187,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 45.487,
+            "end_time": 49.13,
+            "text": "Él es liberal.  ¿Es liberal?  Y dentro del peronismo hay líneas liberales. ",
+            "cosine_dist": 0.6758022596082667,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 50.233,
+            "end_time": 53.854,
+            "text": "Pero digo, a ver, ¿qué es el libertario en Argentina? ",
+            "cosine_dist": 0.9133454382710926,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 53.934,
+            "end_time": 59.016,
+            "text": "A ver, la definición del liberalismo es... El libertario, ¿no? ",
+            "cosine_dist": 0.7103738850157626,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 60197,
+            "end_time": 60377,
+            "text": "Bueno, ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 60.597,
+            "end_time": 74.362,
+            "text": "son los que adherimos al liberalismo y el liberalismo es el respeto irrestricto del proyecto de vida del prójimo, pasado sobre el principio de no agresión y el respeto de los tres derechos básicos definidos por John Locke, que es el derecho a la vida, a la libertad y a la propiedad. ",
+            "cosine_dist": 0.43128640274770036,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 75.496,
+            "end_time": 77.216,
+            "text": "Esos son los tres derechos que ustedes defienden. ",
+            "cosine_dist": 0.8901997884581289,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 77.577,
+            "end_time": 79.177,
+            "text": "Exactamente, a rajatabla. ",
+            "cosine_dist": 0.7090521589236394,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 79.197,
+            "end_time": 82.558,
+            "text": "Está bien, de hecho la vida implica que están en contra del aborto. ",
+            "cosine_dist": 0.8920813337338587,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 82.718,
+            "end_time": 83.358,
+            "text": "Exactamente. ",
+            "cosine_dist": 0.8018738697643308,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 84.278,
+            "end_time": 86.559,
+            "text": "¿Y eso no lo pone un poco fuera de onda? ",
+            "cosine_dist": 0.8761316944784294,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 87.539,
+            "end_time": 89.88,
+            "text": "No me importa, digamos, los valores morales no se negocian. ",
+            "cosine_dist": 0.6205980738931149,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 90.5,
+            "end_time": 95.201,
+            "text": "Hace un tiempo leí que querías meterte en la política para eliminar a los leones. ",
+            "cosine_dist": 0.8805315283899172,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 95.241,
+            "end_time": 118.992,
+            "text": "¿Quiénes serían esos leones?  No, los leones no.  El concepto es... Yo entré a la política no para guiar a Corderos, sino para despertar leones.  Es decir, la idea es ir contra el status quo.  Por ejemplo, ¿qué es el status quo en la Ciudad Autónoma de Buenos Aires?  La reta.  Van por el cuarto periodo.  Ese es el status quo. ",
+            "cosine_dist": 0.3808996444534798,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 120.179,
+            "end_time": 121.0,
+            "text": "¿Qué quiere decir eso? ",
+            "cosine_dist": 0.9060922231815649,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 121.34,
+            "end_time": 122.161,
+            "text": "El estatus quo es... ",
+            "cosine_dist": 0.9132679745878519,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 122.741,
+            "end_time": 125.544,
+            "text": "Hay países que tienen treinta años de un presidente y le va bien. ",
+            "cosine_dist": 0.9044440082944912,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 125.864,
+            "end_time": 146.483,
+            "text": "Bueno, no es el caso, digamos, de Argentina, o sea que... Aparte, digamos, ni el oficialismo, ni la falsa oposición o pseudo oposición han hecho bien su trabajo.  Por algo, digamos, Argentina no para de caer en el ranking mundial, no solo en libertad económica, sino en desempeño económico.  y por eso, digamos, tenemos cincuenta por ciento de pobres y más de diez por ciento de indigentes en el país de los alimentos. ",
+            "cosine_dist": 0.4121632686146617,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 146.943,
+            "end_time": 152.386,
+            "text": "Ahora, pregunto, ¿la pandemia no destruyó países con liberalismo también? ",
+            "cosine_dist": 0.823040070814752,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 153.166,
+            "end_time": 189.31,
+            "text": "No, porque a los países liberales, a los que tienen mayores niveles de libertad económica, les fue mucho mejor.  Y Argentina, digamos, proponiendo esto, el Estado presente, el Estado te cuida, bueno, el Estado te aniquiló.  Porque no solo que Argentina fue... uno de los países que más cayó en el G-Vente, cayó el triple que el resto del mundo.  Y no solo eso, sino que además estuvimos el año pasado, terminamos cuarto entre los países con mayor cantidad de muertos por millón de habitantes.  Es más, en el relevamiento que hace Bloomberg sobre en qué lugar es peor vivir la pandemia, el peor lugar del mundo es Argentina. ",
+            "cosine_dist": 0.4140549808359739,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 190.463,
+            "end_time": 194.506,
+            "text": "No sé, Bloomberg, qué sé yo.  A los que están en Brasil les habría pasado peor. ",
+            "cosine_dist": 0.8625119990593069,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 194.566,
+            "end_time": 208.834,
+            "text": "Está bien, bueno, hacen un relevamiento donde contemplan no solamente los muertos por misión de habitantes, sino que además contemplan el desempeño económico, el desempeño social, y en ese sentido lo que ha pasado en Argentina es una catástrofe. ",
+            "cosine_dist": 0.37907633015062026,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 208.854,
+            "end_time": 222.142,
+            "text": "Está bien, pero digo, en este momento que vos, además de ser candidato, sos un tipo que circula por la economía argentina y por la política argentina, ¿qué está pasando?  ¿Qué es lo que estamos haciendo mal?  ¿Todo mal?  ¿Algo bien no se hace? ",
+            "cosine_dist": 0.7725363389833582,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 222442,
+            "end_time": 222663,
+            "text": "Nada. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 222.903,
+            "end_time": 224.544,
+            "text": "¿La negociación de la deuda? ",
+            "cosine_dist": 0.9016191575423622,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 224.564,
+            "end_time": 244.117,
+            "text": "No, la negociación de la deuda fue un desastre, Chiche.  A ver, hicimos una renegociación de la deuda, ¿sí?  Y hoy Argentina, de ser país emergente, hoy es lo que se llama un país ni siquiera de frontera.  Se llama Estanalón, es como una suerte de paria financiera.  Solos, estamos solos.  Exactamente, o sea, somos un paria financiera. ",
+            "cosine_dist": 0.3910528104503511,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 244157,
+            "end_time": 244657,
+            "text": "Andalones. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 245.237,
+            "end_time": 261.029,
+            "text": "Exactamente.  ¿Me entendés?  O sea, es más, los títulos hoy cotizan debajo de lo que se reestructuraron.  Hoy el riesgo país en los bonos más cortos superan los dos mil puntos básicos.  Es decir, con lo cual la reestructuración que te quieren vender como algo bueno fue verdaderamente deplorable. ",
+            "cosine_dist": 0.46347607764208154,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 261.13,
+            "end_time": 263.632,
+            "text": "Fue un desastre.  O sea, Martín Guzmán es un desastre. ",
+            "cosine_dist": 0.7699568662931412,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 263.672,
+            "end_time": 270.357,
+            "text": "Es un desastre, te lo dije siempre y lo confirma a cada paso.  Argentina es una economía que está al borde del estallido, pero un estallido mal. ",
+            "cosine_dist": 0.4725683976706423,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 270.397,
+            "end_time": 272.399,
+            "text": "Pero Martín Guzmán... El tipo que está en Colombia... ",
+            "cosine_dist": 0.8598741254026325,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 272.619,
+            "end_time": 285.791,
+            "text": "¿Pero qué tiene que ver?  Eso es falacia de la autoridad.  En realidad, cuando vos lo ves, está claro que no tiene las condiciones necesarias para ser un ministro de Economía idóneo.  Bueno, digamos, mirá los resultados. ",
+            "cosine_dist": 0.36373138080718725,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 285.811,
+            "end_time": 289.314,
+            "text": "Estudian los mismos libros que vos, los economistas.  Todos estudian los mismos libros. ",
+            "cosine_dist": 0.8572409041820326,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 289.595,
+            "end_time": 300.901,
+            "text": "No, necesariamente.  Algunos solamente estudian una parte de la biblioteca.  Yo, digamos, me di el lujo de darle rosca a toda la biblioteca.  Y así me volví libertario austríaco. ",
+            "cosine_dist": 0.36129891555103266,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 301.901,
+            "end_time": 302.622,
+            "text": "¿Austríaco? ",
+            "cosine_dist": 0.9716361022230764,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 303.022,
+            "end_time": 305.924,
+            "text": "Sí, es una rama del liberalismo. ",
+            "cosine_dist": 0.48777068550935876,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 306.224,
+            "end_time": 310.928,
+            "text": "Sí, ya sé, pero digo, no son precisamente muy liberales los austríacos. ",
+            "cosine_dist": 0.806676937457823,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 311.188,
+            "end_time": 315.191,
+            "text": "¿Cómo que no?  O sea, los máximos liberales de la historia son austríacos. ",
+            "cosine_dist": 0.465023486473671,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 315.351,
+            "end_time": 316.572,
+            "text": "En filosofía económica. ",
+            "cosine_dist": 0.9708161839445045,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 316.612,
+            "end_time": 332.362,
+            "text": "Pará, pará, pará, estoy hablando de Karl Menger, de Eugene von Baber, de Ludwig von Mises, Friedrich von Hayek, digamos... Es Murray Rothbard, vamos.  Los mayores exponentes en liberalismo en la historia son de la escuela austríaca. ",
+            "cosine_dist": 0.4004115198526562,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 332.382,
+            "end_time": 336.744,
+            "text": "¿Por qué no traemos ministros austríacos y no dejamos... ",
+            "cosine_dist": 0.9401888773313068,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 336.904,
+            "end_time": 340.706,
+            "text": "Es un excelente punto.  ¿Te lo puedo hacer con un ejemplo que hice alguna vez? ",
+            "cosine_dist": 0.5772001309102995,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 340.726,
+            "end_time": 343.388,
+            "text": "Vos sos un ministro austríaco.  Si yo te nombro a vos, sos austríaco. ",
+            "cosine_dist": 0.9172472306024856,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 343.528,
+            "end_time": 344.228,
+            "text": "Absolutamente. ",
+            "cosine_dist": 0.801461663859356,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 344.248,
+            "end_time": 347.49,
+            "text": "¿Y qué haría, por ejemplo?  Tres primeras medidas del austríaco, mi ley. ",
+            "cosine_dist": 0.8737511639824619,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 347.97,
+            "end_time": 350.892,
+            "text": "Primero haría una reforma del Estado para bajar fuertemente el gasto... ",
+            "cosine_dist": 0.606520927819901,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 350.912,
+            "end_time": 352.773,
+            "text": "No hay tiempo más.  Dejate, joder. ",
+            "cosine_dist": 0.9200499535376627,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 353.113,
+            "end_time": 355.975,
+            "text": "No podemos echar gente.  ¿Y quién dijo que voy a echar gente? ",
+            "cosine_dist": 0.6343264264327366,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 356.316,
+            "end_time": 357.036,
+            "text": "A ver qué vas a hacer. ",
+            "cosine_dist": 0.9716488646596334,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 357.436,
+            "end_time": 385.419,
+            "text": "Digamos, ¿vos sabías que, por ejemplo, la ineficiencia técnica del gasto público en Argentina, que es la más alta del mundo, es el PBI, y de esos siete, dos, cinco puntos son choreo?  Lo primero que habría que hacer es sacarle a los políticos esto de afanar tanto.  Por ejemplo, uno de los proyectos que yo voy a estar enviando en caso que... la gente decida acompañarme para que pueda entrar a la Cámara de Diputados, es, por ejemplo, enviar el proyecto para pasar al sistema de iniciativa privada de la obra pública.  ¿Para qué?  Para que no pase más la plata por los políticos chorros. ",
+            "cosine_dist": 0.3316918206254307,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 385.439,
+            "end_time": 386.42,
+            "text": "¿Dónde pones esa plata? ",
+            "cosine_dist": 0.8821224327641379,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 387.601,
+            "end_time": 391.244,
+            "text": "¿Esa plata?  Yo la voy a utilizar, yo la propondría para bajar impuestos. ",
+            "cosine_dist": 0.48115752993363425,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 392.952,
+            "end_time": 398.614,
+            "text": "Y con la mitad de los chicos, por ejemplo, en Argentina que hoy son pobres, digo, son muchas evidencias las que quedan. ",
+            "cosine_dist": 0.8621547035358291,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 398.635,
+            "end_time": 449.463,
+            "text": "Pero el problema de los pobres sí tiene que ver con un problema de no crecimiento.  La única forma que vos vas a eliminar verdaderamente la pobreza no es robándole a uno para dárselo a otro.  La única forma que vos vas a eliminar la pobreza en serio es creciendo.  Vos para crecer necesitás que la oferta de la economía se expanda, es decir, que haya acumulación de capital, ya sea capital físico y capital humano.  ¿Me comprendés?  Y hoy tenés un Estado mega presente y sin embargo te siguen aumentando los pobres y los indigentes.  Fijate el desastre y la locura que es el Estado.  Argentina produce alimento para cuatrocientos millones de seres humanos y tiene más de diez por ciento de indigentes.  O sea, hay cinco millones de argentinos que no le alcanza para morfar.  ¿Y dónde está el Estado presente?  Digamos, porque se lleva un montón de guita.  ¿Sabés cuánto le saca al campo?  Sesenta y cinco por ciento.  ¿Cómo puede ser que le saca todo eso al campo y vos tengas cinco millones de argentinos con hambre? ",
+            "cosine_dist": 0.3466420522599807,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 450.982,
+            "end_time": 458.669,
+            "text": "Bueno, en el corte tuvimos alguna definición errada.  Una de ellas tiene que ver... ¿Vos estás en contra del matrimonio? ",
+            "cosine_dist": 0.8810971865104177,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 458.689,
+            "end_time": 467.236,
+            "text": "Yo estoy en contra del matrimonio civil porque es la presencia del Estado regulando las relaciones entre individuos.  O sea... ",
+            "cosine_dist": 0.4576743399322649,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 467.256,
+            "end_time": 472.781,
+            "text": "Pero si vos proponés eso es mejor que si proponés otra cosa.  Vos decís, se termina el matrimonio, te van a votar. ",
+            "cosine_dist": 0.8848357800752605,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 473.401,
+            "end_time": 477.104,
+            "text": "Digamos, de hecho no va a haber más divorcios si vos eliminás el matrimonio. ",
+            "cosine_dist": 0.5861257252063566,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 477.705,
+            "end_time": 479.967,
+            "text": "¿Pero no es una sociedad? ",
+            "cosine_dist": 0.9590676668243543,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 480.107,
+            "end_time": 521.975,
+            "text": "Es un contrato, pero no tiene... O sea, yo puedo hacer un contrato con vos, pero no tiene por qué estar metido el Estado regulándolo.  O sea, el problema es cuando se mete el Estado.  Al estar el Estado regulándolo, una de las cosas que pasa es que aparecen los típicos problemas del contrato.  Por ejemplo, uno se llama el riesgo moral.  Lo que vas a ver es que la relación de las parejas, previo... el contrato es una.  Y cuando están dentro del contrato, empeoran.  Se llama moral hazard, riesgo moral.  Es decir, como vos sabés que el contrato es costoso romperlo, y cuanto más costoso es romperlo, el comportamiento de los agentes dentro de la relación empeora sustancialmente. ",
+            "cosine_dist": 0.35848383101260906,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 523.643,
+            "end_time": 526.045,
+            "text": "Por el contrato, por los bienes. ",
+            "cosine_dist": 0.837367079880986,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 527.226,
+            "end_time": 528.286,
+            "text": "A ver, el tema es el siguiente. ",
+            "cosine_dist": 0.7523434646251324,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 528.366,
+            "end_time": 531.869,
+            "text": "Si vos fueras presidente, eliminás el matrimonio. ",
+            "cosine_dist": 0.767909946601775,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 532.329,
+            "end_time": 546.6,
+            "text": "Sí, porque es una institución que básicamente tiene muchísimos años.  Fue creada para cuando el hombre vivía veinticinco años.  Y que sea un contrato entre partes, pero que no esté metido el Estado en el medio. ",
+            "cosine_dist": 0.37492482983395603,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 547861,
+            "end_time": 548321,
+            "text": "Está bien. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 549.281,
+            "end_time": 564.807,
+            "text": "Es decir, a ver, si vos querés tener un contrato con alguien, hacelo, pero que no esté el Estado metido en el medio.  Todo lo que toca al Estado lo arruina, lo empeora.  Y también empeora las relaciones, digamos, humanas.  ¿Por qué?  Porque aparecen estos problemas del riesgo moral, de la selección adversa. ",
+            "cosine_dist": 0.3841416860740805,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 565.287,
+            "end_time": 574.272,
+            "text": "Ahora, Javier, digamos, ¿qué se puede hacer desde el Congreso?  Porque vos te votas, sos diputado.  Hay doscientos sesenta diputados. ",
+            "cosine_dist": 0.8348300085785346,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 574.292,
+            "end_time": 575.632,
+            "text": "Doscientos cincuenta y siete. ",
+            "cosine_dist": 0.7402473200274478,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 575.652,
+            "end_time": 579.875,
+            "text": "Doscientos cincuenta y siete.  ¿Qué podés hacer vos ahí?  Más que quilombo no podés hacer. ",
+            "cosine_dist": 0.7979514113134265,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 580.255,
+            "end_time": 625.062,
+            "text": "Bueno, digamos, o sea, puedo hacer algo testimonial para manifestarle a la población cómo los políticos inmundos que tenemos nos roban.  Entonces, por ejemplo, yo te puedo asegurar que hay cosas que no voy a hacer jamás.  Antes de subir un impuesto, crear un impuesto, me corto un brazo.  Los que están ahora, ninguno de esos puede decir, porque cuando sea el momento de meterle la mano en el bolsillo a la gente, todos están de acuerdo ahí.  No solo eso, te voy a garantizar que jamás voy a ir contra la propiedad privada.  Fíjate, por ejemplo, el pseudo oficialismo, ¿quién mandó la ley de góndola?  La señora Carrió en instancia de Prat-Gay.  ¿Quién mandó la ley de alquileres?  El zapallo de Lipovetsky.  ¿Teletrabajo?  ¿De quién es?  Justamente de Juntos por el Cargo.  Bueno, entonces en el fondo... ",
+            "cosine_dist": 0.3250676531553621,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 625.082,
+            "end_time": 627.083,
+            "text": "Juntos por el Cargo es el gobierno. ",
+            "cosine_dist": 0.8377918383358756,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 627.484,
+            "end_time": 684.469,
+            "text": "No, está el Frente de Chorros y Juntos por el Cargo.  Pero en realidad son todos socios para joderle la vida a la gente.  Es más... Todos han ido contra la libertad.  El propio Horacio Rodríguez de la Reta, mientras que rendía mucho rating y garpaba estar del lado de la cuarentena cavernícola, en ese contexto él salía en las conferencias de prensa con Axel Kicillof y con Alberto Fernández.  O sea, que no tenía ningún tipo de problema de encerrarnos.  Es más, él no tiene ningún problema de hacerte quebrar un negocio, pero se le sigue cobrando impuestos para hacerte la vereda de gente que no puede entrar a tu negocio.  Una cosa tremenda.  O sea, me comprendí con lo cual.  Y solamente cambió cuando cambiaron las encuestas.  Es el hombre plastilina que, dicho sea de paso, es el que hizo el armado electoral monstruoso dentro de la Ciudad Autónoma de Buenos Aires para tratar de que perpetuarse en el poder. ",
+            "cosine_dist": 0.3342093715479406,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 684.489,
+            "end_time": 687.05,
+            "text": "¿Algo a favor le ves, digo, a este gobierno en este tiempo? ",
+            "cosine_dist": 0.9602192023995682,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 687.07,
+            "end_time": 690.831,
+            "text": "Ni a este, ni al anterior, ni a ninguno.  O sea, digo, en general son todos muy malos. ",
+            "cosine_dist": 0.5192183943603035,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 690.851,
+            "end_time": 696.152,
+            "text": "Ni siquiera el plan de vacunación, digo, hoy tenemos ya más del cincuenta y dos por ciento de las personas vacunadas. ",
+            "cosine_dist": 0.6993759404422661,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 696.372,
+            "end_time": 729.888,
+            "text": "No, en el manejo de la salud fuimos espantosos.  A ver, el año pasado, si hubiéramos hecho las cosas como un país promedio, Hubiéramos tenido diez mil muertos, tuvimos cuarenta mil.  Es decir, la negligencia del gobierno en el manejo de la pandemia, testeando muy poco, nos costó treinta mil vidas humanas.  Ahora, con el desastre que están haciendo, con la lentitud en el proceso vacunatorio, hay estudios que ya muestran que por culpa del gobierno se perdieron treinta mil vidas más.  Digo, este es un gobierno genocida.  ¿Qué le voy a estar ponderando?  este desastre?  O sea, si es un gobierno asesino. ",
+            "cosine_dist": 0.3481959546198605,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 730.589,
+            "end_time": 732.611,
+            "text": "Pero a ver, todos los gobiernos estuvieron muertos. ",
+            "cosine_dist": 0.966310643048296,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 732.891,
+            "end_time": 734.612,
+            "text": "Está bien, pero a Argentina le fue peor que a todos. ",
+            "cosine_dist": 0.7918413009238725,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 734.632,
+            "end_time": 737.074,
+            "text": "Peor que a Brasil, ¿no? ",
+            "cosine_dist": 0.7337374240821235,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 737.574,
+            "end_time": 741.477,
+            "text": "A ver, pero de vuelta, primero que no es cierto. ",
+            "cosine_dist": 0.7018965814332652,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 741.558,
+            "end_time": 743.339,
+            "text": "Cuatro guerras, Estados Unidos tuvo cuatro guerras. ",
+            "cosine_dist": 1.0013072010146091,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 746.161,
+            "end_time": 746.902,
+            "text": "A ver, vos... ",
+            "cosine_dist": 0.8178173791849406,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 747.262,
+            "end_time": 749.403,
+            "text": "No, no, que defiendan a los muertos acá, ¿eh?  No, no. ",
+            "cosine_dist": 0.9494956526787076,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 749.724,
+            "end_time": 758.57,
+            "text": "Es decir, a ver, ¿pero por qué, digamos, esa falacia de compararse siempre contra el peor?  Ni siquiera te estoy diciendo que compares contra el mejor, ¿sí?  Ni siquiera pido... ",
+            "cosine_dist": 0.5132137982023441,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 758.75,
+            "end_time": 760.651,
+            "text": "Bueno, pero vos decís que somos el peor.  Pará, pará, pará. ",
+            "cosine_dist": 0.9785315900552123,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 761.032,
+            "end_time": 777.505,
+            "text": "Pará, ni siquiera pido, ni siquiera pido, ¿sí?  Que nos comparemos contra los modelos que yo propuse acá.  Por ejemplo, como el modelo de Israel.  Ni siquiera pido eso.  Pero al margen de eso, al margen de eso, a ver, cuando yo tomo la cantidad de muertos promedios en el mundo, o sea, comparo contra el promedio, ",
+            "cosine_dist": 0.4622797498331285,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 777865,
+            "end_time": 777945,
+            "text": "si ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 778.045,
+            "end_time": 797.014,
+            "text": "yo, digamos, hubiera tenido un proceso de testeo parecido para tener el resultado del problema, o sea, hubiera muerto diez mil personas en Argentina.  Murieron cuarenta mil el año pasado porque esto tiene un problema de estacionalidad.  Ahora es todavía mucho más complejo porque hay más variantes.  Entonces, digamos, en el momento del año donde medís no es menor. ",
+            "cosine_dist": 0.35852040742989566,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 797.094,
+            "end_time": 804.897,
+            "text": "Es un tema muy sensible que yo no metería en la campaña porque demostrarles prácticamente que hubo más muertos de lo que había es difícil. ",
+            "cosine_dist": 0.754685641455711,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 805.117,
+            "end_time": 820.706,
+            "text": "Bueno, sí, no.  Es difícil para los que no saben matemática.  Para los que, digamos, justamente sabemos matemática, es más fácil.  Pero ¿cómo que no...?  A ver, digamos, o sea, que la gran mayoría de los médicos no sepan dibujar un cero ni con un vaso, no es un problema de que no se pueda... ",
+            "cosine_dist": 0.4644641099255473,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 820.766,
+            "end_time": 822.367,
+            "text": "Los médicos, si es cierto, no saben eso. ",
+            "cosine_dist": 0.9281248543808197,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 822.387,
+            "end_time": 828.871,
+            "text": "O sea, son muy flojos en la matemática, digamos, o sea, yo los he visto, carecen de órdenes de magnitudes, o sea, a ver... ",
+            "cosine_dist": 0.3998959998978081,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 828.911,
+            "end_time": 834.035,
+            "text": "Tampoco iría por ahí en este momento, porque después de dos años de pandemia, los médicos que estuvieron ahí, que no tuvieron vacaciones todavía... ",
+            "cosine_dist": 0.8572538172857954,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 834.055,
+            "end_time": 864.836,
+            "text": "No, no, no, pero no estoy hablando, digamos, de los que estuvieron en la trinchera.  Estoy hablando de los ideólogos.  Es decir, yo escuché a un imbécil en televisión que le daban un montón de rosca.  Decía que el año pasado íbamos a tener el equivalente de tres pestes españolas.  A ver, para que te des una idea.  La peste española, a números de hoy, mató el equivalente a ciento veinte millones de seres humanos.  O sea, ¿me entendés que ese imbécil estaba diciendo que iban a morir trescientos sesenta millones de seres humanos por COVID? ",
+            "cosine_dist": 0.39651047787775406,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 867.204,
+            "end_time": 868.624,
+            "text": "No, no van a morir. ",
+            "cosine_dist": 0.9302413082672292,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 869.105,
+            "end_time": 870.845,
+            "text": "Pero, pero, ¿entendés la locura? ",
+            "cosine_dist": 0.8503685019915186,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 870885,
+            "end_time": 871405,
+            "text": "Bueno, pero son... ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 872.245,
+            "end_time": 921.336,
+            "text": "Bueno, pero carecen de orden de magnitudes.  Eso es lo que te estoy manifestando.  Carecen de orden de magnitudes.  O sea, ignoran los problemas de lo que se llaman de equilibrio general.  Yo te puedo dar a vos una recomendación.  General, ¿qué haces?  Yo te puedo dar una recomendación y decir, no, quedate en tu casa, no hagas nada, no hagas nada, no hagas nada.  Entonces... La verdad que te genera un problema grande porque tenés que salir a ganarte el mango, o sea, no te vas a morir de COVID, te morís de hambre, ¿me entiendes?  O sea, con lo cual, y eso es un dato cierto, y el otro es incertidumbre.  Ahora, vos fíjate qué interesante.  Si ese modelo, suponete que vos lo decidís llevar a cabo, Entonces te puede ayudar un familiar, un amigo, el trabajo, lo que fuera.  Lo lográs.  Pero vos te das cuenta que si eso lo replicas para todos los individuos, o sea, el sistema colapsa.  ¿Qué pasó en Argentina?  Colapsó.  Argentina fue... ",
+            "cosine_dist": 0.31761151611806004,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 921.836,
+            "end_time": 922.917,
+            "text": "¿Qué sistema colapsó? ",
+            "cosine_dist": 0.9181530221278011,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 923.457,
+            "end_time": 924.658,
+            "text": "Argentina colapsó, cayó. ",
+            "cosine_dist": 0.7519635898891872,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 924.678,
+            "end_time": 927.059,
+            "text": "El sanitario no, que era lo que se quería evitar. ",
+            "cosine_dist": 0.9872730783181957,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 927.419,
+            "end_time": 932.462,
+            "text": "El resultado fue espantoso, ya pasamos los cien mil muertos.  O sea, si lo tomás el año pasado... ",
+            "cosine_dist": 0.5695585871312082,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 932.502,
+            "end_time": 935.964,
+            "text": "Pero nosotros teníamos el año pasado imágenes de Perú, de Brasil. ",
+            "cosine_dist": 0.9993773508476509,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 936.064,
+            "end_time": 943.168,
+            "text": "¿Y dónde terminamos en el ranking?  Pero se atendieron a todas las personas.  Pero en el ranking terminamos cuarto con la mayor cantidad de muertos por millón de habitantes. ",
+            "cosine_dist": 0.644222560932383,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 943.188,
+            "end_time": 949.292,
+            "text": "Dame un segundito que está hablando Alberto, que tenemos un minuto.  Dale, dale.  El tema es que la gente quiere saber.  Dólar. ",
+            "cosine_dist": 0.866720832820959,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 950.376,
+            "end_time": 954.158,
+            "text": "En realidad no es que suba el dólar, está perdiendo poder adquisitivo el peso. ",
+            "cosine_dist": 0.49472868775640244,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 954.858,
+            "end_time": 956.018,
+            "text": "No me decís nada con eso. ",
+            "cosine_dist": 0.9721460919712382,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 956.059,
+            "end_time": 974.006,
+            "text": "Bueno, hay mucha emisión de pesos, la gente no quiere tener los pesos, se los está sacando de encima, entonces eso hace que el poder adquisitivo del peso caiga.  Es decir, todos los precios expresados en unidades monetarias suben, el dólar es uno más de ellos y por eso, como es un activo financiero, sube primero.  Pero atrás vienen todos los demás. ",
+            "cosine_dist": 0.3462886434594301,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 974.126,
+            "end_time": 975.087,
+            "text": "Sí, precios diarios. ",
+            "cosine_dist": 0.9480751114307358,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 976.863,
+            "end_time": 981.81,
+            "text": "Es que en realidad el dólar no tiene techo porque el peso no tiene precio. ",
+            "cosine_dist": 0.6084586172027453,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 982.511,
+            "end_time": 983.632,
+            "text": "Y vos decís que está barato. ",
+            "cosine_dist": 0.9500439513501582,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 984.133,
+            "end_time": 992.904,
+            "text": "Bueno, digamos, esos mismos decían que no podía subir.  y está el ciento ochenta y cinco y para arriba.  Si estaría Maradona, sabés que le diría la LTA. ",
+            "cosine_dist": 0.4514508238418692,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 994.462,
+            "end_time": 995.383,
+            "text": "¿Va a seguir para arriba? ",
+            "cosine_dist": 0.9634978786413559,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 995.643,
+            "end_time": 1010.153,
+            "text": "Pero no tengas duda, o sea, el dólar no tiene techo, el precio del dólar no tiene techo porque el peso no tiene piso.  El desequilibrio monetario que tiene Argentina es diez a uno.  Si llega a haber algún problema político y se termina de remover la demanda de dinero, tenemos un desastre. ",
+            "cosine_dist": 0.3855305659438325,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1011.234,
+            "end_time": 1013.576,
+            "text": "¿Qué es la demanda de dinero? ",
+            "cosine_dist": 0.9416285807372982,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1013.616,
+            "end_time": 1017.839,
+            "text": "La demanda de dinero es el cash que nosotros llevamos para hacer transacciones regularmente. ",
+            "cosine_dist": 0.4288662129022325,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1018.779,
+            "end_time": 1020.521,
+            "text": "Yo tengo demanda, yo siempre quiero más. ",
+            "cosine_dist": 0.9054140281618513,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1021.713,
+            "end_time": 1037.109,
+            "text": "No necesariamente, porque si vos te quedás con muchos pesos, perdés mucho valor del poder adquisitivo de tu peso.  De hecho, el CEPO es una construcción para forzarte a tener más pesos en el bolsillo que los que tendrías que tener para cobrarte más impuestos inflacionarios. ",
+            "cosine_dist": 0.35443264828577903,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1037.13,
+            "end_time": 1038.811,
+            "text": "Pero la gente igual compra dólares por izquierda. ",
+            "cosine_dist": 0.8406421960928447,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1039.352,
+            "end_time": 1050.58,
+            "text": "Pero está perfecto, o sea, lo que está mal es que estén las restricciones del gobierno, que no te deje ahorrar en la moneda que vos querés, porque si vos te ganaste tu dinero honestamente, tendrías que poder gastarte lo que se te dé la gana. ",
+            "cosine_dist": 0.4438468892312113,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1050.6,
+            "end_time": 1053.362,
+            "text": "Pero ¿por qué no podés ahorrar en dólares?  Podés ahorrar en dólares. ",
+            "cosine_dist": 0.9164682298891468,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1053.382,
+            "end_time": 1107.525,
+            "text": "Pero, a ver, ¿quién es el gobierno para estar poniéndote controles carcelarios para, digamos, conseguir un dólar?  Casi que, digamos, o sea, ¿por qué hay CEPO?  ¿Por qué hay restricciones?  ¿Quién es el gobierno para determinar qué puedo comprar o no en la economía?  Y eso tiene consecuencias, porque la contracara de eso es la brecha.  La brecha es un exceso de demanda de divisas al tipo de cambio que pone el gobierno.  Eso tiene como consecuencias altas tasas de interés.  te afecta negativamente la actividad económica, el empleo, te hace cagar los salarios reales y te aumenta el número de pobres e indigentes.  Entonces, si van a seguir emitiendo y van a seguir profundizando el desequilibrio cambiario y van a tratar de arreglarlo con controles, como el día previo al maracanazo, ¿qué va a pasar?  El impacto social va a ser enorme.  Y el día que abran la caja de Pandora, olvídate porque vas a ver niveles de pobreza e indigencia estrafalarios. ",
+            "cosine_dist": 0.273588144162745,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1107.725,
+            "end_time": 1109.448,
+            "text": "¿Pero qué voy a decir?  ¿Que puede haber hiper? ",
+            "cosine_dist": 0.9012336440351407,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1109.708,
+            "end_time": 1111.672,
+            "text": "Definitivamente.  El desequilibrio humanitario es... ",
+            "cosine_dist": 0.584624297155372,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1111.692,
+            "end_time": 1112.894,
+            "text": "Pero venís anunciando ese tiempo. ",
+            "cosine_dist": 0.9983261334672351,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1112.914,
+            "end_time": 1119.305,
+            "text": "Disculpame, digamos, todo lo que vine diciendo se cumplió todo.  Lo único que falta que se cumpla es la hiper.  Tarde o temprano va a llegar la hiper. ",
+            "cosine_dist": 0.42267367786705345,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1119.325,
+            "end_time": 1120.907,
+            "text": "Me sorprende, ¿por qué no estás vacunado? ",
+            "cosine_dist": 0.9359183714701338,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1122.034,
+            "end_time": 1142.473,
+            "text": "Porque desde mi punto de vista no hay la suficiente evidencia empírica como para validar las vacunas.  De hecho, digamos, si vos tenés que hacer acuerdos con los laboratorios para que hayan cláusulas de indemnidad, es porque entonces, digamos, no están todos los papeles en orden.  No tiene todos los estudios empíricos que lo avalen. ",
+            "cosine_dist": 0.31755306263211047,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1142.493,
+            "end_time": 1144.115,
+            "text": "Pero te cuidás. ",
+            "cosine_dist": 0.8487798315808635,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1144.856,
+            "end_time": 1145.656,
+            "text": "Obvio que me cuido. ",
+            "cosine_dist": 0.8227090448044926,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1146.869,
+            "end_time": 1153.277,
+            "text": "Sí, igual el tema de la vacuna no es solo vacunarte por vos, se tiene que vacunar por el otro, me parece que sería un buen gesto. ",
+            "cosine_dist": 0.8437061195592577,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1153.798,
+            "end_time": 1158.944,
+            "text": "Pero de vuelta, no tiene el respaldo empírico que tiene una vacuna. ",
+            "cosine_dist": 0.47106709727981577,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1159.064,
+            "end_time": 1160.786,
+            "text": "¿Entonces no recomendás que la gente se vacune? ",
+            "cosine_dist": 0.8466444832762924,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1160.866,
+            "end_time": 1169.182,
+            "text": "No, no, no, es una decisión individual.  Yo, digamos, ¿cómo voy a estar recomendando qué tiene que hacer la... Digamos, como que te diga, no, vos deberías hacer de tu vida tal cosa. ",
+            "cosine_dist": 0.4234696490926362,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1169.202,
+            "end_time": 1176.229,
+            "text": "Pero antes le criticaban los muertos al gobierno.  Digo, la única manera de frenar los muertos y de frenar los contagios es que las personas en general se vacunen. ",
+            "cosine_dist": 0.8568820318562179,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1176.249,
+            "end_time": 1186.637,
+            "text": "Bueno, digamos, que logren convencer... Bueno, tampoco, digamos, tienen la vacuna como para hacerlo.  O sea, hay mucha gente que lo quiere hacer y no puede.  No, los resultados no dicen lo mismo. ",
+            "cosine_dist": 0.46276302298001903,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1186.677,
+            "end_time": 1187.958,
+            "text": "No es la proporción que hace falta. ",
+            "cosine_dist": 0.8835485345984375,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1188.038,
+            "end_time": 1200.704,
+            "text": "Exactamente.  Pero eso es una decisión individual.  No, es una decisión individual.  O sea, yo decido, digamos, qué hago con mi cuerpo.  ¿Por qué va a determinar otra persona qué hago con mi cuerpo? ",
+            "cosine_dist": 0.44089845734907773,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1200.724,
+            "end_time": 1202.505,
+            "text": "Porque por ahí vos contagiaste a alguien que se muere. ",
+            "cosine_dist": 0.9986820978061773,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1202.685,
+            "end_time": 1226.959,
+            "text": "Entonces, digamos, tendría que padecer las penalidades si contagio a alguien.  No, digo, como política me parece que sería un buen gesto vacunarse.  No, no, no.  El gesto que yo le quiero llevar a la sociedad es que cada individuo se haga responsable de su propia vida.  O sea, no tengo por qué estar jodiéndole la vida a otro para llevar a cabo mi proyecto de vida.  Y viceversa. ",
+            "cosine_dist": 0.3404915147442723,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1227.66,
+            "end_time": 1231.562,
+            "text": "Ya está.  No se da una pandemia. ",
+            "cosine_dist": 0.9119624816041135,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1232.023,
+            "end_time": 1255.119,
+            "text": "No, por favor, ha sido un placer como siempre.  A la mierda los malditos empresarios, a la mierda Sodomitas el capital.  Basta de basura keynesiana, ha llegado el momento liberal.  Tenemos un líder y él es un gran rebelde. ",
+            "cosine_dist": 0.9274529942498405,
+            "is_target_speaker": false
+        }
+    ]
+}

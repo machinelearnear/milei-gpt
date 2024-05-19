@@ -1,0 +1,743 @@
+{
+    "Index": 553,
+    "channel_id": "UCqz5tDLcGBJ5obqpSLSkiaQ",
+    "channel": "MILEI PRESIDENTE",
+    "uploader_url": "https://www.youtube.com/@MILEIPRESIDENTE",
+    "id": "42QKoRiaKB8",
+    "url": "https://www.youtube.com/watch?v=42QKoRiaKB8",
+    "title": "Javier Milei se cruza con infectóloga kirchnerista: \"Argumentos berretas y demagogia barata\"-22/6/20",
+    "duration": 2063.0,
+    "view_count": 824416,
+    "candidate_name": "milei",
+    "quality": "low",
+    "segments": [
+        {
+            "speaker": "Speaker 1",
+            "start_time": 5.1,
+            "end_time": 10.161,
+            "text": "Y el hombre que dice que hay que levantar la cuarentena, ¿está bien que lo titulo así?  Javier Milei, ¿cómo le va?  Buenas noches.  ¿Qué tal, Leo? ",
+            "cosine_dist": 0.8440473943133128,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 10.221,
+            "end_time": 13.95,
+            "text": "¿Cómo estás?  ¿Está bien?  Y hay que levantarla inteligentemente. ",
+            "cosine_dist": 0.6302841749827346,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 14.21,
+            "end_time": 41.01,
+            "text": "Bien, me gustó ese agregado entonces.  Vamos a ver de qué se trata tu teoría y demás.  Javier, usted que es economista, que ha estudiado y que es un capo.  La gente que por ahí no se pudo educar tanto, no pudo estudiar economía y solamente ve su propia economía que dice yo tengo que sacar de mi bolsillo para comer porque me voy a morir o me voy a contagiar de otra cosa.  Entendiendo las dos situaciones del país, desde tu punto de vista, ¿cuál sería la manera inteligente de salir de la cuarentena entre salud y economía? ",
+            "cosine_dist": 0.7271285936997393,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 41.69,
+            "end_time": 81.346,
+            "text": "Mira, lo primero es que el dilema que ha planteado desde un inicio el gobierno es falso.  Porque aquellos países que producen más, o sea, que son más ricos, ¿sí?  Bueno, esos países tienen muchísimos menos pobres.  y no solo eso, sino que además vive el país.  Vive el país.  Vive el país.  Vive el país.  Vive el país.  Vive el país.  Vive el país.  Vive el país.  Vive el país.  La otra cuestión que habría que tener bien presente es el punto de vista cuantitativo.  Hoy, digamos, ahí el Zócalo decía que murieron treinta y dos personas.  ¿Sabés cuántas personas mueren por día en Argentina normalmente? ",
+            "cosine_dist": 0.3796728439115763,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 82.378,
+            "end_time": 85.679,
+            "text": "Y mira, veinte mueren por accidentes automovilísticos, nada más. ",
+            "cosine_dist": 0.9552178920412671,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 86.399,
+            "end_time": 87.44,
+            "text": "Mil personas por día. ",
+            "cosine_dist": 0.6696892943538887,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 88.04,
+            "end_time": 90.181,
+            "text": "Mueren en general de cualquier otra cosa. ",
+            "cosine_dist": 0.8376340459893312,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 90.301,
+            "end_time": 104.089,
+            "text": "Es decir, que hoy vos tenés en los noventa y cinco días de cuarentena casi mil personas que murieron por coronavirus.  Si eso fuera cierto... Y por cuestiones naturales murieron noventa y cinco mil. ",
+            "cosine_dist": 0.4730977925362919,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 104.229,
+            "end_time": 107.592,
+            "text": "Pero para las que se informan como muertes de coronavirus, ¿son ciertas o no? ",
+            "cosine_dist": 0.7835221463095885,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 107.632,
+            "end_time": 114.698,
+            "text": "No necesariamente.  ¿Por qué?  Porque hay muchos casos donde ante la duda los registran como coronavirus y eso está mal. ",
+            "cosine_dist": 0.5154559626353238,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 114.818,
+            "end_time": 118.401,
+            "text": "¿Vos decís que si no es una neumonía que venga por COVID es una neumonía? ",
+            "cosine_dist": 0.8516046373075782,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 118762,
+            "end_time": 119042,
+            "text": "Es más... ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 119362,
+            "end_time": 119743,
+            "text": "Por.  ejemplo. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 120.023,
+            "end_time": 131.942,
+            "text": "No, no, te pongo un caso.  O sea, suponete una persona que tiene varias enfermedades... Digamos, entonces, ¿muere?  ¿Lo vas a notar por COVID?  ¿Alguien que tiene cáncer termina muriendo, lo vas a notar por COVID? ",
+            "cosine_dist": 0.43864083707436363,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 132.694,
+            "end_time": 134.935,
+            "text": "No lo sé.  Bueno, digamos, entonces... ",
+            "cosine_dist": 0.844650855961049,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 134.975,
+            "end_time": 139.176,
+            "text": "Quiero creer que no, que no es así.  Bueno, pero ese tipo de cosas están pasando. ",
+            "cosine_dist": 0.6233982555957853,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 139.736,
+            "end_time": 148.859,
+            "text": "Ese último punto que señala Javier, me permito disentir con vos, porque la verdad que no sé dónde sacás que hay gente que se está anotando muerta por COVID cuando no está muerta por COVID. ",
+            "cosine_dist": 0.8691250592914705,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 148.879,
+            "end_time": 159.162,
+            "text": "Bueno, de hecho, los protocolos, digamos, de la Organización Mundial de la Salud, justamente ante la duda los anotás como COVID, lo cual es incorrecto. ",
+            "cosine_dist": 0.5065240668493578,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 159.762,
+            "end_time": 196.921,
+            "text": "Bueno, habíamos tenido un caso similar cuando hicimos un móvil con el tema Suecia, que lo había citado Alberto Fernández en una de sus conferencias.  Y te acordás que sacamos otro chico argentino que vivía en Noruega y habíamos hecho un comparativo.  Y yo me quedé con eso porque el pibe dice, ojo que en Suecia anotan a todo el mundo que muere, tuvo COVID y murió por un infarto de corazón, obviamente, se anota como COVID.  En Noruega no se lo nota como COVID al que muere de un infarto o por una neumonía producto del COVID.  Se lo nota neumonía por un lado, infarto por el otro.  Si bien todos morimos cuando nuestro corazón para de latir, por supuesto, ¿no?  Pero había una diferencia ahí en lo que informaban a la Organización Mundial de la Salud. ",
+            "cosine_dist": 0.7825828158681428,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 197.802,
+            "end_time": 224.711,
+            "text": "Te puedo dar otro caso.  Tanto que se habla del caso de Italia.  En Italia mueren por año, por enfermedades cardíacas, doscientas cuarenta mil personas.  O sea, veinte mil por mes en promedio.  Sucede que durante marzo y abril no murió nadie de cuestiones cardíacas en Italia.  Es raro.  A ver, yo lo que quiero, lo que hay que tener en cuenta es, hay que poner esto en términos numéricos.  Ejemplo. ",
+            "cosine_dist": 0.3641015552462207,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 225.902,
+            "end_time": 235.309,
+            "text": "Pero ¿cuál sería el objetivo de exagerar esta situación que no fuese real?  Para interpretar lo que pensás políticamente, ¿a quién beneficia la situación actual? ",
+            "cosine_dist": 0.8109975778647429,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 235.449,
+            "end_time": 382.964,
+            "text": "No, no beneficia a nadie.  Yo creo que la Organización Mundial de la Salud se equivocó feo.  Pero no es que se equivocó más o menos, se equivocó muy feo.  Es decir, la Organización Mundial de la Salud y los infectólogos amenazaron con que se venía una nueva peste española.  Para que tengas una idea de lo que fue la peste española, que fue entre mil novecientos dieciocho e inicios de mil novecientos veinte, Mató a dos por ciento de la población.  En ese momento eran treinta y nueve millones de personas.  En la situación actual estás hablando de ciento cincuenta millones de personas.  Es decir que si las amenazas de la Organización Mundial de la Salud se hubieran parecido a la peste española, vos tendrías que haber visto morir en el mundo por día cuatrocientas mil personas.  Es más, en el mundo, digamos, normalmente, dada la población que tiene el mundo, que mueren sesenta millones de personas por año, mueren ciento sesenta y cinco mil por día.  ¿Sabes cuánto tardó el COVID para llegar a ese número?  Ciento cinco días.  Hoy el acumulado está acercándose a quinientos mil.  Te das cuenta que hay una desproporción.  ¿Por qué menciono esto?  Porque las medidas de aislamiento que propuso la Organización Mundial de la Salud están en línea con eso, van a hacer caer la tasa de crecimiento del PBI mundial en siete puntos.  Eso va a implicar, digamos, que se pierdan, por ejemplo, en el primer trimestre del año en el mundo se perdieron ciento treinta millones de puestos de trabajo.  En el segundo se perdieron trescientos cinco millones de puestos de trabajo.  La caída que vas a tener del PBI implica un salto en la pobreza extrema en el mundo de diez puntos porcentuales.  Es decir, setecientos setenta millones de seres humanos ahora son... Pobres, extremos, y eso implica que estás mandando a la muerte a veintisiete millones de seres humanos.  Es decir, por algo que lleva cuatrocientos cincuenta mil, ¿cuánto?  Quinientos mil, ponéle, redondeándolo.  Es decir, te das cuenta que el remedio fue peor que la enfermedad.  Y dentro de ese mal modelo propuesto por la Organización Mundial de la Salud, El alumno estrella es Argentina, es decir, que tiene la cuarentena más larga y más intensa del mundo.  Es decir, con lo cual el daño que va a producir es enorme.  De hecho, la propia Organización Mundial de la Salud reconoció que fue una pésima idea el modelo de cuarentena para los países pobres o de ingresos medios. ",
+            "cosine_dist": 0.33115001005967837,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 383.384,
+            "end_time": 386.307,
+            "text": "¿Por qué?  Porque nuestra economía ya estaba dañada. ",
+            "cosine_dist": 0.7626174606973943,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 386.987,
+            "end_time": 389.789,
+            "text": "No, a ver, la economía argentina venía... Muy mal. ",
+            "cosine_dist": 0.6907193544606333,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 389.809,
+            "end_time": 399.075,
+            "text": "Permitime que mientras seguís hablando, sumo a Gabriela Piovano, que es infectóloga del Hospital Muñiz y está escuchando toda esta parte para empezar a unificar todo.  ¿Cómo te va, Gabriela?  Leo Montero te saluda. ",
+            "cosine_dist": 0.8063353503344096,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 401.665,
+            "end_time": 402.486,
+            "text": "¿Qué tal?  Buenas noches. ",
+            "cosine_dist": 0.9161720366668489,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 402.526,
+            "end_time": 446.95,
+            "text": "¿Cómo les va?  Un gusto.  Estoy aquí con Javier Milei, con Diego Iglesias.  Estamos hablando del tema de los contagios, el tema de las muertes, el tema de la economía.  Él está dando unos números que realmente son muy interesantes desde el punto de vista de... Este es el punto de vista donde yo siento que la población, no solo nuestra, sino mundial, se está debatiendo, ¿no?  ¿Cuánto parar?  ¿Cómo afecta?  ¿Cuánta más gente muere por otras causas?  Sin embargo, los países no están parados.  O sea, empieza un debate y nosotros no podemos parar.  Los negocios fundiendo, la economía cayendo y demás.  Y ya sabemos, por otro lado, el manual de recaudo.  Sin embargo, la gente se sigue contagiando y está en el pico.  Acá Javier está hablando un poco de todo eso.  ¿Cómo titularías vos desde tu lado como infectóloga este parate, esta cuarentena, lo que está haciendo Argentina, lo que hizo el mundo?  ¿Cuál sería tu visión? ",
+            "cosine_dist": 0.7569286577325178,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 448.775,
+            "end_time": 571.4,
+            "text": "Bueno, mi visión por supuesto es totalmente opuesta a la que está expresando el señor Milei, que evidentemente desconoce totalmente todos los procedimientos de los cuales formamos parte, no solo el Estado Nacional con el Ministerio de Salud, sino también lo que es la Organización Mundial de la Salud, que en ningún lugar la escuché decir que estuvo mal hacer la cuarentena.  O sea, realmente me gustaría que para que él reconozca, por ejemplo, que hay cuarenta millones de desocupados en Estados Unidos, primer potencia mundial, que el señor Donald Trump se ha transformado prácticamente en peronista porque está repartiendo ahora inclusive cajas de alimento entre la gente en el primer país del mundo en la economía.  Así que decir esto sinceramente desde el puesto de una persona que no tiene ningún tipo de cargo de nada, que todo lo que diga, si repercute en la gente, él no va a hacerse cargo de nada.  Si a nosotros se nos satura el sistema de atención, él no va a venir a pedir disculpas ni va a pagar con nada todo el daño que puede ocasionar cuando está diciendo algo que claramente no tiene pero ningún gollete.  Porque vos fijate, yo le había pedido a la producción que por favor nos apuntara los números, por ejemplo, del hermano país chileno, ¿no es cierto?  Sí.  Donde ellos entraron el mismo día que nosotros en cuarentena.  Entonces, si lo podemos poner, vamos a ver una diferencia enorme de muertes y de personas que están infectadas y que ya está sobrepasado inclusive el sistema de salud privado prácticamente que tiene Chile.  Es más, están pidiéndole la escupidera a la Argentina para atender a los casos de ella.  Así que es una, para mí, sinceramente, me parece que siempre se dicen estas cosas sin ninguna responsabilidad.  Pero esperá, Gabriela.  ¿Quién le va a decir que lo que dice la Organización Mundial de la Salud es cualquier cosa directamente? ",
+            "cosine_dist": 0.7033652320424744,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 571.42,
+            "end_time": 622.308,
+            "text": "Esperá, tampoco es mi idea que se ataquen entre ustedes o que puedan disentir, por supuesto.  Yo quería más tu opinión.  Hacé de cuenta que no escuchaste lo que dijo él.  Él tiene su opinión y la tiene fundamentada.  Mientras estamos viendo los números de Chile, ¿no?  Doscientos cuarenta y seis mil y pico de casos, cuatro mil quinientos muertos.  Casi cinco veces más que lo que lleva Argentina y demás en este tramo.  ¿A vos te parece... La pregunta es, nosotros llevamos cien días y encima estamos en el peor momento.  Vamos para otros dos, tres meses.  ¿Está bien que estemos así?  Encima hay que volver a decirle a la gente que no quiere estar encerrada por diversos motivos y que sabe ya de memoria cómo cuidarse, pero a veces no lo hace.  Desde tu punto de vista, ¿cuál es la Argentina que tenemos que ver ahora junio, julio, agosto?  ¿O qué recomendación darías o cuál es tu visión?  Olvídate lo que hicimos hasta acá. ",
+            "cosine_dist": 0.7490548482219292,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 625.083,
+            "end_time": 769.004,
+            "text": "Bueno, mira, los resultados de nuestra cuarentena fueron fantásticos y han sido realmente vistos como un ejemplo en el resto del mundo que tuvo que ir para atrás cuando tuvo la conducta de dejar todo librado, porque claramente después de un tiempo y una proyección, con una proyección de duplicación de los casos en pocos días, porque vos pensás que a los dos o tres días de estar infectados Las personas infectan y transmiten la infección a diez personas por lo menos por una semana.  O sea que el crecimiento es exponencial.  Llega un momento que por más que... Mira, cuando empezó esto nosotros también decíamos que la gripe se llevaba mucho más muertos.  ¿Por qué?  Porque la mortalidad por la gripe es de cero o cinco por ciento y mucha más gente en el mundo todos los años se infectaba con gripe.  Pero resulta que la mortalidad por COVID es de cinco por ciento.  Entonces, si nosotros dejamos que toda la población se infecte, un cinco por ciento es muchísimo más que un cero cinco por ciento.  Hubo treinta y dos mil muertes por neumonía asociadas y a gripe y neumonías, ¿no es cierto?  De eso no se habló nada, porque esto fue producto de la falta de vacunas y de que el ministerio pasara... como pasó a Secretaría.  Sin embargo, nosotros resentimos el sistema de salud en ese momento y hoy estamos viendo cómo, que habíamos empezado hace unas semanas, teníamos un veinticinco por ciento de ocupación, ya hablamos de un ochenta por ciento en el sector público.  Entonces... La medida de cuarentena es efectiva.  Ahora, si nos empezamos a mezclar la política y hacer que la gente salga porque está enojada, en vez de compenetrarla en todo lo que se ha conseguido... en que el sistema económico igual se resentiría si nosotros dejáramos de hacer cuarentena, nada más que además del problema económico tendríamos el problema de los muertos, bueno, tal vez la gente entendiera que tiene que tener un poquito de paciencia y si nosotros queremos... Este va a ser el pico y a partir de este momento la pandemia puede empezar a bajar en Argentina.  Por lo menos en el AMBA, porque en el resto del país la pandemia está abajo.  Eso es verdad. ",
+            "cosine_dist": 0.7172614310329373,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 769.064,
+            "end_time": 784.62,
+            "text": "Argentina es como dos países distintos porque sacando Ciudad Autónoma de Buenos Aires y el Provincia de Buenos Aires.  llamada AMBA hoy en día, el resto, ves los números y decís, La Pampa cero, Coso cero, Catamarca cero, seis contagiados cero, o sea, casi todo el país nada, Diego. ",
+            "cosine_dist": 0.7477454190879103,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 784.82,
+            "end_time": 849.85,
+            "text": "El noventa y tres por ciento de los casos totales están concentrados en el AMBA, por eso las realidades en Argentina son muy distintas, el resto del país que tiene, y esto también en línea un poco a lo que decía Javier, que no es la misma la situación en el AMBA que en el resto del país, porque el resto del país tiene liberadas muchísimas actividades económicas, tanto industriales como comerciales.  Sí es cierto que en el AMBA las restricciones son mayores, a pesar de que muchas industrias están funcionando, muchos comercios también están funcionando.  y en línea con lo que decía Gabriela, para cerrar el concepto, yo coincido más con ella que con Javier, en tanto y en cuanto, los países que han tenido aperturas desmesuradas o descontroladas, o sin una centralidad desde el Poder Ejecutivo, como en Brasil, como en Chile, como en Estados Unidos, la economía, y eso Javier lo conoce muy bien, se ha resentido muchísimo.  con encima el agravante de una gran cantidad de muertes.  Entonces la discusión, me parece, o el dilema entre economía y salud, o salud y economía, me parece que es una dicotomía un tanto falsa que no se corrobora en la realidad.  No es que una cosa sí, la otra cosa no. ",
+            "cosine_dist": 0.7878172065541047,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 849.89,
+            "end_time": 887.287,
+            "text": "No, es que yo creo, te pregunto Javier y te doy pie para que un poco hagas todo, pero yo creo que... Ella pide paciencia y está bien, piden que nos cuidemos y de hecho nos cuidamos.  Nadie se quiere contagiar, nadie se quiere morir.  Y a su vez estamos en un país que lucha desde antes de esto con una inflación altísima, con desempleo alto, con un dólar altísimo, con pocos recursos.  Pedimos paciencia, pero la gente se desespera por todo.  Se desespera porque tiene miedo a contagiarse, se desespera porque le cierran el laburo, se desespera porque le bajan los veinticinco.  O sea, es una situación que para mí no deja de ir de la mano.  Tu propia economía, la salud, la desesperación, la incertidumbre. ",
+            "cosine_dist": 0.6984005155905051,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 887.307,
+            "end_time": 964.676,
+            "text": "A ver, en primer lugar, de vuelta, voy a ir de vuelta sobre los números que, digamos, o sea, al menos generan tanto desprecio en la infectocracia.  El punto es el siguiente, amenazaron con algo que es por lo menos trescientas veces menor de lo que es.  Ese es el primer lugar.  En segundo lugar, digamos, se impulsa en un desastre económico.  Es decir, una caída del siete por ciento del PBI mundial, llevando los pobres extremos de cinco por ciento del planeta a quince, o sea, mandar setecientas setenta millones de personas a la pobreza extrema y matar veintisiete millones de seres humanos de hambre, me parece que es una cuestión bastante complicada y en especial en los países de menos recursos.  En segundo lugar, digamos, o sea, la mención de Estados Unidos, o sea, parece que se quedó tarde.  la señora, no se enteró que también está recuperando muy fuertemente la economía americana.  Otra cosa, digamos, también interesante es que a la luz de los errores de la Organización Mundial de la Salud, que ha venido teniendo contradicciones una tras otra, por ejemplo, Estados Unidos le quitó el financiamiento.  Es más, en Alemania, digamos, la señora Merkel... ",
+            "cosine_dist": 0.36768451466629126,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 964.696,
+            "end_time": 971.322,
+            "text": "Estados Unidos se lo quitó porque le echó la culpa que la Organización Mundial de la Salud ocultó información de China, porque a Estados Unidos le conviene pelearse con China igual. ",
+            "cosine_dist": 0.7962147924149918,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 971.342,
+            "end_time": 1014.053,
+            "text": "Entonces no trabaja tan bien.  A ver, entonces, o por ejemplo en el caso de Alemania, la señora Merkel demanda a los infectólogos por haber sobreestimado y haber exagerado esta cuestión.  No solo eso, sino que además lo que hay que tener en cuenta es el desastre causado en Argentina.  El PBI, digamos, durante el mes de marzo, solo con diez días de cuarentena, cayó diez por ciento y en abril cayó veinte.  Es decir, lo que se está generando es un desastre.  Entonces, cuando esta situación termine de estallar, los daños van a ser enormes y el remedio termina siendo peor que la enfermedad. ",
+            "cosine_dist": 0.38016525838993076,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1015.074,
+            "end_time": 1017.756,
+            "text": "¿Y para vos cuál sería la manera inteligente que dijiste al principio? ",
+            "cosine_dist": 0.8238156725076116,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1017.776,
+            "end_time": 1018.817,
+            "text": "A ver, cuando uno mira... ",
+            "cosine_dist": 0.7812415024770821,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1018.837,
+            "end_time": 1025.362,
+            "text": "Desde lo que dice la infectóloga hasta lo que dice Diego, lo que digo yo, lo que ves en la calle, ¿cuál sería la manera inteligente de salir? ",
+            "cosine_dist": 0.8929498805615115,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1025.382,
+            "end_time": 1048.164,
+            "text": "La sensación que yo tengo, digamos, bueno, primero que... No todo, digamos, ese falso dilema también, digamos, es una falacia muy berreta, pero, digamos, o sea... ¿Cuál?  Y usar el falso dilema mostrándote, por ejemplo, el peor caso, entonces te muestro Estados Unidos, te muestro Brasil, ¿sí?  Digo, vos tenés otros casos que son exitosos, ¿sí?  Por ejemplo, tenés el de Singapur, Taiwán, Hong Kong, digamos... ",
+            "cosine_dist": 0.36197791254003164,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1048.523,
+            "end_time": 1049.624,
+            "text": "Nueva Zelanda, que no es... ",
+            "cosine_dist": 0.8725397460830584,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1049.644,
+            "end_time": 1105.439,
+            "text": "Bueno, Nueva Zelanda, digamos, o sea, Australia.  Tenés un montón de casos exitosos.  Israel, sin ir más lejos, tenés acá pegadito uno que se llama Uruguay.  ¿Me comprendés?  Entonces, digamos, ese falso dilema, esa dicotomía, digamos, bastante barreta para un profesional con lectura.  Entonces, digo, me parece que eso no es una discusión seria.  Ahora, lo que sí está claro es que uno observa que donde más impacta es en el grupo de adultos mayores.  Entonces, lo que uno tendría que hacer es aislar a las personas de mayor riesgo, por ejemplo, los adultos mayores o que tienen algunas enfermedades que podrían ser golpeados mayormente con este tipo de situación.  Y después, el resto de las personas... los que están en condiciones de trabajar, deberían ir a trabajar y ser sometidos a testeos. ",
+            "cosine_dist": 0.3562821641195044,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1105.92,
+            "end_time": 1118.429,
+            "text": "Vos decís una flexibilización como la que ya estamos teniendo, como la que ya estamos teniendo, la gente está en la calle con el barbijo, cuidándose, con distancia, haciendo los trabajos que los comercios permiten, pero vos decís lo que se ha prohibido, ¿no? ",
+            "cosine_dist": 0.7631793476150401,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1119.03,
+            "end_time": 1215.251,
+            "text": "Pero, a ver, si vos mirás, por ejemplo, hoy salieron los números de recaudación fiscal, ¿Sabés cuánto subió la recaudación en mayo contra mayo del año anterior?  No.  Dos por ciento.  Y en el medio hay cincuenta puntos de inflación.  ¿Me entendés?  Que hay un derrumbe de la actividad enorme.  Y el gasto público se duplicó.  Entonces, en los primeros seis meses del año, Argentina va a acumular más de diez mil millones de dólares de déficit fiscal.  Lo está financiando con emisión monetaria.  Entonces, emitís dinero a Rolete... Además, la gente no demanda ese dinero y está destruyendo la producción.  Está generando las bases de una hiperinflación.  Entonces, entre esa caída de la actividad y un desastre inflacionario, vos vas a llevar, digamos, vas a generar la peor crisis económica y social de la historia.  Porque yo digo, quiero ver qué va a pasar el día que vos veas la pobreza en niveles del setenta y cinco por ciento y todo por gente que no entiende de equilibrio general.  Porque, o sea, es lo que pasa cuando vos escuchás, a la infectocracia, está claro que no entienden de equilibrio general.  Porque, de hecho, cuando vos vas al médico, te mandan y te dicen, no, usted tiene que quedarse haciendo reposo tanto tiempo.  La realidad... es que si vos tenés un trabajo formal, digamos, no es tan fácil, pero supongo que lo podés hacer.  Pero cuando vos no tenés un trabajo formal, te cuento que Argentina tiene entre el treinta y el cuarenta por ciento de la economía en informalidad, ¿qué es lo que pasa? ",
+            "cosine_dist": 0.3294564121158139,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1215.271,
+            "end_time": 1216.552,
+            "text": "¿Cómo le pedís reposo a esa persona? ",
+            "cosine_dist": 0.7047585166335556,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1216.592,
+            "end_time": 1287.298,
+            "text": "Vos necesitás pedirle prestado al resto.  Ahora, si vos lo aplicás sobre todo, vos en términos, esa recomendación de equilibrio parcial, en términos de equilibrio general, generás un desastre.  Después hay un problema, digamos, le han pifiado sistemáticamente, viene el monstruo, viene el monstruo.  A ver, la pregunta es, bajo esa misma lógica, con las personas que mueren en accidentes de auto, entonces, ¿esta gente qué haría?  ¿Prohibir los autos?  Entonces, digamos, es ridículo.  Es más, si vos le tomás la idea al límite, sabes que nos quedamos todos encerrados, la producción es cero y sabes que vas a tener cuarenta y cinco millones de muertos de hambre.  Para que te des una idea, en el mes de abril se cerraron quince mil empresas y en lo que va... Y en lo que fue mayo, treinta y cinco mil.  O sea, estás generando un desastre.  Es decir, Argentina va a mostrar los peores números del mundo.  Entonces, el día que estalle la crisis con una violencia tremenda que va a descarrilar en un caos social, bueno, ahí vamos a preguntarle a los infectólogos qué hacemos. ",
+            "cosine_dist": 0.35860797227926877,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1287.339,
+            "end_time": 1294.163,
+            "text": "Bien, Javier, muchas gracias.  Diego quería decir algo, pero escuchá lo que tenía Diego para decir con respecto a lo que venía diciendo tanto Javier como Gabriela. ",
+            "cosine_dist": 0.8222752581008836,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 3",
+            "start_time": 1294.711,
+            "end_time": 1377.506,
+            "text": "Hay algunas cosas de las que dice Javier que son ciertas en cuanto a lo que tiene que ver con la caída de la economía mundial y la caída del PBI mundial, en particular de la Argentina, que más o menos tiene una correlación con la de muchísimos países en cuanto a las proyecciones de cuánto va a ser la caída.  Pero me parece importante señalar dos, tres cosas más de las que dice Javier con las que no coincido.  Esto que él llama despectivamente infectocracia, me parece que está mal, es algo despectivo y es faltar el respeto a un montón de científicos argentinos que son infectólogos, que están trabajando activamente para intentar con sus conocimientos, que son los que están vinculados con este tema, que es un virus, con la infectología, intentar mermar o mitigar lo que son los efectos de la pandemia en la salud pública argentina.  de la Argentina.  Eso me parece como primero.  Y segundo, después Javier hacía algunas comparaciones.  Es difícil las comparaciones que hace, sin ir más lejos la que hace con Uruguay.  Él soslaya algo que es muy relevante y es que la zona AMBA de Argentina tiene una densidad poblacional de quince mil habitantes por kilómetro cuadrado, y la zona más densamente poblada del Uruguay, que es el departamento de Montevideo, con su capital Montevideo, tiene aproximadamente dos mil quinientos de habitantes por kilómetro cuadrado.  Es decir que la densidad poblacional, una de las variables centrales para explicar la propagación del virus, es muy distinta entre un país y el otro. ",
+            "cosine_dist": 0.7651781502338071,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1377.526,
+            "end_time": 1387.171,
+            "text": "Bueno, Japón tiene mucha más densidad poblacional que Argentina, entonces.  ¿Te gusta el ejemplo?  Digo, Japón tiene mucha más densidad poblacional.  Así que queríamos andar... De personas por territorio. ",
+            "cosine_dist": 0.5136980117098935,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1387.472,
+            "end_time": 1428.861,
+            "text": "Sí, igual esto que está diciendo Diego es algo que ya hemos debatido y me parece que no vamos a llegar a ningún puerto.  Es decir, hemos dicho, China tiene mil cuatrocientos millones de personas y se habían infectado ochenta y cinco mil.  Claro, lo que no puede depreciar es los números.  Cuando empezamos a ver los quinientos mil que iba a Estados Unidos con trescientos millones de personas, dijimos, pará, lo de China es nada al lado de este.  Y lo de Nueva Zelanda es otro caso, y lo de Uruguay es otro caso, y lo de Argentina es otro caso.  Cada caso en relación y en porcentaje.  El punto es, No sé, me parece que no llegamos a buen puerto en ningún punto porque todo lo que dice Gabriela está bien desde su lado, desde su labor, está perfecto.  Lo que él intenta decir, entiendo, más allá de esta discrepancia que tenés de cómo nombra a los infectólogos, él tendrá sus razones para hacerlo. ",
+            "cosine_dist": 0.7200752413529148,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1429.121,
+            "end_time": 1430.743,
+            "text": "Sí, sobre todo cuando sos agredido. ",
+            "cosine_dist": 0.6665020362417371,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1431.503,
+            "end_time": 1432.864,
+            "text": "No, está bien, porque vos te sentís agredido... ",
+            "cosine_dist": 0.8212957909080738,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1433.224,
+            "end_time": 1435.907,
+            "text": "Y además se recurre a una falacia, entonces... ",
+            "cosine_dist": 0.4862754379499664,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1436.207,
+            "end_time": 1439.629,
+            "text": "Está bien, está bien, pero lo decís de caliente porque te sentís agredido por una brilla. ",
+            "cosine_dist": 0.7186888491899239,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1439.649,
+            "end_time": 1467.104,
+            "text": "No, no, no, no, digamos porque justamente... ese es un mecanismo fascista de hacer argumentos.  Es decir, es lo mismo que cuando vos decís, no, es este modelo o la muerte.  Digo, esos falsos dilemas que en realidad no corresponden.  Es decir, cuando vos agarrás y tomás datos al aire de países que evidentemente no conocés, entonces evidentemente... Digamos, me parece que... ",
+            "cosine_dist": 0.3738644648010978,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1467.404,
+            "end_time": 1476.026,
+            "text": "Bien, bien, yo entiendo a todos.  No quiero que se peleen.  Gabriela, por favor, antes de hablar con Juan Carlos, haceme un resumen de esto, lo último.  Gabriela, la palabra es tuya. ",
+            "cosine_dist": 0.7518991970404999,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1478.587,
+            "end_time": 1543.389,
+            "text": "Bueno, me parece que más berreta es hablar de la gente, de la vida de la gente.  Yo quería que no se pelean.  El balance, ¿viste?  Incluirla en el balance de las cosas y hablar de la vida de la gente como si fueran Un dato más, gente que se muere, entonces si se mueren en un accidente de tránsito no vendamos autos.  O sea, realmente argumentos infantiles para discutir sobre la vida de millones de gente que tal vez ni siquiera encuentren un lugar donde enterrarse.  Entonces, a mí me parece que primero la famosa falsa dicotomía berreta la instalaron ellos.  Estalaron los economistas que están en contra.  Aparte, ahora se preocupan porque cerraron quince mil fábricas cuando en el periodo anterior cerraban todos los días miles de fábricas y jamás lo escuchamos quejarse al señor Milley.  Entonces, a mí me causa gracia y me causa mucho miedo cuando veo que se habla de esta forma queriendo creer que a mí me va a insultar porque me diga que yo soy berreta. ",
+            "cosine_dist": 0.7131879259058576,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1544.019,
+            "end_time": 1547.641,
+            "text": "La verdad que... No, pero Gaby, pará, lo estamos llevando... ",
+            "cosine_dist": 0.8236253667121177,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1548.582,
+            "end_time": 1553.946,
+            "text": "Nosotros estamos acá trabajando porque nosotros todos somos científicos.  Nadie duda, por. ",
+            "cosine_dist": 0.728137469634937,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1553986,
+            "end_time": 1554266,
+            "text": "supuesto. ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 2",
+            "start_time": 1554.306,
+            "end_time": 1611.103,
+            "text": "Nosotros estamos atendiendo personas que están sufriendo, que están con respirador, que están con dolor, que están solas, que tal vez se mueran solas, que sus familias no las van a poder ver, ni siquiera darle un abrazo antes de que se mueran.  Entonces, aunque sea por eso, el señor Milley tendría que poner un poquito de respeto a sus palabras y de consideración.  porque además, como no tiene ninguna función pública, y además se presentaron elecciones para tener un poquito de plata del Estado, porque la verdad que no llegaron ni a la esquina, y entonces ahora nos viene a venir a nosotros a hablar de política pública.  Por favor, primero, señor Milei, lea un poquito los libros y después venga a hablar acá de la salud y a no plantear falsos dilemas, porque es muy grave lo que va a pasar acá, si seguimos con esta apertura y la gente no toma conciencia de que está por saturar ",
+            "cosine_dist": 0.7155195355650752,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1611.183,
+            "end_time": 1621.307,
+            "text": "el sistema.  Nada más, le agradezco mucho a todos.  Gracias Gabriela, te mando un beso enorme, no quería que te enojaras, tampoco quería llevar esto a un terreno estrictamente político, si vos sos de acá, si sos de allá.  Lo cierto ",
+            "cosine_dist": 0.8143515942975869,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1621347,
+            "end_time": 1621647,
+            "text": "es que ",
+            "cosine_dist": 1.0,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1622.227,
+            "end_time": 1704.81,
+            "text": "creo yo que la estructura de salud, lo hablamos el otro día con Leandro, con Santoro, En cuanto a que la estructura de salud, y vos lo sabés más que nadie, en un país tan lindo y tan rico y tan creativo y tan inteligente como la Argentina, aunque el COVID se ha llevado puesto de las mejores estructuras de salud del mundo, ¿no?  En la mayoría de los casos, porque fue muy repentino, porque nadie sabía cómo atacarlo y demás.  Yo no quería que se fueran al plano más político y pelearse.  Lo que yo siento es que en la Argentina hace muchos años, gobierne quien gobierne, lamentablemente que los hospitales no son los mejores del mundo, que nunca nos alcanza, que lamentablemente deberíamos estar mejor.  Y me decía Leandro Santoro el otro día que lo tomaba como un punto pendiente, por lo menos de la parte que le toca al gobierno actual o al que viniera después o el que estuvo, de decir, bueno, hay que trabajar en esa área porque qué vamos a hacer cuando nos agarre otra pandemia.  Vamos a seguir sin camas, sin respiradores, sin gente.  Es decir, el pueblo argentino se merece, si se enferma, de estar bien atendido, lo más gratuitamente posible y con la mayor cantidad de hospitales en buen estado posible repartidos en el país.  Es lo que, utópicamente quiero decir, o que me parecería lo ideal para que todos estuviéramos tranquilos.  Pero reitero que esto es una cosa que se ha llevado puesto a todo el mundo y que ha sido muy repentina y que medio que va surfeando la ola como viene.  A todos los países les pasó.  Le pasó a Reino Unido, le pasó a España, le pasó a Italia, le pasó a Estados Unidos, le pasó al mismo China.  Gabriela ya está... ",
+            "cosine_dist": 0.7146427062596042,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1705.55,
+            "end_time": 1706.31,
+            "text": "A ver, pero... ",
+            "cosine_dist": 0.8865499191250992,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1706.33,
+            "end_time": 1707.11,
+            "text": "Disculpame. ",
+            "cosine_dist": 0.9209533385857042,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1707.23,
+            "end_time": 1729.822,
+            "text": "Pero, a ver, primero hay una cuestión demagógica.  Toda muerte es un drama, toda muerte es un problema tremendo.  Pero vos lo tenés que poner... Cuando vos haces políticas públicas, justamente, vos mirás el agregado.  Entonces, ese ejemplo que le parece tan infantil, ¿Sabés por qué le parece infantil?  Porque tropieza contra ese ejemplo. ",
+            "cosine_dist": 0.3782851226750509,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1730.002,
+            "end_time": 1739.072,
+            "text": "Pero vos no estabas queriendo decir que es menos importante una muerte de COVID que la del auto, que la de la gripe, que los que se van a morir de hambre.  No estabas queriendo decir eso. ",
+            "cosine_dist": 0.7279745475172046,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1739.593,
+            "end_time": 1741.154,
+            "text": "Sí, pero digamos... ",
+            "cosine_dist": 0.581874096947526,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1741.214,
+            "end_time": 1742.195,
+            "text": "No, está bien, ella lo interpretó. ",
+            "cosine_dist": 0.9540763568832518,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1742.216,
+            "end_time": 1744.678,
+            "text": "Pero ella, digamos, o sea, cae en esa demagogia barata. ",
+            "cosine_dist": 0.4181026789631008,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1745.914,
+            "end_time": 1749.337,
+            "text": "Pero reitero, vos no estás queriendo decir que no te importan las muertes de COVID. ",
+            "cosine_dist": 0.8281805512569218,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1749.357,
+            "end_time": 1880.985,
+            "text": "No, no, pero claramente.  O sea, justamente estoy hablando todo lo contrario.  Lo que estoy diciendo es que cuando vos haces políticas públicas, vos tenés que mirar cuestiones de equilibrio general a lo largo del tiempo.  Entonces vos no podés cometer errores.  digamos, tan groseros que el remedio sea peor que la enfermedad.  Y después, o sea, recurrir a la demagogia barata, digamos, está claro que está mal.  O sea, digamos, entonces ahí se cae solito el argumento de la señora.  Pero no solo eso, digamos, comete algunas falacias adicionales.  Digo, comete falacias de la autoridad.  En el fondo, ella sostiene que lo que yo digo no tengo razón porque básicamente ella cree que yo pertenezco a una visión política que llevó el dos por ciento de los votos.  La realidad es que parece que no sabe, digamos, que justamente antes de las elecciones yo quité el apoyo, sí, justamente a Spert por, digamos, el tipo de alianzas que estaba haciendo.  Es más, después me relaciona con el gobierno anterior.  O sea, lo cual, digamos, si hay alguien que ha criticado al gobierno anterior, digamos, he sido yo.  O sea, hasta están los videos de eso.  Pero me parece, digamos, extremadamente... digamos, que la salud esté en manos de gente que comete falacias tan groseras.  Porque eso de las falacias, viste, de ad populum, digamos, ah, ustedes los votaron uno y medio, dos... Ahora supongamos que fuera el caso.  ¿Sabes qué?  A Hitler era muy popular, ¿eh?  Y sin embargo hizo un desastre.  Mussolini era muy popular y sin embargo hizo un desastre.  Entonces, digamos, eso también es un error grosero.  O sea, lo interesante es discutir argumentos.  Pero ¿sabes cuál es el problema?  El problema es que los infectólogos tienen un problema muy grande con las matemáticas.  Y lo que no pueden, digamos, aceptar es que cometieron un error de trescientos veinte a uno.  Ese es el problema.  ¿Me comprendés?  Entonces, ¿por qué?  Porque amenazaron con algo similar a la peste española. ",
+            "cosine_dist": 0.308890426648492,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1881.005,
+            "end_time": 1882.386,
+            "text": "En el mundo decís, no acá solamente. ",
+            "cosine_dist": 0.9669850498548074,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1882.426,
+            "end_time": 1920.813,
+            "text": "Estoy tomando a nivel mundial.  ¿Me entendés?  Que hubiera implicado, ¿sí?  Ciento sesenta millones de muertos.  O sea, cuatrocientos mil por día.  El mundo se está estabilizando en torno a... Entonces le periciaron por trescientas veinte veces.  Es más, la peste española con la que amenazaron, ¿sí?  ¿Sabés qué?  Infectó a un tercio del planeta Tierra.  Es decir que con lo que ellos amenazaron debería haber infectados en este momento, ¿sí?  Dos mil quinientos millones de personas.  Sí.  ¿Me entendés?  Son cerca de ocho millones en el mundo.  Es decir, tienen un problema que se llama orden de magnitudes. ",
+            "cosine_dist": 0.3813634722937723,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1920.853,
+            "end_time": 1923.453,
+            "text": "Bueno, pero los infectólogos les pagan para otra cosa, ¿no?  Para hacer números. ",
+            "cosine_dist": 0.8543518267948174,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1923.473,
+            "end_time": 1924.874,
+            "text": "Bueno, pero sí, pero digamos, o sea... ",
+            "cosine_dist": 0.7347789429331313,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1925.154,
+            "end_time": 1927.534,
+            "text": "En tu teoría alguien los podría haber asesorado para... ",
+            "cosine_dist": 0.9736094813027043,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1927.554,
+            "end_time": 1928.515,
+            "text": "Es que ese es mi punto. ",
+            "cosine_dist": 0.7648015850426686,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1928.535,
+            "end_time": 1932.035,
+            "text": "Son varios componentes de un país para tomar una determinación. ",
+            "cosine_dist": 0.6621988067371785,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1932.055,
+            "end_time": 1943.399,
+            "text": "O sea, para mí el problema final es del presidente que solo si, digamos, se dejó llevar por la opinión de los infectólogos y No miro otros efectos. ",
+            "cosine_dist": 0.3877758758782206,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1943.419,
+            "end_time": 1956.851,
+            "text": "Pero dijiste que le pasó a Merkel.  Yo me acuerdo de las declaraciones de Merkel en Alemania que dijo que el sesenta, setenta por ciento de Alemania va a estar infectada.  y si no lo estuvo es por eso que dijiste que reprimió a sus infectólogos.  Pero no creo que se reduzca a eso.  Me parece medio... ",
+            "cosine_dist": 0.7937518158449977,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1958.413,
+            "end_time": 1960.434,
+            "text": "caerle casi en su trabajo. ",
+            "cosine_dist": 0.81740029908498,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 1960.774,
+            "end_time": 1964.637,
+            "text": "Me parece que es un componente de varias áreas que determinan tomar una determinación. ",
+            "cosine_dist": 0.7183622592903314,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 1964.657,
+            "end_time": 2014.89,
+            "text": "¿Sabés lo que pasa, Leo?  Te muestro otro error.  La señora habla de exponencial.  No sabe ni lo que es una función exponencial.  La matemática y la naturaleza, las infecciones, llevan un comportamiento que se llama... Función logística.  Arranca como una exponencial y después se convierte en una logarítmica.  Entonces ni siquiera conocen eso.  Es más, en ese punto donde cambia el formato de crecer crecientemente a crecer decrecientemente es donde encuentra el pico... de infectados y asociado a ello el pico de muertos.  Es decir, si entendieran un poquito más de matemática, no hubieran estado errando sistemáticamente de cuándo venía el pico.  Porque te recuerdo que dijeron en abril, después en mayo, después en junio. ",
+            "cosine_dist": 0.34930856277572686,
+            "is_target_speaker": true
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2014.911,
+            "end_time": 2017.012,
+            "text": "El pico lo venimos escuchando desde abril, eso es correcto. ",
+            "cosine_dist": 0.8109679840963323,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2017.353,
+            "end_time": 2023.038,
+            "text": "Pero bueno, pasó en todos los países también.  Es decir, tienen menos precisión que el pipita higuaín en una final. ",
+            "cosine_dist": 0.5860700494597475,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2023.178,
+            "end_time": 2023.819,
+            "text": "Pobre higuaín. ",
+            "cosine_dist": 0.950393649970731,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2025.433,
+            "end_time": 2031.084,
+            "text": "Tenés razón, pobre y guay.  Le acabo de pegar re duro a la luz de las pataduras que son los infectólogos. ",
+            "cosine_dist": 0.5269407759749356,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 1",
+            "start_time": 2031.184,
+            "end_time": 2032.126,
+            "text": "Gracias, Javi, por haber venido. ",
+            "cosine_dist": 0.9600792049387558,
+            "is_target_speaker": false
+        },
+        {
+            "speaker": "Speaker 0",
+            "start_time": 2032.306,
+            "end_time": 2033.308,
+            "text": "No, por favor, un placer. ",
+            "cosine_dist": 0.9133827726389034,
+            "is_target_speaker": false
+        }
+    ]
+}
