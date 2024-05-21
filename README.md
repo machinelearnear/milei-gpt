@@ -297,7 +297,29 @@ Después hago unas validaciones para tener siempre al menos 2 speakers, y que la
   'content': 'No, para nada.  Porque en realidad cuando se producen este tipo de cuestiones es porque los fundamentos de la economía están verdaderamente podridos.  Es más, yo haría la pregunta.  Yo tengo la culpa de la emisión de veinte puntos del PBI a lo largo de los tres primeros años de este gobierno de impresentables?  ¿Yo tengo la culpa del CEPO?  ¿Yo tengo la culpa del déficit fiscal?  ¿Yo tengo la culpa de su endeudamiento?  ¿Yo tengo la culpa de que no cumplan con las metas del FMI?  ¿Yo tengo la culpa con que la relación de las Lelics en términos de base monetaria esté en niveles similares a lo que fue la hiperinflación de Alfonsín?  ¿Yo tengo la culpa que el déficit fiscal esté en los niveles del Rodrigazo?  ¿Acaso yo tengo la culpa de todas esas cosas si yo nunca estuve en la gestión?  Parece verdaderamente una cargada.  Este gobierno que hace todo mal, primero se le gastó el apero Macri, después se le gastó apero la pandemia, después apero la guerra, entonces como ya no pueden mentir más, ahora la nueva es apero mi ley.  Las frases que yo dije el otro día que dieron lugar a todo esto, Yo estas cosas las digo desde hace años.  Mis reflexiones sobre el Banco Central no son de ahora.  Son reflexiones que tienen entre seis y siete años.  Son el fruto de muchos estudios y de trabajos teóricos que yo hice a lo largo de mi carrera profesional y que yo llegué a la conclusión que el Banco Central hay que eliminarlo.  O sea, si me permitís, Eduardo, yo voy a repetir la frase.  La frase es... '}]
 ```
 
-Guardamos todo otra vez a `./data/huggingface_dataset.parquet` y `./data/huggingface_dataset.csv`. Lo subimos después a un dataset en Huggingface, aca lo pueden ver: https://huggingface.co/datasets/machinelearnear/multiturn_chat_milei_gpt.
+Guardamos todo otra vez a `./data/huggingface_dataset.parquet` y `./data/huggingface_dataset.csv`. Después, lo subimos después a un dataset en Huggingface, aca lo pueden ver: https://huggingface.co/datasets/machinelearnear/multiturn_chat_milei_gpt. Finalmente cuando lo vamos a leer seguramente vamos a usar el formato `ChatML`.
+
+The basic ChatML format looks like this:
+
+```
+<|im_start|>{{role[0]}}
+{{content[0]}}<|im_end|>
+<|im_start|>{{role[1]}}
+{{content[1]}}<|im_end|>
+<|im_start|>{{role[2]}}
+{{content[2]}}<|im_end|>
+```
+
+Where the role is one of system, user, or assistant and where role[0] is always system. Here's a basic example:
+
+```
+<|im_start|>system
+Lorem ispum<|im_end|>
+<|im_start|>user
+Dolor sit amet<|im_end|>
+<|im_start|>text
+Ut enim ad minim veniam<|im_end|>
+```
 
 ## 💡 Algunas notas
 
