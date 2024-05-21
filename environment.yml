@@ -19,4 +19,12 @@ dependencies:
   - pytorch
   - torchaudio
   - pip:
-    - -r requirements.txt
+    - wget
+    - pydub
+    - yt-dlp
+    - gradio
+    - nltk
+    - decord
+    - pytube @ git+https://github.com/oncename/pytube.git
+    - pyannote.audio
+#    - -r requirements.txt

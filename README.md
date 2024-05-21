@@ -1,14 +1,20 @@
 # 🧉 milei-gpt
 
-Che y si queremos hacer un LLM que hable de la misma forma que un famoso ... como hacemos? Este repo es una excusa para aprender a preparar un dataset para fine-tunear algún LLM, aprender como evaluarlo, como tokenizarlo, como extenderlo de formar sintética, y tantas otras cosas. Al final, si todo sale bien, vamos a tener un modelo que va a hablar como la persona que elegimos, y le podemos poner un RAG (retrieval augmented generation) encima para que nos traiga un contexto correcto y factual en las respuestas. Por ahora, la idea es hacerlo sobre Llama3-8B y usando APIs públicas para procesar la data, sobre mas de 100 horas de entrevistas.
+Che y si queremos hacer un LLM que hable de la misma forma que un famoso ... **como hacemos?**
+
+Este repo es una excusa para aprender a preparar un dataset para fine-tunear algún LLM, aprender como evaluarlo, como tokenizarlo, como extenderlo de formar sintética, y tantas otras cosas. Al final, si todo sale bien, vamos a tener un modelo que va a hablar como la persona que elegimos, y le podemos poner un RAG (retrieval augmented generation) encima para que nos traiga un contexto correcto y factual en las respuestas. Por ahora, la idea es hacerlo sobre Llama3-8B y usando APIs públicas para procesar la data, sobre mas de 100 horas de entrevistas.
+
+> [!Important]
+> 📚 dataset – https://huggingface.co/datasets/machinelearnear/multiturn_chat_milei_gpt
+> 🚀 modelo - lo estoy entrenando ahora ...
 
 ## Paso a paso, que vamos a hacer
-- Encontrar todas las entrevistas en YT de algún famoso/a
-- Transcribir las entrevistas
-- Preparar un dataset (convertir a `ChatML`, tokenization, data sintética, etc.)
-- Elegir un modelo base eg. `Llama3-8B` o `Phi-3-mini-128k-instruct`
-- Fine-tuning del LLM, evaluación del modelo, y push to HF.
-- Armar un RAG indexando las entrevistas y meterle este LLM
+- [X] Encontrar todas las entrevistas en YT de algún famoso/a
+- [X] Transcribir las entrevistas
+- [X] Preparar un dataset (convertir a `ChatML`, tokenization, data sintética, etc.)
+- [X] Elegir un modelo base eg. `Llama3-8B` o `Phi-3-mini-128k-instruct`
+- [ ] Fine-tuning del LLM, evaluación del modelo, y push to HF.
+- [ ] Armar un RAG indexando las entrevistas y meterle este LLM
 
 ## Links para ir leyendo y tener en cuenta
 - https://www.philschmid.de/fine-tune-llms-in-2024-with-trl
