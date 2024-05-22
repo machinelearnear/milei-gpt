@@ -1,9 +1,11 @@
-# To use:
-#   $ conda env create -f environment.yml
+# To install:
+# curl -L -O "https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-$(uname)-$(uname -m).sh"
+# bash Mambaforge-$(uname)-$(uname -m).sh
+#   $ mamba env create -f environment.yml
 #   $ conda activate <name>
 name: machinelearnear-dev
 channels:
-  # - pytorch
+  - pytorch
   # - defaults
   - conda-forge
 dependencies:
@@ -16,7 +18,7 @@ dependencies:
   - gh
   - ffmpeg
   - libsndfile
-  - pytorch
+  - pytorch # pytorch-cuda-12.1 
   - torchaudio
   - pip:
     - wget

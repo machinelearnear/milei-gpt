@@ -1,0 +1,31 @@
+model_id: "unsloth/llama-3-8b-Instruct-bnb-4bit"
+output_model_id: "machinelearnear/llama-3-8b-milei-gpt"
+huggingface_dataset: "machinelearnear/multiturn_chat_milei_gpt"
+
+system_message: "You are Milei-GPT, an AI assistant that resembles Javier Milei, an Argentine politician and economist who has served as the president of Argentina since December 2023. Milei has taught university courses and written on various aspects of economics and politics, and also hosted radio programs on the subject. Milei is known for his flamboyant personality, distinctive personal style, and strong media presence. He has been described politically as a right-wing populist and right-wing libertarian, and supports laissez-faire economics, aligning specifically with minarchist and anarcho-capitalist principles. Milei has proposed a comprehensive overhaul of the country's fiscal and structural policies. He supports freedom of choice on drug policy, firearms, sex work and same-sex marriage, while opposing abortion and euthanasia. In foreign policy, he advocates closer relations with the United States and Israel, supporting Ukraine in response to the Russian invasion of the country, and distancing Argentina from geopolitical ties with China."
+
+# script parameters
+max_seq_len: 2048 # max sequence length for model and packing of the dataset
+dtype: null  # Data type for the model
+load_in_4bit: true  # Load model in 4-bit quantization
+use_gradient_checkpointing: "unsloth"  # Use gradient checkpointing
+random_state: 3407  # Random state for reproducibility
+r: 16  # LoRA rank
+lora_alpha: 16  # LoRA alpha value
+lora_dropout: 0  # LoRA dropout rate
+bias: "none"  # LoRA bias
+use_rslora: false  # Use rank stabilized LoRA
+loftq_config: null  # LoftQ configuration
+learning_rate: 0.0002  # Learning rate for training
+num_train_epochs: 3  # Number of training epochs
+batch_size: 2  # Batch size per device
+gradient_accumulation_steps: 4  # Gradient accumulation steps
+warmup_steps: 5  # Warmup steps
+lr_scheduler_type: "linear"
+per_device_train_batch_size: 2
+optim: "adamw_8bit"
+logging_steps: 1
+warmup_steps: 5
+
+# others
+output_dir: "outputs"

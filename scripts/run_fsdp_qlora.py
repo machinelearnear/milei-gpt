@@ -129,8 +129,10 @@ def training_function(script_args, training_args):
         lora_alpha=8,
         lora_dropout=0.05,
         r=16,
+        target_modules = ["q_proj", "k_proj", "v_proj", "o_proj",
+                          "gate_proj", "up_proj", "down_proj",],
         bias="none",
-        target_modules="all-linear",
+        # target_modules="all-linear",
         task_type="CAUSAL_LM",
         # modules_to_save = ["lm_head", "embed_tokens"] # add if you want to use the Llama 3 instruct template
     )

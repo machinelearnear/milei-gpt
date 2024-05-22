@@ -5,6 +5,11 @@ data/youtube_data_hq
 scripts/logs
 scripts/temp_outputs
 scripts/pretrained_models
+scripts/lora_model
+scripts/outputs
+notebooks/lora_model
+notebooks/outputs
+*llama-3-8b-machinelearnear-milei-gpt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
