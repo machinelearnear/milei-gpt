@@ -9,15 +9,17 @@ Este repo es una excusa para aprender a preparar un dataset para fine-tunear alg
 > - 🚀 **modelo -** https://huggingface.co/machinelearnear/llama-3-8b-milei-gpt
 
 > [!NOTE]
-> Si querés probar como funciona, podés seguir los pasos de esta notebook: [`llama-3-8b-unsloth-chat-template-inference.ipynb`](./notebooks/llama-3-8b-unsloth-chat-template-inference.ipynb)
+> Si querés probar como funciona, podés seguir los pasos de esta notebook:
+> - [`llama-3-8b-unsloth-chat-template-inference.ipynb`](./notebooks/llama-3-8b-unsloth-chat-template-inference.ipynb)
 
 ## Paso a paso, que vamos a hacer
 - [X] Encontrar todas las entrevistas en YT de algún famoso/a y ponerlas en un `.csv`
 - [X] Transcribir las entrevistas e identificar a los speakers (+ verificación)
 - [X] Preparar un dataset (convertir a `ChatML`, tokenization, mergear speakers, etc.)
-- [X] Elegir un modelo base eg. `Llama3-8B` o `Phi-3-mini-128k-instruct`
+- [X] Elegir un modelo base eg. `Llama3-8B` o `Phi-3-mini-128k-instruct`.
 - [X] Fine-tuning del LLM, evaluación/inferencia, y pushearlo a Huggingface.
-- [ ] Armar un RAG indexando las entrevistas y meterle este LLM encima
+- [ ] Procesar el dataset con un LLM para mejorar las conversaciones.
+- [ ] Armar un RAG indexando las entrevistas y meterle este LLM encima.
 
 ## Links para ir leyendo y tener en cuenta
 - https://www.philschmid.de/fine-tune-llms-in-2024-with-trl
