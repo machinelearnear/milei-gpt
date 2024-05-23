@@ -2,7 +2,7 @@
 # coding: utf-8
 
 import os
-os.environ['HF_HOME'] = '/home/ec2-user/SageMaker/.cache/huggingface'
+os.environ['HF_HOME'] = 'your-cache-dir'
 
 from unsloth import FastLanguageModel
 from datasets import load_dataset
