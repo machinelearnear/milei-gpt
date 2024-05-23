@@ -7,10 +7,7 @@ Este repo es una excusa para aprender a preparar un dataset para fine-tunear alg
 > [!IMPORTANT]
 > - 📚 **dataset –** https://huggingface.co/datasets/machinelearnear/multiturn_chat_milei_gpt
 > - 🚀 **modelo -** https://huggingface.co/machinelearnear/llama-3-8b-milei-gpt
-
-> [!NOTE]
-> Si querés probar como funciona, podés seguir los pasos de esta notebook:
-> - [`llama-3-8b-unsloth-chat-template-inference.ipynb`](./notebooks/llama-3-8b-unsloth-chat-template-inference.ipynb)
+> - Si querés probar como funciona, podés seguir los pasos [de esta notebook](./notebooks/llama-3-8b-unsloth-chat-template-inference.ipynb)
 
 ## Paso a paso, que vamos a hacer
 - [X] Encontrar todas las entrevistas en YT de algún famoso/a y ponerlas en un `.csv`
