@@ -25,6 +25,7 @@ Este repo es una excusa para aprender a preparar un dataset para fine-tunear alg
 - [X] Procesar el dataset con un LLM para mejorar las conversaciones.
 - [ ] Armar un RAG indexando las entrevistas y meterle este LLM encima.
 - [ ] Entrenar mas LLMs y que conversen entre si de forma autónoma ie. Multi-Agent Conversation.
+- [ ] Preparar un dataset de preferencias (ORPO, DPO) con `distilabel` o parecido.
 
 ## Video-tutoriales
 ### Parte I: Dataset
