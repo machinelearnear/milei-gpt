@@ -1,13 +1,20 @@
-# 🧉 milei-gpt
+# 🧉 Milei-GPT
+- https://www.machinelearnear.com
 
 Che y si queremos hacer un LLM que hable de la misma forma que un famoso ... **como hacemos?**
 
-Este repo es una excusa para aprender a preparar un dataset para fine-tunear algún LLM, aprender como evaluarlo, como tokenizarlo, como extenderlo de formar sintética, y tantas otras cosas. Al final, si todo sale bien, vamos a tener un modelo que va a hablar como la persona que elegimos, y le podemos poner un RAG (retrieval augmented generation) encima para que nos traiga un contexto correcto y factual en las respuestas. Por ahora, la idea es hacerlo sobre Llama3-8B y usando APIs públicas para procesar la data, sobre mas de 100 horas de entrevistas.
+Este repo es una excusa para aprender a preparar un dataset para fine-tunear algún LLM, aprender como evaluarlo, como tokenizarlo, como extenderlo de formar sintética, y tantas otras cosas. Al final, si todo sale bien, vamos a tener un modelo que va a hablar como la persona que elegimos, y le podemos poner un RAG (retrieval augmented generation) encima para que nos traiga un contexto correcto y factual en las respuestas. Por ahora, la idea es hacerlo sobre Llama3-8B y usando APIs públicas para procesar la data, sobre mas de 300 horas de entrevistas.
 
-> [!IMPORTANT]
-> - 📚 **dataset –** https://huggingface.co/datasets/machinelearnear/multiturn_chat_milei_gpt
-> - 🚀 **modelo -** https://huggingface.co/machinelearnear/llama-3-8b-milei-gpt
-> - Si querés probar como funciona, podés seguir los pasos [de esta notebook](./notebooks/llama-3-8b-unsloth-chat-template-inference.ipynb)
+## Lo importante
+### 📚 **Dataset**
+- https://huggingface.co/datasets/machinelearnear/multiturn_chat_milei_gpt
+### 🚀 **Modelos**
+- https://huggingface.co/machinelearnear/llama-3-8b-milei-gpt
+- https://huggingface.co/machinelearnear/mistral-7b-instruct-v0.3-bnb-4bit-milei-gpt
+- https://huggingface.co/machinelearnear/Phi-3-mini-4k-instruct-milei-gpt
+- https://huggingface.co/machinelearnear/Phi-3-medium-4k-instruct-milei-gpt
+### 🛠 **Inferencia** 
+- Si querés probar como funciona, podés seguir los pasos [de esta notebook](./notebooks/llama-3-8b-unsloth-chat-template-inference.ipynb) cambiando el `model_name` por el del modelo que quieras usar eg `model_name = "machinelearnear/Phi-3-medium-4k-instruct-milei-gpt"`. 
 
 ## Paso a paso, que vamos a hacer
 - [X] Encontrar todas las entrevistas en YT de algún famoso/a y ponerlas en un `.csv`
@@ -15,8 +22,16 @@ Este repo es una excusa para aprender a preparar un dataset para fine-tunear alg
 - [X] Preparar un dataset (convertir a `ChatML`, tokenization, mergear speakers, etc.)
 - [X] Elegir un modelo base eg. `Llama3-8B` o `Phi-3-mini-128k-instruct`.
 - [X] Fine-tuning del LLM, evaluación/inferencia, y pushearlo a Huggingface.
-- [ ] Procesar el dataset con un LLM para mejorar las conversaciones.
+- [X] Procesar el dataset con un LLM para mejorar las conversaciones.
 - [ ] Armar un RAG indexando las entrevistas y meterle este LLM encima.
+- [ ] Entrenar mas LLMs y que conversen entre si de forma autónoma ie. Multi-Agent Conversation.
+
+## Video-tutoriales
+### Parte I: Dataset
+[![#Milei-GPT: Fine-tuning con +300 horas de entrevistas (tutorial con repo incluido)](https://img.youtube.com/vi/bIZMgHK8Y-8/0.jpg)](https://www.youtube.com/watch?v=bIZMgHK8Y-8)
+
+### Parte II: Fine-tuning e inferencia
+`pronto`
 
 ## Links para ir leyendo y tener en cuenta
 - https://www.philschmid.de/fine-tune-llms-in-2024-with-trl
@@ -24,11 +39,12 @@ Este repo es una excusa para aprender a preparar un dataset para fine-tunear alg
 - https://github.com/unslothai/unsloth
 - https://predibase.com/blog/lora-land-fine-tuned-open-source-llms-that-outperform-gpt-4
 - https://medium.com/@xuebinbin12/fine-tuning-chat-based-llm-with-multi-turn-conversational-data-part-i-d8c64d01a20d
-- https://github.com/e-p-armstrong/augmentoolkit, https://github.com/severian42/Vodalus-Expert-LLM-Forge, https://huggingface.co/blog/dvilasuero/synthetic-data-with-llama3-distilabel
-- https://huggingface.co/docs/transformers/main/en/chat_templating
-- https://huggingface.co/blog/burtenshaw/domain-specific-datasets
-- https://huggingface.co/spaces/argilla/domain-specific-datasets-welcome
+- Synthetic datasets: https://github.com/e-p-armstrong/augmentoolkit, https://github.com/severian42/Vodalus-Expert-LLM-Forge, https://huggingface.co/blog/dvilasuero/synthetic-data-with-llama3-distilabel
+- Chat templating: https://huggingface.co/docs/transformers/main/en/chat_templating
+- Domain-specific datasets: https://huggingface.co/blog/burtenshaw/domain-specific-datasets. https://huggingface.co/spaces/argilla/domain-specific-datasets-welcome
 - https://www.reddit.com/r/LocalLLaMA/
+- AI Agents: https://docs.crewai.com, https://github.com/Fus3n/TwoAI, https://github.com/microsoft/autogen
+- Multi-LoRA Adapter hosting on single GPU: https://github.com/aws-samples/sagemaker-genai-hosting-examples/blob/main/Mistral/Mistral-7b/LMI/pef-lora/multi_adapter_hosting_sagemaker.ipynb, https://github.com/aws-samples/sagemaker-genai-hosting-examples/blob/main/Llama2/Llama2-7b/LMI/llama2-7b-multi-lora-adapters-sagemaker.ipynb
 
 ## 🛠 Buenos, vamos a arrancar, que necesitás?
 
@@ -56,7 +72,7 @@ $ conda activate machinelearnear-dev
 ### Vamos a ver el código un poco
 Como todo esto es un WIP (work in progress) lo tengo todo puesto adentro de `./scripts`. Vamos a ver algunos: 
 
-**`0_encontrar_raw_data_en_youtube.py`**
+**`encontrar_raw_data_en_youtube.py`**
 
 Este script se utiliza para extraer información de videos de YouTube de ciertos candidatos, procesar esa información para obtener detalles específicos sobre los videos (como duración, vistas, etc.), y luego filtrar y guardar los datos en `./data/dataset.csv`. Además, el script organiza los datos tanto de videos de alta calidad (HQ) como de baja calidad (LQ) para su posterior uso.
 
@@ -65,7 +81,7 @@ python 0_encontrar_raw_data_en_youtube.py --data_dir_hq ./data/youtube_data_hq \
     --data_dir_lq ./data/youtube_data_lq --output_filename ./data/dataset.csv
 ```
 
-**`1_whisper_transcription_nemo_diarization.py`**
+**`whisper_transcription_nemo_diarization.py`**
 
 
 El script descarga audios de YouTube que teniamos guardados en `./data/dataset.csv`, realiza transcripciones utilizando Whisper y realiza la diarización de los segmentos de audio para identificar y separar las diferentes voces en el audio usando NeMo. Estoy usando una versión modificada de este repo: [whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization). Finalmente, guarda los resultados en archivos JSON en `./output/{target_speaker_name}/{youtube_video_id}.json`.
@@ -448,6 +464,9 @@ model.save_pretrained("lora_model")
 model.push_to_hub(output_model_id, token=args.hf_token)
 ```
 
+> [!IMPORTANT]
+> También pueden usar `unsloth_finetuning.py` y cambiar los parámetros de entrada que tenés en `unsloth_finetuning_config.yaml`, especialmente alrededor de los `model_id`, `output_model_id`, y `chat_template`.
+
 
 **`llama-3-8b-unsloth-chat-template-inference.ipynb`**
 
@@ -507,7 +526,126 @@ Y esto es lo que nos devuelve:
 
 > No sé si me entendés o no.  ¿Me podés explicarlo?  No te entiendo.  Yo creo que es una locura porque vos tenés un problema con la inflación y lo querés resolver aumentando impuestos.  Es decir... Vos fíjate esto.  Si yo tengo un problema en mi casa con las cucarachas, digamos, por ejemplo, para arreglarlo voy a tener que comprar más insecticida.  O sea, eso va contra todo sentido común.  Entonces, bueno, ahora vamos al caso argentino.  El Estado tiene un déficit monetario enorme.  Y ese déficit monetario se financia emitiendo dinero.  Ese dinero entra a la economía y genera presión sobre los precios.  Por ende, cuando hay aumento del nivel generalizado de precios, sube la tasa de interés real.  Cuando suben los intereses reales, caemos en actividad económica.  Consecuentemente, bajan los salarios reales.  Bajo los salarios reales, baja la demanda de trabajo.  La oferta excede la demanda, cae el empleo formal.  En paralelo, como todos somos seres humanos, necesitamos comer.  Nosotros nos alimentamos, entonces tenemos que ir a trabajar informalmente.  Ahora bien, esa gente trabajadora que está ganándole a la pobreza, le van a estar robando sus ingresos con impuesto inflacionario.  Pero además, ya no solo que le roban su salario, sino que también pierde el seguro social.  Así es que terminás perdiendo dos veces.  Primero perdés tu poder adquisitivo y después perdés tus derechos sociales.  Esto quiere decir que cada vez que hacemos este tipo de cosas estamos generando pobres.  Está claro que no puede haber crecimiento económico sin generar riquezas.  Para que haya crecimiento económico hay que producir más valor neto.  De vuelta, eso requiere invertir.  Quiere decir que necesita capital.  Dicho capital viene de ahorrar.  A ver, vos vas a hacer inversiones, ¿cómo haces esas inversiones?  Con plata.  ¿Cómo sacaste la plata?  Ganandote.  ¿Y cómo ganabas?  Trabajando.  ¿Cuánto ganaba?  Más.  ¿Por qué ganábamos más?  Porque había menos competencia.  ¿Quién era menor competitividad?  Los sindicalizados.  ¿Qué hicieron estos imbéciles?  Se metió el gobierno en el mercado laboral.  Fue tan mal hecho que hoy tenemos cincuenta por ciento de pobres.  Tenías dieciocho por ciento de indigentes.  Hoy son tres millones setecientos mil.  Tuviste once coma cinco por ciento de desempleados.  Hoy estás cerca del veinte.  ¿Sabés cuál fue el gran error?  Que entró el Estado en el sector privado.  Bueno, ¿qué pasó?  Entraron los políticos ladrones.  ¿Saben quiénes son los grandes ladrones?  Son los políticos.  Sí, sí, están acá sentadas todas estas personas que votaron a esta casta política corrupta.  ¿Vos sabés qué es lo peor de todo?  Lo peor de todo es que ellos tienen privilegios.  Mientras nosotros paguemos nuestros impuestos honestamente, ellos pagan impuestos de manera fraudulenta.  ¿Puedo preguntarte algo?
 
-**🚀 Funciona!!!**
+## 🚀 Funciona!!!
+
+**`metaprompter_example_bedrock.ipynb`**
+
+Haciendo un par de pruebas en la notebook de arriba podemos ver que muchas veces la respuesta que nos da el modelo no suena del todo bien. Esto es en parte porque no estamos forzando ningún contexto directamente de las entrevistas (es menos factual digamos) pero también porque si vemos las transcripciones de las entrevistas, vemos que muchas veces el texto es "caótico" o `tramboliko` para ponerlo de forma científica. Esto es porque muchas veces tenés gente hablando encima de los demás o se interrumpen, o a veces no agarra bien los nombres de las cosas o de las personas. Por eso queria probar que tan bien podriamos "limpiar" el dataset si lo hacemos pasar por un LLM, en este caso Anthropic Claude Sonnet. Vamos a usar `metaprompter` para ayudarnos con la prompt, [con un ejemplo hecho por AWS](https://github.com/aws-samples/amazon-bedrock-prompting/blob/main/notebooks/Metaprompt_generator_bedrock.ipynb). Si corren la notebook end to end van a generar un archivo `metaprompter_output.json` localmente.
+
+> This notebook is based on the colab notebook designed by Anthropic Prompt Engineer [Zack Witten](https://twitter.com/zswitten/) available on [this link](https://colab.research.google.com/drive/1SoAajN8CBYTl79VyTwxtxncfCWlHlyy9) and revised version by AWS Senior Solutions Architect [Matias Battaglia](https://www.linkedin.com/in/mbattagliaromano).
+
+Aca está la prompt que me generó:
+
+```
+Prompt:
+Your task is to convert a multi-turn conversation between a "user" and an "assistant" into an
+interview format, where the "user" is considered the interviewer or host, and the "assistant" is the
+person being interviewed.
+
+You will receive the conversation as input in the following format:
+
+{message}
+
+Here are the steps to follow:
+
+1. For the "user" messages:
+- Remove any unnecessary or repetitive words to make the questions as concise as possible.
+- Merge related messages if it makes sense to do so.
+- Fix any grammar errors, keeping in mind that the conversation is in Rioplatense Spanish and may
+contain Argentinian topics or references (e.g., "kiserismo" refers to "kirchnerismo").
+
+2. For the "assistant" messages:
+- Keep the tone, wording, length, and way of speaking as factual and unchanged as possible.
+- Do not modify or paraphrase the content of these messages.
+
+3. Structure the output as a series of questions from the "user" (interviewer) and answers from the
+"assistant" (interviewee), maintaining the conversational flow.
+
+4. Format your response as a JSON object with the following structure:
+
+<response>
+{'content': 'The converted interview-style conversation goes here', 'role': 'user'}
+</response>
+
+Wrap the entire JSON object within <response></response> tags.
+
+Here's an example of the expected output format:
+
+<example>
+<response>
+{'content': 'User: What is your name?
+Assistant: My name is Claude.
+
+User: Where are you from?
+Assistant: I'm an AI assistant. I don't have a physical location or origin.', 'role': 'user'}
+</response>
+</example>
+
+Remember, your goal is to convert the given conversation into an interview-style format while
+preserving the factual content of the "assistant" responses and making the "user" questions more
+concise and natural.
+```
+
+Y el resultado cuando agarras los primeros 50 items dentro de una conversación:
+
+```
+[{'content': 'Mirá, en minutos va a estar también Jorge Macri. Tenemos aquí a Javier Milei, pero vamos a preguntarle sobre lo que dice Cristian Ritondo: Juntos por el Cambio debería incorporar a Javier Milei para acabar con el populismo kirchnerista. Javier, buenas noches, bienvenido.',
+  'role': 'user'},
+ {'content': 'Pero yo estoy denunciando a Gnosis. A ver. Allá está Jorge. Jorge jamás haría algo así. Jorge no haría eso. Nosotros somos contendientes. Que alguien me explique por qué hay una parte que me torpedea a mí. Si el político que vos tenés enfrente es un chorro, un delincuente, un tirano, ¿qué, te vas a quedar quietito? ¿Vas a dejar que te violen?',
+  'role': 'assistant'},
+ {'content': 'Buenas noches y felices Pascuas.', 'role': 'assistant'},
+ {'content': 'Igualmente. Bueno, arranquemos por... ¿Te están haciendo la campaña desde el Frente de Todos?',
+  'role': 'user'},
+ {'content': 'Bueno, la verdad es que es un pésimo gobierno. No pueden meter ni un penal sin arquero. Y yo creo que de a poco la gente se está dando cuenta. Y conforme se les vaya cayendo la careta, van a seguir perdiendo votos. Y bueno, nosotros tenemos la esperanza de dejarlos terceros y afuera del balotaje, lo cual sería como mandarlos a la B.',
+  'role': 'assistant'},
+ {'content': '¿Qué pasa en La Matanza? Cuando ves que un gobierno que se supone defensor de los derechos humanos, al menos así lo había planteado, va y hace cacheos de la gente. ¿Estás a favor de esa medida?',
+  'role': 'user'},
+ {'content': 'No, no estoy a favor. O sea, eso va contra la libertad, eso nos retrotrae a momentos muy complicados de la historia argentina y eso no se arregla de esa manera. Es decir, eso dio... No se justifica de ninguna manera y además no arregla nada. O sea, nosotros concretamente estamos trabajando en todo un plan sistemático con el tema de la seguridad. Vos no lo podés tomar con cosas aisladas. Entonces, por ejemplo, nosotros... planteamos que hay que ir a una nueva ley de seguridad interior, una nueva ley de defensa nacional, una nueva ley de inteligencia, necesitas trabajar sobre el código penal y sobre la parte procesal del código penal, necesitas reformular el sistema carcelario, y además tenés que tener reformas en otras partes del sistema, ya sea la economía, para que además te ayude a que eso funcione mejor. Entonces, la verdad es que recurrir a ese circo me parece nefasto. Y lo que uno tiene que mirar estas cosas, lo tiene que mirar desde una perspectiva estructural, no desde la perspectiva puntual. Porque, ojo, porque en realidad lo que le pasó a Bernie, siendo una de las personas que más contacto tiene con la gente... están dejando de manifiesto básicamente el hartazgo que tiene la gente con los políticos. Esto es un tema muy delicado, te lo aclaro porque es un tema delicado. A ver, la gente está harta de los políticos. Es decir, acá lo que hay que entender es esto. Argentina entró en el siglo XX siendo el país más rico del mundo. Hoy está a ciento cuarenta al tipo de cambio paralelo. Tenés cuarenta por ciento de pobres, diez por ciento indigentes, que significa que en el país de los alimentos, que se produce alimentos para cuatrocientos millones de seres humanos, que la presión fiscal es del sesenta por ciento en el campo, en realidad es más. Quiere decir que el Estado se lleva el alimento de doscientos cuarenta millones de seres humanos Y hay cinco millones de argentinos que no le alcanza para comer. Listo, ahí tenés un problema grave. Y ¿sabés lo que está pasando? Que la gente se da cuenta. Se está dando cuenta que los políticos son los enemigos. No la política, los políticos. Entonces, ¿qué es lo que pasa? No pueden pisar el territorio, se los comen crudos. Es decir, si son conocidos, son hinchados. Porque la gente se dio cuenta que vos te rompes el lomo laburando todo y cada vez te va peor. y los únicos tipos que progresan acá son los políticos. Frente a esa situación, por eso nunca hay que subestimar al kiserismo, rápido de reflejos, ¿qué hizo? Fue, salió de una manera... Verdaderamente bestial contra los colectiveros. Una cosa verdaderamente demencial. Y después sale con esto. Es decir, lo que está diciendo es... No se te ocurra tocarle el poder a la política, o a los políticos en realidad, porque te van a caer con todo el peso de la violencia del Estado. Eso es lo que está diciendo eso. Eso es lo que está diciendo la respuesta posterior a lo que le pasó a Bernie en la calle. Eso es lo que está mostrando ese cacheo. Es la respuesta de la casta política frente a una situación donde ven amenazado su fuente de ingresos. Porque es lo que hay que entender. Para los políticos esto es una fuente de ingresos. Se pueden prestar el poder con los de enfrente. Pero ninguno suelta el queso. ¿Tendrán un queso más grande o más chico? Pero no lo sueltan. Y ese es el problema que tienen conmigo. Que yo vengo a dinamitar el sistema de... digamos, de beneficios que tiene esta casta.',
+  'role': 'assistant'},
+ {'content': '¿Vincular a Patricia Bullrich como lo intentaron hacer Kicillof?',
+  'role': 'user'},
+ {'content': 'No, no, me parece irritante. Me parece irritante. Esto es independiente del vínculo que yo pueda tener con la señora Bullrich. Es un disparate. Sea acusen a Burrich o a quien sea. ¿Me comprendés? O sea, es demente. Es decir, frente al problema que ellos no pueden resolver, un problema de seguridad, culpar a otro. Esto es una locura. Es decir, pero lo viven haciendo. O no viven con el ápero Macri. Es decir, viven, digamos, proyectando afuera. Siempre la culpa es del otro. No, no es la culpa del otro. Son unos inútiles. A ver... Recién ahora, igual la oposición también tiene su cosita, ¿no? Recién ahora se dan cuenta que Kicillof es un inútil. Hay un libro que yo publiqué allá por... ...en el año dos mil quince, una cosa así, se llama Lectura de Economía en Tiempo del Kirchnerismo. Una de las cosas que hice fue el contrafáctico de lo que nos costó Kicillof. en términos de mal manejo de la economía. Tomé toda la evidencia empírica en términos de crecimiento, extraído de las lecturas de Lionel Robbins, que protagonizó Roberto Arro. E hice cuánto debería estar el PBI per cápita en Argentina y cuánto estaba. Bueno, digo, todo eso era Kicillof. O sea, y tienen un montón de esos efectos. ¿Querés que te diga otro? Hay otro que yo lo llamé, que es un paper que me lo censuraron, porque yo desde el dos mil siete le empecé a pegar fuerte al kicerismo, que se llamaba sobre el efecto Zeta. que era el efecto Zaffaroni. En general, lo que vos ves, ahí tengo un trabajo que publiqué en su momento con un colega que se llama Pérez Gabilondo, donde analizábamos las políticas de represión y del delito en la Argentina. Y una de las cosas que vos veías es cómo conforme se te acomoda la actividad económica, la delincuencia te empieza a caer, porque el costo de oportunidad es cada vez más grande. Entonces, ¿qué es lo que sucede? En ese contexto, lo que vos ves es que a la luz de cómo estaba rebotando la actividad económica después de la crisis del dos mil uno o dos mil dos, la delincuencia se tenía que estar cayendo. Y aparece Zafaron en la corte y en realidad el resultado fue... Y porque le licuó el costo a los delincuentes. Es decir, puso, digamos que esto no es nuevo, esto se hizo en Nueva York en la década del sesenta, que es poner a la víctima en el rol de victimario y viceversa.',
+  'role': 'assistant'},
+ {'content': 'Viste que hoy volvió a aparecer hablando de un posible indulto a Cristina.',
+  'role': 'user'},
+ {'content': 'Pero todo lo que dice ese hombre es nefasto. Todo lo que dice ese hombre es nefasto. Es decir, casi te diría que como regla, si Zaffaroni dice blanco, hace negro.',
+  'role': 'assistant'},
+ {'content': 'Cuando hablamos de lo que viene y este contexto, hay mucho movimiento, ¿crees que puede venir justicia por mano propia a partir de lo que pasó en La Matanza?',
+  'role': 'user'},
+ {'content': 'No lo descarto.', 'role': 'assistant'},
+ {'content': '¿Lo ves riesgoso?', 'role': 'user'},
+ {'content': 'Obviamente, estás frente a un Estado fallido. A ver, el Estado argentino es una gran farsa. O sea, una forma que vos podés interpretar el Estado es como un seguro. Ahora, ¿cuál es el problema en Argentina? Que es un seguro caro, o sea, la prima es carísima. Y frente al siniestro, nunca responde. Llámese seguridad. La Argentina es un baño de sangre. Llámese educación. Argentina es desastroso el desempeño que tiene las pruebas PISA hace años. Nos han echado en un momento por fraguar la muestra. Hoy vos tenés, básicamente, en pobreza educativa en Argentina, el sesenta por ciento de los chicos. O sea, el sesenta por ciento de los chicos no lee ni entiende lo que está en el texto. O sea, otro fracaso. Otro fracaso es la salud. No te dijeron el Estado presente, el Estado te cuida. Si hubiéramos hecho las cosas como un país mediocre durante la pandemia, hubiéramos tenido treinta mil muertos. Tuvimos ciento treinta mil. Es decir, esos cien mil Se llama Estado presente. Entonces, todo lo que hace el Estado lo hace mal. Otro escándalo, un escándalo más grande que el de las jubilaciones. Es decir, dejarle la caja de las jubilaciones al Estado te hizo otro desastre. Y la gente se empezó a dar cuenta, porque en este contexto a los únicos que le va bien es a los políticos. Y esto no es... Ni populismo de derecha, como verretamente dicen algunos dirigentes muy poco formados o muy débiles.',
+  'role': 'assistant'},
+ {'content': '¿A quién te referís concretamente?', 'role': 'user'},
+ {'content': 'Junto por el cambio, esta referencia de populismo de derecha...',
+  'role': 'assistant'},
+ {'content': 'Pero ahí, por ejemplo, Ritondo dice que te quiere sumar.',
+  'role': 'user'},
+ {'content': 'No, Ritondo no está ahí, pero por ejemplo, Larreta, Vidal, hay un montón. Los que vos llamás palomitas. Claro. Entonces, ellos dicen que el populismo de derecha es la antipolítica. Si el político que vos tenés enfrente es un chorro, un delincuente, un tirano, ¿qué, te vas a quedar quietito? ¿Vas a dejar que te violen, que te ultrajen, que te arruinen la vida? Eso no es antipolítica. Antipolítica son estos tipos, ¿me entendés?, que erran sistemáticamente. Vidal, ¿de qué me venís a hablar de Vidal? Veinte años en el Estado, un inútil, es parte de este fracaso. La Reta, treinta años en el Estado, es parte de este fracaso. Morales, treinta y cuatro años, es parte de este fracaso. Carrió, es parte de toda esta democracia y venía de antes siendo parte del Poder Judicial en Chaco durante la dictadura. Es parte de este fracaso.',
+  'role': 'assistant'},
+ {'content': 'Te pongo un punto ahí. Carrió, por ejemplo, denunció la corrupción del kirchnerismo.',
+  'role': 'user'},
+ {'content': 'Sí, y también fue cómplice del kirchnerismo para que entre, digamos, Néstor Kirchner.',
+  'role': 'assistant'},
+ {'content': 'Con lo cual, vamos, dale, ¿de qué lado estás? Porque fue cómplice.',
+  'role': 'user'},
+ {'content': 'Ah, ¿no? Digamos, mirá, están las fotos y todo de Carrió, digamos, puesta del lado de Kirchner en lo que fue la elección del dos mil tres. ¿De qué estamos hablando?',
+  'role': 'assistant'},
+ {'content': 'Hablando de lo que viene, hoy por hoy comentamos mucho que las encuestas de Juntos por el Cambio, las encuestas de Frente de Todos, te marcan subiendo. Muchos que nos miran se enojan cuando damos este dato y dicen que estás operando. ¿Qué pasa si eso es realidad? ¿Qué pasa si ese número te lleva a la presidencia? Te voy a hacer preguntas concretas.',
+  'role': 'user'},
+ {'content': 'Vamos a dos elementos porque esto me parece muy importante. La primera es, yo tengo buena relación con Cristian, porque tengo que tratar con él en la cámara. Pero yo creo que no debo estar dentro de Juntos por el Cambio.',
+  'role': 'assistant'},
+ {'content': '¿Por qué?', 'role': 'user'},
+ {'content': 'Primero porque tengo imposibilidad de consenso con la izquierda, ya sea la Unión Cívica Radical, que es parte de la Internacional Socialista, o sea, es...',
+  'role': 'assistant'},
+ {'content': 'Lo ves como izquierda en tu mapa.', 'role': 'user'},
+ {'content': 'No, para la Internacional Socialista, ¿qué? Liberal, dale.',
+  'role': 'assistant'},
+ {'content': 'No, pero hasta ahora era centro, ¿no? No, ¿qué centro? Los radicales, pero tienen determinados valores que por ahí...',
+  'role': 'user'},
+ {'content': 'No, son la Internacional Socialista, son zurdos. Dos, Carrió es un desprendimiento por izquierda del radicalismo.',
+  'role': 'assistant'}]
+```
 
 ## 💡 Algunas notas
 

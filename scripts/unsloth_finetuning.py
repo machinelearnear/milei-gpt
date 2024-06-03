@@ -14,7 +14,7 @@ import yaml
 def parse_args():
     arg_parser = argparse.ArgumentParser(description='Run finetuning with specified parameters.')
     arg_parser.add_argument('--hf_token', type=str, required=True, help='HuggingFace token')
-    arg_parser.add_argument('--config', type=str, default="llama_3_8b_unsloth_finetuning", help='Path to the YAML config file')
+    arg_parser.add_argument('--config', type=str, default="unsloth_finetuning_config.yaml", help='Path to the YAML config file')
     return arg_parser.parse_args()
 
 # function to read yaml file
@@ -70,6 +70,7 @@ def main():
     optim = config['optim']
     logging_steps = config['logging_steps']
     warmup_steps = config['warmup_steps']
+    chat_template = config['chat_template']
 
     # Print the values to verify (remove these prints in actual execution)
     print(f"HuggingFace Token: {args.hf_token}")
@@ -87,6 +88,7 @@ def main():
     print(f"Logging Steps: {logging_steps}")
     print(f"Gradient Checkpointing: {use_gradient_checkpointing}")
     print(f"Warm-up steps: {warmup_steps}")
+    print(f"Chat template: {chat_template}")
 
     model, tokenizer = FastLanguageModel.from_pretrained(
         model_name=model_id,
@@ -119,13 +121,13 @@ def main():
     def formatting_prompts_func(examples):
         convos = examples["messages"]
         texts = [tokenizer.apply_chat_template(convo, tokenize=False, add_generation_prompt=False) for convo in convos]
-        return {"text": texts}
+        return {"text": texts, }
     
     from unsloth.chat_templates import get_chat_template
 
     tokenizer = get_chat_template(
         tokenizer,
-        chat_template="llama-3",
+        chat_template=chat_template,
     )
 
     dataset = load_dataset(huggingface_dataset, split="train")
@@ -186,7 +188,7 @@ def main():
 
     tokenizer = get_chat_template(
         tokenizer,
-        chat_template="llama-3",
+        chat_template="phi-3",
         map_eos_token=True,
     )
 
