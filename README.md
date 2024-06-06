@@ -13,8 +13,9 @@ Este repo es una excusa para aprender a preparar un dataset para fine-tunear alg
 - https://huggingface.co/machinelearnear/mistral-7b-instruct-v0.3-bnb-4bit-milei-gpt
 - https://huggingface.co/machinelearnear/Phi-3-mini-4k-instruct-milei-gpt
 - https://huggingface.co/machinelearnear/Phi-3-medium-4k-instruct-milei-gpt
-### 🛠 **Inferencia** 
-- Si querés probar como funciona, podés seguir los pasos [de esta notebook](./notebooks/milei-gpt-inference.ipynb) cambiando el `model_name` por el del modelo que quieras usar eg `model_name = "machinelearnear/Phi-3-medium-4k-instruct-milei-gpt"`. Te va a abrir una UI de Gradio donde podés hablar directamente con el modelo. Funciona en Google Colab.
+### 🛠 **Notebook & Colab** 
+- https://colab.research.google.com/github/machinelearnear/milei-gpt/blob/main/notebooks/milei-gpt-inference.ipynb
+- Si querés probar como funciona, podés seguir los pasos [de esta notebook](./notebooks/milei-gpt-inference.ipynb) cambiando el `model_name` por el del modelo que quieras usar eg `model_name = "machinelearnear/Phi-3-medium-4k-instruct-milei-gpt"`. Te va a abrir una UI de Gradio donde podés hablar directamente con el modelo.
 
 ![Milei-GPT Chatbot](img/chatbot.png)
 
