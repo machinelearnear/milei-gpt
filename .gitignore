@@ -7,9 +7,14 @@ scripts/temp_outputs
 scripts/pretrained_models
 scripts/lora_model
 scripts/outputs
+scripts/model
 notebooks/lora_model
 notebooks/outputs
 *llama-3-8b-machinelearnear-milei-gpt
+*_unsloth_*
+*YOUR_CACHE_DIR*
+*your-cache-dir*
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -71,9 +71,14 @@ def main():
     logging_steps = config['logging_steps']
     warmup_steps = config['warmup_steps']
     chat_template = config['chat_template']
-
-    # Print the values to verify (remove these prints in actual execution)
-    print(f"HuggingFace Token: {args.hf_token}")
+    
+    merged_16bit = config.get('merged_16bit', False)
+    merged_4bit = config.get('merged_4bit', False)
+    lora = config.get('lora', False)
+    f16 = config.get('f16', False)
+    q4_k_m = config.get('q4_k_m', False)
+    
+    print(f"HF Token: {args.hf_token}")
     print(f"System Message: {system_message}")
     print(f"Max Sequence Length: {max_seq_length}")
     print(f"Model ID: {model_id}")
@@ -188,7 +193,7 @@ def main():
 
     tokenizer = get_chat_template(
         tokenizer,
-        chat_template="phi-3",
+        chat_template=chat_template,
         map_eos_token=True,
     )
 
@@ -209,6 +214,35 @@ def main():
 
     model.save_pretrained("lora_model")
     model.push_to_hub(output_model_id, token=args.hf_token)
+    
+    # saving to float16 for VLLM
+    
+    # merge to 16bit
+    if merged_16bit: model.save_pretrained_merged("model", tokenizer, save_method = "merged_16bit",)
+    if merged_16bit: model.push_to_hub_merged(f"machinelearnear/{output_model_id}_merged_16bit", tokenizer, save_method = "merged_16bit", token=args.hf_token)
+
+    # merge to 4bit
+    if merged_4bit: model.save_pretrained_merged("model", tokenizer, save_method = "merged_4bit",)
+    if merged_4bit: model.push_to_hub_merged(f"machinelearnear/{output_model_id}_merged_4bit", tokenizer, save_method = "merged_4bit", token=args.hf_token)
+
+    # just LoRA adapters
+    if lora: model.save_pretrained_merged("model", tokenizer, save_method = "lora",)
+    if lora: model.push_to_hub_merged(f"machinelearnear/{output_model_id}_lora", tokenizer, save_method = "lora", token=args.hf_token)
+    
+    # GGUF / llama.cpp conversion
+    
+    # save to 8bit Q8_0
+    if False: model.save_pretrained_gguf("model", tokenizer,)
+    if False: model.push_to_hub_gguf(f"machinelearnear/{output_model_id}", tokenizer, token=args.hf_token)
+
+    # save to 16bit GGUF
+    if f16: model.save_pretrained_gguf("model", tokenizer, quantization_method = "f16")
+    if f16: model.push_to_hub_gguf(f"machinelearnear/{output_model_id}_gguf_f16", tokenizer, quantization_method = "f16", token=args.hf_token)
+
+    # save to q4_k_m GGUF
+    if q4_k_m: model.save_pretrained_gguf("model", tokenizer, quantization_method = "q4_k_m")
+    if q4_k_m: model.push_to_hub_gguf(f"machinelearnear/{output_model_id}_gguf_q4_k_m", tokenizer, quantization_method = "q4_k_m", token=args.hf_token)
+    
 
 if __name__ == '__main__':
     main()

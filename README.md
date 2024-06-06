@@ -14,7 +14,9 @@ Este repo es una excusa para aprender a preparar un dataset para fine-tunear alg
 - https://huggingface.co/machinelearnear/Phi-3-mini-4k-instruct-milei-gpt
 - https://huggingface.co/machinelearnear/Phi-3-medium-4k-instruct-milei-gpt
 ### 🛠 **Inferencia** 
-- Si querés probar como funciona, podés seguir los pasos [de esta notebook](./notebooks/llama-3-8b-unsloth-chat-template-inference.ipynb) cambiando el `model_name` por el del modelo que quieras usar eg `model_name = "machinelearnear/Phi-3-medium-4k-instruct-milei-gpt"`. 
+- Si querés probar como funciona, podés seguir los pasos [de esta notebook](./notebooks/milei-gpt-inference.ipynb) cambiando el `model_name` por el del modelo que quieras usar eg `model_name = "machinelearnear/Phi-3-medium-4k-instruct-milei-gpt"`. Te va a abrir una UI de Gradio donde podés hablar directamente con el modelo. Funciona en Google Colab.
+
+![Milei-GPT Chatbot](img/chatbot.png)
 
 ## Paso a paso, que vamos a hacer
 - [X] Encontrar todas las entrevistas en YT de algún famoso/a y ponerlas en un `.csv`
@@ -23,7 +25,7 @@ Este repo es una excusa para aprender a preparar un dataset para fine-tunear alg
 - [X] Elegir un modelo base eg. `Llama3-8B` o `Phi-3-mini-128k-instruct`.
 - [X] Fine-tuning del LLM, evaluación/inferencia, y pushearlo a Huggingface.
 - [X] Procesar el dataset con un LLM para mejorar las conversaciones.
-- [ ] Armar un RAG indexando las entrevistas y meterle este LLM encima.
+- [ ] Armar un RAG indexando las entrevistas en una vector DB y usar nuestro LLM fine-tuneado encima.
 - [ ] Entrenar mas LLMs y que conversen entre si de forma autónoma ie. Multi-Agent Conversation.
 - [ ] Preparar un dataset de preferencias (ORPO, DPO) con `distilabel` o parecido.
 
@@ -32,7 +34,7 @@ Este repo es una excusa para aprender a preparar un dataset para fine-tunear alg
 [![#Milei-GPT: Fine-tuning con +300 horas de entrevistas (tutorial con repo incluido)](https://img.youtube.com/vi/bIZMgHK8Y-8/0.jpg)](https://www.youtube.com/watch?v=bIZMgHK8Y-8)
 
 ### Parte II: Fine-tuning e inferencia
-`pronto`
+[![#milei GPT PARTE 2: Fine-tuning, inferencia, post-procesamiento dataset (tutorial con repo incluido)](https://img.youtube.com/vi/lLpoJ6J0Mww/0.jpg)](https://www.youtube.com/watch?v=lLpoJ6J0Mww)
 
 ## Links para ir leyendo y tener en cuenta
 - https://www.philschmid.de/fine-tune-llms-in-2024-with-trl
@@ -43,9 +45,14 @@ Este repo es una excusa para aprender a preparar un dataset para fine-tunear alg
 - Synthetic datasets: https://github.com/e-p-armstrong/augmentoolkit, https://github.com/severian42/Vodalus-Expert-LLM-Forge, https://huggingface.co/blog/dvilasuero/synthetic-data-with-llama3-distilabel
 - Chat templating: https://huggingface.co/docs/transformers/main/en/chat_templating
 - Domain-specific datasets: https://huggingface.co/blog/burtenshaw/domain-specific-datasets. https://huggingface.co/spaces/argilla/domain-specific-datasets-welcome
-- https://www.reddit.com/r/LocalLLaMA/
+- Reddit: https://www.reddit.com/r/LocalLLaMA/
 - AI Agents: https://docs.crewai.com, https://github.com/Fus3n/TwoAI, https://github.com/microsoft/autogen
+- Multi Agent collaboration: https://github.com/langchain-ai/langgraph/blob/main/examples/multi_agent/multi-agent-collaboration.ipynb
 - Multi-LoRA Adapter hosting on single GPU: https://github.com/aws-samples/sagemaker-genai-hosting-examples/blob/main/Mistral/Mistral-7b/LMI/pef-lora/multi_adapter_hosting_sagemaker.ipynb, https://github.com/aws-samples/sagemaker-genai-hosting-examples/blob/main/Llama2/Llama2-7b/LMI/llama2-7b-multi-lora-adapters-sagemaker.ipynb
+- LoRA: https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch, https://sebastianraschka.com/blog/2023/llm-finetuning-lora.html
+- Preference Alignment: https://mlabonne.github.io/blog/posts/2024-04-19_Fine_tune_Llama_3_with_ORPO.html, https://huggingface.co/blog/dvilasuero/synthetic-data-with-llama3-distilabel.
+- Napkin math for fine-tuning (@johnowhitaker): https://x.com/HamelHusain/status/1798353336145674483
+- 🚜 DataGrower Pro - Grow your own datasets: https://colab.research.google.com/drive/1PjUq175BG0w1y9nCjxC7FQ3WuSS_xFBa
 
 ## 🛠 Buenos, vamos a arrancar, que necesitás?
 

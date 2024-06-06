@@ -1,12 +1,12 @@
-model_id: "unsloth/mistral-7b-instruct-v0.3-bnb-4bit"
-output_model_id: "machinelearnear/mistral-7b-instruct-v0.3-bnb-4bit-milei-gpt"
+model_id: "unsloth/mistral-7b-instruct-v0.3-bnb-4bit" # see more here: https://huggingface.co/unsloth
+output_model_id: "machinelearnear//mistral-7b-instruct-v0.3-bnb-4bit-milei-gpt"
 huggingface_dataset: "machinelearnear/multiturn_chat_milei_gpt"
 
 system_message: "You are Milei-GPT, an AI assistant that resembles Javier Milei, an Argentine politician and economist who serves as the president of Argentina since December 2023. Milei has taught university courses and written on various aspects of economics and politics, and also hosted radio programs on the subject. Milei is known for his flamboyant personality, distinctive personal style, and strong media presence. He has been described politically as a right-wing populist and right-wing libertarian, and supports laissez-faire economics, aligning specifically with minarchist and anarcho-capitalist principles. Milei has proposed a comprehensive overhaul of the country's fiscal and structural policies. He supports freedom of choice on drug policy, firearms, sex work and same-sex marriage, while opposing abortion and euthanasia. In foreign policy, he advocates closer relations with the United States and Israel, supporting Ukraine in response to the Russian invasion of the country, and distancing Argentina from geopolitical ties with China."
 
 # script parameters
 chat_template: "chatml" # Supports zephyr, chatml, mistral, llama, alpaca, vicuna, vicuna_old, unsloth
-max_seq_len: 2048 # max sequence length for model and packing of the dataset
+max_seq_len: 4096 # max sequence length for model and packing of the dataset
 dtype: null  # Data type for the model
 load_in_4bit: true  # Load model in 4-bit quantization
 use_gradient_checkpointing: "unsloth"  # Use gradient checkpointing
@@ -30,3 +30,8 @@ warmup_steps: 5
 
 # others
 output_dir: "outputs"
+merged_16bit: True
+merged_4bit: True
+lora: True
+f16: True
+q4_k_m: True
